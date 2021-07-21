@@ -955,10 +955,10 @@ def choices_setup():
             d['file_name'] = 'polling_data/' + c.lower() + '_polling.txt'
         if 'include' not in d:
             d['include'] = None
-        vlines: Dict[Date, str] = d['vlines']
         if 'vlines' not in d:
             d['vlines'] = None
-        elif vlines is not None:
+        elif d['vlines'] is not None:
+            vlines: Dict[Date, str] = d['vlines']
             d['vlines'] = {date_kit.date_dif(today, k): v for k, v in vlines.items()}
         if 'zeros' not in d:
             d['zeros'] = None
