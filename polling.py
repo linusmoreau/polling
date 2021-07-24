@@ -70,9 +70,12 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
         nline = line
         # print(rot, line, end='')
         if '===' in line:
-            year = line.strip().strip('=').strip()
-            if choice == 'Poland' and year == "2019":
+            year = line.strip('= \n')
+            if choice == 'Poland' and year == '2019':
                 key = ['United Right', 'Civic Coalition', 'The Left', 'Polish Coalition', 'Confederation']
+            elif choice == 'UK' and year == '2020':
+                date = 2
+                start = 5
         elif line[:2] == '|}':
             rot = None
         elif choice == 'Poland':
@@ -90,15 +93,19 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                 key = ['FG', 'FF', 'SF', 'Lab', 'PBP/S', 'SD', 'GP', 'O/I', 'O/I', 'O/I']
                 flag = True
         elif choice == 'Slovenia':
-            a = isdate(line)
-            if a is not None:
-                end = a
-                rot = 0
+            if line[0] != '|':
                 i += 1
                 continue
             else:
-                if prevline is not None and '||' in prevline:
-                    rot += 1
+                a = isdate(line)
+                if a is not None:
+                    end = a
+                    rot = 0
+                    i += 1
+                    continue
+                else:
+                    if prevline is not None and '||' in prevline:
+                        rot += 1
         elif choice == 'Netherlands':
             if '{{For|events during those years|2020 in the Netherlands|2019 in the Netherlands|' \
                    '2018 in the Netherlands|2017 in the Netherlands}}' in line:
@@ -122,7 +129,7 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                     if 'rowspan="2"' in prevline:
                         rot += 1
                 elif choice in ['Italy', 'Cyprus', 'Slovakia', 'Hungary', 'Ireland', 'Russia', 'Japan', 'Ontario',
-                                'Latvia']:
+                                'Latvia'] or (choice == 'UK' and date == 0):
                     line = prevline
                     if line[0] == '!':
                         rot = None
@@ -921,8 +928,8 @@ def choices_setup():
             'key': ['Conservative', 'Labour', 'Lib Dem', 'SNP', 'Green'],
             'col': {'Conservative': (0, 135, 220), 'Labour': (228, 0, 59), 'Lib Dem': (250, 166, 26),
                     'SNP': (253, 243, 142), 'Green': (106, 176, 35)},
-            'date': 2,
-            'start': 5,
+            'date': 0,
+            'start': 4,
             'vlines': {Date(2020, 4, 4): 'Starmer becomes Labour leader',
                        Date(2021, 5, 6): 'Local elections'},
             'restart': ['[http', '2019 general election'],
@@ -1429,7 +1436,7 @@ class MenuPage:
             b.callback(functools.partial(GraphPage, entry, to_end_date=True))
             img_path = 'images/flags/' + entry.lower() + '.png'
             try:
-                img = Image((b.rect.centerx + b.rect.w / 8, b.rect.centery), (b.rect.h * 3 / 4, b.rect.h * 3 / 4),
+                img = Image((b.rect.centerx + b.rect.w / 8, b.rect.centery), (b.rect.w * 3 / 8, b.rect.h * 3 / 4),
                             img_path, align=LEFT)
                 b.components.append(img)
             except FileNotFoundError:
