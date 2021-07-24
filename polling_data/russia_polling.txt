@@ -20,6 +20,18 @@
 |bgcolor={{Yabloko/meta/color}}|
 |bgcolor={{Russian Party of Pensioners for Social Justice/meta/color}}|
 |-
+|11 July
+|[https://media.fom.ru/fom-bd/d272021pi.pdf FOM]
+|style="background:#B3E0FF" |'''31%'''||'''11%'''||'''10%'''||'''6%'''||1%||1%||4%||15%||19%
+|style="background:#0C2C84; color:white;"|20%
+|-
+|11 July
+|[https://wciom.ru/ratings/reiting-politicheskikh-partii/ WCIOM]
+|style="background:#B3E0FF" |'''28.3%'''||'''13.6%'''||'''10.5%'''||'''7.0%'''
+| -
+| -||13.4%||14.2%||11%
+|style="background:#0C2C84; color:white;"|14.7%
+|-
 |8-11 July
 |[https://wciom.ru/analytical-reviews/analiticheskii-obzor/default-402e3320c1 WCIOM]
 |style="background:#B3E0FF" |'''28.0%'''||'''13.0%'''||'''11.0%'''||'''7.0%'''||3.8%||3.0%||8.3%||10.0%||14.0%

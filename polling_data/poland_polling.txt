@@ -24,6 +24,32 @@
 ! data-sort-type="number" style="height:1px; background:{{Confederation Liberty and Independence/meta/color}};" |
 ! data-sort-type="number" style="height:1px; background:#F9C013;"|
 |-
+| [https://wyborcza.pl/7,162657,27359391,coraz-mniejsza-roznica-miedzy-pis-a-koalicja-obywatelska-nowy.html Research Partner]
+| data-sort-value="2021-07-19" | 16–19 Jul 2021
+| 1,051
+| style="background:#C0DBFC;" | '''30.2'''
+| 24.1
+| 7.5
+| 1.8
+| 1.7
+| 5.9
+| 17.4
+| 11.4
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''6.1'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/559655-sondaz-tusk-podniosl-platforme-ale-holowni-nie-zabil Social Changes / wPolityce.pl]
+| data-sort-value="2021-07-19" | 16–19 Jul 2021
+| 1,049
+| style="background:#C0DBFC;" | '''34'''
+| 25
+| 8
+| 2
+| 2
+| 9
+| 19
+| 1
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''9'''
+|-
 | [https://wiadomosci.radiozet.pl/Polska/Polityka/KO-rosnie-i-dogania-PiS.-Efekt-Tuska-widoczny-w-nowym-sondazu-Kantar Kantar]
 | data-sort-value="2021-07-14" | 9–14 Jul 2021
 | 969

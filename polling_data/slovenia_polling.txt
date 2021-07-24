@@ -63,19 +63,28 @@ Poll results are listed in the table in reverse chronological order, showing the
 !colspan="3"|(47.4)
 ! style="background:{{Slovenian Democratic Party/meta/color}}"|12.3
 |-
-|Jul 2021
+|13–15 Jul 2021
 |Ninamedia
 |[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
 |700
 |style="background:#FFFFBF" |'''18.2'''
+{{font|size=75%|font=Verdana|text=28}}
 |9.2
+{{font|size=75%|font=Verdana|text=14}}
 |12.7
+{{font|size=75%|font=Verdana|text=19}}
 |0.3
+{{font|size=75%|font=Verdana|text=28}}
 |10.1
+{{font|size=75%|font=Verdana|text=15}}
 |4.7
+{{font|size=75%|font=Verdana|text=7}}
 |3.6
+{{font|size=75%|font=Verdana|text=5}}
 |0.7
+{{font|size=75%|font=Verdana|text=0}}
 |0.6
+{{font|size=75%|font=Verdana|text=0}}
 |–
 |–
 |–
@@ -85,7 +94,7 @@ Poll results are listed in the table in reverse chronological order, showing the
 |29.6
 |6.5
 |style="background:{{Slovenian Democratic Party/meta/color}}" |5.5
-|<ref>{{Cite web|title=Vox populi: Vetra v jadra opozicijskim strankam|url=https://www.dnevnik.si/1042959399|access-date=2021-07-18|website=Dnevnik}}</ref>
+|<ref>{{Cite web|title=Vox populi: Vetra v jadra opozicijskim strankam|url=https://www.dnevnik.si/1042959399|access-date=2021-07-18|website=Dnevnik}}</ref><ref>{{Cite web|title=Aktualna vprašanja – jul 2021 – Ninamedia|url=http://ninamedia.si/arhivi/815|access-date=2021-07-23|language=sl-SI}}</ref>
 |-
 |data-sort-value="2021-07-07"|5–7 Jul 2021
 |Mediana || [[Delo (newspaper)|''Delo'']]

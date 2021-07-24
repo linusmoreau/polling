@@ -44,6 +44,21 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 14.5
 |-
+| ProRata/Efimerida ton Sintakton<ref>{{Cite web|last=Team|first=ΤοΒΗΜΑ|date=2021-07-19|title=Δημοσκόπηση: Πτώση της ΝΔ λόγω πανδημίας – Στις δέκα μονάδες η διαφορά από ΣΥΡΙΖΑ|url=https://www.tovima.gr/2021/07/19/politics/dimoskopisi-ptosi-tis-nd-logo-pandimias-stis-deka-monades-i-diafora-apo-syriza/|access-date=2021-07-22|website=Ειδήσεις - νέα - Το Βήμα Online|language=el}}</ref><ref>{{Cite web|last=Newsroom|title=Δημοσκόπηση Prorata: Το 75% διαφωνεί με τα νέα μέτρα για τους ανεμβολίαστους|url=https://www.ieidiseis.gr/ellada/102317/dimoskopisi-prorata-to-75-diafonei-me-ta-nea-metra-gia-tous-anemvoliastous|access-date=2021-07-22|website=www.ieidiseis.gr|language=el-gr}}</ref>
+| 7–11 July 2021
+| 1,735
+| {{Party shading/ND}}| '''41.3'''
+| 29.3
+| 8.4
+| 4.8
+| 3.6
+| 3.0
+| –
+| –
+| –
+| –
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 12.0
+|-
 | GPO/ANT1<ref>{{Cite web|date=2021-07-13|title=GPO: Προβάδισμα για τη ΝΔ και κυριαρχία του Κυρ. Μητσοτάκη|url=https://www.powergame.gr/ellada/98658/gpo-provadisma-gia-ti-nd-kai-kyriarchia-tou-kyr-mitsotaki/|access-date=2021-07-13|website=PowerGame|language=el}}</ref><ref>{{Cite web|date=2021-07-13|title=Δημοσκόπηση GPO: Δένδιας, Πιερρακάκης και Κικίλιας έχουν κερδίσει την εμπιστοσύνη των πολιτών|url=https://www.parapolitika.gr/politiki/article/1127251/dimofilia-upourgon-dendias-pierrakakis-kai-kikilias-ehoun-kerdisei-tin-ebistosuni-tou-kosmou/|access-date=2021-07-13|website=www.parapolitika.gr|language=el}}</ref>
 | 7–11 July 2021
 | 1,000
@@ -68,10 +83,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.2
 | 4.2
 | 3.6
-| –
-| –
-| –
 | 1.4
+| –
+| –
+| –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 15.3
 |-
 | Opinion Poll/tomanifesto.gr<ref>{{Cite web|date=2021-07-08|title=Δημοσκόπηση Opinion Poll: Στις 16,5 μονάδες η διαφορά ΝΔ-ΣΥΡΙΖΑ - Μερικώς υποχρεωτικό εμβόλιο θέλουν δύο στους τρεις|url=https://www.protothema.gr/files/2021-07-08/%CE%91%CE%A0%CE%9F%CE%A4%CE%95%CE%9B%CE%95%CE%A3%CE%9C%CE%91%CE%A4%CE%91_%CE%A0%CE%9F%CE%9B%CE%99%CE%A4%CE%99%CE%9A%CE%97%CE%A3_%CE%95%CE%A1%CE%95%CE%A5%CE%9D%CE%91%CE%A3_%CE%93%CE%99%CE%91_tomanifesto_gr.pdf|url-status=live|access-date=2021-07-09|website=ProtoThema|language=el}}</ref>

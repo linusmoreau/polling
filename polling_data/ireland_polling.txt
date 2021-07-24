@@ -41,7 +41,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |7
 |-
 |13 July 2021
-|Behavoir and Attiitudes/The Sunday Times
+|Behaviour and Attitudes/The Sunday Times
 |1,001
 |style="background:#D7ECEA"|'''30'''
 |20
@@ -93,7 +93,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |8
 |-
 |data-sort-value="2021-06-08"|8 June 2021
-|data-sort-value="B&A08"|[[The Times, Ireland edition|Behavior and Attitudes/The Sunday Times]]<ref group="p">{{Cite web|last=Lehane|first=Mícheál|date=2021-06-12|title=SF increases support in last month, poll suggests|url=https://www.rte.ie/news/politics/2021/0612/1227770-sf-increases-support-in-last-month-poll-suggests/|url-status=live|access-date=13 June 2021|website=[[RTÉ]]|language=en}}</ref>
+|data-sort-value="B&A08"|[[The Times, Ireland edition|Behaviour and Attitudes/The Sunday Times]]<ref group="p">{{Cite web|last=Lehane|first=Mícheál|date=2021-06-12|title=SF increases support in last month, poll suggests|url=https://www.rte.ie/news/politics/2021/0612/1227770-sf-increases-support-in-last-month-poll-suggests/|url-status=live|access-date=13 June 2021|website=[[RTÉ]]|language=en}}</ref>
 |909
 |style="background:#D7ECEA"|'''34'''
 |20

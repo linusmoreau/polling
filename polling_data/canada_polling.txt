@@ -27,17 +27,23 @@
 ! style="background:{{Canadian party colour|CA|Green}}" data-sort-type="number"|
 ! style="background:{{Canadian party colour|CA|PPC}}" data-sort-type="number"|
 |-
+| Innovative Research || {{dts|July 21, 2021}} || [https://innovativeresearch.ca/wp-content/uploads/2021/07/CTM2107-Harper-Report-v06-RELEASE.pdf PDF] || 27 || {{Party shading/Liberal}}|'''41''' || 17 || 6 || 5 || 3 || 1 || {{n/a}} || 834 || online || {{Party shading/Liberal}}|'''14'''
+|-
+| [[Ekos Research Associates|EKOS]] || {{dts|July 21, 2021}} || [https://www.ekospolitics.com/index.php/2021/07/political-landscape-on-verge-of-potential-election/ HTML] || 27.7 || {{Party shading/Liberal}}|'''35.2''' || 18.5 || 5.6 || 5.2 || 4.5 || 3.2 || ±2.2 pp || 1,934 || IVR || {{Party shading/Liberal}}|'''7.5'''
+|-
+| [[Léger Marketing|Leger]] || {{dts|July 18, 2021}} || [https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/Legers-North-American-Tracker-July-21st-2021.pdf PDF] || 29 || {{Party shading/Liberal}}|'''34''' || 22 || 7 || 4 || 3 || 1 || ±2.15 pp || 2,069 || online || {{Party shading/Liberal}}|'''5'''
+|-
 | [[Angus Reid (market research)#The Angus Reid Institute|Angus Reid]] || {{dts|July 16, 2021}} || [https://angusreid.org/federal-politics-pre-writ-2021/ HTML] || 31 || {{Party shading/Liberal}}|'''33''' || 20 || 7 || 3 || 4 || 2 || ±2.0 pp || 1,625 || online || {{Party shading/Liberal}}|'''2'''
 |-
-| [[Nanos Research]] || {{dts|July 9, 2021}} || [https://web.archive.org/web/20210719052921/https://www.hilltimes.com/2021/07/19/longer-writ-period-preferred-by-elections-canada-chief-could-hurt-liberal-prospects-pollsters-say/306874 HTML] || 23.9 || {{Party shading/Liberal}}|'''37.8''' || 21.3 || {{n/a}} || 6.5 || {{n/a}} || {{n/a}} || ±3.0 pp || 1,000 (1/4) || telephone (rolling) || {{Party shading/Liberal}}|'''13.9'''
+| [[Nanos Research]] || {{dts|July 9, 2021}} || [https://web.archive.org/web/20210719052921/https://www.hilltimes.com/2021/07/19/longer-writ-period-preferred-by-elections-canada-chief-could-hurt-liberal-prospects-pollsters-say/306874 HTML] || 23.9 || {{Party shading/Liberal}}|'''37.8''' || 21.3 || {{n/a}} || 6.5 || {{n/a}} || {{n/a}} || ±3.1 pp || 1,000 (1/4) || telephone (rolling) || {{Party shading/Liberal}}|'''13.9'''
 |-
 | [[Léger Marketing|Leger]] || {{dts|July 4, 2021}} || [https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/Legers-North-American-Tracker-July-5th-2021.pdf PDF] || 30 || {{Party shading/Liberal}}|'''33''' || 19 || 7 || 5 || 4 || 2 || ±2.52 pp || 1,518 || online || {{Party shading/Liberal}}|'''3'''
 |-
-| [[Nanos Research]] || {{dts|July 2, 2021}} || [https://web.archive.org/web/20210709152857/https://www.theglobeandmail.com/opinion/article-data-dive-with-nik-nanos-is-now-the-right-time-for-an-election/ HTML] || 23.6 || {{Party shading/Liberal}}|'''38.1''' || 20.4 || 5.1 || 7.5 || 4.3 || {{n/a}} || ±3.0 pp || 1,005 (1/4) || telephone (rolling) || {{Party shading/Liberal}}|'''14.5'''
+| [[Nanos Research]] || {{dts|July 2, 2021}} || [https://web.archive.org/web/20210709152857/https://www.theglobeandmail.com/opinion/article-data-dive-with-nik-nanos-is-now-the-right-time-for-an-election/ HTML] || 23.6 || {{Party shading/Liberal}}|'''38.1''' || 20.4 || 5.1 || 7.5 || 4.3 || {{n/a}} || ±3.1 pp || 1,000 (1/4) || telephone (rolling) || {{Party shading/Liberal}}|'''14.5'''
 |-
 | [[Abacus Data]] || {{dts|June 30, 2021}} || [https://abacusdata.ca/2021-liberals-ahead-conservatives-low/ HTML] || 25 || {{Party shading/Liberal}}|'''37''' || 20 || 7 || 6 || 3 || 1 || ±2.6 pp || 1,500 || online || {{Party shading/Liberal}}|'''12'''
 |-
-| [[Nanos Research]] || {{dts|June 25, 2021}} || [https://web.archive.org/web/20210709152857/https://www.theglobeandmail.com/opinion/article-data-dive-with-nik-nanos-is-now-the-right-time-for-an-election/ HTML] || 24.7 || {{Party shading/Liberal}}|'''37.1''' || 19.3 || 5.8 || 7.9 || 4.1 || {{n/a}} || ±3.0 pp || 1,000 (1/4) || telephone (rolling) || {{Party shading/Liberal}}|'''12.4'''
+| [[Nanos Research]] || {{dts|June 25, 2021}} || [https://web.archive.org/web/20210709152857/https://www.theglobeandmail.com/opinion/article-data-dive-with-nik-nanos-is-now-the-right-time-for-an-election/ HTML] || 24.7 || {{Party shading/Liberal}}|'''37.1''' || 19.3 || 5.8 || 7.9 || 4.1 || {{n/a}} || ±3.1 pp || 1,000 (1/4) || telephone (rolling) || {{Party shading/Liberal}}|'''12.4'''
 |-
 | [[Ipsos]] || {{dts|June 22, 2021}} || [https://www.ipsos.com/en-ca/news-polls/Liberals-Support-Plateaus-Back-Vaccination-Programme HTML] || 26 || {{Party shading/Liberal}}|'''38''' || 20 || 8 || 7 || 1 || 1 || ±2.9 pp || 1,501 || online/telephone || {{Party shading/Liberal}}|'''12'''
 |-
@@ -195,7 +201,7 @@
 |-
 | Campaign Research || {{dts|January 30, 2021}} || [https://www.campaignresearch.com/single-post/national-omnibus-study-february-2021 HTML] || 30 || {{Party shading/Liberal}}|'''34''' || 19 || 6 || 8 || {{n/a}} || 3 || ±2 pp || 2,413 || online || {{Party shading/Liberal}}|'''4'''
 |-
-|[[Nanos Research]]||{{dts|January 29, 2021}}||[https://www.ctvnews.ca/video?clipId=2134763 HTML] || 30.3 || {{Party shading/Liberal}}|'''35.0''' ||  15.5 || 8.5 ||  7.4 || 2.5 || {{n/a}} || ±3.0 pp || 1,126 (1/4) || telephone (rolling) || {{Party shading/Liberal}}|'''4.7'''
+|[[Nanos Research]]||{{dts|January 29, 2021}}||[https://www.ctvnews.ca/video?clipId=2134763 HTML] || 30.3 || {{Party shading/Liberal}}|'''35.0''' ||  15.5 || 8.5 ||  7.4 || 2.5 || {{n/a}} || ±3.1 pp || 1,000 (1/4) || telephone (rolling) || {{Party shading/Liberal}}|'''4.7'''
 |-
 | [[Ekos Research Associates|EKOS]] || {{dts|January 27, 2021}} || [https://www.ekospolitics.com/index.php/2021/01/liberals-hold-steady-lead/ HTML] || 30.9 || {{Party shading/Liberal}}|'''34.3''' || 15.0 || 5.7 || 7.7 || 3.7 || 2.7 || ±0.8 pp || 8,575 || IVR (rolling) || {{Party shading/Liberal}}|'''3.4'''
 |-

@@ -208,6 +208,27 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 5.2
 |-
+| Simple Lógica<ref name="SLJul21">{{cite web |title=Intención de voto y valoración de líderes políticos (julio 2021) |url=https://www.simplelogica.com/es/intencion-de-voto-y-valoracion-de-lideres-politicos-julio-2021/ |language=es |work=Simple Lógica |date=23 July 2021}}</ref>
+| 5–12 Jul 2021
+| 1,076
+| 64.9
+| 23.0
+| {{Party shading/PP}}| '''26.9'''
+| 17.4
+| 12.1
+| 2.4
+| –
+| 3.5
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.9
+|-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (11J): subida del PSOE tras la remodelación ministerial |url=https://electomania.es/ep11jl21/ |language=es |work=Electomanía |date=11 July 2021}}</ref>
 | 8–10 Jul 2021
 | 1,883

@@ -32,6 +32,41 @@
 ! style="background:{{Italia Viva/meta/color}};"|
 ! style="background:{{Coraggio Italia/meta/color}};"|
 |-
+|21-22 Jul
+|[https://www.istitutoixe.it/2021/07/23/intenzioni-di-voto-23-luglio-2021// Ixè]
+|1,000
+|17.3
+|19.2
+|style="background:#D2EED9;" |'''19.9'''
+|8.4
+|19.0
+|2.7
+|2.0
+|1.6
+|1.1
+|3.1
+|1.2
+|1.2
+|3.3
+|style="background:#008000; color:white;" |0.7
+|-
+|21-22 Jul
+|[https://www.termometropolitico.it/1596498_sondaggi-tp-no-obbligo-vaccino-ai-giovani-maggioranza-italiani-contro-salvini.html/ Termometro Politico]
+|3,200
+|15.9
+|19.8
+|style="background:#D2EED9;" |'''20.7'''
+|5.9
+|20.5
+|colspan="2"|2.8
+|1.7
+|1.8
+|2.9
+|3.3
+|
+|4.7
+|style="background:#008000; color:white;" |0.2
+|-
 |14-19 Jul
 |[https://sondaggibidimedia.com/sondaggio-swg-19-luglio/ SWG]
 |1,200

@@ -21,9 +21,21 @@
 ! style="background:{{NEOS – The New Austria and Liberal Forum/meta/color}};"|
 ! style="background:{{Independent/meta/color}};"|
 |-
+| [https://epaper-oesterreich.at/issue.act?issueId=845720&issueMutation=CITYW&issueDate=20210723&region=oe Research Affairs]
+| data-sort-value="2021-07-22"| 20–22 Jul 2021
+| 504
+| Online
+| <!-- People Party -->  style="background:#D2EDF1;"| '''35'''
+| <!-- Social Democratic Party --> | 20
+| <!-- Freedom Party --> | 18
+| <!-- Greens --> | 12
+| <!-- NEOS--> | 11
+| <!-- Independent--> | 4
+| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
+|-
 | [https://epaper-oesterreich.at/issue.act?issueId=843988&issueMutation=CITYW&issueDate=20210716&region=WIEN Research Affairs]
 | data-sort-value="2021-07-15"| 13–15 Jul 2021
-| 1,000
+| 504
 | Online
 | <!-- People Party -->  style="background:#D2EDF1;"| '''35'''
 | <!-- Social Democratic Party --> | 20
@@ -47,7 +59,7 @@
 |-
 | [https://epaper-oesterreich.at/issue.act?issueId=842006&issueMutation=CITYW&issueDate=20210709&region=WIEN Research Affairs]
 | data-sort-value="2021-07-08"| 5–8 Jul 2021
-| 1,000
+| 508
 | Online
 | <!-- People Party -->  style="background:#D2EDF1;"| '''35'''
 | <!-- Social Democratic Party --> | 21
@@ -203,7 +215,7 @@
 |-
 |
 | data-sort-value="2021-06-01" | 1 June 2021
-|colspan=10 |'''[[Norbert Hofer]] resignation as FPO leader; [[Herbert Kickl ]] becomes leader'''
+|colspan=10 |'''[[Norbert Hofer]] resignation as FPÖ leader; [[Herbert Kickl ]] becomes leader'''
 |-
 | [https://www.oe24.at/oesterreich/politik/umfrage-fpoe-stark-im-sinkflug/479557178 Research Affairs]
 | data-sort-value="2021-06-02"| 31 May – 2 Jun 2021
