@@ -14,6 +14,221 @@ tod = str(datetime.date.today())
 today = Date(int(tod[:4]), int(tod[5:7]), int(tod[8:]))
 
 
+def display_table(table: List[List[Union[str, bool]]], key, trunc=32):
+    for title in key:
+        print(title.ljust(trunc, ' '), end='')
+    print()
+    for row in table:
+        for col in row:
+            txt = str(col)
+            if len(txt) > trunc - 4:
+                txt = txt[:trunc - 4]
+            print(txt.ljust(trunc, ' '), end='')
+        print()
+
+
+def transcribe_table(content, key, begin):
+    table: List[List[Any]] = []
+    years: Dict[int, str] = {}
+    i = 0
+    row = 0
+    col = 0
+    started = False
+    while i < len(content):
+        line = content[i].strip('| \n')
+        if '==' in line:
+            years[row] = line.strip('= \n')
+            i += 1
+            continue
+        for b in begin:
+            if b in line:
+                started = True
+                break
+        if started:
+            if line.strip() == '|}':
+                started = False
+                i += 1
+                col = 0
+                continue
+            if len(table) <= row:
+                placeholder = [True for _ in range(len(key))]
+                table.extend([placeholder.copy() for _ in range(row - len(table) + 1)])
+            while table[row][col] is False:
+                col += 1
+                if col >= len(key):
+                    col -= len(key)
+                    row += 1
+            table[row][col] = line
+            if 'colspan=' in line:
+                temp: str = line[line.find('colspan=') + len('colspan='):]
+                num = int(temp.strip('|').split()[0].split('|')[0].strip('" '))
+                for a in range(1, num):
+                    table[row][col + a] = False
+            elif 'rowspan=' in line:
+                temp: str = line[line.find('rowspan=') + len('rowspan='):]
+                num = int(temp.strip('|').split()[0].split('|')[0].strip('" '))
+                if len(table) <= row + num:
+                    placeholder = [True for _ in range(len(key))]
+                    table.extend([placeholder.copy() for _ in range(row + num - len(table) + 1)])
+                for a in range(1, num):
+                    table[row + a][col] = False
+            col += 1
+            if col >= len(key):
+                col -= len(key)
+                row += 1
+        i += 1
+    return table, years
+
+
+def process_table(table: List[List[Any]], years, key, include, choice):
+    def process_date(line, year) -> Optional[int]:
+        if '{{efn' in line:
+            line = line[:line.find('{{efn')]
+        dates = line.split('|')[-1]
+        if '-' in dates:
+            s = dates.split('-')
+        elif '–' in dates:
+            s = dates.split('–')
+        elif '−' in dates:
+            s = dates.split('−')
+        else:
+            s = dates.split('â€“')
+        temp = s[-1].strip()
+        temps = temp.strip().split()
+        if len(temps) == 2:
+            try:
+                y = int(temps[-1])
+                m = temps[0]
+                temp = str(date_kit.get_month_length(date_kit.get_month_number(m), y)) + ' ' + temp
+            except ValueError:
+                temp = temp + ' ' + year
+        elif len(temps) == 1:
+            try:
+                temp = str(date_kit.get_month_length(date_kit.get_month_number(temps[0]), year)) + \
+                       ' ' + temp + ' ' + year
+            except KeyError:
+                return None
+        temp = temp.strip("'")
+        temp = temp.replace('X', '0')
+        try:
+            end_date = date_kit.Date(text=temp, form='dmy')
+        except ValueError:
+            return None
+        end = date_kit.date_dif(today, end_date)
+        return end
+
+    def process_value(s, choice):
+        temp = s
+        if '{{efn' in temp:
+            temp = temp[:temp.find('{{efn')]
+        if '<br' in s:
+            temp = temp[:temp.find('<br')]
+        if '<ref' in s:
+            temp = temp[:temp.find('<ref')]
+        if choice == 'Japan':
+            temp = temp.split(' ')[-1]
+        temp = temp.split('|')[-1].strip()
+        temp = temp.replace(',', '.')
+        if temp in ['â€“', '-', ''] or "small" in temp:
+            share = None
+        else:
+            try:
+                share = float(temp.strip().strip("'%!"))
+                if choice == 'Netherlands':
+                    share *= 2 / 3
+            except ValueError:
+                # print(temp)
+                share = None
+        return share
+
+    date_i: int = key.index('date')
+    indices: List[int] = []
+    for i, k in enumerate(key):
+        if k in include:
+            indices.append(i)
+    remove = []
+    year = None
+    for i in range(len(table)):
+        if i in years:
+            year = years[i]
+        entry = table[i]
+        date = entry[date_i]
+        if type(date).__name__ != 'str':
+            if date is False:
+                for j in range(i - 1, -1, -1):
+                    t = table[j][date_i]
+                    if type(t).__name__ == 'int':
+                        date = t
+                        break
+            else:
+                print(entry)
+                remove.append(i)
+                continue
+        else:
+            date = process_date(entry[date_i], year)
+        if date is None:
+            remove.append(i)
+        else:
+            table[i][date_i] = date
+
+        for j in indices:
+            if type(entry[j]).__name__ == 'str':
+                val = process_value(entry[j], choice)
+            else:
+                val = entry[j]
+            table[i][j] = val
+
+    for r in sorted(remove, reverse=True):
+        table.pop(r)
+    return table
+
+
+def filter_table(table: List[List[Any]], key: List[str], include, choice):
+    if choice == 'Czechia':
+        purge = set()
+        for p in ['SPOLU', 'Pirati+STAN']:
+            c = key.count(p)
+            if c > 1:
+                i = key.index(p)
+                for j in range(1, c):
+                    for k, entry in enumerate(table):
+                        if entry[i + j] is not False:
+                            purge.add(k)
+        for k in sorted(purge, reverse=True):
+            table.pop(k)
+    return table
+
+
+def interpret_table(table: List[List[Any]], key: List[str], include):
+    dat: Dict[str, Dict[int, List[float]]] = {}
+    indices: List[int] = []
+    date_i = key.index('date')
+    for i, k in enumerate(key):
+        if k in include:
+            indices.append(i)
+    for i in indices:
+        p = key[i]
+        if p in dat:
+            continue
+        else:
+            dat[p] = {}
+            c = key.count(p)
+            for entry in table:
+                date = entry[date_i]
+                tot = entry[i]
+                if c > 1:
+                    for j in range(1, c):
+                        if tot is None:
+                            tot = entry[i + j]
+                        elif entry[i + j] is not None:
+                            tot += entry[i + j]
+                if date in dat[p]:
+                    dat[p][date].append(tot)
+                else:
+                    dat[p][date] = [tot]
+    return dat
+
+
 def read_data(content, key, start, restart, date, choice, include=None, zeros=None):
     def isrestart(line):
         if choice == 'Slovakia' and \
@@ -450,11 +665,15 @@ def choices_setup():
             'end_date': Date(2021, 5, 30)
         },
         'Czechia': {
-            'key': ['ANO', 'SPOLU', 'SPOLU', 'SPOLU', 'Pirati+STAN', 'Pirati+STAN', 'SPD', 'KSCM', 'CSSD', 'T-S',
-                    'T-S', 'Z', 'P'],
+            'key': ['firm', 'date', 'size', 'turnout',
+                    'ANO', 'SPOLU', 'SPOLU', 'SPOLU', 'Pirati+STAN', 'Pirati+STAN', 'SPD', 'KSCM', 'CSSD', 'T-S',
+                    'T-S', 'Z', 'ODA', 'P',
+                    'Other', 'Lead', 'Govt.', 'Opp.', 'end'],
+            'include': ['ANO', 'SPOLU', 'SPOLU', 'SPOLU', 'Pirati+STAN', 'Pirati+STAN', 'SPD', 'KSCM', 'CSSD', 'T-S',
+                        'T-S', 'Z', 'ODA', 'P'],
             'col': {'ANO': (38, 16, 96), 'SPOLU': (35, 44, 119), 'Pirati+STAN': (0, 0, 0), 'SPD': (33, 117, 187),
                     'KSCM': (204, 0, 0), 'CSSD': (236, 88, 0), 'T-S': (0, 150, 130), 'Z': (96, 180, 76),
-                    'P': (0, 51, 255),
+                    'P': (0, 51, 255), 'ODA': (0, 45, 114),
                     'Government': (38, 16, 96), 'Opposition': (0, 0, 0)},
             'gov': {'Government': ['ANO', 'KSCM', 'CSSD'],
                     'Opposition': ['SPOLU', 'Pirati+STAN', 'SPD', 'T-S', 'Z', 'P']},
@@ -1168,7 +1387,14 @@ class GraphPage:
         if 'old_data' in choices[self.choice]:
             with open(choices[self.choice]['old_data'], 'r', encoding='utf-8') as f:
                 content.extend(f.readlines())
-        return read_data(content, self.key, self.start, self.restart, self.date, self.choice, self.include, self.zeros)
+        if self.choice == 'Czechia':
+            table, years = transcribe_table(content, self.key, self.restart)
+            display_table(table, self.key)
+            table = process_table(table, years, self.key, self.include, self.choice)
+            table = filter_table(table, self.key, self.include, self.choice)
+            return interpret_table(table, self.key, self.include)
+        return read_data(content, self.key, self.start, self.restart, self.date, self.choice, self.include,
+                         self.zeros)
 
     def init_seats_dat(self):
         xs = set()
