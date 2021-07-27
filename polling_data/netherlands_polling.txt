@@ -6,8 +6,8 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 {| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
 |-
 ! rowspan="2"|Polling firm
-! rowspan="2"|Release<br />date
-! rowspan="2"|Sample<br />size
+! rowspan="2"|Release<br>date
+! rowspan="2"|Sample<br>size
 ! class="unsortable" style="width:40px;"|[[People's Party for Freedom and Democracy|VVD]]
 ! class="unsortable" style="width:40px;"|[[Democrats 66|D66]]
 ! class="unsortable" style="width:40px;"|[[Party for Freedom|PVV]]
@@ -46,8 +46,31 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 ! data-sort-type="number" style="background:{{Farmer–Citizen Movement/meta/color}};"|
 ! data-sort-type="number" style="background:{{BIJ1/meta/color}};"|
 |-
+|[https://maurice.nl/peilingen/2021/07/25/de-stemming-25-juli-2021-afwachtend-electoraat/ Peil.nl]
+|data-sort-value="2021-07-25"|25 July 2021
+|3,000+
+|style="background:#CED7FD;"|'''35'''
+|22
+|17
+|6
+|9
+|10
+|7
+|5
+|8
+|6
+|6
+|5
+|3
+|3
+|0
+|6
+|1
+|1{{efn|[[BVNL (political party)|Belang van Nederland]] with 1 seat|name="CO1"|group=}}
+|style="background:{{People's Party for Freedom and Democracy (2020)/meta/color}};color:#FFFFFF;"|13
+|-
 |[https://www.ioresearch.nl/actueel/verlies-voor-cda-stijging-voor-pvv-en-bbb/ I&O Research]
-|data-sort-value="2021-06-10"|15 July 2021
+|data-sort-value="2021-07-15"|15 July 2021
 |1,824
 |style="background:#CED7FD;"|'''35'''
 |22

@@ -20,6 +20,58 @@
 ! data-sort-type="number" style="background:{{Scottish National Party/meta/color}};"|
 ! data-sort-type="number" style="background:{{Green Party of England and Wales/meta/color}};"|
 |-
+|{{opdrts|23|26|Jul|2021}}
+|[https://deltapoll.co.uk/wp-content/uploads/2021/07/Deltapoll-210726_voteint.pdf Deltapoll]
+|N/A
+|GB
+|1,590
+|style="background:#CCEBFF;"|'''42%'''
+|37%
+|6%
+|3%
+|6%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|7%|[[Plaid Cymru]] on 1%<br/>[[UKIP]] on 3%<br/>[[Reform UK]] on 2% <br/>Other on 1%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|5%
+|-
+|{{opdrts||25|Jul|2021}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-25-july-2021/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''40%'''
+|36%
+|9%
+|4%
+|6%
+|{{Hidden|6%|[[Brexit Party|Reform UK]] on 4%<br/>[[Plaid Cymru]] on 0%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|4%
+|-
+|{{opdrts||23|Jul|2021}}
+|[https://www.survation.com/23-july-uk-politics-poll/ Survation]
+|N/A
+|UK
+|1,013
+|style="background:#CCEBFF;"|'''39%'''
+|37%
+|10%
+|4%
+|5%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|2%
+|-
+|{{opdrts|22|23|Jul|2021}}
+|[https://www.opinium.com/wp-content/uploads/2021/07/VI-23-07-21-Observer-Tables.xlsx Opinium]
+|''The Observer''
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''43%'''
+|35%
+|8%
+|5%
+|5%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|4%|[[Plaid Cymru]] on 1%<br/>Other on 3%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|8%
+|-
 |{{opdrts|20|21|Jul|2021}}
 |[https://docs.cdn.yougov.com/vfix95miva/YouGov%20%20The%20Times%20Voting%20Intention%20Results%20%2020th%2021st%20July%202021.pdf YouGov]
 |''The Times''

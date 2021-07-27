@@ -446,7 +446,7 @@
 |-
 |22 March
 |[https://media.fom.ru/fom-bd/d12pi2020.pdf FOM]
-|style="background:#B3E0FF" |'''35%'''||'''13%'''||'''12%'''||'''5%'''||13%||colspan=2|23%
+|style="background:#B3E0FF" |'''35%'''||'''13%'''||'''12%'''||'''5%'''||13%||colspan=2||23%
 |style="background:#0C2C84; color:white;"|22%
 |-
 |15 March

@@ -27,8 +27,8 @@
 
 PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological order - latest first - but users can sort the table. In order to preserve the ability to sort by polling date, please include an entry for data-sort-value in front of the polling date. In order to preserve the ability to sort by polling company, please increment the relevant data-sort-value by one each time you add a new poll. So a new Behaviour & Attitudes poll would become "B&A14" if the last one was "B&A13". Please also wikilink the most recent poll (link goes to the publishing media outlet, piped to show the commissioning publisher and polling company) and please also unlink the prior poll from that company. If the above doesn't make sense to you, please do not make major changes. -->
 |-
-|17 July 2021
-|Ireland Thinks/Irish Mail on Sunday
+|data-sort-value="2021-07-17"|17 July 2021
+|data-sort-value="ITMos12"|[[Irish Daily Mail|Ireland Thinks/Irish Mail on Sunday]]{{citation needed|date=July 2021}}
 |1,001
 |style="background:#D7ECEA"|'''30'''
 |14
@@ -40,9 +40,9 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |4
 |7
 |-
-|13 July 2021
-|Behaviour and Attitudes/The Sunday Times
-|1,001
+|data-sort-value="2021-07-13"|13 July 2021
+|data-sort-value="B&A09"|[[The Times, Ireland edition|Behaviour and Attitudes/The Sunday Times]]<ref group="p">{{cite web|url=https://banda.ie/wp-content/uploads/J212589-Sunday-Times-July-2021-Report.pdf|title=July 2021 Opinion Poll|last=McShane|first=Ian|publisher=Behaviour and Attitudes|date=19 July 2021|access-date=25 July 2021}}</ref>
+|894
 |style="background:#D7ECEA"|'''30'''
 |20
 |25
@@ -67,7 +67,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |12
 |-
 |data-sort-value="2021-06-19"|19 June 2021
-|data-sort-value="ITMos11"|[[Irish Daily Mail|Ireland Thinks/Irish Mail on Sunday]]<ref group="p">{{Cite web|date=19 June 2021|title=Ireland Elects|url=https://twitter.com/ToghannEire/status/1406385645619122176|url-status=live|access-date=2021-06-26|website=Twitter|language=en}}</ref>
+|data-sort-value="ITMos11"|Ireland Thinks/Irish Mail on Sunday]]<ref group="p">{{Cite web|date=19 June 2021|title=Ireland Elects|url=https://twitter.com/ToghannEire/status/1406385645619122176|url-status=live|access-date=2021-06-26|website=Twitter|language=en}}</ref>
 |1,274
 |style="background:#D7ECEA"|'''32'''
 |15
@@ -93,7 +93,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |8
 |-
 |data-sort-value="2021-06-08"|8 June 2021
-|data-sort-value="B&A08"|[[The Times, Ireland edition|Behaviour and Attitudes/The Sunday Times]]<ref group="p">{{Cite web|last=Lehane|first=Mícheál|date=2021-06-12|title=SF increases support in last month, poll suggests|url=https://www.rte.ie/news/politics/2021/0612/1227770-sf-increases-support-in-last-month-poll-suggests/|url-status=live|access-date=13 June 2021|website=[[RTÉ]]|language=en}}</ref>
+|data-sort-value="B&A08"|Behaviour and Attitudes/The Sunday Times<ref group="p">{{Cite web|last=Lehane|first=Mícheál|date=2021-06-12|title=SF increases support in last month, poll suggests|url=https://www.rte.ie/news/politics/2021/0612/1227770-sf-increases-support-in-last-month-poll-suggests/|url-status=live|access-date=13 June 2021|website=[[RTÉ]]|language=en}}</ref>
 |909
 |style="background:#D7ECEA"|'''34'''
 |20

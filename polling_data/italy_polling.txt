@@ -32,6 +32,24 @@
 ! style="background:{{Italia Viva/meta/color}};"|
 ! style="background:{{Coraggio Italia/meta/color}};"|
 |-
+|20-22 Jul
+|[https://www.corriere.it/politica/21_luglio_25/orientamento-voto-497a4c18-eccb-11eb-ab05-0303bb7b6464.shtml Ipsos]
+|1,000
+|17.1
+|20.9
+|style="background:#D2EED9;" |'''21.1'''
+|7.0
+|19.0
+|1.2
+|2.0
+|2.0
+|1.7
+|2.5
+|1.5
+|
+|4.0
+|style="background:#008000; color:white;" |0.2
+|-
 |21-22 Jul
 |[https://www.istitutoixe.it/2021/07/23/intenzioni-di-voto-23-luglio-2021// Ixè]
 |1,000
@@ -61,8 +79,8 @@
 |colspan="2"|2.8
 |1.7
 |1.8
-|2.9
 |3.3
+|2.9
 |
 |4.7
 |style="background:#008000; color:white;" |0.2

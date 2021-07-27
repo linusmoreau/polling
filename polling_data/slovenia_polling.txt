@@ -63,6 +63,30 @@ Poll results are listed in the table in reverse chronological order, showing the
 !colspan="3"|(47.4)
 ! style="background:{{Slovenian Democratic Party/meta/color}}"|12.3
 |-
+|25 Jul 2021
+|Mediana
+|[[Pop (Slovenian TV channel)|POPTV]]
+|714
+| style="background:#FFFFBF" |'''18.0'''
+|7.9
+|11.7
+|0.6
+|8.0
+|4.2
+|2.7
+|2.3
+|1.8
+|1.4
+|1.9
+|–
+|–
+|–
+|12.3
+|19.2
+|–
+|style="background:{{Slovenian Democratic Party/meta/color}}"|6.3
+|<ref>{{Cite web|title=Po referendumu o vodi – vse po starem: z delom vlade zadovoljna slaba tretjina vprašanih|url=https://www.24ur.com/novice/slovenija/po-referendumu-o-vodi-vse-po-starem-z-delom-vlade-zadovoljna-slaba-tretjina-vprasanih.html|access-date=2021-07-26|website=www.24ur.com|language=sl}}</ref>
+|-
 |13–15 Jul 2021
 |Ninamedia
 |[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
@@ -74,7 +98,7 @@ Poll results are listed in the table in reverse chronological order, showing the
 |12.7
 {{font|size=75%|font=Verdana|text=19}}
 |0.3
-{{font|size=75%|font=Verdana|text=28}}
+{{font|size=75%|font=Verdana|text=0}}
 |10.1
 {{font|size=75%|font=Verdana|text=15}}
 |4.7

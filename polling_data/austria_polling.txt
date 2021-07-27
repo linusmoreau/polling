@@ -33,6 +33,18 @@
 | <!-- Independent--> | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
 |-
+| [https://www.puls24.at/news/politik/sonntagsfrage-oevp-deutlich-voran-spoe-sinkt-ab/240130 IFDD]
+| data-sort-value="2021-07-21"| 15–21 Jul 2021
+| 800
+| Online
+| <!-- People Party -->  style="background:#D2EDF1;"| '''35'''
+| <!-- Social Democratic Party --> | 22
+| <!-- Freedom Party --> | 19
+| <!-- Greens --> | 11
+| <!-- NEOS--> | 12
+| <!-- Independent--> | 1
+| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+|-
 | [https://epaper-oesterreich.at/issue.act?issueId=843988&issueMutation=CITYW&issueDate=20210716&region=WIEN Research Affairs]
 | data-sort-value="2021-07-15"| 13–15 Jul 2021
 | 504
