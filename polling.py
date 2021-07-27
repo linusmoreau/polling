@@ -487,6 +487,7 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                     if len(temps) < len(key):
                         temps.extend(content[i + 1].strip().split('||'))
                         temps.extend(content[i + 2].strip().split('||'))
+                        temps.extend(content[i + 3].strip().split('||'))
                     for p in range(len(temps)):
                         if p >= len(key):
                             break
@@ -530,10 +531,9 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                 if key[p] not in dat:
                     dat[key[p]] = {}
                 if end in dat[key[p]]:
-                    if (choice == 'Slovakia' and len(dat[key[p]][end]) > 0 and p in (5, 10, 11, 12)) or \
-                            (choice == 'Czechia' and len(dat[key[p]][end]) > 0 and p in (2, 3, 5, 10)) or \
-                            (choice == 'Bulgaria' and len(dat[key[p]][end])) > 0 and p in (7, 8) or \
-                            (flag and choice == 'Ireland' and len(dat[key[p]][end]) > 0 and p in (8, 9)):
+                    if ((choice == 'Slovakia' and len(dat[key[p]][end]) > 0 and p in (5, 10, 11, 12)) or
+                            (choice == 'Bulgaria' and len(dat[key[p]][end])) > 0 and p in (7, 8) or
+                            (flag and choice == 'Ireland' and len(dat[key[p]][end]) > 0 and p in (8, 9))):
                         if dat[key[p]][end][-1] is not None:
                             if share is not None:
                                 dat[key[p]][end][-1] += share
@@ -1036,7 +1036,7 @@ def choices_setup():
             'method': 'quotient'
         },
         'Russia': {
-            'key': ['UR', 'CPRF', 'LDPR', 'SRZP', 'Yabloko', 'RPPSJ', 'Others', 'Undecided', 'Abstention'],
+            'key': ['UR', 'CPRF', 'LDPR', 'SRZP', 'NP', 'Yabloko', 'RPPSJ', 'Others', 'Undecided', 'Abstention'],
             'col': {'UR': (46, 78, 164), 'CPRF': (204, 17, 17), 'LDPR': (68, 136, 204), 'SRZP': (255, 192, 3),
                     'Yabloko': (0, 162, 61), 'RPPSJ': (197, 32, 48)},
             'include': ['UR', 'CPRF', 'LDPR', 'SRZP'],
