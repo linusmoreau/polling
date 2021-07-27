@@ -337,12 +337,6 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                     if 'ref' in line:
                         i += 1
                         continue
-                elif choice == 'Czechia':
-                    if 'rowspan="2"' not in line:
-                        rot += 23
-                        i += 1
-                    if 'rowspan="2"' in prevline:
-                        rot += 1
                 elif choice in ['Italy', 'Cyprus', 'Slovakia', 'Hungary', 'Ireland', 'Russia', 'Japan', 'Ontario',
                                 'Latvia'] or (choice == 'UK' and date == 0):
                     line = prevline
@@ -550,16 +544,6 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                         rot += num - 1
             elif isrestart(line):
                 rot = 0
-            if choice == 'Czechia':
-                if rot != 0:
-                    if 'colspan=' in line:
-                        temp: str = line[line.find('colspan=') + len('colspan='):]
-                        num = int(temp.strip('|').split()[0].split('|')[0].strip('" '))
-                        rot += num - 1
-                    elif 'rowspan=' in line:
-                        temp: str = line[line.find('rowspan=') + len('rowspan='):]
-                        num = int(temp.strip('|').split()[0].split('|')[0].strip('" '))
-                        rot += num - 1
             rot += 1
         i += 1
         prevline = line
@@ -677,7 +661,6 @@ def choices_setup():
                     'Government': (38, 16, 96), 'Opposition': (0, 0, 0)},
             'gov': {'Government': ['ANO', 'KSCM', 'CSSD'],
                     'Opposition': ['SPOLU', 'Pirati+STAN', 'SPD', 'T-S', 'Z', 'P']},
-            'start': 26,
             'end_date': Date(2021, 10, 9),
             'url': 'https://en.wikipedia.org/w/index.php?title='
                    'Opinion_polling_for_the_2021_Czech_legislative_election&action=edit&section=3',
@@ -1200,7 +1183,7 @@ def choice_setting(c):
     col = dat.get('col', None)
     blocs = dat['blocs']
     gov = dat['gov']
-    start = dat['start']
+    start = dat.get('start', None)
     restart = dat['restart']
     date = dat['date']
     end_date = dat['end_date']
@@ -1389,7 +1372,7 @@ class GraphPage:
                 content.extend(f.readlines())
         if self.choice == 'Czechia':
             table, years = transcribe_table(content, self.key, self.restart)
-            display_table(table, self.key)
+            # display_table(table, self.key)
             table = process_table(table, years, self.key, self.include, self.choice)
             table = filter_table(table, self.key, self.include, self.choice)
             return interpret_table(table, self.key, self.include)
