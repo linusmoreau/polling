@@ -9,16 +9,22 @@ import threading
 import csv
 from bs4 import BeautifulSoup
 
-
 tod = str(datetime.date.today())
 today = Date(int(tod[:4]), int(tod[5:7]), int(tod[8:]))
 
 
-def display_table(table: List[List[Union[str, bool]]], key, trunc=32):
+def display_tables(tables, trunc=32):
+    for d in tables:
+        display_table(d['table'], d['key'], d['years'], trunc)
+
+
+def display_table(table: List[List[Union[str, bool]]], key, years, trunc=32):
     for title in key:
         print(title.ljust(trunc, ' '), end='')
     print()
-    for row in table:
+    for i, row in enumerate(table):
+        if i in years:
+            print(years[i])
         for col in row:
             txt = str(col)
             if len(txt) > trunc - 4:
@@ -27,28 +33,58 @@ def display_table(table: List[List[Union[str, bool]]], key, trunc=32):
         print()
 
 
-def transcribe_table(content, key, begin):
+def transcribe_table(content, key, choice, begin, start):
     table: List[List[Any]] = []
-    years: Dict[int, str] = {}
+    tables: List[Dict[str, Union[List[List[Any]], List[str]]]] = []
+    years: Dict[int, str] = {0: str(today.year)}
     i = 0
     row = 0
     col = 0
     started = False
+    s = ''
+    for line in content:
+        s += line.strip() + '|'
+    content = s.split('||')
     while i < len(content):
         line = content[i].strip('| \n')
+        if choice == 'Russia':
+            if '===2021===' in line:
+                tables.append({'table': table, 'key': key, 'years': years})
+                key = ['date', 'firm',
+                       'UR', 'CPRF', 'LDPR', 'SRZP', 'Other', 'Undecided', 'Abstention',
+                       'lead', 'end']
+                table = []
+                years = {0: years[max(years)]}
+                row = 0
+                col = 0
         if '==' in line:
-            years[row] = line.strip('= \n')
+            yline = line[line.find('=='):]
+            yline = yline[:yline.find('==', 3)].strip('= \n')
+            try:
+                int(yline)
+            except ValueError:
+                pass
+            else:
+                years[row] = yline
             i += 1
+            col = 0
+            started = False
             continue
-        for b in begin:
-            if b in line:
-                started = True
-                break
+        if not started:
+            for b in begin:
+                if b in line:
+                    started = True
+                    i += start
+                    line = content[i].strip('| \n')
+                    break
         if started:
-            if line.strip() == '|}':
+            if len(line) > 0 and line[0] == '}':
                 started = False
                 i += 1
                 col = 0
+                continue
+            elif col == 0 and line[0] == '-':
+                i += 1
                 continue
             if len(table) <= row:
                 placeholder = [True for _ in range(len(key))]
@@ -58,12 +94,18 @@ def transcribe_table(content, key, begin):
                 if col >= len(key):
                     col -= len(key)
                     row += 1
+                    if len(table) <= row:
+                        placeholder = [True for _ in range(len(key))]
+                        table.extend([placeholder.copy() for _ in range(row - len(table) + 1)])
             table[row][col] = line
             if 'colspan=' in line:
                 temp: str = line[line.find('colspan=') + len('colspan='):]
                 num = int(temp.strip('|').split()[0].split('|')[0].strip('" '))
                 for a in range(1, num):
-                    table[row][col + a] = False
+                    if col + a >= len(table[row]) - 1:
+                        break
+                    else:
+                        table[row][col + a] = False
             elif 'rowspan=' in line:
                 temp: str = line[line.find('rowspan=') + len('rowspan='):]
                 num = int(temp.strip('|').split()[0].split('|')[0].strip('" '))
@@ -77,10 +119,19 @@ def transcribe_table(content, key, begin):
                 col -= len(key)
                 row += 1
         i += 1
-    return table, years
+    tables.append({'table': table, 'key': key, 'years': years})
+    return tables
 
 
-def process_table(table: List[List[Any]], years, key, include, choice):
+def process_tables(tables: List[Dict[str, Union[List[List[Any]], List[str]]]], choice, include, zeros):
+    for i, table in enumerate(tables):
+        tables[i] = {'table': process_table(table['table'], table['years'], table['key'], choice, include, zeros),
+                     'years': table['years'],
+                     'key': table['key']}
+    return tables
+
+
+def process_table(table: List[List[Any]], years, key, choice, include, zeros):
     def process_date(line, year) -> Optional[int]:
         if '{{efn' in line:
             line = line[:line.find('{{efn')]
@@ -93,7 +144,7 @@ def process_table(table: List[List[Any]], years, key, include, choice):
             s = dates.split('−')
         else:
             s = dates.split('â€“')
-        temp = s[-1].strip()
+        temp = s[-1].strip().strip('\'')
         temps = temp.strip().split()
         if len(temps) == 2:
             try:
@@ -108,7 +159,6 @@ def process_table(table: List[List[Any]], years, key, include, choice):
                        ' ' + temp + ' ' + year
             except KeyError:
                 return None
-        temp = temp.strip("'")
         temp = temp.replace('X', '0')
         try:
             end_date = date_kit.Date(text=temp, form='dmy')
@@ -142,9 +192,11 @@ def process_table(table: List[List[Any]], years, key, include, choice):
         return share
 
     date_i: int = key.index('date')
+    if zeros is None:
+        zeros = []
     indices: List[int] = []
     for i, k in enumerate(key):
-        if k in include:
+        if k in include + zeros + ['Other']:
             indices.append(i)
     remove = []
     year = None
@@ -183,7 +235,15 @@ def process_table(table: List[List[Any]], years, key, include, choice):
     return table
 
 
-def filter_table(table: List[List[Any]], key: List[str], include, choice):
+def filter_tables(tables: List[Dict[str, Union[List[List[Any]], List[str]]]], choice, include):
+    for i, table in enumerate(tables):
+        tables[i] = {'table': filter_table(table['table'], table['key'], choice, include),
+                     'key': table['key'],
+                     'years': table['years']}
+    return tables
+
+
+def filter_table(table: List[List[Any]], key: List[str], choice, include):
     if choice == 'Czechia':
         purge = set()
         for p in ['SPOLU', 'Pirati+STAN']:
@@ -196,7 +256,59 @@ def filter_table(table: List[List[Any]], key: List[str], include, choice):
                             purge.add(k)
         for k in sorted(purge, reverse=True):
             table.pop(k)
+    purge = set()
+    for j, entry in enumerate(table):
+        for i, k in enumerate(key):
+            if k in include and entry[i] is not False:
+                break
+        else:
+            purge.add(j)
+    for k in sorted(purge, reverse=True):
+        table.pop(k)
     return table
+
+
+def modify_tables(tables: List[Dict[str, Union[List[List[Any]], List[str]]]], choice, include, zeros):
+    for i, table in enumerate(tables):
+        tables[i] = {'table': modify_table(table['table'], table['key'], choice, include, zeros),
+                     'key': table['key'],
+                     'years': table['years']}
+    return tables
+
+
+def modify_table(table: List[List[Any]], key: List[str], choice, include, zeros):
+    if zeros is None:
+        return table
+    else:
+        for j, entry in enumerate(table):
+            normalize = 0
+            for i, e in enumerate(entry):
+                if key[i] in zeros:
+                    if choice == 'Russia' and normalize == 0 and e is False:
+                        a = entry[i - 1]
+                    elif e is None:
+                        a = 0
+                    else:
+                        a = e
+                    normalize += a
+            for i, e in enumerate(entry):
+                if key[i] in include:
+                    table[j][i] = e / (1 - normalize / 100)
+        return table
+
+
+def interpret_tables(tables: List[Dict[str, Union[List[List[Any]], List[str]]]], include):
+    all_dat: Dict[str, Dict[int, List[float]]] = {}
+    for table in tables:
+        dat = interpret_table(table['table'], table['key'], include)
+        for p in dat:
+            if p not in all_dat:
+                all_dat[p] = {}
+            for x, ys in dat[p].items():
+                if x not in all_dat[p]:
+                    all_dat[p][x] = []
+                all_dat[p][x].extend(ys)
+    return all_dat
 
 
 def interpret_table(table: List[List[Any]], key: List[str], include):
@@ -323,7 +435,7 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                         rot += 1
         elif choice == 'Netherlands':
             if '{{For|events during those years|2020 in the Netherlands|2019 in the Netherlands|' \
-                   '2018 in the Netherlands|2017 in the Netherlands}}' in line:
+               '2018 in the Netherlands|2017 in the Netherlands}}' in line:
                 key = ['VVD', 'PVV', 'CDA', 'D66', 'GL', 'SP', 'PvdA', 'CU', 'PvdD', '50+', 'SGP', 'DENK', 'FVD',
                        'JA21', 'Volt', 'BIJ1', 'BBB', 'Others']
                 start = 2
@@ -555,7 +667,7 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                                   for zero in key])
                              for i in range(len(dat[p][x]))]
                 dat[p][x] = list(map(lambda i, y: (y if y is not None else 0) / (normalize[i] / 100)
-                                     if normalize[i] != 0 else 0, range(len(dat[p][x])), dat[p][x]))
+                                 if normalize[i] != 0 else 0, range(len(dat[p][x])), dat[p][x]))
     if zeros is not None:
         for p in include:
             for x in dat[p]:
@@ -662,6 +774,7 @@ def choices_setup():
             'gov': {'Government': ['ANO', 'KSCM', 'CSSD'],
                     'Opposition': ['SPOLU', 'Pirati+STAN', 'SPD', 'T-S', 'Z', 'P']},
             'end_date': Date(2021, 10, 9),
+            'start': 0,
             'url': 'https://en.wikipedia.org/w/index.php?title='
                    'Opinion_polling_for_the_2021_Czech_legislative_election&action=edit&section=3',
             'toggle_seats': True,
@@ -1019,13 +1132,16 @@ def choices_setup():
             'method': 'quotient'
         },
         'Russia': {
-            'key': ['UR', 'CPRF', 'LDPR', 'SRZP', 'NP', 'Yabloko', 'RPPSJ', 'Others', 'Undecided', 'Abstention'],
+            'key': ['date', 'firm',
+                    'UR', 'CPRF', 'LDPR', 'SRZP',
+                    'CR', 'Yabloko', 'RRPSJ', 'Rodina', 'PG', 'Greens', 'CP', 'RPFJ', 'NP', 'GA',
+                    'Undecided', 'Abstention',
+                    'lead', 'end'],
             'col': {'UR': (46, 78, 164), 'CPRF': (204, 17, 17), 'LDPR': (68, 136, 204), 'SRZP': (255, 192, 3),
                     'Yabloko': (0, 162, 61), 'RPPSJ': (197, 32, 48)},
             'include': ['UR', 'CPRF', 'LDPR', 'SRZP'],
             'zeros': ['Undecided', 'Abstention'],
-            'date': 0,
-            'start': 1,
+            'start': -1,
             'end_date': Date(2021, 9, 19),
             'url': 'https://en.wikipedia.org/w/index.php?title='
                    'Opinion_polling_for_the_2021_Russian_legislative_election&action=edit&section=4',
@@ -1191,6 +1307,7 @@ def choice_setting(c):
     vlines = dat['vlines']
     toggle_seats = dat['toggle_seats']
     zeros = dat['zeros']
+    # alt_keys = dat.get('alt_keys', {})
     return file_name, key, col, blocs, gov, start, restart, date, end_date, include, vlines, toggle_seats, zeros
 
 
@@ -1225,7 +1342,8 @@ class GraphPage:
         self.minx = -1
         self.spread = GraphPage.spread
         self.file_name, self.key, self.col, self.blocs, self.gov, self.start, self.restart, self.date, \
-            self.end_date, self.include, self.vlines, toggle_seats, self.zeros = choice_setting(self.choice)
+            self.end_date, self.include, self.vlines, toggle_seats, self.zeros \
+            = choice_setting(self.choice)
 
         self.to_end_date = to_end_date
 
@@ -1274,7 +1392,7 @@ class GraphPage:
         gov_button = SelectButton((screen_width - 3 * unit_size, height * 2 / 3),
                                   (unit_size, unit_size),
                                   align=CENTER, parent=pinboard, deselectable=False)
-        gov_img = Image(gov_button.rect.center, (gov_button.rect.w * 4/5, gov_button.rect.h * 4/5),
+        gov_img = Image(gov_button.rect.center, (gov_button.rect.w * 4 / 5, gov_button.rect.h * 4 / 5),
                         img_path='images/parliament.png')
         gov_button.components.append(gov_img)
         gov_button.set_tooltip('Government/Opposition')
@@ -1370,14 +1488,16 @@ class GraphPage:
         if 'old_data' in choices[self.choice]:
             with open(choices[self.choice]['old_data'], 'r', encoding='utf-8') as f:
                 content.extend(f.readlines())
-        if self.choice == 'Czechia':
-            table, years = transcribe_table(content, self.key, self.restart)
-            # display_table(table, self.key)
-            table = process_table(table, years, self.key, self.include, self.choice)
-            table = filter_table(table, self.key, self.include, self.choice)
-            return interpret_table(table, self.key, self.include)
-        return read_data(content, self.key, self.start, self.restart, self.date, self.choice, self.include,
-                         self.zeros)
+        if self.choice in ['Czechia', 'Russia']:
+            tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
+            tables = process_tables(tables, self.choice, self.include, self.zeros)
+            tables = filter_tables(tables, self.choice, self.include)
+            tables = modify_tables(tables, self.choice, self.include, self.zeros)
+            # display_tables(tables)
+            return interpret_tables(tables, self.include)
+        else:
+            return read_data(content, self.key, self.start, self.restart, self.date, self.choice, self.include,
+                             self.zeros)
 
     def init_seats_dat(self):
         xs = set()
