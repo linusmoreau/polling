@@ -57,6 +57,16 @@ def transcribe_table(content, key, choice, begin, start):
                 years = {0: years[max(years)]}
                 row = 0
                 col = 0
+        elif choice == 'Canada':
+            if '===Campaign period===' in line:
+                tables.append({'table': table, 'key': key, 'years': years})
+                key = ['firm', 'date', 'link',
+                       'LIB', 'CON', 'NDP', 'BQ', 'GRN', 'PPC',
+                       'margin', 'size', 'method', 'lead', 'end']
+                table = []
+                years = {0: years[max(years)]}
+                row = 0
+                col = 0
         if '==' in line:
             yline = line[line.find('=='):]
             yline = yline[:yline.find('==', 3)].strip('= \n')
@@ -144,7 +154,7 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
             s = dates.split('−')
         else:
             s = dates.split('â€“')
-        temp = s[-1].strip().strip('\'')
+        temp = s[-1].strip().strip('\'}')
         temps = temp.strip().split()
         if len(temps) == 2:
             try:
@@ -161,7 +171,11 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
                 return None
         temp = temp.replace('X', '0')
         try:
-            end_date = date_kit.Date(text=temp, form='dmy')
+            if choice == 'Canada':
+                form = 'mdy'
+            else:
+                form = 'dmy'
+            end_date = date_kit.Date(text=temp, form=form)
         except ValueError:
             return None
         end = date_kit.date_dif(today, end_date)
@@ -169,6 +183,8 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
 
     def process_value(s, choice):
         temp = s
+        if 'style="color:#F8F9FA;"' in temp:
+            return None
         if '{{efn' in temp:
             temp = temp[:temp.find('{{efn')]
         if '<br' in s:
@@ -187,7 +203,6 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
                 if choice == 'Netherlands':
                     share *= 2 / 3
             except ValueError:
-                # print(temp)
                 share = None
         return share
 
@@ -213,7 +228,6 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
                         date = t
                         break
             else:
-                print(entry)
                 remove.append(i)
                 continue
         else:
@@ -449,7 +463,7 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                     if 'ref' in line:
                         i += 1
                         continue
-                elif choice in ['Italy', 'Cyprus', 'Slovakia', 'Hungary', 'Ireland', 'Russia', 'Japan', 'Ontario',
+                elif choice in ['Italy', 'Cyprus', 'Slovakia', 'Hungary', 'Ireland', 'Japan', 'Ontario',
                                 'Latvia'] or (choice == 'UK' and date == 0):
                     line = prevline
                     if line[0] == '!':
@@ -548,69 +562,9 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                                'None']
                     else:
                         key = ['LDP', 'CDP', 'NKP', 'JCP', 'Ishin', 'DPP', 'SDP', 'Reiwa', 'NHK', 'Other', 'None']
-                elif choice == 'Russia':
-                    if end_date.year < 2021:
-                        key = ['UR', 'CPRF', 'LDPR', 'SRZP', 'Others', 'Undecided', 'Abstention']
-            elif rot == 0 and choice == 'Canada':
-                parts = line.split('||')
-                temp = parts[date].split('|')[-1].strip().strip('}')
-                end_date = date_kit.Date(text=temp, form='mdy')
-                end = date_kit.date_dif(today, end_date)
-                for n, p in enumerate(key):
-                    if "''" in parts[start + n]:
-                        share = float(parts[start + n].split('|')[-1].strip().strip("'"))
-                    else:
-                        num = parts[start + n].split('|')[-1].strip()
-                        if num == '{{n/a}}' or num == '' or \
-                                parts[start + n].split('|')[0].strip() == 'style="color:#F8F9FA;"':
-                            if n <= 2:
-                                for m in range(n):
-                                    dat[key[m]][end].pop()
-                                    if len(dat[key[m]][end]) == 0:
-                                        del dat[key[m]][end]
-                            continue
-                        else:
-                            share = float(num)
-                    if p not in dat:
-                        dat[p] = {}
-                    if end in dat[p]:
-                        dat[p][end].append(share)
-                    else:
-                        dat[p][end] = [share]
-                if "2019 Canadian federal election" in line:
-                    key = ['LIB', 'CON', 'NDP', 'BQ', 'GRN', 'PPC']
-                i += 1
-                rot = None
-                continue
             elif start <= rot < start + len(key):
                 p = rot - start
                 temp = line
-                if choice == 'Russia':
-                    if '{{efn' in temp:
-                        loc = temp.find('{{efn')
-                        temp = temp[:loc] + temp[temp.find('}}') + 2:]
-                    temps = temp.strip().split('||')
-                    if len(temps) < len(key):
-                        temps.extend(content[i + 1].strip().split('||'))
-                        temps.extend(content[i + 2].strip().split('||'))
-                        temps.extend(content[i + 3].strip().split('||'))
-                    for p in range(len(temps)):
-                        if p >= len(key):
-                            break
-                        keep = temps[p].split('|')[-1].strip().strip('\'%')
-                        try:
-                            share = float(keep)
-                        except ValueError:
-                            share = None
-                        if key[p] not in dat:
-                            dat[key[p]] = {}
-                        if end in dat[key[p]]:
-                            dat[key[p]][end].append(share)
-                        else:
-                            dat[key[p]][end] = [share]
-                    rot = None
-                    i += 1
-                    continue
                 if '{{efn' in temp:
                     temp = temp[:temp.find('{{efn')]
                 if '<br' in line:
@@ -632,7 +586,6 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                         if choice == 'Netherlands':
                             share *= 2 / 3
                     except ValueError:
-                        # print(temp)
                         share = None
                 if key[p] not in dat:
                     dat[key[p]] = {}
@@ -734,13 +687,18 @@ def choices_setup():
             'threshold': 4
         },
         'Canada': {
-            'key': ['CON', 'LIB', 'NDP', 'BQ', 'GRN', 'PPC'],
+            'key': ['firm', 'date', 'link',
+                    'CON', 'LIB', 'NDP', 'BQ', 'GRN', 'PPC',
+                    'Other', 'margin', 'size', 'method', 'lead', 'end'],
+            'include': ['CON', 'LIB', 'NDP', 'BQ', 'GRN', 'PPC'],
             'col': {'CON': (100, 149, 237), 'LIB': (234, 109, 106), 'NDP': (244, 164, 96), 'BQ': (135, 206, 250),
                     'GRN': (153, 201, 85), 'PPC': (131, 120, 158),
                     'Government': (234, 109, 106), 'Opposition': (100, 149, 237)},
             'gov': {'Government': ['LIB'], 'Opposition': ['CON', 'NDP', 'BQ', 'GRN', 'PPC']},
             'blocs': {'Progressive': ['LIB', 'NDP', 'BQ', 'GRN'], 'Conservative': ['CON', 'PPC']},
-            'start': 3,
+            # 'start': 3,
+            'start': 0,
+            'restart': ['Innovative Research', '2019 election'],
             'vlines': {Date(2019, 10, 21): "General Election",
                        Date(2020, 8, 24): "O'Toole elected Conservative leader",
                        Date(2017, 10, 1): "Singh elected NDP leader",
@@ -1488,12 +1446,12 @@ class GraphPage:
         if 'old_data' in choices[self.choice]:
             with open(choices[self.choice]['old_data'], 'r', encoding='utf-8') as f:
                 content.extend(f.readlines())
-        if self.choice in ['Czechia', 'Russia']:
+        if self.choice in ['Czechia', 'Russia', 'Canada']:
             tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
+            # display_tables(tables)
             tables = process_tables(tables, self.choice, self.include, self.zeros)
             tables = filter_tables(tables, self.choice, self.include)
             tables = modify_tables(tables, self.choice, self.include, self.zeros)
-            # display_tables(tables)
             return interpret_tables(tables, self.include)
         else:
             return read_data(content, self.key, self.start, self.restart, self.date, self.choice, self.include,
