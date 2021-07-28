@@ -11,7 +11,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="width:35px; font-size:90%;"| [[Movement for Change (Greece)|KINAL]]
 ! style="width:35px;"| [[File:Logo of the Communist Party of Greece.svg|25px|link=Communist Party of Greece|KKE]]
 ! style="width:35px;"| [[Greek Solution|EL]]
-! style="width:35px;"| [[File:Mera25-logo.svg|35px|link=M25]]
+! style="width:35px;"| [[File:Mera25-logo.svg|35px|link=MeRA25]]
 ! style="width:35px;"| [[File:Meandros flag.svg|25px|link=Golden Dawn (political party)|XA]]
 ! style="width:35px;"| [[Course of Freedom|PE]]
 ! style="width:35px;"| [[Antarsya|ANT]]

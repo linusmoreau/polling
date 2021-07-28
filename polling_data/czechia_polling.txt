@@ -697,6 +697,10 @@
 | '''36.0'''
 |{{No|'''55.0'''}}
 |-
+| style="border-right-style:hidden;" | 
+| style="border-right-style:hidden;" data-sort-value="2021-03-23" |'''23 Mar'''
+| colspan="20" | ''' [[Civic Democratic Alliance (2016)|Civic Democratic Alliance]], [[Agrarian Democratic Party]], [[Order of Nation]] and [[Democratic Green Party]] form an electoral alliance'''<ref name="Další koalice. Do voleb jde Aliance pro budoucnost">{{cite web |title=Další koalice. Do voleb jde Aliance pro budoucnost |url=https://www.tyden.cz/rubriky/domaci/dalsi-koalice-do-voleb-jde-aliance-pro-budoucnost_550889.html |website=TÝDEN.cz |access-date=24 March 2021 |language=cs |date=23 March 2021}}</ref>
+|-
 |[http://www.sanep.cz/pruzkumy/-1249/ Sanep]
 |18 Mar–23 Mar
 |1869

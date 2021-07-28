@@ -32,6 +32,60 @@
 ! style="background:{{Italia Viva/meta/color}};"|
 ! style="background:{{Coraggio Italia/meta/color}};"|
 |-
+|21-26 Jul
+|[https://sondaggibidimedia.com/sondaggio-swg-26-luglio/ SWG]
+|1,200
+|15.8
+|18.8
+|20.0
+|7.1
+|style="background:#E5E7FF;" |'''20.3'''
+|2.4
+|2.5
+|2.0
+|1.8
+|3.8
+|2.3
+|1.1
+|2.1
+|style="background:#03386A; color:white;"|0.3
+|-
+|23 Jul
+|[https://www.dire.it/24-07-2021/656801-sondaggio-dire-tecne-meloni-in-fuga-fratelli-ditalia-sempre-piu-primo-partito/ Tecnè]
+|1,000
+|15.0
+|19.6
+|20.1
+|8.8
+|style="background:#E5E7FF;" |'''20.9'''
+|1.9
+|1.9
+|1.6
+|1.6
+|3.4
+|2.0
+|
+|3.2
+|style="background:#03386A; color:white;"|0.8
+|-
+|22-23 Jul
+|[https://twitter.com/EuropeElects/status/1419655479312240641/photo/1 Euromedia]
+|1,000
+|15.2
+|19.1
+|20.1
+|7.8
+|style="background:#E5E7FF;" |'''20.2'''
+|1.9
+|1.7
+|1.8
+|1.6
+|3.3
+|2.1
+|
+|5.2
+| style="background:#03386A; color:white;"|0.1
+|-
 |20-22 Jul
 |[https://www.corriere.it/politica/21_luglio_25/orientamento-voto-497a4c18-eccb-11eb-ab05-0303bb7b6464.shtml Ipsos]
 |1,000
