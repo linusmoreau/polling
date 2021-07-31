@@ -1453,7 +1453,6 @@ class GraphPage:
                 content.extend(f.readlines())
         if self.choice in ['Czechia', 'Russia', 'Canada']:
             tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
-            # display_tables(tables)
             tables = process_tables(tables, self.choice, self.include, self.zeros)
             tables = filter_tables(tables, self.choice, self.include)
             tables = modify_tables(tables, self.choice, self.include, self.zeros)
@@ -1918,8 +1917,8 @@ if __name__ == '__main__':
     menu_page = MenuPage(order)
     surface = pygame.Surface((screen_width, screen_height))
     surface.fill(whitish)
-    pygame.display.set_caption('Polling')
 
+    pygame.display.set_caption('Polling')
     icon = pygame.transform.scale((pygame.image.load("images/graph.png")), (32, 32))
     icon_surf = pygame.Surface((32, 32))
     icon_surf.fill(white)
