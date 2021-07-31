@@ -10,7 +10,8 @@ import csv
 from bs4 import BeautifulSoup
 
 tod = str(datetime.date.today())
-today = Date(int(tod[:4]), int(tod[5:7]), int(tod[8:]))
+year, month, day = tod.split('-')
+today = Date(int(year), int(month), int(day))
 
 
 def display_tables(tables, trunc=32):
