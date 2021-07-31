@@ -306,9 +306,13 @@ def modify_table(table: List[List[Any]], key: List[str], choice, include, zeros)
                     else:
                         a = e
                     normalize += a
+            q = 1 - normalize / 100
             for i, e in enumerate(entry):
                 if key[i] in include:
-                    table[j][i] = e / (1 - normalize / 100)
+                    if e is None:
+                        continue
+                    else:
+                        table[j][i] = e / q
         return table
 
 
