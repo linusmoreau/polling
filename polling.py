@@ -9,10 +9,6 @@ import threading
 import csv
 from bs4 import BeautifulSoup
 
-tod = str(datetime.date.today())
-year, month, day = tod.split('-')
-today = Date(int(year), int(month), int(day))
-
 
 def display_tables(tables, trunc=32):
     for d in tables:
@@ -48,26 +44,34 @@ def transcribe_table(content, key, choice, begin, start):
     content = s.split('||')
     while i < len(content):
         line = content[i].strip('| \n')
+        reset = False
+        nkey = []
         if choice == 'Russia':
             if '===2021===' in line:
-                tables.append({'table': table, 'key': key, 'years': years})
-                key = ['date', 'firm',
-                       'UR', 'CPRF', 'LDPR', 'SRZP', 'Other', 'Undecided', 'Abstention',
-                       'lead', 'end']
-                table = []
-                years = {0: years[max(years)]}
-                row = 0
-                col = 0
+                nkey = ['date', 'firm',
+                        'UR', 'CPRF', 'LDPR', 'SRZP', 'Other', 'Undecided', 'Abstention',
+                        'lead', 'end']
+                reset = True
         elif choice == 'Canada':
             if '===Campaign period===' in line:
-                tables.append({'table': table, 'key': key, 'years': years})
-                key = ['firm', 'date', 'link',
-                       'LIB', 'CON', 'NDP', 'BQ', 'GRN', 'PPC',
-                       'margin', 'size', 'method', 'lead', 'end']
-                table = []
-                years = {0: years[max(years)]}
-                row = 0
-                col = 0
+                nkey = ['firm', 'date', 'link',
+                        'LIB', 'CON', 'NDP', 'BQ', 'GRN', 'PPC',
+                        'margin', 'size', 'method', 'lead', 'end']
+                reset = True
+        elif choice == 'Brazil':
+            if 'Before August' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'Bolsanaro (APB)', 'Lula (PT)', 'Haddad (PT)', 'Dino (PCdoB)', 'Gomes (PDT)', 'Boulos (PSOL)',
+                        'Doria (PSDB)', 'Amoedo (NOVO)', 'Silva (REDE)', 'Moro', 'Huck',
+                        'Other', 'Undecided', 'end']
+                reset = True
+        if reset:
+            tables.append({'table': table, 'key': key, 'years': years})
+            table = []
+            years = {0: years[max(years)]}
+            row = 0
+            col = 0
+            key = nkey
         if '==' in line:
             yline = line[line.find('=='):]
             yline = yline[:yline.find('==', 3)].strip('= \n')
@@ -269,6 +273,15 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
                     for k, entry in enumerate(table):
                         if entry[i + j] is not False:
                             purge.add(k)
+        for k in sorted(purge, reverse=True):
+            table.pop(k)
+    elif choice == 'Brazil':
+        purge = set()
+        i = key.index('firm')
+        for k, entry in enumerate(table):
+            if type(entry[i]).__name__ == 'str':
+                if '2018 Brazilian general election' in entry[i]:
+                    purge.add(k)
         for k in sorted(purge, reverse=True):
             table.pop(k)
     purge = set()
@@ -660,14 +673,16 @@ def choices_setup():
             'method': 'quotient'
         },
         'Brazil': {
-            'key': ['Bolsanaro (PSL/APB)', 'Lula (PT)', 'Haddad (PT)', 'Dino (PCdoB)', 'Gomes (PDT)', 'Boulos (PSOL)',
-                    'Doria (PSDB)', 'Amoedo (NOVO)', 'Silva (REDE)', 'Moro', 'Huck'],
-            'include': ['Bolsanaro (PSL/APB)', 'Lula (PT)', 'Gomes (PDT)', 'Doria (PSDB)'],
-            'col': {'Bolsanaro (PSL/APB)': (0, 140, 0), 'Lula (PT)': (204, 0, 0), 'Haddad (PT)': (204, 0, 0),
+            'key': ['firm', 'date', 'sample', 'Bolsanaro (APB)', 'Lula (PT)', 'Gomes (PDT)', 'Doria (PSDB)',
+                    'Leite (PSDB)', 'Mandetta (DEM)', 'Pancheco (DEM)', 'Datena (PSL)', 'Moro', 'Other', 'Undecided',
+                    'end'],
+            'include': ['Bolsanaro (APB)', 'Lula (PT)', 'Gomes (PDT)', 'Doria (PSDB)'],
+            'zeros': ['Undecided'],
+            'col': {'Bolsanaro (APB)': (0, 140, 0), 'Lula (PT)': (204, 0, 0), 'Haddad (PT)': (204, 0, 0),
                     'Dino (PCdoB)': (163, 0, 0), 'Gomes (PDT)': (238, 100, 100), 'Boulos (PSOL)': (163, 0, 0),
                     'Doria (PSDB)': (0, 95, 164), 'Amoedo (NOVO)': (240, 118, 42), 'Silva (REDE)': (46, 139, 87),
                     'Moro': dark_grey, 'Huck': grey},
-            'start': 3,
+            'start': 0,
             'vlines': {Date(2021, 3, 8): "Lula cleared of charges"},
             'end_date': Date(2022, 10, 2),
             'url': 'https://en.wikipedia.org/w/index.php?title='
@@ -701,7 +716,6 @@ def choices_setup():
                     'Government': (234, 109, 106), 'Opposition': (100, 149, 237)},
             'gov': {'Government': ['LIB'], 'Opposition': ['CON', 'NDP', 'BQ', 'GRN', 'PPC']},
             'blocs': {'Progressive': ['LIB', 'NDP', 'BQ', 'GRN'], 'Conservative': ['CON', 'PPC']},
-            # 'start': 3,
             'start': 0,
             'restart': ['Innovative Research', '2019 election'],
             'vlines': {Date(2019, 10, 21): "General Election",
@@ -1451,7 +1465,7 @@ class GraphPage:
         if 'old_data' in choices[self.choice]:
             with open(choices[self.choice]['old_data'], 'r', encoding='utf-8') as f:
                 content.extend(f.readlines())
-        if self.choice in ['Czechia', 'Russia', 'Canada']:
+        if self.choice in ['Czechia', 'Russia', 'Canada', 'Brazil']:
             tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
             tables = process_tables(tables, self.choice, self.include, self.zeros)
             tables = filter_tables(tables, self.choice, self.include)
