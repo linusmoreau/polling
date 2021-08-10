@@ -1816,6 +1816,8 @@ def update_save():
 
 
 def update_data(sel="All"):
+    global today
+
     def update_dat(dest, url, tag):
         try:
             content = urllib.request.urlopen(url)
@@ -1840,6 +1842,7 @@ def update_data(sel="All"):
         except urllib.error.URLError:
             print('Failed to load for ' + tag + ' from ' + url)
 
+    today = get_today()
     if sel == 'All':
         threads = []
         old_updated = updated.copy()
@@ -1899,6 +1902,16 @@ def sort_choices(choices):
     prevs.sort(key=sorter, reverse=True)
     nones.sort()
     return order + prevs + nones
+
+
+def get_today():
+    tod = str(datetime.date.today())
+    year, month, day = tod.split('-')
+    today = Date(int(year), int(month), int(day))
+    return today
+
+
+today = get_today()
 
 
 if __name__ == '__main__':
