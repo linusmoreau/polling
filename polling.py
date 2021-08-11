@@ -262,6 +262,8 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
         for j in indices:
             if type(entry[j]).__name__ == 'str':
                 val = process_value(entry[j], choice)
+            elif entry[j] is False:
+                val = None
             else:
                 val = entry[j]
             table[i][j] = val
