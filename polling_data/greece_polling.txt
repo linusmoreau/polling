@@ -7,7 +7,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="width:125px;" rowspan="2"| Fieldwork date
 ! style="width:50px;" rowspan="2"| Sample size
 ! style="width:35px;"| [[File:New Democracy Logo 2018.png|30px|link=New Democracy (Greece)|ND]]
-! style="width:35px;"| [[File:SYRIZA logo 2020.svg|35px|link=SΥRIZA]]
+! style="width:35px;"| [[File:SYRIZA logo 2020.svg|35px|link=Syriza]]
 ! style="width:35px; font-size:90%;"| [[Movement for Change (Greece)|KINAL]]
 ! style="width:35px;"| [[File:Logo of the Communist Party of Greece.svg|25px|link=Communist Party of Greece|KKE]]
 ! style="width:35px;"| [[Greek Solution|EL]]

@@ -167,7 +167,7 @@
 |-
 | [https://epaper-oesterreich.at/issue.act?issueId=836199&issueMutation=CITYW&issueDate=20210618&region=WIEN Research Affairs]
 | data-sort-value="2021-06-17"| 15–17 Jun 2021
-| 1,000
+| 500
 | Online
 | <!-- People Party -->  style="background:#D2EDF1;"| '''35'''
 | <!-- Social Democratic Party --> | 22

@@ -2,7 +2,7 @@
 
 {|class="wikitable sortable mw-datatable mw-collapsible" style="text-align:center;font-size:90%;line-height:14px;"
 |- style="height:40px;"
-! style="width:160px;" rowspan="2"|Polling firm
+! style="width:180px;" rowspan="2"|Polling firm
 ! style="width:125px;" rowspan="2"|Fieldwork date
 ! style="width:35px;" rowspan="2"|Sample<br>size
 ! style="width:30px;" rowspan="2"|{{abbr|Abs.|Abstention}}
@@ -12,6 +12,7 @@
 ! class="unsortable" style="width:40px;"|[[Free Democratic Party (Germany)|FDP]]
 ! class="unsortable" style="width:40px;"|[[The Left (Germany)|Linke]]
 ! class="unsortable" style="width:40px;"|[[Alliance 90/The Greens|Grüne]]
+! class="unsortable" style="width:40px;"|[[Free Voters|FW]]
 ! class="unsortable" style="width:30px;" rowspan="2"|Others
 ! style="width:30px;" rowspan="2"|Lead
 |-
@@ -21,6 +22,161 @@
 ! style="background:{{Free Democratic Party (Germany)/meta/color}};"|
 ! style="background:{{The Left (Germany)/meta/color}};"|
 ! style="background:{{Alliance 90/The Greens/meta/color}};"|
+! style="background:{{Freie Wähler/meta/color}};"|
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-08-11"| 4–10 Aug 2021
+| 1,446
+| –
+| style="background:#D7D5D7;"| '''22'''
+| 19
+| 11
+| 12
+| 7
+| 21
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 1
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-08-09"| 6–9 Aug 2021
+| 2,118
+| –
+| style="background:#D7D5D7;"| '''25.5'''
+| 17.5
+| 11.5
+| 12.5
+| 6.5
+| 17.5
+| 3.5
+| 5.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| 3–9 Aug 2021
+| 2,509
+| 26
+| style="background:#D7D5D7;"| '''23'''
+| 19
+| 10
+| 12
+| 7
+| 20
+| –
+| 9
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 3
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-08-08"| 2–6 Aug 2021
+| 2,002
+| –
+| style="background:#D7D5D7;"| '''26'''
+| 18
+| 11
+| 12
+| 7
+| 18
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-08-05"| 2–4 Aug 2021
+| 1,312
+| –
+| style="background:#D7D5D7;"| '''27'''
+| 18
+| 10
+| 12
+| 6
+| 19
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-08-04"| 28 Jul–3 Aug 2021
+| 1,413
+| –
+| style="background:#D7D5D7;"| '''24'''
+| 18
+| 11
+| 13
+| 6
+| 22
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-08-02"| 30 Jul–2 Aug 2021
+| 2,080
+| –
+| style="background:#D7D5D7;"| '''27.5'''
+| 18
+| 11
+| 13
+| 7
+| 18
+| –
+| 5.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 9.5
+|-
+| [https://www.wahlrecht.de/umfrage/forsa.htm Forsa]
+| data-sort-value="2021-08-03"| 27 Jul–2 Aug 2021
+| 2,502
+| 25
+| style="background:#D7D5D7;"| '''26'''
+| 16
+| 10
+| 13
+| 6
+| 20
+| –
+| 9
+| style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"| 6
+|-
+| [https://www.wahlrecht.de/umfragen/ipsos.htm Ipsos]
+| data-sort-value="2021-06-29"| 21–31 Jul 2021
+| 2,002
+| –
+| style="background:#D7D5D7;"| '''27'''
+| 18
+| 11
+| 10
+| 7
+| 20
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-08-01"| 26–30 Jul 2021
+| 1,196
+| –
+| style="background:#D7D5D7;"| '''27'''
+| 17
+| 11
+| 13
+| 6
+| 18
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 9
+|-
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| data-sort-value="2021-07-30"| 27–29 Jul 2021
+| 1,268
+| 27
+| style="background:#D7D5D7;"| '''28'''
+| 16
+| 11
+| 10
+| 7
+| 21
+| 3
+| 4
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
 |-
 | [https://www.wahlrecht.de/umfragen/gms.htm GMS]
 | data-sort-value="2021-07-27"| 21–27 Jul 2021
@@ -32,8 +188,37 @@
 | 12
 | 7
 | 18
+| –
 | 8
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 12
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 12
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-07-30"| 20–27 Jul 2021
+| 1,441
+| –
+| style="background:#D7D5D7;"| '''27'''
+| 17
+| 11
+| 13
+| 6
+| 19
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
+|-
+| [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
+| data-sort-value="2021-07-30"| 23–26 Jul 2021
+| 1,748
+| –
+| style="background:#D7D5D7;"| '''28'''
+| 16
+| 12
+| 12
+| 8
+| 16
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 12
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | data-sort-value="2021-07-26"| 23–26 Jul 2021
@@ -45,8 +230,23 @@
 | 13
 | 6
 | 17.5
+| –
 | 7
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 9.5
+|-
+| [https://www.wahlrecht.de/umfrage/forsa.htm Forsa]
+| data-sort-value="2021-07-28"| 20–26 Jul 2021
+| 2,501
+| 25
+| style="background:#D7D5D7;"| '''26'''
+| 15
+| 10
+| 13
+| 7
+| 21
+| –
+| 8
+| style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | data-sort-value="2021-07-25"| 19–23 Jul 2021
@@ -58,8 +258,23 @@
 | 13
 | 7
 | 18
+| –
 | 7
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 9
+|-
+| [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
+| data-sort-value="2021-07-28"| 3–22 Jul 2021
+| 1,243
+| –
+| style="background:#D7D5D7;"| '''30'''
+| 16
+| 9.5
+| 12
+| 7
+| 19.5
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 10.5
 |-
 | [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
 | data-sort-value="2021-07-22"| 20–21 Jul 2021
@@ -71,7 +286,8 @@
 | 12
 | 6
 | 19
-| 8
+| 3
+| 5
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 10
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
@@ -84,6 +300,7 @@
 | 12
 | 7
 | 19
+| –
 | 7
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 9
 |-
@@ -97,6 +314,7 @@
 | 12
 | 6
 | 18
+| –
 | 7
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 11
 |-
@@ -110,6 +328,7 @@
 | 12
 | 7
 | 19
+| –
 | 8
 | style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"| 9
 |-
@@ -123,6 +342,7 @@
 | 12
 | 7
 | 18
+| –
 | 7
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 10
 |-
@@ -136,10 +356,11 @@
 | 10
 | 7
 | 20
+| –
 | 8
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 10
 |-
-| [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
+| [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach (intermediate result)]
 | data-sort-value="2021-07-20"| 3–14 Jul 2021
 | 1,028
 | –
@@ -149,6 +370,7 @@
 | 12
 | 6.5
 | 18
+| –
 | 6
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 13.5
 |-
@@ -162,6 +384,7 @@
 | 11
 | 8
 | 20
+| –
 | 7
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
@@ -175,6 +398,7 @@
 |12.5
 |7
 |17
+|–
 |7.5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|11
 |-
@@ -188,6 +412,7 @@
 |12
 |7
 |19
+|–
 |8
 |style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"|11
 |-
@@ -201,6 +426,7 @@
 |12
 |8
 |17
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|11
 |-
@@ -214,6 +440,7 @@
 |11
 |8
 |19
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|10
 |-
@@ -227,6 +454,7 @@
 |12.5
 |7
 |18
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|11
 |-
@@ -240,6 +468,7 @@
 |11
 |7
 |19
+|–
 |8
 |style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"|11
 |-
@@ -253,6 +482,7 @@
 |12
 |7
 |18
+|–
 |8
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|10
 |-
@@ -266,6 +496,7 @@
 |11
 |7
 |20
+|–
 |8
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
 |-
@@ -279,6 +510,7 @@
 |10
 |7
 |20
+|–
 |8
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
 |-
@@ -292,6 +524,7 @@
 |11
 |7
 |19
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|11
 |-
@@ -305,6 +538,7 @@
 |13
 |7.5
 |18
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|11.5
 |-
@@ -318,6 +552,7 @@
 |12
 |7
 |20
+|–
 |8
 |style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"|10
 |-
@@ -331,6 +566,7 @@
 |11
 |8
 |21
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
 |-
@@ -344,6 +580,7 @@
 |12
 |7
 |19
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|9
 |-
@@ -357,6 +594,7 @@
 |10
 |7
 |22
+|–
 |8
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
 |-
@@ -370,6 +608,7 @@
 |11
 |6
 |21
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
 |-
@@ -383,6 +622,7 @@
 |11
 |7
 |19
+|–
 |8
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|9
 |-
@@ -396,6 +636,7 @@
 |13
 |6
 |21
+|–
 |7
 |style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"|8
 |-
@@ -409,6 +650,7 @@
 |14
 |7
 |19
+|–
 |5.5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|9.5
 |-
@@ -422,6 +664,7 @@
 |12
 |8
 |20
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
 |-
@@ -435,6 +678,7 @@
 |13
 |6
 |21
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
 |-
@@ -448,6 +692,7 @@
 |13
 |6
 |20
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
 |-
@@ -461,6 +706,7 @@
 |12
 |7
 |20
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
 |-
@@ -474,6 +720,7 @@
 |13.5
 |6
 |19.5
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
 |-
@@ -487,6 +734,7 @@
 |14
 |7
 |21
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
 |-
@@ -500,6 +748,7 @@
 |13
 |7
 |20
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
 |-
@@ -513,6 +762,7 @@
 |14
 |12
 |15
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
 |-
@@ -526,6 +776,7 @@
 |12
 |7
 |20
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
 |-
@@ -539,7 +790,8 @@
 |10
 |7
 |22
-|7
+|3
+|4
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|6
 |-
 |[https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
@@ -552,6 +804,7 @@
 |11
 |7
 |21.5
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
 |-
@@ -565,6 +818,7 @@
 |13
 |7
 |21
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
 |-
@@ -578,6 +832,7 @@
 |13.5
 |7
 |20.5
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|6
 |-
@@ -591,6 +846,7 @@
 |14
 |6
 |22
+|–
 |8
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
 |-
@@ -604,6 +860,7 @@
 |12
 |6
 |21
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
 |-
@@ -617,6 +874,7 @@
 |13
 |7
 |22
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2
 |-
@@ -630,6 +888,7 @@
 |13.5
 |6.5
 |21.5
+|–
 |6.5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|4
 |-
@@ -643,6 +902,7 @@
 |14
 |6
 |24
+|–
 |8
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|1
 |-
@@ -656,6 +916,7 @@
 |13
 |7
 |22
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|3
 |-
@@ -669,6 +930,7 @@
 |12.5
 |6.5
 |22
+|–
 |5.5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|4
 |-
@@ -682,6 +944,7 @@
 |12
 |7
 |23
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2
 |-
@@ -695,6 +958,7 @@
 |11
 |9
 |23
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2
 |-
@@ -708,6 +972,7 @@
 |12
 |7
 |22
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|4
 |-
@@ -721,6 +986,7 @@
 |13
 |6
 |style="background:#DCEAD0;"|'''25'''
+|–
 |8
 |style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |1
 |-
@@ -734,6 +1000,7 @@
 |13
 |6
 |23
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|1
 |-
@@ -747,7 +1014,8 @@
 |11
 |7
 |style="background:#DCEAD0;"|'''25'''
-|8
+|3
+|5
 |style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |1
 |-
 |[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
@@ -760,6 +1028,7 @@
 |11
 |8
 |24
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2
 |-
@@ -773,6 +1042,7 @@
 |12.5
 |6.5
 |23
+|–
 |5.5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2.5
 |-
@@ -786,6 +1056,7 @@
 |11
 |6
 |style="background:#DCEAD0;"|'''26'''
+|–
 |8
 |style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |2
 |-
@@ -799,6 +1070,7 @@
 |11
 |7
 |24
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2
 |-
@@ -812,6 +1084,7 @@
 |11
 |7
 |24
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|1
 |-
@@ -825,6 +1098,7 @@
 |10
 |6.5
 |24
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|3.5
 |-
@@ -838,6 +1112,7 @@
 |12
 |7
 |style="background:#DCEAD0;"|'''25'''
+|–
 |6
 |style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |1
 |-
@@ -851,6 +1126,7 @@
 |11
 |8
 |style="background:#DCEAD0;"|'''25'''
+|–
 |6
 |style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |1
 |-
@@ -864,6 +1140,7 @@
 |12
 |7.5
 |23.5
+|–
 |5.5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2
 |-
@@ -877,6 +1154,7 @@
 |11
 |6
 |style="background:#DCEAD0;"|'''27'''
+|–
 |7
 |style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |3
 |-
@@ -890,6 +1168,7 @@
 |12
 |11
 |21
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|1
 |-
@@ -903,6 +1182,7 @@
 |10
 |7
 |style="background:#DCEAD0;"|'''26'''
+|–
 |7
 |style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |1
 |-
@@ -916,6 +1196,7 @@
 |11
 |6
 |style="background:#DCEAD0;"|'''26'''
+|3
 |8
 |style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |3
 |-
@@ -929,6 +1210,7 @@
 |12
 |7
 |style="background:#DCEAD0;"|'''26'''
+|–
 |6
 |style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |3
 |-
@@ -942,6 +1224,7 @@
 |12
 |7
 |style="background:#DCEAD0;"|'''24'''
+|–
 |6
 |Tie
 |-
@@ -955,6 +1238,7 @@
 |12
 |6
 |style="background:#DCEAD0;"|'''28'''
+|–
 |7
 |style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |5
 |-
@@ -968,6 +1252,7 @@
 |11
 |7
 |style="background:#DCEAD0;"|'''27'''
+|–
 |6
 |style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |3
 |-
@@ -981,6 +1266,7 @@
 |12
 |8
 |style="background:#DCEAD0;"|'''23'''
+|–
 |6
 |Tie
 |-
@@ -994,6 +1280,7 @@
 |11
 |8
 |style="background:#DCEAD0;"|'''25'''
+|–
 |7
 |style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |1
 |-
@@ -1007,6 +1294,7 @@
 |12
 |7
 |style="background:#DCEAD0;"|'''28'''
+|–
 |7
 |style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |6
 |-
@@ -1020,6 +1308,7 @@
 |12
 |8
 |23
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|1
 |-
@@ -1033,6 +1322,7 @@
 |9
 |7
 |style="background:#DCEAD0;"|'''28'''
+|–
 |6
 |style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |1
 |-
@@ -1046,6 +1336,7 @@
 |12
 |7
 |style="background:#DCEAD0;"|'''28'''
+|–
 |8
 |style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |7
 |-
@@ -1059,6 +1350,7 @@
 |11
 |7
 |22
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
 |-
@@ -1072,6 +1364,7 @@
 |11
 |7
 |21
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
 |-
@@ -1085,6 +1378,7 @@
 |10
 |6
 |23
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
 |-
@@ -1098,6 +1392,7 @@
 |10
 |8
 |20
+|–
 |4
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
 |-
@@ -1111,6 +1406,7 @@
 |9
 |7
 |21
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|10
 |-
@@ -1124,6 +1420,7 @@
 |10
 |7.5
 |23
+|–
 |5.5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
 |-
@@ -1137,6 +1434,7 @@
 |11
 |7
 |21
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
 |-
@@ -1150,6 +1448,7 @@
 |9
 |8
 |22
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
 |-
@@ -1163,6 +1462,7 @@
 |10
 |7
 |20.5
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
 |-
@@ -1176,6 +1476,7 @@
 |9
 |8
 |23
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|4
 |-
@@ -1189,6 +1490,7 @@
 |9
 |9
 |22
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
 |-
@@ -1202,6 +1504,7 @@
 |10
 |7
 |21
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|6
 |-
@@ -1215,6 +1518,7 @@
 |10
 |7
 |23
+|–
 |8
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|4
 |-
@@ -1228,6 +1532,7 @@
 |9
 |9
 |23
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|3
 |-
@@ -1241,6 +1546,7 @@
 |9
 |7
 |22
+|–
 |8
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
 |-
@@ -1254,6 +1560,7 @@
 |10.5
 |7
 |21
+|–
 |6.5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
 |-
@@ -1267,6 +1574,7 @@
 |10
 |8
 |21
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|6
 |-
@@ -1280,6 +1588,7 @@
 |11
 |8
 |21
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
 |-
@@ -1293,6 +1602,7 @@
 |10
 |7
 |23
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|4
 |-
@@ -1306,6 +1616,7 @@
 |9
 |7
 |23
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
 |-
@@ -1319,6 +1630,7 @@
 |10
 |9
 |23
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2
 |-
@@ -1332,6 +1644,7 @@
 |10.5
 |7
 |20
+|–
 |5.5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
 |-
@@ -1345,6 +1658,7 @@
 |10
 |8
 |22
+|–
 |8
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|4
 |-
@@ -1358,6 +1672,7 @@
 |8.5
 |8.5
 |21.5
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
 |-
@@ -1371,6 +1686,7 @@
 |10
 |8
 |20
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
 |-
@@ -1384,6 +1700,7 @@
 |9
 |7
 |20
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|9
 |-
@@ -1397,6 +1714,7 @@
 |10
 |8
 |22
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
 |-
@@ -1410,6 +1728,7 @@
 |10.5
 |8
 |17
+|–
 |6.5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|12.5
 |-
@@ -1423,6 +1742,7 @@
 |8
 |8
 |21
+|–
 |8
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
 |-
@@ -1436,6 +1756,7 @@
 |8
 |8
 |19
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|12
 |-
@@ -1449,6 +1770,7 @@
 |10.5
 |9
 |17
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|13
 |-
@@ -1462,6 +1784,7 @@
 |8
 |8
 |18
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|15
 |-
@@ -1475,6 +1798,7 @@
 |9
 |9
 |19
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|13
 |-
@@ -1488,6 +1812,7 @@
 |7
 |7
 |20
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|13
 |-
@@ -1501,6 +1826,7 @@
 |10
 |8
 |17
+|–
 |4.5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|15.5
 |-
@@ -1514,6 +1840,7 @@
 |7
 |8
 |19
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|15
 |-
@@ -1527,6 +1854,7 @@
 |7
 |7
 |19
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16
 |-
@@ -1540,6 +1868,7 @@
 |8
 |9
 |18
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16
 |-
@@ -1553,6 +1882,7 @@
 |9
 |8
 |17
+|–
 |5.5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16.5
 |-
@@ -1566,6 +1896,7 @@
 |8
 |8
 |18
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|15
 |-
@@ -1579,6 +1910,7 @@
 |8
 |7
 |19
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16
 |-
@@ -1592,6 +1924,7 @@
 |8
 |6
 |20
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|13
 |-
@@ -1605,6 +1938,7 @@
 |8
 |8
 |19
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|15
 |-
@@ -1618,6 +1952,7 @@
 |7
 |7
 |20
+|–
 |4.5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
 |-
@@ -1631,6 +1966,7 @@
 |9
 |9
 |17
+|–
 |4
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16.5
 |-
@@ -1644,6 +1980,7 @@
 |7
 |7
 |18
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|19
 |-
@@ -1657,6 +1994,7 @@
 |7
 |8
 |19
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16
 |-
@@ -1670,6 +2008,7 @@
 |8
 |7
 |18
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
 |-
@@ -1683,6 +2022,7 @@
 |9
 |8.5
 |17.5
+|–
 |4
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
 |-
@@ -1696,6 +2036,7 @@
 |7
 |7
 |19
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
 |-
@@ -1709,6 +2050,7 @@
 |8
 |6
 |21
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|13
 |-
@@ -1722,6 +2064,7 @@
 |7
 |7
 |19
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
 |-
@@ -1735,6 +2078,7 @@
 |7
 |9
 |18
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
 |-
@@ -1748,6 +2092,7 @@
 |8
 |7.5
 |17
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|19.5
 |-
@@ -1761,6 +2106,7 @@
 |6
 |8
 |19
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
 |-
@@ -1774,6 +2120,7 @@
 |6
 |7
 |20
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
 |-
@@ -1787,6 +2134,7 @@
 |7
 |8
 |19
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
 |-
@@ -1800,6 +2148,7 @@
 |8
 |8
 |17
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
 |-
@@ -1813,6 +2162,7 @@
 |7
 |7
 |18
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|19
 |-
@@ -1826,6 +2176,7 @@
 |7
 |6
 |21
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|13
 |-
@@ -1839,6 +2190,7 @@
 |7
 |8
 |20
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|15
 |-
@@ -1852,6 +2204,7 @@
 |6.5
 |7.5
 |20
+|–
 |4
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
 |-
@@ -1865,6 +2218,7 @@
 |9
 |8
 |17
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
 |-
@@ -1878,6 +2232,7 @@
 |8.5
 |7.5
 |17.5
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
 |-
@@ -1891,6 +2246,7 @@
 |7
 |8
 |19
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16
 |-
@@ -1904,6 +2260,7 @@
 |6
 |8
 |20
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|15
 |-
@@ -1917,6 +2274,7 @@
 |5
 |8
 |20
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
 |-
@@ -1930,6 +2288,7 @@
 |7
 |8
 |18
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
 |-
@@ -1943,6 +2302,7 @@
 |7.5
 |8
 |18
+|–
 |5.5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
 |-
@@ -1956,6 +2316,7 @@
 |7
 |8
 |20
+|–
 |7
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16
 |-
@@ -1969,6 +2330,7 @@
 |7
 |7
 |21
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|14
 |-
@@ -1982,6 +2344,7 @@
 |6
 |9
 |18
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
 |-
@@ -1995,6 +2358,7 @@
 |7.5
 |7.5
 |18
+|–
 |5
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
 |-
@@ -2008,20 +2372,22 @@
 |6
 |8
 |18
+|–
 |6
 |style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|19
 |-
 |-
-|style="background:#E9E9E9;"|[[2017 German federal election|2017 federal election]]
-|style="background:#E9E9E9;" data-sort-value="2017-09-24"|24 Sep 2017
-|style="background:#E9E9E9;"|–
-|style="background:#E9E9E9;"|23.8
-|style="background:#D7D5D7;"|'''32.9'''
-|style="background:#E9E9E9;"|20.5
-|style="background:#E9E9E9;"|12.6
-|style="background:#E9E9E9;"|10.7
-|style="background:#E9E9E9;"|9.2
-|style="background:#E9E9E9;"|8.9
-|style="background:#E9E9E9;"|5.0
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|12.4
+| style="background:#E9E9E9;"| [[2017 German federal election|2017 federal election]]
+| style="background:#E9E9E9;" data-sort-value="2017-09-24"| 24 Sep 2017
+| style="background:#E9E9E9;"| –
+| style="background:#E9E9E9;"| 23.8
+| style="background:#D7D5D7;"| '''32.9'''
+| style="background:#E9E9E9;"| 20.5
+| style="background:#E9E9E9;"| 12.6
+| style="background:#E9E9E9;"| 10.7
+| style="background:#E9E9E9;"| 9.2
+| style="background:#E9E9E9;"| 8.9
+| style="background:#E9E9E9;"| 1.0
+| style="background:#E9E9E9;"| 4.0
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 12.4
 |}

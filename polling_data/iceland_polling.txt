@@ -43,6 +43,54 @@
 | 1.5
 | style="background:{{Independence Party (Iceland)/meta/color}};color:#FFFFFF;"| 8.4
 |-
+|[https://www.gallup.is/nidurstodur/thjodarpuls/fylgi-flokka/ Gallup]
+|30 June–28 July 2021
+|3,800
+|{{N/A}}
+| style="background:#C6ECFB;"| '''24.1'''
+|13.8
+|12.3
+|7.4
+|11.9
+|12.2
+|4.0
+|8.7
+|5.4
+|0.2
+| style="background:{{Independence Party (Iceland)/meta/color}};color:#FFFFFF;"| 10.3
+|-
+| [https://www.visir.is/g/20212137580d/rikisstjornin-fallin-samkvaemt-konnun-maskinu Maskína]
+| data-sort-value="2021-07-01"| July 2021
+| {{TBA}}
+| {{TBA}}
+| style="background:#C6ECFB;"| '''20.9'''
+| 14.1
+| 13.7
+| 5.5
+| 9.9
+| 12.7
+| 4.2
+| 12.3
+| 6.3
+| –
+| style="background:{{Independence Party (Iceland)/meta/color}};color:#FFFFFF;"| 6.8
+|-
+| [https://www.electograph.com/2021/07/iceland-prosent-poll-210727.html Prósent]
+| data-sort-value="2021-07-23"| 15–23 Jul 2021
+| 2,600
+| –
+| style="background:#C6ECFB;"| '''23.6'''
+| 11.9
+| 12.6
+| 5.6
+| 10.6
+| 13.3
+| 5.0
+| 10.1
+| 6.1
+| 1.2
+| style="background:{{Independence Party (Iceland)/meta/color}};color:#FFFFFF;"| 10.3
+|-
 | [https://mmr.is/frettir/birtar-nieurstoeeur/881 MMR]
 | data-sort-value="2021-06-14"| 24 Jun–6 Jul 2021
 | 2,041

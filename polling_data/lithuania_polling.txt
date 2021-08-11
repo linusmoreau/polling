@@ -10,7 +10,7 @@ The following are opinion polls conducted for the legislative elections, measuri
 ! class="unsortable" |[[Freedom Party (Lithuania)|Laisves]]
 ! class="unsortable" |[[Liberal Movement (Lithuania)|LRLS]]
 ! class="unsortable" |[[Electoral Action of Poles in Lithuania – Christian Families Alliance|LLRA]]
-! class="unsortable" |[[Social Democratic Labour Party of Lithuania|LSDDP]]
+! class="unsortable" |[[Lithuanian Regions Party|LRP]]
 ! class="unsortable" |[[Lithuanian Centre Party|LCP]]
 ! class="unsortable" |[[Freedom and Justice|LT]]
 ! class="unsortable" rowspan=2| Lead
@@ -22,7 +22,7 @@ The following are opinion polls conducted for the legislative elections, measuri
 |style="background:#E3006B; width:40px;" <!-- Laisves --> |
 | style="background:{{Liberal Movement (Lithuania)/meta/color}}" <!-- LRLS--> |
 | style="background:{{Electoral Action of Poles in Lithuania/meta/color}}" <!-- Electoral Action of Poles in Lithuania --> |
-| style="background:#c1272d" <!-- LSDDP --> |
+| style="background:{{Lithuanian Regions Party/meta/color}}" <!-- LRP --> |
 | style="background:#009C3D" <!-- Centre Party -->|
 | style="background:{{Freedom and Justice/meta/color}}" <!-- Freedom and Justice --> |
 |-

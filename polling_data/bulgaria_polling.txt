@@ -470,7 +470,8 @@
 | 4.7%
 | style="background:{{GERB/meta/color}}; color:white;"| 8.4%
 |}
-<br>
+{{notelist|group=}}
+
 <small>'''Graphical representation of recalculated data:'''</small>
 {{Graph:Chart
  | hannotatonslabel=4% electoral threshold

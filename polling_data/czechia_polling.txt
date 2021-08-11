@@ -42,6 +42,25 @@
 ! class="unsortable" style="background:#002D72;" |
 ! class="unsortable" style="background:#0033FF;" |
 |-
+|[https://www.median.eu/cs/wp-content/uploads/2021/08/Volby_2021_07_v04.pdf Median]
+|1–31 Jul
+|1078
+|–
+|{{Party shading/ANO 2011}}|'''26.0'''
+| colspan="3" |21.5
+| colspan="2" |20.0
+|7.0
+|6.0
+|4.5
+| colspan="2" |3.0
+|2.5
+|{{N/A}}
+|6.5
+|3.0
+|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |4.5
+|'''30.5'''
+|{{No|'''54.5'''}}
+|-
 |[http://www.sanep.cz/pruzkumy/volebni-preference-2021-8/ Sanep]
 |8–14 Jul
 |1,876
@@ -60,6 +79,25 @@
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |0.2
 |'''28.7'''
 |{{No|'''58.5'''}}
+|-
+|[https://cvvm.soc.cas.cz/cz/tiskove-zpravy/politicke/volby-a-strany/5419-volebni-model-v-cervenci-2021 CVVM]
+|26 Jun–11 Jul
+|621
+|63.0
+|{{Party shading/ANO 2011}}|'''23.5'''
+| colspan="3" |21.5
+| colspan="2" |21.0
+|9.0
+|8.0
+|6.5
+| colspan="2" |2.5
+|2.0
+|{{N/A}}
+|3.0
+|3.0
+|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |2.0
+|'''30.0'''
+|{{No|'''57.0'''}}
 |-
 |[https://www.phoenixresearch.cz/dnld/Phoenixresearch-preference-a-potencial-CR-7-2021-(LQ).pdf Phoenix Research]
 |1–10 Jul
@@ -1042,7 +1080,7 @@
 | 1.6
 | {{N/A}}
 | 1.5
-| 0.2
+| 1.0
 | {{N/A}}
 | 3.2
 | style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" | 18.3

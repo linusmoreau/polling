@@ -31,6 +31,22 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! class="sortable" style="background:#00ADEF;"|
 ! class="sortable" style="background:darkseagreen;"|
 |-
+|[https://sol.sapo.pt/artigo/742536/sondagem-chega-baixa-pela-primeira-vez-desde-as-legislativas Eurosondagem]
+|26–29 Jul 2021
+|1,025
+|?
+|{{Party shading/PS}} |'''41.1'''
+|27.3
+|4.8
+|5.9
+|2.1
+|2.2
+|8.8
+|3.3
+| –
+|4.5
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |13.8
+|-
 |[https://expresso.pt/politica/2021-07-21-Sondagem-PSD-recupera-face-ao-PS-mas-pouco.-Bloco-e-Chega-disputam-o-terceiro-lugar.-Tres-quartos-dos-inquiridos-querem-remodelacao-981665e0 Intercampus]
 | data-sort-value="2019-10-03" | 7–16 Jul 2021
 | 607

@@ -4,7 +4,7 @@
 {{clear}}
 
 {| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px"
-|-
+|- style="height:40px;"
 ! style="width:105px" rowspan="2"| Polling firm
 ! style="width:105px" rowspan="2"| Last date<br>of polling{{ref label|order|1|1}}
 ! rowspan="2"| Link
@@ -26,6 +26,20 @@
 ! style="background:{{Canadian party colour|CA|BQ}}" data-sort-type="number"|
 ! style="background:{{Canadian party colour|CA|Green}}" data-sort-type="number"|
 ! style="background:{{Canadian party colour|CA|PPC}}" data-sort-type="number"|
+|-
+| [[Angus Reid (market research)#The Angus Reid Institute|Angus Reid]] || {{dts|August 3, 2021}} || [https://angusreid.org/wp-content/uploads/2021/08/2021.08.05_fed_politics_aug_2021.pdf PDF] || 30 || {{Party shading/Liberal}}|'''35''' || 19 || 7 || 3 || {{n/a}} || 6 || ±2.5 pp || 1,605 || online || {{Party shading/Liberal}}|'''5'''
+|-
+| [[Abacus Data]] || {{dts|August 2, 2021}} || [https://abacusdata.ca/liberals-lead-by-12/ HTML] || 25 || {{Party shading/Liberal}}|'''37''' || 20 || 8 || 6 || {{n/a}} || {{n/a}} || ±2.2 pp || 2,000 || online || {{Party shading/Liberal}}|'''12'''
+|-
+| [[Léger Marketing|Leger]] || {{dts|August 1, 2021}} || [https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/Legers-North-American-Tracker-August-2nd-2021_v2.pdf PDF] || 29 || {{Party shading/Liberal}}|'''36''' || 20 || 7 || 4 || 3 || 2 || ±2.15 pp || 2,079 || online || {{Party shading/Liberal}}|'''7'''
+|-
+| [[Nanos Research]] || {{dts|July 30, 2021}} || [https://web.archive.org/web/20210809042432/https://www.hilltimes.com/2021/08/09/rising-ndp-support-more-of-a-serious-threat-to-a-liberal-majority-than-conservatives-say-some-pollsters/310516 HTML] || 25.5 || {{Party shading/Liberal}}|'''38.8''' || 19.5 || {{n/a}} || 6.3 || {{n/a}} || {{n/a}} || ±3.1 pp || 1,000 (3/4) || telephone (rolling) || {{Party shading/Liberal}}|'''13.3'''
+|-
+| [[Ekos Research Associates|EKOS]] || {{dts|July 28, 2021}} || [https://www.hilltimes.com/2021/08/01/be-ready-for-aug-8-some-senior-liberals-expect-to-kick-off-federal-election-campaign-in-a-week/309691 HTML] || 28.6 || {{Party shading/Liberal}}|'''39.0''' || 17.9 || {{n/a}} || 4.2 || {{n/a}} || {{n/a}} || ±3 pp || 1,067 || IVR || {{Party shading/Liberal}}|'''10.4'''
+|-
+| [[Angus Reid (market research)#The Angus Reid Institute|Angus Reid]] || {{dts|July 27, 2021}} || [https://angusreid.org/wp-content/uploads/2021/07/2021.07.29_federal_leaders_mail_vote.pdf PDF] || 30 || {{Party shading/Liberal}}|'''33''' || 21 || 7 || 4 || {{n/a}} || 5 || ±2 pp || 1,606 || online || {{Party shading/Liberal}}|'''3'''
+|-
+| [[Mainstreet Research]] || {{dts|July 26, 2021}} || [https://www.mainstreetresearch.ca/poll/july-2021-national-vote-intention/ HTML] || 31.7 || {{Party shading/Liberal}}|'''34.4''' || 16.2 || 5.1 || 4.7 || {{n/a}} || 7.9 || ±2.7 pp || 1,299 || IVR || {{Party shading/Liberal}}|'''2.7'''
 |-
 | Innovative Research || {{dts|July 21, 2021}} || [https://innovativeresearch.ca/wp-content/uploads/2021/07/CTM2107-Harper-Report-v06-RELEASE.pdf PDF] || 27 || {{Party shading/Liberal}}|'''41''' || 17 || 6 || 5 || 3 || 1 || {{n/a}} || 834 || online || {{Party shading/Liberal}}|'''14'''
 |-
@@ -570,4 +584,26 @@
 ! colspan="14" |
 |-
 | style="background:#ffd"| ''[[2019 Canadian federal election|2019 election]]''{{ref label|2019 results|7|7}} ||style="background:#ffd"| {{dts|October 21, 2019}} ||style="background:#ffd"| [https://www.elections.ca/res/rep/off/ovr2019app/51/table9E.html HTML] ||{{Party shading/Conservative (Canada)}}| '''''34.3''''' ||style="background:#ffd"| ''33.1'' ||style="background:#ffd"| ''16.0'' ||style="background:#ffd"| ''7.6''||style="background:#ffd"| ''6.5'' ||style="background:#ffd"| ''1.6'' ||style="background:#ffd"| ''0.9'' ||{{n/a}} ||style="background:#ffd"|18,170,880 ||{{n/a}} || {{Party shading/Conservative (Canada)}}| '''''1.2''''' 
+|- 
+! style="width:105px" rowspan="2"| Polling firm
+! style="width:105px" rowspan="2"| Last date<br>of polling{{ref label|order|1|1}}
+! rowspan="2"| Link
+! style="background:{{Canadian party colour|CA|Conservative}}" data-sort-type="number"|
+! style="background:{{Canadian party colour|CA|Liberal}}" data-sort-type="number"|
+! style="background:{{Canadian party colour|CA|NDP}}" data-sort-type="number" |
+! style="background:{{Canadian party colour|CA|BQ}}" data-sort-type="number"|
+! style="background:{{Canadian party colour|CA|Green}}" data-sort-type="number"|
+! style="background:{{Canadian party colour|CA|PPC}}" data-sort-type="number"|
+! rowspan="2" style="width:40px" class="unsortable"| [[List of political parties in Canada|Other]]{{ref label|other|2|2}}
+! rowspan="2"| Margin<br>of error{{ref label|MOE|3|3}}
+! rowspan="2"| Sample<br>size{{ref label|sample|4|4}}
+! rowspan="2"| Polling method{{ref label|method|5|5}}
+! rowspan="2"| Lead
+|- style="height:40px;"
+! class="unsortable" style="width:40px"| [[Conservative Party of Canada|CPC]]
+! class="unsortable" style="width:40px"| [[Liberal Party of Canada|LPC]]
+! class="unsortable" style="width:40px"| [[New Democratic Party|NDP]]
+! class="unsortable" style="width:40px"| [[Bloc Québécois|BQ]]
+! class="unsortable" style="width:40px"| [[Green Party of Canada|GPC]]
+! class="unsortable" style="width:40px"| [[People's Party of Canada|PPC]]
 |}
