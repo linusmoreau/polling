@@ -1466,6 +1466,8 @@ class GraphPage:
 
         remove_from_update(self.choice)
 
+        close_button()
+
     def init_dat(self):
         with open(self.file_name, 'r', encoding='utf-8') as f:
             content = f.readlines()
@@ -1770,6 +1772,8 @@ class MenuPage:
         self.update_b = Button((screen_rect.centerx, screen_height * 7 / 8), align=CENTER, label='Update Data')
         self.update_b.callback(update_data)
 
+        self.close_b = close_button()
+
         self.show()
 
     def show(self):
@@ -1777,6 +1781,7 @@ class MenuPage:
             widgets.clear()
             self.display.show()
             self.update_b.show()
+            self.close_b.show()
             self.update_notices()
 
     def update_notices(self):
@@ -1926,6 +1931,23 @@ def sort_choices(choices):
     return order + prevs + nones
 
 
+def close_button():
+    dim = screen_height / 40
+    m = dim * 3 / 4
+    c = (200, 20, 20)
+    b = Button((screen_width, 0), (dim, dim), align=TOPRIGHT, threed=False, colour=c)
+    surf = pygame.Surface((m, m))
+    surf.fill(white)
+    surf.set_colorkey(white)
+    pygame.draw.line(surf, gold, (0, 0), (m, m), width=3)
+    pygame.draw.line(surf, gold, (0, m), (m, 0), width=3)
+    cross = Widget(b.rect.center, (m, m), align=CENTER, surface=surf, catchable=False)
+    b.components.append(cross)
+    b.callback(quit)
+    b.show()
+    return b
+
+
 def get_today():
     tod = str(datetime.date.today())
     year, month, day = tod.split('-')
@@ -1959,4 +1981,4 @@ if __name__ == '__main__':
     icon_surf.fill(white)
     icon_surf.blit(icon, (0, 0), None)
     pygame.display.set_icon(icon_surf)
-    run_loop(lock, background=surface)
+    run_loop(lock, background=surface, escape=False)
