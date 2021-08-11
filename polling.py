@@ -42,6 +42,7 @@ def transcribe_table(content, key, choice, begin, start):
     for line in content:
         s += line.strip() + '|'
     content = s.split('||')
+    found = set()
     while i < len(content):
         line = content[i].strip('| \n')
         reset = False
@@ -65,6 +66,22 @@ def transcribe_table(content, key, choice, begin, start):
                         'Doria (PSDB)', 'Amoedo (NOVO)', 'Silva (REDE)', 'Moro', 'Huck',
                         'Other', 'Undecided', 'end']
                 reset = True
+        elif choice == 'Italy':
+            a = 'https://www.youtrend.it/2021/05/25/draghi-cento-giorni/ Quorum – YouTrend'
+            b = 'style="background:{{Power to the People (Italy)/meta/color}}'
+            if a not in found and a in line:
+                nkey = ['date', 'firm', 'sample',
+                        'M5S', 'PD', 'Lega', 'FI', 'FdI', 'LeU', '+Eu', 'EV', 'C!', 'A', 'IV',
+                        'Other', 'lead', 'end']
+                reset = True
+                found.add(a)
+            elif b not in found and b in line:
+                nkey = ['date', 'firm', 'sample',
+                        'M5S', 'PD', 'Lega', 'FI', 'FdI', 'LeU', '+Eu', 'NcI', 'PaP',
+                        'Other', 'lead', 'end']
+                reset = True
+                found.add(b)
+
         if reset:
             tables.append({'table': table, 'key': key, 'years': years})
             table = []
@@ -426,7 +443,6 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
     flag = False
     while i < len(content):
         line = content[i]
-        nline = line
         # print(rot, line, end='')
         if '===' in line:
             year = line.strip('= \n')
@@ -481,8 +497,8 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                     if 'ref' in line:
                         i += 1
                         continue
-                elif choice in ['Italy', 'Cyprus', 'Slovakia', 'Hungary', 'Ireland', 'Japan', 'Ontario',
-                                'Latvia'] or (choice == 'UK' and date == 0):
+                elif choice in ['Cyprus', 'Slovakia', 'Hungary', 'Ireland', 'Japan', 'Ontario', 'Latvia'] or \
+                        (choice == 'UK' and date == 0):
                     line = prevline
                     if line[0] == '!':
                         rot = None
@@ -558,21 +574,7 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                 else:
                     end_date = date_kit.Date(text=temp, form='dmy')
                 end = date_kit.date_dif(today, end_date)
-                if choice == "Italy":
-                    if end_date.__repr__() == "2019-04-09":
-                        key = ['M5S', 'PD', 'Lega', 'FI', 'FdI', 'LeU', '+Eu', 'NcI', 'PaP']
-                    elif end_date.__repr__() == "2019-09-19":
-                        key = ['M5S', 'PD', 'Lega', 'FI', 'FdI', 'LeU', '+Eu', 'EV', 'C!', 'A']
-                    elif end_date.__repr__() == "2019-09-10":
-                        key = ['M5S', 'PD', 'Lega', 'FI', 'FdI', 'LeU', '+Eu', 'EV', 'C!']
-                    elif end_date.__repr__() == "2019-08-12":
-                        key = ['M5S', 'PD', 'Lega', 'FI', 'FdI', 'LeU', '+Eu', 'EV']
-                    elif 'https://www.youtrend.it/2021/05/25/draghi-cento-giorni/' in nline:
-                        key = ['M5S', 'PD', 'Lega', 'FI', 'FdI', 'LeU', '+Eu', 'EV', 'C!', 'A', 'IV']
-                    elif 'https://www.termometropolitico.it/1595537_sondaggi-tp-un-italiano-su-due-non-vuole-draghi-' \
-                         'al-quirinale.html' in nline:
-                        key = ['M5S', 'PD', 'Lega', 'FI', 'FdI', 'Art.1', 'SI', '+Eu', 'EV', 'A', 'IV']
-                elif choice == 'Japan':
+                if choice == 'Japan':
                     if end_date.__repr__() == '2020-12-27' or \
                             end_date.__repr__() == '2020-07-19' or \
                             end_date.__repr__() == '2020-06-14':
@@ -620,7 +622,7 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                         dat[key[p]][end].append(share)
                 else:
                     dat[key[p]][end] = [share]
-                if choice in ['Slovakia', 'Italy', 'Hungary', 'Bulgaria']:
+                if choice in ['Slovakia', 'Hungary', 'Bulgaria']:
                     if 'colspan=' in line:
                         temp: str = line[line.find('colspan=') + len('colspan='):]
                         num = int(temp.strip('|').split()[0].split('|')[0].strip('" '))
@@ -910,7 +912,11 @@ def choices_setup():
             'url': 'https://en.wikipedia.org/w/index.php?title=Next_Irish_general_election&action=edit&section=3'
         },
         'Italy': {
-            'key': ['M5S', 'PD', 'Lega', 'FI', 'FdI', 'Art.1', 'SI', '+Eu', 'EV', 'A', 'IV', 'CI'],
+            'key': ['date', 'firm', 'sample',
+                    'M5S', 'PD', 'Lega', 'FI', 'FdI', 'Art.1', 'SI', '+Eu', 'EV', 'A', 'IV', 'CI',
+                    'Other', 'lead', 'end'],
+            'include': ['M5S', 'PD', 'Lega', 'FI', 'FdI', 'Art.1', 'SI', '+Eu', 'EV', 'A', 'IV', 'CI', 'PaP', 'NcI',
+                        'LeU'],
             'col': {'M5S': (255, 235, 59), 'PD': (239, 28, 39), 'Lega': (0, 128, 0), 'FI': (0, 135, 220),
                     'FdI': (3, 56, 106), 'LeU': (199, 40, 55), '+Eu': (255, 215, 0), 'EV': (115, 193, 112),
                     'C!': (229, 131, 33), 'A': (0, 57, 170), 'IV': (214, 65, 140), 'NcI': (31, 107, 184),
@@ -921,8 +927,7 @@ def choices_setup():
                       'Right': ['Lega', 'FI', 'FdI', 'C!', 'NcI', 'CI']},
             'gov': {'Government': ['M5S', 'Lega', 'PD', 'FI', 'LeU', 'IV', 'Art.1'],
                     'Opposition': ['FdI', '+Eu', 'C!', 'A', 'SI', 'CI']},
-            'date': 0,
-            'start': 2,
+            'start': -1,
             'end_date': Date(2023, 6, 1),
             'old_data': 'polling_data/old_italy_polling.txt',
             'url': 'https://en.wikipedia.org/w/index.php?title='
@@ -1465,8 +1470,9 @@ class GraphPage:
         if 'old_data' in choices[self.choice]:
             with open(choices[self.choice]['old_data'], 'r', encoding='utf-8') as f:
                 content.extend(f.readlines())
-        if self.choice in ['Czechia', 'Russia', 'Canada', 'Brazil']:
+        if self.choice in ['Czechia', 'Russia', 'Canada', 'Brazil', 'Italy']:
             tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
+            # display_tables(tables)
             tables = process_tables(tables, self.choice, self.include, self.zeros)
             tables = filter_tables(tables, self.choice, self.include)
             tables = modify_tables(tables, self.choice, self.include, self.zeros)
