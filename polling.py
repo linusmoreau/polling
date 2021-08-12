@@ -327,7 +327,6 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
                 break
         else:
             purge.add(r)
-
     if choice == 'Czechia':
         for p in ['SPOLU', 'Pirati+STAN']:
             c = key.count(p)
@@ -357,6 +356,12 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
                     break
             else:
                 purge.add(k)
+    elif choice == 'Poland':
+        i = key.index('firm')
+        for k, entry in enumerate(table):
+            if type(entry[i]).__name__ == 'str':
+                if 'Presidential election' in entry[i]:
+                    purge.add(k)
     for j, entry in enumerate(table):
         for i, k in enumerate(key):
             if k in include and entry[i] is not False:
@@ -465,17 +470,11 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
         # print(rot, line, end='')
         if '===' in line:
             year = line.strip('= \n')
-            if choice == 'Poland' and year == '2019':
-                key = ['United Right', 'Civic Coalition', 'The Left', 'Polish Coalition', 'Confederation']
-            elif choice == 'UK' and year == '2020':
+            if choice == 'UK' and year == '2020':
                 date = 2
                 start = 5
         elif line[:2] == '|}':
             rot = None
-        elif choice == 'Poland':
-            if "The [[Polish Coalition]] parts ways with member party [[Kukiz'15]]" in line:
-                key = ['United Right', 'Civic Coalition', 'The Left', 'Polish Coalition', 'Confederation',
-                       'Poland 2050']
         elif choice == 'New York':
             if '<!--' in line:
                 line = line[:line.find('<!--')]
@@ -507,11 +506,6 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                         continue
                     elif '|' not in line:
                         line = content[i - 2]
-                elif choice == "Poland":
-                    if 'style=' in line:
-                        rot = None
-                        i += 1
-                        continue
                 line = line.strip().strip('}\'')
                 if choice == 'Ireland' and 'dts' in line:
                     temp = line.strip('|').split('|')
@@ -558,16 +552,8 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                         except ValueError:
                             temp = temp + ' ' + year
                     elif len(temps) == 1:
-                        try:
-                            temp = str(date_kit.get_month_length(date_kit.get_month_number(temps[0]), year)) + \
-                                   ' ' + temp + ' ' + year
-                        except KeyError:
-                            if choice == 'Poland':
-                                rot = None
-                                i += 1
-                                continue
-                            else:
-                                raise KeyError('KeyError getting month length')
+                        temp = str(date_kit.get_month_length(date_kit.get_month_number(temps[0]), year)) + \
+                               ' ' + temp + ' ' + year
                     temp = temp.strip("'")
                 temp = temp.replace('X', '0').replace('[', '').replace(']', '')
                 end_date = date_kit.Date(text=temp, form='dmy')
@@ -1303,17 +1289,31 @@ def choice_setting(c):
 
 
 def filter_nils(dat):
+    return filter_trails(filter_nones(dat))
+
+
+def filter_nones(dat):
     if dat is not None:
-        remove = {}
         for line, vals in dat.items():
             for x, ys in vals.items():
                 dat[line][x] = list(filter(lambda y: y is not None, ys))
-                if len(dat[line][x]) == 0:
-                    if line not in remove:
-                        remove[line] = []
-                    remove[line].append(x)
-        for line in remove:
-            for x in remove[line]:
+    return dat
+
+
+def filter_trails(dat):
+    if dat is not None:
+        purge = {}
+        for line, vals in dat.items():
+            for x, ys in vals.items():
+                for y in dat[line][x]:
+                    if y is not None:
+                        break
+                else:
+                    if line not in purge:
+                        purge[line] = []
+                    purge[line].append(x)
+        for line in purge:
+            for x in purge[line]:
                 dat[line].pop(x)
     return dat
 
@@ -1682,7 +1682,7 @@ class GraphPage:
 
     def change_view_or_metric(self):
         if self.dat is None:
-            self.dat = self.init_dat()
+            self.dat = filter_trails(self.init_dat())
             self.party_dat = filter_nils(copy.deepcopy(self.dat))
         if self.metric == 'seats':
             if self.seats_party_dat is None:
