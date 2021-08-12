@@ -61,7 +61,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 | style="background:#E9E9E9" | '''2'''
 | style="background:#E9E9E9" |
 | style="background:#E9E9E9" |
-| style="background:#E9E9E9" | '''0'''
+| style="background:#E9E9E9" |
 | style="background:#E9E9E9" |
 | style="background:#E9E9E9" | '''0'''
 | style="background:{{People's Party for Freedom and Democracy (2020)/meta/color}};color:#FFFFFF;"| 13

@@ -1,14 +1,12 @@
-
 === 2020 ===
 {{For|events during the year|2020 in Poland}}
-
 {| class="wikitable sortable collapsible" style="text-align:center; font-size:95%; line-height:16px;
 |- style="height:42px; background-color:#E9E9E9"
 ! rowspan="2" style="width:150px;" | Polling Firm/<br />Link
 ! rowspan="2" data-sort-type="date" | Fieldwork<br />Period
 ! rowspan="2" style="width:20px;" | Sample<br/>Size
 ! style="width:60px;" class="unsortable" | [[United Right (Poland)|United<br/>Right]]
-! style="width:60px;" class="unsortable" | [[Civic Coalition (Poland)|Civic<br/>Coalition]]
+! style="width:60px;" class="unsortable" colspan="2" | [[Civic Coalition (Poland)|Civic<br/>Coalition]]
 ! style="width:60px;" class="unsortable" | [[The Left (Poland)|The Left]]
 ! style="width:60px;" class="unsortable" | [[Polish Coalition|Polish<br/>Coalition]]
 ! style="width:60px;" class="unsortable" | [[Kukiz'15]]
@@ -18,18 +16,18 @@
 ! rowspan="2" data-sort-type="number" style="width:30px;" | Lead
 |-
 ! data-sort-type="number" style="height:1px; background:{{Law and Justice/meta/color}};" |
-! data-sort-type="number" style="height:1px; background:{{Civic Platform/meta/color}};" |
-! data-sort-type="number" style="height:1px; background:#ac145a;" |
+! colspan="2" data-sort-type="number" style="height:1px; background:{{Civic Platform/meta/color}};" |
+! data-sort-type="number" style="height:1px; background:{{The Left (Poland)/meta/color}};" |
 ! data-sort-type="number" style="height:1px; background:{{Polish People's Party/meta/color}};" |
 ! data-sort-type="number" style="height:1px; background:{{Kukiz'15/meta/color}};" |
-! data-sort-type="number" style="height:1px; background:#122746;" |
-! data-sort-type="number" style="height:1px; background:#F9C013;" |
+! data-sort-type="number" style="height:1px; background:{{Confederation Liberty and Independence/meta/color}};" |
+! data-sort-type="number" style="height:1px; background:{{Poland 2050/meta/color}};" |
 |-
 | [https://dorzeczy.pl/kraj/166986/ostatni-sondaz-w-2020-roku-pis-psl-i-lewica-rosna-reszta-traci.html Estymator / DoRzeczy.pl]
 | data-sort-value="2020-12-29" | 28–29 Dec 2020
 | 1,031
 | style="background:#C0DBFC;" | '''39.2'''
-| 23.6
+| colspan="2" | 23.6
 | 10.9
 | 7.4
 |
@@ -42,7 +40,7 @@
 | rowspan="2" data-sort-value="2020-12-28" | 25–28 Dec 2020
 | rowspan="2" | 1,040
 | style="background:#C0DBFC;" | '''35'''
-| 25
+| colspan="2" | 25
 | 13
 | 3
 | 5
@@ -52,7 +50,7 @@
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''10'''
 |-
 | style="background:#C0DBFC;" | '''33'''
-| 19
+| colspan="2" | 19
 | 11
 | 3
 | 4
@@ -65,7 +63,7 @@
 | data-sort-value="2020-12-22" | 21–22 Dec 2020
 | 1100
 | style="background:#C0DBFC;" | '''33.2'''
-| 23.6
+| colspan="2" | 23.6
 | 8.9
 | 6.0
 |
@@ -78,7 +76,7 @@
 | data-sort-value="2020-12-22" | 17–22 Dec 2020
 | 1000
 | style="background:#C0DBFC;" | '''25.7'''{{efn|name="pis-only"}}
-| 20.3
+| colspan="2" | 20.3
 | 8.6
 | 5.4
 | 3.4
@@ -91,7 +89,7 @@
 | rowspan="2" data-sort-value="2020-12-20" | 18–21 Dec 2020
 | rowspan="2" | 1,096
 | style="background:#C0DBFC;" | '''33'''
-| 26
+| colspan="2" | 26
 | 14
 | 2
 | 5
@@ -101,7 +99,7 @@
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''7'''
 |-
 | style="background:#C0DBFC;" | '''31'''
-| 20
+| colspan="2" | 20
 | 11
 | 4
 | 2
@@ -114,7 +112,7 @@
 | data-sort-value="2020-12-16" | 16 Dec 2020
 | 1,100
 | style="background:#C0DBFC;" | '''33.0'''
-| 22.3
+| colspan="2" | 22.3
 | 7.1
 | 6.1
 |
@@ -127,7 +125,7 @@
 | rowspan="2" data-sort-value="2020-12-14" | 11–14 Dec 2020
 | rowspan="2" | 1,092
 | style="background:#C0DBFC;" | '''36'''
-| 26
+| colspan="2" | 26
 | 12
 | 4
 | 3
@@ -137,7 +135,7 @@
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''10'''
 |-
 | style="background:#C0DBFC;" | '''34'''
-| 20
+| colspan="2" | 20
 | 10
 | 4
 | 3
@@ -150,7 +148,7 @@
 | data-sort-value="2020-12-12" | 12 Dec 2020
 | 1,067
 | style="background:#C0DBFC;" | '''40.05'''
-| 26.29
+| colspan="2" | 26.29
 | 8.52
 | 5.27
 |
@@ -163,7 +161,7 @@
 | data-sort-value="2020-12-12" | 11–12 Dec 2020
 | 1,100
 | style="background:#C0DBFC;" | '''34.0'''
-| 23.4
+| colspan="2" | 23.4
 | 9.7
 | 6.2
 |
@@ -176,7 +174,7 @@
 | data-sort-value="2020-12-11" | 10–11 Dec 2020
 | 1,023
 | style="background:#C0DBFC;" | '''38.3'''
-| 24.9
+| colspan="2" | 24.9
 | 10.9
 | 5.7
 | 2.4
@@ -189,7 +187,7 @@
 | data-sort-value="2020-12-10" | 9–10 Dec 2020
 | 1,100
 | style="background:#C0DBFC;" | '''33.7'''
-| 23.8
+| colspan="2" | 23.8
 | 9.0
 | 4.8
 | 0.7
@@ -202,7 +200,7 @@
 | data-sort-value="2020-12-10" | 30 Nov–10 Dec 2020
 | 1,010
 | style="background:#C0DBFC;" | '''31.1'''
-| 18.1
+| colspan="2" | 18.1
 | 3.9
 | 2.0
 | 2.0
@@ -214,8 +212,8 @@
 | [https://wyborcza.pl/7,75398,26611549,kantar-i-sensacyjny-wynik-pis-i-po-po-25-proc.html#S.DT-K.C-B.1-L.1.duzy Kantar Public]
 | data-sort-value="2020-12-09" | 4–9 Dec 2020
 | 987
-| '''25'''
-| '''25'''
+| style="background:#C0DBFC;" | '''25'''
+| colspan="2" style="background:#FDDCB8" | '''25'''
 | 8
 | 5
 | 2
@@ -228,7 +226,7 @@
 | rowspan="2" data-sort-value="2020-12-08" | 4–8 Dec 2020
 | rowspan="2" | 1,079
 | style="background:#C0DBFC;" | '''31'''
-| 27
+| colspan="2" | 27
 | 13
 | 3
 | 3
@@ -238,7 +236,7 @@
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''4'''
 |-
 | style="background:#C0DBFC;" | '''28'''
-| 22
+| colspan="2" | 22
 | 11
 | 3
 | 3
@@ -249,29 +247,7 @@
 |-
 |
 | data-sort-value="2020-12-26" | 26 Nov 2020
-|colspan=10 |'''The [[Polish Coalition]] parts ways with member party [[Kukiz'15]]'''
-|}
-
-{| class="wikitable sortable collapsible" style="text-align:center; font-size:95%; line-height:16px;
-|- style="height:42px; background-color:#E9E9E9"
-! rowspan="2" style="width:150px;" | Polling Firm/<br />Link
-! rowspan="2" data-sort-type="date" | Fieldwork<br />Period
-! rowspan="2" style="width:20px;" | Sample<br/>Size
-! style="width:60px;" class="unsortable" | [[United Right (Poland)|United<br/>Right]]
-! style="width:60px;" class="unsortable" colspan="2" | [[Civic Coalition (Poland)|Civic<br/>Coalition]]
-! style="width:60px;" class="unsortable" | [[The Left (Poland)|The Left]]
-! style="width:60px;" class="unsortable" | [[Polish Coalition|Polish<br/>Coalition]]
-! style="width:60px;" class="unsortable" | [[Confederation Liberty and Independence|Confederation]]
-! style="width:60px;" class="unsortable" | [[Poland 2050|Poland<br/>2050]]
-! rowspan="2" data-sort-type="number" style="width:50px;" | Others /<br />Don't know
-! rowspan="2" data-sort-type="number" style="width:30px;" | Lead
-|-
-! data-sort-type="number" style="height:1px; background:{{Law and Justice/meta/color}};" |
-! colspan="2" data-sort-type="number" style="height:1px; background:{{Civic Platform/meta/color}};" |
-! data-sort-type="number" style="height:1px; background:#ac145a;" |
-! data-sort-type="number" style="height:1px; background:{{Polish People's Party/meta/color}};" |
-! data-sort-type="number" style="height:1px; background:#122746;" |
-! data-sort-type="number" style="height:1px; background:#F9C013;" |
+|colspan=11 |'''The [[Polish Coalition]] parts ways with member party [[Kukiz'15]]'''
 |-
 | rowspan="2" style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/529204-pis-ustabilizowalo-poparcie-ludowcy-pod-progiem-sprawdz Social Changes / wPolityce.pl]
 | rowspan="2" data-sort-value="2020-11-30" | 17–30 Nov 2020
@@ -279,7 +255,7 @@
 | style="background:#C0DBFC;" | '''32'''
 | colspan="2" | 28
 | 14
-| 3
+| colspan="2" | 3
 | 11
 |
 | 12
@@ -288,19 +264,19 @@
 | style="background:#C0DBFC;" | '''29'''
 | colspan="2" | 21
 | 12
-| 3
+| colspan="2" | 3
 | 10
 | 23
 | 2
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''6'''
 |-
-| style="letter-spacing: -1px;"| [https://www.gazetaprawna.pl/artykuly/1497717,sondaz-wyborczy-dgp-rmf-fm.html United Survey / DGP, RMF]
+| style="letter-spacing: -1px;"| [https://www.gazetaprawna.pl/artykuly/1497717,sondaz-wyborczy-dgp-rmf-fm.html United Surveys / DGP, RMF]
 | data-sort-value="2020-11-28" | 27–28 Nov 2020
 | 1,000
 | style="background:#C0DBFC;" | '''33.6'''
 | colspan="2" |23.0
 | 9.8
-| 6.1
+| colspan="2" | 6.1
 | 4.7
 | 11.8
 | 11.0
@@ -312,7 +288,7 @@
 | style="background:#C0DBFC;" | '''32.7'''
 | colspan="2" |22.4
 | 10.1
-| 5.8
+| colspan="2" | 5.8
 | 5.4
 | 12.6
 | 11.0
@@ -324,7 +300,7 @@
 | style="background:#C0DBFC;" | '''36.9'''
 | colspan="2" |27.4
 | 9.6
-| 4.8
+| colspan="2" | 4.8
 | 5.2
 | 15.8
 | 0.3
@@ -336,7 +312,7 @@
 | style="background:#C0DBFC;" | '''29'''
 | colspan="2" |23
 | 10
-| 4
+| colspan="2" | 4
 | 9
 | 20
 | 5
@@ -348,7 +324,7 @@
 | style="background:#C0DBFC;" | '''27'''
 | colspan="2" |25
 | 8
-| 4
+| colspan="2" | 4
 | 7
 | 14
 | 15
@@ -360,7 +336,7 @@
 | style="background:#C0DBFC;" | '''33'''
 | colspan="2" |26
 | 13
-| 5
+| colspan="2" | 5
 | 10
 |
 | 13
@@ -369,7 +345,7 @@
 | style="background:#C0DBFC;" | '''32'''
 | colspan="2" |21
 | 10
-| 4
+| colspan="2" | 4
 | 9
 | 21
 | 3
@@ -381,7 +357,7 @@
 | style="background:#C0DBFC;" | '''32'''
 | colspan="2" |31
 | 12
-| 6
+| colspan="2" | 6
 | 8
 |
 | 11
@@ -390,7 +366,7 @@
 | style="background:#C0DBFC;" | '''28'''
 | colspan="2" |24
 | 10
-| 6
+| colspan="2" | 6
 | 7
 | 22
 | 3
@@ -402,7 +378,7 @@
 | style="background:#C0DBFC;" | '''29.8'''
 | colspan="2" |16.3
 | 6.0
-| 2.5
+| colspan="2" | 2.5
 | 6.8
 | 16.3
 | 22.3
@@ -414,7 +390,7 @@
 | style="background:#C0DBFC;" | '''33.0'''
 | colspan="2" |24.1
 | 8.4
-| 5.0
+| colspan="2" | 5.0
 | 2.3
 | 13.1
 | 14.0
@@ -426,7 +402,7 @@
 | style="background:#C0DBFC;" | '''36.8'''
 | colspan="2" |29.3
 | 9.4
-| 4.6
+| colspan="2" | 4.6
 | 6.6
 | 12.7
 | 0.6
@@ -438,7 +414,7 @@
 | style="background:#C0DBFC;" | '''30'''
 | colspan="2" |24
 | 6
-| 6
+| colspan="2" | 6
 | 6
 | 13
 | 15
@@ -450,7 +426,7 @@
 | style="background:#C0DBFC;" | '''32'''
 | colspan="2" |29
 | 15
-| 7
+| colspan="2" | 7
 | 9
 |
 | 8
@@ -459,7 +435,7 @@
 | style="background:#C0DBFC;" | '''31'''
 | colspan="2" |21
 | 12
-| 5
+| colspan="2" | 5
 | 8
 | 22
 | 1
@@ -471,7 +447,7 @@
 | style="background:#C0DBFC;" | '''28.7'''
 | colspan="2" |24.7
 | 7.0
-| 5.1
+| colspan="2" | 5.1
 | 5.1
 | 11.3
 | 18.0
@@ -483,19 +459,19 @@
 | style="background:#C0DBFC;" | '''30'''
 | colspan="2" |27
 | 14
-| 6
+| colspan="2" | 6
 | 10
 |
 | 13
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''3'''
 |-
-| [https://www.gazetaprawna.pl/artykuly/1495071,orzeczenie-tk-aborcja-protesty-sondaz-poparcie-ustawa-prezydenta.html United Survey / RMF]
+| [https://www.gazetaprawna.pl/artykuly/1495071,orzeczenie-tk-aborcja-protesty-sondaz-poparcie-ustawa-prezydenta.html United Surveys / RMF]
 | data-sort-value="2020-10-31" | 31 Oct 2020
 | 1,000
 | style="background:#C0DBFC;" | '''30.9'''
 | colspan="2" |25.3
 | 6.0
-| 2.7
+| colspan="2" | 2.7
 | 4.9
 | 14.7
 | 15.4
@@ -507,7 +483,7 @@
 | style="background:#C0DBFC;" | '''28.0'''
 | colspan="2" |23.1
 | 6.2
-| 2.8
+| colspan="2" | 2.8
 | 4.4
 | 14.9
 | 20.6
@@ -519,7 +495,7 @@
 | style="background:#C0DBFC;" | '''29.0'''
 | colspan="2" |24.0
 | 6.9
-| 3.3
+| colspan="2" | 3.3
 | 5.3
 | 14.9
 | 16.6
@@ -531,7 +507,7 @@
 | style="background:#C0DBFC;" | '''33.4'''
 | colspan="2" |26.8
 | 10.4
-| 4.1
+| colspan="2" | 4.1
 | 8.7
 | 13.0
 | 3.6
@@ -543,7 +519,7 @@
 | style="background:#C0DBFC;" | '''31.3'''
 | colspan="2" |18.1
 | 6.9
-| 3.7
+| colspan="2" | 3.7
 | 8.1
 | 9.7
 | 22.2
@@ -555,7 +531,7 @@
 | style="background:#C0DBFC;" | '''37.83'''
 | colspan="2" |31.57
 | 9.76
-| 5.12
+| colspan="2" | 5.12
 | 5.98
 | 8.35
 | 1.39
@@ -567,7 +543,7 @@
 | style="background:#C0DBFC;" | '''32.6'''
 | colspan=2| 25.5
 | 8.2
-| 4.1
+| colspan="2" | 4.1
 | 9.3
 | 12.8
 | 7.5
@@ -579,7 +555,7 @@
 | style="background:#C0DBFC;" | '''26'''
 | colspan=2| 24
 | 8
-| 3
+| colspan="2" | 3
 | 8
 | 18
 | 13
@@ -591,7 +567,7 @@
 | style="background:#C0DBFC;" | '''37'''
 | colspan=2| 26
 | 13
-| 6
+| colspan="2" | 6
 | 11
 |
 | 7
@@ -603,7 +579,7 @@
 | style="background:#C0DBFC;" | '''39.8'''
 | colspan=2| 27.0
 | 7.0
-| 4.3
+| colspan="2" | 4.3
 | 9.2
 | 12.2
 | 0.5
@@ -611,7 +587,7 @@
 |-
 |
 |22 Oct 2020
-| colspan="10" |'''[[Constitutional Tribunal (Poland)|Constitutional Tribunal]]'s landmark decision on [[abortion]]s, [[2020–2021 women's strike protests in Poland|sparking protests]]'''<ref>{{Cite web|title=Wyrok ws. aborcji. Jest uzasadnienie TK do wyroku z 22 października 2020 r.|url=https://www.rp.pl/Prawo-karne/301279922-Wyrok-ws-aborcji-Jest-uzasadnienie-TK-do-wyroku-z-22-pazdziernika-2020-r.html|access-date=2021-05-04|website=www.rp.pl|language=pl}}</ref><ref>{{Cite web|title=Pawłowicz przerwała rozprawę w sprawie konstytucyjności prawa UE|url=https://wyborcza.pl/7,75398,27027703,prawo-ue-sprzeczne-z-polska-konstytucja-trwa-rozprawa-w-tk.html?disableRedirects=true|url-status=live|access-date=2021-05-04|website=wyborcza.pl}}</ref>
+| colspan="11" |'''[[Constitutional Tribunal (Poland)|Constitutional Tribunal]]'s landmark decision on [[abortion]]s, [[2020–2021 women's strike protests in Poland|sparking protests]]'''<ref>{{Cite web|title=Wyrok ws. aborcji. Jest uzasadnienie TK do wyroku z 22 października 2020 r.|url=https://www.rp.pl/Prawo-karne/301279922-Wyrok-ws-aborcji-Jest-uzasadnienie-TK-do-wyroku-z-22-pazdziernika-2020-r.html|access-date=2021-05-04|website=www.rp.pl|language=pl}}</ref><ref>{{Cite web|title=Pawłowicz przerwała rozprawę w sprawie konstytucyjności prawa UE|url=https://wyborcza.pl/7,75398,27027703,prawo-ue-sprzeczne-z-polska-konstytucja-trwa-rozprawa-w-tk.html?disableRedirects=true|url-status=live|access-date=2021-05-04|website=wyborcza.pl}}</ref>
 |-
 | [https://www.onet.pl/informacje/onetwiadomosci/sondaz-poparcia-ibris-pis-wygrywa-ruch-holowni-na-podium/yk1q03y,79cfc278 IBRiS / Onet.pl]
 | data-sort-value="2020-10-20" | 20 Oct 2020
@@ -619,7 +595,7 @@
 | style="background:#C0DBFC;" | '''37.0'''
 | colspan=2| 26.8
 | 7.5
-| 3.8
+| colspan="2" | 3.8
 | 7.2
 | 8.7
 | 9.0
@@ -631,7 +607,7 @@
 | style="background:#C0DBFC;" | '''39'''
 | colspan=2| 26
 | 11
-| 7
+| colspan="2" | 7
 | 12
 |
 | 5
@@ -643,7 +619,7 @@
 | style="background:#C0DBFC;" | '''36.1'''
 | colspan=2| 28.2
 | 6.4
-| 2.5
+| colspan="2" | 2.5
 | 7.8
 | 9.4
 | 9.6
@@ -655,7 +631,7 @@
 | style="background:#C0DBFC;" | '''36'''
 | colspan=2| 27
 | 14
-| 5
+| colspan="2" | 5
 | 12
 |
 | 6
@@ -667,7 +643,7 @@
 | style="background:#C0DBFC;" | '''40.4'''
 | colspan=2| 15.7
 | 5.3
-| 3.1
+| colspan="2" | 3.1
 | 8.1
 | 7.7
 | 19.7
@@ -679,7 +655,7 @@
 | style="background:#C0DBFC;" | '''36'''
 | colspan=2| 28
 | 7
-| 4
+| colspan="2" | 4
 | 5
 | 9
 | 9
@@ -691,7 +667,7 @@
 | style="background:#C0DBFC;" | '''36'''
 | colspan=2| 20
 | 13
-| 4
+| colspan="2" | 4
 | 10
 | 15
 | 2
@@ -701,7 +677,7 @@
 | style="background:#C0DBFC;" | '''38'''
 | colspan=2| 24
 | 14
-| 6
+| colspan="2" | 6
 | 11
 |
 | 7
@@ -713,7 +689,7 @@
 | style="background:#C0DBFC;" | '''41.6'''
 | colspan=2| 22.1
 | 7.2
-| 4.0
+| colspan="2" | 4.0
 | 7.5
 | 9.0
 | 8.5
@@ -725,7 +701,7 @@
 | style="background:#C0DBFC;" | '''42'''
 | colspan=2| 25
 | 11
-| 7
+| colspan="2" | 7
 | 9
 |
 | 6
@@ -737,7 +713,7 @@
 | style="background:#C0DBFC;" | '''42.9'''
 | colspan="2"| 25.6
 | 6.4
-| 5.2
+| colspan="2" | 5.2
 | 8.2
 | 11.4
 | 0.3
@@ -746,7 +722,7 @@
 | style="background:#C0DBFC;" |'''43.6'''
 | colspan="2"| 29.2
 | 8.9
-| 6.8
+| colspan="2" | 6.8
 | 9.8
 |
 | 1.7
@@ -758,7 +734,7 @@
 | style="background:#C0DBFC;" | '''39.3'''{{efn|name="pis-only"}}
 | colspan=2| 24.2
 | 8.3
-| 5.7
+| colspan="2" | 5.7
 | 8.5
 | 9.9
 | 4.1
@@ -770,7 +746,7 @@
 | style="background:#C0DBFC;" | '''36.3'''{{efn|name="pis-only"}}
 | colspan=2| 25.9
 | 7.5
-| 4.3
+| colspan="2" | 4.3
 | 8.0
 |
 | 12.9
@@ -782,7 +758,7 @@
 | style="background:#C0DBFC;" | '''40'''
 | colspan=2| 27
 | 15
-| 5
+| colspan="2" | 5
 | 9
 |
 | 4
@@ -792,7 +768,7 @@
 | style="background:#C0DBFC;" | '''37'''
 | colspan=2| 20
 | 12
-| 5
+| colspan="2" | 5
 | 10
 | 15
 | 1
@@ -804,19 +780,19 @@
 | style="background:#C0DBFC;" | '''36.0'''{{efn|name="pis-only"}}
 | colspan=2| 21.8
 | 6.1
-| 3.4
+| colspan="2" | 3.4
 | 8.2
 | 9.2
 | 15.3
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''14.2'''
 |-
-| [https://wiadomosci.wp.pl/najnowszy-sondaz-parlamentarny-dla-wp-pis-na-czele-porozumienie-i-solidarna-polska-bez-szans-na-wejscie-do-sejmu-6556020600707680a United Survey / RMF]
+| [https://wiadomosci.wp.pl/najnowszy-sondaz-parlamentarny-dla-wp-pis-na-czele-porozumienie-i-solidarna-polska-bez-szans-na-wejscie-do-sejmu-6556020600707680a United Surveys / RMF]
 | data-sort-value="2020-09-19" | 18–19 Sep 2020
 | 1,000
 | style="background:#C0DBFC;" | '''40.5'''
 | colspan=2| 23.3
 | 6.0
-| 5.0
+| colspan="2" | 5.0
 | 6.7
 | 9.1
 | 9.4
@@ -828,7 +804,7 @@
 | style="background:#C0DBFC;" | '''40.9'''
 | colspan=2| 22.4
 | 5.4
-| 3.2
+| colspan="2" | 3.2
 | 8.1
 | 11.2
 | 8.8
@@ -840,7 +816,7 @@
 | style="background:#C0DBFC;" | '''40.7'''
 | colspan=2| 22.0
 | 5.1
-| 2.7
+| colspan="2" | 2.7
 | 7.6
 |
 | 21.9
@@ -852,7 +828,7 @@
 | style="background:#C0DBFC;" | '''42'''
 | colspan=2| 26
 | 10
-| 7
+| colspan="2" | 7
 | 8
 |
 | 7
@@ -864,7 +840,7 @@
 | style="background:#C0DBFC;" | '''39'''
 | colspan="2"| 26
 | 4
-| 4
+| colspan="2" | 4
 | 6
 | 11
 | 10
@@ -876,7 +852,7 @@
 | style="background:#C0DBFC;" | '''42'''
 | colspan="2"| 25
 | 12
-| 6
+| colspan="2" | 6
 | 9
 |
 | 6
@@ -887,7 +863,7 @@
 | 7{{efn|name="ko-rt"}}
 | 20{{efn|name="ko-rt"}}
 | 4
-| 3
+| colspan="2" | 3
 | 7
 | 22
 | 0
@@ -899,7 +875,7 @@
 | style="background:#C0DBFC;" | '''41.3'''
 | colspan="2"|28.6
 | 6.7
-| 5.9
+| colspan="2" | 5.9
 | 8.4
 |
 | 9.1
@@ -911,7 +887,7 @@
 | style="background:#C0DBFC;" | '''42'''
 | colspan="2"| 26
 | 11
-| 7
+| colspan="2" | 7
 | 8
 |
 | 6
@@ -922,7 +898,7 @@
 | 6{{efn|name="ko-rt"}}
 | 20{{efn|name="ko-rt"}}
 | 4
-| 3
+| colspan="2" | 3
 | 7
 | 23
 | 1
@@ -933,8 +909,9 @@
 |
 | style="background:#C0DBFC;" | '''44'''
 | 19{{efn|name="ko-rt"}}
+| 0.2{{efn|name="ko-rt"}}
 | 4
-| 3
+| colspan="2" | 3
 | 8
 | 2.3
 | 19.5
@@ -946,7 +923,7 @@
 | style="background:#C0DBFC;" | '''41'''
 | colspan="2"| 25
 | 13
-| 6
+| colspan="2" | 6
 |
 | 9
 | 6
@@ -957,7 +934,7 @@
 | 5{{efn|name="ko-rt"}}
 | 20{{efn|name="ko-rt"}}
 | 5
-| 2
+| colspan="2" | 2
 | 9
 | 23
 | 1
@@ -969,20 +946,20 @@
 | style="background:#C0DBFC;" | '''38.6'''
 | colspan="2"|23.8
 | 5.1
-| 5.4
+| colspan="2" | 5.4
 | 7.3
 | 8.4
 | 11.4
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''14.8'''
 |-
-| [https://www.rmf24.pl/fakty/polska/news-sondaz-dla-rmf-fm-i-dgp-pis-na-czele-ruchy-holowni-i-trzasko,nId,4693148 United Survey / RMF]
+| [https://www.rmf24.pl/fakty/polska/news-sondaz-dla-rmf-fm-i-dgp-pis-na-czele-ruchy-holowni-i-trzasko,nId,4693148 United Surveys / RMF]
 | data-sort-value="2020-08-21" | 21 Aug 2020
 | 1,100
 | style="background:#C0DBFC;" | '''41.3'''
 | 22.5{{efn|name="ko-rt"}}
 | 6.8{{efn|name="ko-rt"}}
 | 3.2
-| 2.4
+| colspan="2" | 2.4
 | 6.7
 | 7.1
 | 10.1
@@ -994,7 +971,7 @@
 | style="background:#C0DBFC;" | '''43'''
 | colspan="2"| 26
 | 11
-| 6
+| colspan="2" | 6
 | 9
 |
 | 5
@@ -1006,7 +983,7 @@
 | style="background:#C0DBFC;" | '''44.0'''
 | colspan="2"| 29.8
 | 9.6
-| 6.9
+| colspan="2" | 6.9
 | 8.5
 |
 | 1.2
@@ -1015,7 +992,7 @@
 | style="background:#C0DBFC;" |'''42.1'''
 | colspan="2"| 25.9
 | 7.3
-| 5.2
+| colspan="2" | 5.2
 | 6.8
 | 12.4
 | 0.3
@@ -1028,7 +1005,7 @@
 | 23{{efn|name="ko-rt"}}
 | 5{{efn|name="ko-rt"|The [[Civic Coalition (Poland)|Civic Coalition]] and "''[[Rafał Trzaskowski#Wspólna Polska movement|Rafał Trzaskowski]]'s movement''" or ''New Solidarity'' (later branded ''Wspólna Polska'') were counted separately}}
 | 6
-| 3
+| colspan="2" | 3
 | 4
 | 5
 | 16
@@ -1040,7 +1017,7 @@
 | style="background:#C0DBFC;" | '''43'''
 | colspan="2"|29
 | 11
-| 4
+| colspan="2" | 4
 | 8
 |
 | 5
@@ -1052,7 +1029,7 @@
 | style="background:#C0DBFC;" | '''36.0'''
 | colspan="2" | 31.0
 | 9.1
-| 5.0
+| colspan="2" | 5.0
 | 6.7
 |
 | 12.2
@@ -1061,7 +1038,7 @@
 | style="background:#C0DBFC;" |'''34.3'''
 | colspan="2" | 27.1
 | 5.6
-| 2.8
+| colspan="2" | 2.8
 | 6.1
 | 11.7
 | 12.3
@@ -1073,7 +1050,7 @@
 | style="background:#C0DBFC;" | '''41'''
 | colspan="2" | 30
 | 11
-| 6
+| colspan="2" | 6
 | 8
 |
 | 4
@@ -1083,7 +1060,7 @@
 | style="background:#C0DBFC;" | '''39'''
 | colspan="2" | 21
 | 9
-| 3
+| colspan="2" | 3
 | 7
 | 20
 | 1
@@ -1095,7 +1072,7 @@
 | style="background:#C0DBFC;" | '''36'''
 | colspan="2" | 33
 | 6
-| 5
+| colspan="2" | 5
 | 6
 |
 | 14
@@ -1107,7 +1084,7 @@
 | style="background:#C0DBFC;" | '''43'''
 | colspan="2" | 29
 | 8
-| 7
+| colspan="2" | 7
 | 9
 |
 | 4
@@ -1119,7 +1096,7 @@
 | style="background:#C0DBFC" | '''39.2'''
 | colspan="2" | 26.5
 | 9.8
-| 5.1
+| colspan="2" | 5.1
 | 9.3
 |
 | 10.1
@@ -1128,7 +1105,7 @@
 | style="background:#C0DBFC" | '''38.8'''
 | colspan="2" | 25.6
 | 4.8
-| 2.0
+| colspan="2" | 2.0
 | 6.6
 | 11.8
 | 10.4
@@ -1140,7 +1117,7 @@
 | style="background:#C0DBFC" | '''43.9'''
 | colspan="2" | 30.8
 | 9.4
-| 6.5
+| colspan="2" | 6.5
 | 8.8
 |
 | 0.6
@@ -1149,7 +1126,7 @@
 | style="background:#C0DBFC" | '''41.5'''
 | colspan="2" | 24.7
 | 8.7
-| 5.4
+| colspan="2" | 5.4
 | 7.9
 | 11.4
 | 0.4
@@ -1161,7 +1138,7 @@
 | style="background:#C0DBFC;" | '''42'''
 | colspan="2" | 28
 | 10
-| 5
+| colspan="2" | 5
 | 11
 |
 | 4
@@ -1171,19 +1148,19 @@
 | style="background:#C0DBFC;" | '''39'''
 | colspan="2" | 19
 | 6
-| 3
+| colspan="2" | 3
 | 9
 | 23
 | 1
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''16'''
 |-
-| [https://www.gazetaprawna.pl/artykuly/1486615,wynik-wyborow-prezydenckich-sondaz.html United Survey / RMF]
+| [https://www.gazetaprawna.pl/artykuly/1486615,wynik-wyborow-prezydenckich-sondaz.html United Surveys / RMF]
 | data-sort-value="2020-07-18" | 18 Jul 2020
 | 1,100
 | style="background:#C0DBFC;" | '''37.5'''
 | colspan="2" | 29.1
 | 8.0
-| 5.4
+| colspan="2" | 5.4
 | 8.7
 |
 | 11.3
@@ -1195,7 +1172,7 @@
 | style="background:#C0DBFC;" | '''39.7'''
 | colspan="2" | 28.1
 | 9.9
-| 5.8
+| colspan="2" | 5.8
 | 8.0
 |
 | 8.6
@@ -1207,7 +1184,7 @@
 | style="background:#C0DBFC;" | '''51.03'''
 | colspan="2" style="background:#fcd9b1;" | 48.97
 | style="background:#D5D5D5;" | -
-| style="background:#D5D5D5;" | -
+| colspan="2" style="background:#D5D5D5;" | -
 | style="background:#D5D5D5;" | -
 | style="background:#D5D5D5;" | -
 | style="background:#D5D5D5;" | -
@@ -1219,19 +1196,19 @@
 | style="background:#C0DBFC;" | '''41.40'''
 | colspan="2" | 23.02
 | 9.98
-| 4.24
+| colspan="2" | 4.24
 | 8.54
 | 12.12
 | 0.70
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''18.38'''
 |-
 | [https://twitter.com/CBOS_Info/status/1282616990901903361 CBOS]
-| data-sort-value="2020-07-20" | 30 Jun–9 Jul 2020
+| data-sort-value="2020-07-09" | 30 Jun–9 Jul 2020
 | 1,339
 | style="background:#C0DBFC" | '''42.3'''
 | colspan="2" | 23.9
 | 5.7
-| 3.2
+| colspan="2" | 3.2
 | 7.2
 |
 | 17.7
@@ -1243,7 +1220,7 @@
 | style="background:#C0DBFC;" | '''38.0'''
 | colspan="2" | 23.6
 | 7.3
-| 5.2
+| colspan="2" | 5.2
 | 7.3
 | 11.9
 | 6.8
@@ -1255,7 +1232,7 @@
 | style="background:#C0DBFC;" | '''43.50'''
 | colspan="2" style="background:#fcd9b1;" | 30.46
 | style="background:#D5D5D5;" | 2.22
-| style="background:#D5D5D5;" | 2.46
+| colspan="2" style="background:#D5D5D5;" | 2.46
 | style="background:#D5D5D5;" | 6.78
 | style="background:#D5D5D5;" | 13.87
 | style="background:#D5D5D5;" | 0.79
@@ -1267,7 +1244,7 @@
 | style="background:#C0DBFC;" | '''42'''
 | colspan="2" | 25
 | 14
-| 8
+| colspan="2" | 8
 | 9
 |
 | 2
@@ -1277,7 +1254,7 @@
 | style="background:#C0DBFC;" | '''41'''
 | colspan="2" | 20
 | 9
-| 5
+| colspan="2" | 5
 | 6
 | 18
 | 1
@@ -1289,7 +1266,7 @@
 | style="background:#C0DBFC" | '''43.85'''
 | colspan="2" | 30.94
 | 8.88
-| 6.15
+| colspan="2" | 6.15
 | 9.75
 |
 | 0.43
@@ -1301,7 +1278,7 @@
 | style="background:#C0DBFC" | '''44.2'''
 | colspan="2" | 23.9
 | 6.6
-| 4.1
+| colspan="2" | 4.1
 | 5.6
 |
 | 15.6
@@ -1313,7 +1290,7 @@
 | style="background:#C0DBFC" | '''35'''
 | colspan="2" | 23
 | 9
-| 8
+| colspan="2" | 8
 | 10
 |
 | 16
@@ -1325,7 +1302,7 @@
 | style="background:#C0DBFC;" | '''40'''
 | colspan="2" | 30
 | 13
-| 7
+| colspan="2" | 7
 | 8
 |
 | 2
@@ -1335,7 +1312,7 @@
 | style="background:#C0DBFC" | '''38'''
 | colspan="2" | 20
 | 11
-| 4
+| colspan="2" | 4
 | 7
 | 19{{efn|name="Pol2050"|Respondents were suggested "[[Szymon Hołownia]]'s party", then unregistered.}}
 | 1
@@ -1347,7 +1324,7 @@
 | style="background:#C0DBFC" | '''42.8'''
 | colspan="2" | 28.4
 | 9.6
-| 10.4
+| colspan="2" | 10.4
 | 7.5
 |
 | 0.3
@@ -1359,7 +1336,7 @@
 | style="background:#C0DBFC" | '''41.3'''
 | colspan="2" | 29.6
 | 10.7
-| 9.1
+| colspan="2" | 9.1
 | 8.8
 |
 | 0.5
@@ -1371,7 +1348,7 @@
 | style="background:#C0DBFC" | '''37'''
 | colspan="2" | 24
 | 10
-| 6
+| colspan="2" | 6
 | 10
 |
 | 13
@@ -1383,7 +1360,7 @@
 | style="background:#C0DBFC" | '''39'''
 | colspan="2" | 28
 | 13
-| 9
+| colspan="2" | 9
 | 8
 |
 | 3
@@ -1395,7 +1372,7 @@
 | style="background:#C0DBFC" | '''42.2'''
 | colspan="2" | 26.5
 | 11.4
-| 8.9
+| colspan="2" | 8.9
 | 9.7
 |
 | 1.3
@@ -1407,7 +1384,7 @@
 | style="background:#C0DBFC" | '''37'''
 | colspan="2" | 31
 | 7
-| 7
+| colspan="2" | 7
 | 7
 |
 | 10
@@ -1419,7 +1396,7 @@
 | style="background:#C0DBFC" | '''42'''
 | colspan="2" | 26
 | 13
-| 9
+| colspan="2" | 9
 | 8
 |
 | 2
@@ -1431,7 +1408,7 @@
 | style="background:#C0DBFC" | '''36'''
 | colspan="2" | 29
 | 8
-| 5
+| colspan="2" | 5
 | 10
 |
 | 12
@@ -1443,7 +1420,7 @@
 | style="background:#C0DBFC" | '''42.6'''
 | colspan="2" | 27.4
 | 10.1
-| 11.4
+| colspan="2" | 11.4
 | 7.2
 |
 | 1.3
@@ -1455,7 +1432,7 @@
 | style="background:#C0DBFC" | '''46.4'''
 | colspan="2" | 19.7
 | 5.1
-| 5.0
+| colspan="2" | 5.0
 | 5.8
 |
 | 18.0
@@ -1467,7 +1444,7 @@
 | style="background:#C0DBFC" | '''43'''
 | colspan="2" | 24
 | 13
-| 8
+| colspan="2" | 8
 | 9
 |
 | 3
@@ -1479,7 +1456,7 @@
 | style="background:#C0DBFC" | '''41.0'''
 | colspan="2" | 24.3
 | 9.0
-| 11.2
+| colspan="2" | 11.2
 | 7.5
 |
 | 7.0
@@ -1491,7 +1468,7 @@
 | style="background:#C0DBFC" | '''39.9'''
 | colspan="2" | 26.0
 | 14.1
-| 9.4
+| colspan="2" | 9.4
 | 9.5
 |
 | 1.1
@@ -1503,7 +1480,7 @@
 | style="background:#C0DBFC" | '''42'''
 | colspan="2" | 24
 | 14
-| 9
+| colspan="2" | 9
 | 9
 |
 | 2
@@ -1515,7 +1492,7 @@
 | style="background:#C0DBFC" | '''40.3'''
 | colspan="2" | 23.4
 | 8.1
-| 13.4
+| colspan="2" | 13.4
 | 6.6
 |
 | 8.2
@@ -1527,7 +1504,7 @@
 | style="background:#C0DBFC" | '''41.9'''
 | colspan="2" | 26.1
 | 11.6
-| 11.9
+| colspan="2" | 11.9
 | 6.6
 |
 | 1.9
@@ -1539,7 +1516,7 @@
 | style="background:#C0DBFC" | '''37'''
 | colspan="2" | 23
 | 8
-| 7
+| colspan="2" | 7
 | 11
 |
 | 14
@@ -1551,7 +1528,7 @@
 | style="background:#C0DBFC" | '''47'''
 | colspan="2" | 21
 | 14
-| 8
+| colspan="2" | 8
 | 7
 |
 | 3
@@ -1563,7 +1540,7 @@
 | style="background:#C0DBFC" | '''38.5'''
 | colspan="2" | 24.5
 | 13.6
-| 12.6
+| colspan="2" | 12.6
 | 9
 |
 | 1.8
@@ -1575,7 +1552,7 @@
 | style="background:#C0DBFC" | '''45.8'''
 | colspan="2" | 17.3
 | 12.8
-| 14.1
+| colspan="2" | 14.1
 | 8.9
 |
 | 1.1
@@ -1584,7 +1561,7 @@
 | style="background:#C0DBFC" | '''44.1'''
 | colspan="2" | 13.4
 | 10.2
-| 12.9
+| colspan="2" | 12.9
 | 8.8
 | 10.6{{efn|name="Pol2050"}}
 | 0
@@ -1596,7 +1573,7 @@
 | style="background:#C0DBFC" | '''41.1'''
 | colspan="2" | 29.7
 | 10.3
-| 8.0
+| colspan="2" | 8.0
 | 9.7
 |
 | 1.2
@@ -1608,7 +1585,7 @@
 | style="background:#C0DBFC" | '''47'''
 | colspan="2" | 18
 | 12
-| 11
+| colspan="2" | 11
 | 9
 |
 | 3
@@ -1620,7 +1597,7 @@
 | style="background:#C0DBFC" | '''37.7'''
 | colspan="2" | 15.6
 | 8.2
-| 12.8
+| colspan="2" | 12.8
 | 8.7
 |
 | 17.0
@@ -1632,7 +1609,7 @@
 | style="background:#C0DBFC" | '''39.3'''
 | colspan="2" | 28.5
 | 13.0
-| 9.4
+| colspan="2" | 9.4
 | 8.9
 |
 | 0.9
@@ -1644,7 +1621,7 @@
 | style="background:#C0DBFC" | '''52'''
 | colspan="2" | 17
 | 12
-| 8
+| colspan="2" | 8
 | 10
 |
 | 1
@@ -1656,7 +1633,7 @@
 | style="background:#C0DBFC" | '''40.2'''
 | colspan="2" | 23.7
 | 14.7
-| 11.0
+| colspan="2" | 11.0
 | 9.4
 |
 | 1.0
@@ -1668,7 +1645,7 @@
 | style="background:#C0DBFC" | '''38'''
 | colspan="2" | 16
 | 10
-| 8
+| colspan="2" | 8
 | 8
 |
 | 20{{efn|Includes: 6% – [[Nonpartisan Local Government Activists]].}}
@@ -1680,7 +1657,7 @@
 | style="background:#C0DBFC" | '''52'''
 | colspan="2" | 17
 | 12
-| 8
+| colspan="2" | 8
 | 9
 |
 | 2
@@ -1692,7 +1669,7 @@
 | style="background:#C0DBFC" | '''42.7'''
 | colspan="2" | 19.7
 | 14.4
-| 15.8
+| colspan="2" | 15.8
 | 7.2
 |
 | 0.2
@@ -1704,7 +1681,7 @@
 | style="background:#C0DBFC" | '''53'''
 | colspan="2" | 17
 | 12
-| 7
+| colspan="2" | 7
 | 10
 |
 | 1
@@ -1716,7 +1693,7 @@
 | style="background:#C0DBFC" | '''36'''
 | colspan="2" | 21
 | 11
-| 12
+| colspan="2" | 12
 | 8
 |
 | 12
@@ -1728,7 +1705,7 @@
 | style="background:#C0DBFC" | '''52'''
 | colspan="2" | 15
 | 11
-| 8
+| colspan="2" | 8
 | 11
 |
 | 3
@@ -1740,7 +1717,7 @@
 | style="background:#C0DBFC" | '''45.4'''
 | colspan="2" | 20.4
 | 15.9
-| 12.6
+| colspan="2" | 12.6
 | 5.4
 |
 | 0.3
@@ -1752,7 +1729,7 @@
 | style="background:#C0DBFC" | '''44.0'''
 | colspan="2" | 22.4
 | 15.7
-| 8.7
+| colspan="2" | 8.7
 | 7.7
 |
 | 1.5
@@ -1764,7 +1741,7 @@
 | style="background:#C0DBFC" | '''49'''
 | colspan="2" | 18
 | 14
-| 10
+| colspan="2" | 10
 | 9
 |
 | 0
@@ -1776,7 +1753,7 @@
 | style="background:#C0DBFC" | '''42.0'''
 | colspan="2" | 27.1
 | 12.5
-| 9.6
+| colspan="2" | 9.6
 | 8.7
 |
 | 0.1
@@ -1788,7 +1765,7 @@
 | style="background:#C0DBFC" | '''51'''
 | colspan="2" | 21
 | 12
-| 7
+| colspan="2" | 7
 | 8
 |
 | 1
@@ -1800,7 +1777,7 @@
 | style="background:#C0DBFC" | '''44.3'''
 | colspan="2" | 22.9
 | 15.0
-| 12.3
+| colspan="2" | 12.3
 | 5.2
 |
 | 0.3
@@ -1812,7 +1789,7 @@
 | style="background:#C0DBFC" | '''44'''
 | colspan="2" | 24
 | 16
-| 8
+| colspan="2" | 8
 | 8
 |
 | 0
@@ -1824,7 +1801,7 @@
 | style="background:#C0DBFC" | '''41.9'''
 | colspan="2" | 23.8
 | 15.4
-| 10.2
+| colspan="2" | 10.2
 | 8.2
 |
 | 0.5
@@ -1836,19 +1813,19 @@
 | style="background:#C0DBFC" | '''40'''
 | colspan="2" | 26
 | 17
-| 10
+| colspan="2" | 10
 | 7
 |
 | 0
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''14'''
 |-
-| [https://twitter.com/CBOS_Info/status/1268934871357030403 CBOS]
+| [https://wiadomosci.dziennik.pl/polityka/artykuly/6463536,polityka-sondaz-pis-ko-psl-lewica-wybory-parlamentarne.html CBOS]
 | data-sort-value="2020-03-15" | 5–15 Mar 2020
 | 919
 | style="background:#C0DBFC" | '''49.1'''
 | colspan="2" | 20.6
 | 7.7
-| 7.0
+| colspan="2" | 7.0
 | 6.9
 |
 | 8.7
@@ -1860,7 +1837,7 @@
 | style="background:#C0DBFC" | '''42.0'''
 | colspan="2" | 25.3
 | 15.2
-| 10.3
+| colspan="2" | 10.3
 | 6.5
 |
 | 0.7
@@ -1872,7 +1849,7 @@
 | style="background:#C0DBFC" | '''47.6'''
 | colspan="2" | 21.9
 | 12.4
-| 8.1
+| colspan="2" | 8.1
 | 9.8
 |
 | 0.2
@@ -1884,7 +1861,7 @@
 | style="background:#C0DBFC" | '''41'''
 | colspan="2" | 28
 | 10
-| 7
+| colspan="2" | 7
 | 5
 |
 | 9
@@ -1896,7 +1873,7 @@
 | style="background:#C0DBFC" | '''45'''
 | colspan="2" | 24
 | 15
-| 9
+| colspan="2" | 9
 | 7
 |
 | 0
@@ -1908,7 +1885,7 @@
 | style="background:#C0DBFC" | '''41'''
 | colspan="2" | 26
 | 18
-| 7
+| colspan="2" | 7
 | 8
 |
 | 0
@@ -1920,7 +1897,7 @@
 | style="background:#C0DBFC" | '''41.7'''
 | colspan="2" | 28.6
 | 13.4
-| 9.6
+| colspan="2" | 9.6
 | 6.2
 |
 | 0.5
@@ -1932,7 +1909,7 @@
 | style="background:#C0DBFC" | '''41.4'''
 | colspan="2" | 25.1
 | 14.4
-| 9.8
+| colspan="2" | 9.8
 | 8.3
 |
 | 1.0
@@ -1944,7 +1921,7 @@
 | style="background:#C0DBFC" | '''41'''
 | colspan="2" | 25
 | 16
-| 8
+| colspan="2" | 8
 | 9
 |
 | 1
@@ -1956,7 +1933,7 @@
 | style="background:#C0DBFC" | '''38'''
 | colspan="2" | 26
 | 13
-| 7
+| colspan="2" | 7
 | 8
 |
 | 8{{efn|Includes: 3% – [[Nonpartisan Local Government Activists]].}}
@@ -1968,7 +1945,7 @@
 | style="background:#C0DBFC" | '''38.4'''
 | colspan="2" | 30.9
 | 13.4
-| 7.9
+| colspan="2" | 7.9
 | 9.0
 |
 | 0.4
@@ -1980,7 +1957,7 @@
 | style="background:#C0DBFC" | '''39'''
 | colspan="2" | 25
 | 16
-| 11
+| colspan="2" | 11
 | 9
 |
 | 0
@@ -1992,7 +1969,7 @@
 | style="background:#C0DBFC" | '''44'''
 | colspan="2" | 24
 | 9
-| 5
+| colspan="2" | 5
 | 6
 |
 | 12
@@ -2004,7 +1981,7 @@
 | style="background:#C0DBFC" | '''40.6'''
 | colspan="2" | 29.8
 | 13.2
-| 9.3
+| colspan="2" | 9.3
 | 6.4
 |
 | 0.7
@@ -2016,7 +1993,7 @@
 | style="background:#C0DBFC" | '''41'''
 | colspan="2" | 26
 | 10
-| 7
+| colspan="2" | 7
 | 4
 |
 | 12
@@ -2028,7 +2005,7 @@
 | style="background:#C0DBFC" | '''42'''
 | colspan="2" | 25
 | 15
-| 8
+| colspan="2" | 8
 | 8
 |
 | 2
@@ -2040,7 +2017,7 @@
 | style="background:#C0DBFC" | '''35.9'''
 | colspan="2" | 27.2
 | 15.6
-| 7.3
+| colspan="2" | 7.3
 | 6.3
 |
 | 7.7
@@ -2052,7 +2029,7 @@
 | style="background:#C0DBFC" | '''39'''
 | colspan="2" | 28
 | 15
-| 9
+| colspan="2" | 9
 | 7
 |
 | 2
@@ -2064,7 +2041,7 @@
 | style="background:#C0DBFC" | '''35'''
 | colspan="2" | 30
 | 13
-| 7
+| colspan="2" | 7
 | 7
 |
 | 8
@@ -2076,7 +2053,7 @@
 | style="background:#C0DBFC" | '''39'''
 | colspan="2" | 27
 | 17
-| 9
+| colspan="2" | 9
 | 7
 |
 | 1
@@ -2088,7 +2065,7 @@
 | style="background:#C0DBFC" | '''38'''
 | colspan="2" | 26
 | 15
-| 7
+| colspan="2" | 7
 | 6
 |
 | 8
@@ -2100,7 +2077,7 @@
 | style="background:#C0DBFC" | '''43.5'''
 | colspan="2" | 29.7
 | 11.8
-| 8.7
+| colspan="2" | 8.7
 | 5.9
 |
 | 0.4
@@ -2112,7 +2089,7 @@
 | style="background:#C0DBFC" | '''40.5'''
 | colspan="2" | 27.4
 | 14.7
-| 8.3
+| colspan="2" | 8.3
 | 8.5
 |
 | 0.7
@@ -2124,7 +2101,7 @@
 | style="background:#C0DBFC" | '''41'''
 | colspan="2" | 26
 | 17
-| 7
+| colspan="2" | 7
 | 8
 |
 | 1
@@ -2136,7 +2113,7 @@
 | style="background:#C0DBFC" | '''37.8'''
 | colspan="2" | 31.3
 | 13.3
-| 7.4
+| colspan="2" | 7.4
 | 9.7
 |
 | 0.5
@@ -2148,7 +2125,7 @@
 | style="background:#C0DBFC" | '''41.1'''
 | colspan="2" | 27.5
 | 14.5
-| 8.5
+| colspan="2" | 8.5
 | 8.1
 |
 | 0.3
@@ -2160,7 +2137,7 @@
 | style="background:#C0DBFC" | '''44'''
 | colspan="2" | 23
 | 10
-| 7
+| colspan="2" | 7
 | 5
 |
 | 11
@@ -2172,7 +2149,7 @@
 | style="background:#C0DBFC" | '''38'''
 | colspan="2" | 28
 | 13
-| 6
+| colspan="2" | 6
 | 3
 |
 | 12
@@ -2184,7 +2161,7 @@
 | style="background:#C0DBFC" | '''42'''
 | colspan="2" | 23
 | 18
-| 8
+| colspan="2" | 8
 | 8
 |
 | 1
@@ -2196,7 +2173,7 @@
 | style="background:#C0DBFC" | '''37.3'''
 | colspan="2" | 26.9
 | 12.9
-| 4.7
+| colspan="2" | 4.7
 | 5.0
 |
 | 13.2
@@ -2208,7 +2185,7 @@
 | style="background:#C0DBFC" | '''45.4'''
 | colspan="2" | 28.2
 | 10.5
-| 8.6
+| colspan="2" | 8.6
 | 6.4
 |
 | 0.9
@@ -2220,7 +2197,7 @@
 | style="background:#C0DBFC" | '''41'''
 | colspan="2" | 24
 | 16
-| 10
+| colspan="2" | 10
 | 8
 |
 | 1
