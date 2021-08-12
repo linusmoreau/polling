@@ -50,6 +50,18 @@ def transcribe_table(content, key, choice, begin, start):
             ns = '|' + ns[1:]
         s += ns
     content = s.split('||')
+    ncontent = []
+    j = 0
+    while j < len(content) - 1:
+        line = content[j]
+        for i in range(len(line) - 2):
+            if line[i:i + 2] == '{{' and '}}' not in line[i + 2:]:
+                line = line + '|' + content[j + 1]
+                j += 1
+        ncontent.append(line)
+        j += 1
+    content = ncontent
+
     found = set()
     while i < len(content):
         line = content[i].strip('| \n')
@@ -168,7 +180,21 @@ def transcribe_table(content, key, choice, begin, start):
                         placeholder = [True for _ in range(len(key))]
                         table.extend([placeholder.copy() for _ in range(row - len(table) + 1)])
             table[row][col] = line
-            if 'colspan=' in line:
+            if 'colspan=' in line and 'rowspan' in line:
+                htemp: str = line[line.find('colspan=') + len('colspan='):]
+                hnum = int(htemp.strip('|').split()[0].split('|')[0].strip('" '))
+                vtemp: str = line[line.find('rowspan=') + len('rowspan='):]
+                vnum = int(vtemp.strip('|').split()[0].split('|')[0].strip('" '))
+                for r in range(vnum):
+                    if len(table) <= row + vnum:
+                        placeholder = [True for _ in range(len(key))]
+                        table.extend([placeholder.copy() for _ in range(row + vnum - len(table) + 1)])
+                    for c in range(hnum):
+                        if col + c >= len(table[row]) - 1:
+                            break
+                        elif c + r != 0:
+                            table[row + r][col + c] = False
+            elif 'colspan=' in line:
                 temp: str = line[line.find('colspan=') + len('colspan='):]
                 num = int(temp.strip('|').split()[0].split('|')[0].strip('" '))
                 for a in range(1, num):
@@ -203,18 +229,30 @@ def process_tables(tables: List[Dict[str, Union[List[List[Any]], List[str]]]], c
 
 def process_table(table: List[List[Any]], years, key, choice, include, zeros):
     def process_date(line, year) -> Optional[int]:
-        if '{{efn' in line:
-            line = line[:line.find('{{efn')]
-        dates = line.split('|')[-1]
-        if '-' in dates:
-            s = dates.split('-')
-        elif '–' in dates:
-            s = dates.split('–')
-        elif '−' in dates:
-            s = dates.split('−')
+        line = line.strip().strip('}\'')
+        if choice == 'UK' and 'opdrts' in line:
+            temp = line.strip('|').split('|')
+            if temp[-1] == 'year':
+                shift = True
+            else:
+                shift = False
+            y = temp[-1 - shift]
+            m = temp[-2 - shift]
+            d = temp[-3 - shift]
+            temp = d + ' ' + m + ' ' + y
         else:
-            s = dates.split('â€“')
-        temp = s[-1].strip().strip('\'}')
+            if '{{efn' in line:
+                line = line[:line.find('{{efn')]
+            dates = line.split('|')[-1]
+            if '-' in dates:
+                s = dates.split('-')
+            elif '–' in dates:
+                s = dates.split('–')
+            elif '−' in dates:
+                s = dates.split('−')
+            else:
+                s = dates.split('â€“')
+            temp = s[-1].strip().strip('\'}')
         temps = temp.strip().split()
         if len(temps) == 2:
             try:
@@ -322,9 +360,12 @@ def filter_tables(tables: List[Dict[str, Union[List[List[Any]], List[str]]]], ch
 def filter_table(table: List[List[Any]], key: List[str], choice, include):
     purge = set()
     for r, entry in enumerate(table):
+        count = 0
         for i, k in enumerate(key):
             if k in include and entry[i] is not None:
-                break
+                count += 1
+                if count > 1:
+                    break
         else:
             purge.add(r)
     if choice == 'Czechia':
@@ -452,11 +493,7 @@ def interpret_table(table: List[List[Any]], key: List[str], include):
 
 def read_data(content, key, start, restart, date, choice, include=None, zeros=None):
     def isrestart(line):
-        if choice == 'Slovakia' and \
-                'url=https://sava.sk/en/clenstvo/zoznam-clenov/|access-date=2021-03-27|language=en-US}}' in line:
-            return False
-        else:
-            return sum(map(lambda r: r in line, restart))
+        return sum(map(lambda r: r in line, restart))
 
     dat: Dict[str, Dict[int, List[float]]] = {}
     rot = None
@@ -497,8 +534,7 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
             if rot == date:
                 if choice in ['Austria']:
                     line = line[:line.find('{')]
-                elif choice in ['Cyprus', 'Slovakia', 'Ireland'] or \
-                        (choice == 'UK' and date == 0):
+                elif choice in ['Cyprus', 'Ireland'] or (choice == 'UK' and date == 0):
                     line = prevline
                     if line[0] == '!':
                         rot = None
@@ -533,9 +569,6 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                         s = dates.split('â€“')
                     temp = s[-1].strip()
                     temps = temp.strip().split()
-                    if choice == 'Spain' and temps in [['?'], ['66.5']]:
-                        rot += 2
-                        continue
                     if choice == 'New York':
                         y = temps[-1]
                         d = temps[-2].strip(',')
@@ -584,8 +617,7 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                 if key[p] not in dat:
                     dat[key[p]] = {}
                 if end in dat[key[p]]:
-                    if ((choice == 'Slovakia' and len(dat[key[p]][end]) > 0 and p in (5, 10, 11, 12)) or
-                            (choice == 'Bulgaria' and len(dat[key[p]][end])) > 0 and p in (7, 8) or
+                    if ((choice == 'Bulgaria' and len(dat[key[p]][end]) > 0 and p in (7, 8)) or
                             (flag and choice == 'Ireland' and len(dat[key[p]][end]) > 0 and p in (8, 9))):
                         if dat[key[p]][end][-1] is not None:
                             if share is not None:
@@ -596,7 +628,7 @@ def read_data(content, key, start, restart, date, choice, include=None, zeros=No
                         dat[key[p]][end].append(share)
                 else:
                     dat[key[p]][end] = [share]
-                if choice in ['Slovakia', 'Bulgaria']:
+                if choice in ['Bulgaria']:
                     if 'colspan=' in line:
                         temp: str = line[line.find('colspan=') + len('colspan='):]
                         num = int(temp.strip('|').split()[0].split('|')[0].strip('" '))
@@ -1123,9 +1155,12 @@ def choices_setup():
             'vlines': {Date(2018, 6, 14): 'Retirement Age Increase Announced'},
         },
         'Slovakia': {
-            'key': [
-                'OL\'aNO', 'SMER-SD', 'SR', 'L\'SNS', 'PS-SPOLU', 'PS-SPOLU', 'SaS', 'ZL\'', 'KDH',
-                'Magyar', 'Magyar', 'Magyar', 'Magyar', 'SNS', 'DV', 'HLAS-SD', 'REP'],
+            'include': ['OL\'aNO', 'SMER-SD', 'SR', 'L\'SNS', 'PS-SPOLU', 'PS-SPOLU', 'SaS', 'ZL\'', 'KDH',
+                        'Magyar', 'Magyar', 'Magyar', 'Magyar', 'SNS', 'DV', 'HLAS-SD', 'REP'],
+            'key': ['date', 'firm', 'sample',
+                    'OL\'aNO', 'SMER-SD', 'SR', 'L\'SNS', 'PS-SPOLU', 'PS-SPOLU', 'SaS', 'ZL\'', 'KDH',
+                    'Magyar', 'Magyar', 'Magyar', 'Magyar', 'SNS', 'DV', 'HLAS-SD', 'REP',
+                    'lead', 'end'],
             'col': {'OL\'aNO': (190, 214, 47), 'SMER-SD': (217, 39, 39), 'SR': (11, 76, 159), 'L\'SNS': (11, 87, 16),
                     'PS-SPOLU': (0, 188, 255), 'SaS': (166, 206, 58), 'ZL\'': (255, 187, 0), 'KDH': (253, 209, 88),
                     'Magyar': (39, 93, 51), 'SNS': (37, 58, 121), 'DV': (255, 0, 43), 'HLAS-SD': (180, 40, 70),
@@ -1136,8 +1171,7 @@ def choices_setup():
                     'Opposition': ['SMER-SD', 'L\'SNS', 'PS-SPOLU', 'KDH', 'Magyar', 'SNS', 'DV', 'HLAS-SD', 'REP']},
             'blocs': {'Left': ['SMER-SD', 'PS-SPOLU', 'DV', 'HLAS-SD'],
                       'Right': ['OL\'aNO', 'SR', 'L\'SNS', 'SaS', 'ZL\'', 'KDH', 'Magyar', 'SNS', 'REP']},
-            'date': 0,
-            'start': 2,
+            'start': -1,
             'restart': ['Focus', 'AKO', '2020 elections'],
             'end_date': Date(2024, 2, 24),
             'url': 'https://en.wikipedia.org/w/index.php?title='
@@ -1177,8 +1211,11 @@ def choices_setup():
             'method': 'quotient',
         },
         'Spain': {
-            'key': ['PSOE', 'PP', 'VOX', 'UP', 'Cs', 'ERC', 'MP', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG', 'NA+',
-                    'PRC'],
+            'include': ['PSOE', 'PP', 'VOX', 'UP', 'Cs', 'ERC', 'MP', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG', 'NA+',
+                        'PRC'],
+            'key': ['firm', 'date', 'sample', 'turnout',
+                    'PSOE', 'PP', 'VOX', 'UP', 'Cs', 'ERC', 'MP', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG', 'NA+',
+                    'PRC', 'lead', 'end'],
             'col': {'PSOE': (239, 28, 39), 'PP': (29, 132, 206), 'VOX': (99, 190, 33), 'UP': (123, 73, 119),
                     'Cs': (235, 97, 9), 'ERC': (255, 178, 50), 'MP': (15, 222, 196), 'JxCat': (0, 199, 174),
                     'PNV': (74, 174, 74), 'EHB': (181, 207, 24), 'CUP': (255, 237, 0), 'CC': (255, 215, 0),
@@ -1189,8 +1226,8 @@ def choices_setup():
                     'Opposition': ['PP', 'VOX', 'Cs', 'JxCat', 'CUP', 'CC', 'PRC']},
             'blocs': {'Left': ['PSOE', 'UP', 'MP'], 'Right': ['PP', 'VOX', 'Cs'],
                       'Regionalist': ['ERC', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG', 'NA+', 'PRC']},
-            'restart': ['http', 'Spanish general election'],
-            'start': 4,
+            'restart': ['http'],
+            'start': 0,
             'end_date': Date(2023, 12, 10),
             'vlines': {Date(2021, 5, 4): 'Madrilenian election', Date(2021, 2, 14): 'Catalan election'},
             'url': 'https://en.wikipedia.org/w/index.php?title='
@@ -1221,11 +1258,13 @@ def choices_setup():
             'method': 'quotient'
         },
         'UK': {
-            'key': ['Conservative', 'Labour', 'Lib Dem', 'SNP', 'Green'],
+            'include': ['Conservative', 'Labour', 'Lib Dem', 'SNP', 'Green'],
+            'key': ['date', 'firm', 'publisher', 'area', 'sample',
+                    'Conservative', 'Labour', 'Lib Dem', 'SNP', 'Green',
+                    'Other', 'lead', 'end'],
             'col': {'Conservative': (0, 135, 220), 'Labour': (228, 0, 59), 'Lib Dem': (250, 166, 26),
                     'SNP': (253, 243, 142), 'Green': (106, 176, 35)},
-            'date': 0,
-            'start': 4,
+            'start': -1,
             'vlines': {Date(2020, 4, 4): 'Starmer becomes Labour leader',
                        Date(2021, 5, 6): 'Local elections'},
             'restart': ['[http', '2019 general election'],
@@ -1484,7 +1523,7 @@ class GraphPage:
                 content.extend(f.readlines())
         if self.choice in ['Czechia', 'Russia', 'Canada', 'Brazil', 'Italy', 'Norway', 'Iceland', 'Germany', 'Japan',
                            'Hungary', 'Ontario', 'Slovenia', 'Latvia', 'Sweden', 'Estonia', 'Finland', 'Denmark',
-                           'Greece', 'Portugal', 'Poland']:
+                           'Greece', 'Portugal', 'Poland', 'Spain', 'Slovakia', 'UK']:
             tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
             display_tables(tables)
             tables = process_tables(tables, self.choice, self.include, self.zeros)
