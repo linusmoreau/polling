@@ -54,12 +54,14 @@ def transcribe_table(content, key, choice, begin, start):
     j = 0
     while j < len(content) - 1:
         line = content[j]
-        for i in range(len(line) - 2):
-            if line[i:i + 2] == '{{' and '}}' not in line[i + 2:]:
+        for p in range(len(line) - 2):
+            if line[p:p + 2] == '{{' and '}}' not in line[p + 2:]:
                 line = line + '|' + content[j + 1]
                 j += 1
+                break
         ncontent.append(line)
         j += 1
+    ncontent.append(content[-1])
     content = ncontent
 
     found = set()
@@ -129,6 +131,31 @@ def transcribe_table(content, key, choice, begin, start):
             if '=== 2019 ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'United Right', 'Civic Coalition', 'The Left', 'Polish Coalition', 'Confederation',
+                        'Other', 'lead', 'end']
+                reset = True
+        elif choice == 'Austria':
+            if '=== By state ===' in line:
+                break
+        elif choice == 'Ireland':
+            if '==National opinion polls==' in line:
+                nkey = ['date', 'firm', 'sample',
+                        'FG', 'FF', 'SF', 'Lab', 'PBP/S', 'SD', 'GP', 'O/I', 'O/I', 'O/I',
+                        'end']
+                reset = True
+        elif choice == 'Netherlands':
+            if '{{For|events during those years|2020 in the Netherlands|2019 in the Netherlands|' \
+               '2018 in the Netherlands|2017 in the Netherlands}}' in line:
+                nkey = ['firm', 'date',
+                        'VVD', 'PVV', 'CDA', 'D66', 'GL', 'SP', 'PvdA', 'CU', 'PvdD', '50+', 'SGP', 'DENK', 'FVD',
+                        'JA21', 'Volt', 'BIJ1', 'BBB',
+                        'Others', 'lead', 'end']
+                reset = True
+        elif choice == 'Bulgaria':
+            if 'https://bntnews.bg/news/parvi-prognozni-rezultati-6-partii-vlizat-v-parlamenta-stotni-' \
+               'delyat-gerb-i-itn-1162099news.html' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'GERB', 'ITN', 'BSPzB', 'DPS', 'DB', 'IBG-NI', 'BP', 'BP', 'BP', 'Revival', 'BL', 'RzB',
+                        'LSChSR',
                         'Other', 'lead', 'end']
                 reset = True
 
@@ -240,6 +267,12 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
             m = temp[-2 - shift]
             d = temp[-3 - shift]
             temp = d + ' ' + m + ' ' + y
+        elif choice == 'Ireland' and 'dts' in line:
+            temp = line.strip('|').split('|')
+            y = temp[-1]
+            m = temp[-2]
+            d = temp[-3]
+            temp = y + ' ' + m + ' ' + d
         else:
             if '{{efn' in line:
                 line = line[:line.find('{{efn')]
@@ -491,178 +524,19 @@ def interpret_table(table: List[List[Any]], key: List[str], include):
     return dat
 
 
-def read_data(content, key, start, restart, date, choice, include=None, zeros=None):
-    def isrestart(line):
-        return sum(map(lambda r: r in line, restart))
-
-    dat: Dict[str, Dict[int, List[float]]] = {}
-    rot = None
-    end = 0
-    year = '2021'
-    i = 0
-    prevline = None
-    flag = False
-    while i < len(content):
-        line = content[i]
-        # print(rot, line, end='')
-        if '===' in line:
-            year = line.strip('= \n')
-            if choice == 'UK' and year == '2020':
-                date = 2
-                start = 5
-        elif line[:2] == '|}':
-            rot = None
-        elif choice == 'New York':
-            if '<!--' in line:
-                line = line[:line.find('<!--')]
-        elif choice == 'Ireland':
-            if rot == 1 and 'url=' in line:
-                i += 1
-                continue
-            if '|8 February 2020' in line:
-                key = ['FG', 'FF', 'SF', 'Lab', 'PBP/S', 'SD', 'GP', 'O/I', 'O/I', 'O/I']
-                flag = True
-        elif choice == 'Netherlands':
-            if '{{For|events during those years|2020 in the Netherlands|2019 in the Netherlands|' \
-               '2018 in the Netherlands|2017 in the Netherlands}}' in line:
-                key = ['VVD', 'PVV', 'CDA', 'D66', 'GL', 'SP', 'PvdA', 'CU', 'PvdD', '50+', 'SGP', 'DENK', 'FVD',
-                       'JA21', 'Volt', 'BIJ1', 'BBB', 'Others']
-                start = 2
-        if isrestart(line):
-            rot = 0
-        if rot is not None:
-            if rot == date:
-                if choice in ['Austria']:
-                    line = line[:line.find('{')]
-                elif choice in ['Cyprus', 'Ireland'] or (choice == 'UK' and date == 0):
-                    line = prevline
-                    if line[0] == '!':
-                        rot = None
-                        i += 1
-                        continue
-                    elif '|' not in line:
-                        line = content[i - 2]
-                line = line.strip().strip('}\'')
-                if choice == 'Ireland' and 'dts' in line:
-                    temp = line.strip('|').split('|')
-                    d = temp[-1]
-                    m = temp[-2]
-                    y = temp[-3]
-                    temp = d + ' ' + m + ' ' + y
-                elif choice == 'UK' and 'opdrts' in line:
-                    temp = line.strip('|').split('|')
-                    y = temp[-1]
-                    m = temp[-2]
-                    d = temp[-3]
-                    temp = d + ' ' + m + ' ' + y
-                elif choice == 'Bulgaria' and 'Exit polls' in line:
-                    temp = '11 07 2021'
-                else:
-                    dates = line.split('|')[-1]
-                    if '-' in dates:
-                        s = dates.split('-')
-                    elif '–' in dates:
-                        s = dates.split('–')
-                    elif '−' in dates:
-                        s = dates.split('−')
-                    else:
-                        s = dates.split('â€“')
-                    temp = s[-1].strip()
-                    temps = temp.strip().split()
-                    if choice == 'New York':
-                        y = temps[-1]
-                        d = temps[-2].strip(',')
-                        if len(temps) == 3:
-                            m = temps[-3][-3:]
-                        else:
-                            m = s[0].split()[0][s[0].find('|') + 1:]
-                        temp = d + ' ' + m + ' ' + y
-                    elif len(temps) == 2:
-                        try:
-                            y = int(temps[-1])
-                            m = temps[0]
-                            temp = str(date_kit.get_month_length(date_kit.get_month_number(m), y)) + ' ' + temp
-                        except ValueError:
-                            temp = temp + ' ' + year
-                    elif len(temps) == 1:
-                        temp = str(date_kit.get_month_length(date_kit.get_month_number(temps[0]), year)) + \
-                               ' ' + temp + ' ' + year
-                    temp = temp.strip("'")
-                temp = temp.replace('X', '0').replace('[', '').replace(']', '')
-                end_date = date_kit.Date(text=temp, form='dmy')
-                end = date_kit.date_dif(today, end_date)
-            elif start <= rot < start + len(key):
-                p = rot - start
-                temp = line
-                if '{{efn' in temp:
-                    temp = temp[:temp.find('{{efn')]
-                if '<br' in line:
-                    temp = temp[:temp.find('<br')]
-                if '<ref' in line:
-                    temp = temp[:temp.find('<ref')]
-                temp = temp.split('|')[-1].strip()
-                if choice == 'Cyprus' and temp == '-' and p == 4:
-                    i += 1
-                    continue
-                temp = temp.replace(',', '.')
-                if temp in ['â€“', '-', ''] or "small" in temp:
-                    share = None
-                else:
-                    try:
-                        share = float(temp.strip().strip("'%!"))
-                        if choice == 'Netherlands':
-                            share *= 2 / 3
-                    except ValueError:
-                        share = None
-                if key[p] not in dat:
-                    dat[key[p]] = {}
-                if end in dat[key[p]]:
-                    if ((choice == 'Bulgaria' and len(dat[key[p]][end]) > 0 and p in (7, 8)) or
-                            (flag and choice == 'Ireland' and len(dat[key[p]][end]) > 0 and p in (8, 9))):
-                        if dat[key[p]][end][-1] is not None:
-                            if share is not None:
-                                dat[key[p]][end][-1] += share
-                        else:
-                            dat[key[p]][end][-1] = share
-                    else:
-                        dat[key[p]][end].append(share)
-                else:
-                    dat[key[p]][end] = [share]
-                if choice in ['Bulgaria']:
-                    if 'colspan=' in line:
-                        temp: str = line[line.find('colspan=') + len('colspan='):]
-                        num = int(temp.strip('|').split()[0].split('|')[0].strip('" '))
-                        rot += num - 1
-            elif isrestart(line):
-                rot = 0
-            rot += 1
-        i += 1
-        prevline = line
-
-    if zeros is not None:
-        for p in include:
-            for x in dat[p]:
-                normalize = [sum([dat[zero][x][i] if len(dat[zero][x]) > i and dat[zero][x][i] is not None else 0
-                                  for zero in zeros])
-                             for i in range(len(dat[p][x]))]
-                dat[p][x] = list(map(lambda i, y: (y / (1 - normalize[i] / 100)) if y is not None else None,
-                                     range(len(dat[p][x])), dat[p][x]))
-    if include is not None:
-        dat = {k: v for (k, v) in dat.items() if k in include}
-    return dat
-
-
 def choices_setup():
     choices = {
         'Austria': {
-            'key': ['ÖVP', 'SPÖ', 'FPÖ', 'Gr\u00fcne', 'NEOS'],
+            'include': ['ÖVP', 'SPÖ', 'FPÖ', 'Gr\u00fcne', 'NEOS'],
+            'key': ['firm', 'date', 'sample', 'method',
+                    'ÖVP', 'SPÖ', 'FPÖ', 'Gr\u00fcne', 'NEOS',
+                    'Other', 'lead', 'end'],
             'col': {'ÖVP': (99, 195, 208), 'SPÖ': (206, 0, 12), 'FPÖ': (0, 86, 162), 'Gr\u00fcne': (136, 182, 38),
                     'NEOS': (232, 65, 136)},
             'gov': {'Government': ['ÖVP', 'Gr\u00fcne'], 'Opposition': ['SPÖ', 'FPÖ', 'NEOS']},
             'blocs': {'Progressive': ['SPÖ', 'Gr\u00fcne', 'NEOS'], 'Conservative': ['ÖVP', 'FPÖ']},
-            'start': 4,
+            'start': 0,
             'end_date': Date(2024, 9, 29),
-            'restart': ['[http', 'election'],
             'toggle_seats': True,
             'url': 'https://en.wikipedia.org/w/index.php?title='
                    'Opinion_polling_for_the_next_Austrian_legislative_election&action=edit&section=3',
@@ -689,19 +563,22 @@ def choices_setup():
                    'Opinion_polling_for_the_2022_Brazilian_general_election&action=edit&section=3',
         },
         'Bulgaria': {
-            'key': ['GERB', 'ITN', 'BSPzB', 'DPS', 'DB', 'ISMV', 'BP', 'BP', 'BP', 'Revival', 'BL', 'RB', 'LSChSR'],
+            'include': ['ITN', 'GERB', 'BSPzB', 'DB', 'DPS', 'IBG-NI', 'BP', 'Revival'],
+            'key': ['firm', 'date', 'sample',
+                    'ITN', 'GERB', 'BSPzB', 'DB', 'DPS', 'IBG-NI', 'BP', 'Revival',
+                    'Other', 'lead', 'end'],
             'col': {'GERB': (0, 86, 167), 'ITN': (75, 185, 222), 'BSPzB': (219, 15, 40), 'DPS': (0, 96, 170),
-                    'DB': (0, 74, 128), 'ISMV': (91, 165, 70), 'BP': black, 'Revival': (192, 159, 98),
-                    'BL': (243, 129, 20), 'RB': (43, 74, 153), 'LSChSR': (241, 25, 40)},
-            'blocs': {'Conservative': ['GERB', 'RB'], 'Socialist': ['BSPzB', 'LSChSR'], 'DPS': ['DPS'],
-                      'Nationalist': ['BP', 'Revival', 'BL'],
-                      'Populist': ['ITN', 'DB', 'ISMV']},
-            'start': 3,
-            'end_date': Date(2021, 7, 11),
-            'restart': ['[http', '2021 election'],
+                    'DB': (0, 74, 128), 'IBG-NI': (91, 165, 70), 'BP': black, 'Revival': (192, 159, 98),
+                    'BL': (243, 129, 20), 'RzB': (43, 74, 153), 'LSChSR': (241, 25, 40)},
+            'blocs': {'Conservative': ['GERB'], 'Socialist': ['BSPzB'], 'Liberal': ['DPS'],
+                      'Nationalist': ['BP', 'Revival'],
+                      'Populist': ['ITN', 'DB', 'IBG-NI']},
+            'start': 0,
+            'end_date': Date(2025, 9, 30),
             'toggle_seats': True,
             'url': 'https://en.wikipedia.org/w/index.php?title='
-                   'July_2021_Bulgarian_parliamentary_election&action=edit&section=4',
+                   'Next_Bulgarian_parliamentary_election&action=edit&section=3',
+            'old_data': 'polling_data/old_bulgaria_polling.txt',
             'seats': 240,
             'method': 'remainder',
             'threshold': 4
@@ -727,15 +604,6 @@ def choices_setup():
             'url': 'https://en.wikipedia.org/w/index.php?title='
                    'Opinion_polling_for_the_44th_Canadian_federal_election&action=edit&section=1',
             'old_data': 'polling_data/old_canada_polling.txt'
-        },
-        'Cyprus': {
-            'key': ['DISY', 'AKEL', 'DIKO', 'EDEK-SYPOL', 'KA', 'KOSP', 'ELAM', 'DIPA', 'Anex'],
-            'col': {'DISY': (21, 105, 199), 'AKEL': (179, 27, 27), 'DIKO': (255, 126, 0), 'EDEK-SYPOL': (22, 79, 70),
-                    'KA': (0, 75, 145), 'KOSP': (127, 255, 0), 'ELAM': (0, 0, 0), 'DIPA': (255, 126, 0),
-                    'Anex': (68, 36, 100)},
-            'date': 0,
-            'start': 1,
-            'end_date': Date(2021, 5, 30)
         },
         'Czechia': {
             'key': ['firm', 'date', 'size', 'turnout',
@@ -818,6 +686,7 @@ def choices_setup():
                     'Government': (245, 75, 75), 'Opposition': (255, 222, 85)},
             'gov': {'Government': ['SDP', 'KESK', 'VIHR', 'VAS', 'SFP'], 'Opposition': ['KOK', 'PS', 'KD', 'LIIK']},
             'start': 0,
+            'restart': ['http'],
             'end_date': Date(2023, 4, 30),
             'url': 'https://en.wikipedia.org/w/index.php?title='
                    'Opinion_polling_for_the_next_Finnish_parliamentary_election&action=edit&section=3',
@@ -912,13 +781,15 @@ def choices_setup():
             'seats': 63
         },
         'Ireland': {
-            'key': ['SF', 'FF', 'FG', 'GP', 'Lab', 'SD', 'PBP/S', 'Aon', 'O/I'],
+            'include': ['SF', 'FF', 'FG', 'GP', 'Lab', 'SD', 'PBP/S', 'Aon', 'O/I'],
+            'key': ['date', 'firm', 'sample',
+                    'SF', 'FF', 'FG', 'GP', 'Lab', 'SD', 'PBP/S', 'Aon', 'O/I',
+                    'end'],
             'col': {'SF': (50, 103, 96), 'FF': (102, 187, 102), 'FG': (102, 153, 255), 'GP': (34, 172, 111),
                     'Lab': (204, 0, 0), 'SD': (117, 47, 139), 'PBP/S': (142, 36, 32), 'Aon': (68, 83, 42), 'O/I': grey},
             'blocs': {'Broad Left': ['SF', 'GP', 'Lab', 'SD', 'PBP/S'], 'Old Guard': ['FF', 'FG']},
             'gov': {'Government': ['FF', 'FG', 'GP'], 'Opposition': ['SF', 'Lab', 'SD', 'PBP/S', 'Aon', 'O/I']},
-            'date': 0,
-            'start': 2,
+            'start': -1,
             'restart': ['Cite web', 'cite web', 'General election', 'cite news', 'Cite news'],
             'vlines': {Date(2020, 2, 8): 'General Election'},
             'end_date': Date(2025, 2, 20),
@@ -990,7 +861,10 @@ def choices_setup():
             'bar': 0,
         },
         'Lithuania': {
-            'key': ['TS-LKD', 'LVZS', 'DP', 'LSDP', 'Laisves', 'LRLS', 'LLRA', 'LSDDP', 'LCP', 'LT'],
+            'include': ['TS-LKD', 'LVZS', 'DP', 'LSDP', 'Laisves', 'LRLS', 'LLRA', 'LSDDP', 'LCP', 'LT'],
+            'key': ['firm', 'date',
+                    'TS-LKD', 'LVZS', 'DP', 'LSDP', 'Laisves', 'LRLS', 'LLRA', 'LSDDP', 'LCP', 'LT',
+                    'lead', 'end'],
             'col': {'TS-LKD': (0, 165, 155), 'LVZS': (0, 144, 53), 'DP': (29, 87, 140), 'LSDP': (225, 5, 20),
                     'Laisves': (227, 0, 107), 'LRLS': (244, 129, 0), 'LLRA': (120, 19, 35), 'LSDDP': (193, 39, 45),
                     'LCP': (0, 156, 61), 'LT': (251, 186, 0)},
@@ -998,15 +872,16 @@ def choices_setup():
                     'Opposition': ['LVZS', 'DP', 'LSDP', 'LLRA', 'LSDDP', 'LCP', 'LT']},
             'blocs': {'Conservative': ['TS-LKD', 'LVZS', 'LCP', 'LLRA'], 'Liberal': ['LRLS', 'DP', 'Laisves', 'LT'],
                       'Socialist': ['LSDP', 'LSDDP']},
-            'date': 1,
-            'start': 2,
+            'start': 0,
             'end_date': Date(2024, 10, 6),
             'url': 'https://en.wikipedia.org/w/index.php?title='
                    '2024_Lithuanian_parliamentary_election&action=edit&section=3'
         },
         'Netherlands': {
-            'key': ['VVD', 'D66', 'PVV', 'CDA', 'SP', 'PvdA', 'GL', 'FVD', 'PvdD', 'CU', 'Volt', 'JA21', 'SGP', 'DENK',
-                    '50+', 'BBB', 'BIJ1', 'Others'],
+            'key': ['firm', 'date', 'sample',
+                    'VVD', 'D66', 'PVV', 'CDA', 'SP', 'PvdA', 'GL', 'FVD', 'PvdD', 'CU', 'Volt', 'JA21', 'SGP', 'DENK',
+                    '50+', 'BBB', 'BIJ1',
+                    'Others', 'lead', 'end'],
             'col': {'VVD': (10, 44, 202), 'D66': (0, 174, 65), 'PVV': (1, 39, 88), 'CDA': (44, 200, 77),
                     'SP': (246, 0, 0), 'PvdA': (223, 17, 26), 'GL': (131, 189, 0), 'FVD': (132, 24, 24),
                     'PvdD': (0, 107, 45), 'CU': (0, 167, 235), 'Volt': (88, 44, 131), 'JA21': (36, 43, 87),
@@ -1023,8 +898,7 @@ def choices_setup():
                       'Liberal': ['VVD', 'D66', 'Volt'],
                       'Agrarian': ['BBB'],
                       'Pensioners': ['50+']},
-            'date': 1,
-            'start': 3,
+            'start': 0,
             'vlines': {Date(2021, 3, 17): 'General Election'},
             'restart': ['[http', '2017 election', '2021 election'],
             'url': 'https://en.wikipedia.org/w/index.php?title=Next_Dutch_general_election&action=edit&section=3',
@@ -1036,16 +910,6 @@ def choices_setup():
             'seats': 150,
             'threshold': 0,
             'end_date': Date(2025, 3, 17)
-        },
-        'New York': {
-            'key': ['Eric Adams', 'Shaun Donovan', 'Kathryn Garcia', 'Raymond McGuire', 'Dianne Morales',
-                    'Scott Stringer', 'Maya Wiley', 'Andrew Yang'],
-            'col': {'Eric Adams': (0, 0, 255), 'Shaun Donovan': (102, 0, 102), 'Kathryn Garcia': (255, 128, 0),
-                    'Raymond McGuire': (0, 102, 0), 'Dianne Morales': (255, 153, 255),
-                    'Scott Stringer': (120, 120, 255), 'Maya Wiley': red, 'Andrew Yang': yellow},
-            'file_name': 'polling_data/new_york_city_polling.txt',
-            'start': 4,
-            'end_date': Date(2021, 6, 22)
         },
         'Norway': {
             'include': ['R', 'SV', 'MDG', 'Ap', 'Sp', 'V', 'KrF', 'H', 'FrP'],
@@ -1078,13 +942,6 @@ def choices_setup():
             'start': -2,
             'end_date': Date(2022, 6, 2),
             'url': 'https://en.wikipedia.org/w/index.php?title=43rd_Ontario_general_election&action=edit&section=9'
-        },
-        'Peru': {
-            'key': ['Castillo', 'Fujimori'],
-            'col': {'Castillo': (192, 10, 10), 'Fujimori': (255, 128, 0)},
-            'start': 3,
-            'restart': ['http'],
-            'end_date': Date(2021, 6, 6)
         },
         'Poland': {
             'key': ['firm', 'date', 'sample',
@@ -1521,18 +1378,12 @@ class GraphPage:
         if 'old_data' in choices[self.choice]:
             with open(choices[self.choice]['old_data'], 'r', encoding='utf-8') as f:
                 content.extend(f.readlines())
-        if self.choice in ['Czechia', 'Russia', 'Canada', 'Brazil', 'Italy', 'Norway', 'Iceland', 'Germany', 'Japan',
-                           'Hungary', 'Ontario', 'Slovenia', 'Latvia', 'Sweden', 'Estonia', 'Finland', 'Denmark',
-                           'Greece', 'Portugal', 'Poland', 'Spain', 'Slovakia', 'UK']:
-            tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
-            display_tables(tables)
-            tables = process_tables(tables, self.choice, self.include, self.zeros)
-            tables = filter_tables(tables, self.choice, self.include)
-            tables = modify_tables(tables, self.choice, self.include, self.zeros)
-            return interpret_tables(tables, self.include)
-        else:
-            return read_data(content, self.key, self.start, self.restart, self.date, self.choice, self.include,
-                             self.zeros)
+        tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
+        display_tables(tables)
+        tables = process_tables(tables, self.choice, self.include, self.zeros)
+        tables = filter_tables(tables, self.choice, self.include)
+        tables = modify_tables(tables, self.choice, self.include, self.zeros)
+        return interpret_tables(tables, self.include)
 
     def init_seats_dat(self):
         xs = set()
@@ -1906,10 +1757,6 @@ def update_data(sel="All"):
             soup = BeautifulSoup(read_content, 'html.parser')
             content = soup.find_all('textarea')
             text = content[0].text
-            if tag == 'New York':
-                text = text[text.find('=== First-past-the-post polls ==='):
-                            text.find('!scope="row"| [https://www.filesforprogress.org/datasets/2020/1/'
-                                      'dfp_poll_january_ny.pdf Data for Progress (D)]')]
             final = text.encode('utf-8')
             try:
                 with open(dest, 'rb') as rf:
