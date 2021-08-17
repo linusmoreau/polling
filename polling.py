@@ -635,8 +635,7 @@ def choices_setup():
                     'ANO', 'SPOLU', 'SPOLU', 'SPOLU', 'Pirati+STAN', 'Pirati+STAN', 'SPD', 'KSCM', 'CSSD', 'T-S',
                     'T-S', 'Z', 'ODA', 'P',
                     'Other', 'Lead', 'Govt.', 'Opp.', 'end'],
-            'include': ['ANO', 'SPOLU', 'SPOLU', 'SPOLU', 'Pirati+STAN', 'Pirati+STAN', 'SPD', 'KSCM', 'CSSD', 'T-S',
-                        'T-S', 'Z', 'ODA', 'P'],
+            'include': ['ANO', 'SPOLU', 'Pirati+STAN', 'SPD', 'KSCM', 'CSSD', 'T-S', 'Z', 'ODA', 'P'],
             'col': {'ANO': (38, 16, 96), 'SPOLU': (35, 44, 119), 'Pirati+STAN': (0, 0, 0), 'SPD': (33, 117, 187),
                     'KSCM': (204, 0, 0), 'CSSD': (236, 88, 0), 'T-S': (0, 150, 130), 'Z': (96, 180, 76),
                     'P': (0, 51, 255), 'ODA': (0, 45, 114),
@@ -846,7 +845,7 @@ def choices_setup():
             'blocs': {'Broad Left': ['SF', 'GP', 'Lab', 'SD', 'PBP/S'], 'Old Guard': ['FF', 'FG']},
             'gov': {'Government': ['FF', 'FG', 'GP'], 'Opposition': ['SF', 'Lab', 'SD', 'PBP/S', 'Aon', 'O/I']},
             'start': -1,
-            'restart': ['Cite web', 'cite web', 'General election', 'cite news', 'Cite news'],
+            'restart': ['Cite web', 'cite web', 'cite news', 'Cite news'],
             'vlines': {Date(2020, 2, 8): 'General Election'},
             'end_date': Date(2025, 2, 20),
             'old_data': 'polling_data/old_ireland_polling.txt',
@@ -956,7 +955,6 @@ def choices_setup():
                       'Pensioners': ['50+']},
             'start': 0,
             'vlines': {Date(2021, 3, 17): 'General Election'},
-            'restart': ['[http', '2017 election', '2021 election'],
             'url': 'https://en.wikipedia.org/w/index.php?title=Next_Dutch_general_election&action=edit&section=3',
             'old_data': 'polling_data/old_netherlands_polling.txt',
             'toggle_seats': True,
@@ -1085,7 +1083,7 @@ def choices_setup():
             'blocs': {'Left': ['SMER-SD', 'PS-SPOLU', 'DV', 'HLAS-SD'],
                       'Right': ['OL\'aNO', 'SR', 'L\'SNS', 'SaS', 'ZL\'', 'KDH', 'Magyar', 'SNS', 'REP']},
             'start': -1,
-            'restart': ['Focus', 'AKO', '2020 elections'],
+            'restart': ['http'],
             'end_date': Date(2024, 2, 24),
             'url': 'https://en.wikipedia.org/w/index.php?title='
                    'Opinion_polling_for_the_next_Slovak_parliamentary_election&action=edit&section=1',
@@ -1159,7 +1157,7 @@ def choices_setup():
                       'Left': ['C', 'S', 'V', 'MP']},
             'gov': {'Government': ['S', 'MP', 'V', 'C', 'L'], 'Opposition': ['M', 'KD', 'SD']},
             'start': 0,
-            'restart': ['http', '2018 election'],
+            'restart': ['http'],
             'end_date': Date(2022, 9, 11),
             'toggle_seats': True,
             'url': 'https://en.wikipedia.org/w/index.php?title='
@@ -1180,7 +1178,6 @@ def choices_setup():
             'start': -1,
             'vlines': {Date(2020, 4, 4): 'Starmer becomes Labour leader',
                        Date(2021, 5, 6): 'Local elections'},
-            'restart': ['[http', '2019 general election'],
             'end_date': Date(2024, 5, 2),
             'old_data': 'polling_data/old_uk_polling.txt',
             'url': 'https://en.wikipedia.org/w/index.php?title='
@@ -1435,7 +1432,7 @@ class GraphPage:
             with open(choices[self.choice]['old_data'], 'r', encoding='utf-8') as f:
                 content.extend(f.readlines())
         tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
-        display_tables(tables)
+        # display_tables(tables)
         tables = process_tables(tables, self.choice, self.include, self.zeros)
         tables = filter_tables(tables, self.choice, self.include)
         tables = modify_tables(tables, self.choice, self.include, self.zeros)
