@@ -1196,13 +1196,13 @@ def choices_setup():
             d['end_date'] = None
         if 'blocs' not in d:
             d['blocs'] = None
-        elif d['blocs'] is not None:
+        elif d['blocs'] is not None and 'col' in d:
             for line in d['blocs'].keys():
                 if line not in d['col'].keys():
                     d['col'][line] = d['col'][d['blocs'][line][0]]
         if 'gov' not in d:
             d['gov'] = None
-        elif d['gov'] is not None:
+        elif d['gov'] is not None and 'col' in d:
             for line in d['gov'].keys():
                 if line not in d['col'].keys():
                     d['col'][line] = d['col'][d['gov'][line][0]]
