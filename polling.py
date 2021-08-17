@@ -619,16 +619,15 @@ def choices_setup():
                     'Government': (234, 109, 106), 'Opposition': (100, 149, 237)},
             'gov': {'Government': ['LIB'], 'Opposition': ['CON', 'NDP', 'BQ', 'GRN', 'PPC']},
             'blocs': {'Progressive': ['LIB', 'NDP', 'BQ', 'GRN'], 'Conservative': ['CON', 'PPC']},
-            'start': 0,
-            'restart': ['Innovative Research', '2019 election'],
+            'start': -2,
             'vlines': {Date(2019, 10, 21): "General Election",
                        Date(2020, 8, 24): "O'Toole elected Conservative leader",
                        Date(2017, 10, 1): "Singh elected NDP leader",
                        Date(2017, 5, 27): "Scheer elected Conservative leader"},
-            'end_date': Date(2023, 10, 16),
+            'end_date': Date(2021, 9, 20),
             'toggle_seats': True,
             'url': 'https://en.wikipedia.org/w/index.php?title='
-                   'Opinion_polling_for_the_44th_Canadian_federal_election&action=edit&section=1',
+                   'Opinion_polling_for_the_2021_Canadian_federal_election&action=edit&section=1',
             'old_data': 'polling_data/old_canada_polling.txt'
         },
         'Czechia': {
