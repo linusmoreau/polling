@@ -26,7 +26,11 @@ def display_table(table: List[List[Union[str, bool]]], key, years, trunc=32):
             txt = str(col)
             if len(txt) > trunc - 4:
                 txt = txt[:trunc - 4]
-            print(txt.ljust(trunc, ' '), end='')
+            ntxt = ''
+            for c in txt:
+                if c != '\t':
+                    ntxt += c
+            print(ntxt.ljust(trunc, ' '), end='')
         print()
 
 
