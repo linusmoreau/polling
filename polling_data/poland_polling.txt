@@ -1,11 +1,69 @@
 === 2021 ===
 {{For|events during the year|2021 in Poland}}
+{| class="wikitable sortable collapsible" style="text-align:center; font-size:95%; line-height:16px;
+|- style="height:42px; background-color:#E9E9E9"
+! rowspan="2" style="width:150px;" | Polling firm/<br />Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
+! style="width:60px;" class="unsortable" | [[United Right (Poland)|United<br/>Right]]
+! style="width:60px;" class="unsortable" | [[Agreement (political party)|Agreement]]
+! style="width:60px;" class="unsortable" | [[Civic Coalition (Poland)|Civic<br/>Coalition]]
+! style="width:60px;" class="unsortable" | [[The Left (Poland)|The Left]]
+! style="width:60px;" class="unsortable" | [[Polish Coalition|Polish<br/>Coalition]]
+! style="width:60px;" class="unsortable" | [[Kukiz'15]]
+! style="width:60px;" class="unsortable" | [[Confederation Liberty and Independence|Confederation]]
+! style="width:60px;" class="unsortable" | [[Poland 2050|Poland<br/>2050]]
+! rowspan="2" data-sort-type="number" style="width:50px;" | Others /<br />Don't know
+! rowspan="2" data-sort-type="number" style="width:30px;" | Lead
+|-
+! data-sort-type="number" style="height:1px; background:{{Law and Justice/meta/color}};" |
+! data-sort-type="number" style="height:1px; background:{{Agreement (political party)/meta/color}};" |
+! data-sort-type="number" style="height:1px; background:{{Civic Platform/meta/color}};" |
+! data-sort-type="number" style="height:1px; background:{{The Left (Poland)/meta/color}};" |
+! data-sort-type="number" style="height:1px; background:{{Polish People's Party/meta/color}};" |
+! data-sort-type="number" style="height:1px; background:{{Kukiz'15/meta/color}};" |
+! data-sort-type="number" style="height:1px; background:{{Confederation Liberty and Independence/meta/color}};" |
+! data-sort-type="number" style="height:1px; background:{{Poland 2050/meta/color}};"|
+|-
+| [https://www.tvp.info/55387631/nowy-sondaz-dla-tvp-info-pollster-kto-wygralby-wybory-poparcia-dla-partii-politycznych-w-sejmie-5-partii-pis-ko-polska-2050-lewica-i-konfederacja Pollster / TVP Info]
+| data-sort-value="2021-08-16" | 15–16 Aug 2021
+| 1,044
+| style="background:#C0DBFC;" | '''34'''
+| 0.8
+| 26
+| 8
+| 4
+| 1
+| 8
+| 18
+| 0.2
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''8'''
+|-
+| [https://wiadomosci.onet.pl/kraj/sondaz-koalicja-obywatelska-dogonila-prawo-i-sprawiedliwosc-sondaz-kantar/t6zv08y Kantar]
+| data-sort-value="2021-08-13" | 13 Aug 2021
+| 800
+| style="background:#C0DBFC;" | '''26'''
+|
+| style="background:#FDDCB8" | '''26'''
+| 10
+| 3
+| 0
+| 7
+| 17
+| 7
+| '''Tie'''
+|-
+|
+| data-sort-value="2021-08-11" | 11 August 2021
+| colspan=11 |'''[[Agreement (political party)|Agreement]] leaves [[United Right (Poland)|United Right]]. The ruling coalition loses majority in Sejm<ref>{{cite news|title =To już przesądzone. Porozumienie opuszcza koalicję rządową|url = https://businessinsider.com.pl/wiadomosci/to-juz-przesadzone-porozumienie-opuszcza-koalicje-rzadowa/qbnjdd3|date = 11 August 2021|website=businessinsider.com.pl}}</ref>'''
+|-
+|}
 
 {| class="wikitable sortable collapsible" style="text-align:center; font-size:95%; line-height:16px;
 |- style="height:42px; background-color:#E9E9E9"
-! rowspan="2" style="width:150px;" | Polling Firm/<br />Link
-! rowspan="2" data-sort-type="date" | Fieldwork<br />Period
-! rowspan="2" style="width:20px;" | Sample<br/>Size
+! rowspan="2" style="width:150px;" | Polling firm/<br />Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
 ! style="width:60px;" class="unsortable" | [[United Right (Poland)|United<br/>Right]]
 ! style="width:60px;" class="unsortable" | [[Civic Coalition (Poland)|Civic<br/>Coalition]]
 ! style="width:60px;" class="unsortable" | [[The Left (Poland)|The Left]]
@@ -26,10 +84,36 @@
 |-
 |
 | rowspan="2" data-sort-value="2021-08-10" | 10 August 2021
-|colspan=10 |'''Dismissal of Deputy Prime Minister [[Jarosław Gowin]]. [[United Right (Poland)|United Right]] loses majority in Sejm<ref>{{cite news|title =Jarosław Gowin poza rządem: to koniec Zjednoczonej Prawicy [The end of United Right government]|url = https://www.onet.pl/informacje/onetwiadomosci/jaroslaw-gowin-poza-rzadem-to-koniec-zjednoczonej-prawicy/zy1ek8s,79cfc278|date = 10 August 2021|website=onet.pl}}</ref>'''
+| colspan=10 |'''Dismissal of Deputy Prime Minister [[Jarosław Gowin]] and several deputy ministers<ref>{{cite news|title =Jarosław Gowin poza rządem: to koniec Zjednoczonej Prawicy [The end of United Right government]|url = https://www.onet.pl/informacje/onetwiadomosci/jaroslaw-gowin-poza-rzadem-to-koniec-zjednoczonej-prawicy/zy1ek8s,79cfc278|date = 10 August 2021|website=onet.pl}}</ref>'''
 |-
 |
-|colspan=10 |'''Nationwide protests in defense of media freedom, against the government's attack on [[TVN (Polish TV channel)|TVN]]<ref>{{cite news|title =Protesty w obronie wolnych mediów w kilkudziesięciu miastach [Protests in defense of free media in dozens of cities]|url = https://tvn24.pl/polska/lex-anty-tvn-protesty-w-obronie-wolnych-mediow-w-kilkudziesieciu-miastach-relacja-5174125|date =10 Jul 2021 |website=tvn24.pl}}</ref>'''
+| colspan=10 |'''Nationwide protests against ''[[Lex TVN]]'', a controversial media law reform<ref>{{cite news|title =Protesty w obronie wolnych mediów w kilkudziesięciu miastach [Protests in defense of free media in dozens of cities]|url = https://tvn24.pl/polska/lex-anty-tvn-protesty-w-obronie-wolnych-mediow-w-kilkudziesieciu-miastach-relacja-5174125|date =10 August 2021 |website=tvn24.pl}}</ref>'''
+|-
+| [https://twitter.com/ewyboryeu/status/1425562041008496642 ewybory.eu] 
+| data-sort-value="2021-08-10" | 1 Jul–10 Aug 2021
+| 10,088
+| style="background:#C0DBFC;" | '''31.38'''
+| 29.72
+| 14.10
+| 5.29
+|
+| 10.65
+| 7.83
+| 1.03
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''1.66'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/562530-pierwszy-raz-w-naszym-badaniu-ruch-holowni-wyraznie-traci Social Changes / wPolityce.pl]
+| data-sort-value="2021-08-09" | 6–9 Aug 2021
+| 1,083
+| style="background:#C0DBFC;" | '''34'''
+| 26
+| 8
+| 2
+| 4
+| 8
+| 17
+| 1
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''8'''
 |-
 | style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/561575-nasz-sondaz-cos-najwyrazniej-poszlo-tuskowi-nie-tak Social Changes / wPolityce.pl]
 | data-sort-value="2021-08-02" | 30 Jul–2 Aug 2021
