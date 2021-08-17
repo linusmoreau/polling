@@ -218,11 +218,11 @@ def transcribe_table(content, key, choice, begin, start):
                         placeholder = [True for _ in range(len(key))]
                         table.extend([placeholder.copy() for _ in range(row - len(table) + 1)])
             table[row][col] = line
-            if 'colspan=' in line and 'rowspan' in line:
-                htemp: str = line[line.find('colspan=') + len('colspan='):]
-                hnum = int(htemp.strip('|').split()[0].split('|')[0].strip('" '))
-                vtemp: str = line[line.find('rowspan=') + len('rowspan='):]
-                vnum = int(vtemp.strip('|').split()[0].split('|')[0].strip('" '))
+            if 'colspan' in line and 'rowspan' in line:
+                htemp: str = line[line.find('colspan') + len('colspan'):]
+                hnum = int(htemp.strip('|= ').split()[0].split('|')[0].strip('" '))
+                vtemp: str = line[line.find('rowspan') + len('rowspan'):]
+                vnum = int(vtemp.strip('|= ').split()[0].split('|')[0].strip('" '))
                 for r in range(vnum):
                     if len(table) <= row + vnum:
                         placeholder = [True for _ in range(len(key))]
@@ -232,17 +232,17 @@ def transcribe_table(content, key, choice, begin, start):
                             break
                         elif c + r != 0:
                             table[row + r][col + c] = False
-            elif 'colspan=' in line:
-                temp: str = line[line.find('colspan=') + len('colspan='):]
-                num = int(temp.strip('|').split()[0].split('|')[0].strip('" '))
+            elif 'colspan' in line:
+                temp: str = line[line.find('colspan') + len('colspan'):]
+                num = int(temp.strip('|= ').split()[0].split('|')[0].strip('" '))
                 for a in range(1, num):
                     if col + a >= len(table[row]) - 1:
                         break
                     else:
                         table[row][col + a] = False
-            elif 'rowspan=' in line:
-                temp: str = line[line.find('rowspan=') + len('rowspan='):]
-                num = int(temp.strip('|').split()[0].split('|')[0].strip('" '))
+            elif 'rowspan' in line:
+                temp: str = line[line.find('rowspan') + len('rowspan'):]
+                num = int(temp.strip('|= ').split()[0].split('|')[0].strip('" '))
                 if len(table) <= row + num:
                     placeholder = [True for _ in range(len(key))]
                     table.extend([placeholder.copy() for _ in range(row + num - len(table) + 1)])
@@ -297,6 +297,13 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
             else:
                 s = dates.split('â€“')
             temp = s[-1].strip().strip('\'}')
+            if choice == 'Israel':
+                temps = temp.split()
+                if len(temps[-1]) < 3:
+                    temps[-1] = '20' + temps[-1]
+                temp = ''
+                for s in temps:
+                    temp += s + ' '
         temps = temp.strip().split()
         if len(temps) == 2:
             try:
@@ -329,21 +336,29 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
             return None
         if '{{efn' in temp:
             temp = temp[:temp.find('{{efn')]
-        if '<br' in s:
+        if '<br' in temp:
             temp = temp[:temp.find('<br')]
-        if '<ref' in s:
+        if '<ref' in temp:
             temp = temp[:temp.find('<ref')]
-        if choice == 'Japan':
+        if choice == 'Israel':
+            if '<!--' in temp:
+                temp = temp[:temp.find('<!--')]
+        elif choice == 'Japan':
             temp = temp.split(' ')[-1]
         temp = temp.split('|')[-1].strip()
         temp = temp.replace(',', '.')
-        if temp in ['â€“', '-', ''] or "small" in temp:
-            share = None
+        if temp in ['â€“', '-', '', '–'] or "small" in temp:
+            if choice == 'Israel':
+                share = 0
+            else:
+                share = None
         else:
             try:
-                share = float(temp.strip().strip("'%!"))
+                share = float(temp.strip().strip("'%!\""))
                 if choice == 'Netherlands':
                     share *= 2 / 3
+                elif choice == 'Israel':
+                    share *= 5 / 6
             except ValueError:
                 share = None
         return share
@@ -790,6 +805,37 @@ def choices_setup():
             'method': 'quotient',
             'threshold': 5,
             'seats': 63
+        },
+        'Israel': {
+            'key': ['date', 'firm', 'publisher',
+                    'Likud', 'Yesh Atid', 'Shas', 'Blue & White', 'Yamina', 'Labor', 'UTJ', 'Yisrael Beitenu',
+                    'Religious Zionist', 'Joint List', 'New Hope', 'Meretz', 'Ra\'am',
+                    'gov', 'end'],
+            'include': ['Likud', 'Yesh Atid', 'Shas', 'Blue & White', 'Yamina', 'Labor', 'UTJ', 'Yisrael Beitenu',
+                        'Religious Zionist', 'Joint List', 'New Hope', 'Meretz', 'Ra\'am'],
+            'col': {'Likud': (31, 90, 165), 'Yesh Atid': (0, 59, 163), 'Shas': (0, 0, 0), 'Blue & White': (4, 190, 239),
+                    'Yamina': (25, 163, 189), 'Labor': (238, 28, 37), 'UTJ': (0, 51, 102),
+                    'Yisrael Beitenu': (154, 192, 226), 'Religious Zionist': (0, 113, 173), 'Joint List': (1, 178, 172),
+                    'New Hope': (0, 129, 178), 'Meretz': (64, 174, 73), 'Ra\'am': (21, 121, 61),
+                    'Opposition': (0, 0, 0)},
+            'gov': {'Government': ['Yesh Atid', 'Blue & White', 'Yamina', 'Labor', 'Yisrael Beitenu', 'New Hope',
+                                   'Meretz', 'Ra\'am'],
+                    'Opposition': ['Likud', 'Shas', 'UTJ', 'Religious Zionist', 'Joint List']},
+            'blocs': {'Centre': ['Yesh Atid', 'Blue & White'],
+                      'Secular Right': ['Likud', 'Yamina', 'Yisrael Beitenu', 'New Hope'],
+                      'Religious Right': ['Shas', 'UTJ', 'Religious Zionist', 'Ra\'am'],
+                      'Left': ['Labor', 'Meretz', 'Joint List']},
+            'start': -2,
+            'restart': ['cite news', 'Cite news'],
+            'end_date': Date(2025, 11, 11),
+            'url': 'https://en.wikipedia.org/w/index.php?title='
+                   'Opinion_polling_for_the_next_Israeli_legislative_election&action=edit&section=3',
+            'toggle_seats': True,
+            'method': 'quotient',
+            'divisor': 1,
+            'bar': 0,
+            'threshold': 3.25,
+            'seats': 120
         },
         'Ireland': {
             'include': ['SF', 'FF', 'FG', 'GP', 'Lab', 'SD', 'PBP/S', 'Aon', 'O/I'],
