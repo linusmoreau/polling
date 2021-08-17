@@ -1,0 +1,309 @@
+=== Polls ===
+Poll results are listed in the table below. Parties that fall below the [[electoral threshold]] of 3.25% are denoted by the percentage of votes that they received (N%), rather than the number of seats they would have gotten.
+
+61 seats are required for a majority in the Knesset.
+
+;Legend
+* '''Gov.'''
+**— Sum of the [[Thirty-sixth government of Israel|36th government]] parties: [[Yesh Atid]], [[Blue and White (political alliance)|Blue & White]], [[Yamina]], [[Israeli Labor Party|Labor]], [[Yisrael Beiteinu]], [[New Hope (Israel)|New Hope]], [[Meretz]] and [[United Arab List|Ra'am]]. The government parties are highlighted in yellow.
+
+{|class="wikitable sortable" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 |Date
+!rowspan=2 |Polling firm
+!rowspan=2 |Publisher
+![[Likud]]
+! style="background:#eeb;"|[[Yesh Atid|Yesh<br>Atid]]
+![[Shas]]
+! style="background:#eeb;"|[[Blue and White (political alliance)|Blue &<br>White]]
+! style="background:#eeb;"|[[Yamina]]
+! style="background:#eeb;"|[[Israeli Labor Party|Labor]]
+![[United Torah Judaism|UTJ]]
+! style="background:#eeb; font-size:90%;"|[[Yisrael Beiteinu|Yisrael<br>Beiteinu]]
+!style=font-size:90% |[[Religious Zionist Party|Religious<br>Zionist]]
+![[Joint List|Joint<br>List]]
+! style="background:#eeb;"|[[New Hope (Israel)|New<br>Hope]]
+! style="background:#eeb;"|[[Meretz]]
+! style="background:#eeb;"|[[United Arab List|Ra'am]]
+! style="background:#eeb;"|[[Thirty-sixth government of Israel|''Gov.'']]
+|-
+!style=background:{{Likud/meta/color}} |
+!style=background:{{Yesh Atid/meta/color}} |
+!style=background:{{Shas/meta/color}} |
+!style=background:{{Blue and White (political alliance)/meta/color}} |
+!style=background:{{Yamina/meta/color}} |
+!style=background:{{Israeli Labor Party/meta/color}} |
+!style=background:{{United Torah Judaism/meta/color}} |
+!style=background:{{Yisrael Beiteinu/meta/color}} |
+!style=background:#0071AD |
+!style=background:{{Joint List/meta/color}} |
+!style=background:#0081B2|
+!style=background:{{Meretz/meta/color}} |
+!style=background:{{United Arab List/meta/color}} |
+!style=background:{{Yesh Atid/meta/color}} |
+|-
+|data-sort-value=2021-08-12 |11–12 Aug 21
+|Maagar Mohot
+|''[[Israel Hayom]]''<ref name=IH13Aug>{{cite news |title=סקר: הליכוד בנסיקה – תקווה חדשה נמחקת |url=https://www.20il.co.il/%D7%A1%D7%A7%D7%A8-%D7%94%D7%9C%D7%99%D7%9B%D7%95%D7%93-%D7%91%D7%A0%D7%A1%D7%99%D7%A7%D7%94-%D7%AA%D7%A7%D7%95%D7%95%D7%94-%D7%97%D7%93%D7%A9%D7%94-%D7%A0%D7%9E%D7%97%D7%A7%D7%AA/ |access-date=13 August 2021 |date=13 August 2021 |work=Israel Hayom |lang=he}}</ref>
+|style=background:#BBCDE4 |'''32'''	<!-- Likud		-->
+|18					<!-- Yesh Atid	-->
+|8					<!-- Shas		-->
+|10					<!-- Blue and White	-->
+|8					<!-- Yamina		-->
+|6					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|7					<!-- Yisrael Beiteinu	-->
+|7					<!-- Religious Zionist	-->
+|6					<!-- Joint List	-->
+|–					<!-- New Hope	-->
+|6					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|60 				<!-- Gov		-->
+|-
+|data-sort-value=2021-07-15 |14–15 Jul 21
+|Maagar Mohot
+|''[[Israel Hayom]]''<ref name=IH15Jul>{{cite news |title=סקר: 58% חושבים שהממשלה היא שמאל-מרכז, סער לא עובר את אחוז החסימה |url=https://www.israelhayom.co.il/news/politics/article/3430022 |author=Mati Tuchfeld |access-date=16 July 2021 |date=15 July 2021 |work=Israel Hayom |lang=he}}</ref>
+|style=background:#BBCDE4 |'''29'''	<!-- Likud		-->
+|21					<!-- Yesh Atid	-->
+|9					<!-- Shas		-->
+|7					<!-- Blue and White	-->
+|9					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|7					<!-- Religious Zionist	-->
+|6					<!-- Joint List	-->
+|–					<!-- New Hope	-->
+|6					<!-- Meretz		-->
+|6					<!-- Ra'am		-->
+|style=background:#90b8ff |'''62''' <!-- Gov		-->
+|-
+|data-sort-value=2021-07-12 |12 Jul 21
+|Midgam
+|[[HaHadashot 12]]<ref name=Ch12Jul>{{cite news |title=סקר חדשות 12: ימינה מתחזקת, הציונות הדתית יורדת |url=https://www.ice.co.il/research/news/article/825430 |access-date=12 July 2021 |date=12 July 2021 |work=ice |lang=he}}</ref>
+|style=background:#BBCDE4 |'''30'''	<!-- Likud		-->
+|19					<!-- Yesh Atid	-->
+|9					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|8					<!-- Yamina		-->
+|8					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|7					<!-- Yisrael Beiteinu	-->
+|5					<!-- Religious Zionist	-->
+|6					<!-- Joint List	-->
+|5					<!-- New Hope	-->
+|4					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|style=background:#90b8ff |'''63''' <!-- Gov		-->
+|-
+|data-sort-value=2021-06-22 |22 Jun 21
+|Maagar Mohot
+|[[Channel 20 (Israel)|Channel 20]]<ref name=Ch20Jun22>{{cite news |title=סקר ערוץ 20: גוש הימין יורד, נתניהו עולה |url=https://www.20il.co.il/סקר-ערוץ-20-גוש-הימין-יורד-נתניהו-עולה-צפ/ |author=רועי שושה |access-date=23 June 2021 |date=22 June 2021 |work=Channel 20 |lang=he}}</ref>
+|style=background:#BBCDE4 |'''29'''	<!-- Likud		-->
+|22					<!-- Yesh Atid		-->
+|9					<!-- Shas		-->
+|7					<!-- Blue and White	-->
+|6					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|7					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|4					<!-- New Hope		-->
+|5					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|style=background:#90b8ff |'''62''' <!-- Gov		-->
+|-
+|data-sort-value=2021-06-13 |13 Jun 21
+|Camil Fuchs
+|[[Channel 13 (Israel)|Channel 13]]<ref name=Ch13Jun13>{{cite news |title=כנסו: סקר ראשון לאחר השבעת הממשלה |url=https://www.bhol.co.il/news/1235816 |author=Aharon Miller |access-date=13 June 2021 |date=13 June 2021 |work=bhol.co.il |lang=he}}</ref>
+|style=background:#BBCDE4 |'''27'''	<!-- Likud		-->
+|23					<!-- Yesh Atid		-->
+|7					<!-- Shas		-->
+|10					<!-- Blue and White	-->
+|7					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|6					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|8					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|5					<!-- New Hope		-->
+|4					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|style=background:#90b8ff |'''66''' <!-- Gov		-->
+|-
+|data-sort-value=2021-06-13 |13 Jun 21
+|Smith
+|''[[Kikar HaShabbat (website)|Kikar HaShabbat]]''<ref>{{cite news |title=סקר 'כיכר' חושף: בנט מאבד מנדטים; לפיד מזנק • הנתונים |url=https://www.kikar.co.il/amp/394126 |author=Yishai Cohen |access-date=13 June 2021 |date=13 June 2021 |work=Kikar HaShabbat |lang=he}}</ref>
+|style=background:#BBCDE4 |'''31'''	<!-- Likud		-->
+|23					<!-- Yesh Atid		-->
+|9					<!-- Shas		-->
+|7					<!-- Blue and White	-->
+|5					<!-- Yamina		-->
+|6					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|7					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|5					<!-- New Hope		-->
+|4					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|60					<!-- Gov		-->
+|-
+|data-sort-value=2021-06-13 |13 Jun 21
+|colspan=16 |'''The [[thirty-sixth government of Israel]] is sworn in'''<ref>{{cite news |title=Bennett-Lapid government wins Knesset majority; Netanyahu is out after 12 years |url=https://www.timesofisrael.com/liveblog_entry/bennett-lapid-government-wins-knesset-majority-netanyahu-is-out-after-12-years/ |access-date=13 June 2021 |date=13 June 2021 |work=[[The Times of Israel]]}}</ref>
+|-
+|data-sort-value=2021-06-10 |10 Jun 21
+|Maagar Mohot
+|[[Channel 20 (Israel)|Channel 20]]<ref>{{cite news |title=Poll: Yesh Atid soars, Yamina barely clears electoral threshold |url=https://www.israelnationalnews.com/News/News.aspx/307871|author=David Rosenberg |access-date=10 June 2021 |date=10 June 2021 |work=[[Arutz Sheva]]}}</ref>
+|style=background:#BBCDE4 |'''30'''	<!-- Likud		-->
+|23					<!-- Yesh Atid		-->
+|9					<!-- Shas		-->
+|6					<!-- Blue and White	-->
+|4					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|9					<!-- Religious Zionist	-->
+|5					<!-- Joint List		-->
+|4					<!-- New Hope		-->
+|6					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|rowspan="8" {{N/A}}
+|-
+|data-sort-value=2021-05-23 |23 May 21
+|Midgam
+|[[HaHadashot 12]]<ref name="23 May">{{cite news |title=סקר: הליכוד שומר על כוחו, גנץ מזנק ובנט נחלש |url=https://www.israelhayom.co.il/news/politics/article/1338814/ |access-date=24 May 2021 |date=23 May 2021 |work=[[Israel Hayom]] |lang=he}}</ref>
+|style=background:#BBCDE4 |'''30'''	<!-- Likud		-->
+|21					<!-- Yesh Atid		-->
+|9					<!-- Shas		-->
+|10					<!-- Blue and White	-->
+|5					<!-- Yamina		-->
+|6					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|7					<!-- Religious Zionist	-->
+|5					<!-- Joint List		-->
+|6					<!-- New Hope		-->
+|4					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|-
+|data-sort-value=2021-05-23 |23 May 21
+|Camil Fuchs
+|[[Channel 13 (Israel)|Channel 13]]<ref name="23 May"/>
+|style=background:#BBCDE4 |'''29'''	<!-- Likud		-->
+|22					<!-- Yesh Atid		-->
+|7					<!-- Shas		-->
+|11					<!-- Blue and White	-->
+|8					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|6					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|8					<!-- Religious Zionist	-->
+|8					<!-- Joint List		-->
+|5					<!-- New Hope		-->
+|4					<!-- Meretz		-->
+|–					<!-- Ra'am		-->
+|-
+|data-sort-value=2021-05-13 |13 May 21
+|Direct Polls
+|–<ref name=DPMay13>{{cite news |url=https://www.20il.co.il/סקר-מנדטים-ימינה-בשפל-חסר-תקדים/ |title=סקר מנדטים: ימינה בשפל חסר תקדים |lang=he |work=[[Channel 20 (Israel)|Channel 20]] |date=14 May 2021 |access-date=15 May 2021}}</ref>
+|style=background:#BBCDE4 |'''33'''	<!-- Likud		-->
+|19					<!-- Yesh Atid		-->
+|9					<!-- Shas		-->
+|6					<!-- Blue and White	-->
+|4					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|7					<!-- Yisrael Beiteinu	-->
+|8					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|5					<!-- New Hope		-->
+|4					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|-
+|data-sort-value=2021-05-04 |4 May 21
+|Camil Fuchs
+|[[Channel 13 (Israel)|Channel 13]]<ref name=Ch13May4>{{cite news |url=https://13news.co.il/item/news/politics/state-policy/survey-bennet-lapid-1246076/ |title=סקר: 43% בעד ממשלת שינוי; רק רבע ממצביעי ימינה תומכים במהלך |lang=he |author=[[Raviv Drucker]] |work=Channel 13 |date=4 May 2021 |access-date=5 May 2021}}</ref>
+|style=background:#BBCDE4 |'''28'''	<!-- Likud		-->
+|21					<!-- Yesh Atid		-->
+|7					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|11					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|5					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|6					<!-- New Hope		-->
+|5					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|-
+|data-sort-value=2021-04-22 |22 Apr 21
+|Midgam
+|[[Channel 12 (Israel)|Channel 12]]<ref>{{cite web |url=https://www.mako.co.il/news-politics/2021_q2/Article-de74d1d97140971027.htm |title=מה מעדיף הציבור: בחירות חמישיות - או ממשלה בתמיכה או הימנעות של רע"ם? {{!}} סקר מנדטים |lang=he |author=Rina Matzliah |work=N12 |date=24 April 2021 |access-date=25 April 2021}}</ref>
+|style=background:#BBCDE4 |'''30'''	<!-- Likud		-->
+|19					<!-- Yesh Atid		-->
+|9					<!-- Shas		-->
+|7					<!-- Blue and White	-->
+|7					<!-- Yamina		-->
+|8					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|7					<!-- Yisrael Beiteinu	-->
+|6					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|5					<!-- New Hope		-->
+|5					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|-
+|data-sort-value=2021-04-22 |22 Apr 21
+|Maagar Mohot
+|103fm<ref>{{cite web |url=https://103fm.maariv.co.il/programs/media.aspx?ZrqvnVq=IGDJGJ&c41t4nzVQ=EL |title=סקר 103fm: גוש נתניהו וימינה זוכה ל-61 |lang=he |author=Nissim Mish'al |work=103fm |date=23 April 2021 |access-date=27 April 2021}}</ref>
+|style=background:#BBCDE4 |'''30'''	<!-- Likud		-->
+|20					<!-- Yesh Atid		-->
+|8					<!-- Shas		-->
+|7					<!-- Blue and White	-->
+|9					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|8					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|6					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|4					<!-- New Hope		-->
+|5					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|-
+|data-sort-value=2021-04-05 |5 Apr 21
+|Panels Politics
+|103fm<ref name=103Apr5>{{cite web |url=https://www.israelnationalnews.com/News/News.aspx/299705 |title=Poll: Lapid soars, Likud sinks if Israel goes to 5th election |author=David Rosenberg |work=[[Arutz Sheva]] |date=6 April 2021 |access-date=6 April 2021}}</ref>
+|style=background:#BBCDE4 |'''29'''	<!-- Likud		-->
+|21					<!-- Yesh Atid		-->
+|9					<!-- Shas		-->
+|7					<!-- Blue and White	-->
+|10					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|5					<!-- Religious Zionist	-->
+|5					<!-- Joint List		-->
+|5					<!-- New Hope		-->
+|5					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|- style=background:silver
+|data-sort-value=2021-03-21 |23 Mar 21
+|colspan=2 |'''[[2021 Israeli legislative election|Election results]]'''<ref>{{Cite news |date=26 March 2021 |first1=Tal |last1=Shalev |first2=Daniel |last2=Dolev |title=תוצאות בחירות 2021: גוש נתניהו מגיע ל-52 מנדטים, רע"ם נכנסה לכנסת |url=https://elections.walla.co.il/item/3425478 |access-date=26 March 2021 |website=[[Walla!]] |lang=he}}</ref>
+|style=background:#BBCDE4 |'''30'''	<!-- Likud		-->
+|17					<!-- Yesh Atid		-->
+|9					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|7					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|7					<!-- Yisrael Beiteinu	-->
+|6					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|6					<!-- New Hope		-->
+|6					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|style=background:#90b8ff |'''61'''{{efn|name=Amichai Chikli|Although Yamina is part of the government, [[Amichai Chikli]] chose to join the opposition.}}	<!-- Gov.	-->
+|}
