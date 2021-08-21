@@ -1,0 +1,5214 @@
+=== Before official registration of candidates ===
+{{Graph:Chart |width=1000 |height=400 |xAxisTitle=Date |yAxisTitle=Percentage |legend= |type=line
+|interpolate=bundle
+|xType=date
+|yAxisMin=0
+|yGrid=5
+ | x= 2018-04-12,2018-05-23,2018-06-28,2018-07-30,2018-08-31,2018-10-02,2018-11-03,2018-11-30,2018-12-28,2019-01-11,2019-01-31,2019-01-31,2019-02-28,2019-03-01,2019-03-31,2019-03-31,2019-04-28,2019-05-02,2019-05-31,2019-06-03,2019-07-01,2019-07-01,2019-07-12,2019-07-25,2019-07-29,2019-08-29,2019-08-30,2019-09-25,2019-09-30,2019-10-11,2019-10-29,2019-10-30,2019-10-30,2019-11-26,2019-11-26,2019-11-29,2019-12-20,2019-12-26,2019-12-30,2020-01-16,2020-01-17,2020-01-28,2020-01-30,2020-02-13,2020-02-14,2020-02-14,2020-02-28,2020-02-29,2020-03-12,2020-03-13,2020-03-16,2020-03-26,2020-03-27,2020-03-30,2020-04-09,2020-04-09,2020-04-28,2020-05-03,2020-05-04,2020-05-12,2020-05-14,2020-05-24,2020-05-30,2020-05-31,2020-06-12,2020-06-13,2020-06-21,2020-06-28,2020-06-30,2020-07-10,2020-07-11,2020-07-24,2020-07-26,2020-07-26,2020-07-31,2020-08-01,2020-08-13,2020-08-15,2020-08-24,2020-08-29,2020-08-31,2020-09-10,2020-09-12,2020-09-17,2020-09-17,2020-09-25,2020-09-28,2020-09-30,2020-10-02,2020-10-05,2020-10-08,2020-10-17,2020-10-30,2020-11-02,2020-11-03,2020-11-04,2020-11-07,2020-11-13,2020-11-16,2020-11-28,2020-11-30,2020-12-09,2020-12-10,2020-12-14,2020-12-28,2020-12-31,2021-01-04,2021-01-05,2021-01-15,2021-01-15,2021-01-22,2021-01-29,2021-01-29,2021-02-01,2021-02-03,2021-02-05,2021-02-12,2021-02-12,2021-02-26,2021-02-28,2021-03-02,2021-03-05,2021-03-12,2021-03-17,2021-03-29,2021-03-30,2021-04-07,2021-04-16,2021-04-26,2021-04-30,2021-04-30,2021-05-03,2021-05-18,2021-05-20,2021-05-28,2021-05-28,2021-05-29,2021-05-31,2021-06-01,2021-06-03,2021-06-11,2021-06-11,2021-06-17,2021-06-24,2021-06-28,2021-06-29,2021-06-29,2021-07-01,2021-07-09,2021-07-15,2021-07-23,2021-07-30,2021-07-31,2021-08-02,2021-08-03,2021-08-06
+ | y1= ,,,,,,,,,0.0,0.0,0.5,0.0,0.0,0.0,0.1,0.0,0.3,0.0,0.0,0.0,0.0,0.0,,0.0,,0.0,0.1,0.0,0.0,0.0,0.0,0.2,0.4,0.0,0.0,0.0,0.6,0.0,1.1,,1.0,0.8,0.5,7.0,,0.3,2.0,0.6,,7.0,,1.3,2.0,,0.7,1.3,,1.0,0.4,,,0.8,1.0,,0.3,1.0,0.4,2.0,,3.0,,3.0,,2.0,1.6,,1.9,3.3,1.9,3.0,,3.0,,,1.0,4.8,3.0,1.0,6.4,1.0,6.7,2.0,5.2,7.0,7.1,1.0,4.0,9.6,12.7,11.3,9.0,4.0,13.8,11.9,2.0,8.4,7.0,2.0,8.5,2.0,11.8,2.0,5.0,7.5,3.0,7.2,2.0,9.9,6.1,6.0,2.0,10.7,17.7,13.0,9.0,20.0,18.4,15.5,21.7,18.0,15.0,10.2,7.0,10.0,6.2,4.0,5.2,4.0,8.0,7.0,5.0,8.0,6.0,2.4,3.0,5.9,9.0,7.0,8.0,,,,,,
+ | y2= ,,,,,3.0,2.0,4.0,4.0,3.0,3.0,1.0,3.0,2.6,3.0,2.1,5.0,2.2,2.6,6.0,6.0,5.0,3.0,3.0,6.0,4.5,5.0,4.9,4.0,3.0,5.0,3.0,3.3,3.3,7.0,2.0,3.0,6.3,6.0,4.8,3.0,6.0,5.4,2.3,14.0,3.0,3.9,6.0,3.1,4.0,13.0,5.3,4.5,9.0,3.0,5.6,5.9,6.9,7.0,4.5,3.0,12.9,3.3,8.0,3.0,5.4,9.0,9.2,12.0,6.0,6.7,9.2,15.0,19.0,12.0,11.3,7.0,10.4,15.7,9.1,16.0,8.0,11.0,16.0,7.0,5.0,11.8,17.0,8.0,16.1,7.0,12.3,6.0,10.8,14.0,17.8,6.0,7.0,8.7,9.9,17.9,15.0,7.0,7.8,9.1,7.0,17.5,12.0,7.0,8.9,8.0,10.7,8.0,12.0,16.7,6.0,12.0,6.0,7.9,17.9,14.0,6.0,10.1,16.1,7.5,11.0,11.0,11.5,16.8,10.3,11.0,13.0,13.3,20.0,17.0,13.9,23.0,19.7,16.0,14.0,13.0,16.0,13.0,14.0,19.8,18.0,12.6,13.0,15.0,11.0,,,,,,
+ | y3= ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0,,,2.0,,,,,,2.0,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,0.0,,1.0,,0.1,,1.9,1.0,3.0,1.2,3.8,0.6,3.0,2.0,1.7,5.0,5.0,1.5,14.0,5.6,4.0,5.0,3.0,1.4,6.0,6.0,10.3,6.0,4.5,5.0,7.0,12.0,30.0,24.0,22.9,29.5,25.0,21.0
+ | y4= 22.0,16.0,16.0,20.0,14.0,10.0,11.0,12.0,10.0,11.0,12.0,12.1,12.0,14.6,12.0,13.0,12.0,11.1,10.8,13.0,10.0,14.3,8.0,10.3,11.0,9.0,8.0,13.5,14.0,6.0,10.0,5.0,12.4,8.6,8.0,4.0,3.0,5.2,8.0,5.2,3.0,7.0,5.9,4.6,6.0,2.0,5.7,6.0,6.3,2.0,8.0,,4.4,8.0,2.0,2.8,3.7,2.7,6.0,3.5,3.0,10.4,4.2,6.0,2.0,3.7,3.0,5.2,7.0,1.0,3.3,0.6,3.0,,6.0,2.3,2.0,2.3,3.1,2.6,5.0,2.0,3.5,8.0,2.0,2.0,3.0,6.0,1.0,2.6,1.0,3.7,2.0,3.3,5.0,3.0,1.0,4.0,1.2,2.5,1.5,3.0,1.0,1.9,2.6,,1.7,2.0,,2.3,,2.6,,2.0,1.0,,2.5,,1.2,0.9,3.0,,1.4,,1.3,2.0,,0.5,,0.6,,,1.8,,,,,,,,,,,,,,,,,,,,,,,
+ | y5= ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.2,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,,,0.1,,0.6,4.0,3.0,2.1,13.0,11.0,6.6,,8.6,9.0,13.0,14.0,6.2,13.0,9.0,10.8,9.0,7.6,12.0,10.0,9.0,12.0,13.0,12.1,13.7,11.0,10.0
+ | y6= ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.1,0.0,,,0.4,,,,,,2.2,2.0,2.0,3.0,1.0,2.3,1.8,2.0,13.0,2.0,1.2,1.0,1.5,2.6,1.1,2.0,1.0,1.1,,1.0,1.0,1.0,1.0,1.0,1.9,,0.6,,1.0,1.0,2.6,1.0,1.0,0.6,0.9,1.8,3.0,1.0,1.6,6.2,5.0,5.9,7.0,4.0,6.6,4.0,4.0,4.0,8.0,7.4,4.0,4.4,1.0,7.1,5.4,5.0,3.0,5.1,7.1,5.0,6.0,6.0,2.5,4.0,4.2,5.0,5.0,3.4,11.0,8.0,4.5,9.0,9.6,8.0,8.0,6.0,4.3,5.0,9.0,10.3,10.0,8.4,7.0,10.0,15.0,25.0,24.0,18.0,19.9,25.0,24.0
+ | y7= 3.0,2.0,2.0,6.0,5.0,4.0,3.0,5.0,6.0,6.0,8.0,7.9,9.0,6.8,9.0,8.3,10.0,7.5,10.6,11.0,17.0,11.4,9.0,17.8,16.0,16.9,16.0,11.7,17.0,11.0,14.0,6.0,10.0,7.8,8.0,6.0,5.0,12.1,14.0,8.9,4.0,14.0,15.3,16.1,15.0,4.0,13.6,15.0,13.8,7.0,16.0,10.9,11.5,18.0,10.0,18.9,19.8,9.8,18.0,15.8,7.0,18.8,17.3,16.0,6.0,16.3,12.0,12.6,12.0,7.0,13.3,7.0,14.0,18.0,13.0,17.5,8.0,15.1,13.3,23.1,15.0,7.0,15.0,14.0,7.0,7.0,17.3,18.0,8.0,12.6,7.0,10.9,6.0,11.6,14.0,12.1,6.0,10.0,13.3,12.3,11.4,10.0,6.0,11.9,12.7,5.0,8.0,11.0,7.0,13.5,6.0,10.3,6.0,12.0,10.2,4.0,16.1,4.0,14.4,8.4,12.0,5.0,9.7,13.4,13.9,12.0,14.0,10.8,9.8,7.8,10.0,11.0,14.8,16.0,17.0,12.9,11.0,12.6,14.0,14.0,14.0,16.0,13.0,13.0,13.9,13.0,16.5,10.0,9.0,11.0,,,,
+ | y8= 10.0,14.0,10.0,7.0,7.0,9.0,8.0,8.0,12.0,7.0,10.0,6.4,11.0,9.1,10.0,5.8,10.0,11.2,8.1,9.0,11.0,7.6,5.0,5.1,10.0,7.0,12.0,6.8,12.0,5.0,9.0,2.0,5.8,7.0,8.0,2.0,5.0,6.7,9.0,3.9,3.0,8.0,6.1,4.5,3.0,4.0,2.3,10.0,4.7,3.0,4.0,6.6,5.7,8.0,3.0,3.3,2.4,6.0,8.0,4.5,2.0,4.1,3.4,7.0,2.0,4.1,4.0,3.8,8.0,2.0,2.7,5.2,5.0,8.0,6.0,2.8,3.0,5.2,5.3,3.8,7.0,3.0,3.4,7.0,4.0,2.0,3.2,6.0,3.0,5.1,3.0,3.9,3.0,5.0,7.0,5.2,4.0,2.0,3.3,2.7,5.2,6.0,2.0,2.9,3.4,2.0,5.0,6.0,3.0,3.3,3.0,5.3,3.0,5.0,3.9,2.0,3.6,3.0,4.9,4.4,7.0,3.0,3.3,5.3,3.7,6.0,5.0,3.4,4.5,4.8,6.0,6.0,3.3,5.0,8.0,3.8,7.0,4.9,6.0,7.0,7.0,2.7,5.0,6.0,4.5,6.0,2.1,6.0,7.0,6.0,8.0,7.0,6.8,8.9,7.0,10.0
+|y1Title=P. Jiles
+|y2Title=D. Jadue
+|y3Title=G. Boric
+|y4Title=B. Sánchez
+|y5Title=Y. Provoste
+|y6Title=S. Sichel
+|y7Title=J. Lavín
+|y8Title=J.A. Kast
+|colors=#FF4500,#B22222,#FF1455,#36AF74,#1E90FF,#006BB0,#29398A,#31446C
+|symbolsShape = circle
+|linewidth = 1.5
+}}
+
+For this table, the candidates shown are those that have at least one poll with more than 5% of the votes or have been chosen as representative of an official party as their presidential candidate for primaries or the first round.
+
+{|class="wikitable" style=text-align:center;font-size:90%;line-height:12px
+! rowspan="3" |Date
+! rowspan="3" |Polling firm
+! rowspan="3" |Type of poll
+!N/A
+! colspan="3" |[[Apruebo Dignidad|Ap. Dignidad]]
+! colspan="9" |[[Constituent Unity]]
+! colspan="7" |[[Chile Vamos]]
+! colspan="4" |Non-affiliated
+!rowspan=3!{{vert header|Other/None}}
+|-
+!!{{vert header|[[Pamela Jiles (journalist)|Jiles]] ([[Humanist Party (Chile)|PH]])}}
+!!{{vert header|[[Daniel Jadue|Jadue]] ([[Communist Party of Chile|PC]])}}
+!!{{vert header|[[Gabriel Boric|Boric]] ([[Social Convergence|CS]])}}
+!!{{vert header|[[Beatriz Sánchez (journalist)|Sánchez]] (Ind.-[[Broad Front (Chile)|FA]])}}
+!!{{vert header|[[Marco Enríquez-Ominami|Enríquez-Om.]] ([[Progressive Party (Chile)|PRO]])}}
+!!{{vert header|[[Alejandro Guillier|Guillier]] (Ind.-[[Constituent Unity|UC]])}}
+!!{{vert header|[[Michelle Bachelet|Bachelet]] ([[Socialist Party of Chile|PS]])}}
+!!{{vert header|[[Paula Narváez|Narváez]] ([[Socialist Party of Chile|PS]])}}
+!!{{vert header|[[Heraldo Muñoz|Muñoz]] ([[Party for Democracy (Chile)|PPD]])}}
+!!{{vert header|[[Francisco Vidal Salinas|Vidal]] ([[Party for Democracy (Chile)|PPD]])}}
+!!{{vert header|[[Carlos Maldonado Curti|Maldonado]] ([[Radical Party of Chile|PR]])}}
+!!{{vert header|[[Yasna Provoste|Provoste]] ([[Christian Democratic Party (Chile)|PDC]])}}
+!!{{vert header|[[Ximena Rincón|Rincón]] ([[Christian Democratic Party (Chile)|PDC]])}}
+!!{{vert header|[[Sebastián Sichel|Sichel]] (Ind.-[[Chile Vamos|ChV]])}}
+!!{{vert header|[[Felipe Kast|F. Kast]] ([[Evópoli]])}}
+!!{{vert header|[[Ignacio Briones|Briones]] ([[Evópoli]])}}
+!!{{vert header|[[Mario Desbordes|Desbordes]] ([[National Renewal (Chile)|RN]])}}
+!!{{vert header|[[Sebastián Piñera|Piñera]] (Ind.-[[Chile Vamos|ChV]])}}{{efn|Incumbent president [[Sebastián Piñera]] is ineligible to run for reelection. However, he was mentioned in several occasions spontaneously, so his results are included in the table.}}
+!!{{vert header|[[Joaquín Lavín|Lavín]] ([[Independent Democratic Union|UDI]])}}
+!!{{vert header|[[Evelyn Matthei|Matthei]] ([[Independent Democratic Union|UDI]])}}
+!!{{vert header|[[José Antonio Kast|J.A. Kast]] ([[Republican Party (Chile, 2019)|PLR]])}}
+!!{{vert header|[[Franco Parisi|Parisi]] ([[Partido de la Gente (Chile)|PDG]])}}
+!!{{vert header|[[Leonardo Farkas|Farkas]] (Ind.)}}
+!!{{vert header|[[Izkia Siches|Siches]] (Ind.)}}
+|-
+! style="background:{{Humanist Party (Chile)/meta/color}}" |
+! style="background:{{Communist Party of Chile/meta/color}}" |
+! style="background:{{Social Convergence/meta/color}}" |
+! style="background:{{Broad Front (Chile)/meta/color}}" |
+! style="background:{{Progressive Party (Chile)/meta/color}}" |
+! style="background:{{Progressive Convergence/meta/color}}" |
+! style="background:{{Socialist Party of Chile/meta/color}}" |
+! style="background:{{Socialist Party of Chile/meta/color}}" |
+! style="background:{{Party for Democracy (Chile)/meta/color}}" |
+! style="background:{{Party for Democracy (Chile)/meta/color}}" |
+! style="background:{{Radical Party (Chile)/meta/color}}" |
+! style="background:{{Christian Democratic Party (Chile)/meta/color}}" |
+! style="background:{{Christian Democratic Party (Chile)/meta/color}}" |
+! style="background:{{Chile Vamos/meta/color}}" |
+! style="background:{{Political Evolution/meta/color}}" |
+! style="background:{{Political Evolution/meta/color}}" |
+! style="background:{{National Renewal/meta/color}}" |
+! style="background:{{Chile Vamos/meta/color}}" |
+! style="background:{{Independent Democratic Union/meta/color}}" |
+! style="background:{{Independent Democratic Union/meta/color}}" |
+! style="background:{{Republican Party (Chile)/meta/color}}" |
+! style="background:#181644" |
+! style="background:#ffffff;&quot;" |
+! style="background:#ffffff;&quot;" |
+|-
+|6 Aug 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-395-Agosto-S1.pdf Cadem]
+|
+|—
+|—
+|'''21.0'''
+|—
+|—
+|—
+|—
+|2.0
+|—
+|—
+|1.0
+|10.0
+|—
+| style="background:#6DA8FF;" |'''24.0'''
+|—
+|—
+|—
+|—
+|—
+|—
+|10.0
+|—
+|—
+|—
+|32.0
+|-
+|3 Aug 2021
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Julio_2021-5vN7g.pdf Criteria]
+|
+|—
+|3.0
+| style="background:#FED0D6;" |'''25.0'''
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|11.0
+|—
+| style="background:#6DA8FF;" |'''25.0'''
+|—
+|—
+|—
+|—
+|2.0
+|—
+|7.0
+|3.0
+|—
+|—
+|24.0
+|-
+|2 Aug 2021
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_JULIO_2021.pdf Data Influye]
+|
+|—
+|—
+| style="background:#FED0D6;" |'''29.5'''
+|—
+|—
+|3.7
+|—
+|4.6
+|—
+|—
+|2.4
+|13.7
+|—
+|'''19.9'''
+|—
+|—
+|—
+|—
+|—
+|—
+|8.9
+|—
+|—
+|—
+|17.3
+|-
+| rowspan="2" |31 Jul 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_Informe_Julio_Q2.pdf Activa]
+|Likely voter
+|—
+|—
+| style="background:#FED0D6;" |'''28.3'''
+|—
+|0.9
+|—
+|—
+|1.1
+|—
+|—
+|1.3
+|15.8
+|—
+|'''19.6'''
+|—
+|—
+|—
+|—
+|—
+|—
+|6.8
+|6.9
+|—
+|—
+|19.3
+|-
+|
+|—
+|—
+| style="background:#FED0D6;" |'''22.9'''
+|—
+|1.0
+|—
+|—
+|0.8
+|—
+|—
+|0.7
+|12.1
+|—
+|'''18.0'''
+|—
+|—
+|—
+|—
+|—
+|—
+|6.8
+|5.1
+|—
+|—
+|32.6
+|-
+|30 Jul 2021
+|[https://www.aimchile.cl/wp-content/uploads/2021/08/Informe_Encuesta_Julio_2021_Esp%C3%ADritu_Constituyente_VF.pdf Feedback]
+|
+|—
+|—
+| style="background:#FED0D6;" |'''23.0'''
+|—
+|1.0
+|—
+|—
+|1.0
+|—
+|—
+|—
+|5.0
+|—
+|'''22.0'''
+|—
+|—
+|—
+|—
+|—
+|—
+|10.0
+|—
+|—
+|—
+|38.0
+|-
+|30 Jul 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-394-Julio-S5.pdf Cadem]
+|
+|—
+|—
+| style="background:#FED0D6;" |'''24.0'''
+|—
+|—
+|—
+|—
+|3.0
+|—
+|—
+|1.0
+|13.0
+|—
+| style="background:#6DA8FF;" |'''24.0'''
+|—
+|—
+|—
+|—
+|—
+|—
+|7.0
+|—
+|—
+|—
+|28.0
+|-
+|23 Jul 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/07/Track-PP-393-Julio-S4.pdf Cadem]
+|
+|—
+|—
+| style="background:#FED0D6;" |'''30.0'''
+|—
+|—
+|—
+|—
+|3.0
+|—
+|—
+|1.0
+|12.0
+|—
+|'''25.0'''
+|—
+|—
+|—
+|—
+|—
+|—
+|8.0
+|—
+|—
+|—
+|21.0
+|-
+| colspan="28" style="background:#dedede; font-size:95%;" align="center" |[[Constituent Unity]] announces they will hold unofficial primaries
+|-
+| colspan="28" style="background:#dedede; font-size:95%;" align="center" |[[Yasna Provoste|'''Yasna Provoste''']] announces her candidacy representing the [[Christian Democratic Party (Chile)|Christian Democrat]] Party
+|-
+| colspan="28" style="background:#dedede; font-size:95%;" align="center" |'''[[Gabriel Boric]]''' and [[Sebastián Sichel|'''Sebastián Sichel''']] win the [[2021 Chilean presidential primaries|primaries]] for Apruebo Dignidad and Chile Vamos respectively.
+|-
+|15 Jul 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/07/Especial-Primarias-Presidenciales-VF.pdf Cadem]
+|
+|8.0
+|11.0
+|'''12.0'''
+|—
+|—
+|—
+|—
+|2.0
+|—
+|—
+|1.0
+|9.0
+|—
+| style="background:#6DA8FF;" |'''15.0'''
+|—
+|3.0
+|4.0
+|—
+|11.0
+|—
+|6.0
+|5.0
+|—
+|—
+|13.0
+|-
+|9 Jul 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/07/Especial-Primarias-Presidenciales-VF.pdf Cadem]
+|
+|7.0
+| style="background:#E2BFBF;" |'''15.0'''
+|7.0
+|—
+|—
+|—
+|—
+|2.0
+|—
+|—
+|1.0
+|'''10.0'''
+|—
+|'''10.0'''
+|—
+|4.0
+|4.0
+|—
+|9.0
+|—
+|7.0
+|4.0
+|—
+|—
+|20.0
+|-
+|1 Jul 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/07/Especial-Primarias-Presidenciales-VF.pdf Cadem]
+|
+|9.0
+| style="background:#E2BFBF;" |'''13.0'''
+|5.0
+|—
+|—
+|—
+|—
+|1.0
+|—
+|—
+|1.0
+|'''12.0'''
+|—
+|7.0
+|—
+|3.0
+|4.0
+|—
+|10.0
+|—
+|6.0
+|7.0
+|—
+|—
+|22.0
+|-
+|29 Jun 2021
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Junio_2021-9hb5k.pdf Criteria]
+|
+|3.0
+| style="background:#E2BFBF;" |'''18.0'''
+|6.0
+|—
+|—
+|—
+|—
+|2.0
+|—
+|—
+|—
+|9.0
+|—
+|10.0
+|—
+|2.0
+|2.0
+|—
+|'''13.0'''
+|2.0
+|6.0
+|4.0
+|—
+|—
+|23.0
+|-
+| rowspan="2" |29 Jun 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/06/Pulso_Ciudadano_Junio_Q2.pdf Activa]
+|Likely voter
+|2.9
+| style="background:#E2BFBF;" |'''18.5'''
+|6.8
+|—
+|—
+|—
+|0.1
+|—
+|—
+|—
+|—
+|10.9
+|—
+|11.9
+|—
+|1.7
+|1.4
+|—
+|'''15.0'''
+|1.2
+|2.8
+|4.3
+|—
+|—
+|22.5
+|-
+|
+|5.9
+|'''12.6'''
+|4.5
+|—
+|—
+|—
+|1.6
+|—
+|—
+|—
+|—
+|7.6
+|—
+|8.4
+|—
+|0.9
+|1.5
+|—
+| style="background:#BFBFDF;" |'''16.5'''
+|1.6
+|2.1
+|5.2
+|—
+|—
+|31.6
+|-
+|28 Jun 2021
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_JUNIO_2021.pdf Data Influye]
+|
+|2.4
+| style="background:#E2BFBF;" |'''19.8'''
+|10.3
+|—
+|—
+|—
+|—
+|1.8
+|—
+|—
+|—
+|10.8
+|—
+|10.3
+|—
+|1.8
+|3.3
+|—
+|'''13.9'''
+|—
+|4.5
+|1.7
+|—
+|1.0
+|18.4
+|-
+|24 Jun 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/06/Especial-Electoral.-Junio-2021.pdf Cadem]
+|
+|6.0
+| style="background:#E2BFBF;" |'''14.0'''
+|6.0
+|—
+|—
+|—
+|—
+|1.0
+|—
+|—
+|1.0
+|9.0
+|2.0
+|9.0
+|—
+|2.0
+|2.0
+|—
+|'''13.0'''
+|—
+|6.0
+|4.0
+|—
+|—
+|25.0
+|-
+|17 Jun 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/06/Track-PP-388-Junio.pdf Cadem]
+|
+|8.0
+| style="background:#E2BFBF;" |'''13.0'''
+|6.0
+|—
+|—
+|—
+|—
+|3.0
+|—
+|—
+|1.0
+| style="background:#85C2FF;" |'''13.0'''
+|2.0
+|5.0
+|—
+|1.0
+|2.0
+|—
+| style="background:#BFBFDF;" |'''13.0'''
+|—
+|5.0
+|5.0
+|—
+|—
+|23.0
+|-
+|11 Jun 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/06/Track-PP-387-Junio-S2.pdf Cadem]
+|
+|7.0
+|13.0
+|3.0
+|—
+|—
+|—
+|—
+|2.0
+|—
+|—
+|1.0
+| style="background:#85C2FF;" |'''14.0'''
+|2.0
+|6.0
+|—
+|2.0
+|2.0
+|—
+| style="background:#BFBFDF;" |'''14.0'''
+|—
+|7.0
+|6.0
+|—
+|—
+|21.0
+|-
+| rowspan="2" |11 Jun 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/06/Pulso_Ciudadano_Junio_Q1.pdf Activa]
+|Likely voter
+|4.3
+| style="background:#E2BFBF;" |'''21.5'''
+|2.3
+|—
+|2.3
+|—
+|0.7
+|—
+|—
+|—
+|—
+|8.2
+|—
+|5.7
+|—
+|—
+|2.6
+|—
+|'''11.1'''
+|5.0
+|3.6
+|5.6
+|—
+|—
+|27.1
+|-
+|
+|5.0
+| style="background:#E2BFBF;" |'''16.0'''
+|1.4
+|—
+|1.5
+|—
+|1.9
+|—
+|—
+|—
+|—
+|6.2
+|—
+|4.3
+|—
+|—
+|1.8
+|—
+| style="background:#BFBFDF;" |'''16.0'''
+|3.6
+|2.7
+|4.0
+|—
+|—
+|35.6
+|-
+|3 Jun 2021
+|[http://www.cadem.cl/wp-content/uploads/2021/06/Track-PP-386-Junio-S1.pdf Cadem]
+|
+|8.0
+| style="background:#E2BFBF;" |'''14.0'''
+|5.0
+|—
+|—
+|—
+|—
+|2.0
+|—
+|—
+|—
+|13.0
+|2.0
+|8.0
+|—
+|2.0
+|2.0
+|—
+|'''14.0'''
+|—
+|7.0
+|6.0
+|—
+|—
+|17.0
+|-
+|1 Jun 2021
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Mayo_2021-7fn3h.pdf Criteria]
+|
+|4.0
+| style="background:#E2BFBF;" |'''16.0'''
+|4.0
+|—
+|—
+|—
+|—
+|2.0
+|—
+|—
+|—
+|9.0
+|—
+|8.0
+|—
+|1.0
+|2.0
+|—
+|'''14.0'''
+|5.0
+|6.0
+|2.0
+|—
+|—
+|27.0
+|-
+|31 May 2021
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_MAYO_2021.pdf Data Influye]
+|
+|5.2
+| style="background:#E2BFBF;" |'''19.7'''
+|5.6
+|—
+|—
+|—
+|—
+|2.5
+|1.2
+|—
+|—
+|8.6
+|—
+|9.6
+|—
+|—
+|2.2
+|—
+|'''12.6'''
+|2.5
+|4.9
+|2.4
+|—
+|1.0
+|22.0
+|-
+|29 May 2021
+|[https://www.eldesconcierto.cl/nacional/2021/05/28/encuesta-presidencial-de-la-cosa-nostra-situa-a-daniel-jadue-liderando-las-preferencias.html Cosa Nostra]
+|
+|4.0
+| style="background:#E2BFBF;" |'''23.0'''
+|14.0
+|—
+|—
+|—
+|—
+|5.0
+|4.0
+|—
+|1.0
+|—
+|4.0
+|9.0
+|—
+|5.0
+|4.0
+|—
+|'''11.0'''
+|9.0
+|7.0
+|—
+|—
+|—
+|0.0
+|-
+|28 May 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/05/Track-PP-385-Mayo-S4.pdf Cadem]
+|
+|10.0
+| style="background:#E2BFBF;" |'''17.0'''
+|5.0
+|—
+|—
+|—
+|—
+|2.0
+|—
+|—
+|—
+|11.0
+|2.0
+|8.0
+|—
+|1.0
+|2.0
+|—
+|'''17.0'''
+|—
+|8.0
+|—
+|—
+|—
+|17.0
+|-
+| rowspan="2" |28 May 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/05/Pulso_Ciudadano_Mayo_Q2.pdf Activa]
+|Likely voter
+|6.9
+| style="background:#E2BFBF;" |'''17.4'''
+|1.8
+|—
+|—
+|—
+|0.7
+|2.5
+|—
+|—
+|—
+|7.3
+|—
+|6.0
+|—
+|—
+|2.7
+|—
+|13.1
+|2.9
+|5.2
+|5.0
+|—
+|—
+|28.5
+|-
+|
+|6.2
+| style="background:#E2BFBF;" |'''13.9'''
+|1.5
+|—
+|1.1
+|—
+|1.7
+|1.5
+|—
+|—
+|—
+|6.6
+|—
+|4.5
+|—
+|—
+|2.3
+|—
+|12.9
+|3.6
+|3.8
+|3.8
+|—
+|—
+|36.6
+|-
+|20 May 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/05/Track-PP-384-Mayo-S3-VF.pdf Cadem]
+|
+|7.0
+| style="background:#E2BFBF;" |'''20.0'''
+|5.0
+|—
+|—
+|—
+|—
+|2.0
+|2.0
+|—
+|—
+|13.0
+|1.0
+|11.0
+|—
+|3.0
+|4.0
+|—
+|'''16.0'''
+|—
+|5.0
+|—
+|—
+|—
+|11.0
+|-
+| colspan="28" style="background:#dedede; font-size:95%;" align="center" |'''Primaries for [[Apruebo Dignidad]] and [[Chile Vamos]] are registered.''' [[Constituent Unity]] decides not to hold official primaries.
+|-
+| rowspan="2" |18 May 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/05/Pulso_Ciudadano_Mayo_Q1-1.pdf Activa]
+|Likely voter
+|8.7
+| style="background:#E2BFBF;" |'''19.2'''
+|2.2
+|2.3
+|1.0
+|—
+|—
+|1.3
+|0.3
+|—
+|—
+|3.6
+|2.3
+|3.3
+|—
+|—
+|0.6
+|—
+|'''13.5'''
+|7.7
+|5.0
+|—
+|0.2
+|—
+|28.8
+|-
+|
+|10.2
+|'''13.3'''
+|1.7
+|1.8
+|0.8
+|—
+|1.2
+|0.7
+|—
+|—
+|—
+|2.1
+|1.3
+|3.4
+|—
+|—
+|0.4
+|—
+| style="background:#BFBFDF;" |'''14.8'''
+|5.6
+|3.3
+|1.3
+|1.7
+|—
+|36.4
+|-
+| colspan="28" style="background:#dedede; font-size:95%;" align="center" |[[Evelyn Matthei|Matthei]], [[Heraldo Muñoz|Muñoz]] and [[Ximena Rincón|Rincón]] desist of running for the Presidency
+|-
+| colspan="28" style="background:#dedede; font-size:95%;" align="center" |'''2021 [[2021 Chilean municipal elections|municipal]], [[2021 Chilean gubernatorial elections|gubernatorial]] and [[2021 Chilean Constitutional Convention election|Constitutional Convention]] elections'''
+|-
+|3 May 2021
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Abril_2021-8gk2n.pdf Criteria]
+|
+| style="background:#FFD1BF;" |'''15.0'''
+|'''13.0'''
+|2.0
+|—
+|—
+|—
+|—
+|2.0
+|2.0
+|—
+|—
+|3.0
+|—
+|5.0
+|—
+|—
+|3.0
+|—
+|11.0
+|7.0
+|6.0
+|1.0
+|2.0
+|—
+|28.0
+|-
+| rowspan="2" |30 Apr 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/04/Pulso_Ciudadano_Abril_Q1_web.pdf Activa]
+|Likely voter
+| style="background:#FFD1BF;" |'''21.0'''
+|'''17.1'''
+|0.7
+|—
+|2.3
+|—
+|0.3
+|1.0
+|5.3
+|—
+|—
+|0.7
+|0.5
+|3.5
+|—
+|—
+|2.2
+|—
+|6.9
+|3.0
+|6.0
+|—
+|—
+|—
+|29.5
+|-
+|
+| style="background:#FFD1BF;" |'''21.7'''
+|'''10.3'''
+|0.6
+|0.6
+|2.1
+|—
+|1.7
+|0.6
+|2.8
+|—
+|—
+|0.6
+|—
+|4.2
+|—
+|—
+|1.4
+|—
+|7.8
+|3.0
+|4.8
+|1.4
+|—
+|—
+|36.4
+|-
+|30 Apr 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/05/Track-PP-381-Abril-S5-1.pdf Cadem]
+|
+| style="background:#FFD1BF;" |'''18.0'''
+|'''11.0'''
+|3.0
+|—
+|—
+|—
+|—
+|2.0
+|3.0
+|—
+|—
+|4.0
+|3.0
+|5.0
+|—
+|3.0
+|4.0
+|—
+|10.0
+|7.0
+|6.0
+|—
+|—
+|—
+|21.0
+|-
+|26 Apr 2021
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_ABRIL_2021.pdf Data Influye]
+|
+|'''15.5'''
+| style="background:#E2BFBF;" |'''16.8'''
+|3.8
+|—
+|1.4
+|—
+|—
+|3.4
+|3.4
+|—
+|—
+|—
+|1.7
+|4.0
+|—
+|—
+|2.4
+|—
+|9.8
+|4.8
+|4.5
+|1.9
+|—
+|—
+|26.6
+|-
+| rowspan="2" |16 Apr 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/04/Pulso_Ciudadano_Abril_Q1_web.pdf Activa]
+|Likely voter
+|'''17.5'''
+| style="background:#E2BFBF;" |'''18.6'''
+|1.9
+|—
+|2.8
+|—
+|0.5
+|2.3
+|0.8
+|—
+|—
+|0.1
+|4.4
+|2.8
+|—
+|0.3
+|1.8
+|—
+|8.7
+|4.7
+|4.1
+|2.9
+|—
+|—
+|25.8
+|-
+|
+| style="background:#FFD1BF;" |'''18.4'''
+|'''11.5'''
+|1.2
+|0.5
+|1.7
+|—
+|2.3
+|1.4
+|—
+|—
+|—
+|0.1
+|2.4
+|2.5
+|—
+|—
+|1.8
+|—
+|10.8
+|4.8
+|3.4
+|1.9
+|—
+|—
+|35.3
+|-
+| rowspan="2" |7 Apr 2021
+| rowspan="2" |[https://www.cadem.cl/wp-content/uploads/2021/04/Track-PP-378-Abril-S2.pdf Cadem]
+|1st mention
+| style="background:#FFD1BF;" |'''20.0'''
+|11.0
+|3.0
+|—
+|—
+|—
+|—
+|3.0
+|4.0
+|—
+|0.0
+|—
+|4.0
+|6.0
+|—
+|—
+|4.0
+|—
+|'''14.0'''
+|7.0
+|5.0
+|—
+|—
+|—
+|19.0
+|-
+|All mentions
+| style="background:#FFD1BF;" |'''30.0'''
+|18.0
+|8.0
+|—
+|—
+|—
+|—
+|6.0
+|8.0
+|—
+|1.0
+|—
+|7.0
+|10.0
+|—
+|—
+|8.0
+|—
+|'''24.0'''
+|19.0
+|9.0
+|—
+|—
+|—
+|21.0
+|-
+|30 Mar 2021
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Marzo_2021-p6d5n.pdf Criteria]
+|
+|9.0
+|'''11.0'''
+|1.0
+|2.0
+|—
+|—
+|—
+|1.0
+|2.0
+|—
+|—
+|—
+|2.0
+|6.0
+|—
+|—
+|3.0
+|—
+| style="background:#BFBFDF;" |'''12.0'''
+|6.0
+|6.0
+|1.0
+|1.0
+|2.0
+|35.0
+|-
+| rowspan="2" |29 Mar 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/03/Pulso_Ciudadano_MARZO_Q2.pdf Activa]
+|Likely voter
+|'''12.6'''
+|11.2
+|2.1
+|1.9
+|2.5
+|—
+|1.0
+|0.4
+|1.2
+|3.3
+|—
+|—
+|1.0
+|5.6
+|—
+|0.7
+|2.1
+|—
+|'''14.0'''
+|6.8
+|3.9
+|1.3
+|2.7
+|—
+|25.7
+|-
+|
+|'''13.0'''
+|7.5
+|1.9
+|1.3
+|1.6
+|—
+|1.8
+|0.2
+|—
+|1.7
+|—
+|0.0
+|0.5
+|5.0
+|—
+|—
+|1.5
+|—
+|'''13.9'''
+|5.3
+|3.7
+|1.7
+|3.1
+|—
+|36.3
+|-
+| rowspan="2" |17 Mar 2021
+| rowspan="2" |[https://www.celag.org/wp-content/uploads/2021/03/encuesta-celag-chile-version-web.pdf CELAG]
+|Likely voter
+|'''18.8'''
+| style="background:#E2BFBF;" |'''21.1'''
+|—
+|—
+|—
+|—
+|—
+|5.7
+|—
+|—
+|—
+|—
+|—
+|7.2
+|—
+|—
+|4.3
+|—
+|12.0
+|6.2
+|5.3
+|—
+|—
+|—
+|19.4
+|-
+|
+| style="background:#FFD1BF;" |'''17.7'''
+|'''16.1'''
+|—
+|—
+|—
+|—
+|—
+|4.0
+|—
+|—
+|—
+|—
+|—
+|7.1
+|—
+|—
+|3.4
+|—
+|13.4
+|7.9
+|5.3
+|—
+|—
+|—
+|25.1
+|-
+| rowspan="2" |12 Mar 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/03/Pulso_Ciudadano_Marzo_Q1.pdf Activa]
+|Likely voter
+|7.4
+| style="background:#E2BFBF;" |'''15.4'''
+|0.2
+|2.5
+|1.7
+|—
+|0.2
+|1.3
+|2.0
+|0.7
+|—
+|—
+|0.8
+|6.1
+|—
+|0.2
+|3.7
+|—
+|'''10.8'''
+|7.5
+|3.2
+|4.3
+|—
+|—
+|32.0
+|-
+|
+| style="background:#FFD1BF;" |'''10.7'''
+|'''10.1'''
+|0.1
+|1.4
+|2.0
+|—
+|1.4
+|1.0
+|1.1
+|0.5
+|—
+|—
+|0.7
+|5.1
+|—
+|—
+|2.6
+|—
+|9.7
+|5.3
+|3.3
+|4.3
+|1.1
+|—
+|39.6
+|-
+|5 Mar 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/02/Track-PP-370-Febrero-S2.pdf Cadem]
+|
+|2.0
+| style="background:#E2BFBF;" |'''6.0'''
+|—
+|—
+|—
+|—
+|2.0
+|1.0
+|1.0
+|—
+|—
+|—
+|—
+|3.0
+|—
+|—
+|1.0
+|—
+|'''5.0'''
+|4.0
+|3.0
+|1.0
+|—
+|—
+|71.0
+|-
+|2 Mar 2021
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Febrero_2021-k9t3h.pdf Criteria]
+|
+|6.0
+| style="background:#E2BFBF;" |'''14.0'''
+|1.0
+|3.0
+|2.0
+|—
+|2.0
+|2.0
+|1.0
+|—
+|—
+|—
+|2.0
+|5.0
+|—
+|0.0
+|2.0
+|—
+|'''12.0'''
+|8.0
+|7.0
+|2.0
+|1.0
+|—
+|30.0
+|-
+|28 Feb 2021
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_FEBRERO_2021.pdf Data Influye]
+|
+|6.1
+| style="background:#E2BFBF;" |'''17.9'''
+|—
+|0.9
+|0.5
+|—
+|0.8
+|4.4
+|1.9
+|0.6
+|—
+|—
+|1.3
+|5.4
+|—
+|0.0
+|1.9
+|—
+|'''8.4'''
+|5.7
+|4.4
+|2.1
+|0.7
+|—
+|37.0
+|-
+| rowspan="2" |26 Feb 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/03/Pulso_Ciudadano_Febrero_Q2.pdf Activa]
+|Likely voter
+|'''11.6'''
+| style="background:#E2BFBF;" |'''14.8'''
+|0.1
+|2.1
+|0.4
+|—
+|1.8
+|1.9
+|0.6
+|1.5
+|—
+|—
+|5.1
+|10.3
+|—
+|0.4
+|2.1
+|—
+|11.6
+|7.2
+|6.8
+|1.6
+|—
+|—
+|20.1
+|-
+|
+|'''9.9'''
+|7.9
+|0.0
+|1.2
+|0.6
+|—
+|1.8
+|1.0
+|—
+|0.8
+|—
+|—
+|2.6
+|7.1
+|—
+|1.5
+|1.2
+|—
+| style="background:#BFBFDF;" |'''14.4'''
+|4.2
+|4.9
+|3.3
+|0.4
+|—
+|37.2
+|-
+| rowspan="2" |12 Feb 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/02/Pulso_ciudadano_FEBRERO_Q1.pdf Activa]
+|Likely voter
+|8.4
+| style="background:#E2BFBF;" |'''20.4'''
+|—
+|2.3
+|1.9
+|—
+|1.4
+|2.1
+|1.2
+|0.3
+|—
+|—
+|1.0
+|6.4
+|—
+|0.6
+|1.0
+|—
+|'''13.7'''
+|5.3
+|5.3
+|2.9
+|—
+|—
+|25.8
+|-
+|
+|7.2
+|'''12.0'''
+|0.0
+|2.5
+|1.1
+|—
+|1.7
+|1.1
+|—
+|0.3
+|—
+|—
+|0.7
+|4.4
+|—
+|—
+|1.0
+|—
+| style="background:#BFBFDF;" |'''16.1'''
+|6.5
+|3.6
+|2.2
+|0.3
+|—
+|39.3
+|-
+|12 Feb 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/02/Track-PP-370-Febrero-S2-1.pdf Cadem]
+|
+|2.0
+| style="background:#E2BFBF;" |'''6.0'''
+|—
+|—
+|—
+|—
+|1.0
+|2.0
+|1.0
+|1.0
+|—
+|—
+|1.0
+|1.0
+|—
+|0.0
+|1.0
+|—
+|'''4.0'''
+|'''4.0'''
+|3.0
+|1.0
+|—
+|—
+|72.0
+|-
+|5 Feb 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/02/Track-PP-369-Febrero-S1.pdf Cadem]
+|
+|3.0
+| style="background:#E2BFBF;" |'''6.0'''
+|—
+|—
+|—
+|—
+|2.0
+|2.0
+|1.0
+|1.0
+|—
+|—
+|1.0
+|4.0
+|—
+|0.0
+|1.0
+|—
+|4.0
+|'''5.0'''
+|2.0
+|2.0
+|—
+|—
+|66.0
+|-
+|3 Feb 2021
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_ENERO_2021.pdf Data Influye]
+|
+|7.5
+| style="background:#E2BFBF;" |'''16.7'''
+|—
+|1.0
+|1.2
+|—
+|1.2
+|4.6
+|2.0
+|1.5
+|—
+|—
+|1.4
+|7.4
+|—
+|0.0
+|2.3
+|—
+|'''10.2'''
+|5.3
+|3.9
+|1.4
+|1.4
+|—
+|31.0
+|-
+|1 Feb 2021
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Enero_2021-3wp5b.pdf Criteria]
+|
+|5.0
+| style="background:#E2BFBF;" |'''12.0'''
+|—
+|2.0
+|—
+|—
+|—
+|3.0
+|2.0
+|2.0
+|—
+|—
+|—
+|8.0
+|—
+|0.0
+|3.0
+|—
+| style="background:#BFBFDF;" |'''12.0'''
+|7.0
+|5.0
+|2.0
+|1.0
+|—
+|36.0
+|-
+| colspan="28" style="background:#dedede; font-size:95%;" align="center" |'''[[Heraldo Muñoz]]''' wins the internal primary of the PPD, defeating [[Francisco Vidal Salinas|Francisco Vidal]] and [[Jorge Tarud]].
+|-
+| rowspan="2" |29 Jan 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/02/Pulso_Ciudadano_ENERO_Q2.pdf Activa]
+|Likely voter
+|10.8
+| style="background:#E2BFBF;" |'''17.0'''
+|—
+|3.4
+|1.2
+|—
+|2.1
+|1.2
+|2.1
+|0.9
+|—
+|—
+|4.6
+|4.5
+|—
+|1.0
+|1.9
+|—
+|'''11.7'''
+|2.7
+|6.4
+|2.1
+|0.1
+|—
+|26.3
+|-
+|
+| style="background:#FFD1BF;" |'''11.8'''
+|'''10.7'''
+|—
+|2.6
+|0.8
+|—
+|2.6
+|0.7
+|1.5
+|1.0
+|—
+|—
+|3.0
+|4.0
+|—
+|—
+|1.2
+|—
+|10.3
+|2.2
+|5.3
+|2.0
+|2.6
+|—
+|37.7
+|-
+|29 Jan 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/02/Track-PP-368-Enero-S4.pdf Cadem]
+|
+|2.0
+| style="background:#E2BFBF;" |'''8.0'''
+|—
+|—
+|—
+|—
+|3.0
+|2.0
+|1.0
+|1.0
+|—
+|—
+|—
+|4.0
+|—
+|0.0
+|1.0
+|—
+|'''6.0'''
+|4.0
+|3.0
+|1.0
+|—
+|—
+|64.0
+|-
+| colspan="28" style="background:#dedede; font-size:95%;" align="center" |'''[[Paula Narváez]]''' is proclaimed as the presidential candidate of the Socialist Party.
+|-
+| colspan="28" style="background:#dedede; font-size:95%;" align="center" |'''[[Ximena Rincón]]''' wins the internal primary of the PDC, defeating [[Alberto Undurraga]].
+|-
+|22 Jan 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/01/Track-PP-367-Enero-S3.pdf Cadem]
+|
+|2.0
+| style="background:#E2BFBF;" |'''8.0'''
+|—
+|—
+|—
+|—
+|2.0
+|2.0
+|1.0
+|1.0
+|—
+|—
+|—
+|4.0
+|—
+|0.0
+|1.0
+|—
+|'''6.0'''
+|4.0
+|3.0
+|1.0
+|—
+|—
+|65.0
+|-
+|15 Jan 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/01/Track-PP-366-Enero-S2.pdf Cadem]
+|
+|2.0
+| style="background:#E2BFBF;" |'''7.0'''
+|—
+|—
+|—
+|—
+|1.0
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+|4.0
+|—
+|0.0
+|1.0
+|—
+| style="background:#BFBFDF;" |'''7.0'''
+|4.0
+|3.0
+|—
+|—
+|—
+|69.0
+|-
+| rowspan="2" |15 Jan 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/01/Informe_Pulso_ciudadano_ENERO_2021_Q1.pdf Activa]
+|Likely voter
+|5.4
+|'''14.6'''
+|—
+|4.3
+|2.2
+|—
+|2.1
+|0.8
+|0.3
+|1.1
+|—
+|—
+|0.1
+|11.0
+|—
+|—
+|1.9
+|—
+| style="background:#BFBFDF;" |'''16.6'''
+|6.7
+|3.7
+|4.7
+|0.4
+|—
+|24.1
+|-
+|
+|8.5
+|'''8.9'''
+|—
+|2.3
+|1.8
+|—
+|4.8
+|0.4
+|—
+|0.7
+|—
+|—
+|0.1
+|6.6
+|—
+|—
+|1.2
+|—
+| style="background:#BFBFDF;" |'''13.5'''
+|6.8
+|3.3
+|2.9
+|1.6
+|—
+|36.6
+|-
+|5 Jan 2021
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Diciembre_2020-KhLp4.pdf Criteria]
+|
+|7.0
+| style="background:#E2BFBF;" |'''12.0'''
+|—
+|2.0
+|2.0
+|—
+|2.0
+|1.0
+|1.0
+|2.0
+|—
+|—
+|—
+|7.0
+|—
+|0.0
+|3.0
+|—
+|'''11.0'''
+|9.0
+|6.0
+|2.0
+|2.0
+|—
+|31.0
+|-
+|4 Jan 2021
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_DICIEMBRE_2020.pdf Data Influye]
+|
+|'''8.4'''
+| style="background:#E2BFBF;" |'''17.5'''
+|—
+|1.7
+|0.7
+|—
+|0.9
+|2.2
+|2.6
+|1.3
+|—
+|—
+|0.5
+|5.9
+|—
+|0.0
+|2.8
+|—
+|8.0
+|6.8
+|5.0
+|2.1
+|1.2
+|—
+|32.4
+|-
+|31 Dec 2020
+|[https://plazapublica.cl/wp-content/uploads/2021/01/Track-PP-364-Diciembre-S5.pdf Cadem]
+|
+|2.0
+| style="background:#E2BFBF;" |'''7.0'''
+|—
+|—
+|—
+|—
+|1.0
+|—
+|1.0
+|—
+|—
+|—
+|—
+|'''5.0'''
+|1.0
+|—
+|1.0
+|—
+|'''5.0'''
+|'''5.0'''
+|2.0
+|1.0
+|—
+|1.0
+|68.0
+|-
+| colspan="28" style="background:#dedede; font-size:95%;" align="center" |'''[[Daniel Jadue]]''' is proclaimed as the presidential candidate of the Communist Party.
+|-
+| rowspan="2" |28 Dec 2020
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2020/12/Pulso_ciudadano_DICIEMBREQ2_Resultados.pdf Activa]
+|Likely voter
+|'''13.2'''
+| style="background:#E2BFBF;" |'''13.7'''
+|—
+|3.0
+|1.3
+|—
+|1.2
+|—
+|1.2
+|1.3
+|—
+|—
+|0.2
+|5.7
+|—
+|—
+|1.9
+|—
+|11.5
+|8.9
+|4.4
+|3.3
+|—
+|—
+|29.2
+|-
+|
+|'''11.9'''
+|9.1
+|—
+|2.6
+|0.7
+|—
+|2.3
+|—
+|0.8
+|0.8
+|—
+|—
+|0.1
+|6.2
+|—
+|—
+|1.3
+|—
+| style="background:#BFBFDF;" |'''12.7'''
+|7.2
+|3.4
+|2.4
+|1.1
+|—
+|37.4
+|-
+| rowspan="2" |14 Dec 2020
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2020/12/Informe_Pulso_ciudadano_DICIEMBREQ1.pdf Activa]
+|Likely voter
+| style="background:#FFD1BF;" |'''15.8'''
+|'''12.6'''
+|—
+|1.8
+|1.8
+|—
+|1.9
+|—
+|2.3
+|1.9
+|—
+|—
+|0.3
+|1.6
+|—
+|—
+|1.0
+|—
+|9.6
+|3.8
+|3.5
+|3.9
+|4.4
+|—
+|33.8
+|-
+|
+| style="background:#FFD1BF;" |'''13.8'''
+|7.8
+|—
+|1.9
+|2.5
+|—
+|3.9
+|—
+|1.4
+|1.3
+|—
+|—
+|0.2
+|1.6
+|—
+|—
+|1.1
+|—
+|'''11.9'''
+|5.2
+|2.9
+|2.9
+|3.5
+|—
+|38.1
+|-
+|10 Dec 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/12/Track-PP-361-Diciembre-S2.pdf Cadem]
+|
+|4.0
+| style="background:#E2BFBF;" |'''7.0'''
+|—
+|1.0
+|—
+|—
+|3.0
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+|1.0
+|2.0
+|—
+|—
+|—
+|'''6.0'''
+|'''6.0'''
+|2.0
+|2.0
+|—
+|—
+|64.0
+|-
+|9 Dec 2020
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Noviembre_2020-5fp6h.pdf Criteria]
+|
+|9.0
+| style="background:#E2BFBF;" |'''15.0'''
+|—
+|3.0
+|1.0
+|—
+|1.0
+|—
+|2.0
+|3.0
+|—
+|—
+|—
+|3.0
+|—
+|—
+|1.0
+|—
+|'''10.0'''
+|9.0
+|6.0
+|4.0
+|1.0
+|—
+|32.0
+|-
+|30 Nov 2020
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_NOVIEMBRE_2020.pdf Data Influye]
+|
+|11.3
+| style="background:#E2BFBF;" |'''17.9'''
+|—
+|1.5
+|0.9
+|0.8
+|0.6
+|—
+|2.3
+|1.5
+|—
+|—
+|0.5
+|1.8
+|—
+|—
+|1.5
+|—
+|'''11.4'''
+|6.7
+|5.2
+|2.8
+|1.0
+|3.3
+|29.0
+|-
+| rowspan="2" |28 Nov 2020
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2020/11/Pulso_ciudadano_NOVIEMBRE_Q2.pdf Activa]
+|Likely voter
+|'''13.4'''
+| style="background:#E2BFBF;" |'''14.5'''
+|—
+|3.5
+|1.6
+|—
+|1.3
+|—
+|2.6
+|0.8
+|—
+|—
+|0.5
+|0.7
+|—
+|—
+|0.5
+|—
+|11.4
+|7.0
+|2.2
+|1.8
+|1.2
+|—
+|37.0
+|-
+|
+| style="background:#FFD1BF;" |'''12.7'''
+|9.9
+|—
+|2.5
+|1.3
+|—
+|2.7
+|—
+|4.4
+|0.1
+|—
+|—
+|0.3
+|0.9
+|—
+|0.0
+|0.3
+|—
+|'''12.3'''
+|5.7
+|2.7
+|1.5
+|1.5
+|—
+|41.2
+|-
+| rowspan="2" |16 Nov 2020
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2020/11/Pulso_ciudadano_NOVIEMBRE_Q1.pdf Activa]
+|Likely voter
+|9.5
+|'''12.2'''
+|—
+|1.8
+|1.9
+|—
+|3.0
+|—
+|2.1
+|1.3
+|—
+|—
+|0.2
+|0.9
+|—
+|—
+|1.0
+|—
+| style="background:#BFBFDF;" |'''14.5'''
+|6.0
+|4.3
+|6.6
+|2.7
+|—
+|32.0
+|-
+|
+|'''9.6'''
+|8.7
+|—
+|1.2
+|1.2
+|—
+|2.5
+|—
+|1.7
+|1.1
+|—
+|0.2
+|0.1
+|0.6
+|—
+|—
+|0.7
+|—
+| style="background:#BFBFDF;" |'''13.3'''
+|7.0
+|3.3
+|5.3
+|2.2
+|—
+|41.3
+|-
+|13 Nov 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-357-Noviembre-S2.pdf Cadem]
+|
+|4.0
+|'''7.0'''
+|—
+|4.0
+|—
+|—
+|2.0
+|—
+|2.0
+|3.0
+|—
+|—
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''10.0'''
+|5.0
+|2.0
+|2.0
+|—
+|1.0
+|56.0
+|-
+|7 Nov 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-356-Noviembre-S1.pdf Cadem]
+|
+|1.0
+| style="background:#E2BFBF;" |'''6.0'''
+|—
+|1.0
+|—
+|—
+|2.0
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+|1.0
+|—
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''6.0'''
+|4.0
+|4.0
+|2.0
+|—
+|1.0
+|70.0
+|-
+|4 Nov 2020
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_OCTUBRE_2020.pdf Data Influye]
+|
+|7.1
+| style="background:#E2BFBF;" |'''17.8'''
+|—
+|3.0
+|0.9
+|0.6
+|0.9
+|—
+|2.7
+|1.7
+|—
+|—
+|0.7
+|2.6
+|—
+|—
+|1.9
+|—
+|'''12.1'''
+|6.6
+|5.2
+|2.9
+|1.4
+|2.3
+|29.6
+|-
+|3 Nov 2020
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Octubre_2020-8htyd.pdf Criteria]
+|
+|7.0
+| style="background:#E2BFBF;" |'''14.0'''
+|—
+|5.0
+|1.0
+|—
+|2.0
+|—
+|2.0
+|2.0
+|—
+|—
+|—
+|1.0
+|—
+|—
+|2.0
+|—
+| style="background:#BFBFDF;" |'''14.0'''
+|8.0
+|7.0
+|3.0
+|2.0
+|—
+|30.0
+|-
+| rowspan="2" |2 Nov 2020
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2020/11/Pulso_ciudadano_OCTUBRE_Q2.pdf Activa]
+|Likely voter
+|5.7
+| style="background:#E2BFBF;" |'''15.6'''
+|—
+|3.8
+|2.2
+|2.2
+|1.9
+|—
+|1.3
+|2.8
+|—
+|—
+|1.0
+|1.4
+|—
+|—
+|0.7
+|—
+|'''12.5'''
+|7.8
+|5.5
+|2.7
+|—
+|—
+|32.9
+|-
+|
+|5.2
+|'''10.8'''
+|—
+|3.3
+|2.7
+|1.5
+|2.5
+|—
+|3.8
+|2.4
+|—
+|—
+|0.6
+|1.0
+|—
+|0.0
+|0.5
+|—
+| style="background:#BFBFDF;" |'''11.6'''
+|6.3
+|5.0
+|3.2
+|0.9
+|—
+|38.7
+|-
+|30 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-355-Octubre-S5.pdf Cadem]
+|
+|2.0
+| style="background:#E2BFBF;" |'''6.0'''
+|—
+|2.0
+|—
+|—
+|2.0
+|—
+|1.0
+|2.0
+|—
+|—
+|—
+|—
+|1.0
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''6.0'''
+|4.0
+|3.0
+|2.0
+|—
+|—
+|69.0
+|-
+| colspan="28" style="background:#dedede; font-size:95%;" align="center" |'''[[2020 Chilean constitutional referendum]]'''.
+|-
+|17 Oct 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/10/Pulso_ciudadano_Octubre_Q1.pdf Activa]
+|
+|6.7
+| style="background:#E2BFBF;" |'''12.3'''
+|—
+|3.7
+|0.8
+|0.2
+|1.8
+|—
+|2.2
+|0.4
+|—
+|—
+|0.2
+|0.6
+|—
+|—
+|—
+|—
+|'''10.9'''
+|6.5
+|3.9
+|4.9
+|4.1
+|—
+|40.8
+|-
+|8 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/10/Track-PP-352-Octubre-S2-VF_compressed-1_compressed-comprimido.pdf Cadem]
+|
+|1.0
+| style="background:#E2BFBF;" |'''7.0'''
+|—
+|1.0
+|—
+|—
+|1.0
+|—
+|1.0
+|—
+|—
+|—
+|—
+|—
+|1.0
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''7.0'''
+|5.0
+|3.0
+|1.0
+|—
+|—
+|72.0
+|-
+|5 Oct 2020
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_ESPECIAL_PLEBISCITO_2020.pdf Data Influye]
+|
+|6.4
+| style="background:#E2BFBF;" |'''16.1'''
+|—
+|2.6
+|1.5
+|1.2
+|1.6
+|—
+|1.6
+|0.9
+|—
+|—
+|—
+|1.9
+|0.6
+|—
+|0.6
+|—
+|'''12.6'''
+|9.2
+|5.1
+|2.9
+|1.4
+|1.8
+|32.0
+|-
+|2 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/10/Track-PP-351-Octubre-S1-VF.pdf Cadem]
+|
+|1.0
+| style="background:#E2BFBF;" |'''8.0'''
+|—
+|1.0
+|—
+|—
+|1.0
+|—
+|—
+|—
+|—
+|—
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''8.0'''
+|7.0
+|3.0
+|2.0
+|—
+|—
+|67.0
+|-
+|30 Sept 2020
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Septiembre_2020_5f3gt.pdf Criteria]
+|
+|3.0
+|'''17.0'''
+|—
+|6.0
+|1.0
+|—
+|2.0
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+|1.0
+|—
+|—
+|1.0
+|—
+| style="background:#BFBFDF;" |'''18.0'''
+|8.0
+|6.0
+|3.0
+|1.0
+|—
+|31.0
+|-
+|28 Sept 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/09/Pulso-Ciudadano-Septiembre-Q2.pdf Activa]
+|
+|4.8
+|'''11.8'''
+|—
+|3.0
+|2.2
+|0.7
+|1.8
+|—
+|2.6
+|1.5
+|—
+|—
+|0.1
+|1.0
+|—
+|0.0
+|—
+|—
+| style="background:#BFBFDF;" |'''17.3'''
+|7.8
+|3.2
+|3.7
+|2.0
+|—
+|36.5
+|-
+|25 Sept 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/09/Track-PP-350-Septiembre-S4.pdf Cadem]
+|
+|1.0
+|5.0
+|—
+|2.0
+|—
+|—
+|2.0
+|—
+|—
+|—
+|—
+|—
+|—
+|1.0
+|—
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''7.0'''
+|'''6.0'''
+|2.0
+|2.0
+|—
+|—
+|72.0
+|-
+|17 Sept 2020
+|[https://fielchile.cl/v2/barometro-del-trabajo Mori-Fiel]
+|
+|—
+| style="background:#E2BFBF;" |'''16.0'''
+|—
+|8.0
+|3.0
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|'''14.0'''
+|11.0
+|7.0
+|—
+|—
+|—
+|41.0
+|-
+|17 Sept 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/09/Track-PP-349-Septiembre-S3.pdf Cadem]
+|
+|—
+| style="background:#E2BFBF;" |'''7.0'''
+|—
+|2.0
+|—
+|—
+|1.0
+|—
+|—
+|—
+|—
+|—
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''7.0'''
+| style="background:#BFBFDF;" |'''7.0'''
+|4.0
+|2.0
+|—
+|—
+|68.0
+|-
+|12 Sept 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/09/Pulso-Ciudadano-Septiembre-Q1.pdf Activa]
+|
+|3.0
+| style="background:#E2BFBF;" |'''11.0'''
+|—
+|3.5
+|1.2
+|1.6
+|2.0
+|—
+|2.4
+|0.3
+|—
+|—
+|0.1
+|1.1
+|—
+|0.1
+|—
+|—
+|'''15.0'''
+|7.3
+|3.4
+|5.1
+|3.4
+|—
+|39.5
+|-
+|10 Sept 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/09/Track-PP-348-Septiembre-S2.pdf Cadem]
+|
+|—
+|'''8.0'''
+|—
+|2.0
+|—
+|—
+|2.0
+|—
+|—
+|—
+|—
+|—
+|—
+|1.0
+|—
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''7.0'''
+|5.0
+|3.0
+|2.0
+|—
+|1.0
+|69.0
+|-
+|31 Aug 2020
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Agosto_2020_6y7fw.pdf Criteria]
+|
+|3.0
+| style="background:#E2BFBF;" |'''16.0'''
+|—
+|5.0
+|2.0
+|—
+|2.0
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+|2.0
+|—
+|—
+|1.0
+|—
+|'''15.0'''
+|8.0
+|7.0
+|4.0
+|1.0
+|—
+|32.0
+|-
+|29 Aug 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/08/Pulso-Ciudadano_Agosto-Q2.pdf Activa]
+|
+|1.9
+| style="background:#E2BFBF;" |'''9.1'''
+|—
+|2.6
+|2.0
+|1.5
+|1.9
+|—
+|2.8
+|0.1
+|—
+|—
+|0.2
+|1.1
+|—
+|0.0
+|—
+|—
+|'''23.1'''
+|3.9
+|3.8
+|3.2
+|3.4
+|—
+|39.4
+|-
+|24 Aug 2020
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2020.pdf Data Influye]
+|
+|3.3
+|'''15.7'''
+|—
+|3.1
+|1.9
+|1.9
+|1.5
+|—
+|1.7
+|—
+|—
+|—
+|—
+|2.6
+|—
+|—
+|1.3
+|—
+| style="background:#BFBFDF;" |'''13.3'''
+|1.8
+|5.3
+|3.4
+|1.6
+|2.7
+|38.9
+|-
+|15 Aug 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/08/Pulso-Ciudadano-Agosto-Q1.pdf Activa]
+|
+|1.9
+| style="background:#E2BFBF;" |'''10.4'''
+|—
+|2.3
+|1.4
+|2.0
+|2.6
+|—
+|2.4
+|0.2
+|—
+|—
+|0.5
+|1.5
+|—
+|0.0
+|—
+|—
+|'''15.1'''
+|1.9
+|5.2
+|3.4
+|3.5
+|—
+|45.7
+|-
+|13 Aug 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/08/Track-PP-344-Agosto.pdf Cadem]
+|
+|—
+|'''7.0'''
+|—
+|2.0
+|—
+|—
+|2.0
+|—
+|2.0
+|1.0
+|—
+|—
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''8.0'''
+|—
+|3.0
+|1.0
+|—
+|1.0
+|71.0
+|-
+|1 Aug 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/08/Pulso-Ciudadano_Julio-Q2.pdf Activa]
+|
+|1.6
+|'''11.3'''
+|—
+|2.3
+|1.9
+|1.6
+|3.3
+|—
+|0.7
+|0.6
+|—
+|—
+|1.4
+|1.2
+|—
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''17.5'''
+|0.5
+|2.8
+|5.7
+|1.8
+|—
+|45.8
+|-
+|31 Jul 2020
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Julio_2020-3hyGp.pdf Criteria]
+|
+|2.0
+|'''12.0'''
+|—
+|6.0
+|2.0
+|3.0
+|2.0
+|—
+|1.0
+|—
+|—
+|—
+|—
+|2.0
+|—
+|—
+|2.0
+|—
+| style="background:#BFBFDF;" |'''13.0'''
+|2.0
+|6.0
+|5.0
+|2.0
+|—
+|40.0
+|-
+|26 Jul 2020
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_JULIO_2020.pdf Data Influye]
+|
+|3.0
+|'''15.0'''
+|—
+|3.0
+|1.0
+|2.0
+|3.0
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+|2.0
+|1.0
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''14.0'''
+|2.0
+|5.0
+|5.0
+|2.0
+|3.0
+|37.0
+|-
+|26 Jul 2020
+|[https://www.eldinamo.cl/nacional/2020/07/27/encuesta-blackwhite-jadue-lavin-y-sichel-lideran-intencion-de-voto-presidencial/ Black&White]
+|
+|—
+| style="background:#E2BFBF;" |'''19.0'''
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|13.0
+|—
+|—
+|—
+|—
+|'''18.0'''
+|—
+|8.0
+|6.0
+|—
+|12.0
+|24.0
+|-
+|24 Jul 2020
+|[https://static1.squarespace.com/static/58dea67c1b631b608742bc50/t/5f24688b4dd1a571968d1a29/1596221593528/Informe+Encuesta+Julio+2020+Crisis+Coronavirus.pdf Feedback]
+|
+|—
+| style="background:#E2BFBF;" |'''9.2'''
+|—
+|0.6
+|—
+|—
+|—
+|—
+|1.7
+|—
+|—
+|—
+|—
+|1.8
+|4.7
+|1.1
+|1.2
+|—
+|'''7.0'''
+|2.2
+|5.2
+|3.4
+|—
+|2.4
+|59.5
+|-
+|11 Jul 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/07/Pulso-Ciudadano_JULIO_Q1.pdf Activa]
+|
+|3.0
+| style="background:#E2BFBF;" |'''6.7'''
+|—
+|3.3
+|2.1
+|1.0
+|4.3
+|—
+|0.4
+|1.0
+|—
+|—
+|0.1
+|2.3
+|—
+|0.1
+|—
+|—
+|'''13.3'''
+|0.7
+|2.7
+|5.0
+|'''6.7'''
+|2.8
+|44.5
+|-
+|10 Jul 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/07/Track-PP-338-Julio-S1.pdf Cadem]
+|
+|—
+|'''6.0'''
+|—
+|1.0
+|—
+|—
+|2.0
+|—
+|—
+|1.0
+|—
+|—
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''7.0'''
+|—
+|2.0
+|2.0
+|—
+|1.0
+|76.0
+|-
+|30 Jun 2020
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Junio_2020.pdf Criteria]
+|
+|2.0
+|'''12.0'''
+|—
+|7.0
+|2.0
+|2.0
+|1.0
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+|3.0
+|—
+|—
+|2.0
+|—
+| style="background:#BFBFDF;" |'''12.0'''
+|2.0
+|8.0
+|5.0
+|3.0
+|4.0
+|33.0
+|-
+|28 Jun 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/06/Pulso-Ciudadano-Junio-Q2.pdf Activa]
+|
+|0.4
+| style="background:#E2BFBF;" |'''9.2'''
+|—
+|5.2
+|1.3
+|3.3
+|4.1
+|—
+|0.4
+|0.3
+|—
+|—
+|1.2
+|2.0
+|—
+|0.1
+|—
+|—
+| style="background:#BFBFDF;" |'''12.6'''
+|1.4
+|3.8
+|5.6
+|5.5
+|1.9
+|41.7
+|-
+|21 Jun 2020
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_JUNIO_2020.pdf Data Influye]
+|
+|1.0
+|'''9.0'''
+|—
+|3.0
+|—
+|1.0
+|3.0
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+|2.0
+|1.0
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''12.0'''
+|3.0
+|4.0
+|4.0
+|2.0
+|8.0
+|45.0
+|-
+|13 Jun 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/06/Pulso-Ciudadano-Junio-Q1.pdf Activa]
+|
+|0.3
+|'''5.4'''
+|—
+|3.7
+|1.2
+|1.7
+|5.0
+|—
+|0.6
+|0.6
+|—
+|—
+|0.0
+|2.2
+|—
+|0.1
+|—
+|—
+| style="background:#BFBFDF;" |'''16.3'''
+|1.6
+|4.1
+|3.8
+|1.4
+|2.8
+|49.2
+|-
+|12 Jun 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/06/Track-PP-335-Junio-S2.pdf Cadem]
+|
+|—
+|'''3.0'''
+|—
+|2.0
+|—
+|—
+|2.0
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+|—
+|1.0
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''6.0'''
+|—
+|2.0
+|1.0
+|—
+|1.0
+|80.0
+|-
+|31 May 2020
+|[https://www.criteria.cl/descargas/ACC-Mayo-2020-3phtk.pdf Criteria]
+|
+|1.0
+|'''8.0'''
+|1.0
+|6.0
+|—
+|—
+|2.0
+|—
+|1.0
+|2.0
+|—
+|—
+|—
+|—
+|3.0
+|—
+|1.0
+|—
+| style="background:#BFBFDF;" |'''16.0'''
+|4.0
+|7.0
+|5.0
+|1.0
+|3.0
+|39.0
+|-
+|30 May 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/05/Pulso-Ciudadano-Segunda-Quincena-de-Mayo.pdf Activa]
+|
+|0.8
+|3.3
+|—
+|4.2
+|1.9
+|2.1
+|5.3
+|—
+|0.1
+|1.2
+|—
+|—
+|—
+|—
+|2.1
+|0.8
+|—
+|—
+| style="background:#BFBFDF;" |'''17.3'''
+|2.2
+|3.4
+|'''5.5'''
+|1.9
+|0.6
+|47.3
+|-
+|24 May 2020
+|[https://www.celag.org/wp-content/uploads/2020/05/informe-chile-web.pdf CELAG]
+|
+|—
+|'''12.9'''
+|—
+|10.4
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''18.8'''
+|—
+|4.1
+|10.3
+|—
+|—
+|43.5
+|-
+| colspan="28" style="background:#dedede; font-size:95%;" align="center" | Total lockdown imposed in Santiago Metropolitan Area and other large cities due to the '''[[COVID-19 pandemic in Chile|COVID-19 pandemic]]'''.
+|-
+|14 May 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/05/Track-PP-331-Mayo-S2-VF_Baja.pdf Cadem]
+|
+|—
+|'''3.0'''
+|—
+|'''3.0'''
+|—
+|—
+|2.0
+|—
+|—
+|1.0
+|—
+|—
+|—
+|—
+|1.0
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''7.0'''
+|—
+|2.0
+|2.0
+|—
+|—
+|79.0
+|-
+|12 May 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/05/Pulso-Ciudadano_Primera-Quincena-de-Mayo.pdf Activa]
+|
+|0.4
+|4.5
+|—
+|3.5
+|2.2
+|1.7
+|5.0
+|—
+|1.0
+|0.4
+|—
+|—
+|—
+|0.4
+|0.5
+|0.0
+|—
+|—
+| style="background:#BFBFDF;" |'''15.8'''
+|0.4
+|4.5
+|'''10.8'''
+|2.2
+|0.7
+|46.0
+|-
+|4 May 2020
+|[https://www.criteria.cl/descargas/ACC-Abril-2020-vN4ty.pdf Criteria]
+|
+|1.0
+|7.0
+|—
+|6.0
+|—
+|—
+|2.0
+|—
+|2.0
+|2.0
+|—
+|—
+|—
+|—
+|2.0
+|—
+|1.0
+|—
+| style="background:#BFBFDF;" |'''18.0'''
+|2.0
+|'''8.0'''
+|6.0
+|2.0
+|—
+|41.0
+|-
+|3 May 2020
+|[https://www.aimchile.cl/wp-content/uploads/2020/05/Informe-Encuesta-Abril-2020-Crisis-Coronavirus-II.pdf Feedback]
+|
+|—
+|'''6.9'''
+|—
+|2.7
+|—
+|—
+|1.0
+|—
+|1.2
+|—
+|—
+|—
+|—
+|—
+|2.4
+|1.9
+|1.2
+|—
+| style="background:#BFBFDF;" |'''9.8'''
+|1.6
+|6.0
+|2.3
+|—
+|2.6
+|60.4
+|-
+|28 Apr 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/04/Pulso-Ciudadano-Segunda-Quincena-Abril.pdf Activa]
+|
+|1.3
+|'''5.9'''
+|—
+|3.7
+|1.1
+|1.2
+|3.0
+|—
+|0.3
+|0.3
+|—
+|—
+|0.1
+|0.0
+|1.5
+|0.4
+|—
+|—
+| style="background:#BFBFDF;" |'''19.8'''
+|1.7
+|2.4
+|5.4
+|3.1
+|0.1
+|48.7
+|-
+|9 Apr 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/04/Track-PP-326-Abril-S2.pdf Cadem]
+|
+|—
+|'''3.0'''
+|—
+|2.0
+|—
+|—
+|'''3.0'''
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+|—
+|1.0
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''10.0'''
+|—
+|'''3.0'''
+|2.0
+|—
+|—
+|74.0
+|-
+|9 Apr 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/04/Pulso-Ciudadano-Primera-Quincena-Abril.pdf Activa]
+|
+|0.7
+|5.6
+|—
+|2.8
+|2.1
+|1.1
+|4.2
+|—
+|0.7
+|0.2
+|—
+|—
+|—
+|0.1
+|0.5
+|0.0
+|—
+|—
+| style="background:#BFBFDF;" |'''18.9'''
+|0.5
+|3.3
+|'''6.2'''
+|2.6
+|0.1
+|50.4
+|-
+|30 Mar 2020
+|[https://www.criteria.cl/descargas/ACC-Marzo-2020-4efp9.pdf Criteria]
+|
+|2.0
+|'''9.0'''
+|—
+|8.0
+|—
+|3.0
+|2.0
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+|—
+|3.0
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''18.0'''
+|1.0
+|8.0
+|6.0
+|2.0
+|—
+|36.0
+|-
+|27 Mar 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/04/Pulso-Ciudadano-Segunda-Quincena-Marzo.pdf Activa]
+|
+|1.3
+|4.5
+|—
+|4.4
+|1.1
+|1.7
+|3.7
+|—
+|0.7
+|0.5
+|—
+|—
+|0.2
+|—
+|1.1
+|0.2
+|—
+|—
+| style="background:#BFBFDF;" |'''11.5'''
+|0.4
+|5.7
+|'''8.2'''
+|2.1
+|0.2
+|52.5
+|-
+|26 Mar 2020
+|[https://static1.squarespace.com/static/58dea67c1b631b608742bc50/t/5e81fefb506cbf5eb03362b4/1585577738124/Informe+Crisis+Coronavirus+2020.pdf Feedback]
+|
+|—
+|5.3
+|—
+|—
+|—
+|—
+|1.0
+|—
+|1.2
+|—
+|—
+|—
+|—
+|—
+|1.5
+|1.8
+|1.1
+|—
+| style="background:#BFBFDF;" |'''10.9'''
+|—
+|'''6.6'''
+|3.1
+|—
+|2.1
+|65.4
+|-
+|16 Mar 2020
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_MARZO_2020.pdf Data Influye]
+|
+|7.0
+|'''13.0'''
+|2.0
+|8.0
+|2.0
+|5.0
+|—
+|—
+|3.0
+|5.0
+|—
+|—
+|—
+|—
+|2.0
+|—
+|4.0
+|—
+| style="background:#BFBFDF;" |'''16.0'''
+|2.0
+|4.0
+|5.0
+|9.0
+|—
+|13.0
+|-
+|13 Mar 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/03/Track-PP-322-Marzo-S2-VF.pdf Cadem]
+|
+|—
+|'''4.0'''
+|—
+|2.0
+|—
+|—
+|2.0
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+|—
+|1.0
+|—
+|1.0
+|—
+| style="background:#BFBFDF;" |'''7.0'''
+|—
+|3.0
+|3.0
+|—
+|—
+|75.0
+|-
+|12 Mar 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/03/Pulso-Ciudadano-Marzo-Q1.pdf Activa]
+|
+|0.6
+|3.1
+|—
+|6.3
+|0.6
+|1.6
+|3.8
+|—
+|0.5
+|0.5
+|—
+|—
+|0.0
+|—
+|0.6
+|0.0
+|—
+|—
+| style="background:#BFBFDF;" |'''13.8'''
+|0.9
+|4.7
+|'''7.9'''
+|7.4
+|—
+|47.7
+|-
+| colspan="28" style="background:#dedede; font-size:95%;" align="center" | First cases of [[COVID-19]] are detected in the country.
+|-
+|29 Feb 2020
+|[https://www.criteria.cl/descargas/ACC-Febrero-2020-5eG8y.pdf Criteria]
+|
+|2.0
+|6.0
+|—
+|6.0
+|—
+|3.0
+|5.0
+|—
+|2.0
+|2.0
+|—
+|—
+|—
+|—
+|3.0
+|—
+|1.0
+|—
+| style="background:#BFBFDF;" |'''15.0'''
+|1.0
+|'''10.0'''
+|7.0
+|2.0
+|—
+|35.0
+|-
+|28 Feb 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/03/Pulso-Ciudadano-Febrero-Q2.pdf Activa]
+|
+|0.3
+|3.9
+|—
+|5.7
+|0.9
+|1.6
+|4.0
+|—
+|0.5
+|1.0
+|—
+|—
+|—
+|—
+|1.3
+|0.1
+|—
+|—
+| style="background:#BFBFDF;" |'''13.6'''
+|0.9
+|2.3
+|'''8.2'''
+|2.9
+|—
+|52.8
+|-
+|14 Feb 2020
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_FEBRERO_2020.pdf Data Influye]
+|
+|7.0
+|'''14.0'''
+|2.0
+|6.0
+|2.0
+|6.0
+|—
+|—
+|4.0
+|8.0
+|—
+|—
+|—
+|—
+|2.0
+|—
+|4.0
+|—
+| style="background:#BFBFDF;" |'''15.0'''
+|2.0
+|3.0
+|5.0
+|7.0
+|—
+|13.0
+|-
+|14 Feb 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/02/Track-PP-318-Febrero-S2-VF_Baja.pdf Cadem]
+|
+|—
+|3.0
+|—
+|2.0
+|—
+|—
+|2.0
+|—
+|1.0
+|1.0
+|—
+|—
+|—
+|—
+|2.0
+|—
+|—
+|—
+| style="background:#BFBFDF;" |'''4.0'''
+|—
+|'''4.0'''
+|'''4.0'''
+|—
+|—
+|77.0
+|-
+|13 Feb 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/02/PULSO-CIUDADANO-FEBRERO-2020_Q1.pdf Activa]
+|
+|0.5
+|2.3
+|—
+|4.6
+|1.6
+|1.8
+|5.8
+|—
+|0.5
+|0.3
+|—
+|—
+|—
+|—
+|0.6
+|0.0
+|—
+|—
+| style="background:#BFBFDF;" |'''16.1'''
+|0.4
+| style="background:#CBD0DA;" |4.5
+| style="background:#DDDDDD;" |'''6.4'''
+|3.1
+|—
+|51.5
+|-
+|30 Jan 2020
+|[https://peru.activasite.com/wp-content/uploads/2020/02/PULSO-CIUDADANO-ENERO-2020-Q2.pdf Activa]
+|
+|0.8
+|5.4
+|—
+|5.9
+|1.6
+|0.9
+|2.8
+|—
+|0.4
+|0.3
+|—
+|—
+|—
+|—
+|1.7
+|0.3
+|—
+|—
+| style="background:#BFBFDF;" |'''15.3'''
+|0.2
+|6.1
+|'''9.9'''
+|5.6
+|—
+|42.8
+|-
+|28 Jan 2020
+|[https://www.criteria.cl/descargas/ACC-Enero-2020-4u3p8.pdf Criteria]
+|
+|1.0
+|6.0
+|2.0
+|7.0
+|2.0
+|2.0
+|2.0
+|—
+|2.0
+|1.0
+|—
+|—
+|—
+|—
+|3.0
+|—
+|1.0
+|—
+| style="background:#BFBFDF;" |'''14.0'''
+|1.0
+|'''8.0'''
+|'''8.0'''
+|2.0
+|—
+|38.0
+|-
+|17 Jan 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/01/Track-PP-314-Enero-S3-VF_Baja.pdf Cadem]
+|
+|—
+|'''3.0'''
+|—
+|'''3.0'''
+|—
+|—
+|2.0
+|—
+|—
+|1.0
+|—
+|—
+|—
+|—
+|2.0
+|—
+|0.0
+|—
+| style="background:#BFBFDF;" |'''4.0'''
+|—
+|'''3.0'''
+|'''3.0'''
+|—
+|—
+|79.0
+|-
+|16 Jan 2020
+|[https://chile.activasite.com/wp-content/uploads/2020/01/PULSO-CIUDADANO-ENERO-2020.pdf Activa]
+|
+|1.1
+|4.8
+|—
+|5.2
+|—
+|5.1
+|4.2
+|—
+|1.1
+|0.2
+|—
+|—
+|—
+|—
+|1.4
+|0.1
+|—
+|—
+| style="background:#BFBFDF;" |'''8.9'''
+|0.6
+|3.9
+|'''11.6'''
+|2.1
+|—
+|44.9
+|-
+|30 Dec 2019
+|[https://www.criteria.cl/descargas/ACC-Diciembre-2019-Vj5Ka.pdf Criteria]
+|
+|0.0
+|6.0
+|—
+|8.0
+|—
+|2.0
+|4.0
+|—
+|1.0
+|2.0
+|—
+|—
+|0.0
+|—
+|3.0
+|—
+|0.0
+|—
+| style="background:#BFBFDF;" |'''14.0'''
+|1.0
+|'''9.0'''
+|'''9.0'''
+|2.0
+|—
+|0.0
+|-
+|26 Dec 2019
+|[https://chile.activasite.com/wp-content/uploads/2020/01/PULSO-CIUDADANO-DICIEMBRE-2019.pdf Activa]
+|
+|0.6
+|6.3
+|—
+|5.2
+|2.1
+|0.3
+|2.7
+|—
+|2.8
+|0.3
+|—
+|—
+|0.0
+|—
+|0.5
+|—
+|0.0
+|—
+| style="background:#BFBFDF;" |'''12.1'''
+|0.5
+|6.7
+|'''7.5'''
+|2.6
+|—
+|39.0
+|-
+|20 Dec 2019
+|[https://www.cadem.cl/wp-content/uploads/2020/01/Track-PP-310-Diciembre-S3-VFBaja.pdf Cadem]
+|
+|0.0
+|3.0
+|—
+|3.0
+|—
+|—
+|1.0
+|—
+|—
+|1.0
+|—
+|—
+|0.0
+|—
+|2.0
+|—
+|1.0
+|—
+| style="background:#BFBFDF;" |'''5.0'''
+|—
+| style="background:#CBD0DA;" |'''5.0'''
+| style="background:#DDDDDD;" |'''5.0'''
+|1.0
+|—
+|49.8
+|-
+|29 Nov 2019
+|[https://www.cadem.cl/wp-content/uploads/2019/12/Track-PP-307-Noviembre-S4-VF_compressed.pdf Cadem]
+|
+|0.0
+|2.0
+|—
+|4.0
+|—
+|—
+|2.0
+|—
+|1.0
+|1.0
+|—
+|—
+|0.0
+|—
+|2.0
+|—
+|0.0
+|—
+| style="background:#BFBFDF;" |'''6.0'''
+|—
+|2.0
+|'''5.0'''
+|1.0
+|—
+|73.0
+|-
+|26 Nov 2019
+|[https://chile.activasite.com/wp-content/uploads/2020/01/524-de-los-chilenos-creen-que-las-pensiones-son-el-principal-problema-del-pai%CC%81s.pdf Activa]
+|
+|0.4
+|3.3
+|—
+|'''8.6'''
+|0.4
+|2.8
+|3.7
+|—
+|1.3
+|0.6
+|—
+|—
+|0.0
+|—
+|0.4
+|—
+|0.0
+|—
+|7.8
+|0.4
+|7.0
+| style="background:#DDDDDD;" |'''9.9'''
+|3.1
+|—
+|74.0
+|-
+|26 Nov 2019
+|[https://www.criteria.cl/wp-content/uploads/2019/11/ACC-Noviembre-2019.pdf Criteria]
+|
+|0.0
+|7.0
+|—
+| style="background:#BFEDDB;" |'''8.0'''
+|—
+|2.0
+|2.0
+|—
+|2.0
+|1.0
+|—
+|—
+|0.0
+|—
+|4.0
+|—
+|0.0
+|—
+| style="background:#BFBFDF;" |'''8.0'''
+|—
+| style="background:#CBD0DA;" |'''8.0'''
+| style="background:#DDDDDD;" |'''8.0'''
+|2.0
+|—
+|50.3
+|-
+| colspan="28" style="background:#dedede; font-size:95%;" align="center" | Agreement signed between different parties to held a referendum in 2020 to write a new Constitution.
+|-
+|30 Oct 2019
+|[https://www.cadem.cl/wp-content/uploads/2019/11/Track-PP-303-Octubre-S5-VF.pdf Cadem]
+|
+|0.0
+|3.0
+|—
+|'''5.0'''
+|—
+|—
+|2.0
+|—
+|1.0
+|—
+|—
+|—
+|1.0
+|—
+|3.0
+|—
+|0.0
+|—
+| style="background:#BFBFDF;" |'''6.0'''
+|—
+|2.0
+|1.0
+|—
+|—
+|48.0
+|-
+|30 Oct 2019
+|[https://chile.activasite.com/wp-content/uploads/2020/01/Pulso-Ciudadano-Octubre.pdf Activa]
+|
+|0.2
+|3.3
+|—
+| style="background:#BFEDDB;" |'''12.4'''
+|2.0
+|1.9
+|6.6
+|—
+|2.4
+|0.6
+|—
+|—
+|0.0
+|—
+|1.8
+|—
+|0.0
+|1.9
+|'''10.0'''
+|0.7
+|5.8
+|0.7
+|3.9
+|—
+|76.0
+|-
+|29 Oct 2019
+|[https://www.criteria.cl/wp-content/uploads/2019/11/ACC-Octubre-2019.pdf Criteria]
+|
+|0.0
+|5.0
+|—
+|'''10.0'''
+|—
+|2.0
+|—
+|—
+|2.0
+|2.0
+|—
+|—
+|0.0
+|—
+|3.0
+|—
+|0.0
+|—
+| style="background:#BFBFDF;" |'''14.0'''
+|2.0
+|9.0
+|—
+|2.0
+|—
+|45.8
+|-
+| colspan="28" style="background:#dedede; font-size:95%;" align="center" |'''''[[2019–2020 Chilean protests|El Estallido Social]]''''': mass protests and riots in all the country.
+|-
+|11 Oct 2019
+|[https://www.cadem.cl/wp-content/uploads/2019/10/Track-PP-300-Octubre-S2-VF-1.pdf Cadem]
+|
+|0.0
+|3.0
+|—
+|'''6.0'''
+|—
+|—
+|5.0
+|—
+|1.0
+|1.0
+|—
+|—
+|0.0
+|—
+|2.0
+|—
+|0.0
+|—
+| style="background:#BFBFDF;" |'''11.0'''
+|—
+|5.0
+|—
+|—
+|—
+|49.0
+|-
+|30 Sept 2019
+|[https://www.criteria.cl/wp-content/uploads/2019/10/ACC-Septiembre-2019.pdf Criteria]
+|
+|0.0
+|4.0
+|—
+|'''14.0'''
+|3.0
+|2.0
+|6.0
+|—
+|—
+|—
+|—
+|—
+|0.0
+|—
+|4.0
+|—
+|0.0
+|5.0
+| style="background:#BFBFDF;" |'''17.0'''
+|2.0
+|12.0
+|—
+|—
+|—
+|66.0
+|-
+|25 Sept 2019
+|[https://chile.activasite.com/wp-content/uploads/2020/01/Pulso-Ciudadano-Septiembre.pdf Activa]
+|
+|0.1
+|4.9
+|—
+| style="background:#BFEDDB;" |'''13.5'''
+|1.3
+|1.9
+|7.2
+|—
+|0.2
+|0.0
+|—
+|—
+|0.0
+|—
+|1.6
+|—
+|0.0
+|2.4
+|'''11.7'''
+|0.6
+|6.8
+|0.0
+|2.2
+|—
+|31.0
+|-
+|30 Aug 2019
+|[https://www.criteria.cl/wp-content/uploads/2019/09/ACC-Agosto-2019.pdf Criteria]
+|
+|0.0
+|5.0
+|—
+|8.0
+|3.0
+|2.0
+|2.0
+|—
+|—
+|—
+|—
+|—
+|0.0
+|—
+|5.0
+|—
+|0.0
+|3.0
+| style="background:#BFBFDF;" |'''16.0'''
+|—
+|'''12.0'''
+|—
+|—
+|—
+|45.6
+|-
+|29 Aug 2019
+|[https://chile.activasite.com/wp-content/uploads/2020/01/Pulso-Ciudadano-Agosto.pdf Activa]
+|
+|—
+|4.5
+|—
+|'''9.0'''
+|1.6
+|2.6
+|7.2
+|—
+|0.3
+|0.2
+|—
+|—
+|0.0
+|—
+|4.9
+|—
+|0.0
+|2.8
+| style="background:#BFBFDF;" |'''16.9'''
+|1.3
+|7.0
+|0.7
+|3.2
+|—
+|44.0
+|-
+|29 Jul 2019
+|[https://www.criteria.cl/wp-content/uploads/2019/07/ACC-Julio-2019.pdf Criteria]
+|
+|0.0
+|6.0
+|—
+|'''11.0'''
+|2.0
+|2.0
+|5.0
+|—
+|—
+|—
+|—
+|—
+|0.0
+|—
+|4.0
+|—
+|0.0
+|5.0
+| style="background:#BFBFDF;" |'''16.0'''
+|2.0
+|10.0
+|—
+|—
+|—
+|37.8
+|-
+|25 Jul 2019
+|[https://chile.activasite.com/wp-content/uploads/2020/01/Pulso-Ciudadano-Julio.pdf Activa]
+|
+|—
+|3.0
+|—
+|'''10.3'''
+|2.4
+|2.1
+|7.0
+|—
+|0.3
+|—
+|—
+|—
+|0.0
+|—
+|3.4
+|—
+|0.0
+|2.7
+| style="background:#BFBFDF;" |'''17.8'''
+|1.3
+|5.1
+|1.0
+|1.8
+|—
+|37.0
+|-
+|12 Jul 2019
+|[https://www.cadem.cl/wp-content/uploads/2019/07/Track-PP-287-Julio-S2-VF.pdf Cadem]
+|
+|0.0
+|3.0
+|—
+|'''8.0'''
+|—
+|—
+|5.0
+|—
+|1.0
+|—
+|—
+|—
+|1.0
+|—
+|2.0
+|—
+|0.0
+|—
+| style="background:#BFBFDF;" |'''9.0'''
+|1.0
+|5.0
+|—
+|—
+|—
+|41.8
+|-
+|1 Jul 2019
+|[https://www.criteria.cl/wp-content/uploads/2019/07/ACC-Junio-2019.pdf Criteria]
+|
+|0.0
+|6.0
+|—
+|10.0
+|2.0
+|2.0
+|5.0
+|—
+|—
+|—
+|—
+|—
+|0.0
+|—
+|4.0
+|—
+|0.0
+|3.0
+| style="background:#BFBFDF;" |'''17.0'''
+|2.0
+|'''11.0'''
+|—
+|—
+|—
+|65.0
+|-
+|1 Jul 2019
+|[https://www.tvu.cl/prensa/2019/07/03/encuesta-pulso-ciudadano-jadue-se-posiciona-como-candidato-en-las-presidenciales.html Activa]
+|
+|0.0
+|5.0
+|—
+| style="background:#BFEDDB;" |'''14.3'''
+|3.0
+|2.0
+|7.9
+|—
+|0.8
+|—
+|—
+|—
+|0.0
+|—
+|3.7
+|—
+|0.0
+|2.5
+|'''11.4'''
+|1.1
+|7.6
+|0.9
+|0.8
+|—
+|38.0
+|-
+|3 Jun 2019
+|[https://www.criteria.cl/wp-content/uploads/2019/06/ACC-Mayo-2019.pdf Criteria]
+|
+|0.0
+|6.0
+|—
+| style="background:#BFEDDB;" |'''13.0'''
+|2.0
+|3.0
+|5.0
+|—
+|—
+|—
+|—
+|—
+|0.0
+|—
+|5.0
+|—
+|0.0
+|4.0
+|'''11.0'''
+|2.0
+|9.0
+|—
+|—
+|—
+|39.0
+|-
+|31 May 2019
+|[https://www.anda.cl/wp-content/uploads/2019/06/PULSO-CIUDADANO-MAYO2019.pdf Activa]
+|
+|0.0
+|2.6
+|—
+| style="background:#BFEDDB;" |'''10.8'''
+|2.0
+|3.2
+|8.2
+|—
+|0.5
+|0.5
+|—
+|—
+|0.0
+|—
+|2.7
+|—
+|0.0
+|5.4
+|'''10.6'''
+|3.2
+|8.1
+|0.4
+|3.0
+|—
+|40.0
+|-
+|2 May 2019
+|[https://chile.activasite.com/wp-content/uploads/2020/01/Pulso-Ciudadano-Septiembre.pdf Activa]
+|
+|0.3
+|2.2
+|—
+|'''11.1'''
+|4.0
+|3.0
+|8.5
+|—
+|1.2
+|0.5
+|—
+|—
+|0.0
+|—
+|3.9
+|—
+|0.0
+|3.9
+|7.5
+|0.7
+| style="background:#CBD0DA;" |'''11.2'''
+|0.5
+|3.1
+|—
+|38.8
+|-
+|28 Apr 2019
+|[https://www.criteria.cl/wp-content/uploads/2019/05/ACC-Abril-2019.pdf Criteria]
+|
+|0.0
+|5.0
+|—
+| style="background:#BFEDDB;" |'''12.0'''
+|3.0
+|3.0
+|5.0
+|—
+|—
+|—
+|—
+|—
+|0.0
+|—
+|5.0
+|—
+|0.0
+|5.0
+|'''10.0'''
+|2.0
+|'''10.0'''
+|—
+|—
+|—
+|38.4
+|-
+|31 Mar 2019
+|[https://www.criteria.cl/wp-content/uploads/2019/05/ACC-Marzo-2019.pdf Criteria]
+|
+|0.0
+|3.0
+|—
+| style="background:#BFEDDB;" |'''12.0'''
+|—
+|—
+|6.0
+|—
+|—
+|—
+|—
+|—
+|0.0
+|—
+|5.0
+|—
+|0.0
+|8.0
+|9.0
+|2.0
+|'''10.0'''
+|—
+|—
+|—
+|40.0
+|-
+|31 Mar 2019
+|[https://chile.activasite.com/wp-content/uploads/2020/01/Pulso-Ciudadano-Septiembre.pdf Activa]
+|
+|0.1
+|2.1
+|—
+| style="background:#BFEDDB;" |'''13.0'''
+|2.9
+|2.4
+|7.9
+|—
+|0.6
+|0.2
+|—
+|—
+|0.0
+|—
+|3.3
+|—
+|0.0
+|4.4
+|'''8.3'''
+|1.3
+|5.8
+|0.2
+|1.7
+|—
+|45.0
+|-
+|1 Mar 2019
+|[https://chile.activasite.com/wp-content/uploads/2020/01/Pulso-Ciudadano-Septiembre.pdf Activa]
+|
+|0.0
+|2.6
+|—
+| style="background:#BFEDDB;" |'''14.6'''
+|5.6
+|1.8
+|6.9
+|—
+|0.7
+|0.1
+|—
+|—
+|0.0
+|—
+|2.6
+|—
+|0.0
+|3.6
+|6.8
+|2.3
+|'''9.1'''
+|0.4
+|3.0
+|—
+|45.8
+|-
+|28 Feb 2019
+|[https://www.criteria.cl/wp-content/uploads/2019/05/ACC-Febrero-2019.pdf Criteria]
+|
+|0.0
+|3.0
+|—
+| style="background:#BFEDDB;" |'''12.0'''
+|2.0
+|4.0
+|4.0
+|—
+|—
+|—
+|—
+|—
+|0.0
+|—
+|6.0
+|—
+|0.0
+|5.0
+|9.0
+|3.0
+|'''11.0'''
+|—
+|—
+|—
+|39.9
+|-
+|31 Jan 2019
+|[https://www.criteria.cl/wp-content/uploads/2019/05/ACC-Enero-2019.pdf Criteria]
+|
+|0.0
+|3.0
+|—
+| style="background:#BFEDDB;" |'''12.0'''
+|3.0
+|2.0
+|3.0
+|—
+|—
+|—
+|—
+|—
+|0.0
+|—
+|4.0
+|—
+|0.0
+|5.0
+|8.0
+|2.0
+|'''10.0'''
+|—
+|—
+|—
+|41.0
+|-
+|31 Jan 2019
+|[https://chile.activasite.com/wp-content/uploads/2020/01/Pulso-Ciudadano-Septiembre.pdf Activa]
+|
+|0.5
+|1.0
+|—
+| style="background:#BFEDDB;" |'''12.1'''
+|2.2
+|2.4
+|'''9.9'''
+|—
+|0.6
+|0.3
+|—
+|—
+|0.0
+|—
+|1.8
+|—
+|0.0
+|5.7
+|7.9
+|1.3
+|6.4
+|0.9
+|2.5
+|—
+|48.0
+|-
+|11 Jan 2019
+|[http://cadem.cl/wp-content/uploads/2019/01/Track-PP-261-Enero-S2-VF.pdf Cadem]
+|
+|0.0
+|3.0
+|—
+| style="background:#BFEDDB;" |'''11.0'''
+|1.0
+|1.0
+|6.0
+|—
+|1.0
+|—
+|—
+|—
+|0.0
+|—
+|3.0
+|—
+|0.0
+|—
+|6.0
+|1.0
+|'''7.0'''
+|—
+|—
+|—
+|44.5
+|-
+|28 Dec 2018
+|[https://www.criteria.cl/wp-content/uploads/2019/05/ACC-Diciembre-2018.pdf Criteria]
+|
+|—
+|4.0
+|—
+|'''10.0'''
+|2.0
+|2.0
+|3.0
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|5.0
+|—
+|—
+|4.0
+|6.0
+|3.0
+| style="background:#CBD0DA;" |'''12.0'''
+|—
+|—
+|—
+|0.0
+|-
+|30 Nov 2018
+|[https://www.criteria.cl/wp-content/uploads/2019/05/ACC-Noviembre-2018.pdf Criteria]
+|
+|—
+|4.0
+|—
+| style="background:#BFEDDB;" |'''12.0'''
+|3.0
+|5.0
+|3.0
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|4.0
+|—
+|—
+|3.0
+|5.0
+|2.0
+|'''8.0'''
+|—
+|—
+|—
+|45.0
+|-
+|3 Nov 2018
+|[https://www.criteria.cl/wp-content/uploads/2019/05/AG-Octubre-2018.pdf Criteria]
+|
+|—
+|2.0
+|—
+| style="background:#BFEDDB;" |'''11.0'''
+|2.0
+|3.0
+|4.0
+|—
+|2.0
+|—
+|—
+|—
+|—
+|—
+|5.0
+|—
+|—
+|2.0
+|3.0
+|4.0
+|'''8.0'''
+|—
+|—
+|—
+|49.0
+|-
+|2 Oct 2018
+|[https://www.criteria.cl/wp-content/uploads/2019/05/Agenda-Septiembre2018.pdf Criteria]
+|
+|—
+|3.0
+|—
+| style="background:#BFEDDB;" |'''10.0'''
+|3.0
+|3.0
+|1.0
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|6.0
+|—
+|—
+|5.0
+|4.0
+|2.0
+|'''9.0'''
+|—
+|—
+|—
+|51.0
+|-
+|31 Aug 2018
+|[https://www.criteria.cl/wp-content/uploads/2019/05/Agenda-Agosto2018.pdf Criteria]
+|
+|—
+|—
+|—
+| style="background:#BFEDDB;" |'''14.0'''
+|3.0
+|4.0
+|3.0
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|5.0
+|—
+|—
+|4.0
+|5.0
+|3.0
+|'''7.0'''
+|—
+|—
+|—
+|51.0
+|-
+|30 Jul 2018
+|[https://www.criteria.cl/criteria/wp-content/uploads/2019/05/Agenda-Julio2018.pdf Criteria]
+|
+|—
+|—
+|—
+| style="background:#BFEDDB;" |'''20.0'''
+|4.0
+|6.0
+|'''7.0'''
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|5.0
+|—
+|—
+|5.0
+|6.0
+|5.0
+|'''7.0'''
+|—
+|—
+|—
+|50.0
+|-
+|28 Jun 2018
+|[https://www.criteria.cl/criteria/wp-content/uploads/2019/05/Agenda-Julio2018.pdf Criteria]
+|
+|—
+|—
+|—
+| style="background:#BFEDDB;" |'''16.0'''
+|6.0
+|6.0
+|4.0
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|8.0
+|—
+|—
+|7.0
+|2.0
+|2.0
+|'''10.0'''
+|—
+|—
+|—
+|31.0
+|-
+|23 May 2018
+|[https://www.criteria.cl/wp-content/uploads/2019/05/Agenda-Mayo2018.pdf Criteria]
+|
+|—
+|—
+|—
+| style="background:#BFEDDB;" |'''16.0'''
+|3.0
+|5.0
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|5.0
+|—
+|—
+|5.0
+|2.0
+|—
+|'''14.0'''
+|—
+|—
+|—
+|35.0
+|-
+|12 Apr 2018
+|[https://www.criteria.cl/wp-content/uploads/2019/05/Agenda-Mayo2018.pdf Criteria]
+|
+|—
+|—
+|—
+| style="background:#BFEDDB;" |'''22.0'''
+|4.0
+|4.0
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|6.0
+|—
+|—
+|5.0
+|3.0
+|—
+|'''10.0'''
+|—
+|—
+|—
+|48.0
+|}

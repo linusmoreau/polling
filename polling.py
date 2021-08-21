@@ -630,6 +630,22 @@ def choices_setup():
                    'Opinion_polling_for_the_2021_Canadian_federal_election&action=edit&section=1',
             'old_data': 'polling_data/old_canada_polling.txt'
         },
+        'Chile': {
+            'key': ['date', 'firm', 'type', 'Jiles', 'Jadue', 'Boric', 'Sanchez', 'Enriquez-Om.', 'Guiller', 'Bachelet',
+                    'Narvaez', 'Munoz', 'Vidal', 'Maldonado', 'Provoste', 'Rincon', 'Sichel', 'F. Kast', 'Briones',
+                    'Desbordes', 'Pinera', 'Lavin', 'Matthei', 'J.A. Kast', 'Parisi', 'Farkas', 'Siches',
+                    'Other', 'end'],
+            'include': ['Boric', 'Narvaez', 'Maldonado', 'Provoste', 'Sichel', 'J.A. Kast',
+                        'Jadue', 'Jiles', 'Briones', 'Desbordes', 'Parisi', 'Lavin', 'Matthei'],
+            'col': {'Boric': (255, 20, 85), 'Narvaez': (237, 22, 36), 'Maldonado': (205, 92, 92),
+                    'Provoste': (30, 144, 255), 'Sichel': (0, 107, 176), 'J.A. Kast': (49, 68, 108),
+                    'Jadue': (178, 34, 34), 'Jiles': (255, 69, 0), 'Briones': (0, 191, 255), 'Desbordes': (2, 78, 154),
+                    'Parisi': (24, 22, 68), 'Lavin': (41, 57, 138), 'Matthei': (41, 57, 138)},
+            'start': -1,
+            'end_date': Date(2021, 12, 19),
+            'url': 'https://en.wikipedia.org/w/index.php?title='
+                   'Opinion_polling_for_the_2021_Chilean_presidential_election&action=edit&section=2'
+        },
         'Czechia': {
             'key': ['firm', 'date', 'size', 'turnout',
                     'ANO', 'SPOLU', 'SPOLU', 'SPOLU', 'Pirati+STAN', 'Pirati+STAN', 'SPD', 'KSCM', 'CSSD', 'T-S',
