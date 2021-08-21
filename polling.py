@@ -90,7 +90,13 @@ def transcribe_table(content, key, choice, begin, start):
                 nkey = ['firm', 'date', 'sample',
                         'Bolsanaro (APB)', 'Lula (PT)', 'Haddad (PT)', 'Dino (PCdoB)', 'Gomes (PDT)', 'Boulos (PSOL)',
                         'Doria (PSDB)', 'Amoedo (NOVO)', 'Silva (REDE)', 'Moro', 'Huck',
-                        'Other', 'Undecided', 'end']
+                        'Other', 'Undecided', 'lead', 'end']
+                reset = True
+            elif '====2019====' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'Bolsanaro (APB)', 'Lula (PT)', 'Haddad (PT)', 'Gomes (PDT)', 'Doria (PSDB)', 'Amoedo (NOVO)',
+                        'Moro', 'Huck',
+                        'Other', 'Undecided', 'lead', 'end']
                 reset = True
         elif choice == 'Italy':
             a = 'https://www.youtrend.it/2021/05/25/draghi-cento-giorni/ Quorum – YouTrend'
@@ -573,9 +579,10 @@ def choices_setup():
             'method': 'quotient'
         },
         'Brazil': {
-            'key': ['firm', 'date', 'sample', 'Bolsanaro (APB)', 'Lula (PT)', 'Gomes (PDT)', 'Doria (PSDB)',
-                    'Leite (PSDB)', 'Mandetta (DEM)', 'Pancheco (DEM)', 'Datena (PSL)', 'Moro', 'Other', 'Undecided',
-                    'end'],
+            'key': ['firm', 'date', 'sample',
+                    'Bolsanaro (APB)', 'Lula (PT)', 'Gomes (PDT)', 'Doria (PSDB)',
+                    'Leite (PSDB)', 'Mandetta (DEM)', 'Pancheco (DEM)', 'Datena (PSL)', 'Moro',
+                    'Other', 'Undecided', 'lead', 'end'],
             'include': ['Bolsanaro (APB)', 'Lula (PT)', 'Gomes (PDT)', 'Doria (PSDB)'],
             'zeros': ['Undecided'],
             'col': {'Bolsanaro (APB)': (0, 140, 0), 'Lula (PT)': (204, 0, 0), 'Haddad (PT)': (204, 0, 0),
