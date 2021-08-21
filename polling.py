@@ -149,7 +149,6 @@ def transcribe_table(content, key, choice, begin, start):
                         'Poland 2050',
                         'Other', 'lead', 'end']
                 reset = True
-
         elif choice == 'Austria':
             if '=== By state ===' in line:
                 break
@@ -175,7 +174,9 @@ def transcribe_table(content, key, choice, begin, start):
                         'LSChSR',
                         'Other', 'lead', 'end']
                 reset = True
-
+        # elif choice == 'Chile':
+        #     if '2021 Chilean presidential primaries' in line:
+        #         break
         if reset:
             tables.append({'table': table, 'key': key, 'years': years})
             table = []
