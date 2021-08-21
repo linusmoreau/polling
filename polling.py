@@ -767,6 +767,8 @@ def choices_setup():
             'gov': {'Government': ['CDU/CSU', 'SPD'], 'Opposition': ['Gr\u00fcne', 'Linke', 'FDP', 'AfD']},
             'start': 0,
             'end_date': Date(2021, 9, 26),
+            'vlines': {Date(2020, 9, 10): 'Scholz SPD Chancellor Candidate',
+                       Date(2021, 4, 19): 'Laschet and Baerbock Chancellor Candidates'},
             'toggle_seats': True,
             'url': 'https://en.wikipedia.org/w/index.php?title='
                    'Opinion_polling_for_the_2021_German_federal_election&action=edit&section=3',
