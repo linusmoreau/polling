@@ -274,6 +274,9 @@ def process_tables(tables: List[Dict[str, Union[List[List[Any]], List[str]]]], c
 def process_table(table: List[List[Any]], years, key, choice, include, zeros):
     def process_date(line, year) -> Optional[int]:
         line = line.strip().strip('}\'')
+        if '<br>' in line:
+            place = line.find('<br>')
+            line = line[:place] + ' ' + line[place + 4:]
         if choice == 'UK' and 'opdrts' in line:
             temp = line.strip('|').split('|')
             if temp[-1] == 'year':
@@ -1089,27 +1092,25 @@ def choices_setup():
             'vlines': {Date(2018, 6, 14): 'Retirement Age Increase Announced'},
         },
         'Slovakia': {
-            'include': ['OL\'aNO', 'SMER-SD', 'SR', 'L\'SNS', 'PS-SPOLU', 'PS-SPOLU', 'SaS', 'ZL\'', 'KDH',
-                        'Magyar', 'Magyar', 'Magyar', 'Magyar', 'SNS', 'DV', 'HLAS-SD', 'REP'],
-            'key': ['date', 'firm', 'sample',
-                    'OL\'aNO', 'SMER-SD', 'SR', 'L\'SNS', 'PS-SPOLU', 'PS-SPOLU', 'SaS', 'ZL\'', 'KDH',
-                    'Magyar', 'Magyar', 'Magyar', 'Magyar', 'SNS', 'DV', 'HLAS-SD', 'REP',
-                    'lead', 'end'],
+            'include': ['OL\'aNO', 'SMER-SD', 'SR', 'L\'SNS', 'PS', 'SaS', 'ZL\'', 'KDH', 'ALI', 'HLAS-SD', 'REP'],
+            'key': ['firm', 'date', 'sample',
+                    'OL\'aNO', 'SMER-SD', 'SR', 'L\'SNS', 'PS', 'SaS', 'ZL\'', 'KDH', 'ALI', 'HLAS-SD', 'REP',
+                    'Other', 'lead', 'end'],
             'col': {'OL\'aNO': (190, 214, 47), 'SMER-SD': (217, 39, 39), 'SR': (11, 76, 159), 'L\'SNS': (11, 87, 16),
-                    'PS-SPOLU': (0, 188, 255), 'SaS': (166, 206, 58), 'ZL\'': (255, 187, 0), 'KDH': (253, 209, 88),
-                    'Magyar': (39, 93, 51), 'SNS': (37, 58, 121), 'DV': (255, 0, 43), 'HLAS-SD': (180, 40, 70),
+                    'PS': (0, 188, 255), 'SaS': (166, 206, 58), 'ZL\'': (255, 187, 0), 'KDH': (253, 209, 88),
+                    'ALI': (39, 93, 51), 'SNS': (37, 58, 121), 'DV': (255, 0, 43), 'HLAS-SD': (180, 40, 70),
                     'REP': (220, 1, 22),
                     'Government': (190, 214, 47), 'Opposition': (180, 40, 70),
                     'Left': (180, 40, 70), 'Right': (190, 214, 47)},
             'gov': {'Government': ['OL\'aNO', 'SR', 'SaS', 'ZL\''],
-                    'Opposition': ['SMER-SD', 'L\'SNS', 'PS-SPOLU', 'KDH', 'Magyar', 'SNS', 'DV', 'HLAS-SD', 'REP']},
-            'blocs': {'Left': ['SMER-SD', 'PS-SPOLU', 'DV', 'HLAS-SD'],
-                      'Right': ['OL\'aNO', 'SR', 'L\'SNS', 'SaS', 'ZL\'', 'KDH', 'Magyar', 'SNS', 'REP']},
-            'start': -1,
+                    'Opposition': ['SMER-SD', 'L\'SNS', 'PS', 'KDH', 'ALI', 'HLAS-SD', 'REP']},
+            'blocs': {'Left':   ['SMER-SD', 'PS', 'HLAS-SD'],
+                      'Right':  ['OL\'aNO', 'SR', 'L\'SNS', 'SaS', 'ZL\'', 'KDH', 'ALI', 'REP']},
+            'start': 0,
             'restart': ['http'],
             'end_date': Date(2024, 2, 24),
             'url': 'https://en.wikipedia.org/w/index.php?title='
-                   'Opinion_polling_for_the_next_Slovak_parliamentary_election&action=edit&section=1',
+                   'Opinion_polling_for_the_next_Slovak_parliamentary_election&action=edit&section=2',
             'toggle_seats': True,
             'seats': 150,
             'divisor': 1,
