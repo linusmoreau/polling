@@ -28,6 +28,22 @@
 ! style="background:#808080;"|
 ! style="background:#568203"|
 |-
+|22 Jul – 1 Aug 2021
+|[https://www.ideaintezet.hu/hu/hirek-aktualis/69/megallt-a-jobbik-eloretorese-a-nyar-derekan------2021--julius IDEA]
+|2000
+|style="background:#FFE5B4"|'''47'''
+|13
+|5
+|2
+|16
+|2
+|9
+|4
+|3
+|0
+| style="background:{{Fidesz/meta/color}}; color:white;" |31
+|50
+|-
 |30 June – 4 July 2021
 |[https://www.ideaintezet.hu/hu/hirek-aktualis/65/listak-versenyeben-a-biztos-szavazoknal-forditott-a-fidesz IDEA]
 |2000

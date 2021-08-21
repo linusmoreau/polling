@@ -1,6 +1,6 @@
 === 2021 ===
 
-{|class="wikitable sortable mw-datatable mw-collapsible" style="text-align:center;font-size:90%;line-height:14px;"
+{|class="wikitable sortable tpl-blanktable mw-collapsible" style="text-align:center;font-size:90%;line-height:14px;"
 |- style="height:40px;"
 ! style="width:180px;" rowspan="2"|Polling firm
 ! style="width:125px;" rowspan="2"|Fieldwork date
@@ -23,6 +23,104 @@
 ! style="background:{{The Left (Germany)/meta/color}};"|
 ! style="background:{{Alliance 90/The Greens/meta/color}};"|
 ! style="background:{{Freie Wähler/meta/color}};"|
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-08-19"| 17–18 Aug 2021
+| 1,219
+| -
+| style="background:#D7D5D7;"| '''23'''
+| 21
+| 11
+| 13
+| 7
+| 17
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-08-19"| 11–17 Aug 2021
+| 1,920
+| –
+| style="background:#D7D5D7;"| '''22'''
+| 21
+| 11
+| 12
+| 7
+| 19
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 1
+|-
+| [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
+| data-sort-value="2021-08-19"| 5–17 Aug 2021
+| 1,018
+| –
+| style="background:#D7D5D7;"| '''27.5'''
+| 19.5
+| 11
+| 11
+| 7.5
+| 17.5
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-08-15"| 13–16 Aug 2021
+| 2,080
+| –
+| style="background:#D7D5D7;"| '''25'''
+| 20
+| 11
+| 12.5
+| 6.5
+| 17.5
+| –
+| 7.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfrage/forsa.htm Forsa]
+| data-sort-value="2021-08-18"| 10–16 Aug 2021
+| 2,501
+| 26
+| style="background:#D7D5D7;"| '''23'''
+| 21
+| 10
+| 12
+| 6
+| 19
+| –
+| 9
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-08-15"| 9–13 Aug 2021
+| 1,450
+| –
+| style="background:#D7D5D7;"| '''25'''
+| 20
+| 11
+| 12
+| 7
+| 18
+| –
+| 4
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| data-sort-value="2021-08-13"| 10–12 Aug 2021
+| 1,252
+| 25
+| style="background:#D7D5D7;"| '''26'''
+| 19
+| 11
+| 11
+| 7
+| 19
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
 | data-sort-value="2021-08-11"| 4–10 Aug 2021
@@ -167,7 +265,7 @@
 | [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
 | data-sort-value="2021-07-30"| 27–29 Jul 2021
 | 1,268
-| 27
+| 22
 | style="background:#D7D5D7;"| '''28'''
 | 16
 | 11

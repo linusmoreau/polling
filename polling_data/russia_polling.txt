@@ -37,6 +37,31 @@ Polls conducted after the election is called.
 |bgcolor={{New People (political party)/meta/color}}|
 |bgcolor={{Green Alternative (Russia)/meta/color}}|
 |-
+|15 August
+|[https://media.fom.ru/fom-bd/d32pi2021.pdf FOM]
+|style="background:#B3E0FF" |'''30%'''||'''13%'''||'''10%'''||'''6%'''||1%||1%||1%||0%||0%||0%||0%||0%||2%||1%||13%||19%
+|style="background:#0C2C84; color:white;"|17%
+|-
+|15 August
+|[https://wciom.ru/ratings/reiting-politicheskikh-partii/ WCIOM]
+|style="background:#B3E0FF" |'''27.3%'''||'''16.4%'''||'''9.1%'''||'''6.7%'''||colspan=10|14.9%||14.6%||9.2%
+|style="background:#0C2C84; color:white;"|10.9%
+|-
+|9-13 August
+|[https://kprf.ru/activity/elections/204653.html CIPKR]
+| style="background:#B3E0FF" |'''25%'''||'''19%'''||'''8%'''||'''6%'''||1%||2%||'''5%'''||–||–||–||–||–||4%||0%||colspan="2"|24%
+| style="background:#0C2C84; color:white;" |6%
+|-
+|8 August
+|[https://media.fom.ru/fom-bd/d31pi2021.pdf FOM]
+|style="background:#B3E0FF" |'''29%'''||'''11%'''||'''9%'''||'''6%'''||1%||1%||1%||1%||0%||0%||0%||0%||2%||1%||14%||21%
+|style="background:#0C2C84; color:white;"|18%
+|-
+|8 August
+|[https://wciom.ru/ratings/reiting-politicheskikh-partii/ WCIOM]
+|style="background:#B3E0FF" |'''27.2%'''||'''16.0%'''||'''9.6%'''||'''6.7%'''||colspan=10|14.2%||13.8%||10.0%
+|style="background:#0C2C84; color:white;"|11.2%
+|-
 |1 August
 |[https://media.fom.ru/fom-bd/d30pi2021.pdf FOM]
 |style="background:#B3E0FF" |'''27%'''||'''11%'''||'''9%'''||'''6%'''||1%||1%||1%||1%||0%||0%||0%||0%||2%||0%||17%||22%
@@ -46,6 +71,11 @@ Polls conducted after the election is called.
 |[https://wciom.ru/ratings/reiting-politicheskikh-partii/ WCIOM]
 |style="background:#B3E0FF" |'''27.8%'''||'''15.6%'''||'''9.6%'''||'''6.7%'''||colspan=10|13.3%||14.2%||10.5%
 |style="background:#0C2C84; color:white;"|12.2%
+|-
+|30 July
+|[https://www.znak.com/2021-08-18/alternativnye_reytingi NMCPSM]
+|style="background:#B3E0FF" |'''35.6%'''||'''16.2%'''||'''13.6%'''||'''9.4%'''||colspan=12|25.2%
+|style="background:#0C2C84; color:white;"|19.4%
 |-
 |25 July
 |[https://media.fom.ru/fom-bd/d29pi2021.pdf FOM]
@@ -98,8 +128,8 @@ Polls conducted after the election is called.
 |style="background:#0C2C84; color:white;"|14.7%
 |-
 |27-29 June
-|[https://twitter.com/EuropeElects/status/1415950755584958465 CIPKR]
-| style="background:#B3E0FF" |'''25%'''||'''16%'''||'''14%'''||'''9%'''||1%||'''5%'''||'''7%'''||–||–||–||–||–||1%||0%||colspan="2"|23%
+|[https://kprf.ru/activity/elections/203652.html CIPKR]
+| style="background:#B3E0FF" |'''25%'''||'''16%'''||'''8%'''||'''9%'''||1%||4%||'''6%'''||–||–||–||–||–||1%||0%||colspan="2"|23%
 | style="background:#0C2C84; color:white;" |9%
 |-
 |style="background:#D5D5D5"|{{nowrap|''18 September 2016''}}

@@ -26,8 +26,68 @@
 | style="background-color: {{Reiwa Shinsengumi/meta/color}}" |
 | style="background-color: {{The Party to Protect the People from NHK/meta/color}}" |
 |-
+|14-15 Aug
+|[https://www.youtube.com/watch?v=mJ1uPDa1tCo go2senkyo]{{Efn|name="int_ex"}}
+| {{Party shading/Liberal Democratic Party (Japan)}} |'''29.7'''
+|18.4
+|5.7
+|9.6
+|8.5
+|1.5
+|0.6
+|2.1
+|0.4
+|
+|23.4
+|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''11.3'''
+|-
+|7-9 Aug
+|[https://www.yomiuri.co.jp/election/yoron-chosa/20210809-OYT1T50140/ Yomiuri-NNN]
+| {{Party shading/Liberal Democratic Party (Japan)}} |'''37'''
+|12
+|6
+|5
+|6
+|1
+|1
+|1
+|0
+|0
+|31
+|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''25'''
+|-
+|7-8 Aug
+|[https://www.asahi.com/articles/ASP8873TTP86UZPS004.html Asahi Shimbun]
+| {{Party shading/Liberal Democratic Party (Japan)}} |'''35'''
+|15
+|5
+|6
+|7
+|3
+|0
+|1
+|1
+|1
+|26
+|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''20'''
+|-
+|17-18 Jul
+|[https://www.fnn.jp/articles/-/212369 FNN-Sankei]
+|32.3
+|10.8
+|3.1
+|4.6
+|2.8
+|1.0
+|0.9
+|0.4
+|0.0
+|8.6
+| {{Party shading/Nonpartisan}} |'''35.6'''
+|style="background:gray; color:white" |'''3.3'''
+|-
 |10-11 Jul
-|[https://www.youtube.com/watch?v=5aEHWylUt7I go2senkyo]
+|[https://www.youtube.com/watch?v=5aEHWylUt7I go2senkyo]{{Efn|name="int_ex"}}
 | {{Party shading/Liberal Democratic Party (Japan)}} |'''30.2'''
 |19.8
 |5.6
@@ -102,7 +162,7 @@
 | style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''21'''
 |-
 |12-13 Jun
-|[https://go2senkyo.com/articles/2021/06/16/59633.html go2senkyo]
+|[https://go2senkyo.com/articles/2021/06/16/59633.html go2senkyo]{{Efn|name="int_ex"}}
 | {{Party shading/Liberal Democratic Party (Japan)}} |'''29.1'''
 |21.1
 |6.3
@@ -117,7 +177,7 @@
 | style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''8'''
 |-
 |15-16 May 
-|[https://go2senkyo.com/articles/2021/05/20/58902.html go2senkyo]
+|[https://go2senkyo.com/articles/2021/05/20/58902.html go2senkyo]{{Efn|name="int_ex"}}
 | {{Party shading/Liberal Democratic Party (Japan)}} |'''29.9'''
 |20.1
 |5.1

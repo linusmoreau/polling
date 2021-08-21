@@ -43,28 +43,28 @@ Poll results are listed in the table in reverse chronological order, showing the
 ! class="unsortable" style="background: #81d742; width:30px"|
 ! class="unsortable" style="background: #6ab32e; width:30px"|
 |-
-|
+|9 Aug 2021
 |Mediana
 |[[Delo (newspaper)|''Delo'']]
-|
-|17.1
+|9 Aug
+|style="background:#FFFFBF" |'''17.1'''
 |7.3
 |12.7
 |0.7
 |8.4
 |3.7
-|
-|
-|
-|
-|
-|
-|
+|–
+|–
+|–
+|–
+|–
+|–
+|–
 |2.8
 |10.7
 |19.4
 |–
-|4.4
+|style="background:{{Slovenian Democratic Party/meta/color}}"| 4.4
 |<ref>{{Cite web|title=Pahor znova vodilni na lestvici priljubljenosti|url=https://www.delo.si/novice/slovenija/tudi-med-pocitnicami-kriticni-do-politike/|access-date=2021-08-09|website=www.delo.si|language=sl-si}}</ref>
 |-
 |25 Jul 2021{{efn|name=date|Publication date}}

@@ -27,8 +27,38 @@
 ! style="background:{{Canadian party colour|CA|Green}}" data-sort-type="number"|
 ! style="background:{{Canadian party colour|CA|PPC}}" data-sort-type="number"|
 |-
-| Forum Research || {{dts|August 15, 2021}} || [https://poll.forumresearch.com/data/02212956-3d15-49b5-af56-8b4426b7c8a6Federal%20Election%20Poll%20-%20Aug%2015th%202021.pdf PDF] || {{Party shading/Conservative (Canada)}}|'''31''' || 28 || 19 || 7 || 8 || 5 || 3 || ±3 pp || 1,203 || IVR || {{Party shading/Conservative (Canada)}}|'''3'''
+|[[Ekos Research Associates|EKOS]] || August 19, 2021 ||[https://www.ekospolitics.com/index.php/2021/08/daily-tracking-august-20-2021/ HTML] || 31.9 || {{Party shading/Liberal}}|'''32.5''' || 19.2 || 5.7 || 4.9 || 5.2 || 0.7 || ±2.6 pp || 1,426 (1/4) || IVR (rolling) || {{Party shading/Liberal}}|'''0.6'''
 |-
-| [[Mainstreet Research]] || {{dts|August 15, 2021}} || [https://ipolitics.ca/2021/08/16/liberals-hold-slim-lead-over-conservatives-mainstreet-poll/ HTML] || 30.1 || {{Party shading/Liberal}}|'''33.1''' || 19.1 || 5.9 || 3.9 || 5.6 || 2.2 || ±3.7 pp || 1,331 || IVR || {{Party shading/Liberal}}|'''3.0'''
+| [[Mainstreet Research]] || {{dts|August 19, 2021}} || [https://twitter.com/elxnometre/status/1428773414177845248 Twitter] || 33.1 || {{Party shading/Liberal}}|'''33.4''' || 19.8 || 5.0 || 3.6 || 4.0 || 1.1 || ±2.6 pp || 1,433 (1/4) || IVR (rolling) || {{Party shading/Liberal}}|'''0.3'''
+|-
+| Counsel || {{dts|August 18, 2021}} || [https://counselpa.com/insight/ndp-gains-in-key-battlegrounds-threaten-trudeaus-path-to-majority/ HTML] || 28.5 || {{Party shading/Liberal}}|'''30.3''' || 21.7 || 7.8 || 4.8 || 4.3 || 2.6 || ±1.7 pp || 3,499 || online || {{Party shading/Liberal}}|'''1.8'''
+|-
+| [[Ekos Research Associates|EKOS]] || {{dts|August 18, 2021}} || [https://www.ekospolitics.com/index.php/2021/08/daily-tracking-august-19-2021/ HTML] || 32.0 || {{Party shading/Liberal}}|'''33.3''' || 20.1 || 5.5 || 4.5 || 3.9 || 0.7 || ±2.7 pp || 1,281 (1/4) || IVR (rolling) || {{Party shading/Liberal}}|'''1.3'''
+|-
+| [[Mainstreet Research]] || {{dts|August 18, 2021}} || [https://twitter.com/elxnometre/status/1428403882376445952 Twitter] || 33.0 || {{Party shading/Liberal}}|'''33.6''' || 18.4 || 5.5 || 4.0 || 4.5 || 1.1 || ±2.59 pp || 1,571 (1/4) || IVR (rolling) || {{Party shading/Liberal}}|'''0.6'''
+|-
+| [[Ekos Research Associates|EKOS]] || {{dts|August 17, 2021}} || [https://www.ekospolitics.com/index.php/2021/08/daily-tracking-august-18-2021/ HTML] || 30.6 || {{Party shading/Liberal}}|'''34.3''' || 21.0 || 5.4 || 4.2 || 3.7 || 0.8 || ±3.2 pp || 913 (1/3) || IVR (rolling) || {{Party shading/Liberal}}|'''3.7'''
+|-
+| [[Mainstreet Research]] || {{dts|August 17, 2021}} || [https://twitter.com/elxnometre/status/1428108292241432580 Twitter] || 31.7 || {{Party shading/Liberal}}|'''33.8''' || 18.9 || 6.1 || 3.9 || 4.5 || 1.1 || ±2.7 pp || 1,385 (1/3) || IVR (rolling) || {{Party shading/Liberal}}|'''2.1'''
+|-
+| [[Angus Reid (entrepreneur)#Angus Reid Institute|Angus Reid]] || {{dts|August 17, 2021}} || [https://angusreid.org/wp-content/uploads/2021/08/2021.08.19_Federal_Election_Economy.pdf PDF] || 30 || {{Party shading/Liberal}}|'''36''' || 20 || 6 || 4 || 4 || 1 || ±2.5 pp || 1,614 || online || {{Party shading/Liberal}}|'''6'''
+|-
+| [[Ekos Research Associates|EKOS]] || {{dts|August 16, 2021}} || [https://www.ekospolitics.com/index.php/2021/08/daily-tracking-august-17-2021/ HTML] || 29.4 || {{Party shading/Liberal}}|'''33.7''' || 20.5 || 5.4 || 5.7 || 4.2 || 1.1 || ±3.4 pp || 840 (1/3) || IVR (rolling) || {{Party shading/Liberal}}|'''4.3'''
+|-
+| [[Mainstreet Research]] || {{dts|August 16, 2021}} || [https://twitter.com/CanadianPolling/status/1427630100774858764 Twitter] || 30 || {{Party shading/Liberal}}|'''33''' || 20 || 6 || 4 || 5 || {{n/a}} || ±2.7 pp || 1,372 (1/3) || IVR (rolling) || {{Party shading/Liberal}}|'''3'''
+|-
+| [[Ipsos]] || {{dts|August 16, 2021}} || [https://www.ipsos.com/en-ca/news-polls/Out-of-the-Starting-Blocks-More-of-the-Same HTML] || 31 || {{Party shading/Liberal}}|'''36''' || 20 || 6 || 5 || 1 || 1 || ±2.5 pp || 2,001 || online/telephone || {{Party shading/Liberal}}|'''5'''
+|-
+| Innovative Research || {{dts|August 16, 2021}} || [https://innovativeresearch.ca/wp-content/uploads/2021/08/CTM2108-Wave-1-Federal-Report-RELEASE-.pdf PDF] || 26 || {{Party shading/Liberal}}|'''38''' || 21 || 6 || 4 || 3 || 1 || {{n/a}} || 1,412 || online || {{Party shading/Liberal}}|'''12'''
+|-
+| [[Abacus Data]] || {{dts|August 16, 2021}} || [https://abacusdata.ca/election-2021-liberal-lead-shrinks/ HTML] || 28 || {{Party shading/Liberal}}|'''33''' || 22 || 7 || 5 || 3 || 1 || ±2.6 pp || 1,500|| online || {{Party shading/Liberal}}|'''5'''
+|-
+| [[Forum Research]] || {{dts|August 15, 2021}} || [https://poll.forumresearch.com/data/02212956-3d15-49b5-af56-8b4426b7c8a6Federal%20Election%20Poll%20-%20Aug%2015th%202021.pdf PDF] || {{Party shading/Conservative (Canada)}}|'''31''' || 28 || 19 || 7 || 8 || 5 || 3 || ±3 pp || 1,203 || IVR || {{Party shading/Conservative (Canada)}}|'''3'''
+|-
+| [[Ekos Research Associates|EKOS]] || {{dts|August 15, 2021}} || [https://www.ekospolitics.com/index.php/2021/08/vax-pass-and-post-pandemic-canada/ HTML] || 30.3 || {{Party shading/Liberal}}|'''34.8''' || 17.4 || 4.2 || 6.9 || 5.1 || 1.2 || ±3.4 pp || 856 || IVR (rolling) || {{Party shading/Liberal}}|'''4.5'''
+|-
+| [[Léger Marketing|Leger]] || {{dts|August 15, 2021}} || [https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/Legers-North-American-Tracker-August-16th-2021.pdf PDF] || 30 || {{Party shading/Liberal}}|'''35''' || 20 || 7 || 5 || 2 || 1 || ±2.18 pp|| 2,007 || online || {{Party shading/Liberal}}|'''5'''
+|-
+| [[Mainstreet Research]] || {{dts|August 15, 2021}} || [https://ipolitics.ca/2021/08/16/liberals-hold-slim-lead-over-conservatives-mainstreet-poll/ HTML] || 30.1 || {{Party shading/Liberal}}|'''33.1''' || 19.1 || 5.9 || 3.9 || 5.6 || 2.2 || ±2.7 pp || 1,331 || IVR (rolling) || {{Party shading/Liberal}}|'''3.0'''
 |-
 |}

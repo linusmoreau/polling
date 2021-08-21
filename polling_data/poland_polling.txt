@@ -13,6 +13,7 @@
 ! style="width:60px;" class="unsortable" | [[Kukiz'15]]
 ! style="width:60px;" class="unsortable" | [[Confederation Liberty and Independence|Confederation]]
 ! style="width:60px;" class="unsortable" | [[Poland 2050|Poland<br/>2050]]
+! style="width:60px;" class="unsortable" | [[AGROunia|AGRO<br>unia]]
 ! rowspan="2" data-sort-type="number" style="width:50px;" | Others /<br />Don't know
 ! rowspan="2" data-sort-type="number" style="width:30px;" | Lead
 |-
@@ -24,6 +25,50 @@
 ! data-sort-type="number" style="height:1px; background:{{Kukiz'15/meta/color}};" |
 ! data-sort-type="number" style="height:1px; background:{{Confederation Liberty and Independence/meta/color}};" |
 ! data-sort-type="number" style="height:1px; background:{{Poland 2050/meta/color}};"|
+! data-sort-type="number" style="height:1px; background:{{AGROunia/meta/color}};"|
+|-
+
+| rowspan="2" | [https://polskatimes.pl/sondaz-wyborczy-porozumienie-i-kukiz15-poza-sejmem/ar/c1-15762746 Research Partner]
+| rowspan="2" data-sort-value="2021-08-16" | 13–16 Aug 2021
+| rowspan="2" | 1,039
+| style="background:#C0DBFC;" | '''30.6'''
+| 
+| 22.2
+| 6.9
+| 2.0
+| 1.3
+| 7.2
+| 17.0
+| 
+| 12.8
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''8.4'''
+|-
+| style="background:#C0DBFC;" | '''27.4'''
+| 0.6
+| 22.7
+| 5.8
+| 1.8
+| 0.4
+| 5.9
+| 14.5
+| 4.9
+| 16.1
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''4.7'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/563028-najnowszy-sondaz-po-stoi-w-miejscu-holownia-lekko-w-gore Social Changes / wPolityce.pl]
+| data-sort-value="2021-08-16" | 13–16 Aug 2021
+| 1,052
+| style="background:#C0DBFC;" | '''33'''
+| 2
+| 26
+| 7
+| 2
+| 2
+| 9
+| 18
+| 
+| 1
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''7'''
 |-
 | [https://www.tvp.info/55387631/nowy-sondaz-dla-tvp-info-pollster-kto-wygralby-wybory-poparcia-dla-partii-politycznych-w-sejmie-5-partii-pis-ko-polska-2050-lewica-i-konfederacja Pollster / TVP Info]
 | data-sort-value="2021-08-16" | 15–16 Aug 2021
@@ -36,6 +81,7 @@
 | 1
 | 8
 | 18
+| 
 | 0.2
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''8'''
 |-
@@ -50,6 +96,7 @@
 | 0
 | 7
 | 17
+| 
 | 7
 | '''Tie'''
 |-
@@ -81,6 +128,19 @@
 ! data-sort-type="number" style="height:1px; background:{{Kukiz'15/meta/color}};" |
 ! data-sort-type="number" style="height:1px; background:{{Confederation Liberty and Independence/meta/color}};" |
 ! data-sort-type="number" style="height:1px; background:{{Poland 2050/meta/color}};"|
+|-
+| [https://www.tvp.info/55451598/sondaz-nowe-badanie-i-duza-zmiana-poparcia-dla-pis-i-holowni-zaskakujace-wyniki-i-potezny-spadek-polski-2050-sondaz-kantar-public  Kantar]
+| data-sort-value="2021-08-11" | 6–11 Aug 2021
+| 981
+| style="background:#C0DBFC;" | '''35'''
+| 22
+| 7
+| 4
+| 2
+| 6
+| 9
+| 15
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''13'''
 |-
 |
 | rowspan="2" data-sort-value="2021-08-10" | 10 August 2021
@@ -226,7 +286,7 @@
 |
 | 7.37
 | 19.76
-| 3.08{{efn|Agrounia – 2.50%}}
+| 3.08{{efn|[[AGROunia]] – 2.50%}}
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''8.61'''
 |-
 | [https://wyborcza.pl/7,162657,27359391,coraz-mniejsza-roznica-miedzy-pis-a-koalicja-obywatelska-nowy.html Research Partner]
@@ -923,7 +983,7 @@
 | 
 | 11.54
 | 27.68
-| 2.61{{efn|Agrounia – 2.40%}}
+| 2.61{{efn|[[AGROunia]] – 2.40%}}
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''3.12'''
 |-
 | [https://www.wnp.pl/parlamentarny/spoleczenstwo/kantar-pis-33-proc-ko-21-proc-polska-2050-17-proc,142435.html Kantar]
@@ -1320,7 +1380,7 @@
 | 
 | 8.77
 | 25.05
-| 2.69{{efn|Agrounia – 2.08%}}
+| 2.69{{efn|[[AGROunia]] – 2.08%}}
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''5.31'''
 |-
 | [https://www.polsatnews.pl/wiadomosc/2021-04-07/polska-2050-szymona-holowni-tuz-za-pis-najnowszy-sondaz/ Research Partner]
@@ -1690,7 +1750,7 @@
 | 
 | 6.96
 | style="background:#FCDE83;" | '''31.26'''
-| 3.40{{efn| [[Agrounia]] - 3.01%}}
+| 3.40{{efn| [[AGROunia]] - 3.01%}}
 | style="background:{{Poland 2050/meta/color}};"| '''4.30''' 
 |-
 | [https://dorzeczy.pl/sondaz/173965/sondaz-estymator-dla-dorzeczypl-traca-ko-i-konfederacja.html Estymator / DoRzeczy.pl]
@@ -1965,7 +2025,7 @@
 | 
 | 10.99
 | style="background:#FCDE83;" | '''27.70'''
-| 3.94{{efn| [[Agrounia]] - 3.67%}}
+| 3.94{{efn| [[AGROunia]] - 3.67%}}
 | style="background:{{Poland 2050/meta/color}};"| '''0.74''' 
 |-
 | rowspan="2" style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/536683-partia-holowni-wyraznie-wyprzedza-platforme-sprawdz-wyniki Social Changes / wPolityce.pl]

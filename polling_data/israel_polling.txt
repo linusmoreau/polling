@@ -42,6 +42,42 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 !style=background:{{United Arab List/meta/color}} |
 !style=background:{{Yesh Atid/meta/color}} |
 |-
+|data-sort-value=2021-08-20 |20 Aug 21
+|Midgam
+|[[HaHadashot 12]]<ref name=Ch12Aug>{{cite news |title=סקר מיוחד: איזה ציונים מקבלים שרי הממשלה על התפקוד שלהם בקורונה? |url=https://www.mako.co.il/news-politics/2021_q3/Article-f5a6e7a49546b71026.htm |access-date=20 August 2021 |date=20 August 2021 |work=N12 |author=Amit Segal |lang=he}}</ref>
+|style=background:#BBCDE4 |'''32'''	<!-- Likud		-->
+|20					<!-- Yesh Atid	-->
+|9					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|6					<!-- Yamina		-->
+|8					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|6					<!-- Religious Zionist	-->
+|6					<!-- Joint List	-->
+|4					<!-- New Hope	-->
+|4					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|60 				<!-- Gov		-->
+|-
+|data-sort-value=2021-08-18 |18 Aug 21
+|Maagar Mohot
+|[[Channel 20 (Israel)|Channel 20]]<ref name=Ch20Aug18>{{cite news |title=סקר ערוץ 20: סער נמחק – הציבור לא מרוצה מהטיפול במגפה |url=https://www.20il.co.il/סקר-ערוץ-20-סער-נמחק-הציבור-לא-מרוצה-מהטי/ |access-date=18 August 2021 |date=18 August 2021 |work=Channel 20 |lang=he}}</ref>
+|style=background:#BBCDE4 |'''32'''	<!-- Likud		-->
+|18					<!-- Yesh Atid	-->
+|8					<!-- Shas		-->
+|11					<!-- Blue and White	-->
+|7					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|7					<!-- Yisrael Beiteinu	-->
+|7					<!-- Religious Zionist	-->
+|5					<!-- Joint List	-->
+|{{small|(2.0%)}}	<!-- New Hope	-->
+|6					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|style=background:#90b8ff |'''61''' <!-- Gov		-->
+|-
 |data-sort-value=2021-08-12 |11–12 Aug 21
 |Maagar Mohot
 |''[[Israel Hayom]]''<ref name=IH13Aug>{{cite news |title=סקר: הליכוד בנסיקה – תקווה חדשה נמחקת |url=https://www.20il.co.il/%D7%A1%D7%A7%D7%A8-%D7%94%D7%9C%D7%99%D7%9B%D7%95%D7%93-%D7%91%D7%A0%D7%A1%D7%99%D7%A7%D7%94-%D7%AA%D7%A7%D7%95%D7%95%D7%94-%D7%97%D7%93%D7%A9%D7%94-%D7%A0%D7%9E%D7%97%D7%A7%D7%AA/ |access-date=13 August 2021 |date=13 August 2021 |work=Israel Hayom |lang=he}}</ref>
@@ -241,7 +277,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-04-22 |22 Apr 21
 |Midgam
-|[[Channel 12 (Israel)|Channel 12]]<ref>{{cite web |url=https://www.mako.co.il/news-politics/2021_q2/Article-de74d1d97140971027.htm |title=מה מעדיף הציבור: בחירות חמישיות - או ממשלה בתמיכה או הימנעות של רע"ם? {{!}} סקר מנדטים |lang=he |author=Rina Matzliah |work=N12 |date=24 April 2021 |access-date=25 April 2021}}</ref>
+|[[HaHadashot 12]]<ref>{{cite web |url=https://www.mako.co.il/news-politics/2021_q2/Article-de74d1d97140971027.htm |title=מה מעדיף הציבור: בחירות חמישיות - או ממשלה בתמיכה או הימנעות של רע"ם? {{!}} סקר מנדטים |lang=he |author=Rina Matzliah |work=N12 |date=24 April 2021 |access-date=25 April 2021}}</ref>
 |style=background:#BBCDE4 |'''30'''	<!-- Likud		-->
 |19					<!-- Yesh Atid		-->
 |9					<!-- Shas		-->

@@ -25,6 +25,34 @@
 ! data-sort-type="number" style="background:Green;" |
 ! data-sort-type="number" style="background:Red;" |
 |-
+| [https://www.err.ee/1608309857/reformierakonna-ja-ekre-toetus-vordsustus Kantar Emor]
+| 12-17 Aug
+| 1,058
+| style="background:#FEF4AE" | '''25'''
+| 16
+| 24
+| 4
+| 11
+| 15
+| 4
+| 1
+| style="background:{{Estonian Reform Party/meta/color}};" | 1
+| 41|| {{no|58}}
+|-
+| [https://reitingud.ee/reitingud/ Norstat]
+| 03-07 Aug
+| ≥1,000
+| style="background:#FEF4AE" | '''29.9'''
+| 18.8
+| 23.5
+| 5.9
+| 8.9
+| 10.2
+| 1.8
+| 1
+| style="background:{{Estonian Reform Party/meta/color}};" | 6.4
+| 48.7|| {{no|50.3}}
+|-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 27 Jul-02 Aug
 | ≥1,000
@@ -48,10 +76,24 @@
 | 5.4
 | 7.2
 | 13.2
-| 1.4
+| 2.3
 | 0.7
 | style="background:{{Estonian Reform Party/meta/color}};" | 10.7
-| 48.9|| {{no|50.4}}
+| 48.9|| {{no|51.3}}
+|-
+| [https://www.err.ee/1608309857/reformierakonna-ja-ekre-toetus-vordsustus Kantar Emor]
+| 14-22 Jul
+| 1,001
+| 23
+| 20
+| style="background:{{Conservative People's Party of Estonia/meta/color}};" | '''25'''
+| 4
+| 9
+| 15
+| 3
+| 1
+| style="background:{{Conservative People's Party of Estonia/meta/color}};" | 2
+| 43|| {{no|56}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 13-19 Jul

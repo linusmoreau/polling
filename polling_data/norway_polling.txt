@@ -28,8 +28,88 @@
 ! style="background:{{Conservative Party (Norway)/meta/color}};"|
 ! style="background:{{Progress Party (Norway)/meta/color}};"|
 |-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4427 Kantar TNS]
+|9–13 Aug 2021
+|983
+|–
+|5.1
+|9.3
+|6.3
+|style="background:#F7BDC5;"|'''22.8'''
+|13.7
+|3.4
+|5.1
+|21.2
+|7.7
+|5.6
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="1.6" | 1.6
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4404 Norstat]
+|28 Jul–11 Aug 2021
+|11,400
+|–
+|4.9
+|6.9
+|4.3
+|style="background:#F7BDC5;"| '''25.5'''
+|16.2
+|3.3
+|3.1
+|21.1
+|10.9
+|3.9
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="4.4" | 4.4
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4403 Norstat]
+|6–11 Aug 2021
+|1,000
+|79.0
+|4.6
+|8.6
+|5.9
+|style="background:#F7BDC5;"| '''24.0'''
+|16.1
+|4.3
+|3.2
+|19.1
+|10.1
+|4.1
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="4.9" | 4.9
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4402 Respons Analyse]
+|5–11 Aug 2021
+|1,000
+|–
+|4.3
+|9.4
+|5.1
+|style="background:#F7BDC5;"| '''24.8'''
+|15.3
+|4.0
+|3.3
+|18.9
+|11.4
+|3.5
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="5.9" | 5.9
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4401 Opinion Perduco]
+|3–8 Aug 2021
+|964
+|76.0
+|3.8
+|8.8
+|3.5
+|style="background:#F7BDC5;"| '''22.6'''
+|19.2
+|3.8
+|4.0
+|21.2
+|9.3
+|3.8
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="1.4" | 1.4
+|-
 |[http://www.pollofpolls.no/?cmd=Maling&gallupid=4399 Kantar TNS]
-|2-6 Aug 2021
+|2–6 Aug 2021
 |977
 | -
 |7.5
@@ -476,7 +556,7 @@
 |3.0
 |style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="1.4"| 1.4
 |-
-|Respons Analyse
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4297 Respons Analyse]
 | data-sort-value="2021-04-12"| 7–12 Apr 2021
 |1,000
 |75.0

@@ -1,4 +1,6 @@
 ==Opinion polls==
+{{Import-blanktable}}
+
 {{Graph:Chart
  | width=1000
  | height=300
@@ -45,26 +47,25 @@
  | symbolsShape = dot
 }}
 
-{|class="wikitable sortable mw-datatable" style="text-align:center;font-size:85%;line-height:14px"
-|-
+{|class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:85%;line-height:14px"
 ! rowspan="2" style="width:150px;"|Polling organisation
 ! rowspan="2" style="width:100px;"|Last date of polling
 ! rowspan="2" style="width:50px;"|Source
-! style="width:50px;" data-sort-type="number"| [[Progressive Conservative Party of Ontario|PC]]
-! style="width:50px;" data-sort-type="number"| [[Ontario New Democratic Party|NDP]]
-! style="width:50px;" align="center"; data-sort-type="number"| [[Ontario Liberal Party|Liberal]]
-! style="width:50px;" align="center"; data-sort-type="number"| [[Green Party of Ontario|Green]]
-! style="width:50px;" align="center"; data-sort-type="number"| Other
+! style="width:60px;" class="unsortable"| [[Progressive Conservative Party of Ontario|PC]]
+! style="width:60px;" class="unsortable"| [[Ontario New Democratic Party|NDP]]
+! style="width:60px;" align="center"; class="unsortable"| [[Ontario Liberal Party|Liberal]]
+! style="width:60px;" align="center"; class="unsortable"| [[Green Party of Ontario|Green]]
+! style="width:60px;" align="center"; class="unsortable"| Other
 ! rowspan="2" style="width:50px;"|Polling type
 ! rowspan="2" style="width:50px;"|Sample size
 ! rowspan="2" style="width:50px;"|Margin of error
 ! rowspan="2" style="width:25px;" data-sort-type="number" |Lead
 |-
-!style="background-color:{{Canadian party colour|ON|PC}};" class="unsortable"|
-!style="background-color:{{Canadian party colour|ON|NDP}};" class="unsortable"|
-!style="background-color:{{Canadian party colour|ON|Liberal}};" class="unsortable"|
-!style="background-color:{{Canadian party colour|ON|Green}};" class="unsortable"|
-!style="background-color:{{Canadian party colour|ON|Independent}};" class="unsortable"|
+!style="background:{{Canadian party colour|ON|PC}};"|
+!style="background:{{Canadian party colour|ON|NDP}};"|
+!style="background:{{Canadian party colour|ON|Liberal}};"|
+!style="background:{{Canadian party colour|ON|Green}};"|
+!style="background:{{Canadian party colour|ON|Independent}};"|
 |-
 |Angus Reid
 |June 7, 2021

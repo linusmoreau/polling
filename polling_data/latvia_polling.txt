@@ -32,6 +32,44 @@
 ! class="unsortable" style="background:{{The Progressives (Latvia)/meta/color}};"|
 ! class="unsortable" style="background:{{Law and Order (Latvia)/meta/color}};"|
 |-
+|27. - 31 July 2021
+|[https://twitter.com/Interactive_LV/status/1421426449723142146/ Factum Interactive]
+|612
+|'''15.8'''
+|0.6
+|'''5.8'''
+|'''11.5'''
+|'''14.4'''
+|'''11.6'''
+|style="background:#a0d78e"|'''16.2'''
+|4.1
+|3.4
+|'''6.5'''
+|4.1
+|
+|
+|
+|style="background:#a0d78e"|0.4
+|-
+|July 2021
+|[https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-julija-atbalsts-visvairak-audzis-regionu-apvienibai-lielakais-kritums--na.a415600/ SKDS/LTV]
+|1,801
+|style="background:#F8C1BE" |'''11.3'''
+|0.9
+|'''4.0'''
+|'''5.6'''
+|'''7.3'''
+|'''7.7'''
+|'''7.6'''
+|3.5
+|3.5
+|3
+|3.4
+|1.7
+|18.2
+|22.3
+|style="background:#F8C1BE" |3.6
+|-
 |June 2021
 |[https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-junija-saeima-varetu-ieklut-9-partijas-starp-na-un-zzs-aizvien-siva-cina-par-otro-vietu.a411452/ SKDS/LTV]
 |1,793

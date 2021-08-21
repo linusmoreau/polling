@@ -42,6 +42,25 @@
 ! class="unsortable" style="background:#002D72;" |
 ! class="unsortable" style="background:#0033FF;" |
 |-
+|[https://www.idnes.cz/zpravy/domaci/volebni-pruzkum-cnn-prima-news-naskok-ano-se-zvysuje-pad-piratu-a-stan-pod-20-procent.A210819_171248_domaci_kop STEM]
+|9 – 12 Aug
+|1013
+|{{N/A}}
+|{{Party shading/ANO 2011}}|'''31.1'''
+| colspan="3" |21.7
+| colspan="2" |18.7
+|11.2
+|5.8
+|4.6
+| colspan="2" |3.1
+|0.2
+|{{N/A}}
+|3.3
+|0.4
+|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |9.4
+|'''34.7'''
+|{{No|'''57.4'''}}
+|-
 |[https://www.median.eu/cs/wp-content/uploads/2021/08/Volby_2021_07_v04.pdf Median]
 |1–31 Jul
 |1078
