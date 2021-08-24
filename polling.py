@@ -116,7 +116,7 @@ def transcribe_table(content, key, choice, begin, start):
         elif choice == 'Germany':
             if '=== 2020 ===' in line:
                 nkey = ['firm', 'date', 'sample', 'abs',
-                        'CDU/CSU', 'SPD', 'AfD', 'FDP', 'Linke', 'Gr\u00fcne',
+                        'Union', 'SPD', 'AfD', 'FDP', 'Linke', 'Gr\u00fcne',
                         'Other', 'lead', 'end']
                 reset = True
         elif choice == 'Japan':
@@ -749,27 +749,28 @@ def choices_setup():
             'method': 'quotient'
         },
         'Germany': {
-            'include': ['CDU/CSU', 'SPD', 'AfD', 'FDP', 'Linke', 'Gr\u00fcne'],
+            'include': ['Union', 'SPD', 'AfD', 'FDP', 'Linke', 'Gr\u00fcne'],
             'key': ['firm', 'date', 'sample', 'abs',
-                    'CDU/CSU', 'SPD', 'AfD', 'FDP', 'Linke', 'Gr\u00fcne',
+                    'Union', 'SPD', 'AfD', 'FDP', 'Linke', 'Gr\u00fcne',
                     'FW', 'Other', 'lead', 'end'],
-            'col': {'CDU/CSU': (0, 0, 0), 'Gr\u00fcne': (100, 161, 45), 'SPD': (235, 0, 31), 'FDP': (255, 237, 0),
+            'col': {'Union': (0, 0, 0), 'Gr\u00fcne': (100, 161, 45), 'SPD': (235, 0, 31), 'FDP': (255, 237, 0),
                     'AfD': (0, 158, 224), 'Linke': (190, 48, 117),
                     'Red-Red-Green': (190, 48, 117), 'Black-Yellow': (255, 237, 0), 'Jamaica': (118, 132, 15),
                     'Grand Coalition': (0, 0, 0), 'Traffic Light': (235, 0, 31), 'Black-Green': (100, 161, 45),
-                    'Old Guard': (245, 118, 15)},
+                    'Old Guard': (245, 118, 15), 'Big Three': (0, 0, 180)},
             'blocs': {'Red-Red-Green': ['Gr\u00fcne', 'SPD', 'Linke'],
-                      'Black-Yellow': ['CDU/CSU', 'FDP'],
-                      'Jamaica': ['CDU/CSU', 'FDP', 'Gr\u00fcne'],
+                      'Black-Yellow': ['Union', 'FDP'],
+                      'Jamaica': ['Union', 'FDP', 'Gr\u00fcne'],
                       'Traffic Light': ['SPD', 'Gr\u00fcne', 'FDP'],
-                      'Grand Coalition': ['CDU/CSU', 'SPD'],
-                      'Black-Green': ['CDU/CSU', 'Gr\u00fcne'],
-                      'Old Guard': ['CDU/CSU', 'SPD', 'FDP']},
-            'gov': {'Government': ['CDU/CSU', 'SPD'], 'Opposition': ['Gr\u00fcne', 'Linke', 'FDP', 'AfD']},
+                      'Grand Coalition': ['Union', 'SPD'],
+                      'Black-Green': ['Union', 'Gr\u00fcne'],
+                      'Old Guard': ['Union', 'SPD', 'FDP'],
+                      'Big Three': ['Union', 'SPD', 'Gr\u00fcne']},
+            'gov': {'Government': ['Union', 'SPD'], 'Opposition': ['Gr\u00fcne', 'Linke', 'FDP', 'AfD']},
             'start': 0,
             'end_date': Date(2021, 9, 26),
-            'vlines': {Date(2020, 9, 10): 'Scholz SPD Chancellor Candidate',
-                       Date(2021, 4, 19): 'Laschet and Baerbock Chancellor Candidates'},
+            'vlines': {Date(2020, 9, 10): 'Scholz (SPD) Chancellor Candidate',
+                       Date(2021, 4, 19): 'Laschet (Union) and Baerbock (Gr\u00fcne) Chancellor Candidates'},
             'toggle_seats': True,
             'url': 'https://en.wikipedia.org/w/index.php?title='
                    'Opinion_polling_for_the_2021_German_federal_election&action=edit&section=3',
