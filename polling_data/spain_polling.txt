@@ -40,6 +40,27 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Navarra Suma/meta/color}};"|
 ! style="background:{{Regionalist Party of Cantabria/meta/color}};"|
 |-
+| ElectoPanel/Electomanía<ref>{{cite web |title=EP (15A): el curso político arranca con el escenario estático |url=https://electomania.es/ep22ag21/ |language=es |work=Electomanía |date=15 August 2021}}</ref>
+| 14–21 Aug 2021
+| 2,208
+|?
+| 25.0<br/>{{font|size=75%|font=Verdana|text=96}}
+| {{Party shading/PP}}| '''28.5'''<br/>{{font|size=75%|font=Verdana|text=122}}
+| 16.3<br/>{{font|size=75%|font=Verdana|text=55}}
+| 10.2<br/>{{font|size=75%|font=Verdana|text=24}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=14}}
+| 3.6<br/>{{font|size=75%|font=Verdana|text=8}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.5
+|-
 | ElectoPanel/Electomanía<ref>{{cite web |title=EP (15A): el PP incrementa sus diputados, Cs vuelve al uniescaño |url=https://electomania.es/ep15ag21/ |language=es |work=Electomanía |date=15 August 2021}}</ref>
 | 6–13 Aug 2021
 | 1,399

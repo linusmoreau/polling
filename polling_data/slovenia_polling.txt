@@ -43,6 +43,30 @@ Poll results are listed in the table in reverse chronological order, showing the
 ! class="unsortable" style="background: #81d742; width:30px"|
 ! class="unsortable" style="background: #6ab32e; width:30px"|
 |-
+|23 Aug 2021{{efn|name=date|Publication date}}
+|Mediana
+|[[Pop (Slovenian TV channel)|POPTV]]
+|–
+| style="background:#FFFFBF" |'''16.1'''
+|5.6
+|11.1
+|0.4
+|8.8
+|5.6
+|4.1
+|1.4
+|1.8
+|1.1
+|2.5
+|–
+|2.0
+|1.2
+|10.7
+|23.3
+|2.7
+|style="background:{{Slovenian Democratic Party/meta/color}}"|5.0
+|<ref>{{Cite web|title=Anketa POP TV: bo Tonin premagal Šarca?|url=https://www.domovina.je/anketa-pop-tv/|access-date=2021-08-23|website=www.domovina.je|language=sl}}</ref>
+|-
 |9 Aug 2021
 |Mediana
 |[[Delo (newspaper)|''Delo'']]
@@ -83,9 +107,9 @@ Poll results are listed in the table in reverse chronological order, showing the
 |1.4
 |1.9
 |–
-|–
-|–
-|12.3
+|1.2
+|3.0
+|12.9
 |19.2
 |2.0
 |style="background:{{Slovenian Democratic Party/meta/color}}"|6.3

@@ -1,6 +1,6 @@
 ===First round===
 ====2021====
-=====From August=====
+=====From July-August=====
 {| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
 ! rowspan="2"| Pollster/client(s)
 ! rowspan="2"| Date(s)<br>conducted
@@ -57,34 +57,10 @@
 |13%
 |style="background:#cc0000;color:#ffffff;"| 9%
 |-
-|rowspan="2"|[https://www.gazetadopovo.com.br/republica/pesquisa-eleitoral-mostra-lula-na-frente-de-bolsonaro-julho-2021 ''XP/Ipespe'']
-|rowspan="2"|5–6 August
-|rowspan="2"|1,000
-|26%
-|style="background:#ffb7b7;"| '''38%'''
-|10%
-|2%
-|–
-|3%
-|–
-|–
-|9%
-|3%
-|13%
-|style="background:#cc0000;color:#ffffff;"| 12%
-|-
-|27%
-|style="background:#ffb7b7;"| '''35%'''
-|11%
-|–
-|4%
-|5%
-|–
-|4%
-|–
-|2%
-|13%
-|style="background:#cc0000;color:#ffffff;"| 8%
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;" {{opdrts||5|Aug|2021}}
+| colspan="14" align="center" style="font-weight:bold;" |Rio Grande do Sul state governor [[Eduardo Leite|Leite]] and Senate president [[Rodrigo Pacheco (politician)|Pacheco]] in pre-candidacy campaign.<ref>{{cite news |last= |first= |date= |title=Alckmin e Eduardo Leite discutem em SP acordo anti-Doria no PSDB|url=https://www.cnnbrasil.com.br/politica/2021/08/05/alckmin-e-eduardo-leite-discutem-em-sp-acordo-anti-doria-no-psdb|work=CNN|location= |access-date=5 August 2021}}</ref><ref>{{cite news |last= |first= |date= |title=Pacheco se aproxima do PSD e deve disputar Planalto em 2022|url=https://www.poder360.com.br/eleicoes/pacheco-se-aproxima-do-psd-e-deve-disputar-planalto-em-2022/|work=Poder 360|location= |access-date=5 August 2021}}</ref>
 |-
 |[https://www.poder360.com.br/poderdata/poderdata-lula-lidera-corrida-para-2022-com-39-bolsonaro-tem-25/ ''PoderData'']
 |2–4 August
@@ -104,13 +80,8 @@
 |-
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;"|
-| style="border-right-style:hidden;" {{opdrts||5|Aug|2021}}
-| colspan="14" align="center" style="font-weight:bold;" |Rio Grande do Sul state governor [[Eduardo Leite|Leite]] and Senate president [[Rodrigo Pacheco (politician)|Pacheco]] in pre-candidacy campaign.<ref>{{cite news |last= |first= |date= |title=Alckmin e Eduardo Leite discutem em SP acordo anti-Doria no PSDB|url=https://www.cnnbrasil.com.br/politica/2021/08/05/alckmin-e-eduardo-leite-discutem-em-sp-acordo-anti-doria-no-psdb|work=CNN|location= |access-date=5 August 2021}}</ref><ref>{{cite news |last= |first= |date= |title=Pacheco se aproxima do PSD e deve disputar Planalto em 2022|url=https://www.poder360.com.br/eleicoes/pacheco-se-aproxima-do-psd-e-deve-disputar-planalto-em-2022/|work=Poder 360|location= |access-date=5 August 2021}}</ref>
-|-
-| style="border-right-style:hidden;"|
-| style="border-right-style:hidden;"|
 | style="border-right-style:hidden;" {{opdrts||3|Aug|2021}}
-| colspan="14" align="center" style="font-weight:bold;" |TV presenter [[José Luiz Datena|Datena]] announce candidacy.<ref>{{cite news |last= |first= |date= |title=Datena descarta vice em chapas de Ciro ou Bolsonaro: Sou candidato à Presidência |url=https://www.band.uol.com.br/noticias/brasil-urgente/ultimas/datena-descarta-vice-em-chapa-com-ciro-sou-candidato-a-presidencia-16363546|work=Band |location= |access-date=3 August 2021}}</ref>
+| colspan="14" align="center" style="font-weight:bold;" |TV presenter [[José Luiz Datena|Datena]] announces candidacy.<ref>{{cite news |last= |first= |date= |title=Datena descarta vice em chapas de Ciro ou Bolsonaro: Sou candidato à Presidência |url=https://www.band.uol.com.br/noticias/brasil-urgente/ultimas/datena-descarta-vice-em-chapa-com-ciro-sou-candidato-a-presidencia-16363546|work=Band |location= |access-date=3 August 2021}}</ref>
 |-
 |rowspan="2"|[https://valor.globo.com/politica/noticia/2021/08/04/lula-tem-46-pontos-percentuais-contra-29-para-bolsonaro-e-12-para-ciro-mostra-pesquisa-genialquaest.ghtml ''Quaest/Genial'']
 |rowspan="2"|29 July–1 August
@@ -140,6 +111,67 @@
 |–
 |10%
 |style="background:#cc0000;color:#ffffff;"| 17%
+|-
+|[https://www.paranapesquisas.com.br/wp-content/uploads/2021/07/BR_Jul21-Midia.pdf ''Paraná Pesquisas'']
+|24–28 July
+|2,010
+|32,7%
+|style="background:#ffb7b7;"| '''33,7%'''
+|6,8%
+|3,9%
+|–
+|1,8%
+|0,8%
+|7,0%
+|–
+|0,7%
+|12,7%
+|style="background:#cc0000;color:#ffffff;"| 1%
+|-
+|[https://g1.globo.com/politica/noticia/2021/07/09/lula-tem-46percent-e-bolsonaro-25percent-no-1o-turno-aponta-pesquisa-datafolha-para-a-eleicao-de-2022.ghtml ''Datafolha'']
+|7–8 July
+|2,074
+|25%
+|style="background:#ffb7b7;"| '''46%'''
+|8%
+|5%
+|–
+|4%
+|–
+|–
+|–
+|–
+|12%
+|style="background:#cc0000;color:#ffffff;"| 21%
+|-
+|rowspan="2"|[https://www.gazetadopovo.com.br/republica/pesquisa-eleitoral-mostra-lula-na-frente-de-bolsonaro-julho-2021 ''XP/Ipespe'']
+|rowspan="2"|5–7 July
+|rowspan="2"|1,000
+|26%
+|style="background:#ffb7b7;"| '''38%'''
+|10%
+|2%
+|–
+|3%
+|–
+|–
+|9%
+|3%
+|13%
+|style="background:#cc0000;color:#ffffff;"| 12%
+|-
+|27%
+|style="background:#ffb7b7;"| '''35%'''
+|11%
+|–
+|4%
+|5%
+|–
+|4%
+|–
+|2%
+|13%
+|style="background:#cc0000;color:#ffffff;"| 8%
 |- style="background:#E9E9E9;"
 |[[2018 Brazilian general election|'''2018 general election''']]
 |7 Oct
@@ -156,7 +188,7 @@
 | style="background:#0067bc;color:#ffffff;" |16.75%
 |}
 
-=====Before August=====
+=====Before July-August=====
 {| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
 ! rowspan="2"| Pollster/client(s)
 ! rowspan="2"| Date(s)<br>conducted
@@ -187,24 +219,6 @@
 ! data-sort-type="number" class="sortable" style="background:#2E8B57;"|
 ! data-sort-type="number" class="sortable" style="background:#BBBBBB;"|
 ! data-sort-type="number" class="sortable" style="background:#BBBBBB;"|
-|-
-|[https://g1.globo.com/politica/noticia/2021/07/09/lula-tem-46percent-e-bolsonaro-25percent-no-1o-turno-aponta-pesquisa-datafolha-para-a-eleicao-de-2022.ghtml ''Datafolha'']
-|7–8 July
-|2,074
-|25%
-|style="background:#ffb7b7;"| '''46%'''
-|–
-|–
-|8%
-|–
-|5%
-|–
-|–
-|–
-|–
-|4%
-|12%
-|style="background:#cc0000;color:#ffffff;"| 21%
 |-
 |[https://tribunapr.uol.com.br/noticias/brasil/bolsonaro-e-lula-empatam-na-pesquisa-exame-ideia-para-as-eleicoes-2022/ ''Exame/Ideia'']
 |22–24 June
@@ -245,7 +259,7 @@
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;" {{opdrts||16|Jun|2021}}
-| colspan="14" align="center" style="font-weight:bold;" |[[Luciano Huck|Huck]] give up on candidacy.<ref>{{cite news |last= |first= |date=8 March 2021 |title=Huck descarta candidatura à Presidência em 2022 e confirma ida para o lugar de Faustão na Globo |url=https://www1.folha.uol.com.br/poder/2021/06/huck-descarta-candidatura-a-presidencia-em-2022-e-confirma-ida-para-o-lugar-de-faustao-na-globo.shtml|work=[[Folha de São Paulo]] |location= |access-date=16 June 2021}}</ref>
+| colspan="14" align="center" style="font-weight:bold;" |[[Luciano Huck|Huck]] gives up on candidacy.<ref>{{cite news |last= |first= |date=8 March 2021 |title=Huck descarta candidatura à Presidência em 2022 e confirma ida para o lugar de Faustão na Globo |url=https://www1.folha.uol.com.br/poder/2021/06/huck-descarta-candidatura-a-presidencia-em-2022-e-confirma-ida-para-o-lugar-de-faustao-na-globo.shtml|work=[[Folha de São Paulo]] |location= |access-date=16 June 2021}}</ref>
 |-
 |[https://ndmais.com.br/politica-brasileira/eleicoes-2022-pesquisa-dos-grupos-nd-e-ric-aponta-lula-a-frente-de-bolsonaro/?utm_source=whatsapp&utm_campaign=wp-itajai&utm_medium=wp-grupos ''Instituto Mapa'']
 |18–20 May

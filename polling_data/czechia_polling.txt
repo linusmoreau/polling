@@ -13,6 +13,7 @@
 ! colspan="2" class="unsortable" style="width:40px;"  |[[Tricolour Citizens' Movement|T]]–[[Svobodní|S]]–[[Freeholder Party of the Czech Republic|SsČR]]
 ! rowspan="2" class="unsortable" style="width:40px;"  |[[Green Party (Czech Republic)|Z]]
 ! rowspan="2" class="unsortable" style="width:40px;"  |[[Alliance for the Future (Czech Republic)|APB]]
+! rowspan="2" class="unsortable" style="width:40px;"  |[[Free bloc|VB]]
 ! rowspan="2" class="unsortable" style="width:40px;"  |[[Přísaha|P]]
 ! rowspan="3" style="width:40px;"  |Oth.
 ! rowspan="3" style="width:25px;"  |Lead
@@ -40,7 +41,47 @@
 ! class="unsortable" style="background:{{Tricolour Citizens' Movement/meta/color}};" |
 ! class="unsortable" style="background:{{Green Party (Czech Republic)/meta/color}};" |
 ! class="unsortable" style="background:#002D72;" |
+! class="unsortable" style="background:red |
 ! class="unsortable" style="background:#0033FF;" |
+|-
+|rowspan="2" |[https://ct24.ceskatelevize.cz/domaci/3357414-model-kantaru-ano-strme-roste-opozicni-koalice-se-pretahuji-o-druhou-pozici Kantar CZ]
+|rowspan="2" |2 – 13 Aug
+|rowspan="2" |1200
+|rowspan="2" |61.5
+|{{Party shading/ANO 2011}}|'''26.5'''
+|11.5
+|4.5
+|5.0
+|12.0
+|10.5
+|9.5
+|5.0
+|3.5
+| colspan="2" |2.0
+|{{N/A}}
+|{{N/A}}
+|2.0
+|5.5
+|2.5
+|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |14.5
+|'''30.0'''
+|{{No|'''70.0'''}}
+|-
+|{{Party shading/ANO 2011}}|'''27.5'''
+| colspan="3" |21.0
+| colspan="2" |21.0
+|10.0
+|5.0
+|3.5
+| colspan="2" |2.0
+|{{N/A}}
+|{{N/A}}
+|2.0
+|6.0
+|2.0
+|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |6.5
+|'''31.0'''
+|{{No|'''69.0'''}}
 |-
 |[https://www.idnes.cz/zpravy/domaci/volebni-pruzkum-cnn-prima-news-naskok-ano-se-zvysuje-pad-piratu-a-stan-pod-20-procent.A210819_171248_domaci_kop STEM]
 |9 – 12 Aug
@@ -54,6 +95,7 @@
 |4.6
 | colspan="2" |3.1
 |0.2
+|{{N/A}}
 |{{N/A}}
 |3.3
 |0.4
@@ -74,6 +116,7 @@
 | colspan="2" |3.0
 |2.5
 |{{N/A}}
+|{{N/A}}
 |6.5
 |3.0
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |4.5
@@ -93,6 +136,7 @@
 | colspan="2" |3.5
 |1.4
 |2.0
+|{{N/A}}
 |4.9
 |1.0
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |0.2
@@ -111,6 +155,7 @@
 |6.5
 | colspan="2" |2.5
 |2.0
+|{{N/A}}
 |{{N/A}}
 |3.0
 |3.0
@@ -131,6 +176,7 @@
 |colspan="2"|3.1
 |1.0
 |2.1
+|{{N/A}}
 |5.3
 |3.5
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |1.3
@@ -149,6 +195,7 @@
 |5.0
 | colspan="2" |3.5
 |2.0
+|{{N/A}}
 |{{N/A}}
 |6.0
 |2.5
@@ -173,6 +220,7 @@
 |1.6
 |1.6
 |{{N/A}}
+|{{N/A}}
 |5.0
 |0.6
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |11.5
@@ -187,6 +235,7 @@
 |5.5
 |colspan=2|2.6
 |1.6
+|{{N/A}}
 |{{N/A}}
 |5.1
 |0.6
@@ -211,6 +260,7 @@
 |{{N/A}}
 |{{N/A}}
 |{{N/A}}
+|{{N/A}}
 |6.0
 |5.5
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |6.0
@@ -223,6 +273,7 @@
 |12.5
 |4.5
 |3.5
+|{{N/A}}
 |{{N/A}}
 |{{N/A}}
 |{{N/A}}
@@ -246,6 +297,7 @@
 | colspan="2" |3.4
 |1.3
 |1.5
+|{{N/A}}
 |4.5
 |1.1
 |style="background:#000000;color:#FFFFFF;" |2.4
@@ -264,6 +316,7 @@
 |7.5
 | colspan="2" |3.5
 |1.5
+|{{N/A}}
 |{{N/A}}
 |2.5
 |1.5
@@ -287,6 +340,7 @@
 |colspan=2|3.5
 |{{N/A}}
 |{{N/A}}
+|{{N/A}}
 |4.0
 |5.0
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |3.5
@@ -301,6 +355,7 @@
 |5.5
 |5.0
 |colspan=2|3.0
+|{{N/A}}
 |{{N/A}}
 |{{N/A}}
 |5.0
@@ -322,6 +377,7 @@
 |colspan="2"|3.0
 |1.2
 |1.7
+|{{N/A}}
 |4.2
 |3.0
 |style="background:#000000;color:#FFFFFF;" |4.0
@@ -341,6 +397,7 @@
 | colspan="2" |3.4
 |1.9
 |{{N/A}}
+|{{N/A}}
 |5.6
 |1.0
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |0.4
@@ -359,6 +416,7 @@
 |7.0
 | colspan="2" |3.5
 |2.5
+|{{N/A}}
 |{{N/A}}
 |4.0
 |1.5
@@ -383,6 +441,7 @@
 |2.5
 |2.0
 |{{N/A}}
+|{{N/A}}
 |4.5
 |4.0
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |2.5
@@ -397,6 +456,7 @@
 |3.0
 |colspan=2|4.0
 |2.0
+|{{N/A}}
 |{{N/A}}
 |5.0
 |3.0
@@ -415,6 +475,7 @@
 |5.8
 |4.1
 | colspan="2" |3.4
+|{{N/A}}
 |{{N/A}}
 |{{N/A}}
 |4.3
@@ -440,6 +501,7 @@
 |{{N/A}}
 |{{N/A}}
 |{{N/A}}
+|{{N/A}}
 |3.7
 |6.3
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |0.9
@@ -453,6 +515,7 @@
 |6.2
 |3.6
 |colspan=2|2.3
+|{{N/A}}
 |{{N/A}}
 |{{N/A}}
 |3.8
@@ -474,6 +537,7 @@
 | colspan="2" |3.8
 |1.2
 |1.5
+|{{N/A}}
 |3.5
 |1.4
 |style="background:#000000;color:#FFFFFF;" |4.0
@@ -493,6 +557,7 @@
 |colspan="2"|3.2
 |1.2
 |1.5
+|{{N/A}}
 |3.0
 |3.2
 |style="background:#000000;color:#FFFFFF;" |3.1
@@ -511,6 +576,7 @@
 |6.5
 | colspan="2" |2.5
 |3.0
+|{{N/A}}
 |{{N/A}}
 |2.5
 |2.5
@@ -535,6 +601,7 @@
 |{{N/A}}
 | 2.0
 | {{N/A}}
+|{{N/A}}
 |2.0
 |5.0
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |1.0
@@ -549,6 +616,7 @@
 |4.0
 |colspan=2|3.5
 | {{N/A}}
+|{{N/A}}
 |{{N/A}}
 |2.5
 |3.5
@@ -568,6 +636,7 @@
 |5.1
 | colspan="2" |5.0
 |1.4
+|{{N/A}}
 |{{N/A}}
 |3.0
 |1.3
@@ -596,6 +665,7 @@
 |1.1
 |1.1
 |{{N/A}}
+|{{N/A}}
 |2.4
 |0.5
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |5.2
@@ -610,6 +680,7 @@
 |7.0
 |colspan=2|1.9
 |1.4
+|{{N/A}}
 |{{N/A}}
 |2.4
 |0.7
@@ -630,6 +701,7 @@
 |colspan=2|3.6
 | {{N/A}}
 |{{N/A}}
+|{{N/A}}
 | 2.4
 | 2.2
 |style="background:#000000;color:#FFFFFF;" |5.3
@@ -648,6 +720,7 @@
 |5.7
 |{{N/A}}
 |3.5
+|{{N/A}}
 |{{N/A}}
 |{{N/A}}
 |{{N/A}}
@@ -673,7 +746,8 @@
 |3.3
 |{{N/A}}
 | {{N/A}}
-|{{N/A}}
+| {{N/A}}
+| {{N/A}}
 |6.1
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |3.6
 |'''26.5'''
@@ -689,6 +763,7 @@
 |3.7
 |colspan=2|5.1
 |{{N/A}}
+| {{N/A}}
 | {{N/A}}
 | {{N/A}}
 |6.2
@@ -713,6 +788,7 @@
 | {{N/A}}
 | {{N/A}}
 | {{N/A}}
+| {{N/A}}
 |2.0
 |6.5
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |2.0
@@ -726,6 +802,7 @@
 |5.0
 |3.0
 |colspan=2|2.0
+| {{N/A}}
 | {{N/A}}
 | {{N/A}}
 |2.0
@@ -747,6 +824,7 @@
 | {{N/A}}
 | 3.0
 | 2.0
+| {{N/A}}
 | {{N/A}}
 | {{N/A}}
 | 4.0
@@ -773,6 +851,7 @@
 |1.3
 | {{N/A}}
 | {{N/A}}
+| {{N/A}}
 |3.8
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |0.1
 |'''37.8'''
@@ -791,6 +870,7 @@
 | 1.9
 | 3.1
 | 1.5
+| {{N/A}}
 | {{N/A}}
 | {{N/A}}
 | 2.8
@@ -813,7 +893,8 @@
 | {{N/A}}
 | {{N/A}}
 | {{N/A}}
-| 34.3 |3.3
+| {{N/A}}
+| 3.3
 | style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |0.2
 | '''34.3'''
 | {{No|'''52.8'''}}
@@ -840,6 +921,7 @@
 | {{N/A}}
 | {{N/A}}
 | {{N/A}}
+| {{N/A}}
 |5.0
 |style="background:{{Czech Pirate Party/meta/color}};color:#FFFFFF;" |1.5
 |'''30.0'''
@@ -851,6 +933,7 @@
 |11.0
 |5.5
 |4.5|4.5
+| {{N/A}}
 | {{N/A}}
 | {{N/A}}
 | {{N/A}}
@@ -876,6 +959,7 @@
 | 1.5
 | {{N/A}}
 | {{N/A}}
+| {{N/A}}
 | 3.5
 | style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |1.5
 | '''39.0'''
@@ -894,6 +978,7 @@
 | {{N/A}}
 | 2.6
 | 1.2
+| {{N/A}}
 | {{N/A}}
 | {{N/A}}
 | 5.3
@@ -916,6 +1001,7 @@
 | 1.6
 | {{N/A}}
 | {{N/A}}
+| {{N/A}}
 | 2.7
 | style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |0.5
 | '''35.7'''
@@ -933,6 +1019,7 @@
 | 5.8
 | {{N/A}}
 | 3.6
+| {{N/A}}
 | {{N/A}}
 | {{N/A}}
 | {{N/A}}
@@ -959,6 +1046,7 @@
 | {{N/A}}
 | {{N/A}}
 | {{N/A}}
+| {{N/A}}
 | 5.0
 | style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |5.0
 | '''34.5'''
@@ -970,6 +1058,7 @@
 | 10.5
 | 5.0
 | 4.0
+| {{N/A}}
 | {{N/A}}
 | {{N/A}}
 | {{N/A}}
@@ -998,6 +1087,7 @@
 | {{N/A}}
 | {{N/A}}
 | {{N/A}}
+| {{N/A}}
 | 3.0
 | style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |5.5
 | '''33.5'''
@@ -1016,6 +1106,7 @@
 | {{N/A}}
 | 2.0
 | 1.5
+| {{N/A}}
 | {{N/A}}
 | {{N/A}}
 | 3.5
@@ -1038,6 +1129,7 @@
 | 0.8
 | {{N/A}}
 | {{N/A}}
+| {{N/A}}
 | 7.7
 | style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |3.5
 | '''38.3'''
@@ -1058,6 +1150,7 @@
 | 1.2
 | {{N/A}}
 | {{N/A}}
+| {{N/A}}
 | 0.8
 | style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |4.0
 | '''39.0'''
@@ -1075,6 +1168,7 @@
 | 5.6
 | {{N/A}}
 | 3.9
+| {{N/A}}
 | {{N/A}}
 | {{N/A}}
 | {{N/A}}
@@ -1099,7 +1193,8 @@
 | 1.6
 | {{N/A}}
 | 1.5
-| 1.0
+| 0.2
+| 0.1
 | {{N/A}}
 | 3.2
 | style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" | 18.3

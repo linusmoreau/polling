@@ -31,6 +31,22 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! class="sortable" style="background:#00ADEF;"|
 ! class="sortable" style="background:darkseagreen;"|
 |-
+|[https://twitter.com/EuropeElects/status/1429107995858907140 Eurosondagem]
+|16–19 Aug 2021
+|1,052
+|?
+|{{Party shading/PS}} |'''41.3'''
+|27.3
+|5.6
+|6.0
+|2.1
+|2.5
+|9.0
+|4.5
+| –
+|1.7
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |14.0
+|-
 |[https://sol.sapo.pt/artigo/742536/sondagem-chega-baixa-pela-primeira-vez-desde-as-legislativas Eurosondagem]
 |26–29 Jul 2021
 |1,025

@@ -20,6 +20,32 @@
 ! data-sort-type="number" style="background:{{Scottish National Party/meta/color}};"|
 ! data-sort-type="number" style="background:{{Green Party of England and Wales/meta/color}};"|
 |-
+|{{opdrts||23|Aug|2021}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-23-august-2021/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''43%'''
+|33%
+|10%
+|3%
+|6%
+|{{Hidden|4%|[[Brexit Party|Reform UK]] on 3%<br/>[[Plaid Cymru]] on 0%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|10%
+|-
+|{{opdrts|19|20|Aug|2021}}
+|[https://www.opinium.com/wp-content/uploads/2021/08/19-08-21-Observer-tables.xlsx Opinium]
+|''The Observer''
+|GB
+|2,003
+|style="background:#CCEBFF;"|'''39%'''
+|36%
+|8%
+|6%
+|6%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|3%
+|-
 |{{opdrts|17|18|Aug|2021}}
 |[https://docs.cdn.yougov.com/bu160txjmm/TimesVI_Results_210818_W_2.pdf YouGov]
 |''The Times''
@@ -43,7 +69,7 @@
 |10%
 |5%
 |5%
-|{{Hidden|5%|[[Brexit Party|Reform UK]] on 3%<br/>[[Plaid Cymru]] on 0%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|{{Hidden|5%|[[Brexit Party|Reform UK]] on 3%<br/>[[Plaid Cymru]] on 0%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|4%
 |-
 |{{opdrts|13|15|Aug|2021}}
@@ -60,7 +86,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|7%
 |-
 |{{opdrts|11|12|Aug|2021}}
-|[https://yougov.co.uk/topics/politics/articles-reports/2021/08/13/voting-intention-con-40-lab-32-11-12-aug YouGov]
+|[https://docs.cdn.yougov.com/mcpv8vylwn/TIMESVI_210812_1stR_W1.pdf YouGov]
 |''The Times''
 |GB
 |2,169
@@ -125,7 +151,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|7%
 |-
 |{{opdrts|5|6|Aug|2021}}
-|[https://yougov.co.uk/topics/politics/articles-reports/2021/08/11/voting-intention-con-41-lab-33-5-6-aug YouGov]
+|[https://docs.cdn.yougov.com/vf0xfo0x5k/Times_VotingIntention_210806_W_BPC.pdf YouGov]
 |''The Times''
 |GB
 |1,730

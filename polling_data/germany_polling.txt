@@ -24,10 +24,38 @@
 ! style="background:{{Alliance 90/The Greens/meta/color}};"|
 ! style="background:{{Freie Wähler/meta/color}};"|
 |-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-08-23"| 20–23 Aug 2021
+| 2,119
+| –
+| style="background:#D7D5D7;"| '''23'''
+| style="background:#FFCCCC;"| '''23'''
+| 11
+| 13
+| 7
+| 17
+| –
+| 6
+| data-sort-value="0"| Tie
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-08-20"| 16–20 Aug 2021
+| 1,352
+| –
+| style="background:#D7D5D7;"| '''22'''
+| style="background:#FFCCCC;"| '''22'''
+| 12
+| 13
+| 7
+| 17
+| –
+| 7
+| data-sort-value="0"| Tie
+|-
 | [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
 | data-sort-value="2021-08-19"| 17–18 Aug 2021
 | 1,219
-| -
+| –
 | style="background:#D7D5D7;"| '''23'''
 | 21
 | 11

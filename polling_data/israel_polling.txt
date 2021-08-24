@@ -41,6 +41,23 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 !style=background:{{Meretz/meta/color}} |
 !style=background:{{United Arab List/meta/color}} |
 !style=background:{{Yesh Atid/meta/color}} |
+|- style=background:silver
+|data-sort-value=2021-03-21 |23 Mar 21
+|colspan=2 |'''[[2021 Israeli legislative election|Election results]]'''<ref>{{Cite news |date=26 March 2021 |first1=Tal |last1=Shalev |first2=Daniel |last2=Dolev |title=תוצאות בחירות 2021: גוש נתניהו מגיע ל-52 מנדטים, רע"ם נכנסה לכנסת |url=https://elections.walla.co.il/item/3425478 |access-date=26 March 2021 |website=[[Walla!]] |lang=he}}</ref>
+|style=background:#BBCDE4 |'''30'''	<!-- Likud -->
+|17					<!-- Yesh Atid -->
+|9					<!-- Shas -->
+|8					<!-- Blue and White -->
+|7					<!-- Yamina -->
+|7					<!-- Labor -->
+|7					<!-- UTJ -->
+|7					<!-- Yisrael Beiteinu -->
+|6					<!-- Religious Zionist -->
+|6					<!-- Joint List -->
+|6					<!-- New Hope -->
+|6					<!-- Meretz -->
+|4					<!-- Ra'am -->
+|style=background:#90b8ff |'''61'''{{efn|name=Amichai Chikli|Although Yamina is part of the government, [[Amichai Chikli]] chose to join the opposition.}}	<!-- Gov. -->
 |-
 |data-sort-value=2021-08-20 |20 Aug 21
 |Midgam
@@ -325,21 +342,4 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |5					<!-- New Hope		-->
 |5					<!-- Meretz		-->
 |4					<!-- Ra'am		-->
-|- style=background:silver
-|data-sort-value=2021-03-21 |23 Mar 21
-|colspan=2 |'''[[2021 Israeli legislative election|Election results]]'''<ref>{{Cite news |date=26 March 2021 |first1=Tal |last1=Shalev |first2=Daniel |last2=Dolev |title=תוצאות בחירות 2021: גוש נתניהו מגיע ל-52 מנדטים, רע"ם נכנסה לכנסת |url=https://elections.walla.co.il/item/3425478 |access-date=26 March 2021 |website=[[Walla!]] |lang=he}}</ref>
-|style=background:#BBCDE4 |'''30'''	<!-- Likud		-->
-|17					<!-- Yesh Atid		-->
-|9					<!-- Shas		-->
-|8					<!-- Blue and White	-->
-|7					<!-- Yamina		-->
-|7					<!-- Labor		-->
-|7					<!-- UTJ		-->
-|7					<!-- Yisrael Beiteinu	-->
-|6					<!-- Religious Zionist	-->
-|6					<!-- Joint List		-->
-|6					<!-- New Hope		-->
-|6					<!-- Meretz		-->
-|4					<!-- Ra'am		-->
-|style=background:#90b8ff |'''61'''{{efn|name=Amichai Chikli|Although Yamina is part of the government, [[Amichai Chikli]] chose to join the opposition.}}	<!-- Gov.	-->
 |}

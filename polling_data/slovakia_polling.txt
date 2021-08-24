@@ -324,16 +324,16 @@ Polls from the beginning of the term to the present day. The [[Next Slovak parli
 |Focus<ref name="Focus092020">{{cite web|date=9 June 2020|title=Press release|url=https://www.focus-research.sk/files/n273_Volebn%C3%A9%20preferencie%20politick%C3%BDch%20str%C3%A1n%20august-september%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
 |26 Aug<br>–2 Sep 2020
 |1,022
-| style="background:#d8e386;" | '''18.4%'''
-|10.9%
-|9.1%
-|8.5%
-|5.9%
-|9.9%
-|3.9%
-|4.5%
-|3.8%
-|16.2%
+| style="background:#d8e386;" | '''18.4%'''<br>{{font|size=85%|font=Arial|text='''35'''}}
+|10.9%<br>{{font|size=85%|font=Arial|text=21}}
+|9.1%<br>{{font|size=85%|font=Arial|text=17}}
+|8.5%<br>{{font|size=85%|font=Arial|text=16}}
+|5.9%<br>{{font|size=85%|font=Arial|text=11}}
+|9.9%<br>{{font|size=85%|font=Arial|text=19}}
+|3.9%<br>{{font|size=85%|font=Arial|text=0}}
+|4.5%<br>{{font|size=85%|font=Arial|text=0}}
+|3.8%<br>{{font|size=85%|font=Arial|text=0}}
+|16.2%<br>{{font|size=85%|font=Arial|text=31}}
 |N/A
 |8.9%
 | style="background:#CFE800;" | 2.2%
@@ -341,16 +341,16 @@ Polls from the beginning of the term to the present day. The [[Next Slovak parli
 |AKO<ref name="AKO072020">{{cite web|date=2020|title=Prieskum volebných preferenciído NR SR –JÚL2020po 100 dňoch novej vlády|url=https://ako.sk/wp-content/uploads/2020/07/ag.AKO_VOLEBNE_PREF_JUL_2020.pdf|access-date=2021-03-31|website=ako.sk|format=PDF}}</ref>
 |7–17<br>Jul 2020
 |1,000
-| style="background:#d8e386;" | '''23.5%'''
-|10.7%
-|6.4%
-|7.9%
-|5.2%
-|9.4%
-|4.0%
-|3.0%
-|2.5%
-|16.7%
+| style="background:#d8e386;" | '''23.5%'''<br>{{font|size=85%|font=Arial|text='''44'''}}
+|10.7%<br>{{font|size=85%|font=Arial|text=20}}
+|6.4%<br>{{font|size=85%|font=Arial|text=12}}
+|7.9%<br>{{font|size=85%|font=Arial|text=15}}
+|5.2%<br>{{font|size=85%|font=Arial|text=10}}
+|9.4%<br>{{font|size=85%|font=Arial|text=18}}
+|4.0%<br>{{font|size=85%|font=Arial|text=0}}
+|3.0%<br>{{font|size=85%|font=Arial|text=0}}
+|2.5%<br>{{font|size=85%|font=Arial|text=0}}
+|16.7%<br>{{font|size=85%|font=Arial|text=31}}
 |N/A
 |10.7%
 | style="background:#CFE800;" | 6.8%
@@ -358,15 +358,15 @@ Polls from the beginning of the term to the present day. The [[Next Slovak parli
 |Focus<ref name="Focus062020">{{Cite web|date=2020-06-28|title=S Pellegrinim aj bez neho. Exkluzívny prieskum ukazuje, ako by nová strana zamiešala preferenciami|url=https://www.tvnoviny.sk/na-telo/2000971_s-pellegrinim-aj-bez-neho-exkluzivny-prieskum-ukazuje-ako-by-nova-strana-zamiesala-preferenciami|access-date=2021-03-27|website=tvnoviny.sk|language=sk}}</ref>
 |17–24<br>Jun 2020
 |1,009
-| style="background:#d8e386;" | '''21.2%'''
-|19.0%
-|12.8%
-|9.6%
-|6.2%
-|9.2%
-|3.6%
-|4.6%
-|4.5%
+| style="background:#d8e386;" | '''21.2%'''<br>{{font|size=85%|font=Arial|text='''41'''}}
+|19.0%<br>{{font|size=85%|font=Arial|text=37}}
+|12.8%<br>{{font|size=85%|font=Arial|text=25}}
+|9.6%<br>{{font|size=85%|font=Arial|text=18}}
+|6.2%<br>{{font|size=85%|font=Arial|text=12}}
+|9.2%<br>{{font|size=85%|font=Arial|text=17}}
+|3.6%<br>{{font|size=85%|font=Arial|text=0}}
+|4.6%<br>{{font|size=85%|font=Arial|text=0}}
+|4.5%<br>{{font|size=85%|font=Arial|text=0}}
 |N/A
 |N/A
 |9.3%
@@ -375,15 +375,15 @@ Polls from the beginning of the term to the present day. The [[Next Slovak parli
 |Focus<ref name="Focus052020">{{cite web|date=24 May 2020|title=Press release|url=http://www.focus-research.sk/files/n271_Volebne%20preferencie%20politickych%20stran_maj%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
 |14–21<br>May 2020
 |1,011
-| style="background:#d8e386;" | '''22.9%'''
-|21.6%
-|11.2%
-|9.7%
-|6.5%
-|8.0%
-|4.3%
-|4.8%
-|4.2%
+| style="background:#d8e386;" | '''22.9%'''<br>{{font|size=85%|font=Arial|text='''43'''}}
+|21.6%<br>{{font|size=85%|font=Arial|text=41}}
+|11.2%<br>{{font|size=85%|font=Arial|text=21}}
+|9.7%<br>{{font|size=85%|font=Arial|text=18}}
+|6.5%<br>{{font|size=85%|font=Arial|text=12}}
+|8.0%<br>{{font|size=85%|font=Arial|text=15}}
+|4.3%<br>{{font|size=85%|font=Arial|text=0}}
+|4.8%<br>{{font|size=85%|font=Arial|text=0}}
+|4.2%<br>{{font|size=85%|font=Arial|text=0}}
 |N/A
 |N/A
 |6.8%

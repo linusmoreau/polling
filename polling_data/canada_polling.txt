@@ -27,9 +27,27 @@
 ! style="background:{{Canadian party colour|CA|Green}}" data-sort-type="number"|
 ! style="background:{{Canadian party colour|CA|PPC}}" data-sort-type="number"|
 |-
-|[[Ekos Research Associates|EKOS]] || August 19, 2021 ||[https://www.ekospolitics.com/index.php/2021/08/daily-tracking-august-20-2021/ HTML] || 31.9 || {{Party shading/Liberal}}|'''32.5''' || 19.2 || 5.7 || 4.9 || 5.2 || 0.7 || ±2.6 pp || 1,426 (1/4) || IVR (rolling) || {{Party shading/Liberal}}|'''0.6'''
+| [[Nanos Research]] || {{dts|August 22, 2021}} || [https://nanos.co/wp-content/uploads/2021/08/2021-1947-ELXN44-Nightly-Tracking-Report-2021-08-22.pdf PDF] || 31.4 || {{Party shading/Liberal}}|'''32.5''' || 20.8 || 6.1 || 5.1 || 3.3 || 0.8 || ±2.8 pp || 1,200 (1/3) || telephone (rolling) || {{Party shading/Liberal}}|'''1.1'''
 |-
-| [[Mainstreet Research]] || {{dts|August 19, 2021}} || [https://twitter.com/elxnometre/status/1428773414177845248 Twitter] || 33.1 || {{Party shading/Liberal}}|'''33.4''' || 19.8 || 5.0 || 3.6 || 4.0 || 1.1 || ±2.6 pp || 1,433 (1/4) || IVR (rolling) || {{Party shading/Liberal}}|'''0.3'''
+| [[Mainstreet Research]] || {{dts|August 22, 2021}} || [https://archive.ph/VzSuG HTML] || 31.7 || {{Party shading/Liberal}}|'''32.4''' || 18.2 || 5.9 || 3.3 || 6.6 || 1.0 || ±2.6 pp || 1,467 (1/3) || IVR (rolling) || {{Party shading/Liberal}}|'''0.7'''
+|-
+|[[Ekos Research Associates|EKOS]] || {{dts|August 22, 2021}} ||[https://www.ekospolitics.com/index.php/2021/08/daily-tracking-august-23-2021/ HTML] || 31.7 || {{Party shading/Liberal}}|'''32.9''' || 17.0 || 6.9 || 4.3 || 6.3 || 0.9 || ±2.8 pp || 1,207 (1/4) || IVR (rolling) || {{Party shading/Liberal}}|'''1.2'''
+|-
+| [[Nanos Research]] || {{dts|August 21, 2021}} || [https://nanos.co/wp-content/uploads/2021/08/2021-1947-ELXN44-Nightly-Tracking-Report-2021-08-21.pdf PDF] || 32.4 || {{Party shading/Liberal}}|'''34.3''' || 19.3 || 6.3 || 4.5 || 2.4 || 0.8 || ±2.8 pp || 1,200 (1/3) || telephone (rolling) || {{Party shading/Liberal}}|'''1.9'''
+|-
+| [[Mainstreet Research]] || {{dts|August 21, 2021}} || [https://archive.ph/9eiHL HTML] || 30.9 || {{Party shading/Liberal}}|'''34.0''' || 19.7 || 5.9 || 3.4 || 5.1 || 1.0 || ±2.6 pp || 1,425 (1/3) || IVR (rolling) || {{Party shading/Liberal}}|'''3.1'''
+|-
+|[[Ekos Research Associates|EKOS]] || {{dts|August 21, 2021}} ||[https://www.ekospolitics.com/index.php/2021/08/daily-tracking-august-22-2021/ HTML] || {{Party shading/Conservative (Canada)}}|'''32.8''' || 32.4 || 16.6 || 6.1 || 5.2 || 6.1 || 0.8 || ±2.7 pp || 1,293 (1/4) || IVR (rolling) || {{Party shading/Conservative (Canada)}}|'''0.4'''
+|-
+| [[Nanos Research]] || {{dts|August 20, 2021}} || [https://nanos.co/wp-content/uploads/2021/08/2021-1947-ELXN44-Nightly-Ballot-Tracking-Report-2021-08-20.pdf PDF] || 32.3 || {{Party shading/Liberal}}|'''34.2''' || 20.2 || 6.1 || 4.3 || 2.1 || 0.9 || ±2.8 pp || 1,200 || telephone (rolling) || {{Party shading/Liberal}}|'''1.9'''
+|-
+|[[Ekos Research Associates|EKOS]] || {{dts|August 20, 2021}} ||[https://www.ekospolitics.com/index.php/2021/08/daily-tracking-august-21-2021/ HTML] || {{Party shading/Conservative (Canada)}}|'''32.9''' || 31.4 || 18.3 || 6.2 || 4.9 || 5.7 || 0.6 || ±2.6 pp || 1,444 (1/4) || IVR (rolling) || {{Party shading/Conservative (Canada)}}|'''1.5'''
+|-
+| [[Mainstreet Research]] || {{dts|August 20, 2021}} || [https://archive.vn/cULkX HTML] || 32.6 || {{Party shading/Liberal}}|'''33.9''' || 19.3 || 4.9 || 3.7 || 4.4 || 1.3 || ±2.6 pp || 1,449 (1/4) || IVR (rolling) || {{Party shading/Liberal}}|'''1.3'''
+|-
+|[[Ekos Research Associates|EKOS]] || {{dts|August 19, 2021}} ||[https://www.ekospolitics.com/index.php/2021/08/daily-tracking-august-20-2021/ HTML] || 31.9 || {{Party shading/Liberal}}|'''32.5''' || 19.2 || 5.7 || 4.9 || 5.2 || 0.7 || ±2.6 pp || 1,426 (1/4) || IVR (rolling) || {{Party shading/Liberal}}|'''0.6'''
+|-
+| [[Mainstreet Research]] || {{dts|August 19, 2021}} || [https://archive.ph/7nckB HTML] || 33.1 || {{Party shading/Liberal}}|'''33.4''' || 19.8 || 5.0 || 3.6 || 4.0 || 1.1 || ±2.6 pp || 1,433 (1/4) || IVR (rolling) || {{Party shading/Liberal}}|'''0.3'''
 |-
 | Counsel || {{dts|August 18, 2021}} || [https://counselpa.com/insight/ndp-gains-in-key-battlegrounds-threaten-trudeaus-path-to-majority/ HTML] || 28.5 || {{Party shading/Liberal}}|'''30.3''' || 21.7 || 7.8 || 4.8 || 4.3 || 2.6 || ±1.7 pp || 3,499 || online || {{Party shading/Liberal}}|'''1.8'''
 |-

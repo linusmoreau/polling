@@ -43,6 +43,22 @@
 | 1.5
 | style="background:{{Independence Party (Iceland)/meta/color}};color:#FFFFFF;"| 8.4
 |-
+|[https://www.electograph.com/2021/08/iceland-gallup-poll-17082021-j-67-4-v.html Gallup]
+|29 July–15 August 2021
+|6,238
+|{{N/A}}
+| style="background:#C6ECFB;"| '''24.5'''
+|14.1
+|11.2
+|6.7
+|10.4
+|12.6
+|4.1
+|9.1
+|6.7
+|0.6
+| style="background:{{Independence Party (Iceland)/meta/color}};color:#FFFFFF;"| 10.4
+|-
 |[https://www.gallup.is/nidurstodur/thjodarpuls/fylgi-flokka/ Gallup]
 |30 June–28 July 2021
 |3,800
