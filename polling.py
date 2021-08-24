@@ -86,7 +86,7 @@ def transcribe_table(content, key, choice, begin, start):
                         'margin', 'size', 'method', 'lead', 'end']
                 reset = True
         elif choice == 'Brazil':
-            if 'Before August' in line:
+            if 'Before July-August' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Bolsanaro (APB)', 'Lula (PT)', 'Haddad (PT)', 'Dino (PCdoB)', 'Gomes (PDT)', 'Boulos (PSOL)',
                         'Doria (PSDB)', 'Amoedo (NOVO)', 'Silva (REDE)', 'Moro', 'Huck',
@@ -172,6 +172,12 @@ def transcribe_table(content, key, choice, begin, start):
                 nkey = ['firm', 'date', 'sample',
                         'GERB', 'ITN', 'BSPzB', 'DPS', 'DB', 'IBG-NI', 'BP', 'BP', 'BP', 'Revival', 'BL', 'RzB',
                         'LSChSR',
+                        'Other', 'lead', 'end']
+                reset = True
+        elif choice == 'Norway':
+            if '=== 2020 ===' in line:
+                nkey = ['firm', 'date', 'sample', 'resp',
+                        'R', 'SV', 'MDG', 'Ap', 'Sp', 'V', 'KrF', 'H', 'FrP',
                         'Other', 'lead', 'end']
                 reset = True
         # elif choice == 'Chile':
@@ -660,8 +666,8 @@ def choices_setup():
         'Czechia': {
             'key': ['firm', 'date', 'size', 'turnout',
                     'ANO', 'SPOLU', 'SPOLU', 'SPOLU', 'Pirati+STAN', 'Pirati+STAN', 'SPD', 'KSCM', 'CSSD', 'T-S',
-                    'T-S', 'Z', 'ODA', 'P',
-                    'Other', 'Lead', 'Govt.', 'Opp.', 'end'],
+                    'T-S', 'Z', 'ODA', 'VB', 'P',
+                    'Other', 'Lead', 'Govt.', 'Opp.'],
             'include': ['ANO', 'SPOLU', 'Pirati+STAN', 'SPD', 'KSCM', 'CSSD', 'T-S', 'Z', 'ODA', 'P'],
             'col': {'ANO': (38, 16, 96), 'SPOLU': (35, 44, 119), 'Pirati+STAN': (0, 0, 0), 'SPD': (33, 117, 187),
                     'KSCM': (204, 0, 0), 'CSSD': (236, 88, 0), 'T-S': (0, 150, 130), 'Z': (96, 180, 76),
@@ -999,7 +1005,8 @@ def choices_setup():
             'include': ['R', 'SV', 'MDG', 'Ap', 'Sp', 'V', 'KrF', 'H', 'FrP'],
             'key': ['firm', 'date', 'sample', 'resp',
                     'R', 'SV', 'MDG', 'Ap', 'Sp', 'V', 'KrF', 'H', 'FrP',
-                    'Other', 'lead', 'end'],
+                    'Other', 'lead',
+                    'Red', 'Blue', 'lead', 'end'],
             'col': {'R': (231, 52, 69), 'SV': (188, 33, 73), 'MDG': (106, 147, 37), 'Ap': (227, 24, 54),
                     'Sp': (0, 133, 66),
                     'V': (17, 100, 104), 'KrF': (254, 193, 30), 'H': (135, 173, 215), 'FrP': (2, 76, 147),
