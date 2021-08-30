@@ -34,6 +34,82 @@
 ! style="background:{{Labour Party (Norway)/meta/color}};"|
 ! style="background:{{Conservative Party (Norway)/meta/color}};"|
 |-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4457 Kantar TNS]
+|23–27 Aug 2021
+|996
+|–
+|7.2
+|10.2
+|5.0
+|style="background:#F7BDC5;"|'''22.6'''
+|11.5
+|4.4
+|3.8
+|19.2
+|11.8
+|4.3{{efn|[[Democrats in Norway]] 1.5%, [[The Christians (Norway)|The Christians]] 0.9%, [[Pensioners' Party (Norway)|Pensioners' Party]] 0.7%, [[Capitalist Party]] 0.2%}}
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="1.9" |3.4
+|style="background:#F7BDC5;"|'''51.5'''
+|40.7
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="10.1" | 10.8
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4447 Kantar TNS]
+|22–25 Aug 2021
+|–
+|–
+|6.3
+|9.9
+|5.3
+|style="background:#F7BDC5;"|'''22.4'''
+|11.2
+|4.8
+|3.7
+|20.5
+|10.7
+|5.2
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="1.9" |1.9
+|style="background:#F7BDC5;"|'''49.8'''
+|39.7
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="10.1" | 10.1
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4441 Sentio]
+|17–18 Aug 2021
+|1,000
+|–
+|5.4
+|8.8
+|7.2
+|style="background:#F7BDC5;"|'''23.9'''
+|13.2
+|3.8
+|3.9
+|19.1
+|9.8
+|4.9
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="4.6" |4.8
+|style="background:#F7BDC5;"|'''51.3'''
+|36.6
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="9.3" | 14.7
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4440 Norstat]
+|16–22 Aug 2021
+|–
+|–
+|4.7
+|9.5
+|5.3
+|style="background:#F7BDC5;"|'''26.8'''
+|12.8
+|3.8
+|3.6
+|18.9
+|10.5
+|4.2
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="4.6" |7.9
+|style="background:#F7BDC5;"|'''53.8'''
+|36.8
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="9.3" | 17.0
+|-
 |[http://www.pollofpolls.no/?cmd=Maling&gallupid=4439 Kantar TNS]
 |16–20 Aug 2021
 |992

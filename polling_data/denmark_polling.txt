@@ -41,8 +41,77 @@
 ! data-sort-type="number" style="background:{{Social Democrats (Denmark)/meta/color}};"|
 ! data-sort-type="number" style="background:{{Venstre (Denmark)/meta/color}};"|
 |-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-29-08-2021.pdf Voxmeter]
+|23-29 Aug 2021
+|1,006
+| style="background:#FACECD;" |'''28.4'''
+|15.1
+|5.6
+|5.6
+|8.8
+|9.3
+|13.9
+|0.5
+|5.8
+|2.9
+| -
+|1.8
+| -
+|0.0
+|2.3
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |13.3
+| style="background:#FACECD;" |'''52.6'''
+|45.1
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |7.5
+|-
+|[https://politiken.dk/indland/politik/art8341382/M%C3%A5ling-giver-d%C3%A5rligste-resultat-til-Socialdemokratiet-siden-coronakrisen-startede Megafon]
+|23-26 Aug 2021
+|1,007
+| style="background:#FACECD;" |'''25.2'''
+|12.6
+|6.4
+|4.6
+|9.5
+|10.2
+|16.5
+|0.9
+|8.9
+|2.6
+| -
+|1.8
+| -
+|0.3
+| -
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |8.7
+| style="background:#FACECD;" |'''51.3'''
+|48.7
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |2.6
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-22-08-2021.pdf Voxmeter]
+|16-22 Aug 2021
+|1,003
+| style="background:#FACECD;" |'''29.3'''
+|14.5
+|6.4
+|5.5
+|9.4
+|9.1
+|13.4
+|0.2
+|6.3
+|2.6
+| -
+|2.1
+| -
+|0.1
+|1.1
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |14.8
+| style="background:#FACECD;" |'''53.6'''
+|45.3
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |8.3
+|-
 |[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-15-08-2021.pdf Voxmeter]
-|9–15 Aug 2021
+|9-15 Aug 2021
 |1,007
 | style="background:#FACECD;" |'''30.6'''
 |13.7

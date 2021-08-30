@@ -13,8 +13,8 @@
 ! colspan="2" class="unsortable" style="width:40px;"  |[[Tricolour Citizens' Movement|T]]–[[Svobodní|S]]–[[Freeholder Party of the Czech Republic|SsČR]]
 ! rowspan="2" class="unsortable" style="width:40px;"  |[[Green Party (Czech Republic)|Z]]
 ! rowspan="2" class="unsortable" style="width:40px;"  |[[Alliance for the Future (Czech Republic)|APB]]
-! rowspan="2" class="unsortable" style="width:40px;"  |[[Free bloc|VB]]
-! rowspan="2" class="unsortable" style="width:40px;"  |[[Přísaha|P]]
+! rowspan="2" class="unsortable" style="width:40px;"  |[[Free Bloc|VB]]
+! rowspan="2" class="unsortable" style="width:40px;"  |[[Přísaha|PSH]]
 ! rowspan="3" style="width:40px;"  |Oth.
 ! rowspan="3" style="width:25px;"  |Lead
 ! rowspan="3" style="width:40px;"  |[[Andrej Babiš' Second Cabinet|Govt.]]<br /><small>+ sup.{{efn|[[Communist Party of Bohemia and Moravia]] until 13 April 2021.<ref name="KSČM_endssupport"/>}}</small>
@@ -40,9 +40,9 @@
 ! class="unsortable" style="background:{{Party of Free Citizens/meta/color}};" |
 ! class="unsortable" style="background:{{Tricolour Citizens' Movement/meta/color}};" |
 ! class="unsortable" style="background:{{Green Party (Czech Republic)/meta/color}};" |
-! class="unsortable" style="background:#002D72;" |
-! class="unsortable" style="background:red |
-! class="unsortable" style="background:#0033FF;" |
+! class="unsortable" style="background:{{Alliance for the Future (Czech Republic)/meta/color}};" |
+! class="unsortable" style="background:{{Free Bloc/meta/color}} |
+! class="unsortable" style="background:{{Přísaha/meta/color}};" |
 |-
 |rowspan="2" |[https://ct24.ceskatelevize.cz/domaci/3357414-model-kantaru-ano-strme-roste-opozicni-koalice-se-pretahuji-o-druhou-pozici Kantar CZ]
 |rowspan="2" |2 – 13 Aug
@@ -102,6 +102,26 @@
 |style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |9.4
 |'''34.7'''
 |{{No|'''57.4'''}}
+|-
+|[https://www.phoenixresearch.cz/dnld/Phoenixresearch-preference-a-potencial-CR-8-2021-(LQ).pdf Phoenix Research]
+|1–10 Aug
+|1,066
+|58.9
+|{{Party shading/ANO 2011}}|'''24.4'''
+| colspan="3" |18.0
+|colspan="2"|18.0
+|11.5
+|4.2
+|5.1
+|colspan="2"|3.1
+|1.1
+|2.5
+|{{N/A}}
+|6.0
+|2.6
+|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |6.4
+|'''29.5'''
+|{{No|'''51.7'''}}
 |-
 |[https://www.median.eu/cs/wp-content/uploads/2021/08/Volby_2021_07_v04.pdf Median]
 |1–31 Jul

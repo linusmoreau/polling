@@ -1,20 +1,20 @@
 === 2021 ===
 
-{|class="wikitable sortable tpl-blanktable mw-collapsible" style="text-align:center;font-size:90%;line-height:14px;"
+{| class="wikitable sortable tpl-blanktable mw-collapsible" style="text-align:center;font-size:90%;line-height:14px;"
 |- style="height:40px;"
-! style="width:180px;" rowspan="2"|Polling firm
-! style="width:125px;" rowspan="2"|Fieldwork date
-! style="width:35px;" rowspan="2"|Sample<br>size
-! style="width:30px;" rowspan="2"|{{abbr|Abs.|Abstention}}
-! class="unsortable" style="width:40px;"|[[CDU/CSU|Union]]
-! class="unsortable" style="width:40px;"|[[Social Democratic Party of Germany|SPD]]
-! class="unsortable" style="width:40px;"|[[Alternative for Germany|AfD]]
-! class="unsortable" style="width:40px;"|[[Free Democratic Party (Germany)|FDP]]
-! class="unsortable" style="width:40px;"|[[The Left (Germany)|Linke]]
-! class="unsortable" style="width:40px;"|[[Alliance 90/The Greens|Grüne]]
-! class="unsortable" style="width:40px;"|[[Free Voters|FW]]
-! class="unsortable" style="width:30px;" rowspan="2"|Others
-! style="width:30px;" rowspan="2"|Lead
+! style="width:180px;" rowspan="2"| Polling firm
+! style="width:125px;" rowspan="2"| Fieldwork date
+! style="width:35px;" rowspan="2"| Sample<br>size
+! style="width:30px;" rowspan="2"| {{abbr|Abs.|Abstention}}
+! class="unsortable" style="width:40px;"| [[CDU/CSU|Union]]
+! class="unsortable" style="width:40px;"| [[Social Democratic Party of Germany|SPD]]
+! class="unsortable" style="width:40px;"| [[Alternative for Germany|AfD]]
+! class="unsortable" style="width:40px;"| [[Free Democratic Party (Germany)|FDP]]
+! class="unsortable" style="width:40px;"| [[The Left (Germany)|Linke]]
+! class="unsortable" style="width:40px;"| [[Alliance 90/The Greens|Grüne]]
+! class="unsortable" style="width:40px;"| [[Free Voters| FW]]
+! class="unsortable" style="width:30px;" rowspan="2"| Others
+! style="width:30px;" rowspan="2"| Lead
 |-
 ! style="background:{{CDU/CSU/meta/color}};"|
 ! style="background:{{Social Democratic Party of Germany/meta/color}};"|
@@ -25,11 +25,109 @@
 ! style="background:{{Freie Wähler/meta/color}};"|
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-08-30"| 27–30 Aug 2021
+| 2,015
+| –
+| 20
+| {{Party shading/SPD}}| '''25'''
+| 11
+| 13.5
+| 7
+| 16.5
+| –
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-08-28"| 23–27 Aug 2021
+| 1,247
+| –
+| 21
+| {{Party shading/SPD}}| '''24'''
+| 11
+| 13
+| 6
+| 17
+| –
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 3
+|-
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| data-sort-value="2021-08-27"| 24–26 Aug 2021
+| 1,300
+| 27
+| {{Party shading/CDU}}| '''22'''
+| {{Party shading/SPD}}| '''22'''
+| 11
+| 10
+| 6
+| 20
+| 3
+| 6
+| data-sort-value="0"| Tie
+|-
+| [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
+| data-sort-value="2021-08-28"| 18–26 Aug 2021
+| 1,038
+| –
+| {{Party shading/CDU}}| '''26'''
+| 24
+| 10.5
+| 10.5
+| 6
+| 17
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.spiegel.de/politik/deutschland/olaf-scholz-legt-zu-spd-und-union-gleichauf-spiegel-umfrage-a-a9a15599-f4cf-465d-b3d4-756c4a60aaf4 Civey]
+| data-sort-value="2021-08-25"| 18–25 Aug 2021
+| 10,054
+| –
+| {{Party shading/CDU}}| '''22'''
+| {{Party shading/SPD}}| '''22'''
+| 12
+| 12
+| 7
+| 18
+| –
+| 7
+| data-sort-value="0"| Tie
+|-
+| [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
+| data-sort-value="2021-08-27"| 20–24 Aug 2021
+| 1,689
+| –
+| 22
+| {{Party shading/SPD}}| '''24'''
+| 11
+| 13
+| 8
+| 16
+| –
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-08-26"| 18–24 Aug 2021
+| 1,919
+| –
+| {{Party shading/CDU}}| '''23'''
+| {{Party shading/SPD}}| '''23'''
+| 11
+| 12
+| 7
+| 18
+| –
+| 6
+| data-sort-value="0"| Tie
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | data-sort-value="2021-08-23"| 20–23 Aug 2021
 | 2,119
 | –
-| style="background:#D7D5D7;"| '''23'''
-| style="background:#FFCCCC;"| '''23'''
+| {{Party shading/CDU}}| '''23'''
+| {{Party shading/SPD}}| '''23'''
 | 11
 | 13
 | 7
@@ -38,12 +136,26 @@
 | 6
 | data-sort-value="0"| Tie
 |-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-08-24"| 16–23 Aug 2021
+| 2,504
+| 26
+| 22
+| {{Party shading/SPD}}| '''23'''
+| 10
+| 12
+| 6
+| 18
+| –
+| 9
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 1
+|-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
-| data-sort-value="2021-08-20"| 16–20 Aug 2021
+| data-sort-value="2021-08-21"| 16–20 Aug 2021
 | 1,352
 | –
-| style="background:#D7D5D7;"| '''22'''
-| style="background:#FFCCCC;"| '''22'''
+| {{Party shading/CDU}}| '''22'''
+| {{Party shading/SPD}}| '''22'''
 | 12
 | 13
 | 7
@@ -56,7 +168,7 @@
 | data-sort-value="2021-08-19"| 17–18 Aug 2021
 | 1,219
 | –
-| style="background:#D7D5D7;"| '''23'''
+| {{Party shading/CDU}}| '''23'''
 | 21
 | 11
 | 13
@@ -66,11 +178,39 @@
 | 8
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
 |-
+| [https://www.wahlrecht.de/umfragen/weitere-umfragen.htm Trend Research]
+| data-sort-value="2021-08-18"| 12–18 Aug 2021
+| 1,798
+| –
+| {{Party shading/CDU}}| '''23'''
+| 21
+| 12
+| 13
+| 7
+| 17
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-grosse-mehrheit-haelt-armin-laschet-und-annalena-baerbock-aussenpolitisch-fuer-nicht-kompetent-a-59738f70-3440-4093-b4fd-50f8874673de Civey]
+| data-sort-value="2021-08-18"| 11–18 Aug 2021
+| 10,117
+| –
+| {{Party shading/CDU}}| '''24'''
+| 19
+| 11
+| 12
+| 7
+| 20
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
+|-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
 | data-sort-value="2021-08-19"| 11–17 Aug 2021
 | 1,920
 | –
-| style="background:#D7D5D7;"| '''22'''
+| {{Party shading/CDU}}| '''22'''
 | 21
 | 11
 | 12
@@ -84,7 +224,7 @@
 | data-sort-value="2021-08-19"| 5–17 Aug 2021
 | 1,018
 | –
-| style="background:#D7D5D7;"| '''27.5'''
+| {{Party shading/CDU}}| '''27.5'''
 | 19.5
 | 11
 | 11
@@ -98,7 +238,7 @@
 | data-sort-value="2021-08-15"| 13–16 Aug 2021
 | 2,080
 | –
-| style="background:#D7D5D7;"| '''25'''
+| {{Party shading/CDU}}| '''25'''
 | 20
 | 11
 | 12.5
@@ -108,11 +248,11 @@
 | 7.5
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
 |-
-| [https://www.wahlrecht.de/umfrage/forsa.htm Forsa]
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
 | data-sort-value="2021-08-18"| 10–16 Aug 2021
 | 2,501
 | 26
-| style="background:#D7D5D7;"| '''23'''
+| {{Party shading/CDU}}| '''23'''
 | 21
 | 10
 | 12
@@ -126,7 +266,7 @@
 | data-sort-value="2021-08-15"| 9–13 Aug 2021
 | 1,450
 | –
-| style="background:#D7D5D7;"| '''25'''
+| {{Party shading/CDU}}| '''25'''
 | 20
 | 11
 | 12
@@ -140,7 +280,7 @@
 | data-sort-value="2021-08-13"| 10–12 Aug 2021
 | 1,252
 | 25
-| style="background:#D7D5D7;"| '''26'''
+| {{Party shading/CDU}}| '''26'''
 | 19
 | 11
 | 11
@@ -150,11 +290,25 @@
 | 7
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
 |-
+| [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-markus-soeder-statt-armin-laschet-unionswaehler-wollen-wechsel-a-4f534e4b-6bbf-4cce-818a-2467b99ce6c8 Civey]
+| data-sort-value="2021-08-11"| 4–11 Aug 2021
+| 10,116
+| –
+| {{Party shading/CDU}}| '''24'''
+| 18
+| 11
+| 12
+| 7
+| 20
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
+|-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
 | data-sort-value="2021-08-11"| 4–10 Aug 2021
 | 1,446
 | –
-| style="background:#D7D5D7;"| '''22'''
+| {{Party shading/CDU}}| '''22'''
 | 19
 | 11
 | 12
@@ -168,7 +322,7 @@
 | data-sort-value="2021-08-09"| 6–9 Aug 2021
 | 2,118
 | –
-| style="background:#D7D5D7;"| '''25.5'''
+| {{Party shading/CDU}}| '''25.5'''
 | 17.5
 | 11.5
 | 12.5
@@ -182,7 +336,7 @@
 | 3–9 Aug 2021
 | 2,509
 | 26
-| style="background:#D7D5D7;"| '''23'''
+| {{Party shading/CDU}}| '''23'''
 | 19
 | 10
 | 12
@@ -196,7 +350,7 @@
 | data-sort-value="2021-08-08"| 2–6 Aug 2021
 | 2,002
 | –
-| style="background:#D7D5D7;"| '''26'''
+| {{Party shading/CDU}}| '''26'''
 | 18
 | 11
 | 12
@@ -210,7 +364,7 @@
 | data-sort-value="2021-08-05"| 2–4 Aug 2021
 | 1,312
 | –
-| style="background:#D7D5D7;"| '''27'''
+| {{Party shading/CDU}}| '''27'''
 | 18
 | 10
 | 12
@@ -220,11 +374,25 @@
 | 8
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
+| [https://www.spiegel.de/politik/deutschland/bundestagswahl-zustimmung-fuer-armin-laschet-sinkt-a-645bcbbe-2a93-49e5-99b0-8a15bc314c56 Civey]
+| data-sort-value="2021-08-04"| 28 Jul–4 Aug 2021
+| 10,217
+| –
+| {{Party shading/CDU}}| '''25'''
+| 17
+| 11
+| 12
+| 6
+| 21
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
+|-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
 | data-sort-value="2021-08-04"| 28 Jul–3 Aug 2021
 | 1,413
 | –
-| style="background:#D7D5D7;"| '''24'''
+| {{Party shading/CDU}}| '''24'''
 | 18
 | 11
 | 13
@@ -238,7 +406,7 @@
 | data-sort-value="2021-08-02"| 30 Jul–2 Aug 2021
 | 2,080
 | –
-| style="background:#D7D5D7;"| '''27.5'''
+| {{Party shading/CDU}}| '''27.5'''
 | 18
 | 11
 | 13
@@ -248,11 +416,11 @@
 | 5.5
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 9.5
 |-
-| [https://www.wahlrecht.de/umfrage/forsa.htm Forsa]
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
 | data-sort-value="2021-08-03"| 27 Jul–2 Aug 2021
 | 2,502
 | 25
-| style="background:#D7D5D7;"| '''26'''
+| {{Party shading/CDU}}| '''26'''
 | 16
 | 10
 | 13
@@ -266,7 +434,7 @@
 | data-sort-value="2021-06-29"| 21–31 Jul 2021
 | 2,002
 | –
-| style="background:#D7D5D7;"| '''27'''
+| {{Party shading/CDU}}| '''27'''
 | 18
 | 11
 | 10
@@ -280,7 +448,7 @@
 | data-sort-value="2021-08-01"| 26–30 Jul 2021
 | 1,196
 | –
-| style="background:#D7D5D7;"| '''27'''
+| {{Party shading/CDU}}| '''27'''
 | 17
 | 11
 | 13
@@ -294,7 +462,7 @@
 | data-sort-value="2021-07-30"| 27–29 Jul 2021
 | 1,268
 | 22
-| style="background:#D7D5D7;"| '''28'''
+| {{Party shading/CDU}}| '''28'''
 | 16
 | 11
 | 10
@@ -304,11 +472,25 @@
 | 4
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
 |-
+| [https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-mehrheit-befuerwortet-corona-impfpflicht-a-201b9fe1-6f99-463b-9d57-c3eec97982b6 Civey]
+| data-sort-value="2021-07-28"| 21–28 Jul 2021
+| 10,111
+| –
+| {{Party shading/CDU}}| '''26'''
+| 17
+| 11
+| 12
+| 7
+| 21
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
+|-
 | [https://www.wahlrecht.de/umfragen/gms.htm GMS]
 | data-sort-value="2021-07-27"| 21–27 Jul 2021
 | 1,003
 | –
-| style="background:#D7D5D7;"| '''30'''
+| {{Party shading/CDU}}| '''30'''
 | 15
 | 10
 | 12
@@ -322,7 +504,7 @@
 | data-sort-value="2021-07-30"| 20–27 Jul 2021
 | 1,441
 | –
-| style="background:#D7D5D7;"| '''27'''
+| {{Party shading/CDU}}| '''27'''
 | 17
 | 11
 | 13
@@ -336,7 +518,7 @@
 | data-sort-value="2021-07-30"| 23–26 Jul 2021
 | 1,748
 | –
-| style="background:#D7D5D7;"| '''28'''
+| {{Party shading/CDU}}| '''28'''
 | 16
 | 12
 | 12
@@ -350,7 +532,7 @@
 | data-sort-value="2021-07-26"| 23–26 Jul 2021
 | 2,007
 | –
-| style="background:#D7D5D7;"| '''27'''
+| {{Party shading/CDU}}| '''27'''
 | 17.5
 | 12
 | 13
@@ -360,11 +542,11 @@
 | 7
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 9.5
 |-
-| [https://www.wahlrecht.de/umfrage/forsa.htm Forsa]
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
 | data-sort-value="2021-07-28"| 20–26 Jul 2021
 | 2,501
 | 25
-| style="background:#D7D5D7;"| '''26'''
+| {{Party shading/CDU}}| '''26'''
 | 15
 | 10
 | 13
@@ -378,7 +560,7 @@
 | data-sort-value="2021-07-25"| 19–23 Jul 2021
 | 1,316
 | –
-| style="background:#D7D5D7;"| '''27'''
+| {{Party shading/CDU}}| '''27'''
 | 17
 | 11
 | 13
@@ -392,7 +574,7 @@
 | data-sort-value="2021-07-28"| 3–22 Jul 2021
 | 1,243
 | –
-| style="background:#D7D5D7;"| '''30'''
+| {{Party shading/CDU}}| '''30'''
 | 16
 | 9.5
 | 12
@@ -406,7 +588,7 @@
 | data-sort-value="2021-07-22"| 20–21 Jul 2021
 | 1,188
 | –
-| style="background:#D7D5D7;"| '''29'''
+| {{Party shading/CDU}}| '''29'''
 | 16
 | 10
 | 12
@@ -416,11 +598,25 @@
 | 5
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 10
 |-
+| [https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-zweifelt-an-laschets-klimakompetenz-a-afc15a34-1b30-4858-8e00-570b18d4ed41 Civey]
+| data-sort-value="2021-07-21"| 14–21 Jul 2021
+| 9,999
+| –
+| {{Party shading/CDU}}| '''26'''
+| 17
+| 11
+| 11
+| 6
+| 21
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
+|-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
 | data-sort-value="2021-07-23"| 14–20 Jul 2021
 | 1,421
 | –
-| style="background:#D7D5D7;"| '''28'''
+| {{Party shading/CDU}}| '''28'''
 | 16
 | 11
 | 12
@@ -434,7 +630,7 @@
 | data-sort-value="2021-07-19"| 16–19 Jul 2021
 | 2,064
 | –
-| style="background:#D7D5D7;"| '''29'''
+| {{Party shading/CDU}}| '''29'''
 | 16.5
 | 11.5
 | 12
@@ -444,11 +640,11 @@
 | 7
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 11
 |-
-| [https://www.wahlrecht.de/umfrage/forsa.htm Forsa]
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
 | data-sort-value="2021-07-21"| 13–19 Jul 2021
 | 2,503
 | 22
-| style="background:#D7D5D7;"| '''28'''
+| {{Party shading/CDU}}| '''28'''
 | 16
 | 10
 | 12
@@ -462,7 +658,7 @@
 | data-sort-value="2021-07-18"| 12–16 Jul 2021
 | 1,354
 | –
-| style="background:#D7D5D7;"| '''28'''
+| {{Party shading/CDU}}| '''28'''
 | 17
 | 11
 | 12
@@ -476,7 +672,7 @@
 | data-sort-value="2021-07-16"| 13–15 Jul 2021
 | 1,224
 | 27
-| style="background:#D7D5D7;"| '''30'''
+| {{Party shading/CDU}}| '''30'''
 | 15
 | 10
 | 10
@@ -486,11 +682,25 @@
 | 8
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 10
 |-
+| [https://www.spiegel.de/politik/deutschland/annalena-baerbock-und-olaf-scholz-liefern-sich-kopf-an-kopf-rennen-umfrage-zur-bundestagswahl-a-a21a49c1-3f93-48a3-a1b3-91adfd4cd7f1 Civey]
+| data-sort-value="2021-07-14"| 7–14 Jul 2021
+| 10,110
+| –
+| {{Party shading/CDU}}| '''28'''
+| 19
+| 10
+| 11
+| 6
+| 20
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
+|-
 | [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach (intermediate result)]
 | data-sort-value="2021-07-20"| 3–14 Jul 2021
 | 1,028
 | –
-| style="background:#D7D5D7;"| '''31.5'''
+| {{Party shading/CDU}}| '''31.5'''
 | 16.5
 | 9.5
 | 12
@@ -504,7 +714,7 @@
 | data-sort-value="2021-07-16"| 7–13 Jul 2021
 | 1,495
 | –
-| style="background:#D7D5D7;"| '''28'''
+| {{Party shading/CDU}}| '''28'''
 | 15
 | 11
 | 11
@@ -514,2006 +724,2187 @@
 | 7
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-07-12"|9–12 Jul 2021
-|2,087
-|–
-|style="background:#D7D5D7;"|'''28'''
-|17
-|11
-|12.5
-|7
-|17
-|–
-|7.5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|11
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-07-12"| 9–12 Jul 2021
+| 2,087
+| –
+| {{Party shading/CDU}}| '''28'''
+| 17
+| 11
+| 12.5
+| 7
+| 17
+| –
+| 7.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 11
 |-
-|[https://www.wahlrecht.de/umfrage/forsa.htm Forsa]
-|data-sort-value="2021-07-14"|6–12 Jul 2021
-|2,502
-|22
-|style="background:#D7D5D7;"|'''30'''
-|15
-|9
-|12
-|7
-|19
-|–
-|8
-|style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"|11
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-07-14"| 6–12 Jul 2021
+| 2,502
+| 22
+| {{Party shading/CDU}}| '''30'''
+| 15
+| 9
+| 12
+| 7
+| 19
+| –
+| 8
+| style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"| 11
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-07-11"|5–9 Jul 2021
-|1,352
-|–
-|style="background:#D7D5D7;"|'''28'''
-|17
-|11
-|12
-|8
-|17
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|11
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-07-11"| 5–9 Jul 2021
+| 1,352
+| –
+| {{Party shading/CDU}}| '''28'''
+| 17
+| 11
+| 12
+| 8
+| 17
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 11
 |-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-07-10"|29 Jun–6 Jul 2021
-|1,405
-|–
-|style="background:#D7D5D7;"|'''29'''
-|15
-|11
-|11
-|8
-|19
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|10
+| [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-mehrheit-traut-annalena-baerbock-am-ehesten-zu-deutschland-zu-modernisieren-a-f39c41dd-3fa9-4060-942c-d08e795e73ce Civey]
+| data-sort-value="2021-07-07"| 30 Jun–7 Jul 2021
+| 10,069
+| –
+| {{Party shading/CDU}}| '''30'''
+| 18
+| 9
+| 11
+| 6
+| 21
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 9
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-07-05"|2–5 Jul 2021
-|2,056
-|–
-|style="background:#D7D5D7;"|'''29'''
-|16.5
-|10
-|12.5
-|7
-|18
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|11
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-07-10"| 29 Jun–6 Jul 2021
+| 1,405
+| –
+| {{Party shading/CDU}}| '''29'''
+| 15
+| 11
+| 11
+| 8
+| 19
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 10
 |-
-|[https://www.wahlrecht.de/umfrage/forsa.htm Forsa]
-|data-sort-value="2021-07-07"|29 Jun–5 Jul 2021
-|2,505
-|22
-|style="background:#D7D5D7;"|'''30'''
-|15
-|10
-|11
-|7
-|19
-|–
-|8
-|style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"|11
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-07-05"| 2–5 Jul 2021
+| 2,056
+| –
+| {{Party shading/CDU}}| '''29'''
+| 16.5
+| 10
+| 12.5
+| 7
+| 18
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 11
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-07-04"|28 Jun–2 Jul 2021
-|1,352
-|–
-|style="background:#D7D5D7;"|'''28'''
-|17
-|10
-|12
-|7
-|18
-|–
-|8
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|10
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-07-07"| 29 Jun–5 Jul 2021
+| 2,505
+| 22
+| {{Party shading/CDU}}| '''30'''
+| 15
+| 10
+| 11
+| 7
+| 19
+| –
+| 8
+| style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"| 11
 |-
-|[https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
-|data-sort-value="2021-07-01"|28–30 Jun 2021
-|1,317
-|–
-|style="background:#D7D5D7;"|'''28'''
-|15
-|11
-|11
-|7
-|20
-|–
-|8
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-07-04"| 28 Jun–2 Jul 2021
+| 1,352
+| –
+| {{Party shading/CDU}}| '''28'''
+| 17
+| 10
+| 12
+| 7
+| 18
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 10
 |-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-07-02"|23–29 Jun 2021
-|1,418
-|–
-|style="background:#D7D5D7;"|'''28'''
-|16
-|11
-|10
-|7
-|20
-|–
-|8
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-07-01"| 28–30 Jun 2021
+| 1,317
+| –
+| {{Party shading/CDU}}| '''28'''
+| 15
+| 11
+| 11
+| 7
+| 20
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
-|[https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
-|data-sort-value="2021-07-02"|25–28 Jun 2021
-|1,648
-|–
-|style="background:#D7D5D7;"|'''30'''
-|15
-|11
-|11
-|7
-|19
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|11
+| [https://www.spiegel.de/politik/deutschland/cdu-csu-halten-gruene-auf-abstand-spiegel-umfrage-zur-bundestagswahl-2021-a-8a73595b-6c33-41a0-88b9-ad552a045d20 Civey]
+| data-sort-value="2021-06-30"| 23–30 Jun 2021
+| 10,068
+| –
+| {{Party shading/CDU}}| '''29'''
+| 17
+| 9
+| 12
+| 6
+| 22
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-06-28"|25–28 Jun 2021
-|2,060
-|–
-|style="background:#D7D5D7;"|'''29.5'''
-|16
-|11
-|13
-|7.5
-|18
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|11.5
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-07-02"| 23–29 Jun 2021
+| 1,418
+| –
+| {{Party shading/CDU}}| '''28'''
+| 16
+| 11
+| 10
+| 7
+| 20
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
-|[https://www.wahlrecht.de/umfrage/forsa.htm Forsa]
-|data-sort-value="2021-06-30"|22–28 Jun 2021
-|2,501
-|22
-|style="background:#D7D5D7;"|'''30'''
-|14
-|9
-|12
-|7
-|20
-|–
-|8
-|style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"|10
+| [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
+| data-sort-value="2021-07-02"| 25–28 Jun 2021
+| 1,648
+| –
+| {{Party shading/CDU}}| '''30'''
+| 15
+| 11
+| 11
+| 7
+| 19
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 11
 |-
-|[https://www.wahlrecht.de/umfragen/ipsos.htm Ipsos]
-|data-sort-value="2021-06-29"|21–27 Jun 2021
-|2,002
-|–
-|style="background:#D7D5D7;"|'''28'''
-|15
-|10
-|11
-|8
-|21
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-06-28"| 25–28 Jun 2021
+| 2,060
+| –
+| {{Party shading/CDU}}| '''29.5'''
+| 16
+| 11
+| 13
+| 7.5
+| 18
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 11.5
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-06-27"|21–25 Jun 2021
-|1,203
-|–
-|style="background:#D7D5D7;"|'''28'''
-|17
-|11
-|12
-|7
-|19
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|9
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-06-30"| 22–28 Jun 2021
+| 2,501
+| 22
+| {{Party shading/CDU}}| '''30'''
+| 14
+| 9
+| 12
+| 7
+| 20
+| –
+| 8
+| style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"| 10
 |-
-|[https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
-|data-sort-value="2021-06-25"|22–24 Jun 2021
-|1,271
-|24
-|style="background:#D7D5D7;"|'''29'''
-|14
-|10
-|10
-|7
-|22
-|–
-|8
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
+| [https://www.wahlrecht.de/umfragen/ipsos.htm Ipsos]
+| data-sort-value="2021-06-29"| 21–27 Jun 2021
+| 2,002
+| –
+| {{Party shading/CDU}}| '''28'''
+| 15
+| 10
+| 11
+| 8
+| 21
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
 |-
-|[https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
-|data-sort-value="2021-06-24"|22–23 Jun 2021
-|1,217
-|–
-|style="background:#D7D5D7;"|'''28'''
-|15
-|12
-|11
-|6
-|21
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-06-27"| 21–25 Jun 2021
+| 1,203
+| –
+| {{Party shading/CDU}}| '''28'''
+| 17
+| 11
+| 12
+| 7
+| 19
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 9
 |-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-06-25"|15–22 Jun 2021
-|1,430
-|–
-|style="background:#D7D5D7;"|'''28'''
-|17
-|10
-|11
-|7
-|19
-|–
-|8
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|9
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| data-sort-value="2021-06-25"| 22–24 Jun 2021
+| 1,271
+| 24
+| {{Party shading/CDU}}| '''29'''
+| 14
+| 10
+| 10
+| 7
+| 22
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
 |-
-|[https://www.wahlrecht.de/umfrage/forsa.htm Forsa]
-|data-sort-value="2021-06-23"|15–21 Jun 2021
-|2,502
-|24
-|style="background:#D7D5D7;"|'''29'''
-|15
-|9
-|13
-|6
-|21
-|–
-|7
-|style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"|8
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-06-24"| 22–23 Jun 2021
+| 1,217
+| –
+| {{Party shading/CDU}}| '''28'''
+| 15
+| 12
+| 11
+| 6
+| 21
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-06-21"|18–21 Jun 2021
-|2,082
-|–
-|style="background:#D7D5D7;"|'''28.5'''
-|15.5
-|10.5
-|14
-|7
-|19
-|–
-|5.5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|9.5
+| [https://www.spiegel.de/politik/deutschland/umfrage-zu-annalena-baerbock-armin-laschet-und-olaf-scholz-die-qualitaeten-der-kanzlerkandidaten-a-759c7438-274b-4027-a009-f72dc9f780f5 Civey]
+| data-sort-value="2021-06-23"| 16–23 Jun 2021
+| 10,087
+| –
+| {{Party shading/CDU}}| '''30'''
+| 16
+| 9
+| 12
+| 6
+| 22
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
-|[https://www.wahlrecht.de/umfragen/gms.htm GMS]
-|data-sort-value="2021-06-21"|16–21 Jun 2021
-|1,002
-|–
-|style="background:#D7D5D7;"|'''28'''
-|16
-|10
-|12
-|8
-|20
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-06-25"| 15–22 Jun 2021
+| 1,430
+| –
+| {{Party shading/CDU}}| '''28'''
+| 17
+| 10
+| 11
+| 7
+| 19
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 9
 |-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-06-23"|15–21 Jun 2021
-|2,502
-|24
-|style="background:#D7D5D7;"|'''29'''
-|15
-|9
-|13
-|6
-|21
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-06-23"| 15–21 Jun 2021
+| 2,502
+| 24
+| {{Party shading/CDU}}| '''29'''
+| 15
+| 9
+| 13
+| 6
+| 21
+| –
+| 7
+| style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-06-20"|14–18 Jun 2021
-|1,502
-|–
-|style="background:#D7D5D7;"|'''28'''
-|16
-|11
-|13
-|6
-|20
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-06-21"| 18–21 Jun 2021
+| 2,082
+| –
+| {{Party shading/CDU}}| '''28.5'''
+| 15.5
+| 10.5
+| 14
+| 7
+| 19
+| –
+| 5.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 9.5
 |-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-06-18"|9–15 Jun 2021
-|1,413
-|–
-|style="background:#D7D5D7;"|'''27'''
-|17
-|10
-|12
-|7
-|20
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
+| [https://www.wahlrecht.de/umfragen/gms.htm GMS]
+| data-sort-value="2021-06-21"| 16–21 Jun 2021
+| 1,002
+| –
+| {{Party shading/CDU}}| '''28'''
+| 16
+| 10
+| 12
+| 8
+| 20
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-06-14"|11–14 Jun 2021
-|2,038
-|–
-|style="background:#D7D5D7;"|'''27.5'''
-|16.5
-|11
-|13.5
-|6
-|19.5
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-06-23"| 15–21 Jun 2021
+| 2,502
+| 24
+| {{Party shading/CDU}}| '''29'''
+| 15
+| 9
+| 13
+| 6
+| 21
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-06-16"|8–14 Jun 2021
-|2,501
-|24
-|style="background:#D7D5D7;"|'''28'''
-|14
-|9
-|14
-|7
-|21
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-06-20"| 14–18 Jun 2021
+| 1,502
+| –
+| {{Party shading/CDU}}| '''28'''
+| 16
+| 11
+| 13
+| 6
+| 20
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-06-12"|7–11 Jun 2021
-|1,401
-|–
-|style="background:#D7D5D7;"|'''27'''
-|16
-|11
-|13
-|7
-|20
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
+| [https://spiegel.disable.pw/politik/deutschland/annalena-baerbock-mehrheit-der-deutschen-will-kanzlerkandidatin-nicht-als-regierungschefin-a-61c7713d-0339-47ef-8b42-99fdc4cc354b Civey]
+| data-sort-value="2021-06-16"| 9–16 Jun 2021
+| 10,094
+| –
+| {{Party shading/CDU}}| '''30'''
+| 16
+| 9
+| 13
+| 6
+| 21
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 9
 |-
-|[https://redfieldandwiltonstrategies.com/german-federal-election-voting-intention-8-june-2021/ Redfield & Wilton Strategies]
-|data-sort-value="2021-06-25"|8–9 Jun 2021
-|1,500
-|–
-|style="background:#D7D5D7;"|'''23'''
-|18
-|13
-|14
-|12
-|15
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-06-18"| 9–15 Jun 2021
+| 1,413
+| –
+| {{Party shading/CDU}}| '''27'''
+| 17
+| 10
+| 12
+| 7
+| 20
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
 |-
-|[https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
-|data-sort-value="2021-06-10"|7–9 Jun 2021
-|1,316
-|–
-|style="background:#D7D5D7;"|'''28'''
-|14
-|12
-|12
-|7
-|20
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-06-14"| 11–14 Jun 2021
+| 2,038
+| –
+| {{Party shading/CDU}}| '''27.5'''
+| 16.5
+| 11
+| 13.5
+| 6
+| 19.5
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
-|[https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
-|data-sort-value="2021-06-10"|7–9 Jun 2021
-|1,232
-|21
-|style="background:#D7D5D7;"|'''28'''
-|15
-|11
-|10
-|7
-|22
-|3
-|4
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|6
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-06-16"| 8–14 Jun 2021
+| 2,501
+| 24
+| {{Party shading/CDU}}| '''28'''
+| 14
+| 9
+| 14
+| 7
+| 21
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
 |-
-|[https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
-|data-sort-value="2021-06-16"|28 May–9 Jun 2021
-|1,070
-|–
-|style="background:#D7D5D7;"|'''29.5'''
-|17
-|9
-|11
-|7
-|21.5
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-06-12"| 7–11 Jun 2021
+| 1,401
+| –
+| {{Party shading/CDU}}| '''27'''
+| 16
+| 11
+| 13
+| 7
+| 20
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
 |-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-06-11"|2–8 Jun 2021
-|1,421
-|–
-|style="background:#D7D5D7;"|'''26'''
-|16
-|11
-|13
-|7
-|21
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
+| [https://redfieldandwiltonstrategies.com/german-federal-election-voting-intention-8-june-2021/ Redfield & Wilton Strategies]
+| data-sort-value="2021-06-25"| 8–9 Jun 2021
+| 1,500
+| –
+| {{Party shading/CDU}}| '''23'''
+| 18
+| 13
+| 14
+| 12
+| 15
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-06-07"|4–7 Jun 2021
-|2,015
-|–
-|style="background:#D7D5D7;"|'''26.5'''
-|15.5
-|11
-|13.5
-|7
-|20.5
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|6
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-06-10"| 7–9 Jun 2021
+| 1,316
+| –
+| {{Party shading/CDU}}| '''28'''
+| 14
+| 12
+| 12
+| 7
+| 20
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-06-09"|1–7 Jun 2021
-|2,501
-|24
-|style="background:#D7D5D7;"|'''27'''
-|14
-|9
-|14
-|6
-|22
-|–
-|8
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| data-sort-value="2021-06-10"| 7–9 Jun 2021
+| 1,232
+| 21
+| {{Party shading/CDU}}| '''28'''
+| 15
+| 11
+| 10
+| 7
+| 22
+| 3
+| 4
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 6
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-06-06"|31 May–4 Jun 2021
-|1,380
-|–
-|style="background:#D7D5D7;"|'''26'''
-|17
-|12
-|12
-|6
-|21
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
+| [https://www.spiegel.de/politik/deutschland/bundestagswahl-union-behauptet-vorsprung-vor-gruenen-spiegel-umfrage-a-04ccf7a2-ecd6-411e-a413-e8e8564c7346 Civey]
+| data-sort-value="2021-06-09"| 2–9 Jun 2021
+| 10,096
+| –
+| {{Party shading/CDU}}| '''29'''
+| 16
+| 10
+| 12
+| 6
+| 21
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-06-05"|26 May–1 Jun 2021
-|1,419
-|–
-|style="background:#D7D5D7;"|'''24'''
-|16
-|11
-|13
-|7
-|22
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2
+| [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
+| data-sort-value="2021-06-16"| 28 May–9 Jun 2021
+| 1,070
+| –
+| {{Party shading/CDU}}| '''29.5'''
+| 17
+| 9
+| 11
+| 7
+| 21.5
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-05-31"|28–31 May 2021
-|2,040
-|–
-|style="background:#D7D5D7;"|'''25.5'''
-|15.5
-|11
-|13.5
-|6.5
-|21.5
-|–
-|6.5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|4
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-06-11"| 2–8 Jun 2021
+| 1,421
+| –
+| {{Party shading/CDU}}| '''26'''
+| 16
+| 11
+| 13
+| 7
+| 21
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
 |-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-06-02"|25–31 May 2021
-|2,500
-|26
-|style="background:#D7D5D7;"|'''25'''
-|14
-|9
-|14
-|6
-|24
-|–
-|8
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|1
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-06-07"| 4–7 Jun 2021
+| 2,015
+| –
+| {{Party shading/CDU}}| '''26.5'''
+| 15.5
+| 11
+| 13.5
+| 7
+| 20.5
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 6
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-05-30"|25–28 May 2021
-|1,301
-|–
-|style="background:#D7D5D7;"|'''25'''
-|16
-|12
-|13
-|7
-|22
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|3
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-06-09"| 1–7 Jun 2021
+| 2,501
+| 24
+| {{Party shading/CDU}}| '''27'''
+| 14
+| 9
+| 14
+| 6
+| 22
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-05-25"|21–25 May 2021
-|2,128
-|–
-|style="background:#D7D5D7;"|'''26'''
-|16
-|11.5
-|12.5
-|6.5
-|22
-|–
-|5.5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|4
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-06-06"| 31 May–4 Jun 2021
+| 1,380
+| –
+| {{Party shading/CDU}}| '''26'''
+| 17
+| 12
+| 12
+| 6
+| 21
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
 |-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-05-28"|19–25 May 2021
-|1,422
-|–
-|style="background:#D7D5D7;"|'''25'''
-|15
-|12
-|12
-|7
-|23
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2
+| [https://www.spiegel.de/politik/deutschland/umfrage-hoeherer-spritpreis-ist-bei-deutschen-extrem-unbeliebt-a-bea968c6-6034-402e-b4f4-2cb1d0ae1776 Civey]
+| data-sort-value="2021-06-02"| 26 May–2 Jun 2021
+| 10,015
+| –
+| {{Party shading/CDU}}| '''29'''
+| 16
+| 10
+| 12
+| 6
+| 22
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
 |-
-|[https://www.wahlrecht.de/umfragen/ipsos.htm Ipsos]
-|data-sort-value="2021-05-28"|18–25 May 2021
-|2,014
-|–
-|style="background:#D7D5D7;"|'''25'''
-|13
-|13
-|11
-|9
-|23
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-06-05"| 26 May–1 Jun 2021
+| 1,419
+| –
+| {{Party shading/CDU}}| '''24'''
+| 16
+| 11
+| 13
+| 7
+| 22
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
 |-
-|[https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
-|data-sort-value="2021-05-27"|21–24 May 2021
-|1,706
-|–
-|style="background:#D7D5D7;"|'''26'''
-|15
-|11
-|12
-|7
-|22
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|4
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-05-31"| 28–31 May 2021
+| 2,040
+| –
+| {{Party shading/CDU}}| '''25.5'''
+| 15.5
+| 11
+| 13.5
+| 6.5
+| 21.5
+| –
+| 6.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
 |-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-05-26"|18–21 May 2021
-|2,004
-|24
-|24
-|14
-|10
-|13
-|6
-|style="background:#DCEAD0;"|'''25'''
-|–
-|8
-|style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |1
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-06-02"| 25–31 May 2021
+| 2,500
+| 26
+| {{Party shading/CDU}}| '''25'''
+| 14
+| 9
+| 14
+| 6
+| 24
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 1
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-05-23"|17–21 May 2021
-|1,405
-|–
-|style="background:#D7D5D7;"|'''24'''
-|17
-|12
-|13
-|6
-|23
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|1
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-05-30"| 25–28 May 2021
+| 1,301
+| –
+| {{Party shading/CDU}}| '''25'''
+| 16
+| 12
+| 13
+| 7
+| 22
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 3
 |-
-|[https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
-|data-sort-value="2021-05-07"|18–20 May 2021
-|1,229
-|22
-|24
-|14
-|11
-|11
-|7
-|style="background:#DCEAD0;"|'''25'''
-|3
-|5
-|style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |1
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-05-25"| 21–25 May 2021
+| 2,128
+| –
+| {{Party shading/CDU}}| '''26'''
+| 16
+| 11.5
+| 12.5
+| 6.5
+| 22
+| –
+| 5.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
 |-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-05-21"|11–18 May 2021
-|1,445
-|–
-|style="background:#D7D5D7;"|'''26'''
-|14
-|11
-|11
-|8
-|24
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-05-28"| 19–25 May 2021
+| 1,422
+| –
+| {{Party shading/CDU}}| '''25'''
+| 15
+| 12
+| 12
+| 7
+| 23
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-05-17"|14–17 May 2021
-|2,023
-|–
-|style="background:#D7D5D7;"|'''25.5'''
-|16
-|11
-|12.5
-|6.5
-|23
-|–
-|5.5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2.5
+| [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-haelfte-der-deutschen-befuerwortet-gender-verbot-fuer-staatliche-stellen-a-f611d490-cf36-4358-9054-f08392af9fdf Civey]
+| data-sort-value="2021-05-26"| 19–25 May 2021
+| 10,016
+| –
+| {{Party shading/CDU}}| '''27'''
+| 16
+| 10
+| 13
+| 6
+| 23
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
 |-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-05-19"|11–17 May 2021
-|2,001
-|24
-|24
-|15
-|10
-|11
-|6
-|style="background:#DCEAD0;"|'''26'''
-|–
-|8
-|style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |2
+| [https://www.wahlrecht.de/umfragen/ipsos.htm Ipsos]
+| data-sort-value="2021-05-28"| 18–25 May 2021
+| 2,014
+| –
+| {{Party shading/CDU}}| '''25'''
+| 13
+| 13
+| 11
+| 9
+| 23
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
 |-
-|[https://www.wahlrecht.de/umfragen/gms.htm GMS]
-|data-sort-value="2021-05-17"|11–17 May 2021
-|1,005
-|–
-|style="background:#D7D5D7;"|'''26'''
-|15
-|11
-|11
-|7
-|24
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2
+| [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
+| data-sort-value="2021-05-27"| 21–24 May 2021
+| 1,706
+| –
+| {{Party shading/CDU}}| '''26'''
+| 15
+| 11
+| 12
+| 7
+| 22
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-05-16"|10–14 May 2021
-|1,350
-|–
-|style="background:#D7D5D7;"|'''25'''
-|16
-|12
-|11
-|7
-|24
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|1
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-05-26"| 18–21 May 2021
+| 2,004
+| 24
+| 24
+| 14
+| 10
+| 13
+| 6
+| {{Party shading/Grüne}}| '''25'''
+| –
+| 8
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 1
 |-
-|[https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
-|data-sort-value="2021-05-19"|1–13 May 2021
-|1,027
-|–
-|style="background:#D7D5D7;"|'''27.5'''
-|16
-|10
-|10
-|6.5
-|24
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|3.5
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-05-23"| 17–21 May 2021
+| 1,405
+| –
+| {{Party shading/CDU}}| '''24'''
+| 17
+| 12
+| 13
+| 6
+| 23
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 1
 |-
-|[https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
-|data-sort-value="2021-05-06"|10–11 May 2021
-|1,198
-|–
-|24
-|15
-|11
-|12
-|7
-|style="background:#DCEAD0;"|'''25'''
-|–
-|6
-|style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |1
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| data-sort-value="2021-05-07"| 18–20 May 2021
+| 1,229
+| 22
+| 24
+| 14
+| 11
+| 11
+| 7
+| {{Party shading/Grüne}}| '''25'''
+| 3
+| 5
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 1
 |-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-05-15"|6–11 May 2021
-|1,428
-|–
-|24
-|15
-|11
-|11
-|8
-|style="background:#DCEAD0;"|'''25'''
-|–
-|6
-|style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |1
+| [https://www.spiegel.de/politik/deutschland/mehrheit-begruesst-nein-zu-steuererhoehungen-von-fdp-chef-christian-lindner-umfrage-a-5d4e3403-4721-4ee9-97eb-2ed2815672c2 Civey]
+| data-sort-value="2021-05-19"| 12–19 May 2021
+| 10,050
+| –
+| {{Party shading/CDU}}| '''26'''
+| 16
+| 10
+| 12
+| 6
+| 23
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-05-10"|7–10 May 2021
-|2,055
-|–
-|style="background:#D7D5D7;"|'''25.5'''
-|15
-|11
-|12
-|7.5
-|23.5
-|–
-|5.5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-05-21"| 11–18 May 2021
+| 1,445
+| –
+| {{Party shading/CDU}}| '''26'''
+| 14
+| 11
+| 11
+| 8
+| 24
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
 |-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-05-12"|4–10 May 2021
-|2,501
-|24
-|24
-|15
-|10
-|11
-|6
-|style="background:#DCEAD0;"|'''27'''
-|–
-|7
-|style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |3
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-05-17"| 14–17 May 2021
+| 2,023
+| –
+| {{Party shading/CDU}}| '''25.5'''
+| 16
+| 11
+| 12.5
+| 6.5
+| 23
+| –
+| 5.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2.5
 |-
-|[https://redfieldandwiltonstrategies.com/first-german-federal-election-voting-intention-5-6-may-2021/ Redfield & Wilton Strategies]
-|data-sort-value="2021-05-11"|5–6 May 2021
-|1,950
-|–
-|style="background:#D7D5D7;"|'''22'''
-|16
-|11
-|12
-|11
-|21
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|1
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-05-19"| 11–17 May 2021
+| 2,001
+| 24
+| 24
+| 15
+| 10
+| 11
+| 6
+| {{Party shading/Grüne}}| '''26'''
+| –
+| 8
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 2
 |-
-|[https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
-|data-sort-value="2021-05-07"|4–6 May 2021
-|1,271
-|25
-|25
-|14
-|11
-|10
-|7
-|style="background:#DCEAD0;"|'''26'''
-|–
-|7
-|style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |1
+| [https://www.wahlrecht.de/umfragen/gms.htm GMS]
+| data-sort-value="2021-05-17"| 11–17 May 2021
+| 1,005
+| –
+| {{Party shading/CDU}}| '''26'''
+| 15
+| 11
+| 11
+| 7
+| 24
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
 |-
-|[https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
-|data-sort-value="2021-05-06"|3–5 May 2021
-|1,351
-|–
-|23
-|14
-|12
-|11
-|6
-|style="background:#DCEAD0;"|'''26'''
-|3
-|8
-|style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |3
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-05-16"| 10–14 May 2021
+| 1,350
+| –
+| {{Party shading/CDU}}| '''25'''
+| 16
+| 12
+| 11
+| 7
+| 24
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 1
 |-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-05-09"|29 Apr–5 May 2021
-|1,910
-|–
-|23
-|16
-|10
-|12
-|7
-|style="background:#DCEAD0;"|'''26'''
-|–
-|6
-|style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |3
+| [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
+| data-sort-value="2021-05-19"| 1–13 May 2021
+| 1,027
+| –
+| {{Party shading/CDU}}| '''27.5'''
+| 16
+| 10
+| 10
+| 6.5
+| 24
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 3.5
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-05-"|30 Apr–3 May 2021
-|2,075
-|–
-|style="background:#D7D5D7;"|'''24'''
-|15
-|12
-|12
-|7
-|style="background:#DCEAD0;"|'''24'''
-|–
-|6
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-05-06"| 10–11 May 2021
+| 1,198
+| –
+| 24
+| 15
+| 11
+| 12
+| 7
+| {{Party shading/Grüne}}| '''25'''
+| –
+| 6
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 1
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-05-15"| 6–11 May 2021
+| 1,428
+| –
+| 24
+| 15
+| 11
+| 11
+| 8
+| {{Party shading/Grüne}}| '''25'''
+| –
+| 6
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 1
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-05-10"| 7–10 May 2021
+| 2,055
+| –
+| {{Party shading/CDU}}| '''25.5'''
+| 15
+| 11
+| 12
+| 7.5
+| 23.5
+| –
+| 5.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-05-12"| 4–10 May 2021
+| 2,501
+| 24
+| 24
+| 15
+| 10
+| 11
+| 6
+| {{Party shading/Grüne}}| '''27'''
+| –
+| 7
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 3
+|-
+| [https://redfieldandwiltonstrategies.com/first-german-federal-election-voting-intention-5-6-may-2021/ Redfield & Wilton Strategies]
+| data-sort-value="2021-05-11"| 5–6 May 2021
+| 1,950
+| –
+| {{Party shading/CDU}}| '''22'''
+| 16
+| 11
+| 12
+| 11
+| 21
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 1
+|-
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| data-sort-value="2021-05-07"| 4–6 May 2021
+| 1,271
+| 25
+| 25
+| 14
+| 11
+| 10
+| 7
+| {{Party shading/Grüne}}| '''26'''
+| –
+| 7
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 1
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-05-06"| 3–5 May 2021
+| 1,351
+| –
+| 23
+| 14
+| 12
+| 11
+| 6
+| {{Party shading/Grüne}}| '''26'''
+| 3
+| 8
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 3
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-05-09"| 29 Apr–5 May 2021
+| 1,910
+| –
+| 23
+| 16
+| 10
+| 12
+| 7
+| {{Party shading/Grüne}}| '''26'''
+| –
+| 6
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 3
+|-
+| [https://www.spiegel.de/politik/deutschland/umfrage-union-und-gruene-wieder-nahezu-gleichauf-a-05581040-e4d0-4d39-9606-ca873a32b1eb Civey]
+| data-sort-value="2021-05-05"| 28 Apr–5 May 2021
+| 10,028
+| –
+| {{Party shading/CDU}}| '''27'''
+| 15
+| 9
+| 11
+| 6
+| 25
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-05-"| 30 Apr–3 May 2021
+| 2,075
+| –
+| {{Party shading/CDU}}| '''24'''
+| 15
+| 12
+| 12
+| 7
+| {{Party shading/Grüne}}| '''24'''
+| –
+| 6
 |Tie
 |-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-05-05"|27 Apr–3 May 2021
-|2,508
-|26
-|23
-|14
-|10
-|12
-|6
-|style="background:#DCEAD0;"|'''28'''
-|–
-|7
-|style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |5
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-05-05"| 27 Apr–3 May 2021
+| 2,508
+| 26
+| 23
+| 14
+| 10
+| 12
+| 6
+| {{Party shading/Grüne}}| '''28'''
+| –
+| 7
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 5
 |-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-05-01"|22–28 Apr 2021
-|1,442
-|–
-|24
-|15
-|10
-|11
-|7
-|style="background:#DCEAD0;"|'''27'''
-|–
-|6
-|style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |3
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-05-01"| 22–28 Apr 2021
+| 1,442
+| –
+| 24
+| 15
+| 10
+| 11
+| 7
+| {{Party shading/Grüne}}| '''27'''
+| –
+| 6
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 3
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-04-26"|23–26 Apr 2021
-|2,082
-|–
-|style="background:#D7D5D7;"|'''23'''
-|16
-|12
-|12
-|8
-|style="background:#DCEAD0;"|'''23'''
-|–
-|6
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-04-26"| 23–26 Apr 2021
+| 2,082
+| –
+| {{Party shading/CDU}}| '''23'''
+| 16
+| 12
+| 12
+| 8
+| {{Party shading/Grüne}}| '''23'''
+| –
+| 6
 |Tie
 |-
-|[https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
-|data-sort-value="2021-04-29"|23–26 Apr 2021
-|1,643
-|–
-|24
-|14
-|11
-|11
-|8
-|style="background:#DCEAD0;"|'''25'''
-|–
-|7
-|style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |1
-|-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-04-28"|20–26 Apr 2021
-|2,507
-|25
-|22
-|13
-|11
-|12
-|7
-|style="background:#DCEAD0;"|'''28'''
-|–
-|7
-|style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |6
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA (intermediate result)]
-|data-sort-value="2021-04-23"|23 Apr 2021
-|1,000
-|–
-|style="background:#D7D5D7;"|'''24'''
-|17
-|11
-|12
-|8
-|23
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|1
-|-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-04-24"|15–21 Apr 2021
-|1,225
-|–
-|27
-|13
-|10
-|9
-|7
-|style="background:#DCEAD0;"|'''28'''
-|–
-|6
-|style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |1
-|-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa (intermediate result)]
-|data-sort-value="2021-04-20"|20 Apr 2021
-|1,502
-|25
-|21
-|13
-|11
-|12
-|7
-|style="background:#DCEAD0;"|'''28'''
-|–
-|8
-|style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;" |7
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-04-20"|20 Apr 2021
-|1,000
-|–
-|style="background:#D7D5D7;"|'''27'''
-|16
-|12
-|11
-|7
-|22
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-04-19"|16–19 Apr 2021
-|3,057
-|–
-|style="background:#D7D5D7;"|'''28'''
-|16
-|12
-|11
-|7
-|21
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
-|-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-04-16"|13–16 Apr 2021
-|2,003
-|23
-|style="background:#D7D5D7;"|'''28'''
-|15
-|11
-|10
-|6
-|23
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-04-16"|15 Apr 2021
-|1,007
-|–
-|style="background:#D7D5D7;"|'''28'''
-|18
-|12
-|10
-|8
-|20
-|–
-|4
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
-|-
-|[https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
-|data-sort-value="2021-04-16"|13–15 Apr 2021
-|1,292
-|25
-|style="background:#D7D5D7;"|'''31'''
-|14
-|11
-|9
-|7
-|21
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|10
-|-
-|[https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
-|data-sort-value="2021-04-21"|6–15 Apr 2021
-|1,051
-|–
-|style="background:#D7D5D7;"|'''28'''
-|16.5
-|9.5
-|10
-|7.5
-|23
-|–
-|5.5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
-|-
-|[https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
-|data-sort-value="2021-04-15"|13–14 Apr 2021
-|1,174
-|–
-|style="background:#D7D5D7;"|'''28'''
-|15
-|11
-|11
-|7
-|21
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
-|-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-04-11"|8–14 Apr 2021
-|1,437
-|–
-|style="background:#D7D5D7;"|'''29'''
-|15
-|11
-|9
-|8
-|22
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-04-12"|9–12 Apr 2021
-|3,174
-|–
-|style="background:#D7D5D7;"|'''27.5'''
-|17
-|12
-|10
-|7
-|20.5
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
-|-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-04-14"|6–12 Apr 2021
-|2,500
-|23
-|style="background:#D7D5D7;"|'''27'''
-|15
-|11
-|9
-|8
-|23
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|4
-|-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-04-11"|31 Mar–7 Apr 2021
-|1,448
-|–
-|style="background:#D7D5D7;"|'''27'''
-|15
-|11
-|9
-|9
-|22
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-04-05"|30 Mar–1 Apr 2021
-|3,020
-|–
-|style="background:#D7D5D7;"|'''27'''
-|17
-|12
-|10
-|7
-|21
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|6
-|-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-04-07"|30 Mar–1 Apr 2021
-|1,501
-|21
-|style="background:#D7D5D7;"|'''27'''
-|15
-|10
-|10
-|7
-|23
-|–
-|8
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|4
-|-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-04-04"|25–31 Mar 2021
-|1,429
-|–
-|style="background:#D7D5D7;"|'''26'''
-|16
-|10
-|9
-|9
-|23
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|3
-|-
-|[https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
-|data-sort-value="2021-04-01"|29–30 Mar 2021
-|1,348
-|–
-|style="background:#D7D5D7;"|'''27'''
-|16
-|11
-|9
-|7
-|22
-|–
-|8
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-03-29"|26–29 Mar 2021
-|3,049
-|–
-|style="background:#D7D5D7;"|'''26'''
-|18
-|11
-|10.5
-|7
-|21
-|–
-|6.5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
-|-
-|[https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
-|data-sort-value="2021-04-01"|25–29 Mar 2021
-|1,637
-|–
-|style="background:#D7D5D7;"|'''27'''
-|17
-|11
-|10
-|8
-|21
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|6
-|-
-|[https://www.wahlrecht.de/umfragen/gms.htm GMS]
-|data-sort-value="2021-03-29"|24–29 Mar 2021
-|1,003
-|–
-|style="background:#D7D5D7;"|'''26'''
-|16
-|11
-|11
-|8
-|21
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
-|-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-03-31"|23–29 Mar 2021
-|2,503
-|22
-|style="background:#D7D5D7;"|'''27'''
-|15
-|11
-|10
-|7
-|23
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|4
-|-
-|[https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
-|data-sort-value="2021-03-26"|23–25 Mar 2021
-|1,030
-|25
-|style="background:#D7D5D7;"|'''28'''
-|15
-|12
-|9
-|7
-|23
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
-|-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-03-27"|18–24 Mar 2021
-|1,447
-|–
-|style="background:#D7D5D7;"|'''25'''
-|17
-|10
-|10
-|9
-|23
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|2
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-03-22"|19–22 Mar 2021
-|3,104
-|–
-|style="background:#D7D5D7;"|'''28'''
-|18
-|11
-|10.5
-|7
-|20
-|–
-|5.5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
-|-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-03-24"|16–22 Mar 2021
-|2,511
-|21
-|style="background:#D7D5D7;"|'''26'''
-|16
-|10
-|10
-|8
-|22
-|–
-|8
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|4
-|-
-|[https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
-|data-sort-value="2021-03-24"|8–21 Mar 2021
-|1,006
-|–
-|style="background:#D7D5D7;"|'''28.5'''
-|18
-|10
-|8.5
-|8.5
-|21.5
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|7
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA (intermediate result)]
-|data-sort-value="2021-03-20"|19 Mar 2021
-|1,042
-|–
-|style="background:#D7D5D7;"|'''28'''
-|18
-|11
-|10
-|8
-|20
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
-|-
-|[https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
-|data-sort-value="2021-03-18"|15–17 Mar 2021
-|1,207
-|–
-|style="background:#D7D5D7;"|'''29'''
-|17
-|11
-|9
-|7
-|20
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|9
-|-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-03-20"|11–17 Mar 2021
-|1,942
-|–
-|style="background:#D7D5D7;"|'''27'''
-|17
-|10
-|10
-|8
-|22
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|5
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-03-15"|12–15 Mar 2021
-|2,068
-|–
-|style="background:#D7D5D7;"|'''29.5'''
-|17
-|11.5
-|10.5
-|8
-|17
-|–
-|6.5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|12.5
-|-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-03-17"|9–15 Mar 2021
-|2,501
-|22
-|style="background:#D7D5D7;"|'''29'''
-|16
-|10
-|8
-|8
-|21
-|–
-|8
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|8
-|-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-03-14"|4–10 Mar 2021
-|2,378
-|–
-|style="background:#D7D5D7;"|'''31'''
-|16
-|11
-|8
-|8
-|19
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|12
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-03-08"|5–8 Mar 2021
-|2,049
-|–
-|style="background:#D7D5D7;"|'''30'''
-|17
-|11.5
-|10.5
-|9
-|17
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|13
-|-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-03-10"|2–8 Mar 2021
-|2,510
-|22
-|style="background:#D7D5D7;"|'''33'''
-|16
-|10
-|8
-|8
-|18
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|15
-|-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-03-07"|25 Feb–3 Mar 2021
-|2,410
-|–
-|style="background:#D7D5D7;"|'''32'''
-|16
-|10
-|9
-|9
-|19
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|13
-|-
-|[https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
-|data-sort-value="2021-03-04"|1–2 Mar 2021
-|1,296
-|–
-|style="background:#D7D5D7;"|'''33'''
-|16
-|11
-|7
-|7
-|20
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|13
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-03-01"|26 Feb–1 Mar 2021
-|2,032
-|–
-|style="background:#D7D5D7;"|'''32.5'''
-|17
-|11
-|10
-|8
-|17
-|–
-|4.5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|15.5
-|-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-03-02"|25 Feb–1 Mar 2021
-|2,501
-|24
-|style="background:#D7D5D7;"|'''34'''
-|16
-|9
-|7
-|8
-|19
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|15
-|-
-|[https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
-|data-sort-value="2021-02-26"|23–25 Feb 2021
-|1,202
-|25
-|style="background:#D7D5D7;"|'''35'''
-|16
-|10
-|7
-|7
-|19
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16
-|-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-02-27"|18–24 Feb 2021
-|1,869
-|–
-|style="background:#D7D5D7;"|'''34'''
-|16
-|9
-|8
-|9
-|18
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-02-22"|19–22 Feb 2021
-|2,075
-|–
-|style="background:#D7D5D7;"|'''33.5'''
-|16
-|11
-|9
-|8
-|17
-|–
-|5.5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16.5
-|-
-|[https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
-|data-sort-value="2021-02-26"|18–22 Feb 2021
-|1,619
-|–
-|style="background:#D7D5D7;"|'''33'''
-|16
-|11
-|8
-|8
-|18
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|15
-|-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-02-23"|16–22 Feb 2021
-|2,505
-|23
-|style="background:#D7D5D7;"|'''35'''
-|16
-|8
-|8
-|7
-|19
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16
-|-
-|[https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
-|data-sort-value="2021-02-18"|15–17 Feb 2021
-|1,025
-|–
-|style="background:#D7D5D7;"|'''33'''
-|16
-|11
-|8
-|6
-|20
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|13
-|-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-02-21"|11–17 Feb 2021
-|1,905
-|–
-|style="background:#D7D5D7;"|'''34'''
-|16
-|9
-|8
-|8
-|19
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|15
-|-
-|[https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
-|data-sort-value="2021-02-25"|4–17 Feb 2021
-|1,082
-|–
-|style="background:#D7D5D7;"|'''37'''
-|15
-|9.5
-|7
-|7
-|20
-|–
-|4.5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-02-15"|12–15 Feb 2021
-|2,051
-|–
-|style="background:#D7D5D7;"|'''33.5'''
-|17
-|10.5
-|9
-|9
-|17
-|–
-|4
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16.5
-|-
-|[https://www.wahlrecht.de/umfragen/gms.htm GMS]
-|data-sort-value="2021-02-15"|10–15 Feb 2021
-|1,005
-|–
-|style="background:#D7D5D7;"|'''37'''
-|17
-|9
-|7
-|7
-|18
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|19
-|-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-02-16"|9–15 Feb 2021
-|2,502
-|21
-|style="background:#D7D5D7;"|'''35'''
-|16
-|8
-|7
-|8
-|19
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16
-|-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-02-14"|4–10 Feb 2021
-|1,569
-|–
-|style="background:#D7D5D7;"|'''35'''
-|17
-|10
-|8
-|7
-|18
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-02-08"|5–8 Feb 2021
-|2,107
-|–
-|style="background:#D7D5D7;"|'''34.5'''
-|16
-|10.5
-|9
-|8.5
-|17.5
-|–
-|4
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
-|-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-02-09"|2–8 Feb 2021
-|2,501
-|21
-|style="background:#D7D5D7;"|'''37'''
-|15
-|8
-|7
-|7
-|19
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
-|-
-|[https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
-|data-sort-value="2021-02-04"|1–3 Feb 2021
-|1,503
-|–
-|style="background:#D7D5D7;"|'''34'''
-|15
-|10
-|8
-|6
-|21
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|13
-|-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-02-07"|28 Jan–3 Feb 2021
-|1,412
-|–
-|style="background:#D7D5D7;"|'''36'''
-|16
-|9
-|7
-|7
-|19
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
-|-
-|[https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
-|data-sort-value="2021-02-04"|29 Jan–1 Feb 2021
-|1,606
-|–
-|style="background:#D7D5D7;"|'''36'''
-|15
-|10
-|7
-|9
-|18
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-02-01"|29 Jan–1 Feb 2021
-|2,044
-|–
-|style="background:#D7D5D7;"|'''36.5'''
-|15
-|11
-|8
-|7.5
-|17
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|19.5
-|-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-02-02"|26 Jan–1 Feb 2021
-|2,503
-|23
-|style="background:#D7D5D7;"|'''37'''
-|15
-|8
-|6
-|8
-|19
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
-|-
-|[https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
-|data-sort-value="2021-01-28"|25–27 Jan 2021
-|1,371
-|22
-|style="background:#D7D5D7;"|'''37'''
-|15
-|9
-|6
-|7
-|20
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
-|-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-01-31"|21–27 Jan 2021
-|1,427
-|–
-|style="background:#D7D5D7;"|'''36'''
-|15
-|9
-|7
-|8
-|19
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-01-25"|22–25 Jan 2021
-|2,038
-|–
-|style="background:#D7D5D7;"|'''35'''
-|16
-|10
-|8
-|8
-|17
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
-|-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-01-26"|18–25 Jan 2021
-|3,005
-|23
-|style="background:#D7D5D7;"|'''37'''
-|15
-|9
-|7
-|7
-|18
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|19
-|-
-|[https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
-|data-sort-value="2021-01-21"|18–20 Jan 2021
-|1,027
-|–
-|style="background:#D7D5D7;"|'''34'''
-|15
-|10
-|7
-|6
-|21
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|13
-|-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-01-23"|14–20 Jan 2021
-|1,922
-|–
-|style="background:#D7D5D7;"|'''35'''
-|15
-|9
-|7
-|8
-|20
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|15
-|-
-|[https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
-|data-sort-value="2021-01-28"|10–20 Jan 2021
-|1,080
-|–
-|style="background:#D7D5D7;"|'''37'''
-|16
-|9
-|6.5
-|7.5
-|20
-|–
-|4
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
-|-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA (intermediate result)]
-|data-sort-value="2021-01-18"|17–18 Jan 2021
-|1.835
-|–
-|style="background:#D7D5D7;"|'''35'''
-|15
-|11
-|9
-|8
-|17
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
-|-
-|[https://www.insa-consulere.de/wp-content/uploads/2021/01/BundestagswahlkreiseErgebnis_INSA-Umfrage_19012021_Mandate-scaled.jpg INSA]
-|data-sort-value="2021-01-18"|15–18 Jan 2021
+| [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
+| data-sort-value="2021-04-29"| 23–26 Apr 2021
+| 1,643
+| –
+| 24
+| 14
+| 11
+| 11
+| 8
+| {{Party shading/Grüne}}| '''25'''
+| –
+| 7
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 1
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-04-28"| 20–26 Apr 2021
+| 2,507
+| 25
+| 22
+| 13
+| 11
+| 12
+| 7
+| {{Party shading/Grüne}}| '''28'''
+| –
+| 7
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 6
+|-
+| [https://www.spiegel.de/politik/deutschland/umfrage-gruene-ueberholen-union-in-sonntagsfrage-a-26c35086-cb50-4b6c-b3b5-dbc736c432f2 Civey]
+| data-sort-value="2021-04-26"| 19–26 Apr 2021
+| 10,039
+| –
+| 24
+| 15
+| 9
+| 11
+| 6
+| {{Party shading/Grüne}}| '''29'''
+| –
+| 6
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA (intermediate result)]
+| data-sort-value="2021-04-23"| 23 Apr 2021
+| 1,000
+| –
+| {{Party shading/CDU}}| '''24'''
+| 17
+| 11
+| 12
+| 8
+| 23
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 1
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-04-24"| 15–21 Apr 2021
+| 1,225
+| –
+| 27
+| 13
+| 10
+| 9
+| 7
+| {{Party shading/Grüne}}| '''28'''
+| –
+| 6
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 1
+|-
+| [https://www.spiegel.de/politik/deutschland/armin-laschet-grosse-mehrheit-unter-unionsanhaengern-haelt-ihn-fuer-den-falschen-kandidaten-a-4fcfe874-ee9e-4d53-b05d-75a5b2610b2e Civey]
+| data-sort-value="2021-04-21"| 14–21 Apr 2021
+| 10,064
+| –
+| {{Party shading/CDU}}| '''29'''
+| 15
+| 10
+| 9
+| 7
+| 25
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa (intermediate result)]
+| data-sort-value="2021-04-20"| 20 Apr 2021
+| 1,502
+| 25
+| 21
+| 13
+| 11
+| 12
+| 7
+| {{Party shading/Grüne}}| '''28'''
+| –
+| 8
+| style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 7
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-04-20"| 20 Apr 2021
+| 1,000
+| –
+| {{Party shading/CDU}}| '''27'''
+| 16
+| 12
+| 11
+| 7
+| 22
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-04-19"| 16–19 Apr 2021
+| 3,057
+| –
+| {{Party shading/CDU}}| '''28'''
+| 16
+| 12
+| 11
+| 7
+| 21
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-04-16"| 13–16 Apr 2021
+| 2,003
+| 23
+| {{Party shading/CDU}}| '''28'''
+| 15
+| 11
+| 10
+| 6
+| 23
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-04-16"| 15 Apr 2021
+| 1,007
+| –
+| {{Party shading/CDU}}| '''28'''
+| 18
+| 12
+| 10
+| 8
+| 20
+| –
+| 4
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
+|-
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| data-sort-value="2021-04-16"| 13–15 Apr 2021
+| 1,292
+| 25
+| {{Party shading/CDU}}| '''31'''
+| 14
+| 11
+| 9
+| 7
+| 21
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 10
+|-
+| [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
+| data-sort-value="2021-04-21"| 6–15 Apr 2021
+| 1,051
+| –
+| {{Party shading/CDU}}| '''28'''
+| 16.5
+| 9.5
+| 10
+| 7.5
+| 23
+| –
+| 5.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-04-15"| 13–14 Apr 2021
+| 1,174
+| –
+| {{Party shading/CDU}}| '''28'''
+| 15
+| 11
+| 11
+| 7
+| 21
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-04-11"| 8–14 Apr 2021
+| 1,437
+| –
+| {{Party shading/CDU}}| '''29'''
+| 15
+| 11
+| 9
+| 8
+| 22
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-04-12"| 9–12 Apr 2021
+| 3,174
+| –
+| {{Party shading/CDU}}| '''27.5'''
+| 17
+| 12
+| 10
+| 7
+| 20.5
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-04-14"| 6–12 Apr 2021
+| 2,500
+| 23
+| {{Party shading/CDU}}| '''27'''
+| 15
+| 11
+| 9
+| 8
+| 23
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-04-11"| 31 Mar–7 Apr 2021
+| 1,448
+| –
+| {{Party shading/CDU}}| '''27'''
+| 15
+| 11
+| 9
+| 9
+| 22
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-04-05"| 30 Mar–1 Apr 2021
+| 3,020
+| –
+| {{Party shading/CDU}}| '''27'''
+| 17
+| 12
+| 10
+| 7
+| 21
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 6
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-04-07"| 30 Mar–1 Apr 2021
+| 1,501
+| 21
+| {{Party shading/CDU}}| '''27'''
+| 15
+| 10
+| 10
+| 7
+| 23
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-04-04"| 25–31 Mar 2021
+| 1,429
+| –
+| {{Party shading/CDU}}| '''26'''
+| 16
+| 10
+| 9
+| 9
+| 23
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 3
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-04-01"| 29–30 Mar 2021
+| 1,348
+| –
+| {{Party shading/CDU}}| '''27'''
+| 16
+| 11
+| 9
+| 7
+| 22
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-03-29"| 26–29 Mar 2021
+| 3,049
+| –
+| {{Party shading/CDU}}| '''26'''
+| 18
+| 11
+| 10.5
+| 7
+| 21
+| –
+| 6.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
+| data-sort-value="2021-04-01"| 25–29 Mar 2021
+| 1,637
+| –
+| {{Party shading/CDU}}| '''27'''
+| 17
+| 11
+| 10
+| 8
+| 21
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 6
+|-
+| [https://www.wahlrecht.de/umfragen/gms.htm GMS]
+| data-sort-value="2021-03-29"| 24–29 Mar 2021
+| 1,003
+| –
+| {{Party shading/CDU}}| '''26'''
+| 16
+| 11
+| 11
+| 8
+| 21
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-03-31"| 23–29 Mar 2021
+| 2,503
+| 22
+| {{Party shading/CDU}}| '''27'''
+| 15
+| 11
+| 10
+| 7
+| 23
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| data-sort-value="2021-03-26"| 23–25 Mar 2021
+| 1,030
+| 25
+| {{Party shading/CDU}}| '''28'''
+| 15
+| 12
+| 9
+| 7
+| 23
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-03-27"| 18–24 Mar 2021
+| 1,447
+| –
+| {{Party shading/CDU}}| '''25'''
+| 17
+| 10
+| 10
+| 9
+| 23
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.spiegel.de/politik/deutschland/umfrage-zur-bundestagswahl-2021-gruene-verringern-abstand-zur-union-a-a82da5f3-eede-44b5-95d0-e9bcdae5e1a9 Civey]
+| data-sort-value="2021-03-24"| 17–24 Mar 2021
+| 10,066
+| –
+| {{Party shading/CDU}}| '''28'''
+| 16
+| 10
+| 9
+| 7
+| 23
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-03-22"| 19–22 Mar 2021
+| 3,104
+| –
+| {{Party shading/CDU}}| '''28'''
+| 18
+| 11
+| 10.5
+| 7
+| 20
+| –
+| 5.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-03-24"| 16–22 Mar 2021
+| 2,511
+| 21
+| {{Party shading/CDU}}| '''26'''
+| 16
+| 10
+| 10
+| 8
+| 22
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
+| data-sort-value="2021-03-24"| 8–21 Mar 2021
+| 1,006
+| –
+| {{Party shading/CDU}}| '''28.5'''
+| 18
+| 10
+| 8.5
+| 8.5
+| 21.5
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA (intermediate result)]
+| data-sort-value="2021-03-20"| 19 Mar 2021
+| 1,042
+| –
+| {{Party shading/CDU}}| '''28'''
+| 18
+| 11
+| 10
+| 8
+| 20
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-03-18"| 15–17 Mar 2021
+| 1,207
+| –
+| {{Party shading/CDU}}| '''29'''
+| 17
+| 11
+| 9
+| 7
+| 20
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 9
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-03-20"| 11–17 Mar 2021
+| 1,942
+| –
+| {{Party shading/CDU}}| '''27'''
+| 17
+| 10
+| 10
+| 8
+| 22
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-cdu-csu-rutscht-unter-die-30-prozent-marke-umfrage-a-3d1ab4c7-cceb-4f35-a1cb-9008a2d57013 Civey]
+| data-sort-value="2021-03-17"| 10–17 Mar 2021
+| 10,045
+| –
+| {{Party shading/CDU}}| '''29'''
+| 17
+| 11
+| 9
+| 8
+| 21
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-03-15"| 12–15 Mar 2021
+| 2,068
+| –
+| {{Party shading/CDU}}| '''29.5'''
+| 17
+| 11.5
+| 10.5
+| 8
+| 17
+| –
+| 6.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 12.5
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-03-17"| 9–15 Mar 2021
+| 2,501
+| 22
+| {{Party shading/CDU}}| '''29'''
+| 16
+| 10
+| 8
+| 8
+| 21
+| –
+| 8
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-03-14"| 4–10 Mar 2021
+| 2,378
+| –
+| {{Party shading/CDU}}| '''31'''
+| 16
+| 11
+| 8
+| 8
+| 19
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 12
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-03-08"| 5–8 Mar 2021
+| 2,049
+| –
+| {{Party shading/CDU}}| '''30'''
+| 17
+| 11.5
+| 10.5
+| 9
+| 17
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 13
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-03-10"| 2–8 Mar 2021
+| 2,510
+| 22
+| {{Party shading/CDU}}| '''33'''
+| 16
+| 10
+| 8
+| 8
+| 18
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 15
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-03-07"| 25 Feb–3 Mar 2021
+| 2,410
+| –
+| {{Party shading/CDU}}| '''32'''
+| 16
+| 10
+| 9
+| 9
+| 19
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 13
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-03-04"| 1–2 Mar 2021
+| 1,296
+| –
+| {{Party shading/CDU}}| '''33'''
+| 16
+| 11
+| 7
+| 7
+| 20
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 13
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-03-01"| 26 Feb–1 Mar 2021
+| 2,032
+| –
+| {{Party shading/CDU}}| '''32.5'''
+| 17
+| 11
+| 10
+| 8
+| 17
+| –
+| 4.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 15.5
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-03-02"| 25 Feb–1 Mar 2021
+| 2,501
+| 24
+| {{Party shading/CDU}}| '''34'''
+| 16
+| 9
+| 7
+| 8
+| 19
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 15
+|-
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| data-sort-value="2021-02-26"| 23–25 Feb 2021
+| 1,202
+| 25
+| {{Party shading/CDU}}| '''35'''
+| 16
+| 10
+| 7
+| 7
+| 19
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 16
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-02-27"| 18–24 Feb 2021
+| 1,869
+| –
+| {{Party shading/CDU}}| '''34'''
+| 16
+| 9
+| 8
+| 9
+| 18
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 16
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-02-22"| 19–22 Feb 2021
+| 2,075
+| –
+| {{Party shading/CDU}}| '''33.5'''
+| 16
+| 11
+| 9
+| 8
+| 17
+| –
+| 5.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 16.5
+|-
+| [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
+| data-sort-value="2021-02-26"| 18–22 Feb 2021
+| 1,619
+| –
+| {{Party shading/CDU}}| '''33'''
+| 16
+| 11
+| 8
+| 8
+| 18
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 15
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-02-23"| 16–22 Feb 2021
+| 2,505
+| 23
+| {{Party shading/CDU}}| '''35'''
+| 16
+| 8
+| 8
+| 7
+| 19
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 16
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-02-18"| 15–17 Feb 2021
+| 1,025
+| –
+| {{Party shading/CDU}}| '''33'''
+| 16
+| 11
+| 8
+| 6
+| 20
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 13
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-02-21"| 11–17 Feb 2021
+| 1,905
+| –
+| {{Party shading/CDU}}| '''34'''
+| 16
+| 9
+| 8
+| 8
+| 19
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 15
+|-
+| [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
+| data-sort-value="2021-02-25"| 4–17 Feb 2021
+| 1,082
+| –
+| {{Party shading/CDU}}| '''37'''
+| 15
+| 9.5
+| 7
+| 7
+| 20
+| –
+| 4.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 17
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-02-15"| 12–15 Feb 2021
+| 2,051
+| –
+| {{Party shading/CDU}}| '''33.5'''
+| 17
+| 10.5
+| 9
+| 9
+| 17
+| –
+| 4
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 16.5
+|-
+| [https://www.wahlrecht.de/umfragen/gms.htm GMS]
+| data-sort-value="2021-02-15"| 10–15 Feb 2021
+| 1,005
+| –
+| {{Party shading/CDU}}| '''37'''
+| 17
+| 9
+| 7
+| 7
+| 18
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 19
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-02-16"| 9–15 Feb 2021
+| 2,502
+| 21
+| {{Party shading/CDU}}| '''35'''
+| 16
+| 8
+| 7
+| 8
+| 19
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 16
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-02-14"| 4–10 Feb 2021
+| 1,569
+| –
+| {{Party shading/CDU}}| '''35'''
+| 17
+| 10
+| 8
+| 7
+| 18
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 17
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-02-08"| 5–8 Feb 2021
+| 2,107
+| –
+| {{Party shading/CDU}}| '''34.5'''
+| 16
+| 10.5
+| 9
+| 8.5
+| 17.5
+| –
+| 4
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 17
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-02-09"| 2–8 Feb 2021
+| 2,501
+| 21
+| {{Party shading/CDU}}| '''37'''
+| 15
+| 8
+| 7
+| 7
+| 19
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 18
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-02-04"| 1–3 Feb 2021
+| 1,503
+| –
+| {{Party shading/CDU}}| '''34'''
+| 15
+| 10
+| 8
+| 6
+| 21
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 13
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-02-07"| 28 Jan–3 Feb 2021
+| 1,412
+| –
+| {{Party shading/CDU}}| '''36'''
+| 16
+| 9
+| 7
+| 7
+| 19
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 17
+|-
+| [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
+| data-sort-value="2021-02-04"| 29 Jan–1 Feb 2021
+| 1,606
+| –
+| {{Party shading/CDU}}| '''36'''
+| 15
+| 10
+| 7
+| 9
+| 18
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 18
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-02-01"| 29 Jan–1 Feb 2021
+| 2,044
+| –
+| {{Party shading/CDU}}| '''36.5'''
+| 15
+| 11
+| 8
+| 7.5
+| 17
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 19.5
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-02-02"| 26 Jan–1 Feb 2021
+| 2,503
+| 23
+| {{Party shading/CDU}}| '''37'''
+| 15
+| 8
+| 6
+| 8
+| 19
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 18
+|-
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| data-sort-value="2021-01-28"| 25–27 Jan 2021
+| 1,371
+| 22
+| {{Party shading/CDU}}| '''37'''
+| 15
+| 9
+| 6
+| 7
+| 20
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 17
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-01-31"| 21–27 Jan 2021
+| 1,427
+| –
+| {{Party shading/CDU}}| '''36'''
+| 15
+| 9
+| 7
+| 8
+| 19
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 17
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-01-25"| 22–25 Jan 2021
+| 2,038
+| –
+| {{Party shading/CDU}}| '''35'''
+| 16
+| 10
+| 8
+| 8
+| 17
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 18
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-01-26"| 18–25 Jan 2021
+| 3,005
+| 23
+| {{Party shading/CDU}}| '''37'''
+| 15
+| 9
+| 7
+| 7
+| 18
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 19
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-01-21"| 18–20 Jan 2021
+| 1,027
+| –
+| {{Party shading/CDU}}| '''34'''
+| 15
+| 10
+| 7
+| 6
+| 21
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 13
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-01-23"| 14–20 Jan 2021
+| 1,922
+| –
+| {{Party shading/CDU}}| '''35'''
+| 15
+| 9
+| 7
+| 8
+| 20
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 15
+|-
+| [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
+| data-sort-value="2021-01-28"| 10–20 Jan 2021
+| 1,080
+| –
+| {{Party shading/CDU}}| '''37'''
+| 16
+| 9
+| 6.5
+| 7.5
+| 20
+| –
+| 4
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 17
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA (intermediate result)]
+| data-sort-value="2021-01-18"| 17–18 Jan 2021
+| 1,835
+| –
+| {{Party shading/CDU}}| '''35'''
+| 15
+| 11
+| 9
+| 8
+| 17
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 18
+|-
+| [https://www.insa-consulere.de/wp-content/uploads/2021/01/BundestagswahlkreiseErgebnis_INSA-Umfrage_19012021_Mandate-scaled.jpg INSA]
+| data-sort-value="2021-01-18"| 15–18 Jan 2021
 |/
-|–
-|style="background:#D7D5D7;"|'''35.5'''
-|14
-|11
-|8.5
-|7.5
-|17.5
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
+| –
+| {{Party shading/CDU}}| '''35.5'''
+| 14
+| 11
+| 8.5
+| 7.5
+| 17.5
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 18
 |-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-01-18"|16–17 Jan 2021
-|2,014
-|24
-|style="background:#D7D5D7;"|'''35'''
-|15
-|9
-|7
-|8
-|19
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-01-18"| 16–17 Jan 2021
+| 2,014
+| 24
+| {{Party shading/CDU}}| '''35'''
+| 15
+| 9
+| 7
+| 8
+| 19
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 16
 |-
-|[https://www.n-tv.de/politik/Union-weiter-bei-36-Gruene-bei-20-Prozent-article22298449.html Forsa]
-|data-sort-value="2021-01-16"|11–15 Jan 2021
-|2,504
-|24
-|style="background:#D7D5D7;"|'''35'''
-|15
-|9
-|6
-|8
-|20
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|15
+| [https://www.n-tv.de/politik/Union-weiter-bei-36-Gruene-bei-20-Prozent-article22298449.html Forsa]
+| data-sort-value="2021-01-16"| 11–15 Jan 2021
+| 2,504
+| 24
+| {{Party shading/CDU}}| '''35'''
+| 15
+| 9
+| 6
+| 8
+| 20
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 15
 |-
-|[https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
-|data-sort-value="2021-01-15"|12–14 Jan 2021
-|1,262
-|24
-|style="background:#D7D5D7;"|'''37'''
-|15
-|10
-|5
-|8
-|20
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|17
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| data-sort-value="2021-01-15"| 12–14 Jan 2021
+| 1,262
+| 24
+| {{Party shading/CDU}}| '''37'''
+| 15
+| 10
+| 5
+| 8
+| 20
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 17
 |-
-|[https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-|data-sort-value="2021-01-16"|5–13 Jan 2021
-|2,398
-|–
-|style="background:#D7D5D7;"|'''36'''
-|15
-|10
-|7
-|8
-|18
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-01-16"| 5–13 Jan 2021
+| 2,398
+| –
+| {{Party shading/CDU}}| '''36'''
+| 15
+| 10
+| 7
+| 8
+| 18
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 18
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-01-11"|8–11 Jan 2021
-|2,042
-|–
-|style="background:#D7D5D7;"|'''36'''
-|15
-|10
-|7.5
-|8
-|18
-|–
-|5.5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-01-11"| 8–11 Jan 2021
+| 2,042
+| –
+| {{Party shading/CDU}}| '''36'''
+| 15
+| 10
+| 7.5
+| 8
+| 18
+| –
+| 5.5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 18
 |-
-|[https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-|data-sort-value="2021-01-09"|4–8 Jan 2021
-|2,503
-|21
-|style="background:#D7D5D7;"|'''36'''
-|14
-|8
-|7
-|8
-|20
-|–
-|7
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|16
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-01-09"| 4–8 Jan 2021
+| 2,503
+| 21
+| {{Party shading/CDU}}| '''36'''
+| 14
+| 8
+| 7
+| 8
+| 20
+| –
+| 7
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 16
 |-
-|[https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
-|data-sort-value="2021-01-07"|4–6 Jan 2021
-|1,520
-|–
-|style="background:#D7D5D7;"|'''35'''
-|14
-|10
-|7
-|7
-|21
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|14
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-01-07"| 4–6 Jan 2021
+| 1,520
+| –
+| {{Party shading/CDU}}| '''35'''
+| 14
+| 10
+| 7
+| 7
+| 21
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 14
 |-
-|[https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
-|data-sort-value="2021-01-06"|30 Dec 2020–5 Jan 2021
-|1,588
-|–
-|style="background:#D7D5D7;"|'''36'''
-|15
-|10
-|6
-|9
-|18
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
+| [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
+| data-sort-value="2021-01-06"| 30 Dec 2020–5 Jan 2021
+| 1,588
+| –
+| {{Party shading/CDU}}| '''36'''
+| 15
+| 10
+| 6
+| 9
+| 18
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 18
 |-
-|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
-|data-sort-value="2021-01-04"|1–4 Jan 2021
-|2,072
-|–
-|style="background:#D7D5D7;"|'''36'''
-|15
-|11
-|7.5
-|7.5
-|18
-|–
-|5
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|18
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-01-04"| 1–4 Jan 2021
+| 2,072
+| –
+| {{Party shading/CDU}}| '''36'''
+| 15
+| 11
+| 7.5
+| 7.5
+| 18
+| –
+| 5
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 18
 |-
-|[https://www.wahlrecht.de/umfragen/gms.htm GMS]
-|data-sort-value="2021-01-04"|29 Dec 2020–4 Jan 2021
-|1,004
-|–
-|style="background:#D7D5D7;"|'''37'''
-|16
-|9
-|6
-|8
-|18
-|–
-|6
-|style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"|19
-|-
-|-
-| style="background:#E9E9E9;"| [[2017 German federal election|2017 federal election]]
-| style="background:#E9E9E9;" data-sort-value="2017-09-24"| 24 Sep 2017
-| style="background:#E9E9E9;"| –
-| style="background:#E9E9E9;"| 23.8
-| style="background:#D7D5D7;"| '''32.9'''
-| style="background:#E9E9E9;"| 20.5
-| style="background:#E9E9E9;"| 12.6
-| style="background:#E9E9E9;"| 10.7
-| style="background:#E9E9E9;"| 9.2
-| style="background:#E9E9E9;"| 8.9
-| style="background:#E9E9E9;"| 1.0
-| style="background:#E9E9E9;"| 4.0
+| [https://www.wahlrecht.de/umfragen/gms.htm GMS]
+| data-sort-value="2021-01-04"| 29 Dec 2020–4 Jan 2021
+| 1,004
+| –
+| {{Party shading/CDU}}| '''37'''
+| 16
+| 9
+| 6
+| 8
+| 18
+| –
+| 6
+| style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 19
+|- style="background:#E9E9E9;"
+| [[2017 German federal election| 2017 federal election]]
+| data-sort-value="2017-09-24"| 24 Sep 2017
+| –
+| 23.8
+| {{Party shading/CDU}}| '''32.9'''
+| 20.5
+| 12.6
+| 10.7
+| 9.2
+| 8.9
+| 1.0
+| 4.0
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 12.4
 |}

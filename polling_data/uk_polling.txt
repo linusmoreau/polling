@@ -20,6 +20,19 @@
 ! data-sort-type="number" style="background:{{Scottish National Party/meta/color}};"|
 ! data-sort-type="number" style="background:{{Green Party of England and Wales/meta/color}};"|
 |-
+|{{opdrts||29|Aug|2021}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-29-august-2021/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''41%'''
+|33%
+|9%
+|4%
+|5%
+|{{Hidden|7%|[[Brexit Party|Reform UK]] on 4%<br/>[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|8%
+|-
 |{{opdrts||23|Aug|2021}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-23-august-2021/ Redfield & Wilton Strategies]
 |N/A
@@ -32,6 +45,32 @@
 |6%
 |{{Hidden|4%|[[Brexit Party|Reform UK]] on 3%<br/>[[Plaid Cymru]] on 0%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|10%
+|-
+|{{opdrts|19|23|Aug|2021}}
+|[https://www.kantar.com/uki/inspiration/politics/only-four-in-ten-britons-think-climate-change-should-be-a-priority Kantar Public]
+|N/A
+|GB
+|1,094
+|style="background:#CCEBFF;"|'''37%'''
+|34%
+|14%
+|4%
+|5%
+|{{hidden|headerstyle=font-weight:normal;line-height:10px;|6%|[[Reform UK]] on 2%<br/>[[UKIP]] on 2%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|3%
+|-
+|{{opdrts|20|22|Aug|2021}}
+|[https://twitter.com/savantacomres/status/1430451877586604039?s=21 SavantaComRes]
+|N/A
+|UK
+|2,083
+|style="background:#CCEBFF;"|'''41%'''
+|34%
+|9%
+|4%
+|4%
+|7%
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|7%
 |-
 |{{opdrts|19|20|Aug|2021}}
 |[https://www.opinium.com/wp-content/uploads/2021/08/19-08-21-Observer-tables.xlsx Opinium]

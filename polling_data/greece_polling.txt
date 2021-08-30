@@ -29,8 +29,23 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Antarsya/meta/color}};"|
 ! style="background:{{Greeks for the Fatherland/meta/color}};"|
 |-
-| Alco/Open<ref>{{Cite web|date=2021-07-19|title=Μεγάλη δημοσκόπηση OPEN: Crash test κυβέρνησης – αντιπολίτευσης για όλα τα μεγάλα θέματα|url=https://www.ethnos.gr/politiki/166746_megali-dimoskopisi-open-crash-test-kybernisis-antipoliteysis-gia-ola-ta-megala|access-date=2021-07-19|website=Έθνος|language=el}}</ref>
-| 12–17 July 2021
+| GPO/Ta Nea<ref>{{cite web |title=Δημοσκόπηση GPO – «Πλήγωσαν» την κυβέρνηση οι πυργκαγιές – Στις 10 μονάδες η διαφορά ΝΔ και ΣΥΡΙΖΑ |url=https://www.tanea.gr/2021/08/28/politics/dimoskopisi-gpo-pligosan-tin-kyvernisi-oi-pyrgkagies-stis-10-monades-i-diafora-nd-kai-syriza/ |language=el |work=Ta Nea |date=28 August 2021}}</ref><ref>{{cite web |title=Δημοσκόπηση GPO: Στις 10 μονάδες η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ |url=https://www.newsbomb.gr/politikh/story/1227506/dimoskopisi-gpo-stis-10-monades-i-diafora-tis-nd-apo-ton-syriza |language=el |work=Newsbomb |date=28 August 2021}}</ref>
+| 28 Aug 2021
+|?
+| {{Party shading/ND}}| '''40.2'''
+| 28.4
+| 7.5
+| 7.0
+| 4.8
+| 3.5
+| –
+| –
+| –
+| 1.7
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 11.8
+|-
+| Alco/Open<ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΙΟΥΛΙΟΣ 2021 |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%B9%CE%BF%CF%85%CE%BB%CE%B9%CE%BF%CF%83-2021 |language=el |work=Alco |date=17 June 2021}}</ref>
+| 12–17 Jul 2021
 | 1,000
 | {{Party shading/ND}}| '''41.7'''
 | 27.2
@@ -44,14 +59,14 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 14.5
 |-
-| ProRata/Efimerida ton Sintakton<ref>{{Cite web|last=Team|first=ΤοΒΗΜΑ|date=2021-07-19|title=Δημοσκόπηση: Πτώση της ΝΔ λόγω πανδημίας – Στις δέκα μονάδες η διαφορά από ΣΥΡΙΖΑ|url=https://www.tovima.gr/2021/07/19/politics/dimoskopisi-ptosi-tis-nd-logo-pandimias-stis-deka-monades-i-diafora-apo-syriza/|access-date=2021-07-22|website=Ειδήσεις - νέα - Το Βήμα Online|language=el}}</ref><ref>{{Cite web|last=Newsroom|title=Δημοσκόπηση Prorata: Το 75% διαφωνεί με τα νέα μέτρα για τους ανεμβολίαστους|url=https://www.ieidiseis.gr/ellada/102317/dimoskopisi-prorata-to-75-diafonei-me-ta-nea-metra-gia-tous-anemvoliastous|access-date=2021-07-22|website=www.ieidiseis.gr|language=el-gr}}</ref>
-| 7–11 July 2021
+| ProRata/Efimerida ton Sintakton<ref>{{cite web |title=Δημοσκόπηση: Πτώση της ΝΔ λόγω πανδημίας – Στις δέκα μονάδες η διαφορά από ΣΥΡΙΖΑ |url=https://www.tovima.gr/2021/07/19/politics/dimoskopisi-ptosi-tis-nd-logo-pandimias-stis-deka-monades-i-diafora-apo-syriza/ |language=el |website=To Vima |date=19 July 2021}}</ref><ref>{{cite web|last=Newsroom|title=Δημοσκόπηση Prorata: Το 75% διαφωνεί με τα νέα μέτρα για τους ανεμβολίαστους|url=https://www.ieidiseis.gr/ellada/102317/dimoskopisi-prorata-to-75-diafonei-me-ta-nea-metra-gia-tous-anemvoliastous|access-date=2021-07-22|website=www.ieidiseis.gr|language=el-gr}}</ref>
+| 7–11 Jul 2021
 | 1,735
-| {{Party shading/ND}}| '''41.3'''
-| 29.3
-| 8.4
-| 4.8
-| 3.6
+| {{Party shading/ND}}| '''41.5'''
+| 29.5
+| 8.5
+| 5.0
+| 3.5
 | 3.0
 | –
 | –
@@ -59,9 +74,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 12.0
 |-
-| GPO/ANT1<ref>{{Cite web|date=2021-07-13|title=GPO: Προβάδισμα για τη ΝΔ και κυριαρχία του Κυρ. Μητσοτάκη|url=https://www.powergame.gr/ellada/98658/gpo-provadisma-gia-ti-nd-kai-kyriarchia-tou-kyr-mitsotaki/|access-date=2021-07-13|website=PowerGame|language=el}}</ref><ref>{{Cite web|date=2021-07-13|title=Δημοσκόπηση GPO: Δένδιας, Πιερρακάκης και Κικίλιας έχουν κερδίσει την εμπιστοσύνη των πολιτών|url=https://www.parapolitika.gr/politiki/article/1127251/dimofilia-upourgon-dendias-pierrakakis-kai-kikilias-ehoun-kerdisei-tin-ebistosuni-tou-kosmou/|access-date=2021-07-13|website=www.parapolitika.gr|language=el}}</ref>
-| 7–11 July 2021
-| 1,000
+| GPO/Powergame.gr<ref>{{cite web |title=GPO: Προβάδισμα για τη ΝΔ και κυριαρχία του Κυρ. Μητσοτάκη|url=https://www.powergame.gr/ellada/98658/gpo-provadisma-gia-ti-nd-kai-kyriarchia-tou-kyr-mitsotaki/ |language=el |work=Powergame.gr |date=13 July 2021}}</ref>
+| 7–10 Jul 2021
+|?
 | {{Party shading/ND}}| '''42.8'''
 | 28.5
 | 7.7
@@ -74,24 +89,24 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 14.3
 |-
-| MRB/Star<ref>{{Cite web|date=2021-07-08|title=Δημοσκόπηση MRB: Η Φώφη Γεννηματά προηγείται στα εσωκομματικά του Κινήματος Αλλαγής|url=https://www.protothema.gr/politics/article/1141344/dimoskopisi-mrb-i-fofi-gennimata-proigeitai-sta-esokommatika-tou-kinimatos-allagis/|access-date=2021-07-08|website=ProtoThema|language=el}}</ref><ref>{{Cite web|last=Capital.gr|title=Δημοσκόπηση MRB: Ξεκάθαρο προβάδισμα 13% της ΝΔ έναντι του ΣΥΡΙΖΑ|url=https://www.thetoc.gr/politiki/article/taseis-mrb-kratoun-to-probadisma-nd-kai-mitsotakis/|access-date=2021-07-08|website=Capital.gr|language=el}}</ref>
-| 4–7 July 2021
-| 1,000
-| {{Party shading/ND}}| '''43.6'''
-| 28.3
-| 8.4
-| 6.2
-| 4.2
-| 3.6
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: Στις 14 μονάδες η «ψαλίδα» ΝΔ-ΣΥΡΙΖΑ-Τι λένε για οικονομία-εγκληματικότητα |url=https://www.skai.gr/news/politics/dimoskopisi-skai-14-monades-psalida-nd-syriza-ti-lene-oikonomia-egklimatikotita-1 |language=el |work=Skai |access-date=7 July 2021}}</ref><ref>{{cite web |title=Pulse RC. 5 - 7 Ιουλίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-07/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20%CE%A3%CE%9A%CE%91%CE%AA%20%CE%99%CE%9F%CE%A5%CE%9B%CE%99%CE%9F%CE%A3.pdf |language=el |work=Pulse RC |date=7 July 2021}}</ref>
+| 5–7 Jul 2021
+| 1,305
+| {{Party shading/ND}}| '''41.5'''
+| 26.5
+| 7.5
+| 6.5
+| 5.0
+| 4.0
 | –
 | –
 | –
-| 1.4
-| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 15.3
+| 1.0
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 15.0
 |-
-| Opinion Poll/tomanifesto.gr<ref>{{Cite web|date=2021-07-08|title=Δημοσκόπηση Opinion Poll: Στις 16,5 μονάδες η διαφορά ΝΔ-ΣΥΡΙΖΑ - Μερικώς υποχρεωτικό εμβόλιο θέλουν δύο στους τρεις|url=https://www.protothema.gr/files/2021-07-08/%CE%91%CE%A0%CE%9F%CE%A4%CE%95%CE%9B%CE%95%CE%A3%CE%9C%CE%91%CE%A4%CE%91_%CE%A0%CE%9F%CE%9B%CE%99%CE%A4%CE%99%CE%9A%CE%97%CE%A3_%CE%95%CE%A1%CE%95%CE%A5%CE%9D%CE%91%CE%A3_%CE%93%CE%99%CE%91_tomanifesto_gr.pdf|url-status=live|access-date=2021-07-09|website=ProtoThema|language=el}}</ref>
-| 1–7 July 2021
-| 1,302
+| Opinion Poll/tomanifesto.gr<ref>{{cite web |title=ΠΑΝΕΛΛΑΔΙΚΗ ΕΡΕΥΝΑ. Opinion Poll. ΙΟΥΛΙΟΣ 2021 |url=https://www.protothema.gr/files/2021-07-08/%CE%91%CE%A0%CE%9F%CE%A4%CE%95%CE%9B%CE%95%CE%A3%CE%9C%CE%91%CE%A4%CE%91_%CE%A0%CE%9F%CE%9B%CE%99%CE%A4%CE%99%CE%9A%CE%97%CE%A3_%CE%95%CE%A1%CE%95%CE%A5%CE%9D%CE%91%CE%A3_%CE%93%CE%99%CE%91_tomanifesto_gr.pdf |language=el |work=Opinion Poll |date=8 June 2021}}</ref>
+| 30 Jun–7 Jul 2021
+| 1,002
 | {{Party shading/ND}} | '''46.4'''
 | 25.8
 | 8.0
@@ -104,68 +119,68 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;" | 20.6
 |-
-| Pulse RC/Skai<ref>{{Cite web|title=Δημοσκόπηση ΣΚΑΪ: Υπέρ του υποχρεωτικού εμβολιασμού το 65% των Ελλήνων- Ανησυχία για μεταλλάξεις|url=https://www.skai.gr/sites/default/files/attachments/2021-07/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20%CE%A3%CE%9A%CE%91%CE%AA%20%CE%99%CE%9F%CE%A5%CE%9B%CE%99%CE%9F%CE%A3.pdf|url-status=live|website=Skai.gr}}</ref><ref>{{Cite web|date=2021-07-07|title=Δημοσκόπηση Pulse: Το 72% λέει «ναι» στον εμβολιασμό|url=https://www.protothema.gr/greece/article/1141096/dimoskopisi-pulseto-72-dilonoun-oti-tha-emvioliastoun/|access-date=2021-07-07|website=ProtoThema|language=el}}</ref>
-| 27 June–7 July 2021
-| 1,305
-| {{Party shading/ND}}| '''41.4'''
-| 26.4
-| 7.5
-| 6.9
+| MRB/Star<ref>{{cite web |title=Δημοσκόπηση MRB / Τα στοιχεία που τρομάζουν την κυβέρνηση - Πού αποτυπώνεται καθαρά η φθορά της ΝΔ |url=https://www.avgi.gr/politiki/391172_ta-stoiheia-poy-tromazoyn-tin-kybernisi-poy-apotyponetai-kathara-i-fthora-tis-nd |language=el |work=Avgi |date=9 June 2021}}</ref>
+| 23 Jun–1 Jul 2021
+| 2,000
+| {{Party shading/ND}}| '''43.6'''
+| 28.3
+| 8.4
+| 6.2
+| 4.2
+| 3.6
+| –
+| –
+| –
+| 1.4
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 15.3
+|-
+| GPO/Ta Nea<ref>{{cite web |title=Δημοσκόπηση: Πολιτική κυριαρχία για την κυβέρνηση – Ποια η διαφορά στην πρόθεση ψήφου |url=https://www.in.gr/2021/07/04/politics/vouli/dimoskopisi-politiki-kyriarxia-gia-tin-kyvernisi-dyo-xronia-meta-tis-kalpes/ |language=el |work=in.gr |date=4 June 2021}}</ref>
+| 26–29 Jun 2021
+| 1,000
+| {{Party shading/ND}}| '''43.0'''
+| 28.4
+| 7.9
+| 7.1
+| 4.8
+| 3.5
+| –
+| –
+| –
+| –
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 14.6
+|-
+| Marc/Proto Thema<ref>{{cite web |title=Γκάλοπ MARC για το «Πρώτο ΘΕΜΑ»: 65% υποχρεωτικό το εμβόλιο - Μπροστά με 16,4% η ΝΔ στην πρόθεση ψήφου |url=https://www.protothema.gr/greece/article/1137549/galop-marc-65-upohreotiko-to-emvolio/ |language=el |work=Proto Thema |date=27 June 2021}}</ref><ref>{{cite web |title=ΠΑΝΕΛΛΑΔΙΚΗ ΠΟΛΙΤΙΚΗ ΕΡΕΥΝΑ. ΙΟΥΝΙΟΣ 2021 |url=https://www.protothema.gr/files/2021-06-27/%CE%A0%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%B1%CE%B4%CE%B9%CE%BA%CE%B7_%CE%95%CF%81%CE%B5%CF%85%CE%BD%CE%B1_%CE%A0%CE%A1%CE%A9%CE%A4%CE%9F_%CE%98%CE%95%CE%9C%CE%91_%CE%99%CE%BF%CF%85%CE%BD2021.pdf |language=el |work=Marc |date=27 jUNE 2021}}</ref>
+| 18–24 Jun 2021
+| 1,006
+| {{Party shading/ND}}| '''45.7'''
+| 25.8
+| 7.8
+| 6.7
+| 4.3
+| 3.6
+| –
+| –
+| –
+| –
+|style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 19.9
+|-
+| Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση Interview: Μπροστά η ΝΔ με 14,8% έναντι του ΣΥΡΙΖΑ |url=https://www.iefimerida.gr/politiki/dimoskopisi-interview-mprosta-i-nd-me-148 |language=el |work=iefimerida |date=24 June 2021}}</ref><ref>{{cite web |title=Έρευνα κοινής γνώμης με πρόθεση ψήφου και επίκαιρες ερωτήσεις για λογαριασμό της ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ |url=https://www.interview.com.gr/wp-content/uploads/2021/06/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%99%CE%BF%CF%8D%CE%BD%CE%B9%CE%BF%CF%82_2021.pdf |language=el |work=Interview |date=25 June 2021}}</ref>
+| 17–23 Jun 2021
+| 1,211
+| {{Party shading/ND}}| '''42.0'''
+| 25.2
+| 8.0
+| 6.5
 | 5.2
-| 4.0
+| 3.9
 | –
 | –
 | –
-| 1.1
-| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 15.0
+| –
+|style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 16.8
 |-
-|GPO/Ta Nea<ref>{{Cite web|title=Τι δείχνει νέα δημοσκόπηση – Η διαφορά ΝΔ-ΣΥΡΙΖΑ|url=https://www.aftodioikisi.gr/politiki/ti-deichnei-nea-dimoskopisi-i-diafora-nd-syriza-eikona/|url-status=live|website=aftodioikisi.gr}}</ref><ref>{{Cite web|title=Δημοσκόπηση GPO: Με 12,4% μονάδες προηγείται η ΝΔ έναντι του ΣΥΡΙΖΑ {{!}} LiberalGr|url=https://www.liberal.gr/news/dimoskopisi-gpo-me-124-monades-proigeitai-i-nd-enanti-tou-suriza/388722|access-date=2021-07-06|website=www.liberal.gr|language=el}}</ref>
-|1–2 July 2021
-|1,000
-|{{Party shading/ND}}| '''43.0'''
-|28.4
-|7.9
-|7.1
-|4.8
-|3.5
-|–
-|–
-|–
-|–
-|style="background:{{New Democracy (Greece)/meta/color}}; color:white;"|14.6
-|-
-|Marc/Proto Thema<ref>{{Cite web|date=2021-06-27|title=Δημοσκόπηση: Η πλειοψηφία των πολιτών τάσσεται υπέρ του υποχρεωτικού εμβολιασμού|url=https://www.newsbeast.gr/politiki/arthro/7549529/dimoskopisi-i-pleiopsifia-ton-politon-tassetai-yper-tou-ypochreotikou-emvoliasmou|access-date=2021-06-27|website=Newsbeast|language=el}}</ref><ref>{{Cite web|last=Παπούλια {{!}}|first=ΕΠΙΜΕΛΕΙΑ Ευτυχία|date=2021-06-27|title=Δημοσκόπηση Marc - Πρώτο Θέμα: 16,4 μονάδες μπροστά η ΝΔ|url=https://www.alphafreepress.gr/2021/06/27/politikh/dimoskopisi-marc-proto-thema-164-monades-mprosta-i-nd/|access-date=2021-06-27|website=Alphafreepress.gr|language=el}}</ref>
-|20–25 June 2021
-|1,000
-|{{Party shading/ND}}| '''45.7'''
-|25.8
-|7.8
-|6.7
-|4.3
-|3.6
-|–
-|–
-|–
-|–
-|style="background:{{New Democracy (Greece)/meta/color}}; color:white;"|19.9
-|-
-|Interview/Vergina TV<ref>{{Cite web|last=Λελεδάκη|first=Ευδοκία|date=2021-06-24|title=Δημοσκόπηση Interview: 14,8% μπροστά η ΝΔ από τον ΣΥΡΙΖΑ- Στο 7% το Κίνημα Αλλαγής - TheCaller|url=https://thecaller.gr/politiki/dimoskopisi-interview-14-8-brosta-i-nd-apo-ton-siriza-sto-7-to-kinima-allagis/|access-date=2021-06-27|website=https://thecaller.gr/|language=el}}</ref>
-|17–23 June 2021
-|1,100
-|{{Party shading/ND}}| '''42.0'''
-|25.2
-|8.0
-|6.5
-|5.2
-|3.9
-|–
-|–
-|–
-|–
-|style="background:{{New Democracy (Greece)/meta/color}}; color:white;"|16.8
-|-
-| Alco/Open<ref>{{Cite web|date=2021-06-22|title=Δημοσκόπηση Alco: Με 12,9 μονάδες προηγείται η Νέα Δημοκρατία|url=https://www.protothema.gr/politics/article/1136172/dimoskopisi-alco-me-129-monades-proigeitai-i-nea-dimokratia/|access-date=2021-06-22|website=ProtoThema|language=el}}</ref>
-| 15–19 June 2021
+| Alco/Open<ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΙΟΥΝΙΟΣ 2021 |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%B9%CE%BF%CF%85%CE%BB%CE%B9%CE%BF%CF%83-2021 |language=el |work=Alco |date=22 June 2021}}</ref>
+| 15–19 Jun 2021
 | 1,000
 | {{Party shading/ND}}| '''43.2'''
 | 28.1
@@ -179,13 +194,13 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 15.1
 |-
-| GPO/ANT1<ref>{{Cite web|last=IEFIMERIDA.GR|first=NEWSROOM|date=2021-06-08|title=Δημοσκόπηση GPO: Προηγείται με 12,6% η ΝΔ -Κυριαρχία Μητσοτάκη σε οικονομία, επενδύσεις {{!}} ΠΟΛΙΤΙΚΗ|url=https://www.iefimerida.gr/politiki/gpo-proigeitai-me-me-126-i-nd-kyriarhia-mitsotaki|access-date=2021-06-08|website=iefimerida.gr|language=el}}</ref>
-| 4–7 June 2021
-| 1,000
+| GPO/Powergame.gr<ref>{{cite web |title=Δημοσκόπηση GPO: Σταθεροί συσχετισμοί σε μεταβαλλόμενο τοπίο |url=https://www.powergame.gr/ellada/82662/dimoskopisi-gpo-statheroi-syschetismoi-se-metavallomeno-topio/ |language=el |work=Powergame.gr |date=8 June 2021}}</ref>
+| 3–5 Jun 2021
+|?
 | {{Party shading/ND}}| '''42.6'''
 | 27.8
 | 8.2
-| 7.1
+| 7.2
 | 4.1
 | 4.1
 | –
@@ -194,37 +209,37 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 14.8
 |-
-| Pulse RC/Skai<ref>{{Cite web|title=Επιβεβαιώνεται η άνοδος των "Ελλήνων". Κάπως χλωμός ο κ. Βορίδης...|url=http://panusis.blogspot.com/2021/06/blog-post_3.html|access-date=2021-06-03|language=el}}</ref><ref>{{Cite web|title=Δημοσκόπηση ΣΚΑΪ: 14 μονάδες η «ψαλίδα» ΝΔ-ΣΥΡΙΖΑ-Τι λένε για οικονομία - ελληνοτουρκικά {{!}} ΣΚΑΪ|url=https://www.skai.gr/news/politics/dimoskopisi-skai-14-monades-i-psalida-nd-syriza-ti-lene-gia-oikonomia-ellinotourkika|access-date=2021-06-03|website=www.skai.gr|language=el}}</ref>
-| 31 May–2 June 2021
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 14 μονάδες η «ψαλίδα» ΝΔ-ΣΥΡΙΖΑ-Τι λένε για οικονομία - ελληνοτουρκικά |url=https://www.skai.gr/news/politics/dimoskopisi-skai-14-monades-i-psalida-nd-syriza-ti-lene-gia-oikonomia-ellinotourkika |language=el |work=Skai |access-date=2 June 2021}}</ref><ref>{{cite web |title=Pulse RC. 31 Μαΐου - 2 Ιουνίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-06/dimoskopisi-new_0.pdf |language=el |work=Pulse RC |date=2 June 2021}}</ref>
+| 31 May–2 Jun 2021
 | 1,304
-| {{Party shading/ND}}| '''42.3'''
-| 26.9
-| 7.7
+| {{Party shading/ND}}| '''42.5'''
+| 27.0
+| 7.5
 | 6.0
-| 4.4
-| 3.8
+| 4.5
+| 4.0
 | –
 | –
 | –
-| 1.1
-| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 15.4
+| 1.0
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 15.5
 |-
-| Opinion Poll<ref>{{Cite web|date=2021-05-31|title=Δημοσκόπηση Opinion Poll: Στο 17,4% η διαφορά ΝΔ από ΣΥΡΙΖΑ, με 60% καταλληλότερος ο Μητσοτάκης|url=https://www.newsit.gr/politikh/dimoskopisi-Opinion-Poll-sto-17-4-i-diafora-nd-apo-syriza-me-60-katalliloteros-o-mitsotakis/3295825/|access-date=2021-05-31|website=NewsIT|language=el}}</ref><ref>{{Cite web|date=2021-05-31|title=Δημοσκόπηση Opinion Poll: Στο 17,4% η διαφορά της Νέας Δημοκρατίας από τον ΣΥΡΙΖΑ|url=https://www.newsbeast.gr/politiki/arthro/7455772/dimoskopisi-opinion-poll-sto-174-i-diafora-tis-neas-dimokratias-apo-ton-syriza|access-date=2021-05-31|website=Newsbeast.gr|language=el}}</ref>
-| 27–30 May 2021
-| 1,600
+| Opinion Poll<ref>{{cite web |title=Δημοσκόπηση Opinion Poll: Στο 17,4% η διαφορά της Νέας Δημοκρατίας από τον ΣΥΡΙΖΑ |url=https://www.newsbeast.gr/politiki/arthro/7455772/dimoskopisi-opinion-poll-sto-174-i-diafora-tis-neas-dimokratias-apo-ton-syriza |language=el |work=Newsbeast |date=31 May 2021}}</ref><ref>{{cite web |title=Βαρόμετρο Opinion Poll. ΠΑΝΕΛΛΑΔΙΚΗ ΕΡΕΥΝΑ. Μάιος 2021 |url=https://www.newsbeast.gr/files/1/2021/05/BAROMETRO_OPINION_POLL-MAIOS_2021.pdf |language=el |work=Opinion Poll |date=31 May 2021}}</ref>
+| 18–28 May 2021
+| 1,605
 | {{Party shading/ND}}| '''46.6'''
 | 24.8
 | 8.4
 | 6.6
 | 5.2
-| 3.8
+| 3.9
 | –
 | –
 | –
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 21.8
 |-
-| Metron Analysis/Mega<ref>{{Cite web|date=2021-05-26|title=Δημοσκόπηση Metron Analysis: «Ψήνονται» για το εμβόλιο - Προβάδισμα ΝΔ και Μητσοτάκη|url=https://www.newsit.gr/ellada/dimoskopisi-Metron-Analysis-psinontai-gia-to-emvolio-provadisma-nd-kai-mitsotaki/3292669/|access-date=2021-05-26|website=NewsIT|language=el}}</ref><ref>{{Cite web|date=2021-05-26|title=Δημοσκόπηση: Τι θα ψήφιζαν σήμερα οι πολίτες - Ποια θέματα τους απασχολούν, που χτυπά καμπανάκι για ΝΔ και ΣΥΡΙΖΑ|url=https://www.in.gr/2021/05/26/politics/dimoskopisi-sto-mega-megali-diafora-nd-syriza-poia-provlimata-fovizoun-tous-polites/|access-date=2021-05-26|website=in.gr|language=el}}</ref>
+| Metron Analysis/Mega<ref>{{cite web |title=Δημοσκόπηση Metron Analysis: «Ψήνονται» για το εμβόλιο - Προβάδισμα ΝΔ και Μητσοτάκη |url=https://www.newsit.gr/ellada/dimoskopisi-Metron-Analysis-psinontai-gia-to-emvolio-provadisma-nd-kai-mitsotaki/3292669/ |language=el |work=Newsit |date=26 May 2021}}</ref><ref>{{cite web |title=Δημοσκόπηση: Τι θα ψήφιζαν σήμερα οι πολίτες - Ποια θέματα τους απασχολούν, που χτυπά καμπανάκι για ΝΔ και ΣΥΡΙΖΑ |url=https://www.in.gr/2021/05/26/politics/dimoskopisi-sto-mega-megali-diafora-nd-syriza-poia-provlimata-fovizoun-tous-polites/ |language=el |work=in.gr |date=26 May 2021}}</ref>
 | 18–24 May 2021
 | 1,000
 | {{Party shading/ND}}| '''43.1'''
@@ -239,7 +254,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1.8
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 17.6
 |-
-| Alco/Open<ref>{{Cite web|last=IEFIMERIDA.GR|first=NEWSROOM|date=2021-05-24|title=Δημοσκόπηση ALCO: Μπροστά με 13,2% η ΝΔ -Το 38% θεωρεί ότι η ανάπτυξη θα έρθει με κυβέρνηση Μητσοτάκη {{!}} ΠΟΛΙΤΙΚΗ|url=https://www.iefimerida.gr/politiki/dimoskopisi-alco-mprosta-me-132-i-nd|access-date=2021-05-25|website=iefimerida.gr|language=el}}</ref>
+| Alco/Open<ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΜΑΙΟΣ 2021 |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%BC%CE%B1%CE%B9%CE%BF%CF%83-2021 |language=el |work=Alco |date=24 May 2021}}</ref>
 | 17–21 May 2021
 | 1,000
 | {{Party shading/ND}}| '''43.3'''
@@ -254,9 +269,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 15.4
 |-
-| Interview/Vergina TV<ref>{{Cite web|date=2021-05-18|title=Δημοσκόπηση: Εμβόλια, παρενέργειες και διαφορά ΝΔ - ΣΥΡΙΖΑ|url=https://www.newsit.gr/politikh/dimoskopisi-emvolia-parenergeies-kai-diafora-nd-syriza/3286741/|access-date=2021-05-18|website=NewsIT|language=el}}</ref>
-| 15–17 May 2021
-| 1,000
+| Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση: Εμβόλια, παρενέργειες και διαφορά ΝΔ - ΣΥΡΙΖΑ |url=https://www.newsit.gr/politikh/dimoskopisi-emvolia-parenergeies-kai-diafora-nd-syriza/3286741/ |language=el |work=Newsit |date=18 May 2021}}</ref><ref>{{cite web |title=Έρευνα κοινής γνώμης με πρόθεση ψήφου και επίκαιρες ερωτήσεις για λογαριασμό της ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ |url=https://www.interview.com.gr/wp-content/uploads/2021/05/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%9C%CE%AC%CF%8A%CE%BF%CF%82_2021.pdf |language=el |work=Interview |date=18 May 2021}}</ref>
+| 11–17 May 2021
+| 1,405
 | {{Party shading/ND}}| '''42.0'''
 | 24.4
 | 8.1
@@ -269,9 +284,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 17.6
 |-
-| GPO/ANT1<ref>{{Cite web|date=2021-05-11|title=Δημοσκόπηση GPO: Στις 13,7 μονάδες η διαφορά ΝΔ – ΣΥΡΙΖΑ, ποιοι υπουργοί χαίρουν εκτίμησης και ποιοι όχι|url=https://www.newsbeast.gr/politiki/arthro/7382955/dimoskopisi-gpo-stis-137-monades-i-diafora-nd-syriza-poioi-ypourgoi-chairoun-ektimisis-kai-poioi-ochi|access-date=2021-05-11|website=Newsbeast.gr|language=el}}</ref><ref>{{Cite web|title=Δημοσκόπηση GPO: Στις 13,7 μονάδες το προβάδισμα ΝΔ|url=https://www.athensvoice.gr/politics/713370_dimoskopisi-gpo-stis-137-monades-provadisma-nd|access-date=2021-05-11|website=Athens Voice|language=el}}</ref>
+| GPO/Powergame.gr<ref>{{cite web |title=GPO: Το προβάδισμα της ΝΔ και ο καταλύτης των εμβολιασμών |url=https://www.powergame.gr/ellada/68564/gpo-to-provadisma-tis-nd-kai-o-katalytis-ton-emvoliasmon/?fbclid=IwAR3HEhzzLKwK9yGIySTPcEnRtk0mnm7VUuahLmJh-BNaUatM_iXUEmlykLg |language=el |work=Powergame.gr |date=11 May 2021}}</ref>
 | 5–7 May 2021
-| 1,000
+|?
 | {{Party shading/ND}}| '''43.4'''
 | 27.3
 | 8.5
@@ -284,9 +299,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | -
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 16.1
 |-
-| Marc/Proto Thema<ref>{{Cite web|title=Γκάλοπ της MARC για το Πρώτο Θέμα: Η ΝΔ περνάει τον κάβο της κρίσης με διαφορά 15,4% |url=https://www.protothema.gr/politics/article/1120186/galop-tis-marc-gia-to-proto-thema-pernaei-ton-kavo-tis-krisis-me-diafora-154/|access-date=2021-05-03|website=ProtoThema|language=el}}</ref><ref>{{Cite web|date=2021-04-30|title=Δημοσκόπηση: Ανοίγει η ψαλίδα σε ΝΔ και ΣΥΡΙΖΑ - Τι λένε οι πολίτες για τον κορονοϊό και τα εμβόλια|url=https://www.in.gr/2021/04/30/politics/dimoskopisi-anoigei-psalida-se-nd-kai-syriza-ti-lene-oi-polites-gia-ton-koronaio-kai-ta-emvolia/|access-date=2021-05-01|website=in.gr|language=el}}</ref>
-| 27–29 Apr 2021
-| 1,000
+| Marc/Proto Thema<ref>{{cite web |title=Γκάλοπ της MARC για το Πρώτο Θέμα: Η ΝΔ περνάει τον κάβο της κρίσης με διαφορά 15,4% |url=https://www.protothema.gr/politics/article/1120186/galop-tis-marc-gia-to-proto-thema-pernaei-ton-kavo-tis-krisis-me-diafora-154/ |language=el |work=Proto Thema |date=1 May 2021}}</ref><ref>{{cite web |title=ΠΑΝΕΛΛΑΔΙΚΗ ΠΟΛΙΤΙΚΗ ΕΡΕΥΝΑ. ΑΠΡΙΛΙΟΣ 2021 |url=https://www.protothema.gr/files/2021-05-01/%CE%A0%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%B1%CE%B4%CE%B9%CE%BA%CE%B7_%CE%95%CF%81%CE%B5%CF%85%CE%BD%CE%B1_%CE%A0%CE%A1%CE%A9%CE%A4%CE%9F_%CE%98%CE%95%CE%9C%CE%91_%CE%91%CF%80%CF%812021__1_.pdf |language=el |work=Marc |date=1 May 2021}}</ref>
+| 22–27 Apr 2021
+| 1,025
 | {{Party shading/ND}}| '''44.7'''
 | 25.8
 | 8.4
@@ -299,24 +314,24 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | -
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 18.9
 |-
-| Pulse RC/Skai<ref>{{Cite web|date=2021-04-26|title=Δημοσκόπηση Pulse: Με 13,5 μονάδες προηγείται η Νέα Δημοκρατία|url=https://www.protothema.gr/politics/article/1118751/dimoskopisi-pulse-me-135-monades-proigeitai-i-nea-dimokratia/|access-date=2021-04-26|website=ProtoThema|language=el}}</ref><ref>{{Cite web|last=Capital.gr|title=Δημοσκόπηση ΣΚΑΪ: Στις 13,5 μονάδες η 'ψαλίδα' ΝΔ-ΣΥΡΙΖΑ|url=https://www.capital.gr/politiki/3541828/dimoskopisi-skai-stis-13-5-monades-i-psalida-nd-suriza|access-date=2021-04-26|website=Capital.gr|language=el}}</ref>
-| 20–25 Apr 2021
-| 1,000
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 13,5 μονάδες «μπροστά» η ΝΔ - Τι λένε για τη στάση Δένδια στην Άγκυρα |url=https://www.skai.gr/news/greece/dimoskopisi-skai-135-monades-mprosta-i-nd-ti-lene-gia-ti-stasi-dendia-stin-agkyra |language=el |work=Skai |date=26 April 2021}}</ref><ref>{{cite web |title=Pulse RC. 23 - 25 Απριλίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-04/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20260421_0.pdf |language=el |work=Pulse RC |date=26 April 2021}}</ref>
+| 23–25 Apr 2021
+| 1,305
 | {{Party shading/ND}}| '''42.0'''
-| 27.1
-| 7.7
-| 6.6
+| 27.0
+| 7.5
+| 6.5
 | 5.0
-| 3.3
+| 3.5
 | –
 | –
 | –
 | -
-| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 14.9
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 15.0
 |-
-| Opinion Poll<ref>{{Cite web|title=Δημοσκόπηση: Προβάδισμα 16% της ΝΔ έναντι του ΣΥΡΙΖΑ – Οι «άσοι» της κυβέρνησης {{!}} ΣΚΑΪ|url=https://www.skai.gr/news/politics/dimoskopisi-provadisma-16-tis-nd-enanti-tou-syriza-oi-asoi-tis-kyvernisis|access-date=2021-04-26|website=www.skai.gr|language=el}}</ref>
-| 21–24 Apr 2021
-| 1,000
+| Opinion Poll<ref>{{cite web |title=Δημοσκόπηση: Προβάδισμα 16% της ΝΔ έναντι του ΣΥΡΙΖΑ – Οι «άσοι» της κυβέρνησης |url=https://www.skai.gr/news/politics/dimoskopisi-provadisma-16-tis-nd-enanti-tou-syriza-oi-asoi-tis-kyvernisis |language=el |work=Skai |date=26 April 2021}}</ref><ref>{{cite web |title=Βαρόμετρο Opinion Poll. ΠΑΝΕΛΛΑΔΙΚΗ ΕΡΕΥΝΑ. ΑΠΡΙΛΙΟΣ 2021 |url=https://www.protothema.gr/files/2021-04-26/%CE%92%CE%91%CE%A1%CE%9F%CE%9C%CE%95%CE%A4%CE%A1%CE%9F-OPINION-POLL-%CE%91%CE%A0%CE%A1%CE%99%CE%9B%CE%99%CE%9F%CE%A5-2021.pdf |language=el |work=Opinion Poll |date=26 April 2021}}</ref>
+| 19–23 Apr 2021
+| 1,001
 | {{Party shading/ND}}| '''46.7'''
 | 26.1
 | 8.0
@@ -329,9 +344,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | -
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 20.6
 |-
-| Interview/Politic.gr<ref>{{Cite web|title=Δημοσκόπηση: Προβάδισμα της ΝΔ με 14,6% και αποθέωση για Δένδια|url=https://www.newsit.gr/politikh/dimoskopisi-provadisma-tis-nd-me-14-6-kai-apotheosi-gia-dendia/3269828/|url-status=live|access-date=2021-04-23|website=www.newsit.gr|language=el}}</ref>
+| Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση: Προβάδισμα της ΝΔ με 14,6% και αποθέωση για Δένδια |url=https://www.newsit.gr/politikh/dimoskopisi-provadisma-tis-nd-me-14-6-kai-apotheosi-gia-dendia/3269828/ |language=el |work=Newsit |date=23 April 2021}}</ref><ref>{{cite web |title=Έρευνα κοινής γνώμης με πρόθεση ψήφου και επίκαιρες ερωτήσεις για λογαριασμό του Politic.gr |url=https://www.interview.com.gr/wp-content/uploads/2021/04/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_POLITIC_GR_%CE%91%CF%80%CF%81%CE%AF%CE%BB%CE%B9%CE%BF%CF%82_2021.pdf |language=el |work=Interview |date=23 April 2021}}</ref>
 | 19–22 Apr 2021
-| 1,115
+| 1,205
 | {{Party shading/ND}}| '''42.3'''
 | 25.5
 | 7.7
@@ -344,12 +359,12 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | -
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 16.8
 |-
-| Interview/Vergina TV<ref>{{Cite web|last=IEFIMERIDA.GR|first=NEWSROOM|date=2021-04-20|title=Δημοσκόπηση Interview: Μπροστά η ΝΔ με διαφορά 14,7% από τον ΣΥΡΙΖΑ {{!}} ΠΟΛΙΤΙΚΗ|url=https://www.iefimerida.gr/politiki/dimoskopisi-interview-mprosta-nd-me-147-enanti-syriza|access-date=2021-04-21|website=iefimerida.gr|language=el}}</ref>
+| Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση Interview: Μπροστά η ΝΔ με διαφορά 14,7% από τον ΣΥΡΙΖΑ |url=https://www.iefimerida.gr/politiki/dimoskopisi-interview-mprosta-nd-me-147-enanti-syriza |language=el |work=iefimerida |date=20 April 2021}}</ref><ref>{{cite web |title=Έρευνα κοινής γνώμης με πρόθεση ψήφου και επίκαιρες ερωτήσεις για λογαριασμό της ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ |url=https://www.interview.com.gr/wp-content/uploads/2021/04/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%91%CF%80%CF%81%CE%AF%CE%BB%CE%B9%CE%BF%CF%82_2021.pdf |language=el |work=Interview |date=20 April 2021}}</ref>
 | 13–19 Apr 2021
 | 1,115
 | {{Party shading/ND}}| '''42.3'''
 | 25.3
-| 7.7
+| 7.6
 | 6.4
 | 5.9
 | 3.9
@@ -359,7 +374,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 17.0
 |-
-| Alco/Open<ref>{{Cite web|date=2021-04-19|title=Δημοσκόπηση Alco: Με 13,6 μονάδες μπροστά η ΝΔ από τον ΣΥΡΙΖΑ|url=https://www.protothema.gr/greece/article/1116386/dimoskopisi-alco-me-136-monades-brosta-i-nd-apo-ton-suriza/|access-date=2021-04-19|website=ProtoThema|language=el}}</ref>
+| Alco/Open<ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΑΠΡΙΛΙΟΣ 2021 |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%B1%CF%80%CF%81%CE%B9%CE%BB%CE%B9%CE%BF%CF%83-2021 |language=el |work=Alco |date=19 April 2021}}</ref>
 | 12–16 Apr 2021
 | 1,000
 | {{Party shading/ND}}| '''43.3'''
@@ -374,9 +389,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 15.7
 |-
-| GPO/Powergame.gr<ref>{{Cite web|date=2021-04-13|title=Προβάδισμα ΝΔ με πάνω από 12 μονάδες σε νέα δημοσκόπηση – Ποιοι είναι οι πρώτοι σε δημοφιλία υπουργοί|url=https://www.tanea.gr/2021/04/13/politics/provadisma-nd-me-pano-apo-12-monades-se-nea-dimoskopisi-poioi-einai-oi-protoi-se-dimofilia-ypourgoi/|access-date=2021-04-13|website=ΤΑ ΝΕΑ|language=el}}</ref>
-| 10–12 Apr 2021
-| 1,000
+| GPO/Powergame.gr<ref>{{cite web |title=Δημοσκόπηση GPO: Προηγείται η ΝΔ, αμετάβλητοι οι συσχετισμοί |url=https://www.powergame.gr/ellada/55450/dimoskopisi-gpo-proigeitai-i-nd-ametavlitoi-oi-syschetismoi/ |language=el |work=Powergame.gr |date=13 April 2021}}</ref>
+| 6–9 Apr 2021
+|?
 | {{Party shading/ND}}| '''42.5'''
 | 27.8
 | 8.3
@@ -389,37 +404,37 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 14.7
 |-
-| ProRata/Efimerida ton Sintakton<ref>{{Cite web|title=Δημοσκόπηση Prorata: Διατηρεί το προβάδισμα η ΝΔ – Δυσαρέσκεια για την αντιπολίτευση του ΣΥΡΙΖΑ|url=https://www.newsit.gr/politikh/dimoskopisi-Prorata-diatirei-to-provadisma-i-nd-dysareskeia-gia-tin-antipoliteysi-tou-syriza/3260341|url-status=live|access-date=2021-04-10|website=www.newsit.gr}}</ref>
-| 8–9 Apr 2021
+| ProRata/Efimerida ton Sintakton<ref>{{cite web |title=Αποδοκιμάζουν κυβέρνηση και δόγμα ατομικής ευθύνης |url=https://www.efsyn.gr/politiki/289306_apodokimazoyn-kybernisi-kai-dogma-atomikis-eythynis |language=el |work=Efsyn |date=10 April 2021}}</ref>
+| 31 Mar–6 Apr 2021
 | 1,000
 | {{Party shading/ND}}| '''41.5'''
-| 30.2
+| 30.0
 | 7.5
-| 5.7
-| 3.8
-| 3.8
+| 5.5
+| 4.0
+| 4.0
 | –
 | –
 | –
 | –
-| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 11.3
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 11.5
 |-
-| Pulse RC/Skai<ref>{{Cite web|title=Δημοσκόπηση ΣΚΑΪ: 12 μονάδες μπροστά η ΝΔ - Οι απαντήσεις για ελληνοτουρκικά και Μπάιντεν|url=https://www.skai.gr/news/politics/dimoskopisi-skai12-monades-mprosta-i-nd-oi-apantiseis-gia-ellinotourkika-kai-mpainten|access-date=2021-03-30|website=ΣΚΑΪ|language=el}}</ref>
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 12 μονάδες μπροστά η ΝΔ - Οι απαντήσεις για ελληνοτουρκικά και Μπάιντεν |url=https://www.skai.gr/news/politics/dimoskopisi-skai12-monades-mprosta-i-nd-oi-apantiseis-gia-ellinotourkika-kai-mpainten |language=el |work=Skai |date=29 March 2021}}</ref><ref>{{cite web |title=Pulse RC. 26 - 28 Μαρτίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-03/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20290321.pdf |language=el |work=Pulse RC |date=29 March 2021}}</ref>
 | 26–28 Mar 2021
 | 1,306
-| {{Party shading/ND}}| '''41.3'''
-| 27.9
-| 7.8
-| 6.1
+| {{Party shading/ND}}| '''41.5'''
+| 28.0
+| 8.0
+| 6.0
 | 5.0
-| 3.4
+| 3.5
 | –
 | –
 | –
 | –
-| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 13.4
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 13.5
 |-
-| Metron Analysis/Mega<ref>{{Cite web|date=2021-03-24|title=Δημοσκόπηση Mega: Στο 11,8% η διαφορά ανάμεσα σε ΝΔ και ΣΥΡΙΖΑ|url=https://www.news.gr/politikh/article/2527764/dimoskopisi-mega-pia-ine-i-diafora-anamesa-se-nd-ke-siriza.html|access-date=2021-03-24|website=News.gr|language=en-US}}</ref>
+| Metron Analysis/Mega<ref>{{cite web |title=Δημοσκόπηση Mega: Στο 11,8% η διαφορά ανάμεσα σε ΝΔ και ΣΥΡΙΖΑ |url=https://www.news.gr/politikh/article/2527764/dimoskopisi-mega-pia-ine-i-diafora-anamesa-se-nd-ke-siriza.html |language=el |work=News.gr |date=24 March 2021}}</ref>
 | 17–23 Mar 2021
 | 1,000
 | {{Party shading/ND}}| '''43.4'''
@@ -427,14 +442,14 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 8.1
 | 5.9
 | 5.8
-| 4.7
+| 4.6
 | –
 | –
 | 1.3
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 15.9
 |-
-| Marc/Alpha<ref>{{Cite web|date=2021-03-24|title=Δημοσκόπηση Marc: Με 15,6 μονάδες προηγείται η ΝΔ του ΣΥΡΙΖΑ|url=https://www.protothema.gr/politics/article/1107941/dimoskopisi-marc-me-156-monades-proigeitai-i-nd-tou-suriza/|access-date=2021-03-24|website=ProtoThema|language=el}}</ref>
+| Marc/Alpha<ref>{{cite web |title=Δημοσκόπηση Marc: Με 15,6 μονάδες προηγείται η ΝΔ του ΣΥΡΙΖΑ |url=https://www.protothema.gr/politics/article/1107941/dimoskopisi-marc-me-156-monades-proigeitai-i-nd-tou-suriza/ |language=el |work=Proto Thema |date=24 March 2021}}</ref>
 | 19–22 Mar 2021
 | 1,003
 | {{Party shading/ND}}| '''45.2'''
@@ -449,9 +464,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 19.5
 |-
-| Interview/Vergina TV<ref name=":2">{{Cite web|date=2021-03-23|title=Δημοσκόπηση Interview: Σταθερά μπροστά η ΝΔ από τον ΣΥΡΙΖΑ με 15 μονάδες|url=https://www.protothema.gr/politics/article/1107518/dimoskopisi-interview-stathera-brosta-i-nd-apo-ton-suriza-me-15-monades/|access-date=2021-03-24|website=ProtoThema|language=el}}</ref>
+| Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση Interview: Σταθερά μπροστά η ΝΔ από τον ΣΥΡΙΖΑ με 15 μονάδες |url=https://www.protothema.gr/politics/article/1107518/dimoskopisi-interview-stathera-brosta-i-nd-apo-ton-suriza-me-15-monades/ |language=el |work=Proto Thema |date=23 March 2021}}</ref><ref>{{cite web |title=Έρευνα κοινής γνώμης με πρόθεση ψήφου και επίκαιρες ερωτήσεις για λογαριασμό της ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ |url=https://www.interview.com.gr/wp-content/uploads/2021/03/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%9C%CE%AC%CF%81%CF%84%CE%B9%CE%BF%CF%82_2021.pdf |language=el |work=Interview |date=23 March 2021}}</ref>
 | 17–22 Mar 2021
-| 1,104
+| 1,105
 | {{Party shading/ND}}| '''42.7'''
 | 25.4
 | 7.5
@@ -464,8 +479,8 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 17.3
 |-
-| Alco/Open<ref name=":02">{{Cite web|last=IEFIMERIDA.GR|first=NEWSROOM|date=2021-03-19|title=Δημοσκόπηση Alco: Με 14 μονάδες μπροστά η ΝΔ έναντι του ΣΥΡΙΖΑ -Θετική γνώμη για Μητσοτάκη το 48% {{!}} ΠΟΛΙΤΙΚΗ|url=https://www.iefimerida.gr/politiki/dimoskopisi-alco14-monades-nd-toy-syriza|access-date=2021-03-20|website=iefimerida.gr|language=el}}</ref><ref name=":12">{{Cite web|last=Capital.gr|title=Δημοσκόπηση Alco: Στις 14 μονάδες η διαφορά ΝΔ-ΣΥΡΙΖΑ - Ικανοποίηση από το πρόγραμμα εμβολιασμού|url=https://www.capital.gr/politiki/3533277/dimoskopisi-alco-stis-14-monades-i-diafora-nd-suriza-ikanopoiisi-apo-to-programma-emboliasmou|access-date=2021-03-20|website=Capital.gr|language=el}}</ref>
-| 14–18 Mar 2021
+| Alco/Open<ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΜΑΡΤΙΟΣ 2021 |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%BC%CE%B1%CF%81%CF%84%CE%B9%CE%BF%CF%83-2021 |language=el |work=Alco |date=19 March 2021}}</ref>
+| 12–17 Mar 2021
 | 1,000
 | {{Party shading/ND}}| '''42.8'''
 | 26.7
@@ -479,9 +494,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 16.1
 |-
-| GPO/Ta Nea<ref>{{cite web |title=Νέα δημοσκόπηση: Στο 13,7% η διαφορά της Νέας Δημοκρατίας από τον ΣΥΡΙΖΑ |url=https://www.protothema.gr/politics/article/1101815/nea-dimoskopisi-sto-137-i-diafora-tis-neas-dimokratias-apo-ton-suriza/ |language=el |work=Proto Thema |date=6 March 2021}}</ref>
-| 3–5 Mar 2021
-| 1,000
+| GPO/Ta Nea<ref>{{cite web |title=Δημησκόπηση : Τα μηνύματα των πολιτών και η παγίωση της διαφοράς ΝΔ-ΣΥΡΙΖΑ |url=https://www.tanea.gr/2021/03/07/politics/dimiskopisi-ta-minymata-ton-politon-kai-i-pagiosi-tis-diaforas-nd-syriza/ |language=el |work=Ta Nea |date=6 March 2021}}</ref>
+| 6 Mar 2021
+|?
 | {{Party shading/ND}}| '''43.5'''
 | 27.2
 | 8.5
@@ -493,6 +508,21 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 16.3
+|-
+| GPO/Powergame.gr<ref>{{cite web |title=Νέα δημοσκόπηση: Στο 13,7% η διαφορά της Νέας Δημοκρατίας από τον ΣΥΡΙΖΑ |url=https://www.powergame.gr/ellada/37348/dimoskopisi-gpo-provadisma-tis-nd-me-134-enanti-tou-syriza-i-axiologisi-ton-ypourgon/ |language=el |work=Powergame.gr |date=9 March 2021}}</ref>
+| 3–5 Mar 2021
+|?
+| {{Party shading/ND}}| '''43.2'''
+| 27.2
+| 8.5
+| 7.5
+| 4.9
+| 3.6
+| –
+| –
+| –
+| –
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 16.0
 |-
 | MRB/Star<ref>{{cite web |title=Δημοσκόπηση MRB: Με 13,1 % προηγείται η ΝΔ του ΣΥΡΙΖΑ |url=https://www.capital.gr/politiki/3530042/dimoskopisi-mrb-me-13-1-proigeitai-i-nd-tou-suriza |language=el |work=Capital.gr |date=4 March 2021}}</ref><ref>{{cite web |title=Δημοσκόπηση MRB: Με 13,1% προηγείται η ΝΔ του ΣΥΡΙΖΑ |url=https://www.protothema.gr/politics/article/1101387/dimoskopisi-mrb-me-131-proigeitai-i-nd-tou-suriza/ |language=el |work=Proto Thema |date=4 March 2021}}</ref>
 | 1–3 Mar 2021
@@ -509,7 +539,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 16.6
 |-
-| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: Στις 15 μονάδες η «ψαλίδα» ΝΔ – ΣΥΡΙΖΑ (κάρτες) |url=https://www.skai.gr/news/politics/dimoskopisi-skai-stis-15-monades-i-psalida-nd-syriza |language=el |work=Skai |date=1 March 2021}}</ref>
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: Στις 15 μονάδες η «ψαλίδα» ΝΔ – ΣΥΡΙΖΑ (κάρτες) |url=https://www.skai.gr/news/politics/dimoskopisi-skai-stis-15-monades-i-psalida-nd-syriza |language=el |work=Skai |date=1 March 2021}}</ref><ref>{{cite web |title=Pulse RC. 26 - 28 Φεβρουαρίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-03/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20010321_0.pdf |language=el |work=Pulse RC |date=1 March 2021}}</ref>
 | 26–28 Feb 2021
 | 1,306
 | {{Party shading/ND}}| '''42.0'''
@@ -540,7 +570,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 11.5
 |-
-| Opinion Poll/Political<ref>{{cite web |title=Έρευνα Opinion Poll: Στις 17,4% μονάδες η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ |url=https://www.protothema.gr/politics/article/1100365/ereuna-opinion-poll-stis-174-monades-i-diafora-tis-nd-apo-ton-suriza |language=el |work=Proto Thema |date=2 March 2021}}</ref>
+| Opinion Poll/Political<ref>{{cite web |title=Έρευνα Opinion Poll: Στις 17,4% μονάδες η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ |url=https://www.protothema.gr/politics/article/1100365/ereuna-opinion-poll-stis-174-monades-i-diafora-tis-nd-apo-ton-suriza |language=el |work=Proto Thema |date=2 March 2021}}</ref><ref>{{cite web |title=Δημοσκόπηση Opinion Poll : Στο 17,4% η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ – Τι πιστεύουν οι πολίτες για εμβολιασμό και οικονομία |url=https://www.tovima.gr/2021/03/02/politics/dimoskopisi-opinion-poll-sto-174-i-diafora-tis-nd-apo-ton-syriza-ti-pisteyoun-oi-polites-gia-emvoliasmo-kai-oikonomia/ |language=el |work=To Vima |date=2 March 2021}}</ref>
 | 22–26 Feb 2021
 | 1,001
 | {{Party shading/ND}}| '''46.4'''
@@ -555,7 +585,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;" | 21.3
 |-
-| Opinion Poll/Political<ref>{{cite web |title=Έρευνα Opinion Poll: 17,1% προηγείται η ΝΔ του ΣΥΡΙΖΑ - Λοβέρδο θέλουν για πρόεδρο του ΚΙΝΑΛ |url=https://www.protothema.gr/politics/article/1098324/ereuna-opinion-poll-171-monades-brosta-apo-ton-suriza-i-nd/ |language=el |work=Proto Thema |date=24 February 2021}}</ref>
+| Opinion Poll/Political<ref>{{cite web |title=Έρευνα Opinion Poll: 17,1% προηγείται η ΝΔ του ΣΥΡΙΖΑ - Λοβέρδο θέλουν για πρόεδρο του ΚΙΝΑΛ |url=https://www.protothema.gr/politics/article/1098324/ereuna-opinion-poll-171-monades-brosta-apo-ton-suriza-i-nd/ |language=el |work=Proto Thema |date=24 February 2021}}</ref><ref>{{cite web |title=Πολιτικό βαρόμετρο της Opinion Poll: Σταθερά πρώτη η ΝΔ – Πώς κρίνουν οι πολίτες το κυβερνητικό έργο |url=https://eleftherostypos.gr/politiki/716784-politiko-barometro-tis-opinion-poll-stathera-proti-i-nd-pos-krinoyn-oi-polites-to-kybernitiko-ergo/ |language=el |work=Eleftheros Typos |date=24 February 2021}}</ref>
 | 15–19 Feb 2021
 | 1,003
 | {{Party shading/ND}}| '''46.3'''
@@ -585,9 +615,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 16.5
 |-
-| Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση: Ισχυρό προβάδισμα 17 μονάδων της ΝΔ έναντι του ΣΥΡΙΖΑ |url=https://www.tanea.gr/2021/02/19/politics/dimoskopisi-isxyro-provadisma-17-monadon-tis-nd-enanti-tou-syriza/ |language=el |work=Τa Nea |date=19 February 2021}}</ref><ref>{{cite web |title=Δημοσκόπηση Interview: Στις 17,1 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ |url=https://www.capital.gr/politiki/3526747/dimoskopisi-interview-stis-17-1-monades-i-diafora-nd-suriza |language=el |work=Capital.gr |date=19 February 2021}}</ref>
+| Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση: Ισχυρό προβάδισμα 17 μονάδων της ΝΔ έναντι του ΣΥΡΙΖΑ |url=https://www.tanea.gr/2021/02/19/politics/dimoskopisi-isxyro-provadisma-17-monadon-tis-nd-enanti-tou-syriza/ |language=el |work=Τa Nea |date=19 February 2021}}</ref><ref>{{cite web |title=Δημοσκόπηση Interview: Στις 17,1 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ |url=https://www.capital.gr/politiki/3526747/dimoskopisi-interview-stis-17-1-monades-i-diafora-nd-suriza |language=el |work=Capital.gr |date=19 February 2021}}</ref><ref>{{cite web |title=Έρευνα κοινής γνώμης με πρόθεση ψήφου και επίκαιρες ερωτήσεις για λογαριασμό της ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ |url=https://www.interview.com.gr/wp-content/uploads/2021/02/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%A6%CE%B5%CE%B2%CF%81%CE%BF%CF%85%CE%AC%CF%81%CE%B9%CE%BF%CF%82_2021.pdf |language=el |work=Interview |date=18 February 2021}}</ref>
 | 15–17 Feb 2021
-| 1,000
+| 1,205
 | {{Party shading/ND}}| '''43.2'''
 | 23.5
 | 9.1
@@ -600,9 +630,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 19.7
 |-
-| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 16% η ψαλίδα ΝΔ-ΣΥΡΙΖΑ-Απαισιοδοξία για διερευνητικές–Αισιοδοξία για Μπάιντεν |url=https://www.skai.gr/news/politics/dimoskopisi-skai-16-i-psalida-nd-syriza-apaisiodoksia-gia-diereynitikes-aisiodoksia-gia-biden |language=el |work=Skai |date=28 January 2020}}</ref>
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 16% η ψαλίδα ΝΔ-ΣΥΡΙΖΑ-Απαισιοδοξία για διερευνητικές–Αισιοδοξία για Μπάιντεν |url=https://www.skai.gr/news/politics/dimoskopisi-skai-16-i-psalida-nd-syriza-apaisiodoksia-gia-diereynitikes-aisiodoksia-gia-biden |language=el |work=Skai |date=28 January 2021}}</ref><ref>{{cite web |title=Pulse RC. 25 - 27 Ιανουαρίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-01/PULSE%2028120.pdf |language=el |work=Pulse RC |date=28 January 2021}}</ref>
 | 25–27 Jan 2021
-| 1,706
+| 1,506
 | {{Party shading/ND}}| '''43.0'''
 | 25.5
 | 8.0
@@ -690,9 +720,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 21.3
 |-
-| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 16% η διαφορά ΝΔ – ΣΥΡΙΖΑ – «Η Τουρκία θα συνεχίσει τις προκλήσεις» |url=https://www.skai.gr/news/politics/dimoskopisi-skai-16-i-diafora-nd-syriza-i-tourkia-tha-synexisei-tis-prokliseis |language=el |work=Skai |date=17 December 2020}}</ref>
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 16% η διαφορά ΝΔ – ΣΥΡΙΖΑ – «Η Τουρκία θα συνεχίσει τις προκλήσεις» |url=https://www.skai.gr/news/politics/dimoskopisi-skai-16-i-diafora-nd-syriza-i-tourkia-tha-synexisei-tis-prokliseis |language=el |work=Skai |date=17 December 2020}}</ref><ref>{{cite web |title=Pulse RC. 12 - 16 Δεκεμβρίου 2020 |url=https://www.skai.gr/sites/default/files/attachments/2020-12/PULSE%20171220.pdf |language=el |work=Pulse RC |date=17 December 2020}}</ref>
 | 14–16 Dec 2020
-| 1,312
+| 1,210
 | {{Party shading/ND}}| '''43.5'''
 | 26.0
 | 7.5
@@ -735,9 +765,24 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;" | 17.9
 |-
-| Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση Interwiew: Προβάδισμα της ΝΔ με 17,1% - To 72% υπέρ του lockdown |url=https://www.liberal.gr/news/dimoskopisi-interwiew-probadisma-tis-nd-me-171-to-72-uper-tou-lockdown/340412 |language=el |work=Liberal |date=2 December 2020}}</ref>
-| 27 Nov–2 Dec 2020
-| 1,100
+| Interview/Political<ref>{{cite web |title=Έρευνα κοινής γνώμης για την διαχείριση της πανδημίας και πρόθεση ψήφου |url=https://www.interview.com.gr/wp-content/uploads/2020/12/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_POLITICAL_%CE%94%CE%95%CE%9A_2020_V2.pdf |language=el |work=Interview |date=11 December 2020}}</ref>
+| 3–8 Dec 2020
+| 1,205
+| {{Party shading/ND}}| '''44.8'''
+| 24.7
+| 8.0
+| 5.5
+| 5.5
+| 3.2
+| –
+| –
+| –
+| –
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 20.1
+|-
+| Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση Interwiew: Προβάδισμα της ΝΔ με 17,1% - To 72% υπέρ του lockdown |url=https://www.liberal.gr/news/dimoskopisi-interwiew-probadisma-tis-nd-me-171-to-72-uper-tou-lockdown/340412 |language=el |work=Liberal |date=2 December 2020}}</ref><ref>{{cite web |title=Έρευνα κοινής γνώμης για τον κορωνοϊό και πρόθεση ψήφου |url=https://www.interview.com.gr/wp-content/uploads/2020/12/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%94%CE%B5%CE%BA%CE%AD%CE%BC%CE%B2%CF%81%CE%B9%CE%BF%CF%82_2020_TV.pdf |language=el |work=Interview |date=2 December 2020}}</ref>
+| 26 Nov–2 Dec 2020
+| 1,105
 | {{Party shading/ND}}| '''45.2'''
 | 25.4
 | 8.0
@@ -765,7 +810,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 14.5
 |-
-| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 17% μπροστά η ΝΔ -Μόλις το 30% εκτιμά ότι θα επιβληθούν κυρώσεις σε Τουρκία |url=https://www.skai.gr/news/politics/dimoskopisi-skai-17-mprosta-nd-molis-to-30-ektima-oti-tha-epivlithoun-kyroseis-tourkia |language=el |work=Skai |date=26 November 2020}}</ref>
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 17% μπροστά η ΝΔ -Μόλις το 30% εκτιμά ότι θα επιβληθούν κυρώσεις σε Τουρκία |url=https://www.skai.gr/news/politics/dimoskopisi-skai-17-mprosta-nd-molis-to-30-ektima-oti-tha-epivlithoun-kyroseis-tourkia |language=el |work=Skai |date=26 November 2020}}</ref><ref>{{cite web |title=Pulse RC. 24 - 26 Νοεμβρίου 2020 |url=https://www.skai.gr/sites/default/files/attachments/2020-11/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20261120.pdf |language=el |work=Pulse RC |date=26 November 2020}}</ref>
 | 24–26 Nov 2020
 | 1,312
 | {{Party shading/ND}}| '''44.0'''
@@ -885,9 +930,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 17.5
 |-
-| Pulse RC/Skai<ref>{{cite web |title=Κορωνοϊός – Δημοσκόπηση ΣΚΑΪ: 7 στους 10 πολίτες ανησυχούν για την πανδημία |url=https://www.skai.gr/news/greece/koronoios-dimoskopisi-skai-7-stous-10-polites-anisyxoun-gia-tin-pandimia |language=el |work=Skai |date=23 October 2020}}</ref><ref>{{cite web |title=Δημοσκόπηση Pulse: Στις 18 μονάδες η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ |url=https://www.capital.gr/politiki/3490191/dimoskopisi-pulse-stis-18-monades-i-diafora-tis-nd-apo-ton-suriza |language=el |work=Capital.gr |date=23 October 2020}}</ref>
-| 18–22 Oct 2020
-| 1,000
+| Pulse RC/Skai<ref>{{cite web |title=Κορωνοϊός – Δημοσκόπηση ΣΚΑΪ: 7 στους 10 πολίτες ανησυχούν για την πανδημία |url=https://www.skai.gr/news/greece/koronoios-dimoskopisi-skai-7-stous-10-polites-anisyxoun-gia-tin-pandimia |language=el |work=Skai |date=23 October 2020}}</ref><ref>{{cite web |title=Pulse RC. 19 - 23 Οκτωβρίου 2020 |url=https://www.skai.gr/sites/default/files/attachments/2020-10/PULSE%20OCTOBER%20POLL%202020.pdf |language=el |work=Pulse RC |date=23 October 2020}}</ref>
+| 19–21 Oct 2020
+| 1,306
 | {{Party shading/ND}}| '''45.0'''
 | 25.5
 | 7.5
@@ -900,7 +945,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 19.5
 |-
-| Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση Interview: Πού διαμορφώνεται η διαφορά ΝΔ - ΣΥΡΙΖΑ - Ο δημοιλέστερος υπουργός |url=https://www.newsbomb.gr/politikh/story/1129827/dimoskopisi-interview-poy-diamorfonetai-i-diafora-nd-syriza |language=el |work=Newsbomb |date=23 October 2020}}</ref><ref>{{cite web |title=Δημοσκόπηση: Στο +20 η διαφορά ΝΔ από ΣΥΡΙΖΑ - Όχι στο εμβόλιο από 3 στους 10 |url=https://www.voria.gr/article/dimoskopisi-sto-20-i-diafora-nd-apo-siriza---ochi-sto-emvolio-apo-3-stous-10 |language=el |work=Voria.gr |date=23 October 2020}}</ref>
+| Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση Interview: Πού διαμορφώνεται η διαφορά ΝΔ - ΣΥΡΙΖΑ - Ο δημοιλέστερος υπουργός |url=https://www.newsbomb.gr/politikh/story/1129827/dimoskopisi-interview-poy-diamorfonetai-i-diafora-nd-syriza |language=el |work=Newsbomb |date=23 October 2020}}</ref><ref>{{cite web |title=Πανελλαδική Έρευνα κοινής γνώμης, πρόθεση ψήφου, βαθμολογία υπουργών, πανδημία, ελληνοτουρκικά, επίκαιρα θέματα |url=https://www.interview.com.gr/wp-content/uploads/2020/10/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%9F%CE%BA%CF%84%CF%8E%CE%B2%CF%81%CE%B9%CE%BF%CF%82_2020_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_1.pdf |language=el |work=Interview |date=22 October 2020}}</ref>
 | 16–21 Oct 2020
 | 1,184
 | {{Party shading/ND}}|'''45.5'''
@@ -975,9 +1020,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1.5
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;" | 23.5
 |-
-| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: Σαφές προβάδισμα ΝΔ – Σχεδόν 6 στους 10 υπέρ κυβέρνησης για ελληνοτουρκικά |url=https://www.skai.gr/news/politics/dimoskopisi-skai-safes-provadisma-nd-sxedon-6-stous-10-yper-kyvernisis-gia-ellinotourkika |language=el |work=Skai |date=25 September 2020}}</ref>
-| 22–23 Sep 2020
-| 1,305
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: Σαφές προβάδισμα ΝΔ – Σχεδόν 6 στους 10 υπέρ κυβέρνησης για ελληνοτουρκικά |url=https://www.skai.gr/news/politics/dimoskopisi-skai-safes-provadisma-nd-sxedon-6-stous-10-yper-kyvernisis-gia-ellinotourkika |language=el |work=Skai |date=25 September 2020}}</ref><ref>{{cite web |title=Pulse RC. 21 - 23 Σεπτεμβρίου 2020 |url=https://www.skai.gr/sites/default/files/attachments/2020-09/pulse%20skai%20%20sep%2020.pdf |language=el |work=Pulse RC |date=25 September 2020}}</ref>
+| 21–23 Sep 2020
+| 1,407
 | {{Party shading/ND}}| '''45.5'''
 | 26.5
 | 7.5
@@ -1005,9 +1050,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;" | 22.2
 |-
-| Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση Βεργίνα TV: Η διαφορά ΝΔ - ΣΥΡΙΖΑ και η έκπληξη για τον πιο πετυχημένο υπουργό |url=https://www.newsbeast.gr/politiki/arthro/6656080/dimoskopisi-vergina-tv-i-diafora-nd-syriza-kai-i-ekplixi-gia-ton-pio-petychimeno-ypoyrgo |language=el |work=Newsbeast |date=23 September 2020}}</ref>
+| Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση Βεργίνα TV: Η διαφορά ΝΔ - ΣΥΡΙΖΑ και η έκπληξη για τον πιο πετυχημένο υπουργό |url=https://www.newsbeast.gr/politiki/arthro/6656080/dimoskopisi-vergina-tv-i-diafora-nd-syriza-kai-i-ekplixi-gia-ton-pio-petychimeno-ypoyrgo |language=el |work=Newsbeast |date=23 September 2020}}</ref><ref>{{cite web |title=Πανελλαδική Έρευνα κοινής γνώμης, πρόθεση ψήφου, βαθμολογία υπουργών, επίκαιρα θέματα |url=https://www.interview.com.gr/wp-content/uploads/2020/09/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%A3%CE%95%CE%A0%CE%A4%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A3_2020.pdf |language=el |work=Interview |date=23 September 2020}}</ref>
 | 21–23 Sep 2020
-| 1,112
+| 1,075
 | {{Party shading/ND}}| '''45.4'''
 | 23.0
 | 8.6
@@ -1095,9 +1140,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 20.2
 |-
-| Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση: Εδραιώνει την κυριαρχία της η ΝΔ - Ισχυρό προβάδισμα 21,2 μονάδων |url=https://www.protothema.gr/politics/article/1026958/dimoskopisi-edraionei-tin-kuriarhia-tis-i-nd-ishuro-provadisma-212-monadon/ |language=el |work=Proto Thema |date=15 July 2020}}</ref><ref>{{cite web |title=Και η νέα δημοσκόπηση της Interview δείχνει διαφορά ΝΔ-ΣΥΡΙΖΑ 21,2% |url=https://tilegrafimanews.gr/nea/kai-i-nea-dimoskopisi-tis-interview-deichnei-diafora-nd-syriza-212/ |language=el |work=Tilegrafima News |date=15 July 2020}}</ref>
+| Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση: Εδραιώνει την κυριαρχία της η ΝΔ - Ισχυρό προβάδισμα 21,2 μονάδων |url=https://www.protothema.gr/politics/article/1026958/dimoskopisi-edraionei-tin-kuriarhia-tis-i-nd-ishuro-provadisma-212-monadon/ |language=el |work=Proto Thema |date=15 July 2020}}</ref><ref>{{cite web |title=Πανελλαδική Έρευνα κοινής γνώμης, με πρόθεση ψήφου και αξιολόγηση πολιτικών προσώπων |url=https://www.interview.com.gr/wp-content/uploads/2020/07/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%99%CE%9F%CE%A5%CE%9B%CE%99%CE%9F%CE%A3_15_7_2020.pdf |language=el |work=Interview |date=15 July 2020}}</ref>
 | 13–15 Jul 2020
-| 1,112
+| 1,114
 | {{Party shading/ND}}| '''47.4'''
 | 24.1
 | 7.4
@@ -1260,7 +1305,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 21.0
 |-
-| Interview/Vergina TV<ref>{{cite web |title=Νέα πανελλαδική δημοσκόπηση από την Βεργίνα τηλεόραση για τα εθνικά θέματα και την πρόθεση ψήφου |url=https://verginanews.gr/%ce%bd%ce%ad%ce%b1-%cf%80%ce%b1%ce%bd%ce%b5%ce%bb%ce%bb%ce%b1%ce%b4%ce%b9%ce%ba%ce%ae-%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%ba%cf%8c%cf%80%ce%b7%cf%83%ce%b7-%ce%b1%cf%80%cf%8c-%cf%84%ce%b7%ce%bd-%ce%b2/ |language=el |work=Vergina News |date=9 June 2020}}</ref>
+| Interview/Vergina TV<ref>{{cite web |title=Νέα πανελλαδική δημοσκόπηση από την Βεργίνα τηλεόραση για τα εθνικά θέματα και την πρόθεση ψήφου |url=https://verginanews.gr/%ce%bd%ce%ad%ce%b1-%cf%80%ce%b1%ce%bd%ce%b5%ce%bb%ce%bb%ce%b1%ce%b4%ce%b9%ce%ba%ce%ae-%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%ba%cf%8c%cf%80%ce%b7%cf%83%ce%b7-%ce%b1%cf%80%cf%8c-%cf%84%ce%b7%ce%bd-%ce%b2/ |language=el |work=Vergina News |date=9 June 2020}}</ref><ref>{{cite web |title=Πανελλαδική Έρευνα κοινής γνώμης, με πρόθεση ψήφου και επίκαιρα θέματα |url=https://www.interview.com.gr/wp-content/uploads/2020/06/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%99%CE%9F%CE%A5%CE%9D%CE%99%CE%9F%CE%A3_2020_%CF%83%CE%B1%CE%B9%CF%84.pdf |language=el |work=Interview |date=10 June 2020}}</ref>
 | 4–9 Jun 2020
 | 1,100
 | {{Party shading/ND}}| '''47.1'''
@@ -1412,7 +1457,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 23.0
 |-
-| Interview/Vergina TV<ref>{{cite web |title=ΝΕΑ ΠΑΝΕΛΛΑΔΙΚΗ ΔΗΜΟΣΚΟΠΗΣΗ ΤΗΣ ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗΣ ΑΠΟ ΕΡΓΑΣΤΗΡΙΟ ΤΗΣ ΚΙΝΑΣ ΞΕΦΥΓΕ Ο ΙΟΣ 42,6% ΤΩΝ ΠΟΛΙΤΩΝ ΕΜΠΙΣΤΕΥΕΤΑΙ ΤΗΝ ΚΥΒΕΡΝΗΣΗ ΜΗΤΣΟΤΑΚΗ-ΣΤΟ 22,5% Η ΔΙΑΦΟΡΑ ΜΕ ΣΥΡΙΖΑ |url=https://verginanews.gr/%CE%BD%CE%B5%CE%B1-%CF%80%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%B1%CE%B4%CE%B9%CE%BA%CE%B7-%CE%B4%CE%B7%CE%BC%CE%BF%CF%83%CE%BA%CE%BF%CF%80%CE%B7%CF%83%CE%B7-%CF%84%CE%B7%CF%83-%CE%B2%CE%B5%CF%81%CE%B3/ |language=el |work=Vergina News |date=6 May 2020}}</ref>
+| Interview/Vergina TV<ref>{{cite web |title=ΝΕΑ ΠΑΝΕΛΛΑΔΙΚΗ ΔΗΜΟΣΚΟΠΗΣΗ ΤΗΣ ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗΣ ΑΠΟ ΕΡΓΑΣΤΗΡΙΟ ΤΗΣ ΚΙΝΑΣ ΞΕΦΥΓΕ Ο ΙΟΣ 42,6% ΤΩΝ ΠΟΛΙΤΩΝ ΕΜΠΙΣΤΕΥΕΤΑΙ ΤΗΝ ΚΥΒΕΡΝΗΣΗ ΜΗΤΣΟΤΑΚΗ-ΣΤΟ 22,5% Η ΔΙΑΦΟΡΑ ΜΕ ΣΥΡΙΖΑ |url=https://verginanews.gr/%CE%BD%CE%B5%CE%B1-%CF%80%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%B1%CE%B4%CE%B9%CE%BA%CE%B7-%CE%B4%CE%B7%CE%BC%CE%BF%CF%83%CE%BA%CE%BF%CF%80%CE%B7%CF%83%CE%B7-%CF%84%CE%B7%CF%83-%CE%B2%CE%B5%CF%81%CE%B3/ |language=el |work=Vergina News |date=6 May 2020}}</ref><ref>{{cite web |title=Πανελλαδική Έρευνα κοινής γνώμης, με πρόθεση ψήφου και επίκαιρα θέματα σχετικά με την νόσο Covid 19 |url=https://www.interview.com.gr/wp-content/uploads/2020/05/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%9C%CE%91%CE%99%CE%9F%CE%A3_2020_interview.pdf |language=el |work=Interview |date=7 May 2020}}</ref>
 | 3–6 May 2020
 | 1,105
 | {{Party shading/ND}}| '''49.0'''

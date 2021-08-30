@@ -31,6 +31,22 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! class="sortable" style="background:#00ADEF;"|
 ! class="sortable" style="background:darkseagreen;"|
 |-
+|[https://www.cmjornal.pt/multimedia/infograficos/detalhe/intencao-de-voto-agora-e-em-comparacao-com-julho?ref=Infogr%C3%A1ficos_DestaquesPrincipais Intercampus]
+| data-sort-value="2019-10-03" | 13–20 Aug 2021
+| 612
+|?
+| {{Party shading/PS}} |'''34.7'''
+| 25.1
+| 9.1
+| 5.4
+| 1.6
+| 3.5
+| 7.5
+| 6.1
+| 0.2
+| 6.8
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |9.6
+|-
 |[https://twitter.com/EuropeElects/status/1429107995858907140 Eurosondagem]
 |16–19 Aug 2021
 |1,052

@@ -40,7 +40,70 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Navarra Suma/meta/color}};"|
 ! style="background:{{Regionalist Party of Cantabria/meta/color}};"|
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=EP (15A): el curso político arranca con el escenario estático |url=https://electomania.es/ep22ag21/ |language=es |work=Electomanía |date=15 August 2021}}</ref>
+| Sigma Dos/Antena 3<ref>{{cite web |title=El Partido Popular ganaría las elecciones generales si se celebraran hoy, según una encuesta de Sigma Dos |url=https://www.antena3.com/noticias/espana/partido-popular-ganaria-elecciones-generales-celebraran-hoy-segun-encuesta-sigma-dos_20210830612c82bc975d6a0001ca030d.html |language=es |work=Antena 3 |date=30 August 2021}}</ref>
+| 30 Aug 2021
+|?
+|?
+| 24.8<br/>{{font|size=75%|font=Verdana|text=99}}
+| {{Party shading/PP}}| '''28.9'''<br/>{{font|size=75%|font=Verdana|text=132}}
+| 14.7<br/>{{font|size=75%|font=Verdana|text=46}}
+| 9.8<br/>{{font|size=75%|font=Verdana|text=21}}
+| 2.9<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=13}}
+| 4.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=8}}
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.1
+|-
+| NC Report/La Razón<ref>{{cite web |title=El PP consolida su crecimiento y podría gobernar con Vox |url=https://www.larazon.es/espana/20210830/vx6i6sdjxbdmtmkwybcatwnsia.html |language=es |work=La Razón |date=30 August 2021}}</ref>
+| 24–27 Aug 2021
+|?
+| 63.8
+| 25.3<br/>{{font|size=75%|font=Verdana|text=99/101}}
+| {{Party shading/PP}}| '''30.1'''<br/>{{font|size=75%|font=Verdana|text=129/131}}
+| 14.7<br/>{{font|size=75%|font=Verdana|text=46/48}}
+| 9.3<br/>{{font|size=75%|font=Verdana|text=21/23}}
+| 2.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=12}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=5}}
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.8
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (29Ag): Cs, de vuelta al uniescaño |url=https://electomania.es/ep29ag21/ |language=es |work=Electomanía |date=29 August 2021}}</ref>
+| 20–26 Aug 2021
+| 1,422
+|?
+| 25.0<br/>{{font|size=75%|font=Verdana|text=96}}
+| {{Party shading/PP}}| '''28.6'''<br/>{{font|size=75%|font=Verdana|text=124}}
+| 16.3<br/>{{font|size=75%|font=Verdana|text=54}}
+| 10.0<br/>{{font|size=75%|font=Verdana|text=24}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=14}}
+| 3.8<br/>{{font|size=75%|font=Verdana|text=8}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.6
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (22A): el curso político arranca con un escenario estático |url=https://electomania.es/ep22ag21/ |language=es |work=Electomanía |date=22 August 2021}}</ref>
 | 14–21 Aug 2021
 | 2,208
 |?
@@ -60,6 +123,27 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.5
+|-
+| Celeste-Tel/Onda Cero<ref>{{cite web |title=El PP sería el partido más votado si se celebrasen elecciones generales |url=https://www.ondacero.es/noticias/espana/seria-partido-mas-votado-celebrasen-elecciones-generales_202108276128a66642618100012d8887.html |language=es |work=Onda Cero |date=27 August 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta Celeste-Tel 27/08/2021: UP-ECP-EC 9,7% (21), MÁS PAÍS-EQUO 4,5% (7), PSOE 25,7% (102), Cs 3,5% (2), PP 29,7% (129), VOX 14,8% (48) |url=https://www.electograph.com/2021/08/encuesta-celeste-tel-210827.html |language=es |work=Electograph |date=27 August 2021}}</ref>
+| 16–20 Aug 2021
+| 1,100
+|?
+| 25.7<br/>{{font|size=75%|font=Verdana|text=102}}
+| {{Party shading/PP}}| '''29.7'''<br/>{{font|size=75%|font=Verdana|text=129}}
+| 14.8<br/>{{font|size=75%|font=Verdana|text=48}}
+| 9.7<br/>{{font|size=75%|font=Verdana|text=21}}
+| 3.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 3.2<br/>{{font|size=75%|font=Verdana|text=13}}
+| 4.5<br/>{{font|size=75%|font=Verdana|text=7}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.0
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=EP (15A): el PP incrementa sus diputados, Cs vuelve al uniescaño |url=https://electomania.es/ep15ag21/ |language=es |work=Electomanía |date=15 August 2021}}</ref>
 | 6–13 Aug 2021
@@ -123,6 +207,27 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.3
+|-
+| Simple Lógica<ref name="SLAug21">{{cite web |title=Intención de voto y valoración de líderes políticos (agosto 2021) |url=https://www.simplelogica.com/es/intencion-de-voto-y-valoracion-de-lideres-politicos-agosto-2021/ |language=es |work=Simple Lógica |date=27 August 2021}}</ref>
+| 2–4 Aug 2021
+| 1,062
+| 62.8
+| {{Party shading/PSOE}}| '''27.9'''
+| 24.6
+| 15.9
+| 10.8
+| 2.9
+| –
+| 4.6
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.3
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (1A): Arrimadas ya no estaría sola en el grupo mixto |url=https://electomania.es/ep1a21/ |language=es |work=Electomanía |date=1 August 2021}}</ref>
 | 23–30 Jul 2021
@@ -208,10 +313,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.7
 |-
-| GAD3/ABC<ref>{{cite web |title=El cambio de Gobierno no surte efecto: Sánchez pierde 19 escaños |url=https://www.abc.es/espana/abci-cambio-gobierno-no-surte-efecto-sanchez-pierde-19-escanos-202107252257_noticia_amp.html |language=es |work=ABC |date=25 July 2021}}</ref>
+| GAD3/ABC<ref>{{cite web |title=El cambio de Gobierno no surte efecto: Sánchez pierde 19 escaños |url=https://www.abc.es/espana/abci-cambio-gobierno-no-surte-efecto-sanchez-pierde-19-escanos-202107252257_noticia.html |language=es |work=ABC |date=25 July 2021}}</ref><ref>{{cite web |title=Barómetro ABC. Estimación Elecciones Generales |url=https://www.gad3.com/barometro-abc-estimacion-elecciones-generales/ |language=es |work=GAD3 |date=26 July 2021}}</ref>
 | 16–22 Jul 2021
-|?
-|?
+| 1,030
+| 73
 | 25.1<br/>{{font|size=75%|font=Verdana|text=101}}
 | {{Party shading/PP}}| '''31.1'''<br/>{{font|size=75%|font=Verdana|text=139}}
 | 12.4<br/>{{font|size=75%|font=Verdana|text=37}}
@@ -628,7 +733,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 5.6
 |-
-| DYM/Henneo<ref>{{cite web |title=PP y Vox podrían gobernar, pero el PSOE se recupera tras el bache de Madrid |url=https://www.20minutos.es/noticia/4739169/0/encuesta-dym-pp-y-vox-podrian-gobernar-pero-el-psoe-se-recupera-tras-el-bache-de-madrid/ |language=es |work=20 minutos |date=23 June 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta DYM 23/06/2021: UP-ECP-EC 9,9% (21/24), MÁS PAÍS-EQUO 2,3% (2/3), PSOE 25,7% (101/105), Cs 3,5% (2/3), PP 27,9% (120/125), VOX 16,0% (53/57) |url=https://www.electograph.com/2021/06/encuesta-dym-210623.html |language=es |work=Electograph |date=23 June 2021}}</ref>
+| DYM/Henneo<ref name="DYMJun21">{{cite web |title=PP y Vox podrían gobernar, pero el PSOE se recupera tras el bache de Madrid |url=https://www.20minutos.es/noticia/4739169/0/encuesta-dym-pp-y-vox-podrian-gobernar-pero-el-psoe-se-recupera-tras-el-bache-de-madrid/ |language=es |work=20 minutos |date=23 June 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta DYM 23/06/2021: UP-ECP-EC 9,9% (21/24), MÁS PAÍS-EQUO 2,3% (2/3), PSOE 25,7% (101/105), Cs 3,5% (2/3), PP 27,9% (120/125), VOX 16,0% (53/57) |url=https://www.electograph.com/2021/06/encuesta-dym-210623.html |language=es |work=Electograph |date=23 June 2021}}</ref>
 | 17–21 Jun 2021
 | 1,002
 |?
@@ -733,7 +838,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.1
 |-
-| GAD3/NIUS<ref>{{cite web |title=ENCUESTA ELECTORAL DE GAD3 PARA NIUS: ESTIMACIÓN DE VOTO Y ESCAÑOS EN ELECCIONES GENERALES |url=https://www.gad3.com/encuesta-electoral-de-gad3-para-nius-estimacion-de-voto-y-escanos-en-elecciones-generales-2/ |language=es |work=GAD3 |date=14 June 2021}}</ref>
+| GAD3/NIUS<ref name="GAD3Jun21">{{cite web |title=El PP desbanca al PSOE como partido más votado y podría gobernar con el apoyo de Vox |url=https://www.niusdiario.es/nacional/politica/pp-desbanca-psoe-partido-mas-votado-elecciones-podria-gobernar-apoyo-vox-estimacion-voto-barometro-gad3_18_3152897082.html |language=es |work=NIUS |date=14 June 2021}}</ref><ref>{{cite web |title=Encuesta electoral de GAD3 para NIUS: estimación de voto y escaños en Elecciones Generales |url=https://www.gad3.com/encuesta-electoral-de-gad3-para-nius-estimacion-de-voto-y-escanos-en-elecciones-generales-2/ |language=es |work=GAD3 |date=14 June 2021}}</ref>
 | 7–10 Jun 2021
 | 1,026
 | 65
@@ -880,7 +985,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.5
 |-
-| DYM/Henneo<ref>{{cite web |title=El PP supera por primera vez al PSOE y sumaría mayoría con Vox |url=https://www.20minutos.es/noticia/4708680/0/pp-supera-primera-vez-psoe-sumaria-mayoria-vox/ |language=es |work=20 minutos |date=26 May 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta DYM 26/05/2021: UP-ECP-EC 9,3% (20/22), MÁS PAÍS-EQUO 5,0% (4/6), PSOE 24,5% (99/103), Cs 3,4% (2/3), PP 28,1% (121/126), VOX 16,0% (53/57) |url=https://www.electograph.com/2021/05/encuesta-dym-210526.html |language=es |work=Diario de Sevilla |date=26 May 2021}}</ref>
+| DYM/Henneo<ref name="DYMMay21">{{cite web |title=El PP supera por primera vez al PSOE y sumaría mayoría con Vox |url=https://www.20minutos.es/noticia/4708680/0/pp-supera-primera-vez-psoe-sumaria-mayoria-vox/ |language=es |work=20 minutos |date=26 May 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta DYM 26/05/2021: UP-ECP-EC 9,3% (20/22), MÁS PAÍS-EQUO 5,0% (4/6), PSOE 24,5% (99/103), Cs 3,4% (2/3), PP 28,1% (121/126), VOX 16,0% (53/57) |url=https://www.electograph.com/2021/05/encuesta-dym-210526.html |language=es |work=Diario de Sevilla |date=26 May 2021}}</ref>
 | 21–24 May 2021
 | 1,008
 |?
@@ -985,10 +1090,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.8
 |-
-| GAD3/ABC<ref>{{cite web |title=El PP se dispara hasta los 138 escaños y suma mayoría absoluta con Vox |url=https://www.abc.es/espana/abci-pp-dispara-hasta-138-escanos-y-suma-mayoria-absoluta-202105230219_noticia.html |language=es |work=ABC |date=23 May 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta GAD3 23/05/2021: UP-ECP-EC 8,3% (17), MÁS PAÍS-EQUO 4,1% (6), PSOE 25,4% (103), Cs 3,3% (2), PP 30,5% (138), VOX 13,8% (40) |url=https://www.electograph.com/2021/05/encuesta-gad3-210523.html |language=es |work=Electograph |date=23 May 2021}}</ref>
+| GAD3/ABC<ref>{{cite web |title=El PP se dispara hasta los 138 escaños y suma mayoría absoluta con Vox |url=https://www.abc.es/espana/abci-pp-dispara-hasta-138-escanos-y-suma-mayoria-absoluta-202105230219_noticia.html |language=es |work=ABC |date=23 May 2021}}</ref><ref>{{cite web |title=Primera encuesta al Congreso tras las elecciones a la Asamblea de Madrid |url=https://www.gad3.com/primera-encuesta-al-congreso-tras-las-elecciones-a-la-asamblea-de-madrid/ |language=es |work=Electograph |date=23 May 2021}}</ref>
 | 12–18 May 2021
 | 1,202
-|?
+| 74
 | 25.4<br/>{{font|size=75%|font=Verdana|text=103}}
 | {{Party shading/PP}}| '''30.5'''<br/>{{font|size=75%|font=Verdana|text=138}}
 | 13.8<br/>{{font|size=75%|font=Verdana|text=40}}
@@ -1132,7 +1237,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.8
 |-
-| NC Report/La Razón<ref>{{cite web |title=Encuesta NC REPORT: Primer «sorpasso» de Casado a Sánchez |url=https://www.larazon.es/espana/20210510/jarm5wjkzvantfw42df5eej67q.html |language=es |work=La Razón |date=10 May 2021}}</ref><ref>{{cite web |title=ESPAÑA · Encuesta NC Report 10/05/2021: UP-ECP-EC 9,9% (23/25), MÁS PAÍS-EQUO 3,7% (5/7), PSOE 26,1% (106/108), Cs 2,8% (1/2), PP 26,9% (109/111), VOX 17,1% (59/61) |url=https://www.electograph.com/2021/05/encuesta-nc-report-210510.html |language=es |work=Electograph |date=10 May 2021}}</ref>
+| NC Report/La Razón<ref>{{cite web |title=Encuesta NC REPORT: Primer «sorpasso» de Casado a Sánchez |url=https://www.larazon.es/espana/20210510/jarm5wjkzvantfw42df5eej67q.html |language=es |work=La Razón |date=10 May 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 10/05/2021: UP-ECP-EC 9,9% (23/25), MÁS PAÍS-EQUO 3,7% (5/7), PSOE 26,1% (106/108), Cs 2,8% (1/2), PP 26,9% (109/111), VOX 17,1% (59/61) |url=https://www.electograph.com/2021/05/encuesta-nc-report-210510.html |language=es |work=Electograph |date=10 May 2021}}</ref>
 | 4–8 May 2021
 | 1,000
 | 64.4
@@ -1300,7 +1405,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 2.4
 |-
-| GAD3/NIUS<ref>{{cite web |title=Podemos sufre todo el desgaste del Gobierno de coalición y PP y Vox suben |url=https://www.niusdiario.es/nacional/politica/encuesta-barometro-sociopolitico-gad-tres-intencion-voto-psoe-ganaria-elecciones-pp-recorda-distancias_18_3124020007.html |language=es |work=NIUS |date=1 March 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta GAD3 18/04/2021: UP-ECP-EC 9,2% (18/20), MÁS PAÍS-EQUO 2,3% (3), PSOE 28,7% (121/123), Cs 4,5% (3), PP 27,0% (114/116), VOX 14,5% (46/48) |url=https://www.electograph.com/2021/04/encuesta-gad3-210418.html |language=es |work=Electograph |date=18 April 2021}}</ref>
+| GAD3/NIUS<ref name="GAD3Apr21">{{cite web |title=El PSOE ganaría las elecciones generales, pero el PP se quedaría a menos de dos puntos |url=https://www.niusdiario.es/nacional/politica/encuesta-barometro-sociopolitico-gad-tres-intencion-voto-psoe-ganaria-elecciones-pp-recorda-distancias_18_3124020007.html |language=es |work=NIUS |date=18 April 2021}}</ref><ref>{{cite web |title=Encuesta electoral de GAD3 para NIUS: estimación de voto y escaños en Elecciones Generales |url=https://www.gad3.com/encuesta-electoral-de-gad3-para-nius-estimacion-de-voto-y-escanos-en-elecciones-generales/ |language=es |work=GAD3 |date=18 April 2021}}</ref>
 | 14–16 Apr 2021
 | 1,001
 | 63
@@ -1739,7 +1844,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 8.2
 |-
-| GAD3/NIUS<ref>{{cite web |title=Podemos sufre todo el desgaste del Gobierno de coalición y PP y Vox suben |url=https://www.niusdiario.es/nacional/politica/barometro-niusdiario-gad3-podemos-desgaste-gobierno-coalicion-pp-vox-suben_18_3097770327.html |language=es |work=NIUS |date=1 March 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta GAD3 01/03/2021: UP-ECP-EC 10,1% (22/24), MÁS PAÍS-EQUO 1,5% (2), PSOE 28,6% (120/124), Cs 5,9% (7), PP 22,2% (92/96), VOX 17,1% (59/61) |url=https://www.electograph.com/2021/03/encuesta-gad3-210301.html |language=es |work=Electograph |date=1 March 2021}}</ref>
+| GAD3/NIUS<ref name="GAD3Mar21">{{cite web |title=Podemos sufre todo el desgaste del Gobierno de coalición y PP y Vox suben |url=https://www.niusdiario.es/nacional/politica/barometro-niusdiario-gad3-podemos-desgaste-gobierno-coalicion-pp-vox-suben_18_3097770327.html |language=es |work=NIUS |date=1 March 2021}}</ref><ref>{{cite web |title=Primer barómetro sociopolítico de GAD3 para NIUS con intención de voto |url=https://www.gad3.com/barometro-sociopolitico-para-nius/ |language=es |work=GAD3 |date=1 March 2021}}</ref>
 | 22–25 Feb 2021
 | 1,000
 | 62
@@ -2428,7 +2533,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.8
 |-
-| GAD3/COPE<ref>{{cite web |title=Encuesta GAD3: Casado recorta distancias con Sánchez y se queda cerca del sorpasso |url=https://www.cope.es/programas/herrera-en-cope/noticias/michavila-cope-con-110-escanos-esta-tres-puntos-los-socialistas-20201216_1047979 |language=es |work=COPE |date=16 December 2020}}</ref><ref>{{cite web |title=Encuesta electoral GAD3 (diciembre 2020) |url=https://gad3.com/encuesta-electoral-gad3-diciembre-2020/ |language=es |work=GAD3 |date=16 December 2020}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta GAD3 16/12/2020: UP-ECP-EC 9,5% (20), MÁS PAÍS-EQUO 1,4% (2), PSOE 28,0% (123), Cs 7,1% (11), PP 25,6% (110), VOX 13,1% (41) |url=https://www.electograph.com/2020/12/espana-encuesta-gad3-16122020.html |language=es |work=Electograph |date=16 December 2020}}</ref>
+| GAD3/COPE<ref>{{cite web |title=Encuesta GAD3: Casado recorta distancias con Sánchez y se queda cerca del sorpasso |url=https://www.cope.es/programas/herrera-en-cope/noticias/michavila-cope-con-110-escanos-esta-tres-puntos-los-socialistas-20201216_1047979 |language=es |work=COPE |date=16 December 2020}}</ref><ref>{{cite web |title=Encuesta electoral GAD3 (diciembre 2020) |url=https://gad3.com/encuesta-electoral-gad3-diciembre-2020/ |language=es |work=GAD3 |date=16 December 2020}}</ref>
 | 30 Nov–14 Dec 2020
 | 2,005
 | 64

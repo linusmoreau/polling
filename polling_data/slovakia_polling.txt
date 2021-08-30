@@ -1,5 +1,11 @@
-== Voting intention estimates ==
-Polls from the beginning of the term to the present day. The [[Next Slovak parliamentary election|next parliamentary election]] are expected for 24 February 2024, but may take place earlier in the case of snap election. Polls by Focus and AKO firms are used, which are considered credible due to their membership in the Slovak Association of Research Agencies<ref>{{Cite web|title=Zoznam členov|url=https://sava.sk/en/clenstvo/zoznam-clenov/|access-date=2021-03-27|language=en-US}}</ref> and European Society for Opinion and Marketing Research<ref>{{Cite web|title=Member search - ESOMAR|url=https://www.esomar.org/community/our-community/member-search?go=search&newsearch=1&keywords=&country=Slovak+Republic&type=country|access-date=2021-03-27|website=www.esomar.org|language=en}}</ref>. Seat projections are displayed below the percentages in a smaller font. 76 seats are required for an [[absolute majority]] in the [[National Council (Slovakia)|National Council]].
+=== Voting intention estimates ===
+Voting intention estimates made by polling firms that are members of the [[ESOMAR|European Society for Opinion and Marketing Research]] (ESOMAR) and the [[Slovak Association of Research Agencies]] (SAVA). 
+
+They are conducted in the form of telephone and personal interviews with selected persons, who form a [[Sampling (statistics)|representative sample]] reflecting the demographic parameters of the [[Demographics of Slovakia|population of Slovakia]]. Respondents are asked: "Imagine that [[Parliamentary elections in Slovakia|parliamentary election]] would be held in [[Slovakia]] next Saturday. Would you vote in them and if so, which party would you vote for?" Respondents are read a [[List of political parties in Slovakia|list]] of currently active political parties.
+
+Results are published that include only the answers of respondents who would vote for a particular party. The table shows political parties that have exceeded the electoral threshold in the [[2020 Slovak parliamentary election|last election]] or oscillate around 4 percent or more in polls. 
+
+The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party alliances; 10% for four-or-more party alliance. 76 seats are required for an [[absolute majority]] in the [[National Council (Slovakia)|National council]]. 
 {|class="wikitable" style="text-align:center; font-size:90%; line-height:14px;"
 
 |+

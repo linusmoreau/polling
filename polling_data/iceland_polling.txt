@@ -43,6 +43,22 @@
 | 1.5
 | style="background:{{Independence Party (Iceland)/meta/color}};color:#FFFFFF;"| 8.4
 |-
+| [https://www.electograph.com/2021/08/iceland-maskina-poll-210824.html Maskína]
+| data-sort-value="2021-08-23"| 13–23 Aug 2021
+| 822
+| {{TBA}}
+| style="background:#C6ECFB;"| '''23.4'''
+| 14.2
+| 13.0
+| 5.1
+| 12.6
+| 9.9
+| 4.2
+| 10.7
+| 6.9
+| –
+| style="background:{{Independence Party (Iceland)/meta/color}};color:#FFFFFF;"| 8.8
+|-
 |[https://www.electograph.com/2021/08/iceland-gallup-poll-17082021-j-67-4-v.html Gallup]
 |29 July–15 August 2021
 |6,238
