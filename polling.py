@@ -180,9 +180,16 @@ def transcribe_table(content, key, choice, begin, start):
                         'R', 'SV', 'MDG', 'Ap', 'Sp', 'V', 'KrF', 'H', 'FrP',
                         'Other', 'lead', 'end']
                 reset = True
-        # elif choice == 'Chile':
-        #     if '2021 Chilean presidential primaries' in line:
-        #         break
+        elif choice == 'Chile':
+            if '=== Before official registration of candidates ===' in line:
+                nkey = ['date', 'firm', 'type',
+                        'Jiles', 'Jadue', 'Boric', 'Sanchez', 'Enriquez-Om.', 'Guiller', 'Bachelet', 'Narvaez', 'Munoz',
+                        'Vidal', 'Maldonado', 'Provoste', 'Rincon', 'Sichel', 'F. Kast', 'Briones', 'Desbordes',
+                        'Pinera', 'Lavin', 'Matthei', 'J.A. Kast', 'Parisi', 'Farkas', 'Siches',
+                        'Other', 'end']
+                reset = True
+            # if '2021 Chilean presidential primaries' in line:
+            #     break
         if reset:
             tables.append({'table': table, 'key': key, 'years': years})
             table = []
@@ -190,6 +197,12 @@ def transcribe_table(content, key, choice, begin, start):
             row = 0
             col = 0
             key = nkey
+        if len(line) > 0 and line[0] == '}':
+            started = False
+            i += 1
+            col = 0
+            row += 1
+            continue
         if '==' in line:
             yline = line[line.find('=='):]
             yline = yline[:yline.find('==', 3)].strip('= \n')
@@ -211,17 +224,12 @@ def transcribe_table(content, key, choice, begin, start):
                     line = content[i].strip('| \n')
                     break
         if started:
-            if len(line) > 0 and line[0] == '}':
-                started = False
-                i += 1
-                col = 0
-                continue
-            elif len(line) > 0 and (col == 0 and line[0] == '-'):
-                i += 1
-                continue
             if len(table) <= row:
                 placeholder = [True for _ in range(len(key))]
                 table.extend([placeholder.copy() for _ in range(row - len(table) + 1)])
+            if len(line) > 0 and col == 0 and line[0] == '-':
+                i += 1
+                continue
             while table[row][col] is False:
                 col += 1
                 if col >= len(key):
@@ -230,6 +238,9 @@ def transcribe_table(content, key, choice, begin, start):
                     if len(table) <= row:
                         placeholder = [True for _ in range(len(key))]
                         table.extend([placeholder.copy() for _ in range(row - len(table) + 1)])
+            if len(line) > 0 and col == 0 and line[0] == '-':
+                i += 1
+                continue
             table[row][col] = line
             if 'colspan' in line and 'rowspan' in line:
                 htemp: str = line[line.find('colspan') + len('colspan'):]
@@ -629,7 +640,7 @@ def choices_setup():
         'Canada': {
             'key': ['firm', 'date', 'link',
                     'CON', 'LIB', 'NDP', 'BQ', 'GRN', 'PPC',
-                    'Other', 'margin', 'size', 'method', 'lead', 'end'],
+                    'Other', 'margin', 'size', 'method', 'lead'],
             'include': ['CON', 'LIB', 'NDP', 'BQ', 'GRN', 'PPC'],
             'col': {'CON': (100, 149, 237), 'LIB': (234, 109, 106), 'NDP': (244, 164, 96), 'BQ': (135, 206, 250),
                     'GRN': (153, 201, 85), 'PPC': (131, 120, 158),
@@ -648,20 +659,24 @@ def choices_setup():
             'old_data': 'polling_data/old_canada_polling.txt'
         },
         'Chile': {
-            'key': ['date', 'firm', 'type', 'Jiles', 'Jadue', 'Boric', 'Sanchez', 'Enriquez-Om.', 'Guiller', 'Bachelet',
-                    'Narvaez', 'Munoz', 'Vidal', 'Maldonado', 'Provoste', 'Rincon', 'Sichel', 'F. Kast', 'Briones',
-                    'Desbordes', 'Pinera', 'Lavin', 'Matthei', 'J.A. Kast', 'Parisi', 'Farkas', 'Siches',
+            'key': ['date', 'source', 'type',
+                    'Artes', 'Boric', 'Enriquez-Om.', 'Provoste', 'Parisi', 'Sichel', 'Kast',
                     'Other', 'end'],
             'include': ['Boric', 'Narvaez', 'Maldonado', 'Provoste', 'Sichel', 'J.A. Kast',
-                        'Jadue', 'Jiles', 'Briones', 'Desbordes', 'Parisi', 'Lavin', 'Matthei'],
+                        'Jadue', 'Jiles', 'Briones', 'Desbordes', 'Parisi', 'Lavin', 'Matthei',
+                        'Enriquez-Om.', 'Artes'],
             'col': {'Boric': (255, 20, 85), 'Narvaez': (237, 22, 36), 'Maldonado': (205, 92, 92),
                     'Provoste': (30, 144, 255), 'Sichel': (0, 107, 176), 'J.A. Kast': (49, 68, 108),
                     'Jadue': (178, 34, 34), 'Jiles': (255, 69, 0), 'Briones': (0, 191, 255), 'Desbordes': (2, 78, 154),
-                    'Parisi': (24, 22, 68), 'Lavin': (41, 57, 138), 'Matthei': (41, 57, 138)},
+                    'Parisi': (24, 22, 68), 'Lavin': (41, 57, 138), 'Matthei': (41, 57, 138),
+                    'Enriquez-Om.': (255, 20, 147), 'Artes': (204, 0, 0)},
             'start': -1,
             'end_date': Date(2021, 12, 19),
             'url': 'https://en.wikipedia.org/w/index.php?title='
-                   'Opinion_polling_for_the_2021_Chilean_presidential_election&action=edit&section=2'
+                   'Opinion_polling_for_the_2021_Chilean_presidential_election&action=edit&section=2',
+            'old_data': 'polling_data/old_chile_polling.txt',
+            'vlines': {Date(2021, 7, 18): 'Official Primaries',
+                       Date(2021, 8, 21): 'New Social Pact Primary'}
         },
         'Czechia': {
             'key': ['firm', 'date', 'size', 'turnout',
@@ -1141,7 +1156,7 @@ def choices_setup():
             'restart': ['http'],
             'end_date': Date(2024, 2, 24),
             'url': 'https://en.wikipedia.org/w/index.php?title='
-                   'Opinion_polling_for_the_next_Slovak_parliamentary_election&action=edit&section=2',
+                   'Opinion_polling_for_the_next_Slovak_parliamentary_election&action=edit&section=3',
             'toggle_seats': True,
             'seats': 150,
             'divisor': 1,
