@@ -29,9 +29,24 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Antarsya/meta/color}};"|
 ! style="background:{{Greeks for the Fatherland/meta/color}};"|
 |-
+| Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview για το Politic.gr: Ισχυρό προβάδισμα 12,7 μονάδων για τη ΝΔ |url=https://politic.gr/politiki/dimoskopisi-interview-gia-to-politic-gr-ischyro-provadisma-127-monadon-gia-ti-nd/ |language=el |work=Politic.gr |date=30 August 2021}}</ref>
+| 25–29 Aug 2021
+| 1,325
+| {{Party shading/ND}}| '''39.7'''
+| 25.4
+| 7.0
+| 6.0
+| 5.1
+| 4.3
+| –
+| –
+| –
+| –
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 14.3
+|-
 | GPO/Ta Nea<ref>{{cite web |title=Δημοσκόπηση GPO – «Πλήγωσαν» την κυβέρνηση οι πυργκαγιές – Στις 10 μονάδες η διαφορά ΝΔ και ΣΥΡΙΖΑ |url=https://www.tanea.gr/2021/08/28/politics/dimoskopisi-gpo-pligosan-tin-kyvernisi-oi-pyrgkagies-stis-10-monades-i-diafora-nd-kai-syriza/ |language=el |work=Ta Nea |date=28 August 2021}}</ref><ref>{{cite web |title=Δημοσκόπηση GPO: Στις 10 μονάδες η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ |url=https://www.newsbomb.gr/politikh/story/1227506/dimoskopisi-gpo-stis-10-monades-i-diafora-tis-nd-apo-ton-syriza |language=el |work=Newsbomb |date=28 August 2021}}</ref>
-| 28 Aug 2021
-|?
+| 20–25 Aug 2021
+| 1,000
 | {{Party shading/ND}}| '''40.2'''
 | 28.4
 | 7.5
@@ -43,6 +58,21 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | 1.7
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 11.8
+|-
+| ProRata/iEidiseis<ref>{{cite web |title=Για πρώτη φορά η ψαλίδα κάτω από τη διαφορά των εκλογών - Δημοσκόπηση PRORATA για το iEidiseis |url=https://www.ieidiseis.gr/politiki/107409/gia-proti-fora-i-psalida-kato-apo-ti-diafora-ton-eklogon-dimoskopisi-prorata-gia-to-ieidiseis |language=el |work=iEidiseis |date=30 August 2021}}</ref>
+| 23–24 Aug 2021
+| 1,800
+| {{Party shading/ND}}| '''40.0'''
+| 30.5
+| 8.0
+| 5.5
+| 4.0
+| 2.5
+| –
+| –
+| –
+| –
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 9.5
 |-
 | Alco/Open<ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΙΟΥΛΙΟΣ 2021 |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%B9%CE%BF%CF%85%CE%BB%CE%B9%CE%BF%CF%83-2021 |language=el |work=Alco |date=17 June 2021}}</ref>
 | 12–17 Jul 2021
@@ -76,7 +106,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 |-
 | GPO/Powergame.gr<ref>{{cite web |title=GPO: Προβάδισμα για τη ΝΔ και κυριαρχία του Κυρ. Μητσοτάκη|url=https://www.powergame.gr/ellada/98658/gpo-provadisma-gia-ti-nd-kai-kyriarchia-tou-kyr-mitsotaki/ |language=el |work=Powergame.gr |date=13 July 2021}}</ref>
 | 7–10 Jul 2021
-|?
+| 1,000
 | {{Party shading/ND}}| '''42.8'''
 | 28.5
 | 7.7
@@ -149,7 +179,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 14.6
 |-
-| Marc/Proto Thema<ref>{{cite web |title=Γκάλοπ MARC για το «Πρώτο ΘΕΜΑ»: 65% υποχρεωτικό το εμβόλιο - Μπροστά με 16,4% η ΝΔ στην πρόθεση ψήφου |url=https://www.protothema.gr/greece/article/1137549/galop-marc-65-upohreotiko-to-emvolio/ |language=el |work=Proto Thema |date=27 June 2021}}</ref><ref>{{cite web |title=ΠΑΝΕΛΛΑΔΙΚΗ ΠΟΛΙΤΙΚΗ ΕΡΕΥΝΑ. ΙΟΥΝΙΟΣ 2021 |url=https://www.protothema.gr/files/2021-06-27/%CE%A0%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%B1%CE%B4%CE%B9%CE%BA%CE%B7_%CE%95%CF%81%CE%B5%CF%85%CE%BD%CE%B1_%CE%A0%CE%A1%CE%A9%CE%A4%CE%9F_%CE%98%CE%95%CE%9C%CE%91_%CE%99%CE%BF%CF%85%CE%BD2021.pdf |language=el |work=Marc |date=27 jUNE 2021}}</ref>
+| Marc/Proto Thema<ref>{{cite web |title=Γκάλοπ MARC για το «Πρώτο ΘΕΜΑ»: 65% υποχρεωτικό το εμβόλιο - Μπροστά με 16,4% η ΝΔ στην πρόθεση ψήφου |url=https://www.protothema.gr/greece/article/1137549/galop-marc-65-upohreotiko-to-emvolio/ |language=el |work=Proto Thema |date=27 June 2021}}</ref><ref>{{cite web |title=ΠΑΝΕΛΛΑΔΙΚΗ ΠΟΛΙΤΙΚΗ ΕΡΕΥΝΑ. ΙΟΥΝΙΟΣ 2021 |url=https://www.protothema.gr/files/2021-06-27/%CE%A0%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%B1%CE%B4%CE%B9%CE%BA%CE%B7_%CE%95%CF%81%CE%B5%CF%85%CE%BD%CE%B1_%CE%A0%CE%A1%CE%A9%CE%A4%CE%9F_%CE%98%CE%95%CE%9C%CE%91_%CE%99%CE%BF%CF%85%CE%BD2021.pdf |language=el |work=Marc |date=27 June 2021}}</ref>
 | 18–24 Jun 2021
 | 1,006
 | {{Party shading/ND}}| '''45.7'''
@@ -196,7 +226,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 |-
 | GPO/Powergame.gr<ref>{{cite web |title=Δημοσκόπηση GPO: Σταθεροί συσχετισμοί σε μεταβαλλόμενο τοπίο |url=https://www.powergame.gr/ellada/82662/dimoskopisi-gpo-statheroi-syschetismoi-se-metavallomeno-topio/ |language=el |work=Powergame.gr |date=8 June 2021}}</ref>
 | 3–5 Jun 2021
-|?
+| 1,000
 | {{Party shading/ND}}| '''42.6'''
 | 27.8
 | 8.2
@@ -286,7 +316,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 |-
 | GPO/Powergame.gr<ref>{{cite web |title=GPO: Το προβάδισμα της ΝΔ και ο καταλύτης των εμβολιασμών |url=https://www.powergame.gr/ellada/68564/gpo-to-provadisma-tis-nd-kai-o-katalytis-ton-emvoliasmon/?fbclid=IwAR3HEhzzLKwK9yGIySTPcEnRtk0mnm7VUuahLmJh-BNaUatM_iXUEmlykLg |language=el |work=Powergame.gr |date=11 May 2021}}</ref>
 | 5–7 May 2021
-|?
+| 1,000
 | {{Party shading/ND}}| '''43.4'''
 | 27.3
 | 8.5
@@ -391,7 +421,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 |-
 | GPO/Powergame.gr<ref>{{cite web |title=Δημοσκόπηση GPO: Προηγείται η ΝΔ, αμετάβλητοι οι συσχετισμοί |url=https://www.powergame.gr/ellada/55450/dimoskopisi-gpo-proigeitai-i-nd-ametavlitoi-oi-syschetismoi/ |language=el |work=Powergame.gr |date=13 April 2021}}</ref>
 | 6–9 Apr 2021
-|?
+| 1,000
 | {{Party shading/ND}}| '''42.5'''
 | 27.8
 | 8.3
@@ -494,24 +524,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 16.1
 |-
-| GPO/Ta Nea<ref>{{cite web |title=Δημησκόπηση : Τα μηνύματα των πολιτών και η παγίωση της διαφοράς ΝΔ-ΣΥΡΙΖΑ |url=https://www.tanea.gr/2021/03/07/politics/dimiskopisi-ta-minymata-ton-politon-kai-i-pagiosi-tis-diaforas-nd-syriza/ |language=el |work=Ta Nea |date=6 March 2021}}</ref>
-| 6 Mar 2021
-|?
-| {{Party shading/ND}}| '''43.5'''
-| 27.2
-| 8.5
-| 7.5
-| 4.9
-| 3.6
-| –
-| –
-| –
-| –
-| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 16.3
-|-
 | GPO/Powergame.gr<ref>{{cite web |title=Νέα δημοσκόπηση: Στο 13,7% η διαφορά της Νέας Δημοκρατίας από τον ΣΥΡΙΖΑ |url=https://www.powergame.gr/ellada/37348/dimoskopisi-gpo-provadisma-tis-nd-me-134-enanti-tou-syriza-i-axiologisi-ton-ypourgon/ |language=el |work=Powergame.gr |date=9 March 2021}}</ref>
 | 3–5 Mar 2021
-|?
+| 1,000
 | {{Party shading/ND}}| '''43.2'''
 | 27.2
 | 8.5
@@ -523,6 +538,21 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 16.0
+|-
+| GPO/Ta Nea<ref>{{cite web |title=Δημησκόπηση : Τα μηνύματα των πολιτών και η παγίωση της διαφοράς ΝΔ-ΣΥΡΙΖΑ |url=https://www.tanea.gr/2021/03/07/politics/dimiskopisi-ta-minymata-ton-politon-kai-i-pagiosi-tis-diaforas-nd-syriza/ |language=el |work=Ta Nea |date=6 March 2021}}</ref>
+| 1–3 Mar 2021
+| 1,000
+| {{Party shading/ND}}| '''43.5'''
+| 27.2
+| 8.5
+| 7.5
+| 4.9
+| 3.6
+| –
+| –
+| –
+| –
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 16.3
 |-
 | MRB/Star<ref>{{cite web |title=Δημοσκόπηση MRB: Με 13,1 % προηγείται η ΝΔ του ΣΥΡΙΖΑ |url=https://www.capital.gr/politiki/3530042/dimoskopisi-mrb-me-13-1-proigeitai-i-nd-tou-suriza |language=el |work=Capital.gr |date=4 March 2021}}</ref><ref>{{cite web |title=Δημοσκόπηση MRB: Με 13,1% προηγείται η ΝΔ του ΣΥΡΙΖΑ |url=https://www.protothema.gr/politics/article/1101387/dimoskopisi-mrb-me-131-proigeitai-i-nd-tou-suriza/ |language=el |work=Proto Thema |date=4 March 2021}}</ref>
 | 1–3 Mar 2021
