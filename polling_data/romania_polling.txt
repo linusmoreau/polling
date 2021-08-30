@@ -1,0 +1,438 @@
+==Opinion polls==
+
+{{Graph:Chart|width=750|height=450|xAxisTitle=Date|yAxisTitle=Percentage|legend=|type=line
+|interpolate=bundle
+|showSymbols=1
+|xType=date
+|xAxisMax=1680300000000
+|yAxisMin=0
+|xGrid=11
+|yGrid=11
+|x=  2020/12/06, 2020/12/20, 2020/12/21, 2021/01/15, 2021/01/17, 2021/02/11, 2021/02/14, 2021/02/26, 2021/03/28, 2021/04/11, 2021/04/17, 2021/05/06, 2021/05/2, 2021/05/17, 2021/05/28,  2021/06/01, 2021/06/15, 2021/06/18, 2021/07/01, 2021/07/29, 2021/08/15, 2021/08/16, 2021/08/16, 2021/08/21, 2021/08/30,
+|y1Title= PSD |y1= 29 ,35, 35, 34, 34, 28, 33, 34, 35, 28.9, 33, 22.14, 36, 36, 36, 22.91, 30.02, 34, 31, 38, 35, 34, 35
+|y2Title= PNL |y2= 26 ,26, 26, 26, 24, 27, 25, 25, 26, 22.3, 21, 23.50, 28, 23, 22, 24.95, 26.6, 22, 27,  15.1, 27, 20, 21
+|y3Title= USR PLUS |y3= 15 ,14, 15, 16, 16, 14, 20, 16, 17, 22.5, 16, 13.59, 11, 14, 15, 15, 13.2, 14, 15 , 11.1, 14, 12, 14
+|y4Title= AUR |y4= 9 ,15, 14, 12, 14, 16, 8, 9, 12, 10, 12, 15.53, 14, 15, 11, 17.96, 14.2, 12, 10, 14.5, 14, 11, 15
+|y5Title=UDMR |y5= 5.75, 4, 5, 5, 5, 6, 4, 4, 4, 4, 4, 8.64, 3, 5, 6, 5, 4, 7, 5.1, 5, 5, 5, 5
+|y6Title= PMP |y6= 5 ,2, 2, 3, 3, 4, 4, 3, 3, 4.2, 5, 4.66, , 2, 2, , 2.8, 5, 2,  , 2, 4, 5, 5
+|y7Title= PRO |y7= 4 ,1, 2, 2, 1, 1, 4, 2, 2, 2.9, 3, 4.17, 3, 2, 5, 2, 4.3, 2, 3, 0, 2, 3, 3, 2
+|y8Title= ALDE |y8=  , , , , , , 2, , , ,  , , , , 0, 2.9, , 3, , 1, 3, ,
+|y9Title= PPU |y9= , , , , , , , 3, , , 4, , ,1,1, , , 2, , , , 4, 1
+|y10Title= PER |y10= , , , , , , 3, , , ,  , , 1, 1, 1, , , , 2, , , , 
+|colors= #ED262B, #FAE800, #00aae7, #fcc224, green, #81F781, #0080C7, #005487, #66CCFF, #00753A
+| hannotatonslabel=Treshold (5%)
+| hannotatonsline=5
+}}
+
+{| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+|- style="background:lightgrey;"
+! rowspan="2" style="width:110px;"| Date
+! rowspan="2" style="width:90px;"| Poll source
+! rowspan="2" style="width:45px;"| Sample size
+! style="width:45px;"| [[Social Democratic Party (Romania)|PSD]]
+! style="width:45px;"| [[National Liberal Party (Romania)|PNL]]
+! style="width:45px;"| [[USR PLUS]]
+! style="width:45px;"| [[Alliance for the Union of Romanians|AUR]]
+! style="width:45px;"| [[Democratic Alliance of Hungarians in Romania|UDMR]]
+! style="width:45px;"| [[People's Movement Party|PMP]]
+! style="width:45px;"| [[PRO Romania|PRO]] 
+! style="width:45px;"| [[Alliance of Liberals and Democrats (Romania)|ALDE]] 
+! style="width:45px;"| [[Humanist Power Party|PPU-SL]]
+! style="width:45px" | [[Ecologist Party of Romania|PER]]
+! rowspan="2" style="width:45px;"| [[List of political parties in Romania|Others]]
+! rowspan="2" style="width:45px;"| Lead
+|-
+! style="background:{{Social Democratic Party (Romania)/meta/color}};"|
+! style="background:{{National Liberal Party (Romania)/meta/color}};"|
+! style="background:{{USR PLUS/meta/color}};"|
+! style="background:{{Alliance for the Union of Romanians/meta/color}};"|
+! style="background:{{Democratic Alliance of Hungarians in Romania/meta/color}};"|
+! style="background:{{People's Movement Party/meta/color}};"|
+! style="background:{{PRO Romania/meta/color}};"|
+! style="background:{{Alliance of Liberals and Democrats (Romania)/meta/color}};"|
+! style="background:{{Conservative Party (Romania)/meta/color}}"|
+! style="background:{{Ecologist Party of Romania/meta/color}}"|
+|-
+|20–24 Aug 2021
+|[https://www.digi24.ro/stiri/actualitate/politica/surse-sondajul-prezentat-de-marcel-ciolacu-liderilor-psd-la-sedinta-de-la-neptun-1650129 Avangarde]
+|900
+|  style="background:#F9C8CA;"| '''35.0'''
+|21.0
+|14.0
+|15.0
+|5.0
+|5.0
+|2.0
+|{{n/a}}
+|1.0
+|{{n/a}}
+|2.0
+|  style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;"| 14.0
+|-
+|12–20 Aug 2021
+|[https://curs.ro/sondaj-national-august-2021/ CURS]
+|1.067
+|  style="background:#F9C8CA;"| '''34.0'''
+|20.0
+|12.0
+|11.0
+|5.0
+|5.0
+|3.0
+|3.0
+|4.0
+|{{n/a}}
+|3.0
+|  style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;"| 14.0 
+|-
+|15-19 Aug 2021
+|[https://www.digi24.ro/stiri/actualitate/politica/cel-mai-nou-sondaj-ires-ce-partide-ar-vota-romanii-daca-duminica-ar-fi-alegeri-parlamentare-1639263 IRES]
+|1.006
+| style="background:#F9C8CA;" | '''35.0'''
+|27.0
+|14.0
+|14.0
+|5.0
+|2.0
+|2.0
+|1.0
+| {{n/a}}
+| {{n/a}}
+|2.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 8.0
+|-
+| 26 Jul 2021
+| [https://insomar.org/2021/07/26/coalitia-de-guvernare-vs-opozitie/ INSOMAR]
+| {{n/a}}
+| style="background:#F9C8CA;"| '''38.1'''
+| 15.1
+| 11.1
+| 15.0
+| 5.1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| 15.8
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;"| 23.0
+|-
+|July 2021
+|[https://www.g4media.ro/sondaj-politico-psd-34-pnl-18-aur-14-usrplus-12-caderea-abrupta-a-pnl-incepe-la-sase-luni-de-la-guvernare.html Sociopol]
+|{{n/a}}
+| style="background:#F9C8CA;"| '''31.0'''
+|27.0
+|15.0
+|10.0
+|7.0
+|2.0
+|3.0
+|{{n/a}}
+|{{n/a}}
+|2.0
+|3.0
+|style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;"| 4.0
+|-
+| 11–18 Jun 2021
+| [https://www.stiripesurse.ro/sondaj-curs-intentia-de-vot-pentru-partide-la-nivel-national_1856124.html CURS]
+| 1.067
+| style="background:#F9C8CA;" | '''34.0'''
+| 22.0
+| 14.0
+| 12.0
+| 4.0
+| 5.0
+| 2.0
+| 3.0
+| 2.0
+| {{n/a}}
+| 4.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 12.0
+|-
+| 1–15 Jun 2021
+|[https://www.antena3.ro/actualitate/sondaj-psd-conduce-intentii-vot-romani-aur-declin-607910.html INSCOP]
+| 1,100
+| style="background:#F9C8CA;" | '''30.2'''
+| 26.6
+| 13.2
+| 14.2
+| {{n/a}}
+| 2.8
+| 4.3
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| 8.7
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" |3.6
+|-
+| Jun 2021
+| [https://insomar.org/2021/06/24/mini-status-socio-politic/ INSOMAR]
+| 1,030
+| 22.9
+| style="background:#F9F2C8" | '''25.0'''
+| 15.0
+| 18.0
+| 5.1
+| {{n/a}}
+| 2.0
+| 2.9
+| {{n/a}}
+| {{n/a}}
+| 7.2
+| style="background:{{National Liberal Party (Romania)/meta/color}}" ; color:white;" | 2.1
+|-
+| May 2021
+| [https://www.antena3.ro/emisiuni/punctul-de-intalnire/sondaj-psd-intentii-electorale-romani-pnl-601815.html Sociopol]
+| 1,100
+| style="background:#F9C8CA;" | '''36.0'''
+| 22.0
+| 15.0
+| 11.0
+| 6.0
+| 2.0
+| 5.0
+| 0.0
+| 1.0
+| 1.0
+| 1.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" |14.0
+|-
+| May 2021
+| [https://www.antena3.ro/emisiuni/punctul-de-intalnire/sondaj-psd-intentii-electorale-romani-pnl-601815.html Avangarde]
+| 1,100
+| style="background:#F9C8CA;" | '''36.0'''
+| 23.0
+| 14.0
+| 15.0
+| 5.0
+| 2.0
+| 2.0
+| {{N/A}}
+| 1.0
+| 1.0
+| 2.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" |13.0
+|-
+| May 2021 
+|[https://www.antena3.ro/emisiuni/punctul-de-intalnire/sondaj-psd-intentii-electorale-romani-pnl-601815.html IRES]
+| 1,100
+| style="background:#F9C8CA;" |'''36.0'''
+| 28.0
+| 11.0
+| 14.0
+| 3.0
+| {{n/a}}
+| 3.0
+| {{N/A}}
+| {{n/a}}
+| 1.0
+| 8.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 8.0
+|-
+| 7 May 2021
+| [https://www.aktual24.ro/sondaj-insomar-pnl-a-trecut-pe-primul-loc-ciolacu-nu-mai-cere-alegeri-anticipate-nici-el-nu-sta-bine-in-sondaj/ INSOMAR]
+| 1,030
+| 22.1
+| style="background:#F9F2C8" | '''23.5'''
+| {{circa}} 13.5
+| 15.5
+| 8.6
+| 4.6
+| 4.1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| 8.4
+| style="background:{{National Liberal Party (Romania)/meta/color}}" ; color:white;" | 1.4
+|-
+| 14–17 Apr 2021
+| [https://www.stiripesurse.ro/sondaj-curs_1745955.html CURS]
+| 1,107
+| style="background:#F9C8CA;" | '''33.0'''
+| 21.0
+| 16.0
+| 12.0
+| 4.0
+| 5.0
+| 3.0
+| {{n/a}}
+| 4.0
+| {{n/a}}
+| 2.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 12.0
+|-
+| 30 Mar–11 Apr 2021
+| BCS{{cn|date=May 2021}}
+| 1,420
+| style="background:#F9C8CA;" | '''28.9'''
+| 22.3
+| 22.5
+| 10.0
+| 4.0
+| 4.2
+| 2.9
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| 5.1
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 6.4
+|-
+| 12–28 Mar 2021
+| [https://tomisnews.ro/sondaj-sociopol-privind-popularitatea-partidelor-in-ritmul-actual-in-2024-presedintele-tarii-va-fi-ori-candidatul-psd-ori-emil-boc-bataie-intre-aur-si-usr/ Sociopol]
+| {{n/a}}
+| style="background:#F9C8CA;" | '''35.0'''
+| 26.0
+| 17.0
+| 12.0
+| 4.0
+| 3.0
+| 2.0
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| 1.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 9.0
+|-
+| 22–26 Feb 2021
+| [https://www.g4media.ro/sondaj-curs-clasamentul-partidelor-psd-34-pnl-25-usr-plus-16-aur-9.html CURS]
+| 1,100
+| style="background:#F9C8CA;" | '''34.0'''
+| 25.0
+| 16.0
+| 9.0
+| 4.0
+| 3.0
+| 2.0
+| {{n/a}}
+| 3.0
+| {{n/a}}
+| 4.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 10.0
+|-
+| 10–14 Feb 2021
+| [https://www.gazetacivica.ro/politica/sondaj-de-opinie-efectuat-in-perioada-10-14-februarie/ PER]
+| 1,055
+| style="background:#F9C8CA;" | '''33.0'''
+| 25.0
+| 20.0
+| 8.0
+| 4.0
+| 4.0
+| 4.0
+| 2.0
+| {{n/a}}
+| 3.0
+| 4.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 8.0
+|-
+| 9–11 Feb 2021
+| [https://www.realitatea.net/stiri/ultimele-stiri/sondaj-insomar-cine-ar-castiga-acum-alegerile-parlamentare-in-romania-tensiuni-la-nivel-inalt-scorul-care-pulverizeaza-partidul-lui-ponta_60265342e10f7876d73aab5e INSOMAR]
+| 1,030
+| style="background:#F9C8CA;" | '''28.0'''
+| 27.0
+| 14.0
+| 16.0
+| 6.0
+| 4.0
+| 1.0
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| 4.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 1.0
+|-
+| 15–17 Jan 2021
+| [https://us24.ro/2021/01/19/sondaj-avangarde-rasturnare-de-situatie-pe-scena-politica/ Avangarde]
+| 710
+| style="background:#F9C8CA;" | '''34.0'''
+| 24.0
+| 16.0
+| 14.0
+| 5.0
+| 3.0
+| 1.0
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| 3.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 10.0
+|-
+| 11–15 Jan 2021
+| [https://curs.ro/ro/sondaj-de-opinie-la-nivel-national-ianuarie-2021/ CURS]
+| 1,100
+| style="background:#F9C8CA;" | '''34.0'''
+| 26.0
+| 16.0
+| 12.0
+| 5.0
+| 3.0
+| 2.0
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| 2.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 8.0
+|-
+| 17–21 Dec 2020  
+| [https://antena3.ro CURS]
+| 1,100
+| style="background:#F9C8CA;" | '''35.0'''
+| 26.0
+| 14.0
+| 15.0
+| 4.0
+| 2.0
+| 2.0
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| 2.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 9.0
+|-
+| 10–20 Dec 2020
+| [https://adevarul.ro/news/politica/sondaj-avangarde-psd-castiga-nou-alegeri-s-ar-reorganiza-romani-acord-suspendarea-presedintelui-1_5fe1b6215163ec42712777ce/index.html Avangarde]
+| 900
+| style="background:#F9C8CA;" | '''35.0'''
+| 26.0
+| 15.0
+| 14.0
+| 5.0
+| 2.0
+| 1.0
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| 2.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 9.0
+|-
+| colspan="15" style="background:#A0A0A0" |
+|-
+! rowspan="2" | 6 December 2020
+! [[2020 Romanian legislative election|2020 Chamber election]]
+! {{N/A}}
+! style="background:#F9C8CA;" | 28.90
+! 25.18
+! 15.37
+! 9.08
+! 5.74
+! 4.82
+!colspan="2"| 4.09
+! 1.19
+!1.12
+! 6.82
+! style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 3.72
+|-
+! [[2020 Romanian legislative election|2020 Senate election]]
+! {{N/A}}
+! style="background:#F9C8CA;" | 29.32
+! 25.58
+! 15.86
+! 9.17
+! 5.89
+! 4.93
+!colspan="2"| 4.13
+! 1.01
+!1.33
+! 5.12
+! style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 3.74
+|}

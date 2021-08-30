@@ -1089,6 +1089,22 @@ def choices_setup():
             'threshold': 0,
             'method': 'quotient'
         },
+        'Romania': {
+            'key': ['date', 'source', 'sample',
+                    'PSD', 'PNL', 'USR PLUS', 'AUR', 'UDMR', 'PMP', 'PRO', 'ALDE', 'PPU-SL', 'PER',
+                    'Other', 'lead', 'end'],
+            'include': ['PSD', 'PNL', 'USR PLUS', 'AUR', 'UDMR', 'PMP', 'PRO', 'ALDE', 'PPU-SL', 'PER'],
+            'col': {'PSD': (237, 33, 40), 'PNL': (255, 221, 0), 'USR PLUS': (0, 166, 255), 'AUR': (252, 194, 36),
+                    'UDMR': (41, 102, 51), 'PMP': (167, 207, 53), 'PRO': (21, 114, 186), 'PPU-SL': (102, 204, 255),
+                    'PER': (0, 117, 58), 'ALDE': (0, 84, 135)},
+            'gov': {'Government': ['PNL', 'USR PLUS', 'UDMR'],
+                    'Opposition': ['PSD', 'AUR', 'PMP', 'PRO', 'PPU-SL', 'ALDE', 'PER']},
+            'end_date': Date(2025, 3, 25),
+            'restart': ['[https', 'CURS'],
+            'start': -1,
+            'url': 'https://en.wikipedia.org/w/index.php?title='
+                   'Next_Romanian_legislative_election&action=edit&section=3',
+        },
         'Russia': {
             'key': ['date', 'firm',
                     'UR', 'CPRF', 'LDPR', 'SRZP',
