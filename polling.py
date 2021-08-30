@@ -197,12 +197,13 @@ def transcribe_table(content, key, choice, begin, start):
             row = 0
             col = 0
             key = nkey
+        cont = False
         if len(line) > 0 and line[0] == '}':
             started = False
             i += 1
             col = 0
             row += 1
-            continue
+            cont = True
         if '==' in line:
             yline = line[line.find('=='):]
             yline = yline[:yline.find('==', 3)].strip('= \n')
@@ -215,6 +216,8 @@ def transcribe_table(content, key, choice, begin, start):
             i += 1
             col = 0
             started = False
+            cont = True
+        if cont:
             continue
         if not started:
             for b in begin:
