@@ -87,6 +87,29 @@
 |48.7
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |2.6
 |-
+|[https://www.dr.dk/nyheder/politik/ny-maaling-giver-tiltraengt-fremgang-til-venstre-men-ellemann-er-stadig-langt-fra Epinion]
+|19-26 Aug 2021
+|1,639
+| style="background:#FACECD;" |'''28.6'''
+|15.2
+|5.5
+|6.4
+|7.8
+|7.1
+|13.6
+|1.3
+|9.3
+|2.3
+| -
+|1.2
+| -
+|0.3
+| -
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |13.4
+| style="background:#FACECD;" |'''51.5'''
+|47.1
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |4.5
+|-
 |[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-22-08-2021.pdf Voxmeter]
 |16-22 Aug 2021
 |1,003

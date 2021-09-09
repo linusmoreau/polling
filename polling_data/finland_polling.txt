@@ -28,6 +28,23 @@
 ! data-sort-type="number" style="background:{{Christian Democrats (Finland)/meta/color}};" |
 ! data-sort-type="number" style="background:{{Movement Now/meta/color}};" |
 |-
+| Taloustutkimus<ref>{{Cite web|url=https://yle.fi/uutiset/3-12080897|title=Ylen kannatusmittaus: Kokoomuksen etumatka muihin kasvaa, puheenjohtajavaihdoksella ei suurta vaikutusta perussuomalaisten kannatukseen|first=Matti|last=Koivisto|website=Yle Uutiset|language=fi|access-date=2 September 2021|date=2 September 2021}}</ref>
+| data-sort-value="2021-08-31"| 4–31 Aug 2021
+| 2,369
+| 18.7
+| 17.6
+| style="background:#D9E9F4"|'''21.3'''
+| 12.2
+| 11.4
+| 7.6
+| 4.4
+| 3.3
+| 2.5
+| 1.0
+| style="background:{{National Coalition Party/meta/color}};color:#FFFFFF;" data-sort-value="-2.6"| 2.6
+| {{#expr:18.7+12.2+11.4+7.6+4.4}}
+| {{#expr:17.6+21.3+3.3+2.5}}
+|-
 | Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000008215962.html|title=Kokoomus edelleen suosituin puolue, perussuomalaisten kannatus laski hieman|first=Elina|last=Kervinen|website=Helsingin Sanomat |date=26 August 2021|access-date=26 August 2021}}</ref>
 | data-sort-value="2021-8-20"| 26 Jul–20 Aug 2021
 | 2,466

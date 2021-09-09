@@ -37,6 +37,21 @@ Polls conducted after the election is called.
 |bgcolor={{New People (political party)/meta/color}}|
 |bgcolor={{Green Alternative (Russia)/meta/color}}|
 |-
+|1 September
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/za-dve-nedeli-do-vyborov-politicheskie-indikatory WCIOM]
+|style="background:#B3E0FF" |'''34%'''||'''18%'''||'''10%'''||'''7%'''||0.3%||2.2%||2.7%||1.0%||0.7%||2.1%||0.2%||1.8%||2.8%||0.2%||–||16%
+|style="background:#0C2C84; color:white;"|16%
+|-
+|29 August
+|[https://media.fom.ru/fom-bd/d34pi2021.pdf FOM]
+|style="background:#B3E0FF" |'''30%'''||'''15%'''||'''10%'''||'''5%'''||0%||1%||1%||1%||0%||1%||0%||1%||3%||0%||14%||17%
+|style="background:#0C2C84; color:white;"|15%
+|-
+|29 August
+|[https://wciom.ru/ratings/reiting-politicheskikh-partii/ WCIOM]
+|style="background:#B3E0FF" |'''28.3%'''||'''17.5%'''||'''8.7%'''||'''6.6%'''||colspan=10|15.5%||13.3%||8.5%
+|style="background:#0C2C84; color:white;"|10.8%
+|-
 |25 August
 |[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-27082021/ WCIOM]
 |style="background:#B3E0FF" |'''30%'''||'''16%'''||'''9%'''||'''7%'''||colspan=10|12%||8%||12%
@@ -64,7 +79,7 @@ Polls conducted after the election is called.
 |-
 |9-13 August
 |[https://kprf.ru/activity/elections/204653.html CIPKR]
-| style="background:#B3E0FF" |'''25%'''||'''19%'''||'''8%'''||'''6%'''||1%||2%||'''5%'''||–||–||–||–||–||4%||0%||colspan="2"|24%
+| style="background:#B3E0FF" |'''25%'''||'''19%'''||'''8%'''||'''6%'''||1%||2%||'''5%'''||–||–||–||–||–||4%||0%||?||14%
 | style="background:#0C2C84; color:white;" |6%
 |-
 |8 August

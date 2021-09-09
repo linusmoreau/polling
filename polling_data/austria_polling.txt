@@ -21,6 +21,102 @@
 ! style="background:{{NEOS – The New Austria and Liberal Forum/meta/color}};"|
 ! style="background:{{Independent/meta/color}};"|
 |-
+| [https://www.oe24.at/video/fellnerlive/fellner-live-die-umfrage-der-woche/490279467 Research Affairs]
+| data-sort-value="2021-09-01"| 30 Aug – 1 Sep 2021
+| 500
+| Online
+| <!-- People Party -->  style="background:#D2EDF1;"| '''35'''
+| <!-- Social Democratic Party --> | 22
+| <!-- Freedom Party --> | 19
+| <!-- Greens --> | 10
+| <!-- NEOS--> | 11
+| <!-- Independent--> | 3
+| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+|-
+| [https://www.oe24.at/video/fellnerlive/fellner-live-die-umfrage-der-woche/489532193 Research Affairs]
+| data-sort-value="2021-08-26"| 24–26 Aug 2021
+| 500
+| Online
+| <!-- People Party -->  style="background:#D2EDF1;"| '''34'''
+| <!-- Social Democratic Party --> | 21
+| <!-- Freedom Party --> | 19
+| <!-- Greens --> | 10
+| <!-- NEOS--> | 12
+| <!-- Independent--> | 4
+| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+|-
+| [https://www.youtube.com/watch?v=35w8-sElvJU Research Affairs]
+| data-sort-value="2021-08-19"| 17–19 Aug 2021
+| 504
+| Online
+| <!-- People Party -->  style="background:#D2EDF1;"| '''34'''
+| <!-- Social Democratic Party --> | 21
+| <!-- Freedom Party --> | 19
+| <!-- Greens --> | 11
+| <!-- NEOS--> | 11
+| <!-- Independent--> | 4
+| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+|-
+| [https://www.oe24.at/video/fellnerlive/fellner-live-die-umfrage-der-woche/487808760 Research Affairs]
+| data-sort-value="2021-08-12"| 10–12 Aug 2021
+| 506
+| Online
+| <!-- People Party -->  style="background:#D2EDF1;"| '''34'''
+| <!-- Social Democratic Party --> | 21
+| <!-- Freedom Party --> | 18
+| <!-- Greens --> | 10
+| <!-- NEOS--> | 12
+| <!-- Independent--> | 5
+| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+|-
+| [https://www.derstandard.at/story/2000128927929/mehrheit-bezweifelt-dass-regierung-probleme-im-griff-hat Market]
+| data-sort-value="2021-08-11"| 6–11 Aug 2021
+| 805
+| Online & CAPI
+| <!-- People Party -->  style="background:#D2EDF1;"| '''31'''
+| <!-- Social Democratic Party --> | 25
+| <!-- Freedom Party --> | 18
+| <!-- Greens --> | 13
+| <!-- NEOS--> | 11
+| <!-- Independent--> | 2
+| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 6
+|-
+| [https://www.oe24.at/video/fellnerlive/fellner-live-die-umfrage-der-woche/487016790 Research Affairs]
+| data-sort-value="2021-08-05"| 3–5 Aug 2021
+| 500
+| Online
+| <!-- People Party -->  style="background:#D2EDF1;"| '''35'''
+| <!-- Social Democratic Party --> | 21
+| <!-- Freedom Party --> | 17
+| <!-- Greens --> | 11
+| <!-- NEOS--> | 12
+| <!-- Independent--> | 4
+| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 14
+|-
+| [https://www.profil.at/oesterreich/umfrage-fpoe-rueckt-an-spoe-heran-oevp-tief-scheint-ueberwunden/401465338 Unique Research]
+| data-sort-value="2021-08-05"| 2–5 Aug 2021
+| 800
+| Phone & Online
+| <!-- People Party -->  style="background:#D2EDF1;"| '''35'''
+| <!-- Social Democratic Party --> | 21
+| <!-- Freedom Party --> | 19
+| <!-- Greens --> | 12
+| <!-- NEOS--> | 11
+| <!-- Independent--> | 2
+| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 14
+|-
+| [https://www.youtube.com/watch?v=rvqh2xkN1lY Research Affairs]
+| data-sort-value="2021-07-29"| 27–29 Jul 2021
+| 504
+| Online
+| <!-- People Party -->  style="background:#D2EDF1;"| '''35'''
+| <!-- Social Democratic Party --> | 20
+| <!-- Freedom Party --> | 17
+| <!-- Greens --> | 12
+| <!-- NEOS--> | 12
+| <!-- Independent--> | 4
+| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
+|-
 | [https://epaper-oesterreich.at/issue.act?issueId=845720&issueMutation=CITYW&issueDate=20210723&region=oe Research Affairs]
 | data-sort-value="2021-07-22"| 20–22 Jul 2021
 | 504

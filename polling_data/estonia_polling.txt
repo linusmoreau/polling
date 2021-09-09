@@ -13,7 +13,7 @@
 ! rowspan="2" class="unsortable"| Others
 ! rowspan="2" data-sort-type="number"| Lead 
 ! class="unsortable" style="width:20px;"| {{abbr|Gov.|Government parties (Reform, Centre)}}
-! class="unsortable" style="width:20px;"| {{abbr|Opp.|Opposition parties (Conservative, Isamaa, Social Democratic, Estonia 200 and Green)}}
+! class="unsortable" style="width:20px;"| {{abbr|Opp.|Non-government parties (Conservative, Isamaa, Social Democratic, Estonia 200 and Green)}}
 |- style="text-align:center;"
 ! data-sort-type="number" style="background:{{Estonian Reform Party/meta/color}};"|
 ! data-sort-type="number" style="background:{{Estonian Centre Party/meta/color}};"|

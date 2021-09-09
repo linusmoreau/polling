@@ -20,6 +20,60 @@
 ! data-sort-type="number" style="background:{{Scottish National Party/meta/color}};"|
 ! data-sort-type="number" style="background:{{Green Party of England and Wales/meta/color}};"|
 |-
+|{{opdrts||6|Sep|2021}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-6-september-2021/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''41%'''
+|32%
+|11%
+|4%
+|6%
+|{{Hidden|7%|[[Brexit Party|Reform UK]] on 4%<br/>[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|9%
+|-
+|{{opdrts|2|3|Sep|2021}}
+|[https://docs.cdn.yougov.com/228vaqqaw4/TheTimes_Results_VI_210903_W.pdf YouGov]
+|The Times
+|GB
+|1,653
+|style="background:#CCEBFF;"|'''38%'''
+|34%
+|8%
+|5%
+|10%
+|{{Hidden|7%|[[Brexit Party|Reform UK]] on 3%<br/>[[Plaid Cymru]] on 1%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|4%
+|-
+
+|-
+|{{opdrts|2|3|Sep|2021}}
+|[https://deltapoll.co.uk/wp-content/uploads/2021/09/Deltapoll-SunOnSunday210903.pdf Deltapoll]
+|''The Sun on Sunday''
+|GB
+|1,589
+|style="background:#CCEBFF;"|'''41%'''
+|33%
+|9%
+|3%
+|7%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|7%|[[Plaid Cymru]] on 1%<br/>[[UKIP]] on 3%<br/>[[Reform UK]] on 3% <br/>Other on 0%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|8%
+|-
+|{{opdrts|2|3|Sep|2021}}
+|[https://www.opinium.com/wp-content/uploads/2021/09/03-09-21-VI-Tables.xlsx Opinium]
+|''The Observer''
+|GB
+|2,014
+|style="background:#CCEBFF;"|'''40%'''
+|35%
+|7%
+|6%
+|6%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|6%|[[Plaid Cymru]] on 0%<br/>Other on 6%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|5%
+|-
 |{{opdrts||29|Aug|2021}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-29-august-2021/ Redfield & Wilton Strategies]
 |N/A
@@ -31,6 +85,32 @@
 |4%
 |5%
 |{{Hidden|7%|[[Brexit Party|Reform UK]] on 4%<br/>[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|8%
+|-
+|{{opdrts|27|29|Aug|2021}}
+|[https://comresglobal.com/polls/westminster-voting-intention-2nd-september-2021/ SavantaComRes]
+|N/A
+|UK
+|2,062
+|style="background:#CCEBFF;"|'''40%'''
+|34%
+|10%
+|4%
+|5%
+|{{Hidden|6%|[[Brexit Party|Reform UK]] on 2%<br/>[[Plaid Cymru]] on 1%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|6%
+|-
+|{{opdrts|25|26|Aug|2021}}
+|[https://docs.cdn.yougov.com/2z2m82yio6/TheTimes_VI_Results_210826_W.pdf YouGov]
+|''The Times''
+|GB
+|1,703
+|style="background:#CCEBFF;"|'''39%'''
+|31%
+|8%
+|5%
+|9%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|8%|[[Plaid Cymru]] on 1%<br/>[[Reform UK]] on 4% <br/>Other on 3%}}
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|8%
 |-
 |{{opdrts||23|Aug|2021}}
@@ -60,7 +140,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|3%
 |-
 |{{opdrts|20|22|Aug|2021}}
-|[https://twitter.com/savantacomres/status/1430451877586604039?s=21 SavantaComRes]
+|[https://comresglobal.com/polls/westminster-voting-intention-25th-august-2021/ SavantaComRes]
 |N/A
 |UK
 |2,083
@@ -69,7 +149,7 @@
 |9%
 |4%
 |4%
-|7%
+|{{Hidden|7%|[[Brexit Party|Reform UK]] on 2%<br/>[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|7%
 |-
 |{{opdrts|19|20|Aug|2021}}
@@ -112,7 +192,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|4%
 |-
 |{{opdrts|13|15|Aug|2021}}
-|[https://twitter.com/SavantaComRes/status/1428301420093218822 SavantaComRes]
+|[https://comresglobal.com/polls/westminster-voting-intention-19th-august-2021/ SavantaComRes]
 |N/A
 |UK
 |2,075
@@ -121,7 +201,7 @@
 |9%
 |4%
 |4%
-|7%
+|{{Hidden|7%|[[Brexit Party|Reform UK]] on 2%<br/>[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|7%
 |-
 |{{opdrts|11|12|Aug|2021}}

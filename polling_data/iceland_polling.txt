@@ -43,6 +43,38 @@
 | 1.5
 | style="background:{{Independence Party (Iceland)/meta/color}};color:#FFFFFF;"| 8.4
 |-
+|[https://www.mbl.is/frettir/innlent/2021/08/31/fleiri_stydja_rikisstjornina_en_flokkana/ Gallup]
+|15—29 Aug 2021
+|4,329
+|53.3
+| style="background:#C6ECFB;"| '''24.2'''
+|12.3
+|11.5
+|7.0
+|9.7
+|10.9
+|4.9
+|10.6
+|8.2
+|0.7
+| style="background:{{Independence Party (Iceland)/meta/color}};color:#FFFFFF;"| 12.1
+|-
+| [https://www.electograph.com/2021/08/iceland-mmr-210827.html MMR]
+| data-sort-value="2021-08-24"| 24 Aug 2021
+| –
+| –
+| style="background:#C6ECFB;"| '''23.9'''
+| 10.9
+| 10.5
+| 6.2
+| 12.5
+| 10.6
+| 5.1
+| 10.4
+| 8.7
+| 1.2
+| style="background:{{Independence Party (Iceland)/meta/color}};color:#FFFFFF;"| 11.3
+|-
 | [https://www.electograph.com/2021/08/iceland-maskina-poll-210824.html Maskína]
 | data-sort-value="2021-08-23"| 13–23 Aug 2021
 | 822

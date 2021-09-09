@@ -43,6 +43,30 @@ Poll results are listed in the table in reverse chronological order, showing the
 ! class="unsortable" style="background: #81d742; width:30px"|
 ! class="unsortable" style="background: #6ab32e; width:30px"|
 |-
+|30 Aug–2 Sep 2021
+|Parsifal
+|[[Nova24TV]]
+|719
+| style="background:#FFFFBF" |'''15.4'''
+|7.7
+|10.8
+|1.1
+|8.5
+|2.7
+|4.1
+|2.7
+|3.3
+|–
+|1.5
+|0.8
+|–
+|0.6
+|11.5
+|13.9
+|8.4
+|style="background:{{Slovenian Democratic Party/meta/color}}"|4.6
+|<ref>{{Cite web|date=2021-09-05|title=[Javnomnenjska anketa] Volivci vse bolj naklonjeni strankam, ki bi se povezovale v razvojno koalicijo {{!}} Nova24TV|url=https://nova24tv.si/slovenija/politika/javnomnenjska-anketa-volivci-vse-bolj-naklonjeni-strankam-ki-bi-se-povezovale-v-razvojno-koalicijo/|access-date=2021-09-08|language=sl-SI}}</ref>
+|-
 |23 Aug 2021{{efn|name=date|Publication date}}
 |Mediana
 |[[Pop (Slovenian TV channel)|POPTV]]
@@ -70,7 +94,7 @@ Poll results are listed in the table in reverse chronological order, showing the
 |9 Aug 2021
 |Mediana
 |[[Delo (newspaper)|''Delo'']]
-|9 Aug
+|–
 |style="background:#FFFFBF" |'''17.1'''
 |7.3
 |12.7

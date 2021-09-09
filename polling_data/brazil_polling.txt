@@ -1,4 +1,5 @@
 ===First round===
+Scheduled to take place on 2 October 2022.
 ====2021====
 =====From July-August=====
 {| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
@@ -28,8 +29,40 @@
 ! data-sort-type="number" class="sortable" style="background:#FFEB3B;"|
 ! data-sort-type="number" class="sortable" style="background:#BBBBBB;"|
 |-
+|[https://www.poder360.com.br/poderdata/lula-tem-37-contra-28-de-bolsonaro-no-1o-turno-diz-poderdata/ ''PoderData'']
+|30 Aug–1 Sept
+|2,500
+|28%
+|style="background:#ffb7b7;"| '''37%'''
+|8%
+|4%
+|–
+|5%
+|4%
+|3%
+|–
+|–
+|11%
+|style="background:#cc0000;color:#ffffff;"| 9%
+|-
+|[https://www.em.com.br/app/noticia/politica/2021/09/01/interna_politica,1301410/lula-amplia-vantagem-e-venceria-bolsonaro-no-2-turno-diz-pesquisa-genial.shtml ''Quaest/Genial'']
+|26–29 Aug
+|2,000
+|26%
+|style="background:#ffb7b7;"| '''47%'''
+|8%
+|6%
+|–
+|–
+|–
+|–
+|–
+|–
+|13%
+|style="background:#cc0000;color:#ffffff;"| 21%
+|-
 |rowspan="2"|[https://www.opovo.com.br/noticias/politica/2021/08/17/xp-ipespe-lula-aumenta-vantagem-sobre-bolsonaro-em-segundo-turno-e-mantem-crescimento.html ''XP/Ipespe'']
-|rowspan="2"|11–14 August
+|rowspan="2"|11–14 Aug
 |rowspan="2"|1,000
 |24%
 |style="background:#ffb7b7;"| '''40%'''
@@ -63,7 +96,7 @@
 | colspan="14" align="center" style="font-weight:bold;" |Rio Grande do Sul state governor [[Eduardo Leite|Leite]] and Senate president [[Rodrigo Pacheco (politician)|Pacheco]] in pre-candidacy campaign.<ref>{{cite news |last= |first= |date= |title=Alckmin e Eduardo Leite discutem em SP acordo anti-Doria no PSDB|url=https://www.cnnbrasil.com.br/politica/2021/08/05/alckmin-e-eduardo-leite-discutem-em-sp-acordo-anti-doria-no-psdb|work=CNN|location= |access-date=5 August 2021}}</ref><ref>{{cite news |last= |first= |date= |title=Pacheco se aproxima do PSD e deve disputar Planalto em 2022|url=https://www.poder360.com.br/eleicoes/pacheco-se-aproxima-do-psd-e-deve-disputar-planalto-em-2022/|work=Poder 360|location= |access-date=5 August 2021}}</ref>
 |-
 |[https://www.poder360.com.br/poderdata/poderdata-lula-lidera-corrida-para-2022-com-39-bolsonaro-tem-25/ ''PoderData'']
-|2–4 August
+|2–4 Aug
 |2,500
 |25%
 |style="background:#ffb7b7;"| '''39%'''
@@ -84,7 +117,7 @@
 | colspan="14" align="center" style="font-weight:bold;" |TV presenter [[José Luiz Datena|Datena]] announces candidacy.<ref>{{cite news |last= |first= |date= |title=Datena descarta vice em chapas de Ciro ou Bolsonaro: Sou candidato à Presidência |url=https://www.band.uol.com.br/noticias/brasil-urgente/ultimas/datena-descarta-vice-em-chapa-com-ciro-sou-candidato-a-presidencia-16363546|work=Band |location= |access-date=3 August 2021}}</ref>
 |-
 |rowspan="2"|[https://valor.globo.com/politica/noticia/2021/08/04/lula-tem-46-pontos-percentuais-contra-29-para-bolsonaro-e-12-para-ciro-mostra-pesquisa-genialquaest.ghtml ''Quaest/Genial'']
-|rowspan="2"|29 July–1 August
+|rowspan="2"|29 July–1 Aug
 |rowspan="2"|1,500
 |29%
 |style="background:#ffb7b7;"| '''46%'''
@@ -115,17 +148,17 @@
 |[https://www.paranapesquisas.com.br/wp-content/uploads/2021/07/BR_Jul21-Midia.pdf ''Paraná Pesquisas'']
 |24–28 July
 |2,010
-|32,7%
-|style="background:#ffb7b7;"| '''33,7%'''
-|6,8%
-|3,9%
+|32.7%
+|style="background:#ffb7b7;"| '''33.7%'''
+|6.8%
+|3.9%
 |–
-|1,8%
-|0,8%
-|7,0%
+|1.8%
+|0.8%
+|7.0%
 |–
-|0,7%
-|12,7%
+|0.7%
+|12.7%
 |style="background:#cc0000;color:#ffffff;"| 1%
 |-
 |[https://g1.globo.com/politica/noticia/2021/07/09/lula-tem-46percent-e-bolsonaro-25percent-no-1o-turno-aponta-pesquisa-datafolha-para-a-eleicao-de-2022.ghtml ''Datafolha'']
@@ -201,7 +234,6 @@
 ! class="unsortable" style="width:50px;"|[[Guilherme Boulos|Boulos]]<br>{{small|[[Socialism and Liberty Party|PSOL]]}}
 ! class="unsortable" style="width:50px;"|[[João Doria|Doria]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
 ! class="unsortable" style="width:50px;"|[[João Amoêdo|Amoêdo]]<br>{{small|[[New Party (Brazil)|NOVO]]}}
-! class="unsortable" style="width:50px;"|[[Marina Silva|Silva]]<br>{{small|[[Sustainability Network|REDE]]}}
 ! class="unsortable" style="width:50px;"|[[Sérgio Moro|Moro]]<br>{{small|Indep.}}
 ! class="unsortable" style="width:50px;"|[[Luciano Huck|Huck]]<br>{{small|Indep.}}
 ! rowspan="2" class="unsortable"| Others
@@ -216,7 +248,6 @@
 ! data-sort-type="number" class="sortable" style="background:#A30000;"|
 ! data-sort-type="number" class="sortable" style="background:#005fA4;"|
 ! data-sort-type="number" class="sortable" style="background:#F0762A;"|
-! data-sort-type="number" class="sortable" style="background:#2E8B57;"|
 ! data-sort-type="number" class="sortable" style="background:#BBBBBB;"|
 ! data-sort-type="number" class="sortable" style="background:#BBBBBB;"|
 |-
@@ -230,7 +261,6 @@
 |14%
 |–
 |8%
-|–
 |–
 |–
 |–
@@ -251,7 +281,6 @@
 |–
 |–
 |–
-|–
 |3%
 |13%
 |style="background:#cc0000;color:#ffffff;"| 26%
@@ -259,7 +288,7 @@
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;" {{opdrts||16|Jun|2021}}
-| colspan="14" align="center" style="font-weight:bold;" |[[Luciano Huck|Huck]] gives up on candidacy.<ref>{{cite news |last= |first= |date=8 March 2021 |title=Huck descarta candidatura à Presidência em 2022 e confirma ida para o lugar de Faustão na Globo |url=https://www1.folha.uol.com.br/poder/2021/06/huck-descarta-candidatura-a-presidencia-em-2022-e-confirma-ida-para-o-lugar-de-faustao-na-globo.shtml|work=[[Folha de São Paulo]] |location= |access-date=16 June 2021}}</ref>
+| colspan="13" align="center" style="font-weight:bold;" |[[Luciano Huck|Huck]] gives up on candidacy.<ref>{{cite news |last= |first= |date=8 March 2021 |title=Huck descarta candidatura à Presidência em 2022 e confirma ida para o lugar de Faustão na Globo |url=https://www1.folha.uol.com.br/poder/2021/06/huck-descarta-candidatura-a-presidencia-em-2022-e-confirma-ida-para-o-lugar-de-faustao-na-globo.shtml|work=[[Folha de São Paulo]] |location= |access-date=16 June 2021}}</ref>
 |-
 |[https://ndmais.com.br/politica-brasileira/eleicoes-2022-pesquisa-dos-grupos-nd-e-ric-aponta-lula-a-frente-de-bolsonaro/?utm_source=whatsapp&utm_campaign=wp-itajai&utm_medium=wp-grupos ''Instituto Mapa'']
 |18–20 May
@@ -272,7 +301,6 @@
 |–
 |3.3%
 |2.6%
-|–
 |5.1%
 |4.5%
 |2.7%
@@ -291,7 +319,6 @@
 |2%
 |2%
 |–
-|–
 |8%
 |–
 |14%
@@ -308,7 +335,6 @@
 |–
 |3%
 |2%
-|–
 |7%
 |4%
 |2%{{efn|Luiz Henrique Mandetta (DEM) with 2%}}
@@ -327,7 +353,6 @@
 |4%
 |3%
 |–
-|–
 |6%
 |5%{{efn|Luiz Henrique Mandetta (DEM) with 3%; [[Danilo Gentili]] with 2%}}
 |9%
@@ -344,7 +369,6 @@
 |–
 |4%
 |5%
-|–
 |3%
 |6%
 |2%{{efn|Luiz Henrique Mandetta (DEM) with 2%}}
@@ -361,7 +385,6 @@
 |9%
 |3%
 |3%
-|–
 |–
 |9%
 |5%
@@ -380,7 +403,6 @@
 |–
 |3%
 |3%
-|–
 |6%
 |4%
 |2%{{efn|Luiz Henrique Mandetta (DEM) with 2%}}
@@ -401,7 +423,6 @@
 |–
 |–
 |–
-|–
 |24.3%
 |style="background:#cc0000;color:#ffffff;"| 0.5%
 |-
@@ -413,7 +434,6 @@
 |1.5%
 |4.9%
 |1.6%
-|–
 |7.8%
 |6.8%
 |–
@@ -428,7 +448,6 @@
 |3.2%
 |7.0%
 |2.0%
-|–
 |–
 |6.8%
 |–
@@ -446,7 +465,6 @@
 | 3%
 | 3%
 | 3%
-| –
 | 10%
 | 6%
 | 2%{{efn|Luiz Henrique Mandetta (DEM) with 2%}}
@@ -461,7 +479,6 @@
 | 6%
 | 4%
 | 3%
-| –
 | 11%
 | 7%
 | 3%{{efn|Luiz Henrique Mandetta (DEM) with 3%}}
@@ -479,7 +496,6 @@
 |5%
 |7%
 |3%
-|–
 |11%
 |6%
 |2%
@@ -497,7 +513,6 @@
 | 0.9%
 | 4.3%
 | 2.0%
-| 1.3%
 | 9.7%
 | 2.5%
 | 5.0%
@@ -512,7 +527,6 @@
 | 2.3%
 | 5.3%
 | 2.5%
-| 1.3%
 | 10.4%
 | 4.4%
 | 6.0%
@@ -530,7 +544,6 @@
 | –
 | 4%
 | 2%
-| 1%
 | 10%
 | 7%
 | –
@@ -540,7 +553,7 @@
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;" {{opdrts||8|Mar|2021}}
-| colspan="14" align="center" style="font-weight:bold;" |[[Luiz Inácio Lula da Silva|Lula]]'s corruption charges annulled; political rights restored.<ref>{{cite news |last= |first= |date=8 March 2021 |title=Judge opens door for Lula da Silva to run in Brazil in 2022 |url=https://www.aljazeera.com/news/2021/3/8/judge-opens-door-for-lula-da-silva-to-run-in-brazil-in-2022 |work=[[Al Jazeera English]] |location= |access-date=9 March 2021}}</ref>
+| colspan="13" align="center" style="font-weight:bold;" |[[Luiz Inácio Lula da Silva|Lula]]'s corruption charges annulled; political rights restored.<ref>{{cite news |last= |first= |date=8 March 2021 |title=Judge opens door for Lula da Silva to run in Brazil in 2022 |url=https://www.aljazeera.com/news/2021/3/8/judge-opens-door-for-lula-da-silva-to-run-in-brazil-in-2022 |work=[[Al Jazeera English]] |location= |access-date=9 March 2021}}</ref>
 |-
 | rowspan="5" |[http://www.paranapesquisas.com.br/wp-content/uploads/2021/03/M%C3%ADdiaBR_Mar21.pdf ''Paraná Pesquisas'']
 | rowspan="5" |28 Feb−1 Mar
@@ -555,7 +568,6 @@
 |3.9%
 |−
 |−
-|−
 |2.7%
 |21.5%
 | style="background:#0067bc;color:#ffffff;" |23.3%
@@ -568,7 +580,6 @@
 |3.5%
 |5.3%
 |3%
-|−
 |11.6%
 |−
 |1.4%
@@ -583,7 +594,6 @@
 |3.2%
 |−
 |3%
-|−
 |12%
 |8.7%
 |2.3%
@@ -598,7 +608,6 @@
 |3.2%
 |6.3%
 |3.2%
-|−
 |12.3%
 |−
 |−
@@ -613,7 +622,6 @@
 |3.2%
 |5.3%
 |2.8%
-|−
 |11.5%
 |8%
 |−
@@ -634,7 +642,6 @@
 |−
 |−
 |−
-|−
 |22%
 | style="background:#0067bc;color:#ffffff;" |19%
 |-
@@ -644,7 +651,6 @@
 |−
 |10%
 |5%
-|−
 |−
 |−
 |−
@@ -660,7 +666,6 @@
 |10%
 |5%
 |3%
-|−
 |−
 |7%
 |8%
@@ -679,7 +684,6 @@
 |3.5%
 |5.4%
 |2.9%
-|−
 |12%
 |8.1%
 |−
@@ -694,7 +698,6 @@
 |3.6%
 |5.3%
 |3.3%
-|2.3%
 |12.1%
 |−
 |−
@@ -709,7 +712,6 @@
 |−
 |6.7%
 |3.1%
-|−
 |−
 |9.4%
 |3.8%
@@ -727,7 +729,6 @@
 |−
 |4.3%
 |−
-|−
 |11.6%
 |−
 |4.8%
@@ -741,7 +742,6 @@
 |8.8%
 |−
 |3.6%
-|−
 |−
 |11.3%
 |1.9%
@@ -760,7 +760,6 @@
 |5%
 |4%
 |3%
-|−
 |12%
 |7%
 | -
@@ -778,7 +777,6 @@
 |0.58%
 |4.76%
 |2.50%
-|1.00%
 |−
 |−
 |3.38%
@@ -799,7 +797,6 @@
 ! class="unsortable" style="width:50px;"|[[Guilherme Boulos|Boulos]]<br>{{small|[[Socialism and Liberty Party|PSOL]]}}
 ! class="unsortable" style="width:50px;"|[[João Doria|Doria]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
 ! class="unsortable" style="width:50px;"|[[João Amoêdo|Amoêdo]]<br>{{small|[[New Party (Brazil)|NOVO]]}}
-! class="unsortable" style="width:50px;"|[[Marina Silva|Silva]]<br>{{small|[[Sustainability Network|REDE]]}}
 ! class="unsortable" style="width:50px;"|[[Sérgio Moro|Moro]]<br>{{small|Indep.}}
 ! class="unsortable" style="width:50px;"|[[Luciano Huck|Huck]]<br>{{small|Indep.}}
 ! rowspan="2" class="unsortable"| Others
@@ -814,7 +811,6 @@
 ! data-sort-type="number" class="sortable" style="background:#a30000;"|
 ! data-sort-type="number" class="sortable" style="background:#005fa4;"|
 ! data-sort-type="number" class="sortable" style="background:#f0762a;"|
-! data-sort-type="number" class="sortable" style="background:#2e8b57;"|
 ! data-sort-type="number" class="sortable" style="background:#bbbbbb;"|
 ! data-sort-type="number" class="sortable" style="background:#bbbbbb;"|
 |-
@@ -829,7 +825,6 @@
 |5%
 |3%
 |3%
-|−
 |7%
 |9%
 |1%
@@ -847,7 +842,6 @@
 |5%
 |4%
 |3%
-|−
 |11%
 |7%
 |2%
@@ -864,7 +858,6 @@
 |7%
 |−
 |4%
-|1%
 |1%
 |10%
 |4%
@@ -883,7 +876,6 @@
 |5.7%
 |3.7%
 |2.8%
-|−
 |11.8%
 |7.8%
 |−
@@ -898,7 +890,6 @@
 |4.9%
 |3.8%
 |2.8%
-|2.9%
 |11.9%
 |−
 |−
@@ -913,7 +904,6 @@
 |−
 |4.8%
 |3.5%
-|−
 |−
 |9.5%
 |2.7%
@@ -931,7 +921,6 @@
 |5%
 |3%
 |4%
-|−
 |13%
 |7%
 |3%
@@ -949,7 +938,6 @@
 |−
 |3%
 |3%
-|−
 |11%
 |5%
 |3%
@@ -967,7 +955,6 @@
 |−
 |4%
 |1%
-|2%
 |10%
 |5%
 |3%
@@ -985,7 +972,6 @@
 |−
 |5%
 | −
-| −
 |13%
 | −
 |7%
@@ -999,7 +985,6 @@
 |3%
 |−
 |4%
-| −
 | −
 |11%
 | −
@@ -1018,7 +1003,6 @@
 |−
 |3%
 |3%
-|2%
 |13%
 |5%
 |5%
@@ -1036,7 +1020,6 @@
 |−
 |3.7%
 |2.3%
-|4%
 |13.3%
 |9.7%
 |1.6%
@@ -1053,7 +1036,6 @@
 |6%
 |−
 |4%
-| −
 | −
 |10%
 | −
@@ -1072,7 +1054,6 @@
 |−
 |4.0%
 |3.4%
-| −
 |17.1%
 |6.5%
 |1.7%
@@ -1087,7 +1068,6 @@
 |−
 |3.8%
 |3.4%
-|2.5%
 |16.8%
 | −
 |1.6%
@@ -1102,7 +1082,6 @@
 |−
 |4.6%
 |4%
-| −
 | −
 |8.3%
 |6.6%
@@ -1119,7 +1098,6 @@
 |12%
 |−
 |2%
-| −
 | −
 |19%
 |5%
@@ -1138,7 +1116,6 @@
 |−
 | 3.7%
 | 4%
-| −
 | 18.1%
 | 6%
 | 2.2%
@@ -1153,7 +1130,6 @@
 |−
 | 3.8%
 | 4%
-| 2.3%
 | 17.5%
 | −
 | 1.9%
@@ -1168,7 +1144,6 @@
 |−
 | 4.4%
 | 4.5%
-| −
 | −
 | 8.1%
 | 7.9%
@@ -1187,7 +1162,6 @@
 | 3%
 | 5%
 | −
-| −
 | 12%
 | −
 | 21%
@@ -1202,7 +1176,6 @@
 | 4%
 | 5%
 | −
-| −
 | 11%
 | −
 | 12%
@@ -1216,7 +1189,6 @@
 |−
 | 3%
 | 4%
-| −
 | 17%
 | 13%
 | −
@@ -1231,7 +1203,6 @@
 |−
 | 4%
 | 5%
-| −
 | style="background:#d5d5d5;" |'''31%'''
 | 16%
 | −
@@ -1246,7 +1217,6 @@
 |−
 | 3%
 | 5%
-| −
 | style="background:#d5d5d5;" |'''33%'''
 | 10%
 | −
@@ -1265,7 +1235,6 @@
 | 2.5%
 | −
 | −
-| −
 | 14%
 | −
 | 27%
@@ -1278,7 +1247,6 @@
 | −
 |−
 | 0.6%
-| −
 | −
 | 20%
 | 14%
@@ -1297,7 +1265,6 @@
 |−
 | 0.3%
 | 1.1%
-| 0.4%
 | 2.4%
 | 0.5%
 | 2.7%
@@ -1315,7 +1282,6 @@
 |0.58%
 | 4.76%
 | 2.50%
-| 1.00%
 | −
 | −
 | 3.38%

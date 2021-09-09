@@ -25,6 +25,34 @@
 ! style="background:{{Christian Democrats (Sweden)/meta/color}};"|
 ! style="background:{{Sweden Democrats/meta/color}};"|
 |-
+|Sentio<ref>{{Cite news|title=Totalkris för L och konservativ majoritet i Sentio augusti|language=sv|url=https://nyheteridag.se/plus/totalkris-for-l-och-konservativ-majoritet-i-sentio-augusti/|access-date=2021-09-06}}</ref>
+|26–29 Aug 2021
+|–
+|10.6
+|23.1
+|4.0
+|5.8
+|1.9
+|21.0
+|7.8
+| style="background:#FEF4AE;"|'''23.3'''
+|–{{efn|[[Feminist Initiative (Sweden)|FI]]: 0.2 [[Alternative for Sweden|AfS]]: 0.7 [[Citizens' Coalition|MED]]: 0.8 [[Pirate Party (Sweden)|PP]]: 0.4}}
+|style="background:{{Sweden Democrats/meta/color}};color:black;" |0.2
+|-
+|Novus<ref>{{Cite news|title=SVT/Novus: Vänsterpartiet tappar stöd|language=sv|url=https://www.svt.se/nyheter/svt-novus-vansterpartiet-tappar-stod|access-date=2021-09-02}}</ref>
+|2-29 Aug 2021
+|4,765
+|11.2
+| style="background:#F9BDC5;" |'''25.9'''
+|4.4
+|8.9
+|2.1
+|22.0
+|4.5
+|19.6
+|1.4
+|style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |3.9
+|-
 |Ipsos<ref>{{Cite news|title=DN/Ipsos: MP ökar efter sommarens extremväder|language=sv|url=https://www.dn.se/sverige/dn-ipsos-mp-okar-efter-sommarens-extremvader/|access-date=2021-08-25}}</ref>
 |10-23 Aug 2021
 |1,547

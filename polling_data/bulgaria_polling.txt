@@ -1,5 +1,44 @@
 ==Opinion polls==
-<small>The opinion poll results below were recalculated from the original data and exclude pollees that chose 'I will not vote' or 'I am uncertain'.</small>
+<small>'''Graphical representation of recalculated data:'''</small>
+{{Graph:Chart
+ | hannotatonslabel=4% electoral threshold
+ | hannotatonsline=4
+ | vannotatonslabel=
+ | vannotatonsline=
+ | width = 900
+ | height= 500
+ | type = line
+ | interpolate = bundle
+ | xType = date
+ | xAxisAngle = -40
+ | yAxisTitle = % of votes
+ | yGrid = yes
+ | yAxisMin = 0
+ | linewidth = 2
+ | legend=Legend:
+ | y1Title=ITN
+ | y2Title=GERB
+ | y3Title=BSP
+ | y4Title=DB
+ | y5Title=DPS
+ | y6Title=IBG-NI
+ | y7Title=BP
+ | y8Title=Revival
+ | x = 2021/07/11, 2021/07/28, 2021/07/30, 2021/08/22
+ | y1 = 23.8, 22.6, 21.6, 15.7
+ | y2 = 23.2, 20.8, 22.4, 21.6
+ | y3 = 13.2, 17.9, 14.5, 15.7
+ | y4 = 12.5, 17.2, 14.1, 16.5
+ | y5 = 10.6, 9.6, 10.2, 11.0
+ | y6 = 5, 5.4, 4.4, 4.5
+ | y7 = 3.1, 2.1, 1.9, 
+ | y8 = 3, 3.7, 2.9, 4.3
+ | colors = #4BB9DE, #0056A7, #D71921, #004A80, #0060AA, #4C813D, #01193B, #C09F62,
+ | showSymbols = 1,1,1,1,1,1,1,1, 1
+ | symbolsShape = circle
+ | symbolsNoFill = false
+ | symbolsStroke = 1.25
+}}<small>The opinion poll results below were recalculated from the original data and exclude pollees that chose 'I will not vote' or 'I am uncertain'.</small>
 {| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
 ! rowspan="2" |Polling firm
 ! rowspan="2" |Fieldwork date
@@ -22,14 +61,14 @@ size
 ! class="unsortable" style="background:{{Democratic Bulgaria/meta/color}};" |
 ! class="unsortable" style="background:{{Movement for Rights and Freedoms/meta/color}};" |
 ! class="unsortable" style="background:{{Stand Up! Mafia, Get Out!/meta/color}};;" |
-! class="unsortable" style="background:{{IMRO – Bulgarian National Movement/meta/color}};" |
+! class="unsortable" style="background:{{Bulgarian Patriots/meta/color}};" |
 ! class="unsortable" style="background:{{Revival (Bulgarian political party)/meta/color}}" |
 |-
 |[https://www.marketlinks.bg/storage/INFOGRAPHIC%20NRS%20Politics%2008.2021.pdf Market Links]
 |13−22 August 2021
 |544
 |15.7%
-| style="background:{{GERB/meta/color}}; color:white;" |'''21.6%'''
+| style="background:#CCE6FF"|'''21.6%'''
 |15.7%
 |16.5%
 |11.0%
@@ -43,7 +82,7 @@ size
 | data-sort-value="2021-05-14" |23–30 July 2021
 |1006
 |21.6%
-| style="background:{{GERB/meta/color}}; color:white;" |'''22.4%'''
+| style="background:#CCE6FF"|'''22.4%'''
 |14.5%
 |14.1%
 |10.2%

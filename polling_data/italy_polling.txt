@@ -13,7 +13,7 @@
 ! style="width:35px;"|[[Italian Left|SI]]
 ! style="width:35px;"|[[More Europe|+Eu]]
 ! style="width:35px;"|[[Green Europe|EV]]
-! style="width:35px;"|[[Action (Italy)|A]]
+! style="width:35px;"|[[Action (Italy)|Az]]
 ! style="width:35px;"|[[Italia Viva|IV]]
 ! style="width:35px;"|[[Coraggio Italia|CI]]
 ! rowspan="2" style="width:35px;"|Others
@@ -31,8 +31,80 @@
 ! style="background:{{Action (Italy)/meta/color}};"|
 ! style="background:{{Italia Viva/meta/color}};"|
 ! style="background:{{Coraggio Italia/meta/color}};"|
+
 |-
-|25-30 Aug
+|1-6 Sep
+|[https://tg.la7.it/politica/il-sondaggio-politico-di-lunedì-6-settembre-2021-06-09-2021-164153/ SWG]
+|1,200
+|16.0
+|18.4
+|20.4
+|6.9
+|style="background:#E5E7FF;" |'''21.0'''
+|2.4
+|2.4
+|1.8
+|1.9
+|3.7
+|2.6
+|1.0
+|3.3
+|style="background:#03386A; color:white;"|0.6
+|-
+|3 Sep
+|[https://www.dire.it/04-09-2021/664848-sondaggio-dire-tecne-lega-sotto-al-20-vola-giorgia-meloni/ Tecnè]
+|1,000
+|16.1
+|19.2
+|19.5
+|8.3
+|style="background:#E5E7FF;" |'''21.0'''
+|1.8
+|2.0
+|1.7
+|1.7
+|3.3
+|2.1
+|
+|3.3
+|style="background:#03386A; color:white;"|1.5
+|-
+|1–2 Sep
+|[https://www.repubblica.it/politica/2021/09/04/news/covid_draghi_obbligo_vaccinale_italiani_favorevoli-316418411// Demos & Pi]
+|1,010
+|16.6
+|19.3
+|19.6
+|7.7
+|style="background:#E5E7FF;" |'''20.8'''
+|
+|2.3
+|2.0
+|2.2
+|2.5
+|2.6
+|
+|4.4
+|style="background:#03386A; color:white;"|1.2
+|-
+|1–2 Sep
+|[https://www.termometropolitico.it/1597269_sondaggi-tp-maggioranza-italiani-contraria-al-dialogo-con-i-talebani.html/ Termometro Politico]
+|2,900
+|15.6
+|19.5
+|20.6
+|6.7
+|style="background:#E5E7FF;" |'''21.2'''
+|colspan="2"|2.8
+|1.8
+|1.4
+|3.0
+|2.8
+|
+|4.6
+|style="background:#03386A; color:white;"|0.6
+|-
+|25–30 Aug
 |[https://www.open.online/2021/08/30/sondaggi-politici-30-agosto/ SWG]
 |1,200
 |16.3
@@ -1285,7 +1357,7 @@
 ! style="width:35px;"|[[More Europe|+Eu]]
 ! style="width:35px;"|[[Green Europe|EV]]
 ! style="width:35px;"|[[Cambiamo!|C!]]
-! style="width:35px;"|[[Action (Italy)|A]]
+! style="width:35px;"|[[Action (Italy)|Az]]
 ! style="width:35px;"|[[Italia Viva|IV]]
 ! rowspan="2" style="width:35px;"|Others
 ! rowspan="2" style="width:25px;"|Lead

@@ -3,7 +3,7 @@
 {| class="wikitable sortable tpl-blanktable mw-collapsible" style="text-align:center;font-size:90%;line-height:14px;"
 |- style="height:40px;"
 ! style="width:180px;" rowspan="2"| Polling firm
-! style="width:125px;" rowspan="2"| Fieldwork date
+! style="width:135px;" rowspan="2"| Fieldwork date
 ! style="width:35px;" rowspan="2"| Sample<br>size
 ! style="width:30px;" rowspan="2"| {{abbr|Abs.|Abstention}}
 ! class="unsortable" style="width:40px;"| [[CDU/CSU|Union]]
@@ -24,6 +24,202 @@
 ! style="background:{{Alliance 90/The Greens/meta/color}};"|
 ! style="background:{{Freie Wähler/meta/color}};"|
 |-
+| [https://www.wahlkreisprognose.de/2021/09/08/im-bund-gewinne-fuer-scholz-und-laschet-bei-k-frage-spd-baut-vorsprung-auf-union-aus/ Wahlkreisprognose]
+| data-sort-value="2021-09-08"| 6–8 Sep 2021
+| 1,208
+| –
+| 19
+| {{Party shading/SPD}}| '''28'''
+| 11
+| 12
+| 6
+| 14
+| –
+| 10
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 9
+|-
+| [https://www.spiegel.de/politik/deutschland/umfrage-vor-bundestagswahl-ein-fuenftel-der-waehler-noch-unentschlossen-a-05550973-9407-4435-83d1-b4505bb130e7 Civey]
+| data-sort-value="2021-09-08"| 31 Aug–8 Sep 2021
+| 10,082
+| –
+| 23
+| {{Party shading/SPD}}| '''25'''
+| 11
+| 11
+| 6
+| 17
+| –
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
+| data-sort-value="2021-09-08"| 1–7 Sep 2021
+| 1,258
+| –
+| 25
+| {{Party shading/SPD}}| '''27'''
+| 11
+| 9.5
+| 6
+| 15.5
+| –
+| 6
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-09-06"| 3–6 Sep 2021
+| 2,052
+| –
+| 20.5
+| {{Party shading/SPD}}| '''26'''
+| 11
+| 12.5
+| 6.5
+| 15.5
+| 3
+| 5
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5.5
+|-
+| [https://www.wahlrecht.de/umfragen/gms.htm GMS]
+| data-sort-value="2021-09-09"| 1–6 Sep 2021
+| 1,004
+| –
+| 23
+| {{Party shading/SPD}}| '''25'''
+| 11
+| 12
+| 6
+| 17
+| –
+| 6
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-09-06"| 31 Aug–6 Sep 2021
+| 2,505
+| 22
+| 19
+| {{Party shading/SPD}}| '''25'''
+| 11
+| 13
+| 6
+| 17
+| –
+| 9
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-09-04"| 30 Aug–3 Sep 2021
+| 1,427
+| –
+| 20
+| {{Party shading/SPD}}| '''25'''
+| 12
+| 13
+| 7
+| 16
+| –
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| data-sort-value="2021-09-03"| 31 Aug–2 Sep 2021
+| 1,301
+| 29
+| 22
+| {{Party shading/SPD}}| '''25'''
+| 11
+| 11
+| 7
+| 17
+| –
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 3
+|-
+| [https://www.wahlrecht.de/umfragen/weitere-umfragen.htm Trend Research]
+| data-sort-value="2021-09-02"| 30 Aug–2 Sep 2021
+| 1,065
+| –
+| 20
+| {{Party shading/SPD}}| '''26'''
+| 12
+| 13
+| 7
+| 15
+| –
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-09-01"| 30 Aug–1 Sep 2021
+| 1,337
+| –
+| 20
+| {{Party shading/SPD}}| '''25'''
+| 12
+| 13
+| 6
+| 16
+| –
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.spiegel.de/politik/deutschland/bundestagswahl-mehrheit-wuenscht-ausschluss-von-linksbuendnis-spiegel-umfrage-a-be4233b0-6d15-44ca-9d88-11c2a86f4a58 Civey]
+| data-sort-value="2021-09-01"| 25 Aug–1 Sep 2021
+| 10,032
+| –
+| 23
+| {{Party shading/SPD}}| '''25'''
+| 10
+| 11
+| 6
+| 18
+| –
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlkreisprognose.de/2021/08/31/im-bund-spd-erstmals-vorn-union-bricht-im-osten-am-staerksten-ein-fdp-geht-hoch/ Wahlkreisprognose]
+| data-sort-value="2021-08-31"| 30–31 Aug 2021
+| 2,340
+| –
+| 19.5
+| {{Party shading/SPD}}| '''27'''
+| 10.5
+| 13
+| 6.5
+| 15.5
+| –
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7.5
+|-
+| [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
+| data-sort-value="2021-09-03"| 27–31 Aug 2021
+| 1,729
+| –
+| 20
+| {{Party shading/SPD}}| '''25'''
+| 12
+| 13
+| 8
+| 15
+| –
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-09-02"| 25–31 Aug 2021
+| 1,439
+| –
+| 21
+| {{Party shading/SPD}}| '''25'''
+| 11
+| 11
+| 7
+| 19
+| –
+| 6
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+|-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | data-sort-value="2021-08-30"| 27–30 Aug 2021
 | 2,015
@@ -37,6 +233,34 @@
 | –
 | 7
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-08-31"| 24–30 Aug 2021
+| 2,508
+| 24
+| 21
+| {{Party shading/SPD}}| '''23'''
+| 11
+| 12
+| 6
+| 18
+| –
+| 9
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/ipsos.htm Ipsos]
+| data-sort-value="2021-08-31"| 28–29 Aug 2021
+| 2,001
+| –
+| 21
+| {{Party shading/SPD}}| '''25'''
+| 11
+| 11
+| 7
+| 19
+| –
+| 6
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | data-sort-value="2021-08-28"| 23–27 Aug 2021
@@ -205,6 +429,20 @@
 | –
 | 7
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://docs.google.com/spreadsheets/d/1aT2f8yc8p9-XjOqFCTQ1nDeP5GEORu9QZDOtUwF8smI/edit#gid=2003908598 Wahlkreisprognose]
+| data-sort-value="2021-08-19"| 14–17 Aug 2021
+| 2,005
+| –
+| {{Party shading/CDU}}| '''22'''
+| {{Party shading/SPD}}| '''22'''
+| 11
+| 11
+| 7
+| 17.5
+| –
+| 9.5
+| data-sort-value="0"| Tie
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
 | data-sort-value="2021-08-19"| 11–17 Aug 2021
@@ -375,7 +613,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
 | [https://www.spiegel.de/politik/deutschland/bundestagswahl-zustimmung-fuer-armin-laschet-sinkt-a-645bcbbe-2a93-49e5-99b0-8a15bc314c56 Civey]
-| data-sort-value="2021-08-04"| 28 Jul–4 Aug 2021
+| data-sort-value="2021-08-04"| 28 Jul – 4 Aug 2021
 | 10,217
 | –
 | {{Party shading/CDU}}| '''25'''
@@ -389,7 +627,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-| data-sort-value="2021-08-04"| 28 Jul–3 Aug 2021
+| data-sort-value="2021-08-04"| 28 Jul – 3 Aug 2021
 | 1,413
 | –
 | {{Party shading/CDU}}| '''24'''
@@ -403,7 +641,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
-| data-sort-value="2021-08-02"| 30 Jul–2 Aug 2021
+| data-sort-value="2021-08-02"| 30 Jul – 2 Aug 2021
 | 2,080
 | –
 | {{Party shading/CDU}}| '''27.5'''
@@ -417,7 +655,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 9.5
 |-
 | [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-| data-sort-value="2021-08-03"| 27 Jul–2 Aug 2021
+| data-sort-value="2021-08-03"| 27 Jul – 2 Aug 2021
 | 2,502
 | 25
 | {{Party shading/CDU}}| '''26'''
@@ -767,7 +1005,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 11
 |-
 | [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-mehrheit-traut-annalena-baerbock-am-ehesten-zu-deutschland-zu-modernisieren-a-f39c41dd-3fa9-4060-942c-d08e795e73ce Civey]
-| data-sort-value="2021-07-07"| 30 Jun–7 Jul 2021
+| data-sort-value="2021-07-07"| 30 Jun – 7 Jul 2021
 | 10,069
 | –
 | {{Party shading/CDU}}| '''30'''
@@ -781,7 +1019,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 9
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-| data-sort-value="2021-07-10"| 29 Jun–6 Jul 2021
+| data-sort-value="2021-07-10"| 29 Jun – 6 Jul 2021
 | 1,405
 | –
 | {{Party shading/CDU}}| '''29'''
@@ -809,7 +1047,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 11
 |-
 | [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-| data-sort-value="2021-07-07"| 29 Jun–5 Jul 2021
+| data-sort-value="2021-07-07"| 29 Jun – 5 Jul 2021
 | 2,505
 | 22
 | {{Party shading/CDU}}| '''30'''
@@ -823,7 +1061,7 @@
 | style="background: {{CDU/CSU/meta/color}};color:#FFFFFF;"| 11
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
-| data-sort-value="2021-07-04"| 28 Jun–2 Jul 2021
+| data-sort-value="2021-07-04"| 28 Jun – 2 Jul 2021
 | 1,352
 | –
 | {{Party shading/CDU}}| '''28'''
@@ -1201,7 +1439,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 8
 |-
 | [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
-| data-sort-value="2021-06-16"| 28 May–9 Jun 2021
+| data-sort-value="2021-06-16"| 28 May – 9 Jun 2021
 | 1,070
 | –
 | {{Party shading/CDU}}| '''29.5'''
@@ -1257,7 +1495,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
-| data-sort-value="2021-06-06"| 31 May–4 Jun 2021
+| data-sort-value="2021-06-06"| 31 May – 4 Jun 2021
 | 1,380
 | –
 | {{Party shading/CDU}}| '''26'''
@@ -1271,7 +1509,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
 |-
 | [https://www.spiegel.de/politik/deutschland/umfrage-hoeherer-spritpreis-ist-bei-deutschen-extrem-unbeliebt-a-bea968c6-6034-402e-b4f4-2cb1d0ae1776 Civey]
-| data-sort-value="2021-06-02"| 26 May–2 Jun 2021
+| data-sort-value="2021-06-02"| 26 May – 2 Jun 2021
 | 10,015
 | –
 | {{Party shading/CDU}}| '''29'''
@@ -1285,7 +1523,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 7
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-| data-sort-value="2021-06-05"| 26 May–1 Jun 2021
+| data-sort-value="2021-06-05"| 26 May – 1 Jun 2021
 | 1,419
 | –
 | {{Party shading/CDU}}| '''24'''
@@ -1649,8 +1887,8 @@
 | style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 3
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-| data-sort-value="2021-05-09"| 29 Apr–5 May 2021
-| 1,910
+| data-sort-value="2021-05-09"| 29 Apr – 5 May 2021
+| 1,910 
 | –
 | 23
 | 16
@@ -1663,7 +1901,7 @@
 | style="background:{{Alliance 90/The Greens/meta/color}};color:#FFFFFF;"| 3
 |-
 | [https://www.spiegel.de/politik/deutschland/umfrage-union-und-gruene-wieder-nahezu-gleichauf-a-05581040-e4d0-4d39-9606-ca873a32b1eb Civey]
-| data-sort-value="2021-05-05"| 28 Apr–5 May 2021
+| data-sort-value="2021-05-05"| 28 Apr – 5 May 2021
 | 10,028
 | –
 | {{Party shading/CDU}}| '''27'''
@@ -1677,7 +1915,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 2
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
-| data-sort-value="2021-05-"| 30 Apr–3 May 2021
+| data-sort-value="2021-05-"| 30 Apr – 3 May 2021
 | 2,075
 | –
 | {{Party shading/CDU}}| '''24'''
@@ -1691,7 +1929,7 @@
 |Tie
 |-
 | [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-| data-sort-value="2021-05-05"| 27 Apr–3 May 2021
+| data-sort-value="2021-05-05"| 27 Apr – 3 May 2021
 | 2,508
 | 26
 | 23
@@ -1971,7 +2209,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-| data-sort-value="2021-04-11"| 31 Mar–7 Apr 2021
+| data-sort-value="2021-04-11"| 31 Mar – 7 Apr 2021
 | 1,448
 | –
 | {{Party shading/CDU}}| '''27'''
@@ -1985,7 +2223,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 5
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
-| data-sort-value="2021-04-05"| 30 Mar–1 Apr 2021
+| data-sort-value="2021-04-05"| 30 Mar – 1 Apr 2021
 | 3,020
 | –
 | {{Party shading/CDU}}| '''27'''
@@ -1999,7 +2237,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 6
 |-
 | [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-| data-sort-value="2021-04-07"| 30 Mar–1 Apr 2021
+| data-sort-value="2021-04-07"| 30 Mar – 1 Apr 2021
 | 1,501
 | 21
 | {{Party shading/CDU}}| '''27'''
@@ -2307,7 +2545,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 15
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-| data-sort-value="2021-03-07"| 25 Feb–3 Mar 2021
+| data-sort-value="2021-03-07"| 25 Feb – 3 Mar 2021
 | 2,410
 | –
 | {{Party shading/CDU}}| '''32'''
@@ -2335,7 +2573,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 13
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
-| data-sort-value="2021-03-01"| 26 Feb–1 Mar 2021
+| data-sort-value="2021-03-01"| 26 Feb – 1 Mar 2021
 | 2,032
 | –
 | {{Party shading/CDU}}| '''32.5'''
@@ -2349,7 +2587,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 15.5
 |-
 | [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-| data-sort-value="2021-03-02"| 25 Feb–1 Mar 2021
+| data-sort-value="2021-03-02"| 25 Feb – 1 Mar 2021
 | 2,501
 | 24
 | {{Party shading/CDU}}| '''34'''
@@ -2573,7 +2811,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 13
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
-| data-sort-value="2021-02-07"| 28 Jan–3 Feb 2021
+| data-sort-value="2021-02-07"| 28 Jan – 3 Feb 2021
 | 1,412
 | –
 | {{Party shading/CDU}}| '''36'''
@@ -2587,7 +2825,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 17
 |-
 | [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
-| data-sort-value="2021-02-04"| 29 Jan–1 Feb 2021
+| data-sort-value="2021-02-04"| 29 Jan – 1 Feb 2021
 | 1,606
 | –
 | {{Party shading/CDU}}| '''36'''
@@ -2601,7 +2839,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 18
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
-| data-sort-value="2021-02-01"| 29 Jan–1 Feb 2021
+| data-sort-value="2021-02-01"| 29 Jan – 1 Feb 2021
 | 2,044
 | –
 | {{Party shading/CDU}}| '''36.5'''
@@ -2615,7 +2853,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 19.5
 |-
 | [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
-| data-sort-value="2021-02-02"| 26 Jan–1 Feb 2021
+| data-sort-value="2021-02-02"| 26 Jan – 1 Feb 2021
 | 2,503
 | 23
 | {{Party shading/CDU}}| '''37'''
@@ -2853,7 +3091,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 14
 |-
 | [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
-| data-sort-value="2021-01-06"| 30 Dec 2020–5 Jan 2021
+| data-sort-value="2021-01-06"| 30 Dec 2020 – 5 Jan 2021
 | 1,588
 | –
 | {{Party shading/CDU}}| '''36'''
@@ -2881,7 +3119,7 @@
 | style="background:{{CDU/CSU/meta/color}};color:#FFFFFF;"| 18
 |-
 | [https://www.wahlrecht.de/umfragen/gms.htm GMS]
-| data-sort-value="2021-01-04"| 29 Dec 2020–4 Jan 2021
+| data-sort-value="2021-01-04"| 29 Dec 2020 – 4 Jan 2021
 | 1,004
 | –
 | {{Party shading/CDU}}| '''37'''

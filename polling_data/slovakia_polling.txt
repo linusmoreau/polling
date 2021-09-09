@@ -13,7 +13,7 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 ! rowspan="2" |Fieldwork<br>date
 ! rowspan="2" |Sample<br>size
 ![[OĽaNO]]
-![[Direction – Slovak Social Democracy|SMER<br>-SSD]]
+![[Direction – Slovak Social Democracy|SMER<br>–SSD]]
 ![[We Are Family (Slovakia)|SR]]
 ![[People's Party Our Slovakia|ĽSNS]]
 ![[Progressive Slovakia|PS]]
@@ -21,56 +21,56 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 ![[For the People (Slovakia)|ZĽ]]
 ![[Christian Democratic Movement|KDH]]
 ![[Alliance (Slovakia)|ALI]]
-![[Voice – Social Democracy|HLAS<br>-SD]]
+![[Voice – Social Democracy|HLAS<br>–SD]]
 ![[Republic (Slovakia)|REP]]
 ! rowspan="2" |Others
 ! rowspan="2" |Lead
 |-
-!style="background:#CFE800;"|
-!style="background:#D92727;"|
-!style="background:#0b3f95;"|
+!style="background:#b2c933;"|
+!style="background:#d82222;"|
+!style="background:#034b9f;"|
 !style="background:#277d2a;"|
-!style="background:#00BCFF;"|
-!style="background:#a4cc34;"|
-!style="background:#FFBB00;"|
-!style="background:#002640;"|
-!style="background:#1a1a1a;"|
-!style="background:#F90B18;"|
-!style="background:#b80711;"|
+!style="background:#00bdff;"|
+!style="background:#a7cf35;"|
+!style="background:#fdbb12;"|
+!style="background:#173a70;"|
+!style="background:#403f3b;"|
+!style="background:#f90311;"|
+!style="background:#e30512;"|
 |-
 |AKO{{Ref|https://ako.sk/wp-content/uploads/2021/08/AKO_VOLEBNE_PREF_AUGUST_2021.pdf}}
 |10–15<br>Aug 2021
 |1,000
-|9.8%
-|11.3%
-|6.6%
-|3.9%
-|8.9%
-|14.7%
-|3.0%
-|6.3%
-|3.3%
-| style="background:#fa878d;" | '''19.5%'''
-|4.5%
+|9.8%<br>{{font|size=85%|font=Arial|text=19}}
+|11.3%<br>{{font|size=85%|font=Arial|text=22}}
+|6.6%<br>{{font|size=85%|font=Arial|text=13}}
+|3.9%<br>{{font|size=85%|font=Arial|text=0}}
+|8.9%<br>{{font|size=85%|font=Arial|text=17}}
+|14.7%<br>{{font|size=85%|font=Arial|text=29}}
+|3.0%<br>{{font|size=85%|font=Arial|text=0}}
+|6.3%<br>{{font|size=85%|font=Arial|text=12}}
+|3.3%<br>{{font|size=85%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''19.5%'''<br>{{font|size=85%|font=Arial|text=38}}
+|4.5%<br>{{font|size=85%|font=Arial|text=0}}
 |8.2%
-| style="background:#F90B18;" | 4.8%
+| style="background:#f90311;" | 4.8%
 |-
 |AKO{{Ref|https://ako.sk/wp-content/uploads/2021/07/AKO_VOLEBNE_PREF_JUL_2021.pdf}}
 |6–12<br>Jul 2021
 |1,000
-|8.8%
-|10.9%
-|7.8%
-|3.5%
-|8.4%
-|13.8%
-|3.1%
-|6.2%
-|4.3%
-| style="background:#fa878d;" | '''20.8%'''
-|3.8%
+|8.8%<br>{{font|size=85%|font=Arial|text=17}}
+|10.9%<br>{{font|size=85%|font=Arial|text=21}}
+|7.8%<br>{{font|size=85%|font=Arial|text=15}}
+|3.5%<br>{{font|size=85%|font=Arial|text=0}}
+|8.4%<br>{{font|size=85%|font=Arial|text=17}}
+|13.8%<br>{{font|size=85%|font=Arial|text=27}}
+|3.1%<br>{{font|size=85%|font=Arial|text=0}}
+|6.2%<br>{{font|size=85%|font=Arial|text=12}}
+|4.3%<br>{{font|size=85%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''20.8%'''<br>{{font|size=85%|font=Arial|text=41}}
+|3.8%<br>{{font|size=85%|font=Arial|text=0}}
 |8.6%
-| style="background:#F90B18;" | 7.0%
+| style="background:#f90311;" | 7.0%
 |-
 |AKO{{Ref|https://ako.sk/wp-content/uploads/2021/06/ag.AKO_VOLEBNE_PREF_JUN-_2021.pdf}}
 |7–11<br>Jun 2021
@@ -84,10 +84,10 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |3.6%
 |5.3%
 |5.2%
-| style="background:#fa878d;" | '''21.0%'''
+| style="background:#f9acb1;" | '''21.0%'''
 |2.8%
 |9.5%
-| style="background:#F90B18;" | 7.1%
+| style="background:#f90311;" | 7.1%
 |-
 |Focus{{Ref|https://www.focus-research.sk/files/n282_Volebne%20preferencie%20politickych%20stran_jun%202021.pdf}}
 |2–9<br>Jun 2021
@@ -101,10 +101,10 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |3.4%
 |5.8%
 |5.7%
-| style="background:#fa878d;" | '''21.6%'''
+| style="background:#f9acb1;" | '''21.6%'''
 |4.6%
 |7.2%
-| style="background:#F90B18;" | 8.8%
+| style="background:#f90311;" | 8.8%
 |-
 |Focus{{Ref|https://www.focus-research.sk/files/n281_Volebne%20preferencie%20politickych%20stran_maj%202021.pdf}}
 |11–19<br>May 2021
@@ -118,10 +118,10 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |3.5%
 |5.7%
 |4.8%
-| style="background:#fa878d;" | '''22.4%'''
+| style="background:#f9acb1;" | '''22.4%'''
 |4.5%
 |8.0%
-| style="background:#F90B18;" | 10.1%
+| style="background:#f90311;" | 10.1%
 |-
 |AKO{{Ref|https://www.aktuality.sk/clanok/892695/prieskum-ako-hlas-stale-pada-smer-mierne-narastol-a-za-ludi-je-mimo/}}
 |13–17<br>May 2021
@@ -135,10 +135,10 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |4.0%
 |5.0%
 |5.3%
-| style="background:#fa878d;" | '''22.5%'''
+| style="background:#f9acb1;" | '''22.5%'''
 |3.5%
 |8.4%
-| style="background:#F90B18;" | 8.7%
+| style="background:#f90311;" | 8.7%
 |-
 |AKO<ref name="AKO042021">{{cite press release|last=Hřích|first=Václav|date=20 April 2021|title=Prieskum volebných preferencií do NR SR – APRÍL 2021|url=https://ako.sk/wp-content/uploads/2021/04/ag.AKO-VOLEBNE_PREF_APRIL_2021.pdf|location=Bratislava|agency=AKO|access-date=20 April 2021}}</ref>
 |12–17<br>Apr 2021
@@ -152,10 +152,10 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |4.3%
 |4.5%
 |4.2%
-| style="background:#fa878d;" | '''23.9%'''
+| style="background:#f9acb1;" | '''23.9%'''
 |3.1%
 |8.4%
-| style="background:#F90B18;" | 10.1%
+| style="background:#f90311;" | 10.1%
 |-
 |Focus<ref name="Focus032021">{{cite web|date=11 April 2020|title=Press release|url=https://www.focus-research.sk/files/n280_Volebne%20preferencie%20politickych%20stran_april%202021.pdf|access-date=2021-04-11|website=www.focus-research.sk|format=PDF}}</ref>
 |31 Mar<br>–7 Apr 2021
@@ -169,10 +169,10 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |4.8%
 |5.7%
 |5.0%
-| style="background:#fa878d;" | '''22.3%'''
+| style="background:#f9acb1;" | '''22.3%'''
 |4.7%
 |8.3%
-| style="background:#F90B18;" | 11.1%
+| style="background:#f90311;" | 11.1%
 |-
 |AKO<ref name="AKO032021">{{cite press release|last=Hřích|first=Václav|date=15 March 2021|title=Prieskum volebných preferencií do NR SR – MAREC 2021|url=https://ako.sk/wp-content/uploads/2021/03/ag.AKO_VOLEBNE_PREF_MAREC_2021.pdf|location=Bratislava|agency=AKO|access-date=26 March 2021}}</ref>
 |8–12<br>Mar 2021
@@ -186,10 +186,10 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |4.3%
 |5.2%
 |1.5%
-| style="background:#fa878d;" | '''24.9%'''
+| style="background:#f9acb1;" | '''24.9%'''
 |N/A
 |9.8%
-| style="background:#F90B18;" | 10.6%
+| style="background:#f90311;" | 10.6%
 |-
 |Focus<ref name="Focus022021">{{cite web|date=28 February 2020|title=Press release|url=https://www.focus-research.sk/files/n279_Volebne%20preferencie%20politickych%20stran_februar%202021.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
 |17–24<br>Feb 2021
@@ -203,10 +203,10 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |5.2%
 |4.9%
 |4.7%
-| style="background:#fa878d;" | '''23.0%'''
+| style="background:#f9acb1;" | '''23.0%'''
 |N/A
 |11.2%
-| style="background:#F90B18;" | 10.1%
+| style="background:#f90311;" | 10.1%
 |-
 |AKO<ref name="AKO022021">{{cite press release|last=Hřích|first=Václav|date=12 February 2021|title=Prieskum volebných preferencií do NR SR – FEBRUÁR 2021|url=https://ako.sk/wp-content/uploads/2021/02/ag.AKO-VOLEBNE-PREF-FEBRUAR-2021.pdf|location=Bratislava|agency=AKO|access-date=26 March 2021}}</ref>
 |8–11<br>Feb 2021
@@ -220,10 +220,10 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |5.4%
 |4.9%
 |3.5%
-| style="background:#fa878d;" | '''25.0%'''
+| style="background:#f9acb1;" | '''25.0%'''
 |N/A
 |7.7%
-| style="background:#F90B18;" | 9.9%
+| style="background:#f90311;" | 9.9%
 |-
 |Focus<ref name="Focus012021">{{cite web|date=|title=Hlas sa šplhá k 25 percentám. OĽaNO má 10 percent, spor premiéra so Sulíkom už pripravil o preferencie aj SaS|url=https://dennikn.sk/2238820/focus-hlas-sa-splha-k-25-percentam-olano-ma-10-percent-spor-premiera-so-sulikom-uz-pripravil-o-preferencie-aj-sas/?ref=tit1|access-date=2021-03-31|website=dennikn.sk|format=PDF}}</ref>
 |12–19<br>Jan 2021
@@ -237,10 +237,10 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |4.2%
 |4.4%
 |3.9%
-| style="background:#fa878d;" | '''24.3%'''
+| style="background:#f9acb1;" | '''24.3%'''
 |N/A
 |10.7%
-| style="background:#F90B18;" | 11.0%
+| style="background:#f90311;" | 11.0%
 |-
 |AKO<ref name="AKO122020">{{cite press release|last=Hřích|first=Václav|date=21 December 2020|title=Prieskum volebných preferencií do NR SR – DECEMBER 2020|url=https://ako.sk/wp-content/uploads/2020/12/ag.AKO-VOLEBNE-PREF-DECEMBER-2020.pdf|location=Bratislava|agency=AKO|access-date=26 March 2021}}</ref>
 |17–19<br>Dec 2020
@@ -254,10 +254,10 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |4.7%
 |4.7%
 |3.1%
-| style="background:#fa878d;" | '''22.8%'''
+| style="background:#f9acb1;" | '''22.8%'''
 |N/A
 |7.4%
-| style="background:#F90B18;" | 6.6%
+| style="background:#f90311;" | 6.6%
 |-
 |Focus<ref name="Focus122020">{{cite web|date=16 December 2020|title=Press release|url=https://www.focus-research.sk/files/n276_Volebne%20preferencie%20politickych%20stran_december%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
 |8–14<br>Dec 2020
@@ -271,10 +271,10 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |4.4%
 |4.9%
 |4.1%
-| style="background:#fa878d;" | '''20.1%'''
+| style="background:#f9acb1;" | '''20.1%'''
 |N/A
 |10.3%
-| style="background:#F90B18;" | 4.3%
+| style="background:#f90311;" | 4.3%
 |-
 |Focus<ref name="Prieskum: Z konfliktu SaS a OĽaNO ťaží Sulík, rastie aj Pellegriniho Hlas">{{cite web|date=29 November 2020|title=Prieskum: Z konfliktu SaS a OĽaNO ťaží Sulík, rastie aj Pellegriniho Hlas|url=https://domov.sme.sk/c/22544531/preferencie-politickych-stran-focus-november-2020.html?ref=njct|access-date=29 November 2020|website=SME.sk|language=sk}}</ref>
 |18–25<br>Nov 2020
@@ -288,10 +288,10 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |4.1%
 |5.1%
 |3.8%
-| style="background:#fa878d;" | '''19.1%'''
+| style="background:#f9acb1;" | '''19.1%'''
 |N/A
 |10.7%
-| style="background:#F90B18;" | 5.1%
+| style="background:#f90311;" | 5.1%
 |-
 |Focus<ref name="Focus102020">{{cite web|date=18 October 2020|title=Press release|url=https://www.focus-research.sk/files/n274_Volebne%20preferencie%20politickych%20stran_oktober%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
 |7–15<br>Oct 2020
@@ -305,10 +305,10 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |4.8%
 |5.2%
 |3.6%
-| style="background:#fa878d;" | '''18.7%'''
+| style="background:#f9acb1;" | '''18.7%'''
 |N/A
 |8.9%
-| style="background:#F90B18;" | 3.6%
+| style="background:#f90311;" | 3.6%
 |-
 |AKO<ref name="AKO102020">{{cite web|date=2020-10-14|title=Prieskum: Pellegriniho Hlas prvýkrát predbehol OĽaNO, výrazne rastie SaS|url=https://slovensko.hnonline.sk/2229557-prieskum-pellegriniho-hlas-prvykrat-predbehol-olano-vyrazne-rastie-sas|access-date=2021-03-31|website=Slovensko|language=sk}}</ref>
 |1–9<br>Oct 2020
@@ -322,15 +322,15 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |4.2%
 |3.0%
 |2.9%
-| style="background:#fa878d;" | '''18.8%'''
+| style="background:#f9acb1;" | '''18.8%'''
 |N/A
 |10.6%
-| style="background:#F90B18;" | 3.5%
+| style="background:#f90311;" | 3.5%
 |-
 |Focus<ref name="Focus092020">{{cite web|date=9 June 2020|title=Press release|url=https://www.focus-research.sk/files/n273_Volebn%C3%A9%20preferencie%20politick%C3%BDch%20str%C3%A1n%20august-september%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
 |26 Aug<br>–2 Sep 2020
 |1,022
-| style="background:#d8e386;" | '''18.4%'''<br>{{font|size=85%|font=Arial|text='''35'''}}
+| style="background:#d6e86f;" | '''18.4%'''<br>{{font|size=85%|font=Arial|text='''35'''}}
 |10.9%<br>{{font|size=85%|font=Arial|text=21}}
 |9.1%<br>{{font|size=85%|font=Arial|text=17}}
 |8.5%<br>{{font|size=85%|font=Arial|text=16}}
@@ -342,12 +342,12 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |16.2%<br>{{font|size=85%|font=Arial|text=31}}
 |N/A
 |8.9%
-| style="background:#CFE800;" | 2.2%
+| style="background:#b2c933;" | 2.2%
 |-
 |AKO<ref name="AKO072020">{{cite web|date=2020|title=Prieskum volebných preferenciído NR SR –JÚL2020po 100 dňoch novej vlády|url=https://ako.sk/wp-content/uploads/2020/07/ag.AKO_VOLEBNE_PREF_JUL_2020.pdf|access-date=2021-03-31|website=ako.sk|format=PDF}}</ref>
 |7–17<br>Jul 2020
 |1,000
-| style="background:#d8e386;" | '''23.5%'''<br>{{font|size=85%|font=Arial|text='''44'''}}
+| style="background:#d6e86f;" | '''23.5%'''<br>{{font|size=85%|font=Arial|text='''44'''}}
 |10.7%<br>{{font|size=85%|font=Arial|text=20}}
 |6.4%<br>{{font|size=85%|font=Arial|text=12}}
 |7.9%<br>{{font|size=85%|font=Arial|text=15}}
@@ -359,12 +359,12 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |16.7%<br>{{font|size=85%|font=Arial|text=31}}
 |N/A
 |10.7%
-| style="background:#CFE800;" | 6.8%
+| style="background:#b2c933;" | 6.8%
 |-
 |Focus<ref name="Focus062020">{{Cite web|date=2020-06-28|title=S Pellegrinim aj bez neho. Exkluzívny prieskum ukazuje, ako by nová strana zamiešala preferenciami|url=https://www.tvnoviny.sk/na-telo/2000971_s-pellegrinim-aj-bez-neho-exkluzivny-prieskum-ukazuje-ako-by-nova-strana-zamiesala-preferenciami|access-date=2021-03-27|website=tvnoviny.sk|language=sk}}</ref>
 |17–24<br>Jun 2020
 |1,009
-| style="background:#d8e386;" | '''21.2%'''<br>{{font|size=85%|font=Arial|text='''41'''}}
+| style="background:#d6e86f;" | '''21.2%'''<br>{{font|size=85%|font=Arial|text='''41'''}}
 |19.0%<br>{{font|size=85%|font=Arial|text=37}}
 |12.8%<br>{{font|size=85%|font=Arial|text=25}}
 |9.6%<br>{{font|size=85%|font=Arial|text=18}}
@@ -376,12 +376,12 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |N/A
 |N/A
 |9.3%
-| style="background:#CFE800;" | 2.2%
+| style="background:#b2c933;" | 2.2%
 |-
 |Focus<ref name="Focus052020">{{cite web|date=24 May 2020|title=Press release|url=http://www.focus-research.sk/files/n271_Volebne%20preferencie%20politickych%20stran_maj%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
 |14–21<br>May 2020
 |1,011
-| style="background:#d8e386;" | '''22.9%'''<br>{{font|size=85%|font=Arial|text='''43'''}}
+| style="background:#d6e86f;" | '''22.9%'''<br>{{font|size=85%|font=Arial|text='''43'''}}
 |21.6%<br>{{font|size=85%|font=Arial|text=41}}
 |11.2%<br>{{font|size=85%|font=Arial|text=21}}
 |9.7%<br>{{font|size=85%|font=Arial|text=18}}
@@ -393,12 +393,12 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |N/A
 |N/A
 |6.8%
-| style="background:#CFE800;" | 1.3%
+| style="background:#b2c933;" | 1.3%
 |-
 |Focus<ref name="Focus042020">{{cite web|date=19 April 2020|title=Press release|url=http://www.focus-research.sk/files/n270_Volebne%20preferencie%20politickych%20stran_april%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
 |15–19<br>Apr 2020
 |1,016
-| style="background:#d8e386;"| '''24.4%'''<br>{{font|size=85%|font=Arial|text='''45'''}}
+| style="background:#d6e86f;"| '''24.4%'''<br>{{font|size=85%|font=Arial|text='''45'''}}
 |21.8%<br>{{font|size=85%|font=Arial|text=40}}
 |11.5%<br>{{font|size=85%|font=Arial|text=21}}
 |9.2%<br>{{font|size=85%|font=Arial|text=17}}
@@ -410,12 +410,12 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |N/A
 |N/A
 |8.2%
-| style="background:#CFE800;"| 2.6%
+| style="background:#b2c933;"| 2.6%
 |-
 |AKO<ref name="AKO042020">{{cite web|date=2020|title=Prieskum volebných preferenciído NR SR|url=https://ako.sk/wp-content/uploads/2020/04/ag.AKO-VOLEBN%C3%89_PREF_APRIL-2020_.pdf|access-date=2021-03-31|website=ako.sk|format=PDF}}</ref>
 |14–17<br>Apr 2020
 |1,000
-| style="background:#d8e386;"| '''29.9%'''<br>{{font|size=85%|font=Arial|text='''56'''}}
+| style="background:#d6e86f;"| '''29.9%'''<br>{{font|size=85%|font=Arial|text='''56'''}}
 |18.3%<br>{{font|size=85%|font=Arial|text=34}}
 |10.0%<br>{{font|size=85%|font=Arial|text=18}}
 |6.4%<br>{{font|size=85%|font=Arial|text=12}}
@@ -427,12 +427,12 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |N/A
 |N/A
 |7.7%
-| style="background:#CFE800;"| 11.6%
+| style="background:#b2c933;"| 11.6%
 |-
 |Focus<ref name="Focus0420202">{{cite web|date=19 April 2020|title=Press release|url=http://www.focus-research.sk/files/n270_Volebne%20preferencie%20politickych%20stran_april%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
 |18–21<br>Mar 2020
 |1,023
-| style="background:#d8e386;"| '''23.3%'''<br>{{font|size=85%|font=Arial|text='''43'''}}
+| style="background:#d6e86f;"| '''23.3%'''<br>{{font|size=85%|font=Arial|text='''43'''}}
 |21.6%<br>{{font|size=85%|font=Arial|text=40}}
 |11.5%<br>{{font|size=85%|font=Arial|text=21}}
 |7.3%<br>{{font|size=85%|font=Arial|text=14}}
@@ -444,10 +444,10 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |N/A
 |N/A
 |11.8%
-| style="background:#CFE800;"| 1.7%
+| style="background:#b2c933;"| 1.7%
 |-
 ! colspan="3" rowspan="3" |[[2020 Slovak parliamentary election|2020 parliamentary election]]
-! style="background:#d8e386;" | '''25.02%'''<br>{{font|size=85%|font=Arial|text=53}}
+! style="background:#d6e86f;" | '''25.02%'''<br>{{font|size=85%|font=Arial|text=53}}
 !18.29%<br>{{font|size=85%|font=Arial|text=38}}
 !8.24%<br>{{font|size=85%|font=Arial|text=17}}
 !7.97%<br>{{font|size=85%|font=Arial|text=17}}
@@ -459,31 +459,31 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 !N/A
 !N/A
 !12.97%
-! style="background:#CFE800;" | 6.73%
+! style="background:#b2c933;" | 6.73%
 |-
-!style="background:#CFE800;"|
-!style="background:#EE3A43;"|
-!style="background:#0b3f95;"|
+!style="background:#b2c933;"|
+!style="background:#ee3a43;"|
+!style="background:#034b9f;"|
 !style="background:#277d2a;"|
-!style="background:#006eff;"|
-!style="background:#a4cc34;"|
-!style="background:#FFBB00;"|
-!style="background:#080180;"|
-!style="background:#068c32;"|
-!style="background:#F90B18;"|
-!style="background:#b80711;"|
+!style="background:#1379d9;"|
+!style="background:#a7cf35;"|
+!style="background:#fdbb12;"|
+!style="background:#00518d;"|
+!style="background:#149840;"|
+!style="background:#f90311;"|
+!style="background:#e30512;"|
 ! rowspan="2" |Others
 ! rowspan="2" |Lead
 |-
 ![[OĽaNO]]
-![[Direction – Social Democracy|SMER<br>-SD]]
+![[Direction – Social Democracy|SMER<br>–SD]]
 ![[We Are Family (Slovakia)|SR]]
 ![[People's Party Our Slovakia|ĽSNS]]
-![[Progressive Slovakia|PS]]<br>-[[SPOLU – občianska demokracia|SPOLU]]
+![[Progressive Slovakia|PS]]<br>–[[SPOLU – občianska demokracia|SPOLU]]
 ![[Freedom and Solidarity|SaS]]
 ![[For the People (Slovakia)|ZĽ]]
 ![[Christian Democratic Movement|KDH]]
-![[Hungarian Community Freemasonry|MKÖ<br>-MKS]]
-![[Voice – Social Democracy|HLAS<br>-SD]]
+![[Hungarian Community Freemasonry|MKÖ<br>–MKS]]
+![[Voice – Social Democracy|HLAS<br>–SD]]
 ![[Republic (Slovakia)|REP]]
 |}

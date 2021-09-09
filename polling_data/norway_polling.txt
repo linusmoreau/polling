@@ -34,6 +34,82 @@
 ! style="background:{{Labour Party (Norway)/meta/color}};"|
 ! style="background:{{Conservative Party (Norway)/meta/color}};"|
 |-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4486 Kantar TNS]
+|1–7 Sep 2021
+|2,184
+|–
+|6.2
+|8.9
+|5.0
+|style="background:#F7BDC5;"|'''23.8'''
+|13.8
+|4.8
+|4.3
+|18.6
+|11.1
+|3.5{{efn|[[Democrats in Norway]] 1.1%, [[The Christians (Norway)|The Christians]] 1.0%, [[Pensioners' Party (Norway)|Pensioners' Party]] 0.4%, [[Capitalist Party]] 0.2%, [[Coastal Party]] 0.1%, [[People's Action No to More Road Tolls|FNB]] 0.1%}}
+|style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="2.9" |5.2
+|style="background:#F7BDC5;"|'''52.7'''
+|38.8
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="6.6" | 13.9
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4480 Kantar TNS]
+|1–6 Sep 2021
+|1,686
+|–
+|5.6
+|9.5
+|4.7
+|style="background:#F7BDC5;"|'''23.3'''
+|14.0
+|4.7
+|4.1
+|19.4
+|10.9
+|3.8{{efn|[[Democrats in Norway]] 1.3%, [[The Christians (Norway)|The Christians]] 0.6%, [[Pensioners' Party (Norway)|Pensioners' Party]] 0.4%, [[Capitalist Party]] 0.3%, [[Coastal Party]] 0.1%, [[People's Action No to More Road Tolls|FNB]] 0.1%}}
+|style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="2.9" |3.9
+|style="background:#F7BDC5;"|'''52.4'''
+|39.1
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="6.6" | 13.3
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4477 Kantar TNS]
+|25 Aug –3 Sep 2021
+|1,388
+|–
+|5.4
+|9.4
+|4.3
+|style="background:#F7BDC5;"|'''23.4'''
+|14.0
+|4.6
+|3.6
+|20.5
+|10.0
+|4.9{{efn|[[Democrats in Norway]] 1.6%, [[The Christians (Norway)|The Christians]] 0.7%, [[Pensioners' Party (Norway)|Pensioners' Party]] 0.6%, [[Capitalist Party]] 0.4%, [[Coastal Party]] 0.4%}}
+|style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="2.9" |2.9
+|style="background:#F7BDC5;"|'''52.2'''
+|40.3
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="11.9" | 11.9
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4467 Kantar TNS]
+|25–31 Aug 2021
+|1,200
+|–
+|4.9
+|9.7
+|5.0
+|style="background:#F7BDC5;"|'''23.4'''
+|11.0
+|4.8
+|4.1
+|21.5
+|10.7
+|4.9{{efn|[[Democrats in Norway]] 1.5%, [[The Christians (Norway)|The Christians]] 1.3%, [[Pensioners' Party (Norway)|Pensioners' Party]] 0.5%, [[Capitalist Party]] 0.5%, [[Coastal Party]] 0.1%}}
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="1.9" |1.9
+|style="background:#F7BDC5;"|'''49.0'''
+|44.1
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="4.9" | 4.9
+|-
 |[http://www.pollofpolls.no/?cmd=Maling&gallupid=4457 Kantar TNS]
 |23–27 Aug 2021
 |996
@@ -73,7 +149,7 @@
 | style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="10.1" | 10.1
 |-
 |[http://www.pollofpolls.no/?cmd=Maling&gallupid=4441 Sentio]
-|17–18 Aug 2021
+|17–21 Aug 2021
 |1,000
 |–
 |5.4

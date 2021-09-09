@@ -10,10 +10,10 @@
 ! style="width:35px;"| [[File:Flag_of_the_Hungarian_Socialist_Party.svg|35px|link=MSZP]]
 ! style="width:35px;"| [[File:Logo_of_the_Dialogue_for_Hungary.svg|30px|link=Dialogue for Hungary|P]]
 ! style="width:35px;"| [[File:Logo_of_the_Democratic_Coalition_(Hungary).svg|32px|link=Democratic Coalition (Hungary)|DK]]
-! style="width:35px;"| [[File:Logo of the LMP – Hungary's Green Party.svg|35px|link=LMP – Hungary's Green Party]]
+! style="width:35px;"| [[LMP – Hungary's Green Party|LMP]]
 ! style="width:35px;"| [[File:Logo_of_the_Momentum_Movement.svg|32px|link=Momentum Movement|MM]]
 ! style="width:35px;"| [[File:Magyar_Kétfarkú_Kutyapárt_logó.svg|35px|link=Hungarian Two-tailed Dog Party|MKKP]]
-! style="width:35px;"| [[File:Logo_of_the_Our_Homeland_Movement.svg|35px|link=Our Homeland Movement]]
+! style="width:35px;" class="unsortable"| [[Our Homeland Movement|Mi Hazank]]
 ! style="width:40px;" class="unsortable" rowspan="2"| Other
 ! style="width:20px;" class="unsortable" rowspan="2"| Lead
 ! style="width:20px;" class="unsortable" rowspan="2" |{{H:title|Jobbik, MSZP-P, DK, LMP, M and MKKP|Opposition}}
@@ -27,6 +27,22 @@
 ! style="background:#8E6FCE;"|
 ! style="background:#808080;"|
 ! style="background:#568203"|
+|-
+|23–28 August 2021
+|[http://republikon.hu/elemzesek,-kutatasok/21-09-01-kvk.aspx Republikon]
+|1000
+|style="background:#FFE5B4"|'''45'''
+|15
+|7
+|2
+|17
+|3
+|8
+|1
+|1
+|1
+| style="background:{{Fidesz/meta/color}}; color:white;" |28
+|52
 |-
 |August 2021
 |[https://index.hu/belfold/2021/08/26/fidesz-kormany-partpreferencia-ellenzek-valasztasok/ Závecz Research]

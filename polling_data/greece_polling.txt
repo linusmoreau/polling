@@ -30,7 +30,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Greeks for the Fatherland/meta/color}};"|
 |-
 | Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview για το Politic.gr: Ισχυρό προβάδισμα 12,7 μονάδων για τη ΝΔ |url=https://politic.gr/politiki/dimoskopisi-interview-gia-to-politic-gr-ischyro-provadisma-127-monadon-gia-ti-nd/ |language=el |work=Politic.gr |date=30 August 2021}}</ref>
-| 25–29 Aug 2021
+| 23–27 Aug 2021
 | 1,325
 | {{Party shading/ND}}| '''39.7'''
 | 25.4

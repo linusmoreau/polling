@@ -10,22 +10,22 @@
 |yAxisMax=30
 |linewidth = 1.8
 |xAxisFormat=%d-%m
-|x= 2021/08/25, 2021/08/26, 2021/08/27, 
+|x= 2021/08/25, 2021/08/25, 2021/08/26, 2021/08/26, 2021/08/29, 2021/09/02, 2021/09/03
 
 |y1Title=G. Boric (AD)
-|y1= 21.8, 23.4, 20
+|y1= 21.8, 22, 23.4, 20, 25, 23, 26.5
 |y2Title=S. Sichel (ChP+)
-|y2= 20, 14, 20
+|y2= 20, 26, 14, 20, 19, 19, 17.8
 |y3Title=Y. Provoste (NPS)
-|y3= 12.9, 12.3, 13
+|y3= 12.9, 12, 12.3, 13, 12, 12, 11.3
 |y4Title=J.A. Kast (FSC)
-|y4= 10.7, 8.9, 10
+|y4= 10.7, 15, 8.9, 10, 8, 12, 10.9
 |y5Title=F. Parisi (PDG)
-|y5= 7.7, 8.8, 7
+|y5= 7.7, 8, 8.8, 7, 6, 7, 5.5
 |y6Title=M. Enríquez-O. (PRO)
-|y6= 4.1, 3.6, 3
+|y6= 4.1, 4, 3.6, 3, 1, 2, 2.6
 |y7Title=E. Artés (UPA)
-|y7= 1.4, 1.2, 1
+|y7= 1.4, 1, 1.2, 1, 1, 0, 1.5
 |colors=#FC415C,#FFD700,#800080,#2A58A6,#00285E,#FF1493,#CC0000
 | showSymbols = 0.7
 | symbolsShape = circle
@@ -61,6 +61,42 @@
 ! [[Sebastián Sichel|Sichel]]<br/><small>[[Chile Podemos Más|ChP+]]</small>
 ! [[José Antonio Kast|Kast]]<br/><small>[[Christian Social Front|FSC]]</small>
 |-
+| 3-6 Sept 2021
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf Tú Influyes]
+|
+| 1.5
+| bgcolor="#FD9FAD"|'''26.5'''
+| 2.6
+| 11.3
+| 5.5
+| '''17.8'''
+| 10.9
+| 24.0
+|-
+| 1-3 Sept 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf Cadem]
+|
+| 0.0
+| bgcolor="#FD9FAD"|'''23.0'''
+| 2.0
+| 12.0
+| 7.0
+| '''19.0'''
+| 12.0
+| 25.0
+|-
+| 27-31 Aug 2021
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Agosto_2021-9bT8h.pdf Criteria]
+|
+| 1.0
+| bgcolor="#FD9FAD"|'''25.0'''
+| 1.0
+| 12.0
+| 6.0
+| '''19.0'''
+| 8.0
+| 28.0
+|-
 | 26-27 Aug 2021
 |[https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf Cadem]
 |
@@ -73,27 +109,49 @@
 | 10.0
 | 26.0
 |-
-| 24-27 Aug 2021
-|[https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf Activa]
+| rowspan="2" | 24-27 Aug 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf Activa]
 | Likely voter.{{efn|The poll included the candidacies of [[Diego Ancalao]] and [[Gino Lorenzini]], before being rejected by the Electoral Service. Ancalao obtained 1.5% of the preferences and Lorenzini 5.1%.}}
 | 1.2
 | bgcolor="#FD9FAD"|'''23.4'''
 | 3.6
 | 12.3
 | 8.8
-| 14.0
+| '''14.0'''
 | 8.9
 | 27.9
+|-
+|
+|0.7
+| bgcolor="#FD9FAD"|'''16.4'''
+|3.6
+|11.3
+|6.1
+|'''11.5'''
+|6.3
+|44.1
+|-
+| 24-25 Aug 2021
+|[https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf Black & White]
+|{{efn|The poll included the candidacies of [[Diego Ancalao]] and [[Gino Lorenzini]], before being rejected by the Electoral Service. Ancalao obtained 2% of the preferences and Lorenzini 7%.}}
+| 1.0
+| '''22.0'''
+| 3.0
+| 12.0
+| 8.0
+| bgcolor="#F6E47F" |'''26.0'''
+| 15.0
+| 13.0
 |-
 | 24-25 Aug 2021
 |[https://www.litoralpress.cl/paginaconsultas/Servicios_NClip/Get_Imagen_Pagina.aspx?LPKey=AHV7U6ZGM3X6H2CNP4E6GWZTRVEQ44IFISL7SPI6D53SEDHE2ZHA UDD]
 |{{efn|The poll included the candidacies of [[Diego Ancalao]] and [[Gino Lorenzini]], before being rejected by the Electoral Service. Ancalao obtained 1.1% of the preferences and Lorenzini 4.4%.}}
 | 1.4
-| bgcolor="#FD9FAD"|'''21.8'''
+| bgcolor="#FD9FAD" |'''21.8'''
 | 4.1
 | 12.9
 | 7.7
-| 20.0
+| '''20.0'''
 | 10.7
 | 21.4
 |}

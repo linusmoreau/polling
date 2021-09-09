@@ -32,6 +32,44 @@
 ! class="unsortable" style="background:{{The Progressives (Latvia)/meta/color}};"|
 ! class="unsortable" style="background:{{Law and Order (Latvia)/meta/color}};"|
 |-
+|27-31 August 2021
+|[https://twitter.com/Interactive_LV/status/1432991968368513024 Factum Interactive]
+|1181
+|'''14.6'''
+|1.0
+|'''6.1'''
+|'''14.0'''
+|'''11.7'''
+|'''9.1'''
+|style="background:#a0d78e"|'''16.9'''
+|3.7
+|2.8
+|'''5.7'''
+|'''5.1'''
+|4.8
+| -
+| -
+|style="background:#a0d78e"|2.3
+|-
+|August 2021
+|[https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-augusta-druzma-ap-5-barjeru.a419153/ SKDS/LTV]
+|1825
+|style="background:#F8C1BE" |'''12.6'''
+|0.4
+|3.1
+|'''5.0'''
+|'''7.1'''
+|'''7.3'''
+|'''6.7'''
+|2.8
+|3.3
+|3.6
+|3.2
+|1.6
+|23.1
+|20.0
+|style="background:#F8C1BE" |5.3
+|-
 |27. - 31 July 2021
 |[https://twitter.com/Interactive_LV/status/1421426449723142146/ Factum Interactive]
 |612

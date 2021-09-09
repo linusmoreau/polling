@@ -44,6 +44,46 @@
 ! class="unsortable" style="background:{{Free Bloc/meta/color}} |
 ! class="unsortable" style="background:{{Přísaha/meta/color}};" |
 |-
+|[https://www.median.eu/cs/wp-content/uploads/2021/09/Volby_2021_08_v02.pdf Median]
+|1 Aug–2 Sep
+|1,058
+|–
+|{{Party shading/ANO 2011}}|'''27.0'''
+| colspan="3" |21.0
+| colspan="2" |20.5
+|9.0
+|6.0
+|4.5
+| colspan="2" |3.0
+|2.5
+|{{N/A}}
+|<1.0
+|4.0
+|<2.5
+|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |6.0
+|'''30.5'''
+|{{No|'''54.5'''}}
+|-
+|[https://www.facebook.com/budmehrdi/posts/2999813133636828 Médea Research]
+|August
+|–
+|–
+|{{Party shading/ANO 2011}}|'''27.6'''
+| colspan="3" |22.3
+|colspan="2"|19.3
+|8.7
+|5.1
+|5.1
+|colspan="2"|2.6
+|1.4
+|1.7
+|0.9
+|4.9
+|0.4{{efn|[[Koruna Česká (party)|KČ]] 0.2%}}
+|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |5.3
+|'''32.7'''
+|{{No|'''55.8'''}}
+|-
 |rowspan="2" |[https://ct24.ceskatelevize.cz/domaci/3357414-model-kantaru-ano-strme-roste-opozicni-koalice-se-pretahuji-o-druhou-pozici Kantar CZ]
 |rowspan="2" |2 – 13 Aug
 |rowspan="2" |1200
