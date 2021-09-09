@@ -89,7 +89,7 @@ def transcribe_table(content, key, choice, begin, start):
             if 'Before July-August' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Bolsanaro (APB)', 'Lula (PT)', 'Haddad (PT)', 'Dino (PCdoB)', 'Gomes (PDT)', 'Boulos (PSOL)',
-                        'Doria (PSDB)', 'Amoedo (NOVO)', 'Silva (REDE)', 'Moro', 'Huck',
+                        'Doria (PSDB)', 'Amoedo (NOVO)', 'Moro', 'Huck',
                         'Other', 'Undecided', 'lead', 'end']
                 reset = True
             elif '====2019====' in line:
@@ -458,7 +458,7 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
         else:
             purge.add(r)
     if choice == 'Czechia':
-        for p in ['SPOLU', 'Pirati+STAN']:
+        for p in ['SPOLU', 'PaS']:
             c = key.count(p)
             if c > 1:
                 i = key.index(p)
@@ -683,16 +683,16 @@ def choices_setup():
         },
         'Czechia': {
             'key': ['firm', 'date', 'size', 'turnout',
-                    'ANO', 'SPOLU', 'SPOLU', 'SPOLU', 'Pirati+STAN', 'Pirati+STAN', 'SPD', 'KSCM', 'CSSD', 'T-S',
-                    'T-S', 'Z', 'ODA', 'VB', 'P',
+                    'ANO', 'SPOLU', 'SPOLU', 'SPOLU', 'PaS', 'PaS', 'SPD', 'KSCM', 'CSSD', 'T-S',
+                    'T-S', 'Z', 'APB', 'VB', 'P',
                     'Other', 'Lead', 'Govt.', 'Opp.'],
-            'include': ['ANO', 'SPOLU', 'Pirati+STAN', 'SPD', 'KSCM', 'CSSD', 'T-S', 'Z', 'ODA', 'P'],
-            'col': {'ANO': (38, 16, 96), 'SPOLU': (35, 44, 119), 'Pirati+STAN': (0, 0, 0), 'SPD': (33, 117, 187),
+            'include': ['ANO', 'SPOLU', 'PaS', 'SPD', 'KSCM', 'CSSD', 'T-S', 'Z', 'APB', 'P'],
+            'col': {'ANO': (38, 16, 96), 'SPOLU': (35, 44, 119), 'PaS': (0, 0, 0), 'SPD': (33, 117, 187),
                     'KSCM': (204, 0, 0), 'CSSD': (236, 88, 0), 'T-S': (0, 150, 130), 'Z': (96, 180, 76),
-                    'P': (0, 51, 255), 'ODA': (0, 45, 114),
+                    'P': (0, 51, 255), 'APB': (0, 45, 114),
                     'Government': (38, 16, 96), 'Opposition': (0, 0, 0)},
             'gov': {'Government': ['ANO', 'KSCM', 'CSSD'],
-                    'Opposition': ['SPOLU', 'Pirati+STAN', 'SPD', 'T-S', 'Z', 'P']},
+                    'Opposition': ['SPOLU', 'PaS', 'SPD', 'T-S', 'Z', 'P']},
             'end_date': Date(2021, 10, 9),
             'start': 0,
             'url': 'https://en.wikipedia.org/w/index.php?title='
@@ -970,17 +970,17 @@ def choices_setup():
             'bar': 0,
         },
         'Lithuania': {
-            'include': ['TS-LKD', 'LVZS', 'DP', 'LSDP', 'Laisves', 'LRLS', 'LLRA', 'LSDDP', 'LCP', 'LT'],
+            'include': ['TS-LKD', 'LVZS', 'DP', 'LSDP', 'Laisves', 'LRLS', 'LLRA', 'LRP', 'LCP', 'LT'],
             'key': ['firm', 'date',
-                    'TS-LKD', 'LVZS', 'DP', 'LSDP', 'Laisves', 'LRLS', 'LLRA', 'LSDDP', 'LCP', 'LT',
+                    'TS-LKD', 'LVZS', 'DP', 'LSDP', 'Laisves', 'LRLS', 'LLRA', 'LRP', 'LCP', 'LT',
                     'lead', 'end'],
             'col': {'TS-LKD': (0, 165, 155), 'LVZS': (0, 144, 53), 'DP': (29, 87, 140), 'LSDP': (225, 5, 20),
-                    'Laisves': (227, 0, 107), 'LRLS': (244, 129, 0), 'LLRA': (120, 19, 35), 'LSDDP': (193, 39, 45),
+                    'Laisves': (227, 0, 107), 'LRLS': (244, 129, 0), 'LLRA': (120, 19, 35), 'LRP': (193, 39, 45),
                     'LCP': (0, 156, 61), 'LT': (251, 186, 0)},
             'gov': {'Government': ['TS-LKD', 'Laisves', 'LRLS'],
-                    'Opposition': ['LVZS', 'DP', 'LSDP', 'LLRA', 'LSDDP', 'LCP', 'LT']},
+                    'Opposition': ['LVZS', 'DP', 'LSDP', 'LLRA', 'LRP', 'LCP', 'LT']},
             'blocs': {'Conservative': ['TS-LKD', 'LVZS', 'LCP', 'LLRA'], 'Liberal': ['LRLS', 'DP', 'Laisves', 'LT'],
-                      'Socialist': ['LSDP', 'LSDDP']},
+                      'Socialist': ['LSDP', 'LRP']},
             'start': 0,
             'end_date': Date(2024, 10, 6),
             'url': 'https://en.wikipedia.org/w/index.php?title='
@@ -1059,7 +1059,7 @@ def choices_setup():
         'Poland': {
             'key': ['firm', 'date', 'sample',
                     'United Right', 'Agreement', 'Civic Coalition', 'The Left', 'Polish Coalition', 'Kukiz\'15',
-                    'Confederation', 'Poland 2050',
+                    'Confederation', 'Poland 2050', 'AGRO unia',
                     'Other', 'lead', 'end'],
             'include': ['United Right', 'Civic Coalition', 'The Left', 'Polish Coalition', 'Kukiz\'15', 'Confederation',
                         'Poland 2050'],
