@@ -51,14 +51,14 @@ specs = {
                   'Nationalist': ['BP', 'Revival'],
                   'Populist': ['ITN', 'DB', 'IBG-NI']},
         'start': 0,
-        'end_date': Date(2025, 9, 30),
+        'end_date': Date(2021, 11, 14),
         'toggle_seats': True,
-        'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Next_Bulgarian_parliamentary_election&action=edit&section=3',
+        'url': 'https://en.wikipedia.org/w/index.php?title=2021_Bulgarian_general_election&action=edit&section=7',
         'old_data': 'polling_data/old_bulgaria_polling.txt',
         'seats': 240,
         'method': 'remainder',
-        'threshold': 4
+        'threshold': 4,
+        'vlines': {Date(2021, 7, 11): "Parliamentary Election"}
     },
     'Canada': {
         'key': ['firm', 'date', 'link',
@@ -85,14 +85,15 @@ specs = {
         'key': ['date', 'source', 'type',
                 'Artes', 'Boric', 'Enriquez-Om.', 'Provoste', 'Parisi', 'Sichel', 'Kast',
                 'Other', 'end'],
-        'include': ['Boric', 'Narvaez', 'Maldonado', 'Provoste', 'Sichel', 'J.A. Kast',
+        'include': ['Boric', 'Narvaez', 'Maldonado', 'Provoste', 'Sichel', 'Kast',
                     'Jadue', 'Jiles', 'Briones', 'Desbordes', 'Parisi', 'Lavin', 'Matthei',
                     'Enriquez-Om.', 'Artes'],
         'col': {'Boric': (255, 20, 85), 'Narvaez': (237, 22, 36), 'Maldonado': (205, 92, 92),
-                'Provoste': (30, 144, 255), 'Sichel': (0, 107, 176), 'J.A. Kast': (49, 68, 108),
+                'Provoste': (30, 144, 255), 'Sichel': (0, 107, 176), 'Kast': (49, 68, 108),
                 'Jadue': (178, 34, 34), 'Jiles': (255, 69, 0), 'Briones': (0, 191, 255), 'Desbordes': (2, 78, 154),
                 'Parisi': (24, 22, 68), 'Lavin': (41, 57, 138), 'Matthei': (41, 57, 138),
                 'Enriquez-Om.': (255, 20, 147), 'Artes': (204, 0, 0)},
+        'zeros': ['Other'],
         'start': -1,
         'end_date': Date(2021, 12, 19),
         'url': 'https://en.wikipedia.org/w/index.php?title='
@@ -270,7 +271,7 @@ specs = {
         'start': 0,
         'end_date': Date(2021, 9, 25),
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_next_Icelandic_parliamentary_election&action=edit&section=2',
+               'Opinion_polling_for_the_2021_Icelandic_parliamentary_election&action=edit&section=2',
         'toggle_seats': True,
         'divisor': 1,
         'bar': 0,
@@ -442,7 +443,7 @@ specs = {
     'Norway': {
         'include': ['R', 'SV', 'MDG', 'Ap', 'Sp', 'V', 'KrF', 'H', 'FrP'],
         'key': ['firm', 'date', 'sample', 'resp',
-                'R', 'SV', 'MDG', 'Ap', 'Sp', 'V', 'KrF', 'H', 'FrP',
+                'R', 'SV', 'MDG', 'Ap', 'Sp', 'PF', 'V', 'KrF', 'H', 'FrP',
                 'Other', 'lead',
                 'Red', 'Blue', 'lead', 'end'],
         'col': {'R': (231, 52, 69), 'SV': (188, 33, 73), 'MDG': (106, 147, 37), 'Ap': (227, 24, 54),
