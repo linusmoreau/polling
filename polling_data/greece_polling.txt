@@ -29,6 +29,51 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Antarsya/meta/color}};"|
 ! style="background:{{Greeks for the Fatherland/meta/color}};"|
 |-
+| Alco/Open<ref>{{Cite web|last=Newsroom|title=Δημοσκόπηση Alco: Τι ψηφίζουν όσοι δεν έχουν εμβολιαστεί {{!}} Η ΚΑΘΗΜΕΡΙΝΗ|url=https://www.kathimerini.gr/politics/561503200/dimoskopisi-alco-ti-psifizoyn-osoi-den-echoyn-emvoliastei/|access-date=2021-09-18|website=www.kathimerini.gr}}</ref>
+| 13–17 Sep 2021
+|1,000
+| {{Party shading/ND}}| '''39.2'''
+| 27.4
+| 8.1
+| 6.5
+| 5.3
+| 3.5
+| –
+| 1.8
+| –
+| 1.4
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 11.8
+|-
+| MRB/Star<ref>{{Cite web|last=Newsroom|title=Δημοσκόπηση: Προβάδισμα 11,9 μονάδων της ΝΔ {{!}} Η ΚΑΘΗΜΕΡΙΝΗ|url=https://www.kathimerini.gr/politics/561501601/dimoskopisi-provadisma-11-9-monadon-sti-nd/|access-date=2021-09-16|website=www.kathimerini.gr}}</ref><ref>{{Cite web|date=2021-09-16|title=Πρώτη δημοσκόπηση μετά τη ΔΕΘ: Προβάδισμα ΝΔ με 11,9%|url=https://www.protothema.gr/politics/article/1161859/proti-dimoskopisi-meta-ti-deth-brosta-i-nd-me-diafora-119-stin-prothesi-psifou/|access-date=2021-09-16|website=ProtoThema|language=el}}</ref>
+| 9–14 Sep 2021
+|1,000
+| {{Party shading/ND}}| '''41.4'''
+| 28.4
+| 8.4
+| 6.4
+| 4.4
+| 3.6
+| –
+| –
+| –
+| –
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 13.0
+|-
+| Opinion Poll/Political<ref>{{cite web |title=Δημοσκόπηση Opinion Poll: Προβάδισμα 13,9 μονάδων της ΝΔ έναντι του ΣΥΡΙΖΑ |url=https://www.capital.gr/politiki/3580993/dimoskopisi-opinion-poll-probadisma-13-9-monadon-tis-nd-enanti-tou-suriza |language=el |work=Capital.gr |date=10 September 2021}}</ref>
+| 2–7 Sep 2021
+| 1,002
+| {{Party shading/ND}}| '''44.6'''
+| 26.9
+| 7.9
+| 7.0
+| 4.5
+| 4.1
+| –
+| –
+| –
+| –
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 17.7
+|-
 | Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview για το Politic.gr: Ισχυρό προβάδισμα 12,7 μονάδων για τη ΝΔ |url=https://politic.gr/politiki/dimoskopisi-interview-gia-to-politic-gr-ischyro-provadisma-127-monadon-gia-ti-nd/ |language=el |work=Politic.gr |date=30 August 2021}}</ref>
 | 23–27 Aug 2021
 | 1,325

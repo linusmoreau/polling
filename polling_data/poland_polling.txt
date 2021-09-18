@@ -27,6 +27,138 @@
 ! data-sort-type="number" style="height:1px; background:{{Poland 2050/meta/color}};"|
 ! data-sort-type="number" style="height:1px; background:{{AGROunia/meta/color}};"|
 |-
+|[https://wydarzenia.interia.pl/polska/newsamp-nowy-sondaz-cbos-pis-34-proc-ko-16-proc-polska-2050-12-proc,nId,5488253 CBOS]
+| data-sort-value="2021-09-16" | 6–16 Sep 2021
+| 1,218
+| style="background:#C0DBFC;" | '''34'''
+| 1
+| 16
+| 4
+| 1
+| 1
+| 5
+| 12
+| 
+| 26
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''18'''
+|-
+|[https://wiadomosci.onet.pl/kraj/sondaz-pollster-rosnie-przewaga-pis-nad-po/5d2jedt Pollster / SE.pl]
+| data-sort-value="2021-09-14" | 13–14 Sep 2021
+| 1,048
+| style="background:#C0DBFC;" | '''39.5'''
+| 0.71
+| 24.54
+| 7.56
+| 4.66
+| 1.08
+| 7.35
+| 14.32
+| 
+| 0.28
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''14.96'''
+|-
+| rowspan="2" style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/566493-sondaz-pis-wysoko-mocno-traci-holownia-bardzo-slabo-psl Social Changes / wPolityce.pl]
+| rowspan="2" data-sort-value="2021-09-13" | 10–13 Sep 2021
+| rowspan="2" | 1,063
+| style="background:#C0DBFC;" | '''37'''
+| 2
+| 27
+| 7
+| 2
+| 2
+| 9
+| 12
+| 
+| 2
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''10'''
+|-
+| style="background:#C0DBFC;" | '''36'''
+| 2
+| 29{{efn|[[Rafał Trzaskowski]] as party leader}}
+| 6
+| 2
+| 2
+| 10
+| 12
+| 
+| 1
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''8'''
+|-
+| [https://www.salon24.pl/newsroom/1165263,sondaz-dla-salon24-pl-zjednoczona-prawica-wygrywa-wybory Pollster / Salon24.pl]
+| data-sort-value="2021-09-12" | 11–12 Sep 2021
+| 1,027
+| style="background:#C0DBFC;" | '''38.87'''
+| 0.64
+| 25.68
+| 7.84
+| 3.85
+| 0.71
+| 8.21
+| 13.86
+| 
+| 0.34
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''13.19'''
+|-
+| [https://dorzeczy.pl/sondaz/199691/sondaz-estymator-dla-dorzeczypl-pis-zgarnia-polowe-mandatow.html Estymator / DoRzeczy.pl]
+| data-sort-value="2021-09-11" | 10–11 Sep 2021
+| 1,016
+| style="background:#C0DBFC;" | '''40.2'''
+| 1.1
+| 24.1
+| 9.0
+| 3.9
+| 1.5
+| 8.8
+| 10.9
+| 0.4
+| 0.1
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''16.1'''
+|-
+| [https://fakty.tvn24.pl/ogladaj-online,60/sondaz-poparcia-dla-partii-politycznych-dla-faktow-tvn-i-tvn24-pis-i-sp-na-czele-porozumienie-jaroslawa-gowina-ponizej-kukiz-15,1077195.html Kantar / TVN]
+| data-sort-value="2021-09-10" | 9–11 Sep 2021
+| 1,002
+| style="background:#C0DBFC;" | '''30'''
+| 0
+| 24
+| 5
+| 3
+| 1
+| 8
+| 14
+|
+| 15
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''6'''
+|-
+| [https://wiadomosci.wp.pl/sondaz-dla-wp-efekt-tuska-minal-ko-ma-powody-do-zmartwienia-6682811173010400a United Surveys / WP.pl]
+| data-sort-value="2021-09-10" | 10 Sep 2021
+| 1,000
+| style="background:#C0DBFC;" | '''36.4'''
+| 
+| 22.3
+| 6.8
+| 5.2
+|
+| 8.8
+| 9.2
+|
+| 11.3
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''14.1'''
+|-
+| [https://wiadomosci.onet.pl/kraj/sondaz-partyjny-spadek-pis-wzrost-ko-i-polski-2050/5ed1r7p Kantar Public]
+| data-sort-value="2021-09-08" | 3–8 Sep 2021
+| 979
+| style="background:#C0DBFC;" | '''32'''
+| 1
+| 25
+| 6
+| 3
+| 1
+| 4
+| 12
+| 
+| 16
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''7'''
+|-
 | style="letter-spacing: -1px;"| [https://mobile.twitter.com/IBRiS_PL/status/1435649129493921793/photo/1  IBRiS / "Wydarzenia" Polsat]
 | data-sort-value="2021-09-07" | 7 Sep 2021
 | 1,100
@@ -41,6 +173,21 @@
 | 
 | 9.9
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''13.5'''
+|-
+|style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/565820-nasz-sondaz-pis-z-najlepszym-wynikiem-od-wielu-miesiecy Social Changes / wPolityce.pl]
+| data-sort-value="2021-09-06" | 3–6 Sep 2021
+| 1,051
+| style="background:#C0DBFC;" | '''37'''
+| 1
+| 26
+| 8
+| 3
+| 1
+| 7
+| 16
+| 
+| 1
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''11'''
 |-
 |[https://wpolityce.pl/polityka/565511-sondaz-pis-liderem-z-kim-moze-sie-zwiazac-partia-gowina Research Partner]
 | data-sort-value="2021-09-06" | 3–6 Sep 2021

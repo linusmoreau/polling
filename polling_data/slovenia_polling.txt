@@ -5,9 +5,9 @@ Poll results are listed in the table in reverse chronological order, showing the
 
 {| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:16px"
 |- 
-! rowspan="2" style="width:120px;"|Date
+! rowspan="2" style="width:120px;"|Fieldwork date
 ! rowspan="2"|Polling firm
-! rowspan="2"|Publisher(s)
+! rowspan="2"|Publisher(s)ni
 ! rowspan="2" style="width:50px;" class="unsortable"|Sample size
 ! style="width:35px;" class="unsortable"| [[Slovenian Democratic Party|SDS]]
 ! style="width:35px;" class="unsortable"| [[List of Marjan Šarec|LMŠ]]
@@ -43,7 +43,55 @@ Poll results are listed in the table in reverse chronological order, showing the
 ! class="unsortable" style="background: #81d742; width:30px"|
 ! class="unsortable" style="background: #6ab32e; width:30px"|
 |-
-|30 Aug–2 Sep 2021
+|data-sort-value="2021-09-16"|14–16 Sep 2021
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|700
+|style="background:#FFFFBF" |'''18.4'''
+|8.9
+|13.3
+|0.5
+|9.2
+|5.3
+|3.5
+|0.9
+|1.6
+|1.5
+|–
+|–
+|–
+|2.5
+|–
+|27.0
+|7.4
+|style="background:{{Slovenian Democratic Party/meta/color}}" |5.1
+|<ref>{{Cite web|title=Aktualna vprašanja – avg 2021 – Ninamedia|url=http://ninamedia.si/arhivi/825|access-date=2021-09-18|language=sl-SI}}</ref>
+|-
+|data-sort-value="2021-09-06"|6–9 Sep 2021
+|Mediana
+|[[Delo (newspaper)|''Delo'']]
+|711
+|style="background:#FFFFBF" |'''18.3'''
+|6.3
+|10.3
+|1.2
+|7.7
+|4.1
+|3.8
+|2.0
+|1.7
+|0.4
+|0.8
+|0.9
+|1.1
+|{{N/A}}
+|9.0
+|26.2
+|{{N/A}}
+|style="background:{{Slovenian Democratic Party/meta/color}}"| 8.0
+|<ref>{{Cite web|title=Anketa: SDS ostaja na vrhu, vlada z višjo srednjo oceno |url=https://www.rtvslo.si/slovenija/anketa-sds-ostaja-na-vrhu-vlada-z-visjo-srednjo-oceno/593897|access-date=2021-09-16|website=www.rtvslo.si|language=sl-si}}</ref>
+|-
+|data-sort-value="2021-09-02"|30 Aug–2 Sep 2021
 |Parsifal
 |[[Nova24TV]]
 |719
@@ -56,18 +104,18 @@ Poll results are listed in the table in reverse chronological order, showing the
 |4.1
 |2.7
 |3.3
-|–
+|4.6{{efn|name=PoS}}
 |1.5
 |0.8
-|–
-|0.6
+|{{efn|name=PoS}}
+|2.1{{efn|[[Our Country (Slovenia)|Our Country]] 2.3%, [[Green Actions]] 0.6%}}
 |11.5
 |13.9
 |8.4
 |style="background:{{Slovenian Democratic Party/meta/color}}"|4.6
 |<ref>{{Cite web|date=2021-09-05|title=[Javnomnenjska anketa] Volivci vse bolj naklonjeni strankam, ki bi se povezovale v razvojno koalicijo {{!}} Nova24TV|url=https://nova24tv.si/slovenija/politika/javnomnenjska-anketa-volivci-vse-bolj-naklonjeni-strankam-ki-bi-se-povezovale-v-razvojno-koalicijo/|access-date=2021-09-08|language=sl-SI}}</ref>
 |-
-|23 Aug 2021{{efn|name=date|Publication date}}
+|data-sort-value="2021-08-23"|23 Aug 2021{{efn|name=date|Publication date}}
 |Mediana
 |[[Pop (Slovenian TV channel)|POPTV]]
 |–
@@ -91,31 +139,55 @@ Poll results are listed in the table in reverse chronological order, showing the
 |style="background:{{Slovenian Democratic Party/meta/color}}"|5.0
 |<ref>{{Cite web|title=Anketa POP TV: bo Tonin premagal Šarca?|url=https://www.domovina.je/anketa-pop-tv/|access-date=2021-08-23|website=www.domovina.je|language=sl}}</ref>
 |-
-|9 Aug 2021
+|data-sort-value="2021-08-15"|10–12 Aug 2021
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|700
+|style="background:#FFFFBF" |'''18.0'''
+|8.5
+|12.2
+|0.7
+|8.9
+|5.5
+|3.4
+|0.8
+|1.4
+|1.4
+|–
+|–
+|–
+|1.8
+|–
+|30.4
+|6.9
+|style="background:{{Slovenian Democratic Party/meta/color}}" |5.8
+|<ref>{{Cite web|title=Aktualna vprašanja – avg 2021 – Ninamedia|url=http://ninamedia.si/arhivi/825|access-date=2021-09-18|language=sl-SI}}</ref>
+|-
+|data-sort-value="2021-08-05"|2–5 Aug 2021
 |Mediana
 |[[Delo (newspaper)|''Delo'']]
-|–
+|717
 |style="background:#FFFFBF" |'''17.1'''
 |7.3
 |12.7
 |0.7
-|8.4
+|8.6
 |3.7
-|–
-|–
-|–
-|–
-|–
-|–
-|–
+|2.1
+|1.6
+|1.8
+|2.0
+|2.6
+|0.8
+|2.3
 |2.8
 |10.7
 |19.4
-|–
+|3.7
 |style="background:{{Slovenian Democratic Party/meta/color}}"| 4.4
-|<ref>{{Cite web|title=Pahor znova vodilni na lestvici priljubljenosti|url=https://www.delo.si/novice/slovenija/tudi-med-pocitnicami-kriticni-do-politike/|access-date=2021-08-09|website=www.delo.si|language=sl-si}}</ref>
+|<ref>{{Cite web|title=Anketa: SDS še naprej prvi, Pahor znova najbolj priljubljen|url=https://www.rtvslo.si/slovenija/anketa-sds-se-naprej-prvi-pahor-znova-najbolj-priljubljen/590274|access-date=2021-09-12|website=www.rtvslo.si|language=sl-si}}</ref>
 |-
-|25 Jul 2021{{efn|name=date|Publication date}}
+|data-sort-value="2021-07-25"|25 Jul 2021{{efn|name=date|Publication date}}
 |Mediana
 |[[Pop (Slovenian TV channel)|POPTV]]
 |714
@@ -139,7 +211,7 @@ Poll results are listed in the table in reverse chronological order, showing the
 |style="background:{{Slovenian Democratic Party/meta/color}}"|6.3
 |<ref>{{Cite web|title=Po referendumu o vodi – vse po starem: z delom vlade zadovoljna slaba tretjina vprašanih|url=https://www.24ur.com/novice/slovenija/po-referendumu-o-vodi-vse-po-starem-z-delom-vlade-zadovoljna-slaba-tretjina-vprasanih.html|access-date=2021-07-26|website=www.24ur.com|language=sl}}</ref>
 |-
-|13–15 Jul 2021
+|data-sort-value="2021-07-15"|13–15 Jul 2021
 |Ninamedia
 |[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
 |700
@@ -225,7 +297,7 @@ Poll results are listed in the table in reverse chronological order, showing the
 |1.9
 |1.6
 |{{efn|name=PoS}}
-|2.7{{efn|Our Country 1.5%, Green Action Party 0.4%}}
+|2.7{{efn|[[Our Country (Slovenia)|Our Country]] 1.5%, [[Green Actions]] 0.4%}}
 |10.9
 |13.9
 |10.1
@@ -271,7 +343,7 @@ Poll results are listed in the table in reverse chronological order, showing the
 |3
 |2
 |{{efn|name=PoS}}
-|4{{efn|Green Action Party 2%, Our Country 1%}}
+|4{{efn|[[Green Actions]] 2%, [[Our Country (Slovenia)|Our Country]] 1%}}
 |–
 |5
 |–
@@ -317,7 +389,7 @@ Poll results are listed in the table in reverse chronological order, showing the
 |1.5
 |0.2
 |{{efn|name=PoS}}
-|3.9{{efn|Our Country 1.7%, Green Action Party 0.7%}}
+|3.9{{efn|[[Our Country (Slovenia)|Our Country]] 1.7%, [[Green Actions]] 0.7%}}
 |8.8
 |19.4
 |12.4
@@ -1644,7 +1716,7 @@ Parsifal: Javnomnenjska anketa - SDS bi volilo toliko volivcev kot vse štiri st
 | style="background:{{Slovenian Democratic Party/meta/color}}"|6.8
 |<ref>{{Cite web|url=https://www.24ur.com/novice/slovenija/vladi-manj-kot-polovicna-podpora-sds-povecuje-prednost.html|title=Vsak dan prvi - 24ur.com|website=www.24ur.com|access-date=2020-04-15}}</ref>
 |-
-|data-sort-value="2018-09-13"|13 Mar 2018
+|data-sort-value="2020-09-13"|13 Mar 2020
 !colspan=23|The [[14th Government of Slovenia]], a center-right minority government led by [[Janez Janša]], is voted in.
 |-
 |data-sort-value="2020-03-12"|10–12 Mar 2020

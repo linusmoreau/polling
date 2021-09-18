@@ -1,5 +1,5 @@
 === 2021 ===
-{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+{| class="wikitable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
 |- style="height:38px;"
 ! rowspan="2" class="unsortable" width="100px" | Fieldwork date
 ! rowspan="2" class="unsortable" width="155px" | Polling firm
@@ -25,6 +25,54 @@
 | style="background-color: {{Social Democratic Party (Japan)/meta/color}}" |
 | style="background-color: {{Reiwa Shinsengumi/meta/color}}" |
 | style="background-color: {{The Party to Protect the People from NHK/meta/color}}" |
+|-
+|11-12 Sep
+|[https://www.asahi.com/articles/ASP9F4GB2P9DUZPS001.html Asahi Shimbun]
+| {{Party shading/Liberal Democratic Party (Japan)}} |'''43'''
+|11
+|6
+|6
+|6
+|2
+|1
+|1
+|0
+|2
+|22
+|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''32'''
+|-
+|9-11 Sep
+|[https://vdata.nikkei.com/newsgraphics/cabinet-approval-rating/# Nikkei]
+| {{Party shading/Liberal Democratic Party (Japan)}} |'''53'''
+|12
+|2
+|5
+|4
+|1
+|0
+|1
+|0
+|0
+|22
+|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''41'''
+|-
+|4-5 Sep
+|[https://www.yomiuri.co.jp/election/yoron-chosa/20210906-OYT1T50066/ Yomiuri Shimbun]
+| {{Party shading/Liberal Democratic Party (Japan)}} |'''42'''
+|11
+|4
+|5
+|4
+|1
+|1
+|1
+|0
+|0
+|31
+|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''31'''
+|-
+! 3 Sep
+! colspan="13" | [[Yoshihide Suga]] announces he will not seek re-election as President of the [[Liberal Democratic Party (Japan)|LDP]].
 |-
 |27-29 Aug
 |[https://txbiz.tv-tokyo.co.jp/txn/kaisetsu/post_235096 Nikkei & TV Tokyo]
@@ -55,6 +103,21 @@
 |
 |37
 |style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''10'''
+|-
+|21-22 Aug
+|[https://www.tv-asahi.co.jp/hst/poll/202108/ ANN]
+| {{Party shading/Liberal Democratic Party (Japan)}} |'''32.8'''
+|8.7
+|3.2
+|3.9
+|2.8
+|1.0
+|0.2
+|0.6
+|0.1
+|3.6
+|43.1
+|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''24.1'''
 |-
 |21-22 Aug
 |[https://www.fnn.jp/articles/-/228023 FNN-Sankei]

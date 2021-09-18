@@ -26,8 +26,22 @@ The following are opinion polls conducted for the legislative elections, measuri
 | style="background:#009C3D" <!-- Centre Party -->|
 | style="background:{{Freedom and Justice/meta/color}}" <!-- Freedom and Justice --> |
 |-
+|[https://www.delfi.lt/news/daily/lithuania/triju-partiju-reitingai-susilygino-radikalizuojasi-vyriausybes-vertinimas.d?id=88192685 Spinter tyrimai]
+|24–31 August 2021
+|style="background:#A7F2ED" <!-- TS-KD --> |'''18.9'''
+|<!-- Lithuanian Farmers and Greens Union -->|'''17.3'''
+|<!-- Labour Party --> |'''9.5'''
+|<!-- Social Democratic Party of Lithuania --> |'''18.6'''
+|<!-- Laisves--> |'''8.3'''
+|<!-- LRLS--> |'''10.9'''
+|<!-- Electoral Action of Poles in Lithuania--> |-
+|<!-- LSDDP--> |4.5
+|<!-- Lithuanian Centre Party--> |-
+|<!-- Freedom and Justice --> |-
+|style="background:#A7F2ED" |0.3
+|-
 |[https://archive.is/bQ0S2 Vilmorus]
-|29 July - 5 August 2021
+|29 July – 5 August 2021
 |<!-- TS-KD --> |'''19.5'''
 | Lithuanian Farmers and Greens Union --> |'''23.2'''
 |<!-- Labour Party --> |'''8.7'''
@@ -41,7 +55,7 @@ The following are opinion polls conducted for the legislative elections, measuri
 | style="background:#E10514" |0.4
 |-
 |[https://www.delfi.lt/news/daily/lithuania/naujausi-reitingai-tam-tikra-prasme-gera-zinia-valdantiesiems.d?id=87711605 Spinter tyrimai]
-|17-28 June 2021
+|17–28 June 2021
 |<!-- TS-KD --> |'''20.8'''
 |style="background:#6EF380" Lithuanian Farmers and Greens Union --> |'''22.8'''
 |<!-- Labour Party --> |'''6.3'''
@@ -55,7 +69,7 @@ The following are opinion polls conducted for the legislative elections, measuri
 | style="background:#6EF380" |2.0
 |-
 |[https://www.lrytas.lt/lietuvosdiena/aktualijos/2021/06/26/news/reitinguose-audros-konservatoriai-nubloksti-socialdemokratai-pakyleti-prastos-zinios-ir-i-simonytei-19876804/ Vilmorus]
-|9-18 June 2021
+|9–18 June 2021
 |<!-- TS-KD --> |'''20.2'''
 |style="background:#6EF380" Lithuanian Farmers and Greens Union --> |'''25.9'''
 |<!-- Labour Party --> |'''8.9'''
@@ -69,7 +83,7 @@ The following are opinion polls conducted for the legislative elections, measuri
 | style="background:#6EF380" |5.7
 |-
 |[https://kauno.diena.lt/naujienos/lietuva/politika/partiju-reitinguose-permainos-konservatoriai-uzleido-lyderiu-pozicijas-ekspertai-izvelgia-rizikas-1032835/ Baltijos tyrimai]
-|20 May - 2 June 2021
+|20 May – 2 June 2021
 |<!-- TS-KD --> |'''17.3'''
 |style="background:#6EF380" Lithuanian Farmers and Greens Union --> |'''22.0'''
 |<!-- Labour Party --> |'''11.9'''
@@ -83,7 +97,7 @@ The following are opinion polls conducted for the legislative elections, measuri
 | style="background:#6EF380" |2.0
 |-
 |[https://twitter.com/EuropeElects/status/1405917462051405826?s=20 Spinter tyrimai]
-|18-28 May 2021
+|18–28 May 2021
 |style="background:#A7F2ED" <!-- TS-KD --> |'''23.0'''
 |<!-- Lithuanian Farmers and Greens Union --> |'''22.0'''
 |<!-- Labour Party --> |'''7.6'''
@@ -97,7 +111,7 @@ The following are opinion polls conducted for the legislative elections, measuri
 | style="background:#A7F2ED" |1.0
 |-
 |[https://twitter.com/EuropeElects/status/1399327914982887425?s=20/ Vilmorus]
-|11-21 May 2021
+|11–21 May 2021
 |<!-- TS-KD --> |'''24.5'''
 |style="background:#6EF380" <!-- Lithuanian Farmers and Greens Union --> |'''26.8'''
 |<!-- Labour Party --> |'''7.3'''
@@ -111,7 +125,7 @@ The following are opinion polls conducted for the legislative elections, measuri
 | style="background:#6EF380" |2.3
 |-
 |[https://twitter.com/EuropeElects/status/1391991009031118850?s=20 Spinter tyrimai]
-|19-28 April 2021
+|19–28 April 2021
 |style="background:#A7F2ED" <!-- TS-KD --> |'''23.7'''
 |<!-- Lithuanian Farmers and Greens Union --> |'''23.1'''
 |<!-- Labour Party --> |'''7.4'''
@@ -125,7 +139,7 @@ The following are opinion polls conducted for the legislative elections, measuri
 | style="background:#A7F2ED" |0.6
 |-
 |[https://www.lrytas.lt/lietuvosdiena/aktualijos/2021/04/24/news/reitingai-ryskus-g-nausedos-krytis-ir-rinkeju-signalai-ministru-kabinetui-19128393/ Vilmorus]
-|8-17 April 2021
+|8–17 April 2021
 |style="background:#A7F2ED" <!-- TS-KD --> |'''29.2'''
 |<!-- Lithuanian Farmers and Greens Union --> |'''26.5'''
 |<!-- Labour Party --> |'''6.7'''
@@ -139,7 +153,7 @@ The following are opinion polls conducted for the legislative elections, measuri
 | style="background:#A7F2ED" |2.7
 |-
 |[https://twitter.com/EuropeElects/status/1382312752446910465 Spinter tyrimai]
-|17-23 March 2021
+|17–23 March 2021
 |style="background:#A7F2ED" <!-- TS-KD --> |'''23.5'''
 |<!-- Lithuanian Farmers and Greens Union --> |'''21.1'''
 |<!-- Labour Party --> |'''7.4'''
@@ -153,7 +167,7 @@ The following are opinion polls conducted for the legislative elections, measuri
 | style="background:#A7F2ED" |2.4
 |-
 |[https://www.delfi.lt/news/daily/lithuania/naujausi-reitingai-uz-karantina-baudzia-simonyte-intriga-kelia-skvernelio-pozicija.d?id=86680545 Spinter tyrimai]
-|17-26 February 2021
+|17–26 February 2021
 |style="background:#A7F2ED" <!-- TS-KD --> |'''25.6'''
 |<!-- Lithuanian Farmers and Greens Union --> |'''18.3'''
 |<!-- Labour Party --> |'''5.8'''
@@ -167,7 +181,7 @@ The following are opinion polls conducted for the legislative elections, measuri
 | style="background:#A7F2ED" |7.3
 |-
 |[https://www.delfi.lt/news/daily/lithuania/naujausi-reitingai-siuncia-signalus-visoms-partijoms-dideja-atotrukis-tarp-valstieciu-ir-konservatoriu.d?id=86436355 Spinter tyrimai]
-|18-27 January 2021
+|18–27 January 2021
 |style="background:#A7F2ED" <!-- TS-KD --> |'''27.2'''
 |<!-- Lithuanian Farmers and Greens Union --> |'''16.1'''
 |<!-- Labour Party --> |'''6'''
@@ -181,7 +195,7 @@ The following are opinion polls conducted for the legislative elections, measuri
 | style="background:#A7F2ED" |11.1
 |-
 |[https://www.delfi.lt/news/daily/lithuania/naujausi-reitingai-ispudingas-pasitikejimas-simonyte-ir-laisves-partijos-suolis.d?id=86186429 Spinter tyrimai]
-|10-20 December 2020
+|10–20 December 2020
 |style="background:#A7F2ED" <!-- TS-KD --> |'''23.3'''
 |<!-- Lithuanian Farmers and Greens Union -->|'''19.7'''
 |<!-- Labour Party --> |'''8.1'''
@@ -195,7 +209,7 @@ The following are opinion polls conducted for the legislative elections, measuri
 |style="background:#A7F2ED" |3.6
 |-
 |[https://www.delfi.lt/news/daily/lithuania/pirmieji-partiniai-reitingai-po-seimo-rinkimu-ts-lkd-startavo-kaip-ir-2008-m-vadovaujant-kubiliui.d?id=85986993 Baltijos tyrimai]
-| 6–30 November 2020
+|6–30 November 2020
 |style="background:#A7F2ED" <!-- TS-KD --> |'''22.7'''
 |<!-- Lithuanian Farmers and Greens Union -->|'''19'''
 |<!-- Labour Party --> |'''10.5'''

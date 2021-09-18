@@ -11,7 +11,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! class="unsortable" style="width:45px;" rowspan="2"| Turnout
 ! class="sortable" style="width:35px;"| [[File:Partido Socialista (1973-).png|30px|link=Socialist Party (Portugal)|PS]]
 ! class="sortable" style="width:35px;"| [[File:Partido Social Democrata Logo.svg|35px|link=Social Democratic Party (Portugal)|PSD]]
-! class="sortable" style="width:35px;"| [[File:LeftBloc.svg|25px|link=Left Bloc|BE]]
+! class="sortable" style="width:35px;"| [[File:LeftBloc.svg|25px|link=Left Bloc (Portugal)|BE]]
 ! class="sortable" style="width:35px;"| [[File:PCP (Símbolo Eleitoral).png|14px|link=Unitary Democratic Coalition|CDU]][[File:Partido Ecologista "Os Verdes" (Símbolo Eleitoral).png|14px|link=Unitary Democratic Coalition|CDU]]
 ! class="sortable" style="width:35px;"| [[File:Cds simbolo 2.png|25px|link=CDS – People's Party|CDS–PP]]
 ! class="sortable" style="width:35px;"| [[File:Pessoas-Animais-Natureza.png|35px|link=People–Animals–Nature|PAN]]
@@ -23,7 +23,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |-
 ! class="sortable" style="background:{{Socialist Party (Portugal)/meta/color}};"|
 ! class="sortable" style="background:{{Social Democratic Party (Portugal)/meta/color}};"|
-! class="sortable" style="background:{{Left Bloc/meta/color}};"|
+! class="sortable" style="background:{{Left Bloc (Portugal)/meta/color}};"|
 ! class="sortable" style="background:{{Unitary Democratic Coalition/meta/color}};"|
 ! class="sortable" style="background:{{CDS – People's Party/meta/color}};"|
 ! class="sortable" style="background:{{People–Animals–Nature/meta/color}};"|

@@ -24,6 +24,188 @@
 ! style="background:{{Alliance 90/The Greens/meta/color}};"|
 ! style="background:{{Freie Wähler/meta/color}};"|
 |-
+| [https://www.wahlrecht.de/umfragen/ipsos.htm Ipsos]
+| data-sort-value="2021-09-17"| 15–16 Sep 2021
+| 2,000
+| –
+| 21
+| {{Party shading/SPD}}| '''27'''
+| 11
+| 10
+| 7
+| 18
+| –
+| 6
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+|-
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| data-sort-value="2021-09-17"| 14–16 Sep 2021
+| 1,406
+| 22
+| 22
+| {{Party shading/SPD}}| '''25'''
+| 11
+| 11
+| 6
+| 16
+| –
+| 9
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 3
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| data-sort-value="2021-09-16"| 13–15 Sep 2021
+| 1,512
+| –
+| 22
+| {{Party shading/SPD}}| '''26'''
+| 11
+| 11
+| 6
+| 15
+| 3
+| 6
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlkreisprognose.de/2021/09/16/im-bund-laschet-legt-bei-k-frage-zu-parteikompetenz-fuer-mehrheit-wahlentscheidend/ Wahlkreisprognose]
+| data-sort-value="2021-09-16"| 13–15 Sep 2021
+| 1,400
+| –
+| 20
+| {{Party shading/SPD}}| '''27'''
+| 11
+| 12.5
+| 6.5
+| 15
+| –
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
+|-
+| [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-zur-bundestagswahl-union-stoppt-abwaertstrend-a-3ca176e2-03ed-4636-b491-2ac246f3ea52 Civey]
+| data-sort-value="2021-09-15"| 8–15 Sep 2021
+| 10,029
+| –
+| 23
+| {{Party shading/SPD}}| '''25'''
+| 10
+| 12
+| 6
+| 17
+| –
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
+| data-sort-value="2021-09-16"| 9–14 Sep 2021
+| 1,816
+| –
+| 20
+| {{Party shading/SPD}}| '''25'''
+| 11
+| 10
+| 8
+| 15
+| 3
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-09-16"| 8–14 Sep 2021
+| 1,543
+| –
+| 20
+| {{Party shading/SPD}}| '''26'''
+| 12
+| 11
+| 6
+| 17
+| –
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-09-13"| 10–13 Sep 2021
+| 2,062
+| –
+| 20.5
+| {{Party shading/SPD}}| '''26'''
+| 11.5
+| 12.5
+| 6.5
+| 15
+| –
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5.5
+|-
+| [https://www.wahlrecht.de/umfragen/gms.htm GMS]
+| data-sort-value="2021-09-14"| 8–13 Sep 2021
+| 1,003
+| –
+| 23
+| {{Party shading/SPD}}| '''25'''
+| 11
+| 13
+| 6
+| 16
+| –
+| 6
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| data-sort-value="2021-09-14"| 7–13 Sep 2021
+| 2,501
+| 25
+| 21
+| {{Party shading/SPD}}| '''25'''
+| 11
+| 11
+| 6
+| 17
+| 3
+| 6
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| data-sort-value="2021-09-12"| 6–10 Sep 2021
+| 1,152
+| –
+| 20
+| {{Party shading/SPD}}| '''26'''
+| 11
+| 13
+| 6
+| 15
+| –
+| 9
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+|-
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| data-sort-value="2021-09-10"| 7–9 Sep 2021
+| 1,281
+| 25
+| 22
+| {{Party shading/SPD}}| '''25'''
+| 11
+| 11
+| 6
+| 17
+| 3
+| 5
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 3
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| data-sort-value="2021-09-07"| 1–7 Sep 2021
+| 1,901
+| –
+| 21
+| {{Party shading/SPD}}| '''25'''
+| 12
+| 12
+| 6
+| 17
+| –
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+|-
 | [https://www.wahlkreisprognose.de/2021/09/08/im-bund-gewinne-fuer-scholz-und-laschet-bei-k-frage-spd-baut-vorsprung-auf-union-aus/ Wahlkreisprognose]
 | data-sort-value="2021-09-08"| 6–8 Sep 2021
 | 1,208
@@ -51,6 +233,20 @@
 | –
 | 7
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
+| data-sort-value="2021-09-10"| 3–7 Sep 2021
+| 1,700
+| –
+| 21
+| {{Party shading/SPD}}| '''26'''
+| 12
+| 10
+| 6
+| 15
+| –
+| 10
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
 |-
 | [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
 | data-sort-value="2021-09-08"| 1–7 Sep 2021

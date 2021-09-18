@@ -25,6 +25,51 @@
 ! style="background:{{Christian Democrats (Sweden)/meta/color}};"|
 ! style="background:{{Sweden Democrats/meta/color}};"|
 |-
+|Sifo<ref>{{Cite news|title=SIFO VÄLJARBAROMETER SEPTEMBER 2021
+|language=sv|url=https://www.kantarsifo.se/rapporter-undersokningar/sifo-valjarbarometer-september-2021|access-date=2021-09-17}}</ref>
+|6-16 Sep 2021
+|6,488
+|10.6
+| style="background:#F9BDC5;" |'''26.1'''
+|4.2
+|8.9
+|3.0
+|21.5
+|4.7
+|19.6
+|1.4
+|style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |4.6
+|-
+|SKOP<ref>{{Cite news|title=SKOP:S VÄLJARBAROMETER, DEN 16 SEPTEMBER 2021
+|language=sv|url=https://skop.se/main/wp-content/uploads/2021/09/SKOPs-Valjarbarometer-16-september-2021.pdf|access-date=2021-09-16}}</ref>
+|3-11 Sep 2021
+|1,030
+|12.5
+| style="background:#F9BDC5;" |'''25.8'''
+|3.4
+|9.6
+|2.4
+|21.6
+|5.0
+|18.5
+|1.2
+|style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |4.2
+|-
+|Demoskop<ref>{{Cite news|title=Väljarbarometern september 2021
+|language=sv|url=https://demoskop.se/valjarbarometern-september-2021/|access-date=2021-09-10}}</ref>
+|31 Aug-8 Sep 2021
+|2,199
+|8.2
+| style="background:#F9BDC5;" |'''26.7'''
+|3.5
+|9.7
+|2.5
+|22.1
+|5.6
+|20.7
+|0.9
+|style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |4.6
+|-
 |Sentio<ref>{{Cite news|title=Totalkris för L och konservativ majoritet i Sentio augusti|language=sv|url=https://nyheteridag.se/plus/totalkris-for-l-och-konservativ-majoritet-i-sentio-augusti/|access-date=2021-09-06}}</ref>
 |26–29 Aug 2021
 |–

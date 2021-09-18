@@ -42,6 +42,24 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 !style=background:{{United Arab List/meta/color}} |
 !style=background:{{Yesh Atid/meta/color}} |
 |-
+|data-sort-value=2021-09-12 |12 Sep 21
+|Smith
+|–<ref>{{cite tweet |user=TLidror |number=1437426749663547396 |title=פרסום ראשון |language=he}}</ref>
+|style=background:#BBCDE4 |'''33'''	<!-- Likud		-->
+|22					<!-- Yesh Atid		-->
+|8					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|5					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|7					<!-- Yisrael Beiteinu	-->
+|8					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|{{small|(1.8%)}}	<!-- New Hope		-->
+|5					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|58					<!-- Gov		-->
+|-
 |data-sort-value=2021-09-01 |1 Sep 21
 |Smith
 |''[[Galei Israel]]''<ref>{{cite news |title=סקר: סער לא עובר • 62 לגוש הימין עם בנט |url=https://www.kikar.co.il/400459.html |author=Yoni Gabay |access-date=2 Sep 2021 |date=2 Sep 2021 |work=Kikar HaShabbat |lang=he}}</ref>

@@ -14,7 +14,7 @@
 ! class="unsortable" style="width:40px"| [[Bloc Québécois|BQ]]
 ! class="unsortable" style="width:40px"| [[Green Party of Canada|GPC]]
 ! class="unsortable" style="width:40px"| [[People's Party of Canada|PPC]]
-! rowspan="2" style="width:40px" | [[List of political parties in Canada|Other]]
+! rowspan="2" style="width:40px" | [[List of political parties in Canada|Other]]s
 ! rowspan="2"| Margin<br>of error{{efn|name=MOE|In cases when linked poll details distinguish between the margin of error associated with the total sample of respondents (including undecided and non-voters) and that of the subsample of decided/leaning voters, the former is included in the table. Also not included is the margin of error created by rounding to the nearest whole number or any margin of error from methodological sources. Most online polls (because of their opt-in method of recruiting panelists which results in a non-random sample) cannot have a margin of error. In such cases, shown is what the margin of error would be for a survey using a random probability-based sample of equivalent size.}}
 ! rowspan="2"| Sample<br>size{{efn|name=sample|Refers to the total, "raw" sample size, including undecided and non-voters, and before demographic weighting is applied. Fractions in parentheses apply to rolling polls (see below) and indicate the proportion of the sample that is independent from the previous poll in the series.}}
 ! rowspan="2"| Polling method{{efn|name=method|"Telephone" refers to traditional telephone polls conducted by live interviewers; "IVR" refers to automated [[Interactive Voice Response]] polls conducted by telephone; "online" refers to polls conducted exclusively over the internet; "telephone/online" refers to polls which combine results from both telephone and online surveys, or for which respondents are initially recruited by telephone and then asked to complete an online survey. "Rolling" polls contain overlapping data from one poll to the next.}}
@@ -26,6 +26,102 @@
 ! style="background:{{Canadian party colour|CA|BQ}}" data-sort-type="number"|
 ! style="background:{{Canadian party colour|CA|Green}}" data-sort-type="number"|
 ! style="background:{{Canadian party colour|CA|PPC}}" data-sort-type="number"|
+|-
+| [[Nanos Research]] || {{dts|September 17, 2021}} || [https://nanos.co/wp-content/uploads/2021/09/2021-1947-ELXN44-Nightly-Tracking-Report-2021-09-17K4rl6s.pdf PDF] || 29.2 || {{Party shading/Liberal}}|'''31.3''' || 20.9 || 6.4 || 3.9 || 7.3 || 1.0 || ±2.8 pp || 1,241 (1/3) || telephone (rolling) || {{Party shading/Liberal}}|'''2.1''' 
+|-
+| [[Mainstreet Research]] || {{dts|September 17, 2021}} || [https://archive.ph/ozjAd HTML] || 30.8 || {{Party shading/Liberal}}| '''31.0''' || 19.9 || 6.6 || 2.5 || 8.4 || 0.9 || ±2.2 pp || 1,871 (1/3) || IVR (rolling) || {{Party shading/Liberal}}|'''0.2'''
+|-
+| [[Abacus Data]] || {{dts|September 17, 2021}} || [https://abacusdata.ca/daily-tracking-poll-election-44-sept-17/ HTML] || 32 || {{Party shading/Liberal}}| '''33''' || 21 || 6 || 2 || 5 || 1 || ±2.7 pp || 1,333 (1/3) || online (rolling) || {{Party shading/Liberal}}|'''1''' 
+|-
+| [[Léger Marketing|Leger]] || {{dts|September 17, 2021}} || [https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/Federal_Politics-Sept.-18th-2021_VF-002.pdf PDF] || {{Party shading/Conservative (Canada)}}| '''33''' || 32 || 19 || 7 || 2 || 6 || 1 || ±2.5 pp || 2,147 || online || {{Party shading/Conservative (Canada)}} | '''1'''
+|-
+| [[Ekos Research Associates|EKOS]] || {{dts|September 16, 2021}} || [https://www.ekospolitics.com/index.php/2021/09/daily-tracking-september-17-2021/ HTML] || {{Party shading/Conservative (Canada)}}|'''30.6''' || 30.4 || 18.5 || 7.0 || 4.1 || 8.5 || 0.9 || ±2.6 pp || 1,384 (1/3) || IVR (rolling) || {{Party shading/Conservative (Canada)}}|'''0.2'''
+|-
+| [[Nanos Research]] || {{dts|September 16, 2021}} || [https://nanos.co/wp-content/uploads/2021/09/2021-1947-ELXN44-Nightly-Tracking-Report-2021-09-16Pe43s2.pdf PDF] || 30.4 || {{Party shading/Liberal}}|'''31.9''' || 20.3 || 5.8 || 3.2 || 7.5 || 0.8 || ±2.8 pp || 1,228 (1/3) || telephone (rolling) || {{Party shading/Liberal}}|'''1.5''' 
+|-
+| [[Mainstreet Research]] || {{dts|September 16, 2021}} || [https://archive.md/SuSzv HTML] || {{Party shading/Conservative (Canada)}}|'''31.9''' || 29.5 || 19.5 || 6.4 || 3.0 || 8.8 || 0.9 || ±2.3 pp || 1,749 (1/3) || IVR (rolling) || {{Party shading/Conservative (Canada)}}|'''2.4'''
+|-
+| [[Abacus Data]] || {{dts|September 16, 2021}} || [https://abacusdata.ca/daily-tracking-poll-election-44-sept-16/ HTML] || 30 || {{Party shading/Liberal}}| '''34''' || 21 || 6 || 3 || 5 || 1 || ±2.9 pp || 1,604 (1/3) || online (rolling) || {{Party shading/Liberal}}|'''4''' 
+|-
+| Campaign Research || {{dts|September 16, 2021}} || [https://www.campaignresearch.com/single-post/a-vote-for-the-ppc-instead-of-the-cpc-will-give-trudeau-a-minority-and-potentially-a-majority-gov HTML] || {{Party shading/Conservative (Canada)}}|'''31''' || {{Party shading/Liberal}}|'''31''' || 21 || 7 || 4 || 5 || 1 || ±1 pp || 5,163 || online || '''0'''
+|-
+| [[Ekos Research Associates|EKOS]] || {{dts|September 15, 2021}} || [https://www.ekospolitics.com/index.php/2021/09/daily-tracking-september-16-2021/ HTML] || 30.4 || {{Party shading/Liberal}}|'''32.1''' || 18.4 || 6.3 || 3.8 || 8.2 || 0.7 || ±2.6 pp || 1,446 (1/3) || IVR (rolling) || {{Party shading/Liberal}}|'''1.7'''
+|-
+| [[Nanos Research]] || {{dts|September 15, 2021}} || [https://nanos.co/wp-content/uploads/2021/09/2021-1947-ELXN44-Nightly-Tracking-Report-2021-09-15On746s.pdf PDF] || 30.3 || {{Party shading/Liberal}}|'''31.9''' || 21.2 || 6.4 || 3.2 || 6.7 || 0.4 || ±2.8 pp || 1,237 (1/3) || telephone (rolling) || {{Party shading/Liberal}}|'''1.6''' 
+|-
+| [[Mainstreet Research]] || {{dts|September 15, 2021}} || [https://archive.md/2eBrk HTML] || {{Party shading/Conservative (Canada)}}| '''32.0 ''' || 30.2 || 18.9 || 6.4 || 2.9 || 8.7 || 0.8 || ±2.3 pp ||  1,753 (1/3) || IVR (rolling) || {{Party shading/Conservative (Canada)}}|'''1.8'''
+|-
+| [[Abacus Data]] || {{dts|September 15, 2021}} || [https://abacusdata.ca/daily-tracking-poll-election-44-sept-15/ HTML] || 31 || {{Party shading/Liberal}}| '''33''' || 22 || 5 || 3 || 5 || 2 || ±2.9 pp || 1,578 || online (rolling) || {{Party shading/Liberal}}|'''2''' 
+|-
+| [[Ekos Research Associates|EKOS]] || {{dts|September 14, 2021}} || [https://www.ekospolitics.com/index.php/2021/09/daily-tracking-september-15-2021/ HTML] || {{Party shading/Conservative (Canada)}}|'''31.8''' || {{Party shading/Liberal}}| '''31.8''' || 19.1 || 6.4 || 3.3 || 6.9 || 0.7 || ±2.7 pp || 1,322 (1/3) || IVR (rolling) || '''0.0'''
+|-
+| [[Nanos Research]] || {{dts|September 14, 2021}} || [https://nanos.co/wp-content/uploads/2021/09/2021-1947-ELXN44-Nightly-Tracking-Report-2021-09-14d4R7hd.pdf PDF] || {{Party shading/Conservative (Canada)}}|'''31.2''' || 30.5 || 21.4 || 6.2 || 3.7 || 6.8 || 0.3 || ±2.8 pp || 1,281 (1/3) || telephone (rolling) || {{Party shading/Conservative (Canada)}}|'''0.7''' 
+|-
+| [[Mainstreet Research]] || {{dts|September 14, 2021}} || [https://archive.md/OAtYr HTML] || {{Party shading/Conservative (Canada)}}|'''31.4''' || {{Party shading/Liberal}}| '''31.4''' || 17.5 || 7.0 || 3.3 || 8.7 || 0.6 || ±2.3 pp || 1,774 (1/3) || IVR (rolling) || '''0.0'''
+|-
+| [[Ekos Research Associates|EKOS]] || {{dts|September 13, 2021}} || [https://www.ekospolitics.com/index.php/2021/09/daily-tracking-september-14-2021/ HTML] || {{Party shading/Conservative (Canada)}}|'''32.2''' || 31.2 || 19.4 || 6.2 || 3.1 || 7.3 || 0.6 || ±2.8 pp || 1,241 (1/3) || IVR (rolling) || {{Party shading/Conservative (Canada)}}|'''1.0'''
+|-
+| Research Co. || {{dts|September 13, 2021}} || [https://researchco.ca/wp-content/uploads/2021/09/Release_Politics_CAN_14Sep2021.pdf PDF] || 30 || {{Party shading/Liberal}}| '''34''' || 20 || 7 || 3 || 5 || 1 || ±3.1 pp || 1,000 || online || {{Party shading/Liberal}}|'''4''' 
+|-
+| [[Nanos Research]] || {{dts|September 13, 2021}} || [https://nanos.co/wp-content/uploads/2021/09/2021-1947-ELXN44-Nightly-Tracking-Report-2021-09-13K6yl5e.pdf PDF] || 31.2 || {{Party shading/Liberal}}| '''32.3''' || 18.9 || 6.4 || 3.8 || 6.7 || 0.8 || ±2.8 pp || 1,264 (1/3) || telephone (rolling) || {{Party shading/Liberal}}|'''1.1''' 
+|-
+| [[Mainstreet Research]] || {{dts|September 13, 2021}} || [https://archive.md/SA3Rp HTML] || 29.5 || {{Party shading/Liberal}}| '''33.5''' || 16.4 || 7.5 || 3.3 || 9.1 || 0.7 || ±2.3 pp || 1,732 (1/3) || IVR (rolling) || {{Party shading/Liberal}}|'''4.0'''
+|-
+| [[Ipsos]] || {{dts|September 13, 2021}} || [https://www.ipsos.com/en-ca/news-polls/liberals-and-tories-are-neck-and-neck-while-ndp-vote-holds-steady HTML] || {{Party shading/Conservative (Canada)}}| '''32''' || {{Party shading/Liberal}}| '''32''' || 21 || 7 || 4 || 3 || 1 || ±2.5 pp || 2,001 || online/telephone || '''0'''
+|-
+| [[Léger Marketing|Leger]] || {{dts|September 13, 2021}} || [https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/Legers-North-American-Tracker-September-13th-2021-compressed.pdf PDF] || {{Party shading/Conservative (Canada)}}| '''32''' || {{Party shading/Liberal}}| '''32''' || 20 || 7 || 3 || 5 || 1 || ±2.19 pp || 2,001 || online || '''0'''
+|-
+| [[YouGov|YouGov]] || {{dts|September 13, 2021}} || [https://www.linkedin.com/feed/update/urn:li:activity:6843642862538760193/ HTML] || {{Party shading/Conservative (Canada)}}| '''32''' || 29 || 19 || 6 || 5 || 5 || 4 || ±3.4 pp || 925 || online || {{Party shading/Conservative (Canada)}}|'''3'''
+|-
+| Earnscliffe/[[Léger Marketing|Leger]] || {{dts|September 12, 2021}} || [https://earnscliffe.ca/en/news-and-insight/federal-election-polling-update-week-5/ HTML] || {{Party shading/Conservative (Canada)}}| '''32''' || {{Party shading/Liberal}}| '''32''' || 20 || 7 || 4 || 5 || 1	|| {{n/a}} || 1,549 || online || '''0'''
+|-
+| Innovative Research|| {{dts|September 12, 2021}} || [https://innovativeresearch.ca/wp-content/uploads/2021/09/CTM2109-Federal-Tracking-Report-RELEASE.pdf PDF] || 28 || {{Party shading/Liberal}}|'''33''' || 22 || 7 || 4 || 4 || 1 || {{n/a}} || 3,203 || online || {{Party shading/Liberal}}|'''5'''
+|-
+| [[Ekos Research Associates|EKOS]] || {{dts|September 12, 2021}} || [https://www.ekospolitics.com/index.php/2021/09/daily-tracking-september-13-2021/ HTML] || {{Party shading/Conservative (Canada)}}|'''31.9''' || 30.3 || 20.3 || 6.0 || 3.7 || 7.0 || 0.8 || ±2.9 pp || 1,115 (1/3) || IVR (rolling) || {{Party shading/Conservative (Canada)}}|'''1.6'''
+|-
+| [[Nanos Research]] || {{dts|September 12, 2021}} || [https://nanos.co/wp-content/uploads/2021/09/2021-1947-ELXN44-Nightly-Tracking-Report-2021-09-12rW4783f.pdf PDF] || 30.2 || {{Party shading/Liberal}}| '''33.2''' || 18.6 || 6.8 || 3.8 || 6.6 || 0.8 || ±2.8 pp || 1,268 (1/3) || telephone (rolling) || {{Party shading/Liberal}}|'''3.0''' 
+|-
+| [[Mainstreet Research]] || {{dts|September 12, 2021}} || [https://archive.md/iRpHO HTML] || 28.6 || {{Party shading/Liberal}}| '''33.5''' || 17.1 || 7.9 || 3.7 || 8.4 || 0.9 || ±2.3 pp || 1,711 (1/3) || IVR (rolling) || {{Party shading/Liberal}}|'''4.9'''
+|-
+| [[Abacus Data]] || {{dts|September 12, 2021}} || [https://abacusdata.ca/election-2021-conservatives-liberals-tied-again/ HTML] || {{Party shading/Conservative (Canada)}}| '''32''' || {{Party shading/Liberal}}| '''32''' || 21 || 6 || 3 || 4 || 2 || ±2.1 pp || 2,000 || online || '''0'''
+|-
+| [[Angus Reid (entrepreneur)#Angus Reid Institute|Angus Reid]] || {{dts|September 12, 2021}} || [https://angusreid.org/wp-content/uploads/2021/09/2021.09.14_fed_vote.pdf PDF] || {{Party shading/Conservative (Canada)}}| '''32''' || 30 || 21 || 7 || 2 || 6 || 2 || ±2.5 pp || 1,840 || online || {{Party shading/Conservative (Canada)}}|'''2'''
+|-
+| Counsel || {{dts|September 11, 2021}} || [https://counselpa.com/insight/minority-parliament-growing-possibility/ HTML] || {{Party shading/Conservative (Canada)}}| '''30.2''' || 29.7 || 21.9 || 6.5 || 4.4 || 5.6 || 1.7 || ±1.7 pp || 3,320 || online || {{Party shading/Conservative (Canada)}}| '''0.5'''
+|-
+| [[Ekos Research Associates|EKOS]] || {{dts|September 11, 2021}} || [https://www.ekospolitics.com/index.php/2021/09/daily-tracking-september-12-2021/ HTML] || {{Party shading/Conservative (Canada)}}|'''32.8''' || 31.1 || 19.0 || 4.7 || 3.9 || 7.8 || 0.7 || ±2.9 pp || 1,162 (1/3) || IVR (rolling) || {{Party shading/Conservative (Canada)}}|'''1.7'''
+|-
+| [[Nanos Research]] || {{dts|September 11, 2021}} || [https://nanos.co/wp-content/uploads/2021/09/2021-1947-ELXN44-Nightly-Tracking-Report-2021-09-11m2Ly482.pdf PDF] || 30.7 || {{Party shading/Liberal}}| '''34.0''' || 18.6 || 6.6 || 4.1 || 5.1 || 0.9 || ±2.8 pp || 1,252 (1/3) || telephone (rolling) || {{Party shading/Liberal}}|'''3.3''' 
+|-
+| [[Mainstreet Research]] || {{dts|September 11, 2021}} || [https://archive.md/b9G23 HTML] || 29.4 || {{Party shading/Liberal}}| '''33.4''' || 17.6 || 7.4 || 3.1 || 8.1 || 1.0 || ±2.3 pp || 1,706 (1/3) || IVR (rolling) || {{Party shading/Liberal}}|'''4.0'''
+|-
+| [[Forum Research]] || {{dts|September 10, 2021}} || [https://poll.forumresearch.com/data/b0cc5e28-d576-46fd-8376-ac0df5c8fe95Federal%20Election%20Poll%20-%20Sept%2011th%202021.pdf PDF] || {{Party shading/Conservative (Canada)}}|'''31''' || 28 || 18 || 8 || 4 || 9 || 2 || ±3 pp || 1,579 || IVR || {{Party shading/Conservative (Canada)}}|'''3'''
+|-
+| [[Ekos Research Associates|EKOS]] || {{dts|September 10, 2021}} || [https://www.ekospolitics.com/index.php/2021/09/daily-tracking-september-11-2021/ HTML] || {{Party shading/Conservative (Canada)}}|'''30.9''' || 30.4 || 19.9 || 4.6 || 4.3 || 9.1 || 0.8 || ±2.8 pp || 1,238 (1/3) || IVR (rolling) || {{Party shading/Conservative (Canada)}}|'''0.5'''
+|-
+| [[Nanos Research]] || {{dts|September 10, 2021}} || [https://nanos.co/wp-content/uploads/2021/09/2021-1947-ELXN44-Nightly-Tracking-Report-2021-09-10lR4q8e.pdf PDF] || 30.1 || {{Party shading/Liberal}}| '''34.4''' || 19.0 || 6.4 || 4.6 || 5.0 || 0.7 || ±2.8 pp || 1,249 (1/3) || telephone (rolling) || {{Party shading/Liberal}}|'''4.3''' 
+|-
+| [[Mainstreet Research]] || {{dts|September 10, 2021}} || [https://archive.md/vITG8 HTML] || 30.2 || {{Party shading/Liberal}}| '''33.9''' || 17.9 || 6.4 || 2.6 || 7.9 || 1.0 || ±2.3 pp || 1,751 (1/3) || IVR (rolling) || {{Party shading/Liberal}}|'''3.7'''
+|-
+| style="border-right-style:hidden;" | 
+| style="border-right-style:hidden;" data-sort-value="2021-10-08" | '''September 9, 2021'''
+| colspan="12" | '''Leaders' Debates Commission English debate'''
+|-
+| [[Ekos Research Associates|EKOS]] || {{dts|September 9, 2021}} || [https://www.ekospolitics.com/index.php/2021/09/daily-tracking-september-10-2021/ HTML] || {{Party shading/Conservative (Canada)}}| '''33.2''' || 29.7 || 16.7 || 4.3 || 3.8 || 11.7 || 0.6 || ±2.7 pp || 1,303 (1/3) || IVR (rolling) || {{Party shading/Conservative (Canada)}} | '''3.5'''
+|-
+| [[Nanos Research]] || {{dts|September 9, 2021}} || [https://nanos.co/wp-content/uploads/2021/09/2021-1947-ELXN44-Nightly-Tracking-Report-2021-09-09x7y42.pdf PDF] || {{Party shading/Conservative (Canada)}}| '''33.3''' || 31.3 || 19.2 || 6.6 || 3.8 || 5.0 || 0.9 || ±2.8 pp || 1,269 (1/3) || telephone (rolling) || {{Party shading/Conservative (Canada)}}|'''2.0'''
+|-
+| [[Mainstreet Research]] || {{dts|September 9, 2021}} || [https://archive.ph/1oA4E HTML] || 32.0 || {{Party shading/Liberal}}|'''32.9''' || 18.5 || 5.3 || 2.2 || 8.4 || 0.8 || ±2.3 pp || 1,776 (1/3) || IVR (rolling) || {{Party shading/Liberal}}|'''0.9'''
+|-
+| style="border-right-style:hidden;" | 
+| style="border-right-style:hidden;" data-sort-value="2021-09-08" | '''September 8, 2021'''
+| colspan="12" | '''Leaders' Debates Commission French debate'''
+|-
+| [[Ekos Research Associates|EKOS]] || {{dts|September 8, 2021}} || [https://www.ekospolitics.com/index.php/2021/09/daily-tracking-september-9-2021/ HTML] || {{Party shading/Conservative (Canada)}}| '''33.6''' || 30.7 || 15.7 || 4.1 || 4.1 || 11.2 || 0.7 || ±2.7 pp || 1,365 (1/3) || IVR (rolling) || {{Party shading/Conservative (Canada)}} | '''2.9'''
+|-
+| [[Nanos Research]] || {{dts|September 8, 2021}} || [https://nanos.co/wp-content/uploads/2021/09/2021-1947-ELXN44-Nightly-Tracking-Report-2021-09-08qT549b3.pdf PDF] || {{Party shading/Conservative (Canada)}}| '''32.6''' || 30.6 || 20.3 || 5.5 || 4.2 || 5.3 || 1.4 || ±2.8 pp || 1,266 (1/3) || telephone (rolling) || {{Party shading/Conservative (Canada)}}|'''2.0''' 
+|-
+| [[Mainstreet Research]] || {{dts|September 8, 2021}} || [https://archive.md/LXAAw/ HTML] || {{Party shading/Conservative (Canada)}}| '''32.9''' || 32.3 || 19.0 || 5.5 || 1.9 || 7.9 || 0.5 || ±2.3 pp ||  1,768 (1/3) || IVR (rolling) || {{Party shading/Conservative (Canada)}}|'''0.6'''
 |-
 | [[Ekos Research Associates|EKOS]] || {{dts|September 7, 2021}} || [https://www.ekospolitics.com/index.php/2021/09/daily-tracking-september-8-2021/ HTML] || {{Party shading/Conservative (Canada)}}| '''34.3''' || 31.8 || 16.4 || 4.0 || 3.2 || 9.5 || 0.7 || ±2.8 pp || 1,202 (1/3) || IVR (rolling) || {{Party shading/Conservative (Canada)}} | '''2.5'''
 |-
@@ -226,7 +322,7 @@
 ! style="background:{{Canadian party colour|CA|BQ}}" data-sort-type="number"|
 ! style="background:{{Canadian party colour|CA|Green}}" data-sort-type="number"|
 ! style="background:{{Canadian party colour|CA|PPC}}" data-sort-type="number"|
-! rowspan="2" style="width:40px" | [[List of political parties in Canada|Other]]
+! rowspan="2" style="width:40px" | [[List of political parties in Canada|Other]]s
 ! rowspan="2"| Margin<br>of error{{efn|name=MOE}}
 ! rowspan="2"| Sample<br>size{{efn|name=sample}}
 ! rowspan="2"| Polling method{{efn|name=method}}

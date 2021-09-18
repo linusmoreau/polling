@@ -31,9 +31,151 @@
 ! style="background:{{Action (Italy)/meta/color}};"|
 ! style="background:{{Italia Viva/meta/color}};"|
 ! style="background:{{Coraggio Italia/meta/color}};"|
-
 |-
-|1-6 Sep
+|14–17 Sep
+|[https://twitter.com/EuropeElects/status/1438847527462309891 Ixè]
+|1,000
+|18.0
+|style="background:#FFD0D7;"|'''19.4'''
+|19.3
+|7.9
+|18.2
+|2.5
+|2.2
+|1.5
+|1.7
+|3.0
+|1.2
+|
+|5.1
+|style="background:#EF1C27; color:white;"|0.1
+|-
+|14 Sep
+|[http://www.sondaggipoliticoelettorali.it/GestioneDomande.aspx EMG]
+|1,521
+|16.1
+|18.6
+|19.5
+|7.0
+|style="background:#E5E7FF;" |'''20.4'''
+|2.0
+|2.0
+|1.5
+|2.0
+|3.5
+|3.3
+|1.6
+|2.5
+|style="background:#03386A; color:white;"|0.9
+|-
+|14 Sep
+|[https://www.adnkronos.com/sondaggi-politici-pd-primo-partito-e-fdi-davanti-a-lega_7vzbbdrwP6bD4Dt3HJSIhl Euromedia]
+|1,159
+|17.1
+|style="background:#FFD0D7;"|'''19.4'''
+|18.5
+|7.3
+|19.1
+|1.5
+|1.8
+|1.7
+|2.0
+|3.8
+|2.8
+|
+|5.0
+|style="background:#EF1C27; color:white;"|0.3
+|-
+|8–13 Sep
+|[https://tg.la7.it/sondaggi/il-sondaggio-politico-di-luned%C3%AC-13-settembre-2021-13-09-2021-164362 SWG]
+|1,200
+|15.8
+|18.7
+|20.0
+|7.2
+|style="background:#E5E7FF;" |'''21.0'''
+|2.6
+|2.5
+|2.0
+|2.2
+|3.4
+|2.5
+|1.0
+|1.1
+|style="background:#03386A; color:white;"|1.0
+|-
+|11 Sep
+|[https://www.dire.it/11-09-2021/666794-sondaggio-dire-tecne-lega-risale-ma-fdi-resta-primo-cala-la-fiducia-in-draghi/ Tecnè]
+|
+|16.3
+|19.1
+|19.7
+|8.2
+|style="background:#E5E7FF;" |'''21.0'''
+|1.7
+|1.9
+|1.7
+|1.5
+|3.5
+|2.0
+|
+|3.4
+|style="background:#03386A; color:white;"|1.3
+|-
+|8–9 Sep
+|[https://www.termometropolitico.it/1597353_sondaggi-tp-per-gli-italiani-rdc-e-obbligo-vaccinale-potrebbero-mettere-in-crisi-maggioranza-di-governo.html Termometro Politico]
+|3,200
+|16.0
+|19.2
+|20.3
+|7.0
+|style="background:#E5E7FF;" |'''21.1'''
+|colspan="2"|2.9
+|1.6
+|1.4
+|2.8
+|2.8
+|
+|4.9
+|style="background:#03386A; color:white;"|0.8
+|-
+|9 Sep
+|[https://www.fanpage.it/politica/sondaggi-elettorali-fratelli-ditalia-e-in-testa-da-solo-inseguono-lega-pd-e-movimento-5-stelle/amp/ EMG]
+|
+|16.2
+|18.7
+|19.6
+|7.1
+|style="background:#E5E7FF;" |'''20.3'''
+|1.8
+|1.8
+|1.5
+|1.8
+|3.6
+|3.3
+|1.6
+|2.7
+|style="background:#03386A; color:white;"|0.6
+|-
+|7–9 Sep
+|[https://twitter.com/EuropeElects/status/1436824028925337602 Ipsos]
+|1,000
+|17.0
+|20.0
+|style="background:#D2EED9;" |'''20.5'''
+|8.2
+|18.8
+|1.0
+|2.0
+|2.1
+|1.3
+|2.0
+|2.2
+|
+|
+|style="background:#008000; color:white;" |0.5
+|-
+|1–6 Sep
 |[https://tg.la7.it/politica/il-sondaggio-politico-di-lunedì-6-settembre-2021-06-09-2021-164153/ SWG]
 |1,200
 |16.0
@@ -68,6 +210,24 @@
 |
 |3.3
 |style="background:#03386A; color:white;"|1.5
+|-
+|2 Sep
+|[https://sondaggibidimedia.com/sondaggio-euromedia-2-settembre/ Euromedia]
+|1,000
+|16.3
+|19.0
+|19.4
+|7.1
+|style="background:#E5E7FF;" |'''20.0'''
+|1.7
+|1.8
+|1.6
+|1.5
+|4.2
+|2.3
+|
+|5.1
+| style="background:#03386A; color:white;"|0.6
 |-
 |1–2 Sep
 |[https://www.repubblica.it/politica/2021/09/04/news/covid_draghi_obbligo_vaccinale_italiani_favorevoli-316418411// Demos & Pi]

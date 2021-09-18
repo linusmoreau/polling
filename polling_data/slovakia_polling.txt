@@ -38,88 +38,122 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 !style="background:#f90311;"|
 !style="background:#e30512;"|
 |-
+|AKO{{Ref|https://ako.sk/wp-content/uploads/2021/09/AKO_VOLEBNE_PREF_SEPTEMBER_2021.pdf}}
+|6–13<br>Sep 2021
+|1,000
+|9.9%<br>{{font|size=80%|font=Arial|text=18}}
+|13.9%<br>{{font|size=80%|font=Arial|text=25}}
+|6.8%<br>{{font|size=80%|font=Arial|text=12}}
+|2.7%<br>{{font|size=80%|font=Arial|text=0}}
+|8.7%<br>{{font|size=80%|font=Arial|text=15}}
+|14.5%<br>{{font|size=80%|font=Arial|text=26}}
+|1.7%<br>{{font|size=80%|font=Arial|text=0}}
+|6.6%<br>{{font|size=80%|font=Arial|text=12}}
+|3.8%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''18.8%'''<br>{{font|size=80%|font=Arial|text=33}}
+|5.2%<br>{{font|size=80%|font=Arial|text=9}}
+|7.4%
+| style="background:#f90311;" | 4.3%
+|-
+|Focus{{Ref|https://www.aktuality.sk/clanok/vektmsm/prieskum-pellegriniho-hlas-klesa-smer-a-republika-rastu/}}
+|1–7<br>Sep 2021
+|1,002
+|8.2%<br>{{font|size=80%|font=Arial|text=14}}
+|14.4%<br>{{font|size=80%|font=Arial|text=25}}
+|6.7%<br>{{font|size=80%|font=Arial|text=12}}
+|4.6%<br>{{font|size=80%|font=Arial|text=0}}
+|7.0%<br>{{font|size=80%|font=Arial|text=12}}
+|11.7%<br>{{font|size=80%|font=Arial|text=21}}
+|2.2%<br>{{font|size=80%|font=Arial|text=0}}
+|6.1%<br>{{font|size=80%|font=Arial|text=11}}
+|5.5%<br>{{font|size=80%|font=Arial|text=10}}
+| style="background:#f9acb1;" | '''18.5%'''<br>{{font|size=80%|font=Arial|text=33}}
+|6.8%<br>{{font|size=80%|font=Arial|text=12}}
+|8.3%
+| style="background:#f90311;" | 4.1%
+|-
 |AKO{{Ref|https://ako.sk/wp-content/uploads/2021/08/AKO_VOLEBNE_PREF_AUGUST_2021.pdf}}
 |10–15<br>Aug 2021
 |1,000
-|9.8%<br>{{font|size=85%|font=Arial|text=19}}
-|11.3%<br>{{font|size=85%|font=Arial|text=22}}
-|6.6%<br>{{font|size=85%|font=Arial|text=13}}
-|3.9%<br>{{font|size=85%|font=Arial|text=0}}
-|8.9%<br>{{font|size=85%|font=Arial|text=17}}
-|14.7%<br>{{font|size=85%|font=Arial|text=29}}
-|3.0%<br>{{font|size=85%|font=Arial|text=0}}
-|6.3%<br>{{font|size=85%|font=Arial|text=12}}
-|3.3%<br>{{font|size=85%|font=Arial|text=0}}
-| style="background:#f9acb1;" | '''19.5%'''<br>{{font|size=85%|font=Arial|text=38}}
-|4.5%<br>{{font|size=85%|font=Arial|text=0}}
+|9.8%<br>{{font|size=80%|font=Arial|text=19}}
+|11.3%<br>{{font|size=80%|font=Arial|text=22}}
+|6.6%<br>{{font|size=80%|font=Arial|text=13}}
+|3.9%<br>{{font|size=80%|font=Arial|text=0}}
+|8.9%<br>{{font|size=80%|font=Arial|text=17}}
+|14.7%<br>{{font|size=80%|font=Arial|text=29}}
+|3.0%<br>{{font|size=80%|font=Arial|text=0}}
+|6.3%<br>{{font|size=80%|font=Arial|text=12}}
+|3.3%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''19.5%'''<br>{{font|size=80%|font=Arial|text=38}}
+|4.5%<br>{{font|size=80%|font=Arial|text=0}}
 |8.2%
 | style="background:#f90311;" | 4.8%
 |-
 |AKO{{Ref|https://ako.sk/wp-content/uploads/2021/07/AKO_VOLEBNE_PREF_JUL_2021.pdf}}
 |6–12<br>Jul 2021
 |1,000
-|8.8%<br>{{font|size=85%|font=Arial|text=17}}
-|10.9%<br>{{font|size=85%|font=Arial|text=21}}
-|7.8%<br>{{font|size=85%|font=Arial|text=15}}
-|3.5%<br>{{font|size=85%|font=Arial|text=0}}
-|8.4%<br>{{font|size=85%|font=Arial|text=17}}
-|13.8%<br>{{font|size=85%|font=Arial|text=27}}
-|3.1%<br>{{font|size=85%|font=Arial|text=0}}
-|6.2%<br>{{font|size=85%|font=Arial|text=12}}
-|4.3%<br>{{font|size=85%|font=Arial|text=0}}
-| style="background:#f9acb1;" | '''20.8%'''<br>{{font|size=85%|font=Arial|text=41}}
-|3.8%<br>{{font|size=85%|font=Arial|text=0}}
+|8.8%<br>{{font|size=80%|font=Arial|text=17}}
+|10.9%<br>{{font|size=80%|font=Arial|text=21}}
+|7.8%<br>{{font|size=80%|font=Arial|text=15}}
+|3.5%<br>{{font|size=80%|font=Arial|text=0}}
+|8.4%<br>{{font|size=80%|font=Arial|text=17}}
+|13.8%<br>{{font|size=80%|font=Arial|text=27}}
+|3.1%<br>{{font|size=80%|font=Arial|text=0}}
+|6.2%<br>{{font|size=80%|font=Arial|text=12}}
+|4.3%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''20.8%'''<br>{{font|size=80%|font=Arial|text=41}}
+|3.8%<br>{{font|size=80%|font=Arial|text=0}}
 |8.6%
 | style="background:#f90311;" | 7.0%
 |-
 |AKO{{Ref|https://ako.sk/wp-content/uploads/2021/06/ag.AKO_VOLEBNE_PREF_JUN-_2021.pdf}}
 |7–11<br>Jun 2021
 |1,000
-|9.0%
-|10.6%
-|7.8%
-|3.0%
-|8.3%
-|13.9%
-|3.6%
-|5.3%
-|5.2%
-| style="background:#f9acb1;" | '''21.0%'''
-|2.8%
+|9.0%<br>{{font|size=80%|font=Arial|text=17}}
+|10.6%<br>{{font|size=80%|font=Arial|text=20}}
+|7.8%<br>{{font|size=80%|font=Arial|text=14}}
+|3.0%<br>{{font|size=80%|font=Arial|text=0}}
+|8.3%<br>{{font|size=80%|font=Arial|text=15}}
+|13.9%<br>{{font|size=80%|font=Arial|text=26}}
+|3.6%<br>{{font|size=80%|font=Arial|text=0}}
+|5.3%<br>{{font|size=80%|font=Arial|text=10}}
+|5.2%<br>{{font|size=80%|font=Arial|text=9}}
+| style="background:#f9acb1;" | '''21.0%'''<br>{{font|size=80%|font=Arial|text=39}}
+|2.8%<br>{{font|size=80%|font=Arial|text=0}}
 |9.5%
 | style="background:#f90311;" | 7.1%
 |-
 |Focus{{Ref|https://www.focus-research.sk/files/n282_Volebne%20preferencie%20politickych%20stran_jun%202021.pdf}}
 |2–9<br>Jun 2021
 |1,011
-|8.2%
-|12.0%
-|7.6%
-|4.8%
-|6.3%
-|12.8%
-|3.4%
-|5.8%
-|5.7%
-| style="background:#f9acb1;" | '''21.6%'''
-|4.6%
+|8.2%<br>{{font|size=80%|font=Arial|text=15}}
+|12.0%<br>{{font|size=80%|font=Arial|text=23}}
+|7.6%<br>{{font|size=80%|font=Arial|text=14}}
+|4.8%<br>{{font|size=80%|font=Arial|text=0}}
+|6.3%<br>{{font|size=80%|font=Arial|text=12}}
+|12.8%<br>{{font|size=80%|font=Arial|text=24}}
+|3.4%<br>{{font|size=80%|font=Arial|text=0}}
+|5.8%<br>{{font|size=80%|font=Arial|text=11}}
+|5.7%<br>{{font|size=80%|font=Arial|text=10}}
+| style="background:#f9acb1;" | '''21.6%'''<br>{{font|size=80%|font=Arial|text=41}}
+|4.6%<br>{{font|size=80%|font=Arial|text=0}}
 |7.2%
 | style="background:#f90311;" | 8.8%
 |-
 |Focus{{Ref|https://www.focus-research.sk/files/n281_Volebne%20preferencie%20politickych%20stran_maj%202021.pdf}}
 |11–19<br>May 2021
 |1,008
-|8.8%
-|11.8%
-|7.2%
-|4.9%
-|6.1%
-|12.3%
-|3.5%
-|5.7%
-|4.8%
-| style="background:#f9acb1;" | '''22.4%'''
-|4.5%
+|8.8%<br>{{font|size=80%|font=Arial|text=18}}
+|11.8%<br>{{font|size=80%|font=Arial|text=24}}
+|7.2%<br>{{font|size=80%|font=Arial|text=15}}
+|4.9%<br>{{font|size=80%|font=Arial|text=0}}
+|6.1%<br>{{font|size=80%|font=Arial|text=12}}
+|12.3%<br>{{font|size=80%|font=Arial|text=25}}
+|3.5%<br>{{font|size=80%|font=Arial|text=0}}
+|5.7%<br>{{font|size=80%|font=Arial|text=11}}
+|4.8%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''22.4%'''<br>{{font|size=80%|font=Arial|text=45}}
+|4.5%<br>{{font|size=80%|font=Arial|text=0}}
 |8.0%
 | style="background:#f90311;" | 10.1%
 |-
@@ -330,16 +364,16 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |Focus<ref name="Focus092020">{{cite web|date=9 June 2020|title=Press release|url=https://www.focus-research.sk/files/n273_Volebn%C3%A9%20preferencie%20politick%C3%BDch%20str%C3%A1n%20august-september%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
 |26 Aug<br>–2 Sep 2020
 |1,022
-| style="background:#d6e86f;" | '''18.4%'''<br>{{font|size=85%|font=Arial|text='''35'''}}
-|10.9%<br>{{font|size=85%|font=Arial|text=21}}
-|9.1%<br>{{font|size=85%|font=Arial|text=17}}
-|8.5%<br>{{font|size=85%|font=Arial|text=16}}
-|5.9%<br>{{font|size=85%|font=Arial|text=11}}
-|9.9%<br>{{font|size=85%|font=Arial|text=19}}
-|3.9%<br>{{font|size=85%|font=Arial|text=0}}
-|4.5%<br>{{font|size=85%|font=Arial|text=0}}
-|3.8%<br>{{font|size=85%|font=Arial|text=0}}
-|16.2%<br>{{font|size=85%|font=Arial|text=31}}
+| style="background:#d6e86f;" | '''18.4%'''<br>{{font|size=80%|font=Arial|text='''35'''}}
+|10.9%<br>{{font|size=80%|font=Arial|text=21}}
+|9.1%<br>{{font|size=80%|font=Arial|text=17}}
+|8.5%<br>{{font|size=80%|font=Arial|text=16}}
+|5.9%<br>{{font|size=80%|font=Arial|text=11}}
+|9.9%<br>{{font|size=80%|font=Arial|text=19}}
+|3.9%<br>{{font|size=80%|font=Arial|text=0}}
+|4.5%<br>{{font|size=80%|font=Arial|text=0}}
+|3.8%<br>{{font|size=80%|font=Arial|text=0}}
+|16.2%<br>{{font|size=80%|font=Arial|text=31}}
 |N/A
 |8.9%
 | style="background:#b2c933;" | 2.2%
@@ -347,16 +381,16 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |AKO<ref name="AKO072020">{{cite web|date=2020|title=Prieskum volebných preferenciído NR SR –JÚL2020po 100 dňoch novej vlády|url=https://ako.sk/wp-content/uploads/2020/07/ag.AKO_VOLEBNE_PREF_JUL_2020.pdf|access-date=2021-03-31|website=ako.sk|format=PDF}}</ref>
 |7–17<br>Jul 2020
 |1,000
-| style="background:#d6e86f;" | '''23.5%'''<br>{{font|size=85%|font=Arial|text='''44'''}}
-|10.7%<br>{{font|size=85%|font=Arial|text=20}}
-|6.4%<br>{{font|size=85%|font=Arial|text=12}}
-|7.9%<br>{{font|size=85%|font=Arial|text=15}}
-|5.2%<br>{{font|size=85%|font=Arial|text=10}}
-|9.4%<br>{{font|size=85%|font=Arial|text=18}}
-|4.0%<br>{{font|size=85%|font=Arial|text=0}}
-|3.0%<br>{{font|size=85%|font=Arial|text=0}}
-|2.5%<br>{{font|size=85%|font=Arial|text=0}}
-|16.7%<br>{{font|size=85%|font=Arial|text=31}}
+| style="background:#d6e86f;" | '''23.5%'''<br>{{font|size=80%|font=Arial|text='''44'''}}
+|10.7%<br>{{font|size=80%|font=Arial|text=20}}
+|6.4%<br>{{font|size=80%|font=Arial|text=12}}
+|7.9%<br>{{font|size=80%|font=Arial|text=15}}
+|5.2%<br>{{font|size=80%|font=Arial|text=10}}
+|9.4%<br>{{font|size=80%|font=Arial|text=18}}
+|4.0%<br>{{font|size=80%|font=Arial|text=0}}
+|3.0%<br>{{font|size=80%|font=Arial|text=0}}
+|2.5%<br>{{font|size=80%|font=Arial|text=0}}
+|16.7%<br>{{font|size=80%|font=Arial|text=31}}
 |N/A
 |10.7%
 | style="background:#b2c933;" | 6.8%
@@ -364,15 +398,15 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |Focus<ref name="Focus062020">{{Cite web|date=2020-06-28|title=S Pellegrinim aj bez neho. Exkluzívny prieskum ukazuje, ako by nová strana zamiešala preferenciami|url=https://www.tvnoviny.sk/na-telo/2000971_s-pellegrinim-aj-bez-neho-exkluzivny-prieskum-ukazuje-ako-by-nova-strana-zamiesala-preferenciami|access-date=2021-03-27|website=tvnoviny.sk|language=sk}}</ref>
 |17–24<br>Jun 2020
 |1,009
-| style="background:#d6e86f;" | '''21.2%'''<br>{{font|size=85%|font=Arial|text='''41'''}}
-|19.0%<br>{{font|size=85%|font=Arial|text=37}}
-|12.8%<br>{{font|size=85%|font=Arial|text=25}}
-|9.6%<br>{{font|size=85%|font=Arial|text=18}}
-|6.2%<br>{{font|size=85%|font=Arial|text=12}}
-|9.2%<br>{{font|size=85%|font=Arial|text=17}}
-|3.6%<br>{{font|size=85%|font=Arial|text=0}}
-|4.6%<br>{{font|size=85%|font=Arial|text=0}}
-|4.5%<br>{{font|size=85%|font=Arial|text=0}}
+| style="background:#d6e86f;" | '''21.2%'''<br>{{font|size=80%|font=Arial|text='''41'''}}
+|19.0%<br>{{font|size=80%|font=Arial|text=37}}
+|12.8%<br>{{font|size=80%|font=Arial|text=25}}
+|9.6%<br>{{font|size=80%|font=Arial|text=18}}
+|6.2%<br>{{font|size=80%|font=Arial|text=12}}
+|9.2%<br>{{font|size=80%|font=Arial|text=17}}
+|3.6%<br>{{font|size=80%|font=Arial|text=0}}
+|4.6%<br>{{font|size=80%|font=Arial|text=0}}
+|4.5%<br>{{font|size=80%|font=Arial|text=0}}
 |N/A
 |N/A
 |9.3%
@@ -381,15 +415,15 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |Focus<ref name="Focus052020">{{cite web|date=24 May 2020|title=Press release|url=http://www.focus-research.sk/files/n271_Volebne%20preferencie%20politickych%20stran_maj%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
 |14–21<br>May 2020
 |1,011
-| style="background:#d6e86f;" | '''22.9%'''<br>{{font|size=85%|font=Arial|text='''43'''}}
-|21.6%<br>{{font|size=85%|font=Arial|text=41}}
-|11.2%<br>{{font|size=85%|font=Arial|text=21}}
-|9.7%<br>{{font|size=85%|font=Arial|text=18}}
-|6.5%<br>{{font|size=85%|font=Arial|text=12}}
-|8.0%<br>{{font|size=85%|font=Arial|text=15}}
-|4.3%<br>{{font|size=85%|font=Arial|text=0}}
-|4.8%<br>{{font|size=85%|font=Arial|text=0}}
-|4.2%<br>{{font|size=85%|font=Arial|text=0}}
+| style="background:#d6e86f;" | '''22.9%'''<br>{{font|size=80%|font=Arial|text='''43'''}}
+|21.6%<br>{{font|size=80%|font=Arial|text=41}}
+|11.2%<br>{{font|size=80%|font=Arial|text=21}}
+|9.7%<br>{{font|size=80%|font=Arial|text=18}}
+|6.5%<br>{{font|size=80%|font=Arial|text=12}}
+|8.0%<br>{{font|size=80%|font=Arial|text=15}}
+|4.3%<br>{{font|size=80%|font=Arial|text=0}}
+|4.8%<br>{{font|size=80%|font=Arial|text=0}}
+|4.2%<br>{{font|size=80%|font=Arial|text=0}}
 |N/A
 |N/A
 |6.8%
@@ -399,14 +433,14 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |15–19<br>Apr 2020
 |1,016
 | style="background:#d6e86f;"| '''24.4%'''<br>{{font|size=85%|font=Arial|text='''45'''}}
-|21.8%<br>{{font|size=85%|font=Arial|text=40}}
-|11.5%<br>{{font|size=85%|font=Arial|text=21}}
-|9.2%<br>{{font|size=85%|font=Arial|text=17}}
-|7.6%<br>{{font|size=85%|font=Arial|text=14}}
-|6.8%<br>{{font|size=85%|font=Arial|text=13}}
-|3.2%<br>{{font|size=85%|font=Arial|text=0}}
-|4.5%<br>{{font|size=85%|font=Arial|text=0}}
-|2.8%<br>{{font|size=85%|font=Arial|text=0}}
+|21.8%<br>{{font|size=80%|font=Arial|text=40}}
+|11.5%<br>{{font|size=80%|font=Arial|text=21}}
+|9.2%<br>{{font|size=80%|font=Arial|text=17}}
+|7.6%<br>{{font|size=80%|font=Arial|text=14}}
+|6.8%<br>{{font|size=80%|font=Arial|text=13}}
+|3.2%<br>{{font|size=80%|font=Arial|text=0}}
+|4.5%<br>{{font|size=80%|font=Arial|text=0}}
+|2.8%<br>{{font|size=80%|font=Arial|text=0}}
 |N/A
 |N/A
 |8.2%
@@ -415,15 +449,15 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |AKO<ref name="AKO042020">{{cite web|date=2020|title=Prieskum volebných preferenciído NR SR|url=https://ako.sk/wp-content/uploads/2020/04/ag.AKO-VOLEBN%C3%89_PREF_APRIL-2020_.pdf|access-date=2021-03-31|website=ako.sk|format=PDF}}</ref>
 |14–17<br>Apr 2020
 |1,000
-| style="background:#d6e86f;"| '''29.9%'''<br>{{font|size=85%|font=Arial|text='''56'''}}
-|18.3%<br>{{font|size=85%|font=Arial|text=34}}
-|10.0%<br>{{font|size=85%|font=Arial|text=18}}
-|6.4%<br>{{font|size=85%|font=Arial|text=12}}
-|6.9%<br>{{font|size=85%|font=Arial|text=12}}
-|9.7%<br>{{font|size=85%|font=Arial|text=18}}
-|3.0%<br>{{font|size=85%|font=Arial|text=0}}
-|3.7%<br>{{font|size=85%|font=Arial|text=0}}
-|4.4%<br>{{font|size=85%|font=Arial|text=0}}
+| style="background:#d6e86f;"| '''29.9%'''<br>{{font|size=80%|font=Arial|text='''56'''}}
+|18.3%<br>{{font|size=80%|font=Arial|text=34}}
+|10.0%<br>{{font|size=80%|font=Arial|text=18}}
+|6.4%<br>{{font|size=80%|font=Arial|text=12}}
+|6.9%<br>{{font|size=80%|font=Arial|text=12}}
+|9.7%<br>{{font|size=80%|font=Arial|text=18}}
+|3.0%<br>{{font|size=80%|font=Arial|text=0}}
+|3.7%<br>{{font|size=80%|font=Arial|text=0}}
+|4.4%<br>{{font|size=80%|font=Arial|text=0}}
 |N/A
 |N/A
 |7.7%
@@ -432,30 +466,30 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 |Focus<ref name="Focus0420202">{{cite web|date=19 April 2020|title=Press release|url=http://www.focus-research.sk/files/n270_Volebne%20preferencie%20politickych%20stran_april%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
 |18–21<br>Mar 2020
 |1,023
-| style="background:#d6e86f;"| '''23.3%'''<br>{{font|size=85%|font=Arial|text='''43'''}}
-|21.6%<br>{{font|size=85%|font=Arial|text=40}}
-|11.5%<br>{{font|size=85%|font=Arial|text=21}}
-|7.3%<br>{{font|size=85%|font=Arial|text=14}}
-|5.9%<br>{{font|size=85%|font=Arial|text=11}}
-|5.8%<br>{{font|size=85%|font=Arial|text=11}}
-|5.2%<br>{{font|size=85%|font=Arial|text=10}}
-|4.1%<br>{{font|size=85%|font=Arial|text=0}}
-|3.5%<br>{{font|size=85%|font=Arial|text=0}}
+| style="background:#d6e86f;"| '''23.3%'''<br>{{font|size=80%|font=Arial|text='''43'''}}
+|21.6%<br>{{font|size=80%|font=Arial|text=40}}
+|11.5%<br>{{font|size=80%|font=Arial|text=21}}
+|7.3%<br>{{font|size=80%|font=Arial|text=14}}
+|5.9%<br>{{font|size=80%|font=Arial|text=11}}
+|5.8%<br>{{font|size=80%|font=Arial|text=11}}
+|5.2%<br>{{font|size=80%|font=Arial|text=10}}
+|4.1%<br>{{font|size=80%|font=Arial|text=0}}
+|3.5%<br>{{font|size=80%|font=Arial|text=0}}
 |N/A
 |N/A
 |11.8%
 | style="background:#b2c933;"| 1.7%
 |-
 ! colspan="3" rowspan="3" |[[2020 Slovak parliamentary election|2020 parliamentary election]]
-! style="background:#d6e86f;" | '''25.02%'''<br>{{font|size=85%|font=Arial|text=53}}
-!18.29%<br>{{font|size=85%|font=Arial|text=38}}
-!8.24%<br>{{font|size=85%|font=Arial|text=17}}
-!7.97%<br>{{font|size=85%|font=Arial|text=17}}
-!6.96%<br>{{font|size=85%|font=Arial|text=0}}
-!6.22%<br>{{font|size=85%|font=Arial|text=13}}
-!5.77%<br>{{font|size=85%|font=Arial|text=12}}
-!4.65%<br>{{font|size=85%|font=Arial|text=0}}
-!3.91%<br>{{font|size=85%|font=Arial|text=0}}
+! style="background:#d6e86f;" | '''25.02%'''<br>{{font|size=80%|font=Arial|text=53}}
+!18.29%<br>{{font|size=80%|font=Arial|text=38}}
+!8.24%<br>{{font|size=80%|font=Arial|text=17}}
+!7.97%<br>{{font|size=80%|font=Arial|text=17}}
+!6.96%<br>{{font|size=80%|font=Arial|text=0}}
+!6.22%<br>{{font|size=80%|font=Arial|text=13}}
+!5.77%<br>{{font|size=80%|font=Arial|text=12}}
+!4.65%<br>{{font|size=80%|font=Arial|text=0}}
+!3.91%<br>{{font|size=80%|font=Arial|text=0}}
 !N/A
 !N/A
 !12.97%

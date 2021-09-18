@@ -11,6 +11,7 @@
 ! class="unsortable" style="width:30px;"| [[Green Party (Norway)|MDG]]
 ! class="unsortable" style="width:30px;"| [[Labour Party (Norway)|Ap]]
 ! class="unsortable" style="width:30px;"| [[Centre Party (Norway)|Sp]]
+! class="unsortable" style="width:30px,"| [[Patient Focus (Norway)|PF]]
 ! class="unsortable" style="width:30px;"| [[Liberal Party (Norway)|V]]
 ! class="unsortable" style="width:30px;"| [[Christian Democratic Party (Norway)|KrF]]
 ! class="unsortable" style="width:30px;"| [[Conservative Party (Norway)|H]]
@@ -27,12 +28,72 @@
 ! style="background:{{Green Party (Norway)/meta/color}};"|
 ! style="background:{{Labour Party (Norway)/meta/color}};"|
 ! style="background:{{Centre Party (Norway)/meta/color}};"|
+! style="background:{{Patient Focus (Norway)/meta/color}};"|
 ! style="background:{{Liberal Party (Norway)/meta/color}};"|
 ! style="background:{{Christian Democratic Party (Norway)/meta/color}};"|
 ! style="background:{{Conservative Party (Norway)/meta/color}};"|
 ! style="background:{{Progress Party (Norway)/meta/color}};"|
 ! style="background:{{Labour Party (Norway)/meta/color}};"|
 ! style="background:{{Conservative Party (Norway)/meta/color}};"|
+|- style="background:#E9E9E9;"
+| [[2021 Norwegian parliamentary election|2021 election]]
+| data-sort-value="2021-09-13"| 13 Sep 2021
+| {{N/A}}
+| 76.5
+| 4.7
+| 7.5
+| 3.8
+| style="background:#F7BDC5;"| '''26.4'''
+| 13.6
+| 0.2
+| 4.5
+| 3.8
+| 20.5
+| 11.7
+| 3.3
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;"| 5.9
+|style="background:#F7BDC5;"|'''52.2'''
+|40.5
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="-11.7"| 11.7
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4496 Respons Analyse]
+|3–8 Sep 2021
+|1,000
+|–
+|6.0
+|9.4
+|4.2
+|style="background:#F7BDC5;"|'''26.6'''
+|11.1
+| rowspan="77" style="background:#D0D0D0; width:1px;" |{{efn|<small>''Not included in opinion polls''</small>}}
+|3.9
+|4.5
+|18.0
+|12.4
+|3.9
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="6.6" | 8.6
+|style="background:#F7BDC5;"|'''53.1'''
+|38.8
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="6.6" | 14.3
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4491 Kantar TNS]
+|3–8 Sep 2021
+|2,582
+|–
+|6.4
+|9.3
+|4.7
+|style="background:#F7BDC5;"|'''23.7'''
+|13.4
+|4.6
+|4.5
+|19.1
+|11.2
+|3.5{{efn|[[Democrats in Norway]] 0.9%, [[The Christians (Norway)|The Christians]] 0.6%, [[Pensioners' Party (Norway)|Pensioners' Party]] 0.4%, [[Capitalist Party]] 0.2%, [[Coastal Party]] 0.1%}}
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="6.6" | 4.6
+|style="background:#F7BDC5;"|'''52.8'''
+|39.4
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="6.6" | 13.4
 |-
 |[http://www.pollofpolls.no/?cmd=Maling&gallupid=4486 Kantar TNS]
 |1–7 Sep 2021
@@ -107,8 +168,46 @@
 |4.9{{efn|[[Democrats in Norway]] 1.5%, [[The Christians (Norway)|The Christians]] 1.3%, [[Pensioners' Party (Norway)|Pensioners' Party]] 0.5%, [[Capitalist Party]] 0.5%, [[Coastal Party]] 0.1%}}
 | style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="1.9" |1.9
 |style="background:#F7BDC5;"|'''49.0'''
-|44.1
-| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="4.9" | 4.9
+|41.1
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="4.9" | 7.9
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4469 Norstat]
+|23–29 Aug 2021
+|–
+|–
+|5.0
+|10.6
+|4.8
+|style="background:#F7BDC5;"|'''23.1'''
+|12.2
+|4.5
+|4.7
+|19,6
+|11.3
+|3.9
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="3.5" |3.5
+|style="background:#F7BDC5;"|'''50.9'''
+|40.1
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="10.8" | 10.8
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4468 Norstat]
+|24–28 Aug 2021
+|962
+|–
+|5.4
+|10.0
+|5.8
+|style="background:#F7BDC5;"|'''23.7'''
+|12.6
+|4.9
+|3.7
+|19.0
+|11.5
+|3.4
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="4.7" |4.7
+|style="background:#F7BDC5;"|'''51.7'''
+|39.1
+| style="background:{{Labour Party (Norway)/meta/color}};color:white;" data-sort-value="12.6" | 12.6
 |-
 |[http://www.pollofpolls.no/?cmd=Maling&gallupid=4457 Kantar TNS]
 |23–27 Aug 2021
@@ -1433,6 +1532,7 @@
 | 3.2
 | style="background:#F7BDC5;"| '''27.4'''
 | 10.3
+| –
 | 4.4
 | 4.2
 | 25.0

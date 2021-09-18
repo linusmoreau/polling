@@ -10,22 +10,22 @@
 |yAxisMax=30
 |linewidth = 1.8
 |xAxisFormat=%d-%m
-|x= 2021/08/25, 2021/08/25, 2021/08/26, 2021/08/26, 2021/08/29, 2021/09/02, 2021/09/03
+|x= 2021/08/25, 2021/08/25, 2021/08/26, 2021/08/26, 2021/08/29, 2021/09/02, 2021/09/03, 2021/09/09, 2021/09/10
 
 |y1Title=G. Boric (AD)
-|y1= 21.8, 22, 23.4, 20, 25, 23, 26.5
+|y1= 21.8, 22, 23.4, 20, 25, 23, 26.5, 22, 28, 19.9
 |y2Title=S. Sichel (ChP+)
-|y2= 20, 26, 14, 20, 19, 19, 17.8
+|y2= 20, 26, 14, 20, 19, 19, 17.8, 19, 17.5, 11.8
 |y3Title=Y. Provoste (NPS)
-|y3= 12.9, 12, 12.3, 13, 12, 12, 11.3
+|y3= 12.9, 12, 12.3, 13, 12, 12, 11.3, 10, 11.9, 9.9
 |y4Title=J.A. Kast (FSC)
-|y4= 10.7, 15, 8.9, 10, 8, 12, 10.9
+|y4= 10.7, 15, 8.9, 10, 8, 12, 10.9, 9, 14.0, 8.7
 |y5Title=F. Parisi (PDG)
-|y5= 7.7, 8, 8.8, 7, 6, 7, 5.5
+|y5= 7.7, 8, 8.8, 7, 6, 7, 5.5, 8, 10.9, 7
 |y6Title=M. Enríquez-O. (PRO)
-|y6= 4.1, 4, 3.6, 3, 1, 2, 2.6
+|y6= 4.1, 4, 3.6, 3, 1, 2, 2.6, 3, ,
 |y7Title=E. Artés (UPA)
-|y7= 1.4, 1, 1.2, 1, 1, 0, 1.5
+|y7= 1.4, 1, 1.2, 1, 1, 0, 1.5, 0, 2.5, 1.7
 |colors=#FC415C,#FFD700,#800080,#2A58A6,#00285E,#FF1493,#CC0000
 | showSymbols = 0.7
 | symbolsShape = circle
@@ -33,7 +33,7 @@
 
 {| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
 |- bgcolor=lightgray
-! rowspan="3"| Survey dates
+! rowspan="3"| Fieldwork dates
 ! rowspan="3" style="width:125px;" | Polling firm
 ! rowspan="3"| Type of poll
 ! style="width:60px;" | [[File:Eduardo Artés 2018 (4x3).jpg|60x90px]]
@@ -60,6 +60,40 @@
 ! [[Franco Parisi|Parisi]]<br/><small>[[Party of the People (Chile)|PDG]]</small>
 ! [[Sebastián Sichel|Sichel]]<br/><small>[[Chile Podemos Más|ChP+]]</small>
 ! [[José Antonio Kast|Kast]]<br/><small>[[Christian Social Front|FSC]]</small>
+|-
+| rowspan="2" | 7-13 Sept 2021
+| rowspan="2" | [https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf Activa]
+| Likely voter (54.3%).
+| 2.5
+| bgcolor="#FD9FAD"|'''28.0'''
+| —
+| 11.9
+| 10.9
+| '''17.5'''
+| 14.0
+| 15.2
+|-
+| 
+| 1.7
+| bgcolor="#FD9FAD"|'''19.9'''
+| —
+| 9.9
+| 7.0
+| '''11.8'''
+| 8.7
+| 41.0
+|-
+| 8-10 Sept 2021
+|[https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf Cadem]
+|
+| 0.0
+| bgcolor="#FD9FAD"|'''22.0'''
+| 3.0
+| 10.0
+| 8.0
+| '''19.0'''
+| 9.0
+| 29.0
 |-
 | 3-6 Sept 2021
 |[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf Tú Influyes]
@@ -111,7 +145,7 @@
 |-
 | rowspan="2" | 24-27 Aug 2021
 | rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf Activa]
-| Likely voter.{{efn|The poll included the candidacies of [[Diego Ancalao]] and [[Gino Lorenzini]], before being rejected by the Electoral Service. Ancalao obtained 1.5% of the preferences and Lorenzini 5.1%.}}
+| Likely voter (51.9%).{{efn|The poll included the candidacies of [[Diego Ancalao]] and [[Gino Lorenzini]], before being rejected by the Electoral Service. Ancalao obtained 1.5% of the preferences and Lorenzini 5.1%.}}
 | 1.2
 | bgcolor="#FD9FAD"|'''23.4'''
 | 3.6
