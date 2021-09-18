@@ -186,7 +186,7 @@ def transcribe_table(content, key, choice, begin, start):
                 nkey = ['date', 'firm', 'type',
                         'Jiles', 'Jadue', 'Boric', 'Sanchez', 'Enriquez-Om.', 'Guiller', 'Bachelet', 'Narvaez', 'Munoz',
                         'Vidal', 'Maldonado', 'Provoste', 'Rincon', 'Sichel', 'F. Kast', 'Briones', 'Desbordes',
-                        'Pinera', 'Lavin', 'Matthei', 'J.A. Kast', 'Parisi', 'Farkas', 'Siches',
+                        'Pinera', 'Lavin', 'Matthei', 'Kast', 'Parisi', 'Farkas', 'Siches',
                         'Other', 'end']
                 reset = True
             # if '2021 Chilean presidential primaries' in line:
@@ -378,7 +378,7 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
             temp = temp.split(' ')[-1]
         temp = temp.split('|')[-1].strip()
         temp = temp.replace(',', '.')
-        if temp in ['â€“', '-', '', '–'] or "small" in temp:
+        if temp in ['â€“', '-', '', '–', '—'] or "small" in temp:
             if choice == 'Israel':
                 share = 0
             else:
@@ -830,9 +830,9 @@ class GraphPage:
             with open(choices[self.choice]['old_data'], 'r', encoding='utf-8') as f:
                 content.extend(f.readlines())
         tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
-        # display_tables(tables)
         tables = process_tables(tables, self.choice, self.include, self.zeros)
         tables = filter_tables(tables, self.choice, self.include)
+        # display_tables(tables)
         tables = modify_tables(tables, self.choice, self.include, self.zeros)
         return interpret_tables(tables, self.include)
 
@@ -1201,13 +1201,20 @@ def update_save():
 def update_data(sel="All"):
     global today
 
+    def failed(tag, url):
+        print('Failed to load for ' + tag + ' from ' + url)
+
     def update_dat(dest, url, tag):
         try:
             content = urllib.request.urlopen(url)
             read_content = content.read()
             soup = BeautifulSoup(read_content, 'html.parser')
             content = soup.find_all('textarea')
-            text = content[0].text
+            if len(content) > 0:
+                text = content[0].text
+            else:
+                failed(tag, url)
+                return
             final = text.encode('utf-8')
             try:
                 with open(dest, 'rb') as rf:
@@ -1219,7 +1226,7 @@ def update_data(sel="All"):
             with open(dest, 'wb') as wf:
                 wf.write(final)
         except urllib.error.URLError:
-            print('Failed to load for ' + tag + ' from ' + url)
+            failed(tag, url)
 
     today = get_today()
     if sel == 'All':
