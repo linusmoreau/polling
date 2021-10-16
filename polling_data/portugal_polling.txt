@@ -9,15 +9,15 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! style="width:145px;" rowspan="2"| Fieldwork date
 ! class="unsortable" style="width:50px;" rowspan="2"| Sample size
 ! class="unsortable" style="width:45px;" rowspan="2"| Turnout
-! class="sortable" style="width:35px;"| [[File:Partido Socialista (1973-).png|30px|link=Socialist Party (Portugal)|PS]]
-! class="sortable" style="width:35px;"| [[File:Partido Social Democrata Logo.svg|35px|link=Social Democratic Party (Portugal)|PSD]]
+! class="sortable" style="width:35px;"| [[File:PS Logo (Text version).png|33px|link=Socialist Party (Portugal)|PS]]
+! class="sortable" style="width:35px;"| [[File:PSD (2018).png|32px|link=Social Democratic Party (Portugal)|PSD]]
 ! class="sortable" style="width:35px;"| [[File:LeftBloc.svg|25px|link=Left Bloc (Portugal)|BE]]
-! class="sortable" style="width:35px;"| [[File:PCP (Símbolo Eleitoral).png|14px|link=Unitary Democratic Coalition|CDU]][[File:Partido Ecologista "Os Verdes" (Símbolo Eleitoral).png|14px|link=Unitary Democratic Coalition|CDU]]
+! class="sortable" style="width:35px;"| [[File:Símbolo CDU (PCP-PEV) (Letras).png|31px|link=Unitary Democratic Coalition|CDU]]
 ! class="sortable" style="width:35px;"| [[File:Cds simbolo 2.png|25px|link=CDS – People's Party|CDS–PP]]
-! class="sortable" style="width:35px;"| [[File:Pessoas-Animais-Natureza.png|35px|link=People–Animals–Nature|PAN]]
-! class="sortable" style="width:35px;"| [[File:Chega.png|30px|link=Chega (political party)|CH]]
+! class="sortable" style="width:35px;"| [[File:Logo Pessoas-Animais-Natureza (text only).png|30px|link=People–Animals–Nature|PAN]]
+! class="sortable" style="width:35px;"| [[File:Logo Chega!.png|33px|link=Chega (political party)|CH]]
 ! class="sortable" style="width:35px;"| [[File:Iniciativa Liberal logo 1.png|33px|link=Liberal Initiative (Portugal)|IL]]
-! class="sortable" style="width:35px;"| [[File:Partido_LIVRE_logo.png|27px|link=LIVRE|L]]
+! class="sortable" style="width:35px;"| [[File:Partido_LIVRE_logo.png|25px|link=LIVRE|L]]
 ! class="unsortable" style="width:35px;" rowspan="2"| {{abbr|O|Others}}
 ! class="unsortable" style="width:30px;" rowspan="2"| Lead
 |-
@@ -30,6 +30,70 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! class="sortable" style="background:#202056;"|
 ! class="sortable" style="background:#00ADEF;"|
 ! class="sortable" style="background:darkseagreen;"|
+|- style="background:#EFEFEF;"
+| '''[[2021 Portuguese local elections|2021 local elections]]'''
+| data-sort-value="2019-10-03" | 26 Sep 2021
+| {{N/A}}
+| 53.6
+| {{Party shading/PS}} |'''37.1'''
+| 32.1
+| 2.9
+| 8.2
+| 1.9
+| 1.1
+| 4.2
+| 1.3
+| 0.5
+| 10.7
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |'''5.0'''
+|-
+|[https://sol.sapo.pt/artigo/748143/sondagem-popularidade-de-jeronimo-de-sousa-em-queda-livre Eurosondagem]
+|20–23 Sep 2021
+|1,032
+|?
+|{{Party shading/PS}} |'''41.5'''
+|27.2
+|5.0
+|5.5
+|2.0
+|2.6
+|8.9
+|5.2
+| –
+|2.1
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |14.3
+|-
+|[https://www.jornaldenegocios.pt/economia/politica/detalhe/sondagem-ps-aumenta-vantagem-para-a-o-psd Intercampus]
+| data-sort-value="2019-10-03" | 14–23 Sep 2021
+| 609
+|?
+| {{Party shading/PS}} |'''36.8'''
+| 24.6
+| 9.7
+| 5.5
+| 1.4
+| 3.3
+| 8.6
+| 5.5
+| 0.4
+| 4.2
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |12.2
+|-
+|[https://tvi24.iol.pt/politica/26-09-2021/sondagem-legislativas-ps-a-beira-da-maioria-absoluta Pitagórica]
+| data-sort-value="2019-10-03" | 10–19 Sep 2021
+| 609
+|?
+| {{Party shading/PS}} |'''41.3'''
+| 25.1
+| 7.1
+| 5.5
+| 2.0
+| 1.8
+| 7.1
+| 4.7
+| 0.4
+| 5.0
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |16.2
 |-
 |[https://www.cmjornal.pt/multimedia/infograficos/detalhe/intencao-de-voto-agora-e-em-comparacao-com-julho?ref=Infogr%C3%A1ficos_DestaquesPrincipais Intercampus]
 | data-sort-value="2019-10-03" | 13–20 Aug 2021
@@ -1281,7 +1345,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |-
 | colspan="15" style="background:#A0A0A0"|
 |- 
-| style="background:#EFEFEF|'''[[2019 Portuguese legislative election|2019 Legislative Election]]'''
+| style="background:#EFEFEF|'''[[2019 Portuguese legislative election|2019 legislative election]]'''
 | style="background:#EFEFEF" data-sort-value="2019-10-06"| 6 Oct 2019
 | {{N/A}}
 | style="background:#EFEFEF| 48.6

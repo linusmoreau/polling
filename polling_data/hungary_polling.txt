@@ -13,7 +13,7 @@
 ! style="width:35px;"| [[LMP – Hungary's Green Party|LMP]]
 ! style="width:35px;"| [[File:Logo_of_the_Momentum_Movement.svg|32px|link=Momentum Movement|MM]]
 ! style="width:35px;"| [[File:Magyar_Kétfarkú_Kutyapárt_logó.svg|35px|link=Hungarian Two-tailed Dog Party|MKKP]]
-! style="width:35px;" class="unsortable"| [[Our Homeland Movement|Mi Hazank]]
+! style="width:35px;" class="unsortable"| [[Our Homeland Movement|Mi Hazánk]]
 ! style="width:40px;" class="unsortable" rowspan="2"| Other
 ! style="width:20px;" class="unsortable" rowspan="2"| Lead
 ! style="width:20px;" class="unsortable" rowspan="2" |{{H:title|Jobbik, MSZP-P, DK, LMP, M and MKKP|Opposition}}
@@ -27,6 +27,38 @@
 ! style="background:#8E6FCE;"|
 ! style="background:#808080;"|
 ! style="background:#568203"|
+|-
+|10–18 Sep 2021
+|[https://demokrata.hu/magyarorszag/gyengult-az-ellenzek-kevesebben-akarnak-kormanyvaltast-428488/ e-benchmark]
+|1000
+|style="background:#FFE5B4"|'''45'''
+|5
+|2
+|N/A
+|13
+|1
+|4
+|2
+|1
+|0
+| style="background:{{Fidesz/meta/color}}; color:white;" |32
+|25
+|-
+|31 Aug – 7 Sep 2021
+|[https://www.ideaintezet.hu/hu/hirek-aktualis/71/beindulo-kampany--koncentralodo-szavazok-----2021--szeptember IDEA]
+|2000
+|style="background:#FFE5B4"|'''48'''
+|13
+|5
+|2
+|16
+|2
+|7
+|3
+|3
+|1
+| style="background:{{Fidesz/meta/color}}; color:white;" |32
+|45
 |-
 |23–28 August 2021
 |[http://republikon.hu/elemzesek,-kutatasok/21-09-01-kvk.aspx Republikon]

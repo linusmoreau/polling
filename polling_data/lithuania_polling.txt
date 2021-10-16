@@ -1,5 +1,5 @@
 ===Party vote===
-The following are opinion polls conducted for the legislative elections, measuring estimated percentage of the vote. Parties in bold successfully pass the electoral threshold to win national list seats, highlighted party is in the lead.
+The following are opinion polls conducted for the legislative elections, measuring estimated percentage of the vote. Parties in '''bold''' successfully pass the electoral threshold to win national list seats, highlighted party is in the lead.
 {| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
 ! style="width:99px;" rowspan=2 | Polling Firm/Link
 ! style="width:150px;" rowspan=2 | Last date<br />of polling
@@ -26,6 +26,34 @@ The following are opinion polls conducted for the legislative elections, measuri
 | style="background:#009C3D" <!-- Centre Party -->|
 | style="background:{{Freedom and Justice/meta/color}}" <!-- Freedom and Justice --> |
 |-
+|[https://www.delfi.lt/news/daily/lithuania/naujausiu-reitingu-sarasuose-aiski-tendencija-lvzs-ir-socialdemokratai-keicia-pozicijas.d?id=88380093 Spinter tyrimai]
+|17-26 September 2021
+|<!-- TS-KD --> |'''18.6'''
+|<!-- Lithuanian Farmers and Greens Union -->|'''13.8'''
+|<!-- Labour Party --> |'''9.4'''
+|style="background:#E10514" <!-- Social Democratic Party of Lithuania --> |'''21.2'''
+|<!-- Laisves--> |'''8.0'''
+|<!-- LRLS--> |'''10.1'''
+|<!-- Electoral Action of Poles in Lithuania--> |-
+|<!-- LSDDP--> |3
+|<!-- Lithuanian Centre Party--> |-
+|<!-- Freedom and Justice --> |-
+|style="background:#E10514" |2.6
+|-
+|[https://www.delfi.lt/news/daily/lithuania/blogos-zinios-valstieciams-po-skvernelio-isejimo-populiarumas-smuko-zemyn.d?id=88278433 Vilmorus]
+|9-16 September 2021
+|<!-- TS-KD --> |'''21.6'''
+|<!-- Lithuanian Farmers and Greens Union -->|'''17.4'''
+|<!-- Labour Party --> |'''9.4'''
+|style="background:#E10514" <!-- Social Democratic Party of Lithuania --> |'''29.6'''
+|<!-- Laisves--> |3.0
+|<!-- LRLS--> |'''10.1'''
+|<!-- Electoral Action of Poles in Lithuania--> |2
+|<!-- LSDDP--> |2.5
+|<!-- Lithuanian Centre Party--> |-
+|<!-- Freedom and Justice --> |-
+|style="background:#E10514" |8.0
+|-
 |[https://www.delfi.lt/news/daily/lithuania/triju-partiju-reitingai-susilygino-radikalizuojasi-vyriausybes-vertinimas.d?id=88192685 Spinter tyrimai]
 |24–31 August 2021
 |style="background:#A7F2ED" <!-- TS-KD --> |'''18.9'''
@@ -39,6 +67,20 @@ The following are opinion polls conducted for the legislative elections, measuri
 |<!-- Lithuanian Centre Party--> |-
 |<!-- Freedom and Justice --> |-
 |style="background:#A7F2ED" |0.3
+|-
+|[https://www.lrytas.lt/lietuvosdiena/aktualijos/2021/09/22/news/naujausiuose-reitinguose-neiprastas-valdanciuju-ir-opoziciniu-partiju-palaikymas-eksperte-gyvename-nenormaliais-laikais-20835215 Baltijos tyrimai]
+|20-31 August 2021
+|<!-- TS-KD --> |'''15.7'''
+| Lithuanian Farmers and Greens Union --> |'''17.3'''
+|<!-- Labour Party --> |'''7.4'''
+|style="background:#E10514" <!-- Social Democratic Party of Lithuania --> |'''25.9'''
+|<!-- Laisves--> |'''5'''
+|<!-- LRLS--> |'''9.1'''
+|<!-- Electoral Action of Poles in Lithuania--> |'''5.5'''
+|<!-- LSDDP--> |2.5
+|<!-- Lithuanian Centre Party--> |-
+|<!-- Freedom and Justice --> |'''8.6'''
+| style="background:#E10514" |8.6
 |-
 |[https://archive.is/bQ0S2 Vilmorus]
 |29 July – 5 August 2021

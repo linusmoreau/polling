@@ -44,10 +44,152 @@
 ! class="unsortable" style="background:{{Free Bloc/meta/color}} |
 ! class="unsortable" style="background:{{Přísaha/meta/color}};" |
 |-
+! 8–9 Oct
+! [[2021 Czech legislative election|2021 legislative election]]
+!
+!
+! 27.1
+! colspan="3" {{Party shading/Civic Democratic Party (Czech Republic)}}|'''27.8'''
+! colspan="2" | 15.6
+! 9.6
+! 3.6
+! 4.7
+! colspan="2" | 2.8
+! 1.0
+! 0.2
+! 1.3
+! 4.7
+! 1.6
+!style="background:{{Civic Democratic Party (Czech Republic)/meta/color}};color:#FFFFFF;" |0.7
+!'''31.8'''
+!{{No|'''53.0'''}}
+|-
+| style="background:#D0D0D0; color:black" colspan="23" |
+|-
+|[https://echo24.cz/a/SMqmt/stem-spolu-a-pirstan-by-vetsinu-neslozily-do-snemovny-by-se-dostaly-kscm-i-prisaha STEM]
+|24–30 Sep
+|1247
+|{{N/A}}
+|{{Party shading/ANO 2011}}|'''27.3'''
+| colspan="3" |21.4
+| colspan="2" |17.4
+|12.3
+|6.5
+|4.4
+| colspan="2" |1.8
+|1.6
+|{{N/A}}
+|{{N/A}}
+|5.7
+|1.7
+|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |5.9
+|'''31.7'''
+|{{No|'''57.6'''}}
+|-
+|[https://www.parlamentnilisty.cz/zpravy/tiskovezpravy/SANEP-Volebni-preference-politickych-stran-hnuti-a-koalicnich-uskupeni-do-Snemovny-PCR-Volebni-potencialy-Souboje-lidru-ve-vybranych-krajich-678753 Sanep]
+|23–30 Sep
+|1,897
+|61.9
+|{{Party shading/ANO 2011}}|'''26.1'''
+| colspan="3" |20.7
+| colspan="2" |18.3
+|10.2
+|5.0
+|6.1
+| colspan="2" |2.6
+|1.0
+|3.1
+|2.5
+|4.0
+|0.4
+|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |5.4
+|'''32.2'''
+|{{No|'''54.3'''}}
+|-
+|[https://www.parlamentnilisty.cz/arena/monitor/Posledni-vyzkum-pred-volbami-Pirati-je-to-hodne-spatne-678718 Phoenix Research]
+|Sep
+|1085
+|58.0
+|{{Party shading/ANO 2011}}|'''24.6'''
+| colspan="3" |23.4
+| colspan="2" |15.1
+|11.4
+|4.4
+|5.6
+| colspan="2" |5.1
+|{{N/A}}
+|{{N/A}}
+|2.2
+|5.1
+|3.1
+|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |1.2
+|'''30.2'''
+|{{No|'''54.3'''}}
+|-
+|[https://www.idnes.cz/volby/volby-pruzkum-hnuti-ano-koalice-spolu-pirstan.A211003_202645_volby_lisv Median]
+|23–29 Sep
+|–
+|–
+|{{Party shading/ANO 2011}}|'''25.2'''
+| colspan="3" |20.9
+| colspan="2" |19.4
+|10.1
+|4.4
+|5.6
+| colspan="2" |4.5
+|2.1
+|{{N/A}}
+|1.6
+|3.9
+|2.3
+|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |4.2
+|'''30.8'''
+|{{No|'''54.8'''}}
+|-
+|[https://ct24.ceskatelevize.cz/domaci/3376342-ano-si-v-zarijovem-modelu-kantaru-drzi-prvni-misto-naskok-pred-opozicnimi-koalicemi Kantar CZ]
+|13–22 Sep
+|1200
+|{{N/A}}
+|{{Party shading/ANO 2011}}|'''24.5'''
+| colspan="3" |23.0
+| colspan="2" |20.5
+|11.5
+|5.0
+|4.5
+| colspan="2" |2.5
+|{{N/A}}
+|{{N/A}}
+|2.0
+|4.0
+|2.5
+|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |1.5
+|'''30.0'''
+|{{No|'''60.0'''}}
+|-
+|[https://www.ih21.org/volebni-pruzkum-2021 STEM]
+|2–13 Sep
+|1008
+|{{N/A}}
+|{{Party shading/ANO 2011}}|'''27.7'''
+| colspan="3" |20.0
+| colspan="2" |17.9
+|11.9
+|6.8
+|6.7
+| colspan="2" |2.0
+|1.5
+|{{N/A}}
+|1.4
+|3.6
+|0.5
+|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |7.7
+|'''34.3'''
+|{{No|'''56.6'''}}
+|-
 |[https://cnn.iprima.cz/volby-vy-vyhralo-ano-ale-dohani-ho-koalice-spolu-vyplyva-z-pruzkumu-pro-ods-33710 Ipsos]
 |8–12 Sep
-|{{TBA}}
-|{{TBA}}
+|{{N/A}}
+|{{N/A}}
 |{{Party shading/ANO 2011}}|'''27.4'''
 | colspan="3" |24.7
 | colspan="2" |17.3

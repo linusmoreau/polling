@@ -1,19 +1,19 @@
 ===First round===
-Scheduled to take place on 2 October 2022.
+Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=Brasil terá eleições livres em 2022 e com instituições funcionando, diz Barroso |url=https://g1.globo.com/politica/noticia/2021/10/04/brasil-tera-eleicoes-livres-em-2022-e-com-instituicoes-funcionando-diz-barroso.ghtml|website=[[G1 (website)|G1]] |date=4 October 2021}}</ref>
 ====2021====
 =====From July-August=====
 {| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
 ! rowspan="2"| Pollster/client(s)
-! rowspan="2"| Date(s)<br>conducted
+! rowspan="2"| Fieldwork<br>date(s)
 ! rowspan="2" data-sort-type="number"| Sample<br>size
 ! class="unsortable" style="width:50px;"|[[Jair Bolsonaro|Bolsonaro]]<br>{{small|[[Alliance for Brazil|APB]]}}
 ! class="unsortable" style="width:50px;"|[[Luiz Inácio Lula da Silva|Lula]]<br>{{small|[[Workers' Party (Brazil)|PT]]}}
 ! class="unsortable" style="width:50px;"|[[Ciro Gomes|Gomes]]<br>{{small|[[Democratic Labour Party (Brazil)|PDT]]}}
 ! class="unsortable" style="width:50px;"|[[João Doria|Doria]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
 ! class="unsortable" style="width:50px;"|[[Eduardo Leite|Leite]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
-! class="unsortable" style="width:50px;"|[[Luiz Henrique Mandetta|Mandetta]]<br>{{small|[[Democrats (Brazil)|DEM]]}}
-! class="unsortable" style="width:50px;"|[[Rodrigo Pacheco (politician)|Pacheco]]<br>{{small|[[Democrats (Brazil)|DEM]]}}
-! class="unsortable" style="width:50px;"|[[José Luiz Datena|Datena]]<br>{{small|[[Social Liberal Party (Brazil)|PSL]]}}
+! class="unsortable" style="width:50px;"|[[Luiz Henrique Mandetta|Mandetta]]<br>{{small|[[Brazil Union|UNIÃO]]}}
+! class="unsortable" style="width:50px;"|[[Rodrigo Pacheco (politician)|Pacheco]]<br>{{small|[[Brazil Union|UNIÃO]]}}
+! class="unsortable" style="width:50px;"|[[José Luiz Datena|Datena]]<br>{{small|[[Brazil Union|UNIÃO]]}}
 ! class="unsortable" style="width:50px;"|[[Sérgio Moro|Moro]]<br>{{small|Indep.}}
 ! rowspan="2" class="unsortable"| Others
 ! rowspan="2" class="unsortable"| Abst.<br>Undec.
@@ -22,12 +22,157 @@ Scheduled to take place on 2 October 2022.
 ! data-sort-type="number" class="sortable" style="background:#0067BC;"|
 ! data-sort-type="number" class="sortable" style="background:#CC0000;"|
 ! data-sort-type="number" class="sortable" style="background:#EE161F;"|
-! data-sort-type="number" class="sortable" style="background:#005fA4;"|
-! data-sort-type="number" class="sortable" style="background:#005fA4;"|
-! data-sort-type="number" class="sortable" style="background:#002664;"|
-! data-sort-type="number" class="sortable" style="background:#002664;"|
-! data-sort-type="number" class="sortable" style="background:#FFEB3B;"|
+! data-sort-type="number" class="sortable" style="background:#0080FF;"|
+! data-sort-type="number" class="sortable" style="background:#0080FF;"|
+! data-sort-type="number" class="sortable" style="background:#0FC0E6;"|
+! data-sort-type="number" class="sortable" style="background:#0FC0E6;"|
+! data-sort-type="number" class="sortable" style="background:#0FC0E6;"|
 ! data-sort-type="number" class="sortable" style="background:#BBBBBB;"|
+|-
+|rowspan="3"|[https://www.oantagonista.com/brasil/quaest-genial-55-dos-eleitores-nao-sabem-em-quem-votar-para-presidente/ ''Quaest/Genial'']
+|rowspan="3"|30 Sept–3 Oct
+|rowspan="3"|2,048
+|24%
+|style="background:#ffb7b7;"| '''43%'''
+|10%
+|–
+|–
+|–
+|–
+|11%
+|–
+|–
+|12%
+|style="background:#cc0000;color:#ffffff;"| 19%
+|-
+|24%
+|style="background:#ffb7b7;"| '''44%'''
+|9%
+|–
+|–
+|–
+|–
+|–
+|10%
+|–
+|12%
+|style="background:#cc0000;color:#ffffff;"| 20%
+|-
+|26%
+|style="background:#ffb7b7;"| '''45%'''
+|10%
+|6%
+|–
+|–
+|–
+|–
+|–
+|–
+|13%
+|style="background:#cc0000;color:#ffffff;"| 19%
+|-
+|rowspan="2"|[https://www.poder360.com.br/poderdata/poderdata-lula-segue-a-frente-e-tem-40-no-1o-turno-bolsonaro-vai-a-30/ ''PoderData'']
+|rowspan="2"|27–29 Sept
+|rowspan="2"|2,500
+|30%
+|style="background:#ffb7b7;"| '''40%'''
+|5%
+|3%
+|–
+|3%
+|2%
+|4%
+|–
+|2%
+|11%
+|style="background:#cc0000;color:#ffffff;"| 10%
+|-
+|28%
+|style="background:#ffb7b7;"| '''43%'''
+|5%
+|–
+|4%
+|3%
+|1%
+|2%
+|–
+|2%
+|11%
+|style="background:#cc0000;color:#ffffff;"| 15%
+|-
+|rowspan="2"|[https://www.cartacapital.com.br/cartaexpressa/ipespe-lula-lidera-todos-os-cenarios-de-1o-turno-e-venceria-qualquer-adversario-no-2o/ ''Ipespe'']
+|rowspan="2"|22–24 Sept
+|rowspan="2"|1,000
+|28%
+|style="background:#ffb7b7;"| '''43%'''
+|11%
+|5%
+|–
+|4%
+|2%
+|–
+|–
+|–
+|7%
+|style="background:#cc0000;color:#ffffff;"| 15%
+|-
+|25%
+|style="background:#ffb7b7;"| '''42%'''
+|9%
+|5%
+|3%
+|3%
+|1%
+|3%
+|7%
+|1%
+|6%
+|style="background:#cc0000;color:#ffffff;"| 17%
+|-
+|rowspan="2"|[https://www.cnnbrasil.com.br/politica/lula-lidera-corrida-presidencial-com-48-das-intencoes-de-votos-diz-ipec/ ''Ipec'']
+|rowspan="2"|16–20 Sept
+|rowspan="2"|2,002
+|23%
+|style="background:#ffb7b7;"| '''48%'''
+|8%
+|3%
+|–
+|3%
+|–
+|–
+|–
+|–
+|14%
+|style="background:#cc0000;color:#ffffff;"| 25%
+|-
+|22%
+|style="background:#ffb7b7;"| '''45%'''
+|6%
+|2%
+|–
+|3%
+|1%
+|3%
+|5%
+|–
+|14%
+|style="background:#cc0000;color:#ffffff;"| 23%
+|-
+|[https://www.otempo.com.br/politica/datatempo/pesquisa-datatempo-lula-tem-36-e-bolsonaro-soma-22-1.2543629 ''Datatempo'']
+| 9–15 Sept
+|2,025
+|22%
+|style="background:#ffb7b7;"| '''36%'''
+|7.8%
+|2%
+|–
+|–
+|–
+|3.1%
+|5.6%
+|9.3%
+|14.2%
+|style="background:#cc0000;color:#ffffff;"| 14%
 |-
 |rowspan="4"|[https://g1.globo.com/politica/noticia/2021/09/17/datafolha-lula-segue-a-frente-de-bolsonaro-e-no-2o-turno-tem-56percent-contra-31percent.ghtml ''Datafolha'']
 |rowspan="4"| 13–15 Sept
@@ -48,7 +193,7 @@ Scheduled to take place on 2 October 2022.
 |25%
 |style="background:#ffb7b7;"| '''42%'''
 |12%
-|4%
+|–
 |4%
 |2%
 |–
@@ -84,7 +229,6 @@ Scheduled to take place on 2 October 2022.
 |12%
 |style="background:#cc0000;color:#ffffff;"| 18%
 |-
-
 |[https://veja.abril.com.br/blog/maquiavel/pesquisa-para-o-psdb-vacina-ajuda-e-doria-empata-tecnicamente-com-ciro/ ''Paraná Pesquisas'']
 | 1–5 Sept
 |2,012
@@ -285,8 +429,7 @@ Scheduled to take place on 2 October 2022.
 |'''29.28%'''
 |12.47%
 |colspan="2"|4.76%
-|colspan="2"|−
-|−
+|colspan="3"|−
 |−
 |3.38%
 |−
@@ -296,7 +439,7 @@ Scheduled to take place on 2 October 2022.
 =====Before July-August=====
 {| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
 ! rowspan="2"| Pollster/client(s)
-! rowspan="2"| Date(s)<br>conducted
+! rowspan="2"| Fieldwork<br>date(s)
 ! rowspan="2" data-sort-type="number"| Sample<br>size
 ! class="unsortable" style="width:50px;"|[[Jair Bolsonaro|Bolsonaro]]<br>{{small|[[Social Liberal Party (Brazil)|PSL]]/[[Alliance for Brazil|APB]]}}
 ! class="unsortable" style="width:50px;"|[[Luiz Inácio Lula da Silva|Lula]]<br>{{small|[[Workers' Party (Brazil)|PT]]}}
@@ -318,7 +461,7 @@ Scheduled to take place on 2 October 2022.
 ! data-sort-type="number" class="sortable" style="background:#A30000;"|
 ! data-sort-type="number" class="sortable" style="background:#EE161F;"|
 ! data-sort-type="number" class="sortable" style="background:#A30000;"|
-! data-sort-type="number" class="sortable" style="background:#005fA4;"|
+! data-sort-type="number" class="sortable" style="background:#0080FF;"|
 ! data-sort-type="number" class="sortable" style="background:#F0762A;"|
 ! data-sort-type="number" class="sortable" style="background:#BBBBBB;"|
 ! data-sort-type="number" class="sortable" style="background:#BBBBBB;"|
@@ -409,7 +552,7 @@ Scheduled to take place on 2 October 2022.
 |2%
 |7%
 |4%
-|2%{{efn|Luiz Henrique Mandetta (DEM) with 2%}}
+|2%{{efn|[[Luiz Henrique Mandetta]] (DEM) with 2%}}
 |13%
 |style="background:#cc0000;color:#ffffff;"| 18%
 |-
@@ -859,7 +1002,7 @@ Scheduled to take place on 2 October 2022.
 ====2020====
 {| class="wikitable sortable" style="text-align:center;font-size:85%;line-height:14px;"
 ! rowspan="2"| Pollster/client(s)
-! rowspan="2"| Date(s)<br>conducted
+! rowspan="2"| Fieldwork<br>date(s)
 ! rowspan="2" data-sort-type="number"| Sample<br>size
 ! class="unsortable" style="width:50px;"|[[Jair Bolsonaro|Bolsonaro]]<br>{{small|[[Social Liberal Party (Brazil)|PSL]]/[[Alliance for Brazil|APB]]}}
 ! class="unsortable" style="width:50px;"|[[Luiz Inácio Lula da Silva|Lula]]<br>{{small|[[Workers' Party (Brazil)|PT]]}}
@@ -881,7 +1024,7 @@ Scheduled to take place on 2 October 2022.
 ! data-sort-type="number" class="sortable" style="background:#a30000;"|
 ! data-sort-type="number" class="sortable" style="background:#ee161f;"|
 ! data-sort-type="number" class="sortable" style="background:#a30000;"|
-! data-sort-type="number" class="sortable" style="background:#005fa4;"|
+! data-sort-type="number" class="sortable" style="background:#0080FF;"|
 ! data-sort-type="number" class="sortable" style="background:#f0762a;"|
 ! data-sort-type="number" class="sortable" style="background:#bbbbbb;"|
 ! data-sort-type="number" class="sortable" style="background:#bbbbbb;"|
@@ -1364,7 +1507,7 @@ Scheduled to take place on 2 October 2022.
 ====2019====
 {| class="wikitable sortable" style="text-align:center;font-size:85%;line-height:14px;"
 ! rowspan="2"| Pollster/client(s)
-! rowspan="2"| Date(s)<br>conducted
+! rowspan="2"| Fieldwork<br>date(s)
 ! rowspan="2" data-sort-type="number"| Sample<br>size
 ! class="unsortable" style="width:50px;"|[[Jair Bolsonaro|Bolsonaro]]<br>{{small|[[Social Liberal Party (Brazil)|PSL]]/[[Alliance for Brazil|APB]]}}
 ! class="unsortable" style="width:50px;"|[[Luiz Inácio Lula da Silva|Lula]]<br>{{small|[[Workers' Party (Brazil)|PT]]}}
@@ -1382,7 +1525,7 @@ Scheduled to take place on 2 October 2022.
 ! data-sort-type="number" class="sortable" style="background:#cc0000;"|
 ! data-sort-type="number" class="sortable" style="background:#cc0000;"|
 ! data-sort-type="number" class="sortable" style="background:#ee161f;"|
-! data-sort-type="number" class="sortable" style="background:#005fa4;"|
+! data-sort-type="number" class="sortable" style="background:#0080FF;"|
 ! data-sort-type="number" class="sortable" style="background:#f0762a;"|
 ! data-sort-type="number" class="sortable" style="background:#bbbbbb;"|
 ! data-sort-type="number" class="sortable" style="background:#bbbbbb;"|

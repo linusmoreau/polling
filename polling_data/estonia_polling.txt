@@ -26,6 +26,48 @@
 ! data-sort-type="number" style="background:Red;"|
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
+| 14–20 Sep
+| ≥1,000
+| 24.1
+| 15.4
+| style="background:#AEDDFF;"| '''26.1'''
+| 5.9
+| 10.1
+| 14
+| 2
+| 2.4
+| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;"| 2
+| 39.5|| {{no|58.1}}
+|-
+| [https://reitingud.ee/reitingud/ Norstat]
+| 08-13 Sep
+| ≥1,000
+| style="background:#FEF4AE"| '''25.6'''
+| 21.3
+| 23.6
+| 6.2
+| 9.8
+| 10.4
+| 2.2
+| 0.9
+| style="background:{{Estonian Reform Party/meta/color}};"| 2
+| 46.9|| {{no|52.2}}
+|-
+| [https://www.err.ee/1608342428/reitingud-isamaa-toetus-moodus-sotside-omast Turu-uuringute AS]
+| 06-15 Sep
+| 1,003
+| style="background:#FEF4AE"| '''24'''
+| 17
+| 22
+| 8
+| 7
+| 16
+| 3
+| 3
+| style="background:{{Estonian Reform Party/meta/color}};"| 2
+| 41|| {{no|56}}
+|-
+| [https://reitingud.ee/reitingud/ Norstat]
 | 01-07 Sep
 | ≥1,000
 | style="background:#FEF4AE"| '''24.7'''

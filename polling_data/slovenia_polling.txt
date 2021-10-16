@@ -43,6 +43,77 @@ Poll results are listed in the table in reverse chronological order, showing the
 ! class="unsortable" style="background: #81d742; width:30px"|
 ! class="unsortable" style="background: #6ab32e; width:30px"|
 |-
+|data-sort-value="2021-10-07"|4–7 Oct 2021
+|Mediana
+| [[Delo (newspaper)|''Delo'']]
+|717
+| style="background:#FFFFBF" " |'''17.6'''
+|8.6
+|8.7
+|0.7
+|8.4
+|5.1
+|4.3
+|1.6
+|0.7
+|1.6
+|2.9
+|0.8
+|1.1
+|1.8
+|10.0
+|22.8
+|{{N/A}}
+| style="background:{{Slovenian Democratic Party/meta/color}}" |9.0
+|<ref>{{Cite web|title=Vse več zelo nezadovoljnih z delom vlade|url=https://www.24ur.com/novice/slovenija/vse-vec-zelo-nezadovoljnih-z-delom-vlade.html|access-date=2021-10-13|website=www.24ur.com|language=sl}}</ref>
+|-
+|{{opdrts|27|30|Sep|2021|year}}
+|Parsifal || Planet TV
+|715
+| style="background:#FFFFBF" " |'''17.2'''
+|7.3
+|11.8
+|0.9
+|4.3
+|2.9
+|3.0
+|1.6
+|2.0
+|3.1{{efn|name=PoS}}
+|1.8
+|0.7
+|{{efn|name=PoS}}
+|3.0{{efn|[[Our Country (Slovenia)|Our Country]] 1.4%, [[Green Actions]] 0.5%}}
+|7.3
+|20.3
+|12.8
+| style="background:{{Slovenian Democratic Party/meta/color}}" |5.4
+|<ref>{{Cite web|title=Po Planetu Šarčeva LMŠ še kar krepko pred Meščevo Levico|url=https://siol.net/novice/slovenija/po-planetu-sarceva-lms-se-kar-krepko-pred-mescevo-levico-562800|access-date=2021-10-08|website=www.siol.net}}</ref>
+|-
+|{{opdrts||27|Sep|2021|year}}{{efn|name=date|Publication date}}
+|Mediana
+|[[Pop (Slovenian TV channel)|POPTV]]
+|{{n/a}}
+| style="background:#FFFFBF" |'''15.0'''
+|7.0
+|9.6
+|0.4
+|8.0
+|3.9
+|5.2
+|1.0
+|1.4
+|2.0
+|1.7
+|0.8
+|1.1
+|2.0
+|11.5
+|26.1
+|3.4
+|style="background:{{Slovenian Democratic Party/meta/color}}"|5.4
+|<ref>{{Cite web|title=Po anketi POP TV Bratuškova kljub krivični razlastitvi lastnikov podrejenih obveznic javnomnenjsko nagrajena|url=https://www.domovina.je/po-anketi-pop-tv-bratuskova-kljub-krivicni-razlastitvi-lastnikov-podrejenih-obveznic-javnomnenjsko-nagrajena/|access-date=2021-10-08|website=www.domovina.je|language=sl}}</ref>
+|-
 |data-sort-value="2021-09-16"|14–16 Sep 2021
 |Ninamedia
 |[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
@@ -130,7 +201,7 @@ Poll results are listed in the table in reverse chronological order, showing the
 |1.8
 |1.1
 |2.5
-|–
+|1.5
 |2.0
 |1.2
 |10.7
@@ -1716,9 +1787,6 @@ Parsifal: Javnomnenjska anketa - SDS bi volilo toliko volivcev kot vse štiri st
 | style="background:{{Slovenian Democratic Party/meta/color}}"|6.8
 |<ref>{{Cite web|url=https://www.24ur.com/novice/slovenija/vladi-manj-kot-polovicna-podpora-sds-povecuje-prednost.html|title=Vsak dan prvi - 24ur.com|website=www.24ur.com|access-date=2020-04-15}}</ref>
 |-
-|data-sort-value="2020-09-13"|13 Mar 2020
-!colspan=23|The [[14th Government of Slovenia]], a center-right minority government led by [[Janez Janša]], is voted in.
-|-
 |data-sort-value="2020-03-12"|10–12 Mar 2020
 |Ninamedia || [[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
 |700
@@ -1948,9 +2016,6 @@ Parsifal: Javnomnenjska anketa - SDS bi volilo toliko volivcev kot vse štiri st
 |11.4
 | style="background:{{Slovenian Democratic Party/meta/color}}"|0.1
 |<ref>{{Cite web|url=https://nova24tv.si/slovenija/politika/anketa-na-predcasnih-volitvah-bi-prepricljivo-zmagala-sds/|title=Anketa: Na predčasnih volitvah bi prepričljivo zmagala SDS|website=nova24tv.si|access-date=2020-02-03}}</ref>
-|-
-|data-sort-value="2020-01-27"|27 Jan 2020
-!colspan=23|Prime Minister [[Marjan Šarec]] resigns
 |-
 |data-sort-value="2020-01-26"|26 Jan 2020{{efn|name=date|Publication date}}
 |Mediana || [[Pop (Slovenian TV channel)|POPTV]]
@@ -2775,28 +2840,6 @@ Parsifal: Javnomnenjska anketa - SDS bi volilo toliko volivcev kot vse štiri st
 |4.2
 | style="background:{{List of Marjan Šarec/meta/color}}; color:white"|19.7||<ref>{{Cite web|url=https://www.rtvslo.si/slovenija/vox-populi-vlada-ima-70-odstotno-podporo-lms-pa-vec-kot-31-odstotno/480364|title=Vlada ima 70 odstotno podporo, LMŠ pa več kot 31|website=www.rtvslo.si|language=sl|access-date=2019-02-18}}</ref><ref>{{Cite web|url=http://ninamedia.si/arhivi/593|title=Aktualna vprašanja – februar 2019 – Ninamedia|language=sl-SI|access-date=2019-03-06}}</ref>
 |-
-|data-sort-value="2019-02-14"|11–14 Feb 2019
-|Parsifal || [[Nova24TV]]
-|712
-| style="background:#FFFFBF" |'''18.2'''
-|13.1
-|12.6
-|4.7
-|3.7
-|5.6
-|4.2
-|3.7
-|2.3
-|10.7
-|–
-|–
-|–
-|–
-|1.4
-|15.9
-|–
-| style="background:{{Slovenian Democratic Party/meta/color}}"|5.1||<ref>{{Cite web|url=http://nova24tv.si/slovenija/politika/javnomnenjska-anketa-evropskih-volitev-se-bo-udelezila-slaba-tretjina-volivcev-najvec-bi-jih-volilo-kandidate-stranke-sds/|title=Javnomnenjska anketa: Evropskih volitev se bo udeležila slaba tretjina volivcev, največ bi jih volilo stranko SDS|date=2019-02-15|website=[[Nova24TV]]|language=sl-SI|access-date=2019-03-06}}</ref>
-|-
 |data-sort-value="2019-02-06"|29 Jan-6 Feb 2019
 |Mediana || [[Delo (newspaper)|''Delo'']]
 |731
@@ -3104,9 +3147,6 @@ Parsifal: Javnomnenjska anketa - SDS bi volilo toliko volivcev kot vse štiri st
 |22.5
 |0.5
 | style="background:{{Slovenian Democratic Party/meta/color}}"|10.2||<ref>{{Cite web|url=https://www.24ur.com/novice/slovenija/mediana-3.html|title=Vsak dan prvi - 24ur.com|website=www.24ur.com|language=sl|access-date=2018-12-02}}</ref>
-|-
-|data-sort-value="2018-09-13"|13 Sep 2018
-!colspan=23|The [[13th Government of Slovenia]], a center-left minority government led by [[Marjan Šarec]], is voted in.
 |-
 |data-sort-value="2018-09-13"|11–13 Sep 2018
 |Ninamedia || [[Radiotelevizija Slovenija|RTVSLO]]

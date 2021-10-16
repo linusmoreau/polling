@@ -25,6 +25,76 @@
 ! style="background:{{Christian Democrats (Sweden)/meta/color}};"|
 ! style="background:{{Sweden Democrats/meta/color}};"|
 |-
+|Sifo<ref>https://www.kantarsifo.se/sites/default/files/reports/documents/sifo_vb_okt_2021.pdf</ref>
+|4-14 Oct 2021
+|6,152
+|10.5
+| style="background:#F9BDC5;" |'''26.6'''
+|3.7
+|8.0
+|2.8
+|21.9
+|5.0
+|19.9
+|1.6
+|style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |4.7
+|-
+|Demoskop<ref> https://www.aftonbladet.se/nyheter/a/7dm2AV/aftonbladet-demoskop-lagsta-stodet-for-miljopartiet-pa-16-ar</ref>
+|29 Sep-6 Oct 2021
+|2,417
+|8.6
+| style="background:#F9BDC5;" |'''26.7'''
+|3.0
+|9.5
+|2.7
+|22.2
+|5.5
+|20.9
+|0.8
+|style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |4.5
+|-
+|Novus<ref>https://www.expressen.se/nyheter/vansterns-tapp-s-tar-tillbaka-roster--/</ref>
+|30 Aug-3 Oct 2021
+|4,922
+|10.6
+| style="background:#F9BDC5;" |'''26.0'''
+|4.0
+|8.8
+|2.6
+|22.6
+|4.6
+|19.4
+| –
+|style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |3.4
+|-
+|Sentio<ref>https://nyheteridag.se/plus/konservativ-majoritet-i-sentio-mp-utanfor-riksdagen/</ref>
+|23-27 Sep 2021
+| –
+|10.4
+| style="background:#F9BDC5;" |'''24.4'''
+|3.9
+|5.3
+|3.0
+|22.7
+|5.9
+|21.7
+|–{{efn|[[Feminist Initiative (Sweden)|FI]]: 0.9 [[Alternative for Sweden|AfS]]: 0.8 [[Citizens' Coalition|MED]]: 0.1 [[Pirate Party (Sweden)|PP]]: 0.7}}
+|style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |1.7
+|-
+|Ipsos<ref>https://www.aftonbladet.se/nyheter/a/dnkLQA/dn-ipsos-tre-partier-nara-riksdagssparren</ref>
+|14-26 Sep 2021
+|1,533
+|11
+| style="background:#F9BDC5;" |'''25'''
+|4
+|8
+|3
+|22
+|4
+|21
+| –
+|style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |3
+|-
 |Sifo<ref>{{Cite news|title=SIFO VÄLJARBAROMETER SEPTEMBER 2021
 |language=sv|url=https://www.kantarsifo.se/rapporter-undersokningar/sifo-valjarbarometer-september-2021|access-date=2021-09-17}}</ref>
 |6-16 Sep 2021

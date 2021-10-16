@@ -1,7 +1,8 @@
 ====Voting intention estimates====
 The table below lists nationwide voting intention estimates. Refusals are generally excluded from the party vote percentages, while question wording and the treatment of "don't know" responses and those not intending to vote may vary between polling organisations. When available, seat projections are displayed below the percentages in a smaller font. 176 seats are required for an [[absolute majority]] in the [[Congress of Deputies]].
 
-{| class="wikitable mw-datatable collapsible poll-results" style="text-align:center; font-size:95%; line-height:16px;"
+=====2021=====
+{| class="wikitable collapsible" style="text-align:center; font-size:95%; line-height:16px;"
 |- style="height:42px; background-color:#E9E9E9"
 ! style="width:250px;" rowspan="2"| Polling firm/Commissioner
 ! style="width:125px;" rowspan="2"| Fieldwork date
@@ -39,6 +40,363 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Galician Nationalist Bloc/meta/color}};"|
 ! style="background:{{Navarra Suma/meta/color}};"|
 ! style="background:{{Regionalist Party of Cantabria/meta/color}};"|
+|-
+| Sigma Dos/Antena 3<ref>{{cite web |title=El PP ganaría las elecciones con 130 escaños si se celebrasen hoy, según la última encuesta de Sigma 2 |url=https://www.antena3.com/noticias/espana/ganaria-elecciones-130-escanos-celebrasen-hoy-segun-ultima-encuesta-sigma-2_202110116163daced257c7000137ebc9.html |language=es |work=Antena 3 |date=11 October 2021}}</ref>
+| 11 Oct 2021
+|?
+|?
+| 25.1<br/>{{font|size=75%|font=Verdana|text=100}}
+| {{Party shading/PP}}| '''28.5'''<br/>{{font|size=75%|font=Verdana|text=130}}
+| 14.6<br/>{{font|size=75%|font=Verdana|text=45}}
+| 11.1<br/>{{font|size=75%|font=Verdana|text=24}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.1<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=7}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=7}}
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.4
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (10-O): el PP recupera posiciones |url=https://electomania.es/ep10o21/ |language=es |work=Electomanía |date=10 October 2021}}</ref>
+| 1–8 Oct 2021
+| 2,119
+|?
+| 26.6<br/>{{font|size=75%|font=Verdana|text=105}}
+| {{Party shading/PP}}| '''28.0'''<br/>{{font|size=75%|font=Verdana|text=118}}
+| 16.9<br/>{{font|size=75%|font=Verdana|text=54}}
+| 10.0<br/>{{font|size=75%|font=Verdana|text=24}}
+| 2.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=14}}
+| 2.8<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.4
+|-
+| IMOP/El Confidencial<ref>{{cite web |title=El PP aumenta su ventaja sobre el PSOE y la derecha alcanzaría la Moncloa |url=https://www.elconfidencial.com/espana/observatorio-electoral/2021-10-13/pp-aumenta-ventaja-sobre-psoe_3305254/ |language=es |work=El Confidencial |date=13 October 2021}}</ref>
+| 27 Sep–8 Oct 2021
+| 1,317
+|?
+| 25.8<br/>{{font|size=75%|font=Verdana|text=101}}
+| {{Party shading/PP}}| '''26.8'''<br/>{{font|size=75%|font=Verdana|text=115}}
+| 16.8<br/>{{font|size=75%|font=Verdana|text=58}}
+| 10.8<br/>{{font|size=75%|font=Verdana|text=28}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.2<br/>{{font|size=75%|font=Verdana|text=13}}
+| 4.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.0
+|-
+| Data10/OKDiario<ref>{{cite web |title=Casado sale reforzado de la Convención: supera en 31 escaños al PSOE y tendría mayoría absoluta con Vox |url=https://okdiario.com/espana/casado-sale-reforzado-convencion-supera-31-escanos-psoe-tendria-mayoria-absoluta-vox-7912579 |language=es |work=OKDiario |date=10 October 2021}}</ref>
+| 5–7 Oct 2021
+| 1,000
+|?
+| 24.9<br/>{{font|size=75%|font=Verdana|text=98}}
+| {{Party shading/PP}}| '''29.0'''<br/>{{font|size=75%|font=Verdana|text=127}}
+| 16.0<br/>{{font|size=75%|font=Verdana|text=52}}
+| 9.8<br/>{{font|size=75%|font=Verdana|text=22}}
+| 2.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=14}}
+| 4.2<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=10}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.1
+|-
+| SocioMétrica/El Español<ref>{{cite web |title=Casado rompe su techo del 27% y logra su mayor ventaja sobre Sánchez tras la plaza de toros de Valencia |url=https://www.elespanol.com/espana/politica/20211010/casado-rompe-techo-logra-ventaja-sanchez-valencia/617689172_0.html |language=es |work=El Español |date=10 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta SocioMétrica 10/10/2021: UP-ECP-EC 11,4% (30), MÁS PAÍS-EQUO 3,5% (5), PSOE 25,0% (99), Cs 4,3% (2), PP 27,2% (118), VOX 16,3% (55) |url=https://www.electograph.com/2021/10/encuesta-sociometrica-211010.html |language=es |work=Electograph |date=10 October 2021}}</ref>
+| 4–7 Oct 2021
+| 1,200
+|?
+| 25.0<br/>{{font|size=75%|font=Verdana|text=99}}
+| {{Party shading/PP}}| '''27.2'''<br/>{{font|size=75%|font=Verdana|text=118}}
+| 16.3<br/>{{font|size=75%|font=Verdana|text=55}}
+| 11.4<br/>{{font|size=75%|font=Verdana|text=30}}
+| 4.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.5<br/>{{font|size=75%|font=Verdana|text=5}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.2
+|-
+| Hamalgama Métrica/VozPópuli<ref>{{cite web |title=Vox sigue siendo imprescindible para que Casado desaloje a Sánchez de Moncloa |url=https://www.vozpopuli.com/espana/vox-casado-sanchez-encuesta.html |language=es |work=VozPópuli |date=13 October 2021}}</ref><ref>{{cite web |title=Encuesta Vozpópuli: PSOE y Podemos pierden un millón de votos y el PP ganaría dos |url=https://www.vozpopuli.com/espana/psoe-podemos-pp.html |language=es |work=VozPópuli |date=13 October 2021}}</ref>
+| 1–6 Oct 2021
+| 1,000
+| 65.7
+| 26.2<br/>{{font|size=75%|font=Verdana|text=103}}
+| {{Party shading/PP}}| '''28.7'''<br/>{{font|size=75%|font=Verdana|text=121}}
+| 15.9<br/>{{font|size=75%|font=Verdana|text=53}}
+| 10.1<br/>{{font|size=75%|font=Verdana|text=24}}
+| 2.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.5
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (3Oct): Vox coge impulso y alcanza el 17% |url=https://electomania.es/ep3oct21/ |language=es |work=Electomanía |date=3 October 2021}}</ref>
+| 24 Sep–1 Oct 2021
+| 1,193
+|?
+| 26.7<br/>{{font|size=75%|font=Verdana|text=106}}
+| {{Party shading/PP}}| '''27.5'''<br/>{{font|size=75%|font=Verdana|text=114}}
+| 17.0<br/>{{font|size=75%|font=Verdana|text=56}}
+| 10.2<br/>{{font|size=75%|font=Verdana|text=24}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=14}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=7}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.8
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (26S): PP y PSOE, empatados en votos y la gobernabilidad se complica más |url=https://electomania.es/ep26s21/ |language=es |work=Electomanía |date=26 September 2021}}</ref>
+| 17–24 Sep 2021
+| 1,651
+|?
+| 27.2<br/>{{font|size=75%|font=Verdana|text=108}}
+| {{Party shading/PP}}| '''27.5'''<br/>{{font|size=75%|font=Verdana|text=117}}
+| 16.5<br/>{{font|size=75%|font=Verdana|text=52}}
+| 10.1<br/>{{font|size=75%|font=Verdana|text=24}}
+| 3.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=14}}
+| 3.1<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.3
+|-
+| IMOP/El Confidencial<ref>{{cite web |title=PP y Vox consolidan su ventaja y se quedan a dos escaños de la mayoría absoluta |url=https://www.elconfidencial.com/espana/observatorio-electoral/2021-09-29/pp-vox-consolidan-ventaja-dos-escanos-mayoria-absoluta_3297591/ |language=es |work=El Confidencial |date=28 September 2021}}</ref>
+| 13–24 Sep 2021
+| 1,304
+|?
+| 26.1<br/>{{font|size=75%|font=Verdana|text=103}}
+| {{Party shading/PP}}| '''26.6'''<br/>{{font|size=75%|font=Verdana|text=113}}
+| 17.0<br/>{{font|size=75%|font=Verdana|text=59}}
+| 10.9<br/>{{font|size=75%|font=Verdana|text=27}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.1<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.8<br/>{{font|size=75%|font=Verdana|text=4}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=3}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.5
+|-
+| KeyData/Público<ref>{{cite web |title=La batalla entre Casado y Ayuso frena el ascenso de un PP que reduce su ventaja sobre el Gobierno, según las encuestas |url=https://www.publico.es/politica/batalla-casado-ayuso-frena-ascenso-pp-reduce-ventaja-gobierno-encuestas.html |language=es |work=Público |date=25 September 2021}}</ref>
+| 23 Sep 2021
+|?
+| 64.2
+| 26.0<br/>{{font|size=75%|font=Verdana|text=104}}
+| {{Party shading/PP}}| '''28.0'''<br/>{{font|size=75%|font=Verdana|text=120}}
+| 15.5<br/>{{font|size=75%|font=Verdana|text=52}}
+| 10.2<br/>{{font|size=75%|font=Verdana|text=25}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.6<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.6<br/>{{font|size=75%|font=Verdana|text=5}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.0
+|-
+| Celeste-Tel/Onda Cero<ref>{{cite web |title=El bloque de centro-derecha podría gobernar y el PSOE deja de caer |url=https://www.ondacero.es/noticias/espana/bloque-centroderecha-podria-gobernar-psoe-deja-caer_202109276151c6f91d28e900019ee7b9.html |language=es |work=Onda Cero |date=27 September 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta Celeste-Tel 27/09/2021: UP-ECP-EC 9,9% (24), MÁS PAÍS-EQUO 4,1% (6), PSOE 26,1% (103), Cs 3,5% (2), PP 29,2% (124), VOX 15,1% (50) |url=https://www.electograph.com/2021/09/encuesta-celeste-tel-210927.html |language=es |work=Electograph |date=27 September 2021}}</ref>
+| 16–21 Sep 2021
+| 1,100
+|?
+| 26.1<br/>{{font|size=75%|font=Verdana|text=103}}
+| {{Party shading/PP}}| '''29.2'''<br/>{{font|size=75%|font=Verdana|text=124}}
+| 15.1<br/>{{font|size=75%|font=Verdana|text=50}}
+| 9.9<br/>{{font|size=75%|font=Verdana|text=24}}
+| 3.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 3.2<br/>{{font|size=75%|font=Verdana|text=13}}
+| 4.1<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.1
+|-
+| Data10/OKDiario<ref>{{cite web |title=Casado pierde 5 escaños frente a Sánchez en 15 días por la crisis de Madrid pero gobernaría con Vox |url=https://okdiario.com/espana/casado-pierde-5-escanos-frente-sanchez-15-dias-crisis-madrid-pero-gobernaria-vox-7817251 |language=es |work=OKDiario |date=21 September 2021}}</ref>
+| 19–20 Sep 2021
+| 1,000
+|?
+| 25.0<br/>{{font|size=75%|font=Verdana|text=100}}
+| {{Party shading/PP}}| '''28.7'''<br/>{{font|size=75%|font=Verdana|text=126}}
+| 16.1<br/>{{font|size=75%|font=Verdana|text=52}}
+| 9.6<br/>{{font|size=75%|font=Verdana|text=22}}
+| 2.9<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=14}}
+| 4.4<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=10}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.7
+|-
+| DYM/Henneo<ref>{{cite web |title=La tensión entre Casado y Ayuso pasa factura al PP, que pierde su ventaja sobre el PSOE |url=https://www.lagacetadesalamanca.es/nacional/la-tension-entre-casado-y-ayuso-pasa-factura-al-pp-que-pierde-su-ventaja-sobre-el-psoe-MB9056493 |language=es |work=La Gaceta de Salamanca |date=22 September 2021}}</ref><ref>{{cite web |title=PSOE y PP empatarían tras meses de ventaja de los populares |url=https://www.20minutos.es/noticia/4830679/0/psoe-pp-empatarian-tras-meses-ventaja-populares-elecciones-generales/ |language=es |work=20 minutos |date=23 September 2021}}</ref>
+| 16–19 Sep 2021
+| 1,000
+|?
+| 26.0<br/>{{font|size=75%|font=Verdana|text=105/110}}
+| {{Party shading/PP}}| '''26.1'''<br/>{{font|size=75%|font=Verdana|text=108/114}}
+| 15.6<br/>{{font|size=75%|font=Verdana|text=50/54}}
+| 12.8<br/>{{font|size=75%|font=Verdana|text=30/33}}
+| 3.9<br/>{{font|size=75%|font=Verdana|text=2/3}}
+| –
+| 3.0<br/>{{font|size=75%|font=Verdana|text=3/4}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.1
+|-
+| NC Report/La Razón<ref>{{cite web |title=El PP se afianza pero necesita a Vox |url=https://www.larazon.es/espana/20210920/gbcj33qtsbhi7bbtsqwa64magq.html |language=es |work=La Razón |date=20 September 2021}}</ref>
+| 14–18 Sep 2021
+| 1,000
+| 63.6
+| 25.0<br/>{{font|size=75%|font=Verdana|text=99/101}}
+| {{Party shading/PP}}| '''29.9'''<br/>{{font|size=75%|font=Verdana|text=128/130}}
+| 14.9<br/>{{font|size=75%|font=Verdana|text=47/49}}
+| 9.5<br/>{{font|size=75%|font=Verdana|text=21/23}}
+| 2.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=12}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=5}}
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.9
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (19S): el PP desciende y no sumaría absoluta junto a Vox, Foro y Nav+ |url=https://electomania.es/ep19s21/ |language=es |work=Electomanía |date=19 September 2021}}</ref>
+| 10–17 Sep 2021
+| 1,233
+|?
+| 26.0<br/>{{font|size=75%|font=Verdana|text=103}}
+| {{Party shading/PP}}| '''28.1'''<br/>{{font|size=75%|font=Verdana|text=120}}
+| 16.4<br/>{{font|size=75%|font=Verdana|text=53}}
+| 10.4<br/>{{font|size=75%|font=Verdana|text=25}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.1<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.1
+|-
+| GAD3/NIUS<ref name="GAD3Sep21">{{cite web |title=España ingobernable: el PP no se garantiza La Moncloa y el PSOE tampoco suma |url=https://www.niusdiario.es/nacional/politica/encuesta-gad3-septiembre-espana-ingobernable-pp-no-garantiza-gobierno-psoe-recorta-distancia_18_3204349233.html |language=es |work=NIUS |date=20 September 2021}}</ref><ref>{{cite web |title=Barómetro NIUS. Estimación Elecciones Generales |url=https://www.gad3.com/barometro-nius-estimacion-elecciones-generales/ |language=es |work=GAD3 |date=20 September 2021}}</ref>
+| 13–16 Sep 2021
+| 1,002
+|?
+| 26.3<br/>{{font|size=75%|font=Verdana|text=102/106}}
+| {{Party shading/PP}}| '''28.2'''<br/>{{font|size=75%|font=Verdana|text=118/122}}
+| 15.4<br/>{{font|size=75%|font=Verdana|text=50/52}}
+| 11.0<br/>{{font|size=75%|font=Verdana|text=27/29}}
+| 2.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.8<br/>{{font|size=75%|font=Verdana|text=14}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=10}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.9
+|-
+| Simple Lógica<ref name="SLSep21">{{cite web |title=Intención de voto y valoración de líderes políticos (septiembre 2021) |url=https://www.simplelogica.com/es/intencion-de-voto-y-valoracion-de-lideres-politicos-septiembre-2021/ |language=es |work=Simple Lógica |date=24 September 2021}}</ref>
+| 1–16 Sep 2021
+| 1,027
+| 64.9
+| {{Party shading/PSOE}}| '''26.2'''
+| 22.5
+| 17.7
+| 11.3
+| 3.3
+| –
+| 4.9
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.7
 |-
 | CIS<ref name="CISSep21">{{cite web |title=Barómetro de septiembre 2021 (Estudio nº 3334. Septiembre 2021) |url=http://datos.cis.es/pdf/Es3334marMT_A.pdf |language=es |work=CIS |date=16 September 2021}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3334. Septiembre 2021) |url=http://datos.cis.es/pdf/3334_Estimacion.pdf |language=es |work=CIS |date=16 September 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta CIS 16/09/2021: UP-ECP-EC 11,3%, MÁS PAÍS-EQUO 3,3%, PSOE 29,6%, Cs 6,5%, PP 20,5%, VOX 13,8% |url=https://www.electograph.com/2021/09/encuesta-cis-210916.html |language=es |work=Electograph |date=16 September 2021}}</ref>
 | 1–13 Sep 2021
@@ -82,7 +440,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 0.2
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (12S): subida del PSOE, que araña algún escaño a la derecha |url=https://electomania.es/ep12s21/ |language=es |work=Electomanía |date=5 September 2021}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (12S): subida del PSOE, que araña algún escaño a la derecha |url=https://electomania.es/ep12s21/ |language=es |work=Electomanía |date=12 September 2021}}</ref>
 | 3–9 Sep 2021
 | 1,084
 |?
@@ -124,7 +482,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.8
 |-
-| Sigma Dos/El Mundo<ref>{{cite web |title=ESPAÑA. Encuesta SigmaDos 06/09/2021: UP-ECP-EC 10,3% (22), MÁS PAÍS-EQUO 4,1% (8), PSOE 24,4% (98), Cs 3,1% (1), PP 29,1% (131), VOX 14,9% (47) |url=https://www.electograph.com/2021/09/encuesta-sigmados-210906.html |language=es |work=Electograph |date=5 September 2021}}</ref>
+| Sigma Dos/El Mundo<ref>{{cite web |title=Encuesta Sigma Dos - El Mundo. El PP se mantiene como favorito para ganar las elecciones generales con 131 escaños |url=https://www.sigmados.com/encuesta-sigma-dos-el-mundo-el-pp-se-mantiene-como-favorito-para-ganar-las-elecciones-generales-con-131-escanos/ |language=es |work=Sigma Dos |date=6 September 2021}}</ref>
 | 30 Aug–2 Sep 2021
 | 1,050
 |?
@@ -1172,7 +1530,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.5
 |-
-| DYM/Henneo<ref name="DYMMay21">{{cite web |title=El PP supera por primera vez al PSOE y sumaría mayoría con Vox |url=https://www.20minutos.es/noticia/4708680/0/pp-supera-primera-vez-psoe-sumaria-mayoria-vox/ |language=es |work=20 minutos |date=26 May 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta DYM 26/05/2021: UP-ECP-EC 9,3% (20/22), MÁS PAÍS-EQUO 5,0% (4/6), PSOE 24,5% (99/103), Cs 3,4% (2/3), PP 28,1% (121/126), VOX 16,0% (53/57) |url=https://www.electograph.com/2021/05/encuesta-dym-210526.html |language=es |work=Diario de Sevilla |date=26 May 2021}}</ref>
+| DYM/Henneo<ref name="DYMMay21">{{cite web |title=El PP supera por primera vez al PSOE y sumaría mayoría con Vox |url=https://www.20minutos.es/noticia/4708680/0/pp-supera-primera-vez-psoe-sumaria-mayoria-vox/ |language=es |work=20 minutos |date=26 May 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta DYM 26/05/2021: UP-ECP-EC 9,3% (20/22), MÁS PAÍS-EQUO 5,0% (4/6), PSOE 24,5% (99/103), Cs 3,4% (2/3), PP 28,1% (121/126), VOX 16,0% (53/57) |url=https://www.electograph.com/2021/05/encuesta-dym-210526.html |language=es |work=Electograph |date=26 May 2021}}</ref>
 | 21–24 May 2021
 | 1,008
 |?
@@ -2551,6 +2909,47 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.3
+|}
+
+=====2020=====
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:250px;" rowspan="2"| Polling firm/Commissioner
+! style="width:125px;" rowspan="2"| Fieldwork date
+! style="width:50px;" rowspan="2"| Sample size
+! style="width:45px;" rowspan="2"| Turnout
+! style="width:43px;"| [[File:Logotipo del PSOE.svg|25px|link=Spanish Socialist Workers' Party|PSOE]]
+! style="width:43px;"| [[File:PP icono 2019.svg|27px|link=People's Party (Spain)|PP]]
+! style="width:35px;"| [[File:VOX logo.svg|30px|link=Vox (political party)|Vox]]
+! style="width:35px;"| [[File:UPsimbol.svg|30px|link=Unidas Podemos]]
+! style="width:35px;"| [[File:Logo oficial Ciudadanos.svg|23px|link=Citizens (Spanish political party)|Cs]]
+! style="width:35px;"| [[File:Esquerra Republicana de Catalunya-Sobiranistes icono.svg|30px|link=Republican Left of Catalonia–Sovereigntists|ERC–Sobiranistes]]
+! style="width:35px;"| [[File:Más País.svg|25px|link=Más País]]
+! style="width:35px;"| [[File:Junts per Catalunya.svg|25px|link=Together for Catalonia (2017)|JxCat]]<br/>[[File:Junts per Catalunya (2020).svg|25px|link=Together for Catalonia (2020)|Junts]]
+! style="width:35px;"| [[Basque Nationalist Party|PNV]]
+! style="width:35px;"| [[File:EHB.png|28px|link=EH Bildu]]
+! style="width:35px;"| [[File:CUP.svg|27px|link=Popular Unity Candidacy|CUP]]
+! style="width:35px;"| [[File:Logo compacto Coalición Canaria-Nueva Canarias 2019.svg|32px|link=Canarian Coalition|CC–NCa]]
+! style="width:35px;"| [[File:BNG logo.svg|30px|link=Galician Nationalist Bloc|BNG]]
+! style="width:35px;"| [[File:Logo Navarra Suma.png|30px|link=Navarra Suma|NA+]]
+! style="width:35px;"| [[Regionalist Party of Cantabria|PRC]]
+! style="width:30px;" rowspan="2"| Lead
+|-
+! style="background:{{Spanish Socialist Workers' Party/meta/color}};"|
+! style="background:{{People's Party (Spain)/meta/color}};"|
+! style="background:{{Vox (political party)/meta/color}};"|
+! style="background:{{Unidas Podemos/meta/color}};"|
+! style="background:{{Citizens (Spanish political party)/meta/color}};"|
+! style="background:{{Republican Left of Catalonia–Sovereigntists/meta/color}};"|
+! style="background:{{Más País/meta/color}};"|
+! style="background:{{Together for Catalonia (2020)/meta/color}};"|
+! style="background:{{Basque Nationalist Party/meta/color}};"|
+! style="background:{{EH Bildu/meta/color}};"|
+! style="background:{{Popular Unity Candidacy/meta/color}};"|
+! style="background:{{Canarian Coalition/meta/color}};"|
+! style="background:{{Galician Nationalist Bloc/meta/color}};"|
+! style="background:{{Navarra Suma/meta/color}};"|
+! style="background:{{Regionalist Party of Cantabria/meta/color}};"|
 |-
 | NC Report/La Razón<ref>{{cite web |title=PSOE y Podemos se enfrentan al virus de la abstención |url=https://www.larazon.es/espana/20210103/4qz6k6qy7fgxnnjgy2vzvfhzuq.html |language=es |work=La Razón |date=4 January 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 04/01/2021: UP-ECP-EC 11,7% (30/31), MÁS PAÍS-EQUO 2,2% (2), PSOE 26,2% (110/112), Cs 6,7% (10/11), PP 24,3% (102/104), VOX 15,2% (51/52) |url=https://www.electograph.com/2021/01/encuesta-nc-report-210104.html |language=es |work=Electograph |date=4 January 2021}}</ref>
 | 18–30 Dec 2020
@@ -6334,6 +6733,47 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.9
+|}
+
+=====2019=====
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:250px;" rowspan="2"| Polling firm/Commissioner
+! style="width:125px;" rowspan="2"| Fieldwork date
+! style="width:50px;" rowspan="2"| Sample size
+! style="width:45px;" rowspan="2"| Turnout
+! style="width:43px;"| [[File:Logotipo del PSOE.svg|25px|link=Spanish Socialist Workers' Party|PSOE]]
+! style="width:43px;"| [[File:PP icono 2019.svg|27px|link=People's Party (Spain)|PP]]
+! style="width:35px;"| [[File:VOX logo.svg|30px|link=Vox (political party)|Vox]]
+! style="width:35px;"| [[File:UPsimbol.svg|30px|link=Unidas Podemos]]
+! style="width:35px;"| [[File:Logo oficial Ciudadanos.svg|23px|link=Citizens (Spanish political party)|Cs]]
+! style="width:35px;"| [[File:Esquerra Republicana de Catalunya-Sobiranistes icono.svg|30px|link=Republican Left of Catalonia–Sovereigntists|ERC–Sobiranistes]]
+! style="width:35px;"| [[File:Más País.svg|25px|link=Más País]]
+! style="width:35px;"| [[File:Junts per Catalunya.svg|25px|link=Together for Catalonia (2017)|JxCat]]<br/>[[File:Junts per Catalunya (2020).svg|25px|link=Together for Catalonia (2020)|Junts]]
+! style="width:35px;"| [[Basque Nationalist Party|PNV]]
+! style="width:35px;"| [[File:EHB.png|28px|link=EH Bildu]]
+! style="width:35px;"| [[File:CUP.svg|27px|link=Popular Unity Candidacy|CUP]]
+! style="width:35px;"| [[File:Logo compacto Coalición Canaria-Nueva Canarias 2019.svg|32px|link=Canarian Coalition|CC–NCa]]
+! style="width:35px;"| [[File:BNG logo.svg|30px|link=Galician Nationalist Bloc|BNG]]
+! style="width:35px;"| [[File:Logo Navarra Suma.png|30px|link=Navarra Suma|NA+]]
+! style="width:35px;"| [[Regionalist Party of Cantabria|PRC]]
+! style="width:30px;" rowspan="2"| Lead
+|-
+! style="background:{{Spanish Socialist Workers' Party/meta/color}};"|
+! style="background:{{People's Party (Spain)/meta/color}};"|
+! style="background:{{Vox (political party)/meta/color}};"|
+! style="background:{{Unidas Podemos/meta/color}};"|
+! style="background:{{Citizens (Spanish political party)/meta/color}};"|
+! style="background:{{Republican Left of Catalonia–Sovereigntists/meta/color}};"|
+! style="background:{{Más País/meta/color}};"|
+! style="background:{{Together for Catalonia (2020)/meta/color}};"|
+! style="background:{{Basque Nationalist Party/meta/color}};"|
+! style="background:{{EH Bildu/meta/color}};"|
+! style="background:{{Popular Unity Candidacy/meta/color}};"|
+! style="background:{{Canarian Coalition/meta/color}};"|
+! style="background:{{Galician Nationalist Bloc/meta/color}};"|
+! style="background:{{Navarra Suma/meta/color}};"|
+! style="background:{{Regionalist Party of Cantabria/meta/color}};"|
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (29D): sigue el empate entre bloques. Bajan Cs y Vox, suben UP y PP |url=https://electomania.es/ep29d/ |language=es |work=Electomanía |date=29 December 2019}}</ref>
 | 25–28 Dec 2019

@@ -32,6 +32,25 @@
 ! class="unsortable" style="background:{{The Progressives (Latvia)/meta/color}};"|
 ! class="unsortable" style="background:{{Law and Order (Latvia)/meta/color}};"|
 |-
+|1 Sep-1 Oct 2021
+|[https://twitter.com/Interactive_LV/status/1444309330766049281 Factum Interactive]
+|1170
+|'''13.4'''
+|0.7
+|'''6.9'''
+|'''14.8'''
+|'''11.9'''
+|'''8.5'''
+|style="background:#a0d78e"|'''15.5'''
+|4.0
+|2.9
+|'''5.7'''
+|'''6.1'''
+|9.6
+| -
+| -
+|style="background:#a0d78e"|0.7
+|-
 |27-31 August 2021
 |[https://twitter.com/Interactive_LV/status/1432991968368513024 Factum Interactive]
 |1181

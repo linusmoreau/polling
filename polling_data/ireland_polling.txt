@@ -27,6 +27,32 @@
 
 PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological order - latest first - but users can sort the table. In order to preserve the ability to sort by polling date, please include an entry for data-sort-value in front of the polling date. In order to preserve the ability to sort by polling company, please increment the relevant data-sort-value by one each time you add a new poll. So a new Behaviour & Attitudes poll would become "B&A14" if the last one was "B&A13". Please also wikilink the most recent poll (link goes to the publishing media outlet, piped to show the commissioning publisher and polling company) and please also unlink the prior poll from that company. If the above doesn't make sense to you, please do not make major changes. -->
 |-
+|data-sort-value="2021-10-5"|5 October 2021
+|data-sort-value="Ipsos5"|[[The Irish Times|Ipsos MRBI/Irish Times]]<ref group="p">{{cite news |last=Leahy |first=Pat |date=6 October 2021 |title=Poll: Sinn Féin opens up 10-point lead as most popular party among voters |url=https://www.irishtimes.com/news/politics/poll-sinn-f%C3%A9in-opens-up-10-point-lead-as-most-popular-party-among-voters-1.4693054 |work=[[Irish Times]] |location= |access-date=6 October 2021}}</ref><ref group="p">{{Cite tweet |author=IrelandElects |user=ToghannEire |number=1445826603959787521 |title=@IpsosMRBI/@IrishTimes Poll}}</ref>
+|1,200
+|style="background:#D7ECEA"|'''32'''
+|20
+|22
+|7
+|4
+|3
+|2
+|1
+|10
+|-
+|data-sort-value="2021-09-18"|18 September 2021
+|data-sort-value="ITMos14"|[[Irish Daily Mail|Ireland Thinks/Irish Mail on Sunday]]<ref group="p">{{Cite tweet |user=ToghannEire |author=Ireland Elects |date=19 September 2021 |number=1439363948281741316 |title=Ireland Thinks September poll}}</ref>
+|1,000
+|style="background:#D7ECEA"|'''29'''
+|19
+|23
+|4
+|4
+|6
+|4
+|4
+| – <ref group="nb" name="absent">Not specifically mentioned in the report.</ref>
+|-
 |data-sort-value="2021-09-09"|9 September 2021
 |data-sort-value="RedC11"|[[Business Post|Red C/Business Post]]<ref group="p">{{Cite tweet |author=Next Irish General Election |user=NextIrishGE |number=1436797590461423619  |title=Red C / Sunday Business Post }}</ref>
 |1,031
@@ -54,7 +80,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |8
 |-
 |data-sort-value="2021-08-21"|21 August 2021
-|data-sort-value="ITMos13"|[[Irish Daily Mail|Ireland Thinks/Irish Mail on Sunday]]<ref group="p">{{Cite web|date=22 August 2021|title=Next Irish General Election|url=https://twitter.com/nextirishge/status/1429383951626481666?s=20|url-status=live|access-date=2021-08-22|website=Twitter|language=en}}</ref>
+|data-sort-value="ITMos13"|Ireland Thinks/Irish Mail on Sunday<ref group="p">{{Cite web|date=22 August 2021|title=Next Irish General Election|url=https://twitter.com/nextirishge/status/1429383951626481666?s=20|url-status=live|access-date=2021-08-22|website=Twitter|language=en}}</ref>
 |1,203
 |style="background:#D7ECEA"|'''30'''
 |15
@@ -119,7 +145,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |10
 |-
 |data-sort-value="2021-06-15"|15 June 2021
-|data-sort-value="Ipsos4"|[[The Irish Times|Ipsos MRBI/Irish Times]]<ref group="p">{{Cite web|last=Leahy|first=Pat|date=2021-06-16|title=Irish Times poll: Sinn Féin hits record high as Fine Gael drops among voters|url=https://www.irishtimes.com/news/politics/irish-times-poll-sinn-f%C3%A9in-hits-record-high-as-fine-gael-drops-among-voters-1.4595323|url-status=live|access-date=16 June 2021|website=[[The Irish Times]]|language=en}}</ref>
+|data-sort-value="Ipsos4"|Ipsos MRBI/Irish Times<ref group="p">{{Cite web|last=Leahy|first=Pat|date=2021-06-16|title=Irish Times poll: Sinn Féin hits record high as Fine Gael drops among voters|url=https://www.irishtimes.com/news/politics/irish-times-poll-sinn-f%C3%A9in-hits-record-high-as-fine-gael-drops-among-voters-1.4595323|url-status=live|access-date=16 June 2021|website=[[The Irish Times]]|language=en}}</ref>
 |1,200
 |style="background:#D7ECEA"|'''31'''
 |20

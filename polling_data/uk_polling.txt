@@ -1,7 +1,7 @@
 === 2021 ===
 {{For|events during the year|2021 in the United Kingdom}}
 {| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
-! rowspan="2" |Dates<br>conducted
+! rowspan="2"|Dates<br>conducted
 ! rowspan="2"|Pollster
 ! rowspan="2"|Client
 ! rowspan="2"|Area
@@ -19,6 +19,243 @@
 ! data-sort-type="number" style="background:{{Liberal Democrats (UK)/meta/color}};"|
 ! data-sort-type="number" style="background:{{Scottish National Party/meta/color}};"|
 ! data-sort-type="number" style="background:{{Green Party of England and Wales/meta/color}};"|
+|-
+|{{opdrts|12|13|Oct|2021}}
+|[https://yougov.co.uk/topics/politics/articles-reports/2021/10/14/voting-intention-con-41-lab-31-12-13-oct YouGov]
+|N/A
+|GB
+|1,659
+|style="background:#CCEBFF;"|'''41%'''
+|31%
+|9%
+|4%
+|8%
+|{{Hidden|7%|[[Reform UK]] on 4%<br/>[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|10%
+|-
+|{{opdrts||11|Oct|2021}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-11-october-2021/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''40%'''
+|36%
+|9%
+|4%
+|6%
+|{{Hidden|5%|[[Reform UK]] on 4%<br/>[[Plaid Cymru]] on 0%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|4%
+|-
+|{{opdrts|8|10|Oct|2021}}
+|[https://twitter.com/SavantaComRes/status/1448652047138504711 SavantaComRes]
+|N/A
+|UK
+|2,103
+|style="background:#CCEBFF;"|'''40%'''
+|35%
+|8%
+|5%
+|5%
+|7%
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|5%
+|-
+|{{opdrts|6|7|Oct|2021}}
+|[https://cdn.survation.com/wp-content/uploads/2021/10/11093441/S-21-000634_DailyMirror_finaltables.xlsx Survation]
+|''Sunday Mirror''
+|UK
+|1,040
+|style="background:#CCEBFF;"|'''39%'''
+|35%
+|9%
+|4%
+|5%
+|{{Hidden|8%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|4%
+|-
+|{{opdrts|5|6|Oct|2021}}
+|[https://docs.cdn.yougov.com/d13w1ni2bk/TheTimes_VI_Results_211006_W.pdf YouGov]
+|''The Times''
+|GB
+|1,667
+|style="background:#CCEBFF;"|'''39%'''
+|31%
+|9%
+|6%
+|9%
+|{{Hidden|7%|[[Reform UK]] on 4%<br/>[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|8%
+|-
+|{{opdrts||4|Oct|2021}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-4-october-2021/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''40%'''
+|37%
+|10%
+|4%
+|4%
+|{{Hidden|4%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 0%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|3%
+|-
+|{{opdrts|1|3|Oct|2021}}
+|[https://twitter.com/SavantaComRes/status/1445687038490017810 SavantaComRes]
+|N/A
+|UK
+|2,095
+|style="background:#CCEBFF;"|'''40%'''
+|35%
+|9%
+|5%
+|4%
+|8%
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|5%
+|-
+|{{opdrts||01|Oct|2021}}
+|colspan="11"|'''[[Carla Denyer]] and [[Adrian Ramsay]] are [[2021 Green Party of England and Wales leadership election|elected co-leaders]] of the [[Green Party of England and Wales]]'''<ref>{{Cite news|date=1 October 2021|title=Green Party's new leadership team to focus on power not protests|work=BBC News|url=https://www.bbc.co.uk/news/uk-politics-58761003|access-date=1 October 2021}}</ref>
+|-
+|{{opdrts|29|1|Oct|2021}}
+|[https://www.opinium.com/wp-content/uploads/2021/10/VI-29-09-2021-Tables.xlsx Opinium]
+|''The Observer''
+|GB
+|2,004
+|style="background:#CCEBFF;"|'''39%'''
+|35%
+|8%
+|6%
+|6%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|6%|[[Plaid Cymru]] on 1%<br/>Other on 5%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|4%
+|-
+|{{opdrts||29|Sep|2021}}
+|[https://www.survation.com/political-polling-30-september-2021/ Survation]
+|N/A
+|UK
+|1,001
+|style="background:#CCEBFF;"|'''41%'''
+|36%
+|8%
+|5%
+|5%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|4%|[[Plaid Cymru]] on 0%<br/>Other on 4%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|5%
+|-
+|{{opdrts|28|29|Sep|2021}}
+|[https://docs.cdn.yougov.com/0kuj10mb3m/TheTimes_VI_Results_210929_W.pdf YouGov]
+|''The Times''
+|GB
+|1,833
+|style="background:#CCEBFF;"|'''39%'''
+|31%
+|8%
+|5%
+|9%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|7%|[[Reform UK]] on 4%<br/>[[Plaid Cymru]] on 1% <br/>Other on 2%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|8%
+|-
+|{{opdrts||27|Sep|2021}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-27-september-2021/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''41%'''
+|35%
+|10%
+|4%
+|5%
+|{{Hidden|5%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 0%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|6%
+|-
+|{{opdrts|23|27|Sep|2021}}
+|[https://www.kantarpublic.com/download/documents/257/September+barometer+final+tables_v2.pdf Kantar Public]
+|N/A
+|GB
+|1,089
+|style="background:#CCEBFF;"|'''43%'''
+|30%
+|11%
+|4%
+|6%
+|{{Hidden|6%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 1%<br/>[[UK Independence Party|UKIP]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|13%
+|-
+|{{opdrts|22|23|Sep|2021}}
+|[https://docs.cdn.yougov.com/ytqnzq7gdq/TheTimes_VI_Results_210923_W.pdf YouGov]
+|''The Times''
+|GB
+|1,690
+|style="background:#CCEBFF;"|'''39%'''
+|32%
+|10%
+|4%
+|9%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|6%|[[Plaid Cymru]] on 1%<br/>[[Reform UK]] on 3% <br/>Other on 2%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|7%
+|-
+|{{opdrts|17|23|sep|2021}}
+|[https://www.ipsos.com/ipsos-mori/en-uk/johnson-and-starmer-neck-and-neck-who-would-make-most-capable-prime-minister-public-doubts-about Ipsos MORI] 
+|''Evening Standard''
+|GB
+|1,008
+|style="background:#CCEBFF;"|'''39%'''
+|36%
+|9%
+|6%
+|6%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|3%|[[Plaid Cymru]] on 1%<br/>[[UKIP]] on 0% <br/>[[Reform UK]] on 0% <br/>Other on 2%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|3%
+|-
+|{{opdrts|21|22|Sep|2021}}
+|[https://www.survation.com/conservatives-hold-5-point-lead-over-labour-going-into-conference-season/ Survation]
+|N/A
+|UK
+|1,060
+|style="background:#CCEBFF;"|'''40%'''
+|35%
+|8%
+|4%
+|4%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|9%|[[Plaid Cymru]] on 1%<br/>Other on 8%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|5%
+|-
+|{{opdrts||20|Sep|2021}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-20-september-2021/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''41%'''
+|35%
+|8%
+|4%
+|7%
+|{{Hidden|5%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 0%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|6%
+|-
+|{{opdrts|17|19|Sep|2021}}
+|[https://twitter.com/savantacomres/status/1440684167088377875?s=21 SavantaComRes]
+|N/A
+|UK
+|2,112
+|style="background:#CCEBFF;"|'''40%'''
+|35%
+|9%
+|4%
+|5%
+|{{Hidden|7%|[[Reform UK]] on 2%<br/>[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|5%
+|-
+|{{opdrts|16|17|Sep|2021}}
+|[https://www.opinium.com/wp-content/uploads/2021/09/VI-09-17-21-Tables.xlsx Opinium]
+|''The Observer''
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''40%'''
+|37%
+|7%
+|5%
+|6%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|3%
 |-
 |{{opdrts|15|16|Sep|2021}}
 |[https://docs.cdn.yougov.com/691qntqk1u/TheTimes_VI_Results_210916_W.pdf YouGov]
@@ -697,7 +934,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|11%
 |-
 |{{opdrts||1|Jul|2021}}
-|colspan="11"|'''[[2021 Batley and Spen by-election|Batley and Spen by-election]]<ref>{{Cite news|date=2 July 2021|title=Batley and Spen: Labour hold seat in by-election|language=en-GB|work=BBC News|url=https://www.bbc.co.uk/news/uk-politics-57691543|access-date=2 July 2021}}</ref>'''
+|colspan="11"|'''[[2021 Batley and Spen by-election|Batley and Spen by-election]]<ref name=":1">{{Cite news|date=2 July 2021|title=Batley and Spen: Labour hold seat in by-election|language=en-GB|work=BBC News|url=https://www.bbc.co.uk/news/uk-politics-57691543|access-date=2 July 2021}}</ref>'''
 |-
 |{{opdrts|29|30|Jun|2021}}
 |[https://docs.cdn.yougov.com/y7uow6z2dq/TheTimes_VotingIntention_Track_210630_W_BPC.pdf YouGov]
@@ -1197,7 +1434,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|13%
 |-
 |{{opdrts||13|May|2021}}
-|colspan="11"|'''[[2021 Airdrie and Shotts by-election|Airdrie and Shotts by-election]]<ref>{{Cite news|date=14 May 2021|title=SNP holds Airdrie and Shotts seat in by-election|language=en-GB|work=BBC News|url=https://www.bbc.com/news/uk-scotland-scotland-politics-57087381|access-date=15 May 2021}}</ref>'''
+|colspan="11"|'''[[2021 Airdrie and Shotts by-election|Airdrie and Shotts by-election]]<ref name=":2">{{Cite news|date=14 May 2021|title=SNP holds Airdrie and Shotts seat in by-election|language=en-GB|work=BBC News|url=https://www.bbc.com/news/uk-scotland-scotland-politics-57087381|access-date=15 May 2021}}</ref>'''
 |-
 |{{opdrts|11|12|May|2021}}
 |[https://docs.cdn.yougov.com/bdgo9ekylx/TheTimes_Voting_Intention_Track_210512_W.pdf YouGov] 
@@ -1239,7 +1476,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|8%
 |-
 |{{opdrts||06|May|2021}}
-|colspan="11"|'''[[2021 United Kingdom local elections|Local elections]] in England and Wales, [[2021 Scottish Parliament election|Scottish]] and [[2021 Senedd election|Welsh]] parliament elections, and the [[2021 Hartlepool by-election|Hartlepool by-election]]<ref>{{Cite news|title=England local elections 2021 - BBC News|url=https://www.bbc.co.uk/news/topics/c481drqqzv7t/england-local-elections-2021|access-date=15 May 2021|work=BBC News|language=en-GB}}</ref><ref>{{Cite news|title=Scottish Parliament election 2021|url=https://www.bbc.co.uk/news/topics/c37d28xdn99t/scottish-parliament-election-2021|access-date=15 May 2021|work=BBC News|language=en-GB}}</ref><ref>{{Cite news|title=Welsh Parliament election 2021|url=https://www.bbc.co.uk/news/topics/cqwn14k92zwt/welsh-parliament-election-2021|access-date=15 May 2021|work=BBC News|language=en-GB}}</ref><ref>{{Cite news|date=2021-05-07|title=Elections 2021: Conservatives hail historic Labour defeat in Hartlepool by-election|language=en-GB|work=BBC News|url=https://www.bbc.com/news/uk-politics-57019456|access-date=15 May 2021}}</ref>'''
+|colspan="11"|'''[[2021 United Kingdom local elections|Local elections]] in England and Wales, [[2021 Scottish Parliament election|Scottish]] and [[2021 Senedd election|Welsh]] parliament elections, and the [[2021 Hartlepool by-election|Hartlepool by-election]]<ref name=":0">{{Cite news|title=England local elections 2021 - BBC News|url=https://www.bbc.co.uk/news/topics/c481drqqzv7t/england-local-elections-2021|access-date=15 May 2021|work=BBC News|language=en-GB}}</ref><ref name="2021SPE">{{Cite news|title=Scottish Parliament election 2021|url=https://www.bbc.co.uk/news/topics/c37d28xdn99t/scottish-parliament-election-2021|access-date=15 May 2021|work=BBC News|language=en-GB}}</ref><ref name="2021WPE">{{Cite news|title=Welsh Parliament election 2021|url=https://www.bbc.co.uk/news/topics/cqwn14k92zwt/welsh-parliament-election-2021|access-date=15 May 2021|work=BBC News|language=en-GB}}</ref><ref name="2021HBE">{{Cite news|date=2021-05-07|title=Elections 2021: Conservatives hail historic Labour defeat in Hartlepool by-election|language=en-GB|work=BBC News|url=https://www.bbc.com/news/uk-politics-57019456|access-date=15 May 2021}}</ref>'''
 |-
 |{{opdrts|4|5|May|2021}}
 |[https://docs.cdn.yougov.com/lf780scitq/TheTimes_VotingIntention_210505_W.pdf YouGov]

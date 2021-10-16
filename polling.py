@@ -75,13 +75,20 @@ def transcribe_table(content, key, choice, begin, start):
         reset = False
         nkey = []
         if choice == 'Russia':
-            if '===2021===' in line:
+            if 'Old Russia' in line:
+                nkey = ['date', 'firm',
+                        'UR', 'CPRF', 'LDPR', 'SRZP',
+                        'CR', 'Yabloko', 'RRPSJ', 'Rodina', 'PG', 'Greens', 'CP', 'RPFJ', 'NP', 'GA',
+                        'Undecided', 'Abstention',
+                        'lead', 'end']
+                reset = True
+            if 'Pre-campaign 2021' in line:
                 nkey = ['date', 'firm',
                         'UR', 'CPRF', 'LDPR', 'SRZP', 'Other', 'Undecided', 'Abstention',
                         'lead', 'end']
                 reset = True
         elif choice == 'Canada':
-            if '===Campaign period===' in line:
+            if 'Opinion polling during the campaign period of 2019 Canadian federal election' in line:
                 nkey = ['firm', 'date', 'link',
                         'LIB', 'CON', 'NDP', 'BQ', 'GRN', 'PPC',
                         'margin', 'size', 'method', 'lead', 'end']
@@ -115,7 +122,12 @@ def transcribe_table(content, key, choice, begin, start):
                 reset = True
                 found.add(b)
         elif choice == 'Germany':
-            if '=== 2020 ===' in line:
+            if 'Old Germany' in line:
+                nkey = ['firm', 'date', 'sample', 'abs',
+                        'Union', 'SPD', 'AfD', 'FDP', 'Linke', 'Gr\u00fcne',
+                        'FW', 'Other', 'lead', 'end']
+                reset = True
+            elif '=== 2020 ===' in line:
                 nkey = ['firm', 'date', 'sample', 'abs',
                         'Union', 'SPD', 'AfD', 'FDP', 'Linke', 'Gr\u00fcne',
                         'Other', 'lead', 'end']
@@ -176,7 +188,7 @@ def transcribe_table(content, key, choice, begin, start):
                         'Other', 'lead', 'end']
                 reset = True
         elif choice == 'Norway':
-            if '=== 2020 ===' in line:
+            if 'Old Norway' in line:
                 nkey = ['firm', 'date', 'sample', 'resp',
                         'R', 'SV', 'MDG', 'Ap', 'Sp', 'V', 'KrF', 'H', 'FrP',
                         'Other', 'lead', 'end']
@@ -299,7 +311,7 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
         if '<br>' in line:
             place = line.find('<br>')
             line = line[:place] + ' ' + line[place + 4:]
-        if choice == 'UK' and 'opdrts' in line:
+        if choice in ['UK', 'Germany'] and 'opdrts' in line:
             temp = line.strip('|').split('|')
             if temp[-1] == 'year':
                 shift = True
@@ -309,12 +321,13 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
             m = temp[-2 - shift]
             d = temp[-3 - shift]
             temp = d + ' ' + m + ' ' + y
-        elif choice == 'Ireland' and 'dts' in line:
-            temp = line.strip('|').split('|')
+        elif choice in ['Ireland', 'Norway'] and ('dts' in line or 'opdrts' in line):
+            temp = line.strip('}|').split('|')
             y = temp[-1]
             m = temp[-2]
             d = temp[-3]
-            temp = y + ' ' + m + ' ' + d
+            temp = d + ' ' + m + ' ' + y
+            print(temp)
         else:
             if '{{efn' in line:
                 line = line[:line.find('{{efn')]
@@ -830,9 +843,9 @@ class GraphPage:
             with open(choices[self.choice]['old_data'], 'r', encoding='utf-8') as f:
                 content.extend(f.readlines())
         tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
+        # display_tables(tables)
         tables = process_tables(tables, self.choice, self.include, self.zeros)
         tables = filter_tables(tables, self.choice, self.include)
-        # display_tables(tables)
         tables = modify_tables(tables, self.choice, self.include, self.zeros)
         return interpret_tables(tables, self.include)
 

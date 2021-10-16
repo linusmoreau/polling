@@ -6,12 +6,12 @@
 ! rowspan="2" data-sort-type="date" | Fieldwork<br />date
 ! rowspan="2" style="width:20px;" | Sample<br/>size
 ! style="width:60px;" class="unsortable" | [[United Right (Poland)|United<br/>Right]]
-! style="width:60px;" class="unsortable" | [[Agreement (political party)|Agreement]]
+! style="width:60px;letter-spacing: -1px;" class="unsortable" | [[Agreement (political party)|Agreement]]
 ! style="width:60px;" class="unsortable" | [[Civic Coalition (Poland)|Civic<br/>Coalition]]
 ! style="width:60px;" class="unsortable" | [[The Left (Poland)|The Left]]
 ! style="width:60px;" class="unsortable" | [[Polish Coalition|Polish<br/>Coalition]]
 ! style="width:60px;" class="unsortable" | [[Kukiz'15]]
-! style="width:60px;" class="unsortable" | [[Confederation Liberty and Independence|Confederation]]
+! style="width:60px;letter-spacing: -1px;" class="unsortable" | [[Confederation Liberty and Independence|Confederation]]
 ! style="width:60px;" class="unsortable" | [[Poland 2050|Poland<br/>2050]]
 ! style="width:60px;" class="unsortable" | [[AGROunia|AGRO<br>unia]]
 ! rowspan="2" data-sort-type="number" style="width:50px;" | Others /<br />Don't know
@@ -27,22 +27,242 @@
 ! data-sort-type="number" style="height:1px; background:{{Poland 2050/meta/color}};"|
 ! data-sort-type="number" style="height:1px; background:{{AGROunia/meta/color}};"|
 |-
-|[https://wydarzenia.interia.pl/polska/newsamp-nowy-sondaz-cbos-pis-34-proc-ko-16-proc-polska-2050-12-proc,nId,5488253 CBOS]
-| data-sort-value="2021-09-16" | 6–16 Sep 2021
-| 1,218
-| style="background:#C0DBFC;" | '''34'''
+|[https://mobile.twitter.com/CBOS_Info/status/1448988696879960069 CBOS]
+| data-sort-value="2021-10-14" | 4–14 Oct 2021
+| 1,161
+| style="background:#C0DBFC;" | '''34.6'''
 | 1
-| 16
+| 15.3
+| 4.1
+| 2
+| 0
+| 5.7
+| 11.5
+|
+| 26
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''19.3'''
+|-
+| [https://tvn24.pl/polska/najnowszy-sondaz-partyjny-dla-faktow-tvn-i-tvn24-5450881 Kantar / TVN]
+| data-sort-value="2021-10-13" | 12–13 Oct 2021
+| 1,000
+| style="background:#C0DBFC;" | '''32'''
+| 1
+| 26
+| 6
 | 4
-| 1
-| 1
-| 5
+| 0
+| 9
+| 15
+|
+| 7
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''6'''
+|-
+| style="letter-spacing: -1px;"| [https://www.rmf24.pl/polityka/news-sondaz-dla-rmf-fm-i-dgp-spada-poparcie-dla-pis-rosnie-dla-ko,nId,5579613 United Surveys / DGP, RMF]
+| data-sort-value="2021-10-11" | 11 Oct 2021
+| 1,000
+| style="background:#C0DBFC;" | '''35.4'''
+|
+| 27.1
+| 6.7
+| 4.6
+|
+| 6.8
+| 9.5
+|
+| 9.9
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''8.3'''
+|-
+| [https://crowdmedia.pl/mamy-najnowsze-badanie-preferencji-wyborczych-ciekawe-rzeczy-dzieja-sie-z-notowaniami-psl-i-konfederacji/ Research Partner]
+| data-sort-value="2021-10-11" | 8–11 Oct 2021
+| 1,031
+| style="background:#C0DBFC;" | '''36.2'''
+| 1.0
+| 21.0
+| 6.7
+| 1.6
+| 0.7
+| 9.4
+| 11.5
+| 
+| 11.8
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''15.2'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/569784-nasz-sondaz-rekordowo-wysokie-poparcie-dla-pis-sprawdz Social Changes / wPolityce.pl]
+| data-sort-value="2021-10-11" | 8–11 Oct 2021
+| 1,068
+| style="background:#C0DBFC;" | '''40'''
+| 2
+| 26
+| 7
+| 2
+| 2
+| 7
 | 12
 | 
-| 26
-| style="background:{{Law and Justice/meta/color}}; color:white;"| '''18'''
+| 2
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''14'''
 |-
-|[https://wiadomosci.onet.pl/kraj/sondaz-pollster-rosnie-przewaga-pis-nad-po/5d2jedt Pollster / SE.pl]
+| [https://wiadomosci.wp.pl/najnowszy-sondaz-wp-ko-rosnie-w-sile-pis-spada-przewaga-6692259325655680a United Surveys / WP.pl]
+| data-sort-value="2021-10-08" | 8 Oct 2021
+| 1,000
+| style="background:#C0DBFC;" | '''35.4'''
+|
+| 25.9
+| 7.9
+| 5.8
+|
+| 6.7
+| 9.8
+|
+| 8.5
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''9.5'''
+|-
+|
+| data-sort-value="2021-10-07" | 7 Oct 2021
+| colspan="12" |'''[[Constitutional Tribunal (Poland)|Constitutional Tribunal]]'s [[Constitutional Tribunal (Poland)#Case K 3/21|landmark decision]] on the [[primacy of European Union law]], sparking protests<ref>{{cite news|title =Constitutional Tribunal: EU treaties partially unconstitutional|url = https://tvn24.pl/tvn24-news-in-english/polands-constitutional-tribunal-some-articles-of-eu-treaties-unconstitutional-5443509|date = 7 October 2021|website= tvn24.pl}}</ref><ref>{{cite news|title =Dziś w Polsce prounijne manifestacje opozycji. Straż Narodowa organizuje kontrmanifestację [RELACJA NA ŻYWO]|url = https://wiadomosci.onet.pl/kraj/dzis-w-polsce-protesty-tuska-i-opozycji-kontrmanifestacja-narodowcow/74nf0pd|date =10 October 2021 |website=onet.pl}}</ref>
+|-
+| style="letter-spacing: -1px;"| [https://www.polsatnews.pl/wiadomosc/2021-10-09/sondaz-dla-wydarzen-polsatu-rozne-scenariusze-dla-opozycji/?ref=aside_najnowsze IBRiS "Wydarzenia" Polsat]
+| data-sort-value="2021-10-06" | 6 Oct 2021
+| 1,100
+| style="background:#C0DBFC;" | '''34.3'''
+| 0.0
+| 21.6
+| 8.0
+| 5.4
+| 
+| 8.4
+| 10.5
+|
+| 11.7
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''12.7'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/569074-nasz-sondaz-czolowka-bez-zmian-bardzo-slaby-wynik-psl Social Changes / wPolityce.pl]
+| data-sort-value="2021-10-04" | 1–4 Oct 2021
+| 1,090
+| style="background:#C0DBFC;" | '''37'''
+| 1
+| 25
+| 7
+| 1
+| 2
+| 11
+| 14
+| 
+| 2
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''12'''
+|-
+|
+| data-sort-value="2021-09-30" | 30 Sep 2021
+| colspan=12 |'''[[State of emergency in Poland (2021)|State of emergency]] extended for another 60 days'''<ref>{{cite news|title =Sejm wyraził zgodę na przedłużenie stanu wyjątkowego przy granicy Polski z Białorusią |url = https://tvn24.pl/polska/sejm-wniosek-o-przedluzenie-stanu-wyjatkowego-na-granicy-polsko-bialoruskiej-relacja-na-zywo-5434862|date = 30 September 2021|website=tvn24.pl}}</ref>
+|-
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/567372-nasz-sondaz-duze-straty-ko-wysoko-pis-i-konfederacja Social Changes / wPolityce.pl]
+| data-sort-value="2021-09-27" | 24–27 Sep 2021
+| 1,059
+| style="background:#C0DBFC;" | '''38'''
+| 1
+| 26
+| 8
+| 2
+| 1
+| 9
+| 14
+| 
+| 1
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''12'''
+|-
+| [https://www.wnp.pl/parlamentarny/sondaze/piec-partii-w-sejmie-pis-z-najwiekszym-poparciem,950.html Research Partner]
+| data-sort-value="2021-09-27" | 24–27 Sep 2021
+| 1,036
+| style="background:#C0DBFC;" | '''35.2'''
+| 0.7
+| 22.4
+| 7.4
+| 2.0
+| 1.1
+| 8.6
+| 11.1
+| 
+| 11.4
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''12.8'''
+|-
+|-
+| [https://twitter.com/IBRiS_PL/status/1442728002031325195 IBRiS / "Rz.pl"]
+| data-sort-value="2021-09-25" | {{nowrap|24–25 Sep 2021}}
+| 1,100
+| style="background:#C0DBFC;" | '''34.1'''
+| 0.0
+| 23.4
+| 7.1
+| 5.0
+| 
+| 5.9
+| 12.0
+| 
+| 12.5
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''10.7'''
+|-
+| [https://wiadomosci.wp.pl/sondaz-dla-wp-kaczynski-nie-moze-spac-spokojnie-6687326860868256a United Surveys / WP.pl]
+| data-sort-value="2021-09-24" | 24 Sep 2021
+| 1,000
+| style="background:#C0DBFC;" | '''35.6'''
+|
+| 23.0
+| 6.4
+| 5.3
+|
+| 7.1
+| 11.6
+| 
+| 11.0
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''12.6'''
+|-
+| style="letter-spacing: -1px;"| [https://oko.press/pis-urosl-jest-wiekszosc-rzadowa-dla-polexitowej-koalicji/ IPSOS / "GW", OKO.press]
+| data-sort-value="2021-09-23" | 20–23 Sep 2021
+| 1,000
+| style="background:#C0DBFC;" | '''35'''
+| 0
+| 24
+| 7
+| 4
+| 
+| 9
+| 15
+| 
+| 7
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''11'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/567372-nasz-sondaz-duze-straty-ko-wysoko-pis-i-konfederacja Social Changes / wPolityce.pl]
+| data-sort-value="2021-09-20" | 17–20 Sep 2021
+| 1,050
+| style="background:#C0DBFC;" | '''37'''
+| 2
+| 24
+| 7
+| 2
+| 2
+| 12
+| 13
+| 
+| 1
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''13'''
+|-
+| [https://mobile.twitter.com/CBOS_Info/status/1438865640736047107 CBOS]
+| data-sort-value="2021-09-16" | 6–16 Sep 2021
+| 1,218
+| style="background:#C0DBFC;" | '''33.5'''
+| 1
+| 16.0
+| 4.4
+| 1
+| 1
+| 5.3
+| 11.8
+| 
+| 26
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''17.5'''
+|-
+| [https://wiadomosci.onet.pl/kraj/sondaz-pollster-rosnie-przewaga-pis-nad-po/5d2jedt Pollster / SE.pl]
 | data-sort-value="2021-09-14" | 13–14 Sep 2021
 | 1,048
 | style="background:#C0DBFC;" | '''39.5'''
@@ -250,8 +470,8 @@
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''10.52'''
 |-
 |
-| data-sort-value="2021-09-02" | 2 September 2021
-| colspan=12 |'''[[State of emergency in Poland (2021)|State of emergency declared in Poland]]; covering 183 localities in Podlaskie and Lublin voivodeships'''<ref>{{cite news|title =|url = https://tvn24.pl/najnowsze/9ml1n6-Rozporz%C4%85dzenie-prezydenta-w-sprawie-wprowadzenia-stanu-wyj%C4%85tkowego-na-obszarze-cz%C4%99%C5%9Bci-wojew%C3%B3dztwa-podlaskiego-oraz-cz%C4%99%C5%9Bci-wojew%C3%B3dztwa-lubelskiego/1111.pdf|date = ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 września 2021 r. w sprawie wprowadzenia stanu wyjątkowego na obszarze części województwa podlaskiego oraz części województwa lubelskiego|website=tvn24.pl}}</ref>
+| data-sort-value="2021-09-02" | 2 Sep 2021
+| colspan=12 |'''[[State of emergency in Poland (2021)|State of emergency declared in Poland]]; covering 183 localities in Podlaskie and Lublin voivodeships'''<ref>{{cite news|title =ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 września 2021 r. w sprawie wprowadzenia stanu wyjątkowego na obszarze części województwa podlaskiego oraz części województwa lubelskiego|url = https://tvn24.pl/najnowsze/9ml1n6-Rozporz%C4%85dzenie-prezydenta-w-sprawie-wprowadzenia-stanu-wyj%C4%85tkowego-na-obszarze-cz%C4%99%C5%9Bci-wojew%C3%B3dztwa-podlaskiego-oraz-cz%C4%99%C5%9Bci-wojew%C3%B3dztwa-lubelskiego/1111.pdf|date = |website=tvn24.pl}}</ref>
 |-
 | style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/564716-nasz-sondaz-pis-zyskuje-i-zwieksza-przewage-nad-ko Social Changes / wPolityce.pl]
 | data-sort-value="2021-08-30" | 27–30 Aug 2021
@@ -358,9 +578,9 @@
 | 9.1
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''11.2'''
 |-
-| rowspan="2" style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/563987-sondaz-czy-koalicja-psl-u-i-porozumienia-przekracza-prog Social Changes / wPolityce.pl]
-| rowspan="2" data-sort-value="2021-08-23" | 20–23 Aug 2021
-| rowspan="2" | 1,057
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/563987-sondaz-czy-koalicja-psl-u-i-porozumienia-przekracza-prog Social Changes / wPolityce.pl]
+| data-sort-value="2021-08-23" | 20–23 Aug 2021
+| 1,057
 | style="background:#C0DBFC;" | '''33'''
 | 1
 | 26
@@ -369,18 +589,6 @@
 | 2
 | 9
 | 17
-| 
-| 2
-| style="background:{{Law and Justice/meta/color}}; color:white;"| '''7'''
-|-
-| style="background:#C0DBFC;" | '''32'''
-| {{efn|As part of [[Polish Coalition]]}}
-| 25
-| 8
-| 4
-| 2
-| 9
-| 18
 | 
 | 2
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''7'''
@@ -459,7 +667,7 @@
 |-
 |
 | data-sort-value="2021-08-12" | Early August 2021
-| colspan=12 |'''[[2021 Belarus–European Union border crisis#In Poland|The Belarus-Poland border crisis began]]'''
+| colspan=12 |'''[[2021 Belarus–European Union border crisis#In Poland|Beginning of the Belarus-Poland border crisis]]'''
 |-
 |
 | data-sort-value="2021-08-11" | 11 August 2021
@@ -477,7 +685,7 @@
 ! style="width:60px;" class="unsortable" | [[The Left (Poland)|The Left]]
 ! style="width:60px;" class="unsortable" | [[Polish Coalition|Polish<br/>Coalition]]
 ! style="width:60px;" class="unsortable" | [[Kukiz'15]]
-! style="width:60px;" class="unsortable" | [[Confederation Liberty and Independence|Confederation]]
+! style="width:60px;letter-spacing: -1px;" class="unsortable" | [[Confederation Liberty and Independence|Confederation]]
 ! style="width:60px;" class="unsortable" | [[Poland 2050|Poland<br/>2050]]
 ! rowspan="2" data-sort-type="number" style="width:50px;" | Others /<br />Don't know
 ! rowspan="2" data-sort-type="number" style="width:30px;" | Lead

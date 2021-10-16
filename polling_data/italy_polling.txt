@@ -32,6 +32,77 @@
 ! style="background:{{Italia Viva/meta/color}};"|
 ! style="background:{{Coraggio Italia/meta/color}};"|
 |-
+|11–14 Oct
+|[https://www.affaritaliani.it/politica/sondaggi-lega-primo-partito-dati-di-oggi-chi-sale-e-chi-scende-762219.html Lab2101]
+|1,000
+|15.9
+|19.7
+|style="background:#D2EED9;" |'''20.8'''
+|6.9
+|18.8
+|colspan="2"|3.9
+|1.7
+|1.5
+|3.8
+|2.7
+|
+|4.3
+|style="background:#008000; color:white;"|1.1
+|-
+|6–11 Oct
+|[https://www.la7.it/tgla7/video/ultimi-sondaggi-in-calo-lega-e-fratelli-ditalia-crescono-m5s-e-azione-11-10-2021-402113 SWG]
+|1,200
+|16.9
+|19.0
+|19.2
+|7.1
+|style="background:#E5E7FF;" |'''20.7'''
+|2.6
+|2.4
+|1.6
+|1.8
+|4.1
+|2.3
+|
+|2.3
+|style="background:#03386A; color:white;"|1.5
+|-
+|3–7 Oct
+|[https://sondaggibidimedia.com/sondaggio-bidimedia-ottobre-2/ BiDiMedia]
+|1,895
+|16.0
+|style="background:#FFD0D7;"|'''21.0'''
+|19.2
+|6.5
+|19.7
+|1.5
+|2.0
+|1.2
+|1.5
+|3.3
+|1.6
+|0.9
+|5.6
+|style="background:#EF1C27; color:white;"|1.3
+|-
+|2–3 Oct
+|[https://sondaggibidimedia.com/sondaggio-bidimedia-4-ottobre/ BiDiMedia]
+|1,365
+|16.3
+|style="background:#FFD0D7;"|'''20.6'''
+|19.3
+|6.8
+|19.6
+|1.5
+|2.0
+|1.2
+|1.4
+|3.1
+|1.6
+|0.8
+|5.8
+|style="background:#EF1C27; color:white;"|1.0
+|-
 |14–17 Sep
 |[https://twitter.com/EuropeElects/status/1438847527462309891 Ixè]
 |1,000
@@ -50,8 +121,43 @@
 |5.1
 |style="background:#EF1C27; color:white;"|0.1
 |-
+|14–16 Sep
+|[https://www.termometropolitico.it/1597444_sondaggi-tp-il-51-degli-italiani-favorevole-al-ritorno-del-nucleare.html Termometro Politico]
+|3,200
+|16.0
+|19.5
+|20.4
+|6.7
+|style="background:#E5E7FF;" |'''21.0'''
+|colspan="2"|2.9
+|1.7
+|1.4
+|3.0
+|2.6
+|
+|4.8
+|style="background:#03386A; color:white;"|0.6
+|-
+|12–15 Sep
+|[https://notizie.tiscali.it/politica/articoli/piccolo-vademecum-dove-quando-vota-colombo/ Noto]
+|1,000
+|17.5
+|18.5
+|18.5
+|7.0
+|style="background:#E5E7FF;" |'''20.0'''
+|1.5
+|1.0
+|1.0
+|1.0
+|2.5
+|3.0
+|1.5
+|1.5
+|style="background:#03386A; color:white;"|1.5
+|-
 |14 Sep
-|[http://www.sondaggipoliticoelettorali.it/GestioneDomande.aspx EMG]
+|[https://sondaggibidimedia.com/sondaggio-emg-politiche-16-09/ EMG]
 |1,521
 |16.1
 |18.6
@@ -70,7 +176,7 @@
 |-
 |14 Sep
 |[https://www.adnkronos.com/sondaggi-politici-pd-primo-partito-e-fdi-davanti-a-lega_7vzbbdrwP6bD4Dt3HJSIhl Euromedia]
-|1,159
+|800
 |17.1
 |style="background:#FFD0D7;"|'''19.4'''
 |18.5
@@ -104,9 +210,9 @@
 |1.1
 |style="background:#03386A; color:white;"|1.0
 |-
-|11 Sep
+|10 Sep
 |[https://www.dire.it/11-09-2021/666794-sondaggio-dire-tecne-lega-risale-ma-fdi-resta-primo-cala-la-fiducia-in-draghi/ Tecnè]
-|
+|1,000
 |16.3
 |19.1
 |19.7
@@ -122,7 +228,7 @@
 |3.4
 |style="background:#03386A; color:white;"|1.3
 |-
-|8–9 Sep
+|7–9 Sep
 |[https://www.termometropolitico.it/1597353_sondaggi-tp-per-gli-italiani-rdc-e-obbligo-vaccinale-potrebbero-mettere-in-crisi-maggioranza-di-governo.html Termometro Politico]
 |3,200
 |16.0
@@ -138,24 +244,6 @@
 |
 |4.9
 |style="background:#03386A; color:white;"|0.8
-|-
-|9 Sep
-|[https://www.fanpage.it/politica/sondaggi-elettorali-fratelli-ditalia-e-in-testa-da-solo-inseguono-lega-pd-e-movimento-5-stelle/amp/ EMG]
-|
-|16.2
-|18.7
-|19.6
-|7.1
-|style="background:#E5E7FF;" |'''20.3'''
-|1.8
-|1.8
-|1.5
-|1.8
-|3.6
-|3.3
-|1.6
-|2.7
-|style="background:#03386A; color:white;"|0.6
 |-
 |7–9 Sep
 |[https://twitter.com/EuropeElects/status/1436824028925337602 Ipsos]
@@ -174,6 +262,24 @@
 |
 |
 |style="background:#008000; color:white;" |0.5
+|-
+|7–8 Sep
+|[https://scenaripolitici.com/2021/09/sondaggio-emg-different-9-settembre-2021.html EMG]
+|1,478
+|16.2
+|18.7
+|19.6
+|7.1
+|style="background:#E5E7FF;" |'''20.3'''
+|1.8
+|1.8
+|1.5
+|1.8
+|3.6
+|3.3
+|1.6
+|2.7
+|style="background:#03386A; color:white;"|0.6
 |-
 |1–6 Sep
 |[https://tg.la7.it/politica/il-sondaggio-politico-di-lunedì-6-settembre-2021-06-09-2021-164153/ SWG]
@@ -231,7 +337,7 @@
 |-
 |1–2 Sep
 |[https://www.repubblica.it/politica/2021/09/04/news/covid_draghi_obbligo_vaccinale_italiani_favorevoli-316418411// Demos & Pi]
-|1,010
+|1,014
 |16.6
 |19.3
 |19.6
@@ -247,7 +353,7 @@
 |4.4
 |style="background:#03386A; color:white;"|1.2
 |-
-|1–2 Sep
+|31 Aug–2 Sep
 |[https://www.termometropolitico.it/1597269_sondaggi-tp-maggioranza-italiani-contraria-al-dialogo-con-i-talebani.html/ Termometro Politico]
 |2,900
 |15.6
@@ -459,24 +565,6 @@
 |5.2
 | style="background:#03386A; color:white;"|0.1
 |-
-|20–22 Jul
-|[https://www.corriere.it/politica/21_luglio_25/orientamento-voto-497a4c18-eccb-11eb-ab05-0303bb7b6464.shtml Ipsos]
-|1,000
-|17.1
-|20.9
-|style="background:#D2EED9;" |'''21.1'''
-|7.0
-|19.0
-|1.2
-|2.0
-|2.0
-|1.7
-|2.5
-|1.5
-|
-|4.0
-|style="background:#008000; color:white;" |0.2
-|-
 |21–22 Jul
 |[https://www.istitutoixe.it/2021/07/23/intenzioni-di-voto-23-luglio-2021// Ixè]
 |1,000
@@ -495,9 +583,27 @@
 |3.3
 |style="background:#008000; color:white;" |0.7
 |-
-|21–22 Jul
+|20–22 Jul
+|[https://www.corriere.it/politica/21_luglio_25/orientamento-voto-497a4c18-eccb-11eb-ab05-0303bb7b6464.shtml Ipsos]
+|1,000
+|17.1
+|20.9
+|style="background:#D2EED9;" |'''21.1'''
+|7.0
+|19.0
+|1.2
+|2.0
+|2.0
+|1.7
+|2.5
+|1.5
+|
+|4.0
+|style="background:#008000; color:white;" |0.2
+|-
+|20–22 Jul
 |[https://www.termometropolitico.it/1596498_sondaggi-tp-no-obbligo-vaccino-ai-giovani-maggioranza-italiani-contro-salvini.html/ Termometro Politico]
-|3,200
+|3,300
 |15.9
 |19.8
 |style="background:#D2EED9;" |'''20.7'''
@@ -548,7 +654,7 @@
 |3.3
 |style="background:#03386A; color:white;"|0.6
 |-
-|14–15 Jul
+|13–15 Jul
 |[https://www.termometropolitico.it/1596391_sondaggi-tp-rdc-555-a-favore-del-referendum-abrogativo-di-renzi.html Termometro Politico]
 |3,200
 |15.7
@@ -636,9 +742,9 @@
 |2.3
 |style="background:#03386A; color:white;"|0.2
 |-
-|7–8 Jul
+|6–8 Jul
 |[https://www.termometropolitico.it/1596295_sondaggi-tp-ddl-zan-proposta-renzi-piace-solo-all89-degli-italiani.html Termometro Politico]
-|2,700
+|3,200
 |15.5
 |19.4
 |style="background:#D2EED9;" |'''21.4'''
@@ -671,24 +777,6 @@
 |2.1
 |style="background:#008000; color:white;" |0.1
 |-
-|3 Jul
-|[https://www.lastampa.it/topnews/lettere-e-idee/2021/07/03/news/il-partito-di-conte-vale-il-10-al-voto-supererebbe-i-5-stelle-1.40455449/amp/ Euromedia]
-|–
-|14.5
-|19.8
-|style="background:#D2EED9;" |'''20.5'''
-|7.8
-|20.2
-|2.2
-|1.4
-|1.6
-|1.4
-|2.8
-|2.1
-|
-|5.7
-|style="background:#008000; color:white;" |0.3
-|-
 |2 Jul
 |[https://www.dire.it/03-07-2021/650521-sondaggio-dire-tecne-boom-fiducia-draghi-fratelli-ditalia-resta-primo-partito/ Tecnè]
 |1,000
@@ -707,7 +795,25 @@
 |3.9
 |style="background:#03386A; color:white;"|0.3
 |-
-|30 Jun–1 Jul
+|1–2 Jul
+|[https://www.lastampa.it/topnews/lettere-e-idee/2021/07/03/news/il-partito-di-conte-vale-il-10-al-voto-supererebbe-i-5-stelle-1.40455449/amp/ Euromedia]
+|1,000
+|14.5
+|19.8
+|style="background:#D2EED9;" |'''20.5'''
+|7.8
+|20.2
+|2.2
+|1.4
+|1.6
+|1.4
+|2.8
+|2.1
+|
+|5.7
+|style="background:#008000; color:white;" |0.3
+|-
+|29 Jun–1 Jul
 |[https://www.termometropolitico.it/1596189_sondaggi-tp-la-variante-delta-fa-paura-a-sei-italiani-su-dieci.html Termometro Politico]
 |3,200
 |15.4
@@ -741,23 +847,6 @@
 |
 |4.2
 |style="background:#008000; color:white;" |0.7
-|-
-|30 Jun
-|[https://scenaripolitici.com/2021/07/sondaggio-piepoli-30-giugno-2021.html Piepoli]
-|–
-|16.5
-|19.5
-|style="background:#D2EED9;"|'''20.5'''
-|7.5
-|19.5
-|colspan="2"|2.5
-|2.0
-|
-|2.5
-|2.0
-|
-|7.5
-|style="background:#008000; color:white;"|1.0
 |-
 |23–28 Jun
 |[https://tg.la7.it/sondaggi/il-sondaggio-politico-di-luned%C3%AC-28-giugno-2021-28-06-2021-162237 SWG]
@@ -831,7 +920,7 @@
 |4.9
 |style="background:#008000; color:white;"|0.4
 |-
-|24 Jun
+|22–24 Jun
 |[https://www.termometropolitico.it/1596067_sondaggi-tp-razzismo-solo-il-262-degli-italiani-considera-inginocchiarsi-un-gesto-utile-e-significativo.html Termometro Politico]
 |3,000
 |16.1
@@ -849,8 +938,25 @@
 |style="background:#008000; color:white;" |1.9
 |-
 |22 Jun
+|[https://scenaripolitici.com/2021/07/sondaggio-piepoli-30-giugno-2021.html Piepoli]
+|520
+|16.5
+|19.5
+|style="background:#D2EED9;"|'''20.5'''
+|7.5
+|19.5
+|colspan="2"|2.5
+|2.0
+|
+|2.5
+|2.0
+|
+|7.5
+|style="background:#008000; color:white;"|1.0
+|-
+|21 Jun
 |[https://twitter.com/you_trend/status/1407591300128555009/photo/1 EMG]
-|–
+|1,498
 |16.8
 |17.6
 |style="background:#D2EED9;" |'''20.8'''
@@ -973,7 +1079,7 @@
 |2.9
 |style="background:#008000; color:white;" |0.3
 |-
-|15 Jun
+|15–17 Jun
 |[https://scenaripolitici.com/2021/06/sondaggio-emg-different-17-giugno-2021.html EMG]
 |1,428
 |17.0
@@ -1243,7 +1349,7 @@
 |-
 |1–3 Jun
 |[https://www.termometropolitico.it/1595657_sondaggi-tp-scarcerazione-brusca-sbagliata-per-maggioranza-italiani.html Termometro Politico]
-|3,000
+|3,100
 |15.7
 |20.0
 |style="background:#D2EED9;" |'''22.4'''
@@ -1294,23 +1400,6 @@
 |2.4
 |style="background:#008000; color:white;" |2.1
 |-
-|31 May
-|[https://www.termometropolitico.it/1595730_sondaggi-piepoli-lega-in-calo-pd-ancora-davanti-a-fdi.html Piepoli]
-|–
-|17.5
-|19.0
-|style="background:#D2EED9;" |'''21.5'''
-|7.0
-|18.0
-|colspan="2"|2.5
-|2.0
-|
-|3.5
-|2.0
-|
-|7.0
-|style="background:#008000; color:white;" |2.5
-|-
 |30–31 May
 |[https://www.fanpage.it/politica/sondaggi-elettorali-boom-di-fdi-e-crollo-del-pd-meloni-scavalca-letta-e-avvicina-salvini/ Tecnè]
 |1,000
@@ -1329,7 +1418,7 @@
 |5.3
 |style="background:#008000; color:white;" |1.7
 |-
-|26-31 May
+|26–31 May
 |[https://www.la7.it/tgla7/video/ultimi-sondaggi-cresce-il-centrodestra-05-per-fratelli-ditalia-31-05-2021-384661 SWG]
 |1,200
 |15.8
@@ -1382,7 +1471,25 @@
 |5.3
 |style="background:#008000; color:white;" |1.6
 |-
-|26-27 May
+|26–27 May
+|[https://www.t-mag.it/2021/05/28/sondaggio-tecne-cosi-gli-italiani-sul-ddl-zan/ Tecnè]
+|1,000
+|16.8
+|19.0
+|style="background:#D2EED9;" |'''21.0'''
+|9.3
+|19.4
+|
+|2.5
+|
+|1.7
+|
+|3.4
+|1.9
+|5.0
+|style="background:#008000; color:white;" |1.6
+|-
+|25–27 May
 |[https://www.termometropolitico.it/1595537_sondaggi-tp-un-italiano-su-due-non-vuole-draghi-al-quirinale.html Termometro Politico]
 |3,100
 |16.1
@@ -1398,23 +1505,6 @@
 |rowspan="7" style="background:#D0D0D0; width:1px;"|<small>''Did not exist''</small>
 |4.9
 |style="background:#008000; color:white;" |2.5
-|-
-|26–27 May
-|[https://www.t-mag.it/2021/05/28/sondaggio-tecne-cosi-gli-italiani-sul-ddl-zan/ Tecnè]
-|1,000
-|16.8
-|19.0
-|style="background:#D2EED9;" |'''21.0'''
-|9.3
-|19.4
-|
-|2.5
-|
-|1.7
-|3.4
-|1.9
-|5.0
-|style="background:#008000; color:white;" |1.6
 |-
 |25–27 May
 |[https://www.corriere.it/politica/21_maggio_29/sondaggio-balzo-gradimento-draghi-8percento-fratelli-d-italia-194percento-raggiunge-pd-fd5b9b3a-bfe2-11eb-b7a1-7e76296b457a.shtml Ipsos]
@@ -1449,6 +1539,22 @@
 |1.8
 |6.5
 |style="background:#008000; color:white;" |2.8
+|-
+|25 May
+|[https://www.termometropolitico.it/1595730_sondaggi-piepoli-lega-in-calo-pd-ancora-davanti-a-fdi.html Piepoli]
+|503
+|17.5
+|19.0
+|style="background:#D2EED9;" |'''21.5'''
+|7.0
+|18.0
+|colspan="2"|2.5
+|2.0
+|
+|3.5
+|2.0
+|7.0
+|style="background:#008000; color:white;" |2.5
 |-
 |25 May
 |[https://scenaripolitici.com/2021/06/sondaggio-emg-different-3-giugno-2021.html EMG]
@@ -1551,7 +1657,7 @@
 |3.1
 |style="background:#008000; color:white;" |1.6
 |-
-|19-20 May
+|19–20 May
 |[https://scenaripolitici.com/2021/05/sondaggio-noto-20-maggio-2021.html Noto]
 |1,000
 |17.0
@@ -1568,7 +1674,7 @@
 |6.5
 |style="background:#008000; color:white;" |4.0
 |-
-|19-20 May
+|18–20 May
 |[https://www.termometropolitico.it/1595317_sondaggi-tp-effetto-riaperture-sul-consenso-di-draghi.html Termometro Politico]
 |3,200
 |15.7
@@ -1689,7 +1795,7 @@
 |-
 |11–13 May
 |[https://www.termometropolitico.it/1595094_sondaggi-tp-cancel-culture-un-pericolo-per-il-522-degli-italiani.html Termometro Politico]
-|1,400
+|3,200
 |16.0
 |19.4
 |style="background:#D2EED9;" |'''23.1'''
@@ -1737,6 +1843,23 @@
 |2.0
 |4.1
 |style="background:#008000; color:white;" |1.2
+|-
+|11 May
+|[https://scenaripolitici.com/2021/05/sondaggio-emg-different-13-maggio-2021.html EMG]
+|1,523
+|18.4
+|16.9
+|style="background:#D2EED9;" |'''22.2'''
+|6.9
+|18.5
+|3.4
+|1.1
+|1.6
+|1.3
+|3.3
+|4.0
+|2.4
+|style="background:#008000; color:white;" |3.8
 |-
 |11 May
 |[https://scenaripolitici.com/2021/05/sondaggio-piepoli-11-maggio-2021.html Piepoli]
@@ -1823,7 +1946,7 @@
 |7.9
 |style="background:#008000; color:white;" |1.5
 |-
-|4-6 May
+|4–6 May
 |[https://www.termometropolitico.it/1594882_sondaggi-tp-ddl-zan-italiani-divisi-tra-favorevoli-e-contrari.html Termometro Politico]
 |4,100
 |16.4
@@ -1908,6 +2031,23 @@
 |5.2
 |style="background:#008000; color:white;" |1.7
 |-
+|4 May
+|[https://scenaripolitici.com/2021/05/sondaggio-emg-different-6-maggio-2021.html EMG]
+|1,488
+|19.0
+|16.8
+|style="background:#D2EED9;" |'''22.1'''
+|6.8
+|17.6
+|3.3
+|1.1
+|1.6
+|1.3
+|3.2
+|4.1
+|3.1
+|style="background:#008000; color:white;" |3.1
+|-
 |28 Apr–3 May
 |[https://www.la7.it/tgla7/video/ultimi-sondaggi-in-calo-la-lega-09-cresce-fratelli-ditalia-11-03-05-2021-379018 SWG]
 |1,200
@@ -1942,7 +2082,7 @@
 |7.4
 |style="background:#008000; color:white;" |2.3
 |-
-|28–29 Apr
+|27–29 Apr
 |[https://www.termometropolitico.it/1594652_sondaggi-tp-pass-vaccinale-gli-italiani-mettono-dei-paletti.html Termometro Politico]
 |4,000
 |16.2
@@ -2044,7 +2184,7 @@
 |6.0
 |style="background:#008000; color:white;" |4.0
 |-
-|21–22 Apr
+|20–22 Apr
 |[https://www.termometropolitico.com/1594451_sondaggi-tp-fiducia-draghi-per-la-prima-volta-sotto-il-50.html Termometro Politico]
 |3,200
 |15.9
@@ -2078,23 +2218,6 @@
 |2.7
 |style="background:#008000; color:white;" |1.6
 |-
-|20 Apr
-|[https://scenaripolitici.com/2021/04/sondaggio-demopolis-20-aprile-2021.html Demopolis]
-|–
-|16.0
-|19.0
-|style="background:#D2EED9;" |'''22.4'''
-|7.6
-|18.2
-|3.4
-|
-|
-|
-|2.5
-|2.0
-|8.9
-|style="background:#008000; color:white;" |3.4
-|-
 |19 Apr
 |[https://sondaggibidimedia.com/sondaggio-piepoli-politiche-27-aprile/ Piepoli]
 |506
@@ -2111,6 +2234,23 @@
 |2.5
 |5.5
 |style="background:#008000; color:white;" |3.0
+|-
+|18–19 Apr
+|[https://scenaripolitici.com/2021/04/sondaggio-demopolis-20-aprile-2021.html Demopolis]
+|1,500
+|16.0
+|19.0
+|style="background:#D2EED9;" |'''22.4'''
+|7.6
+|18.2
+|3.4
+|
+|
+|
+|2.5
+|2.0
+|8.9
+|style="background:#008000; color:white;" |3.4
 |-
 |14–19 Apr
 |[https://www.la7.it/tgla7/video/ultimi-sondaggi-in-forte-calo-la-lega-crescono-fratelli-ditalia-e-il-m5s-19-04-2021-376161 SWG]
@@ -2265,7 +2405,7 @@
 |3.2
 |style="background:#008000; color:white;" |3.4
 |-
-|7–8 Apr
+|6–8 Apr
 |[https://sondaggibidimedia.com/sondaggio-termometro-politico-9-aprile/ Termometro Politico]
 |2,400
 |15.9
@@ -2401,7 +2541,7 @@
 |3.1
 |style="background:#008000; color:white;" |4.1
 |-
-|31 Mar–1 Apr
+|30 Mar–1 Apr
 |[https://www.termometropolitico.com/1593852_sondaggi-tp-obbligo-vaccinale-per-operatori-sanitari-giusto-per-6-italiani-su-10.html Termometro Politico]
 |2,300
 |15.5
@@ -2451,6 +2591,23 @@
 |2.7
 |3.3
 |style="background:#008000; color:white;" |4.7
+|-
+|30 Mar
+|[https://scenaripolitici.com/2021/04/sondaggio-emg-different-1-aprile-2021.html EMG]
+|1,684
+|20.0
+|15.9
+|style="background:#D2EED9;" |'''22.3'''
+|6.2
+|16.9
+|3.1
+|1.1
+|1.7
+|1.3
+|2.5
+|3.9
+|5.1
+|style="background:#008000; color:white;" |2.3
 |-
 |24–29 Mar
 |[https://tg.la7.it/politica/il-sondaggio-politico-di-luned%C3%AC-29-marzo-2021-29-03-2021-159488 SWG]
@@ -2605,7 +2762,7 @@
 |6.9
 |style="background:#008000; color:white;" |2.1
 |-
-|16-18 Mar
+|16–18 Mar
 |[https://www.termometropolitico.com/1593411_sondaggi-tp-stop-vaccino-astrazeneca-esagerata-per-un-terzo-italiani.html Termometro Politico]
 |2,700
 |15.3
@@ -2640,8 +2797,8 @@
 |style="background:#008000; color:white;" |6.0
 |-
 |17 Mar
-|[https://twitter.com/EuropeElects/status/1372979958956453888 Euromedia]
-|1,110
+|[https://scenaripolitici.com/2021/03/sondaggio-euromedia-research-18-marzo-2021.html Euromedia]
+|800
 |17.4
 |16.3
 |style="background:#D2EED9;" |'''22.7'''
@@ -2673,9 +2830,26 @@
 |5.5
 |style="background:#008000; color:white;" |5.0
 |-
-|12–16 Mar
+|16 Mar
+|[https://scenaripolitici.com/2021/03/sondaggio-emg-different-19-marzo-2021.html EMG]
+|1,526
+|19.9
+|16.3
+|style="background:#D2EED9;" |'''22.4'''
+|6.6
+|16.9
+|3.3
+|1.5
+|1.8
+|1.3
+|2.8
+|4.0
+|3.2
+|style="background:#008000; color:white;" |2.5
+|-
+|10–16 Mar
 |[https://sondaggibidimedia.com/sondaggio-format-research-16-03/ Format Research]
-|1,500
+|1,000
 |17.2
 |18.3
 |style="background:#D2EED9;" |'''23.1'''
@@ -2861,7 +3035,7 @@
 |style="background:#008000; color:white;" |6.3
 |-
 |7 Mar
-|[https://www.affaritaliani.it/sport/milan-news/sondaggio-pd-crolla-con-addio-zingaretti-numeri-choc-un-grande-partito-sale-727244.html Lab2101]
+|[https://sondaggibidimedia.com/sondaggio-lab2101-07-03/ Lab2101]
 |1,000
 |13.8
 |19.1

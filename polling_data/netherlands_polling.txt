@@ -3,29 +3,29 @@
 
 There are 150 seats in total. Parties are denoted with en dashes if no indication is given of their level in polls.
 
-{| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
 |-
 ! rowspan="2"|Polling firm
 ! rowspan="2"|Release<br>date
 ! rowspan="2"|Sample<br>size
-! class="unsortable" style="width:40px;"|[[People's Party for Freedom and Democracy|VVD]]
-! class="unsortable" style="width:40px;"|[[Democrats 66|D66]]
-! class="unsortable" style="width:40px;"|[[Party for Freedom|PVV]]
-! class="unsortable" style="width:40px;"|[[Christian Democratic Appeal|CDA]]
-! class="unsortable" style="width:40px;"|[[Socialist Party (Netherlands)|SP]]
-! class="unsortable" style="width:40px;"|[[Labour Party (Netherlands)|PvdA]]
-! class="unsortable" style="width:40px;"|[[GroenLinks|GL]]
-! class="unsortable" style="width:40px;"|[[Forum for Democracy|FVD]]
-! class="unsortable" style="width:40px;"|[[Party for the Animals|PvdD]]
-! class="unsortable" style="width:40px;"|[[Christian Union (Netherlands)|CU]]
-! class="unsortable" style="width:40px;"|[[Volt Netherlands|Volt]]
-! class="unsortable" style="width:40px;"|[[JA21]]
-! class="unsortable" style="width:40px;"|[[Reformed Political Party|SGP]]
-! class="unsortable" style="width:40px;"|[[DENK (political party)|DENK]]
-! class="unsortable" style="width:40px;"|[[50PLUS|50+]]
-! class="unsortable" style="width:40px;"|[[Farmer–Citizen Movement|BBB]]
-! class="unsortable" style="width:40px;"|[[BIJ1]]
-! class="unsortable" style="width:40px;" rowspan="2"|Others
+! class="unsortable" style="width:30px;"|[[People's Party for Freedom and Democracy|VVD]]
+! class="unsortable" style="width:30px;"|[[Democrats 66|D66]]
+! class="unsortable" style="width:30px;"|[[Party for Freedom|PVV]]
+! class="unsortable" style="width:30px;"|[[Christian Democratic Appeal|CDA]]
+! class="unsortable" style="width:30px;"|[[Socialist Party (Netherlands)|SP]]
+! class="unsortable" style="width:30px;"|[[Labour Party (Netherlands)|PvdA]]
+! class="unsortable" style="width:30px;"|[[GroenLinks|GL]]
+! class="unsortable" style="width:30px;"|[[Forum for Democracy|FVD]]
+! class="unsortable" style="width:30px;"|[[Party for the Animals|PvdD]]
+! class="unsortable" style="width:30px;"|[[Christian Union (Netherlands)|CU]]
+! class="unsortable" style="width:30px;"|[[Volt Netherlands|Volt]]
+! class="unsortable" style="width:30px;"|[[JA21]]
+! class="unsortable" style="width:30px;"|[[Reformed Political Party|SGP]]
+! class="unsortable" style="width:30px;"|[[DENK (political party)|DENK]]
+! class="unsortable" style="width:30px;"|[[50PLUS|50+]]
+! class="unsortable" style="width:30px;"|[[Farmer–Citizen Movement|BBB]]
+! class="unsortable" style="width:30px;"|[[BIJ1]]
+! class="unsortable" style="width:30px;" rowspan="2"|Others
 ! rowspan="2"|Lead
 |-
 ! data-sort-type="number" style="background:{{People's Party for Freedom and Democracy (2020)/meta/color}};"|
@@ -45,6 +45,167 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 ! data-sort-type="number" style="background:{{50PLUS/meta/color}};"|
 ! data-sort-type="number" style="background:{{Farmer–Citizen Movement/meta/color}};"|
 ! data-sort-type="number" style="background:{{BIJ1/meta/color}};"|
+|-
+|[https://www.ioresearch.nl/actueel/io-zetelpeiling-d66-verliest-wederom-vertrouwen-in-overheid-blijft-dalen/ I&O Research]
+|data-sort-value="2021-10-15"|15 Oct 2021
+|2,052
+|style="background:#CED7FD;"|'''34'''
+|15
+|16
+|7
+|10
+|11
+|12
+|5
+|8
+|6
+|8
+|7
+|4
+|1
+|0
+|5
+|1
+|0
+|style="background:{{People's Party for Freedom and Democracy (2020)/meta/color}};color:#FFFFFF;"|18
+|-
+|[https://maurice.nl/peilingen/2021/10/10/de-stemming-10-10-2021-39-wil-rutte-als-premier-nieuwe-kabinet/ Peil.nl]
+|10 Oct 2021
+|3,000+
+|style="background:#CED7FD;"|'''34'''
+|17
+|18
+|5
+|9
+|11
+|9
+|7
+|8
+|7
+|6
+|4
+|3
+|3
+|0
+|7
+|1
+|1{{efn|[[Belang van Nederland]] with 1 seat|name="CO1"|group=}}
+|style="background:{{People's Party for Freedom and Democracy (2020)/meta/color}};color:#FFFFFF;"|16
+|-
+|[https://maurice.nl/peilingen/2021/10/03/de-stemming-3-10-2021-29-positief-over-mogelijke-nieuwe-regeringscombinatie// Peil.nl]
+|data-sort-value="2021-10-03"|3 Oct 2021
+|3,000+
+|style="background:#CED7FD;"|'''36'''
+|17
+|17
+|5
+|9
+|11
+|9
+|6
+|7
+|7
+|6
+|5
+|3
+|3
+|0
+|7
+|1
+|1{{efn|[[Belang van Nederland]] with 1 seat|name="CO1"|group=}}
+|style="background:{{People's Party for Freedom and Democracy (2020)/meta/color}};color:#FFFFFF;"|16
+|-
+|[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/cda-met-8-zetels-op-laagste-stand-ooit-in-peiling-ook-vvd-en-d66-verliezen-zetels/ Ipsos]
+|data-sort-value="2021-09-28"|28 Sep 2021
+|994
+|style="background:#CED7FD;"|'''37'''
+|19
+|18
+|8
+|8
+|9
+|9
+|4
+|9
+|5
+|6
+|6
+|3
+|3
+|0
+|5
+|1
+|0
+|style="background:{{People's Party for Freedom and Democracy (2020)/meta/color}};color:#FFFFFF;"|18
+|-
+|[https://maurice.nl/peilingen/2021/09/26/de-stemming-26-9-2021-na-de-algemene-beschouwingen/ Peil.nl]
+|data-sort-value="2021-09-26"|26 Sep 2021
+|3,000+
+|style="background:#CED7FD;"|'''35'''
+|19
+|17
+|5
+|9
+|11
+|9
+|6
+|7
+|7
+|6
+|4
+|3
+|3
+|0
+|7
+|1
+|1{{efn|[[Belang van Nederland]] with 1 seat|name="CO1"|group=}}
+|style="background:{{People's Party for Freedom and Democracy (2020)/meta/color}};color:#FFFFFF;"|16
+|-
+|[http://persberichten.deperslijst.com/199268/kantar-public-persbericht-vvd-blijft-de-grootste-partij-in-de-peiling-van-kantar-boerburgerbeweging-bbb-maakt-opwachting-in-de-middenmoot.html/ Kantar]
+|data-sort-value="2021-09-20"|20 Sep 2021
+|1,037
+|style="background:#CED7FD;"|'''33'''
+|20
+|20
+|7
+|7
+|9
+|11
+|4
+|6
+|6
+|6
+|6
+|3
+|3
+|1
+|7
+|1
+|0
+|style="background:{{People's Party for Freedom and Democracy (2020)/meta/color}};color:#FFFFFF;"|13
+|-
+|[https://maurice.nl/peilingen/2021/09/19/de-stemming-19-09-2021-veel-kabaal-in-den-haag-weinig-verschuivingen/ Peil.nl]
+|data-sort-value="2021-09-19"|19 Sep 2021
+|3,000+
+|style="background:#CED7FD;"|'''35'''
+|20
+|16
+|7
+|8
+|11
+|9
+|5
+|7
+|7
+|5
+|5
+|3
+|3
+|0
+|7
+|1
+|1{{efn|[[Belang van Nederland]] with 1 seat|name="CO1"|group=}}
+|style="background:{{People's Party for Freedom and Democracy (2020)/meta/color}};color:#FFFFFF;"|15
 |-
 |[https://www.ioresearch.nl/actueel/io-zetelpeiling-verlies-voor-d66/ I&O Research]
 |data-sort-value="2021-09-16"|16 Sep 2021
@@ -689,7 +850,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |1
 |0
 |style="background:{{People's Party for Freedom and Democracy (2020)/meta/color}};color:#FFFFFF;"|9
-|- 
+|- style="background:#E9E9E9;" 
 |[[2021 Dutch general election|2021 election]]
 |data-sort-value="2021-03-17"|17 Mar 2021
 |–
