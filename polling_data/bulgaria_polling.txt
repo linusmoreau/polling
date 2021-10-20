@@ -8,7 +8,7 @@
  | width = 900
  | height= 500
  | type = line
- | interpolate = bundle
+ | interpolate =  
  | xType = date
  | xAxisAngle = -40
  | yAxisTitle = % of votes
@@ -22,21 +22,22 @@
  | y4Title=DB
  | y5Title=DPS
  | y6Title=IBG-NI
- | y7Title=BP
- | y8Title=Revival
- | y9Title=PP
- | x = 2021/07/11, 2021/07/28, 2021/07/30, 2021/08/22, 2021/09/10, 2021/09/15, 2021/09/15, 2021/09/20, 2021/09/26, 2021/10/10, 2021/10/12, 2021/10/12
- | y1 = 23.8, 22.6, 21.6, 15.7, 15.5, 18.6, 17.5, 14.9, 12.3, 10.4, 15.2, 14.4
-
- | y2 = 23.2, 20.8, 22.4, 21.6, 22.5, 23.2, 24.4, 25, 21.4, 23.1, 23.5, 24.2
- | y3 = 13.2, 17.9, 14.5, 15.7, 16.1, 18.1, 16.6, 16, 13.4, 16.8, 15, 19.1
- | y4 = 12.5, 17.2, 14.1, 16.5, 15.8, 14.5, 8.5, 13.1, 12.1, 10.9, 10.2, 9
- | y5 = 10.6, 9.6, 10.2, 11.0, 11.9, 10.5, 9.3, 10.8, 11.4, 9.3, 9.4, 8,7
- | y6 = 5.0, 5.4, 4.4, 4.5, 4.8, 4.1, 3.8, 3.6, 4.1, 3.2, 2.6, 4.2
- | y7 = 3.1, 2.1, 1.9, , 2.4, , 2.2, , 2.2, 2.1, 2.5, 1.8
- | y8 = 3.0, 3.7, 2.9, 4.3, 3.1, 3.8, 2.9, 3.5, 3.3, 2.9, 1.9, 1.9
- | y9 = , , , , , , 9.1, 11.9, 15.2, 15.9, 15.5, 14.6
- | colors = #4BB9DE, #0056A7, #D71921, #004A80, #0060AA, #4C813D, #01193B, #C09F62, #03168F
+ | y7Title=IMRO–BND
+ | y8Title=BP
+ | y9Title=Revival
+ | y10Title=PP
+ | x = 2021/07/11, 2021/07/28, 2021/07/30, 2021/08/22, 2021/09/10, 2021/09/15, 2021/09/15, 2021/09/20, 2021/09/26, 2021/10/10, 2021/10/12, 2021/10/12, 2021/10/18
+ | y1 = 23.8, 22.6, 21.6, 15.7, 15.5, 18.6, 17.5, 14.9, 12.3, 10.4, 15.2, 14.4, 14.3
+ | y2 = 23.2, 20.8, 22.4, 21.6, 22.5, 23.2, 24.4, 25, 21.4, 23.1, 23.5, 24.2, 26.2
+ | y3 = 13.2, 17.9, 14.5, 15.7, 16.1, 18.1, 16.6, 16, 13.4, 16.8, 15, 19.1, 14.9
+ | y4 = 12.5, 17.2, 14.1, 16.5, 15.8, 14.5, 8.5, 13.1, 12.1, 10.9, 10.2, 9, 8.8
+ | y5 = 10.6, 9.6, 10.2, 11.0, 11.9, 10.5, 9.3, 10.8, 11.4, 9.3, 9.4, 8.7, 11.6
+ | y6 = 5.0, 5.4, 4.4, 4.5, 4.8, 4.1, 3.8, 3.6, 4.1, 3.2, 2.6, 4.2, 2.9
+ | y7 = 3.1, , 1.9, , 2.4, , 2.2, , 2.2, 2.1, 2.5, 1.8, 3.7
+ | y8 = 3.1, 2.1, , , , , , , , , , ,
+ | y9 = 3.0, 3.7, 2.9, 4.3, 3.1, 3.8, 2.9, 3.5, 3.3, 2.9, 1.9, 1.9, 1.5
+ | y10 = , , , , , , 9.1, 11.9, 15.2, 15.9, 15.5, 14.6, 10.2
+ | colors = #4BB9DE, #0056A7, #D71921, #004A80, #0060AA, #4C813D, #01193B, #01193B, #C09F62, #03168F
  | showSymbols = 1,1,1,1,1,1,1,1,1,1
  | symbolsShape = circle
  | symbolsNoFill = false
@@ -53,6 +54,7 @@ size
 ! class="unsortable" style="width:50px;" |[[Democratic Bulgaria|DB]]
 ! class="unsortable" style="width:50px;" |[[Movement for Rights and Freedoms|DPS]]
 ! class="unsortable" style="width:50px;" |[[Stand Up.BG! We are coming!|IBG-NI]]
+! class="unsortable" style="width:50px;" |[[IMRO-BNM|IMRO-BND]]
 ! class="unsortable" style="width:50px;" |[[Bulgarian Patriots|BP]]
 ! class="unsortable" style="width:50px;" |[[Revival (Bulgarian political party)|Revival]]
 ! class="unsortable" style="width:50px;" |[[We Continue the Change|PP]]
@@ -65,10 +67,28 @@ size
 ! class="unsortable" style="background:{{Democratic Bulgaria/meta/color}};" |
 ! class="unsortable" style="background:{{Movement for Rights and Freedoms/meta/color}};" |
 ! class="unsortable" style="background:{{Stand Up! Mafia, Get Out!/meta/color}};;" |
-! class="unsortable" style="background:{{Bulgarian Patriots/meta/color}};" |
+! class="unsortable" style="background:{{IMRO – Bulgarian National Movement/meta/color}};"|
+! class="unsortable" style="background:{{Bulgarian Patriots/meta/color}};"|
 ! class="unsortable" style="background:{{Revival (Bulgarian political party)/meta/color}}" |
 ! class="unsortable" style="background:{{We Continue the Change/meta/color}}" |
 
+|-
+|[https://www.flagman.bg/article/251917 Barometar]
+|13-18 Oct 2021
+|858
+|14.3%
+| style="background:#CCE6FF"| '''26.2%'''
+|14.9%
+
+|8.8%
+|11.6%
+|2.9%
+|3.7%
+| —
+|1.5%
+|10.2%
+|5.5%
+| style="background:{{GERB/meta/color}}; color:white;" |11.3%
 |-
 |[https://trud.bg/%D1%81%D0%BE%D0%B2%D0%B0-%D1%85%D0%B0%D1%80%D0%B8%D1%81-%D0%B3%D0%B5%D1%80%D0%B1-242-%D0%B1%D1%81%D0%BF-191/ Sova Harris]
 |5−12 Oct 2021
@@ -80,6 +100,7 @@ size
 |8.7%
 |4.2%
 |1.8%
+| —
 |1.9%
 |14.6%
 |2.1%
@@ -96,6 +117,7 @@ size
 |9.4%
 |2.6%
 |2.5%
+| —
 |1.9%
 |15.5%
 |4.2%
@@ -111,6 +133,7 @@ size
 |9.3%
 |3.2%
 |2.1%
+| —
 |2.9%
 |15.9%
 |5.4%
@@ -126,6 +149,7 @@ size
 |11.4%
 |4.1%
 |2.2%
+| —
 |3.3%
 |15.2%
 |4.6%
@@ -140,6 +164,7 @@ size
 |13.1%
 |10.8%
 |3.6%
+| —
 | —
 |3.5%
 |11.9%
@@ -156,6 +181,7 @@ size
 |9.3%
 |3.8%
 |2.2%
+| —
 |2.9%
 |9.1%
 |5.7%
@@ -170,6 +196,7 @@ size
 |14.5%
 |10.5%
 |4.5%
+| —
 | —
 |3.8%
 | —
@@ -186,6 +213,7 @@ size
 |11.9%
 |4.8%
 |2.4%
+| —
 |3.1%
 | —
 |7.9%
@@ -200,6 +228,7 @@ size
 |16.5%
 |11.0%
 |4.5%
+| —
 | —
 |4.3%
 | —
@@ -216,6 +245,7 @@ size
 |10.2%
 |4.4%
 |1.9%
+| —
 |2.9%
 | —
 |8%
@@ -230,6 +260,7 @@ size
 |17.2%
 |9.6%
 |5.4%
+| —
 |2.1%
 |3.7%
 | —
@@ -245,6 +276,7 @@ size
 |12.5%
 |10.6%
 |5%
+|3.1%{{efn|Result of [[Bulgarian Patriots]]}}
 |3.1%
 |3%
 | —

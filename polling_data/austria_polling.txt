@@ -1,6 +1,8 @@
 == Poll results ==
-'''Disclaimer''': poll results from „Research Affairs“ published in the tabloid newspaper „Österreich“ (Ö24) have come under scrutiny as part of a major corruption investigation and raids by Austrian prosecutors on 7 October 2021. Therefore, polls published by „Karmasin Research & Identity“ must also be taken with a grain of salt.
-{{For|the events during those years|2019 in Austria|2020 in Austria|2021 in Austria}}
+{{for|the events during those years|2019 in Austria|2020 in Austria|2021 in Austria}}
+; Disclaimer
+Poll results from Research Affairs published in the tabloid newspaper ''Österreich'' (Oe24) have come under scrutiny as part of a major corruption investigation and raids by Austrian prosecutors on 7 October 2021. Polls published by Karmasin Research & Identity must also be taken with a grain of salt because Sophie Karmasin is also part of the investigation.
+
 {| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
 |-
 ! rowspan="2"| Polling firm
@@ -21,6 +23,18 @@
 ! style="background:{{The Greens – The Green Alternative/meta/color}};"|
 ! style="background:{{NEOS – The New Austria and Liberal Forum/meta/color}};"|
 ! style="background:{{Independent/meta/color}};"|
+|-
+| [https://image.kurier.at/images/cfs_616w/6467664/ogm_umfrage_17._10._online-01.png OGM]
+| data-sort-value="2021-10-15"| 12–15 Oct 2021
+| 1,170
+| Phone & Online
+| style="background:#D2EDF1;"| '''26'''
+| 24
+| 21
+| 12
+| 12
+| 5
+| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 2
 |-
 | [https://www.derstandard.de/story/2000130401834/oevp-krise-staerkt-fpoe-und-neos Market]
 | data-sort-value="2021-10-11"| 11–12 Oct 2021
@@ -49,6 +63,18 @@
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;" data-sort-value="2021-10-11" | 11 Oct 2021
 | colspan="9" | '''[[Alexander Schallenberg]] sworn in as new Chancellor after [[Sebastian Kurz]]'s resignation'''
+|-
+| [https://www.ogm.at/2021/09/12/wahlumfrage-kurier-september-2021/ OGM]
+| data-sort-value="2021-09-09"| 7–9 Sep 2021
+| 804
+| Phone & Online
+| style="background:#D2EDF1;"| '''34'''
+| 24
+| 18
+| 12
+| 11
+| 1
+| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 10
 |-
 | [https://www.oe24.at/video/fellnerlive/fellner-live-die-umfrage-der-woche/490279467 Research Affairs]
 | data-sort-value="2021-09-01"| 30 Aug – 1 Sep 2021

@@ -3,7 +3,6 @@
 {| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
 |-
 ! rowspan="2"|Polling firm
-! rowspan="2"|Client
 ! rowspan="2"|Fieldwork date
 ! rowspan="2"|Sample<br />size
 ! rowspan="2"|{{abbr|Resp.|Response rate}}
@@ -12,7 +11,6 @@
 ! class="unsortable" style="width:30px;"|[[Green Party (Norway)|MDG]]
 ! class="unsortable" style="width:30px;"|[[Labour Party (Norway)|Ap]]
 ! class="unsortable" style="width:30px;"|[[Centre Party (Norway)|Sp]]
-! class="unsortable" style="width:30px,"|[[Patient Focus (Norway)|PF]]
 ! class="unsortable" style="width:30px;"|[[Liberal Party (Norway)|V]]
 ! class="unsortable" style="width:30px;"|[[Christian Democratic Party (Norway)|KrF]]
 ! class="unsortable" style="width:30px;"|[[Conservative Party (Norway)|H]]
@@ -25,14 +23,76 @@
 ! style="background:{{Green Party (Norway)/meta/color}};"|
 ! style="background:{{Labour Party (Norway)/meta/color}};"|
 ! style="background:{{Centre Party (Norway)/meta/color}};"|
-! style="background:{{Patient Focus (Norway)/meta/color}};"|
 ! style="background:{{Liberal Party (Norway)/meta/color}};"|
 ! style="background:{{Christian Democratic Party (Norway)/meta/color}};"|
 ! style="background:{{Conservative Party of Norway (2020)/meta/color}};"|
 ! style="background:{{Progress Party (Norway)/meta/color}};"|
 |-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4537 Opinion Perduco]
+|{{opdrts|5|11|Oct|2021}}
+|977
+|–
+|5.3
+|8.5
+|3.8
+|style="background:#F7BDC5;"|'''25.8'''
+|13.1
+|4.7
+|3.8
+|21.5
+|11.0
+|2.6
+|style="background:{{Labour Party (Norway)/meta/color}};color:#FFFFFF;"|4.3
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4536 Norfakta]
+|{{opdrts|5|6|Oct|2021}}
+|1,003
+|–
+|4.7
+|8.9
+|3.5
+|style="background:#F7BDC5;"|'''26.0'''
+|13.7
+|4.3
+|4.1
+|20.6
+|11.6
+|2.6
+|style="background:{{Labour Party (Norway)/meta/color}};color:#FFFFFF;"|5.4
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4535 Norstat]
+|{{opdrts|28|3|Oct|2021}}
+|1,000
+|83.0
+|4.9
+|9.0
+|3.7
+|style="background:#F7BDC5;"|'''25.6'''
+|13.1
+|4.5
+|3.4
+|20.5
+|12.0
+|3.4
+|style="background:{{Labour Party (Norway)/meta/color}};color:#FFFFFF;"|5.1
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4534 Kantar TNS]
+|{{opdrts|27|1|Oct|2021}}
+|978
+|–
+|5.4
+|8.3
+|4.2
+|style="background:#F7BDC5;"|'''27.9'''
+|13.2
+|4.3
+|3.2
+|18.9
+|11.7
+|2.9
+|style="background:{{Labour Party (Norway)/meta/color}};color:#FFFFFF;"|9.0
+|-
 |[http://www.pollofpolls.no/?cmd=Maling&gallupid=4533 Norstat]
-|''[[Vårt Land (Norwegian newspaper)|Vårt Land]]''
 |{{opdrts|21|25|Sep|2021}}
 |959
 |–
@@ -41,7 +101,6 @@
 |4.4
 |style="background:#F7BDC5;"|'''27.3'''
 |12.8
-|–
 |4.3
 |3.5
 |20.8
@@ -49,8 +108,7 @@
 |3.2
 |style="background:{{Labour Party (Norway)/meta/color}};color:#FFFFFF;"|6.5
 |-
-|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4532 Kantar TNS]
-|''[[Amedia]]''
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4532 Sentio]
 |{{opdrts|14|21|Sep|2021}}
 |1,000
 |–
@@ -59,7 +117,6 @@
 |5.5
 |style="background:#F7BDC5;"|'''28.2'''
 |12.0
-|–
 |4.1
 |3.1
 |20.0
@@ -67,20 +124,19 @@
 |2.9
 |style="background:{{Labour Party (Norway)/meta/color}};color:#FFFFFF;"|8.2
 |- style="background:#E9E9E9;"
-|colspan="2"|[[2021 Norwegian parliamentary election|2021 election]]
+|[[2021 Norwegian parliamentary election|2021 election]]
 |{{opdrts||13|Sep|2021}}
 |{{N/A}}
 |77.1
 |4.7
 |7.6
 |3.9
-|style="background:#F7BDC5;"|'''26.3'''
+|style="background:#F7BDC5;" |'''26.3'''
 |13.5
-|0.2
 |4.6
 |3.8
 |20.4
 |11.6
-|3.4
+|3.6
 |style="background:{{Labour Party (Norway)/meta/color}};color:#FFFFFF;"|5.9
 |}

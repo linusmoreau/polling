@@ -26,7 +26,7 @@
 ! style="background:{{Sweden Democrats/meta/color}};"|
 |-
 |Sifo<ref>https://www.kantarsifo.se/sites/default/files/reports/documents/sifo_vb_okt_2021.pdf</ref>
-|4-14 Oct 2021
+|4–14 Oct 2021
 |6,152
 |10.5
 | style="background:#F9BDC5;" |'''26.6'''
@@ -40,7 +40,7 @@
 |style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |4.7
 |-
 |Demoskop<ref> https://www.aftonbladet.se/nyheter/a/7dm2AV/aftonbladet-demoskop-lagsta-stodet-for-miljopartiet-pa-16-ar</ref>
-|29 Sep-6 Oct 2021
+|29 Sep–6 Oct 2021
 |2,417
 |8.6
 | style="background:#F9BDC5;" |'''26.7'''
@@ -54,7 +54,7 @@
 |style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |4.5
 |-
 |Novus<ref>https://www.expressen.se/nyheter/vansterns-tapp-s-tar-tillbaka-roster--/</ref>
-|30 Aug-3 Oct 2021
+|30 Aug–3 Oct 2021
 |4,922
 |10.6
 | style="background:#F9BDC5;" |'''26.0'''
@@ -68,7 +68,7 @@
 |style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |3.4
 |-
 |Sentio<ref>https://nyheteridag.se/plus/konservativ-majoritet-i-sentio-mp-utanfor-riksdagen/</ref>
-|23-27 Sep 2021
+|23–27 Sep 2021
 | –
 |10.4
 | style="background:#F9BDC5;" |'''24.4'''
@@ -82,7 +82,7 @@
 |style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |1.7
 |-
 |Ipsos<ref>https://www.aftonbladet.se/nyheter/a/dnkLQA/dn-ipsos-tre-partier-nara-riksdagssparren</ref>
-|14-26 Sep 2021
+|14–26 Sep 2021
 |1,533
 |11
 | style="background:#F9BDC5;" |'''25'''
@@ -97,7 +97,7 @@
 |-
 |Sifo<ref>{{Cite news|title=SIFO VÄLJARBAROMETER SEPTEMBER 2021
 |language=sv|url=https://www.kantarsifo.se/rapporter-undersokningar/sifo-valjarbarometer-september-2021|access-date=2021-09-17}}</ref>
-|6-16 Sep 2021
+|6–16 Sep 2021
 |6,488
 |10.6
 | style="background:#F9BDC5;" |'''26.1'''
@@ -112,7 +112,7 @@
 |-
 |SKOP<ref>{{Cite news|title=SKOP:S VÄLJARBAROMETER, DEN 16 SEPTEMBER 2021
 |language=sv|url=https://skop.se/main/wp-content/uploads/2021/09/SKOPs-Valjarbarometer-16-september-2021.pdf|access-date=2021-09-16}}</ref>
-|3-11 Sep 2021
+|3–11 Sep 2021
 |1,030
 |12.5
 | style="background:#F9BDC5;" |'''25.8'''
@@ -127,7 +127,7 @@
 |-
 |Demoskop<ref>{{Cite news|title=Väljarbarometern september 2021
 |language=sv|url=https://demoskop.se/valjarbarometern-september-2021/|access-date=2021-09-10}}</ref>
-|31 Aug-8 Sep 2021
+|31 Aug–8 Sep 2021
 |2,199
 |8.2
 | style="background:#F9BDC5;" |'''26.7'''
@@ -155,7 +155,7 @@
 |style="background:{{Sweden Democrats/meta/color}};color:black;" |0.2
 |-
 |Novus<ref>{{Cite news|title=SVT/Novus: Vänsterpartiet tappar stöd|language=sv|url=https://www.svt.se/nyheter/svt-novus-vansterpartiet-tappar-stod|access-date=2021-09-02}}</ref>
-|2-29 Aug 2021
+|2–29 Aug 2021
 |4,765
 |11.2
 | style="background:#F9BDC5;" |'''25.9'''
@@ -169,7 +169,7 @@
 |style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |3.9
 |-
 |Ipsos<ref>{{Cite news|title=DN/Ipsos: MP ökar efter sommarens extremväder|language=sv|url=https://www.dn.se/sverige/dn-ipsos-mp-okar-efter-sommarens-extremvader/|access-date=2021-08-25}}</ref>
-|10-23 Aug 2021
+|10–23 Aug 2021
 |1,547
 |11
 | style="background:#F9BDC5;" |'''25'''
@@ -183,7 +183,7 @@
 |style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |4
 |-
 |Sifo<ref>{{Cite news|title=SIFO VÄLJARBAROMETER AUGUSTI 2021|language=sv|url=https://www.kantarsifo.se/rapporter-undersokningar/sifo-valjarbarometer-augusti-2021|access-date=2021-08-20}}</ref>
-|9-18 Aug 2021
+|9–18 Aug 2021
 |4,972
 |11.9
 | style="background:#F9BDC5;" |'''24.1'''
@@ -197,7 +197,7 @@
 |style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |2.3
 |-
 |Demoskop<ref>{{Cite news|title=V är fjärde största partiet – L riskerar att lämna riksdagen|language=sv|url=https://www.aftonbladet.se/nyheter/a/34BpeP/v-ar-fjarde-storsta-partiet--l-riskerar-att-lamna-riksdagen|access-date=2021-08-11}}</ref>
-|2-5 Aug 2021
+|2–5 Aug 2021
 |2,403
 |10.2
 | style="background:#F9BDC5;" |'''24.6'''
@@ -1028,7 +1028,7 @@
 |style="background:{{Swedish Social Democratic Party/meta/color}};color:white;"|6
 |-
 |Sentio<ref>{{Cite web|url=https://nyheteridag.se/plus/rodgrona-totalkrossas-i-sentio-och-kd-bryter-nedatgaende-trend/|title=Rödgröna totalkrossas i Sentio och KD bryter nedåtgående trend|website=Nyheter Idag|language=sv|access-date=2020-11-21}}</ref>
-|17-20 Sep 2020
+|17–20 Sep 2020
 |–
 |8.6
 |style="background:#F9BDC5;"|'''25.1'''

@@ -57,6 +57,21 @@
 | 7
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''6'''
 |-
+| [https://natemat.pl/zdrowie/378867,najmniej-szkodliwa-alternatywa-dla-palaczy-naukowcy-okreslili-skale-ryzyka Kantar Public]
+| data-sort-value="2021-10-13" | 8–13 Oct 2021
+| 968
+| style="background:#C0DBFC;" | '''32'''
+| 1
+| 25
+| 7
+| 3
+| 2
+| 6
+| 10
+|
+| 14
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''7'''
+|-
 | style="letter-spacing: -1px;"| [https://www.rmf24.pl/polityka/news-sondaz-dla-rmf-fm-i-dgp-spada-poparcie-dla-pis-rosnie-dla-ko,nId,5579613 United Surveys / DGP, RMF]
 | data-sort-value="2021-10-11" | 11 Oct 2021
 | 1,000

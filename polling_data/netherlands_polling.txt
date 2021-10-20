@@ -46,6 +46,29 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 ! data-sort-type="number" style="background:{{Farmer–Citizen Movement/meta/color}};"|
 ! data-sort-type="number" style="background:{{BIJ1/meta/color}};"|
 |-
+|[https://maurice.nl/peilingen/2021/10/17/de-stemming-17-10-2021-6-maanden-na-tk2021/ Peil.nl]
+|17 Oct 2021
+|3,000+
+|style="background:#CED7FD;"|'''34'''
+|17
+|19
+|5
+|9
+|11
+|9
+|6
+|8
+|6
+|6
+|5
+|3
+|3
+|0
+|7
+|1
+|1{{efn|[[Belang van Nederland]] with 1 seat|name="CO1"|group=}}
+|style="background:{{People's Party for Freedom and Democracy (2020)/meta/color}};color:#FFFFFF;"|16
+|-
 |[https://www.ioresearch.nl/actueel/io-zetelpeiling-d66-verliest-wederom-vertrouwen-in-overheid-blijft-dalen/ I&O Research]
 |data-sort-value="2021-10-15"|15 Oct 2021
 |2,052

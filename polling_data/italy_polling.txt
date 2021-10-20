@@ -32,6 +32,58 @@
 ! style="background:{{Italia Viva/meta/color}};"|
 ! style="background:{{Coraggio Italia/meta/color}};"|
 |-
+|13–18 Oct
+|[https://tg.la7.it/sondaggi/il-sondaggio-politico-di-luned%C3%AC-18-ottobre-2021-18-10-2021-165394 SWG]
+|1,200
+|16.4
+|19.2
+|19.4
+|7.0
+|style="background:#E5E7FF;" |'''21.1'''
+|2.9
+|2.2
+|1.6
+|1.8
+|3.9
+|2.1
+|
+|2.4
+|style="background:#03386A; color:white;"|1.7
+|-
+|13–16 Oct
+|[https://www.today.it/politica/sondaggio-elezioni-greenpass.html Demopolis]
+|8,860
+|15.8
+|20.2
+|19.6
+|6.5
+|style="background:#E5E7FF;" |'''20.5'''
+|colspan="2"|2.0
+|
+|
+|3.0
+|
+|
+|12.4
+|style="background:#03386A; color:white;"|0.2
+|-
+|13–14 Oct
+|[https://www.termometropolitico.it/1597997_sondaggi-tp-per-quasi-un-italiano-su-due-votare-e-inutile.html Termometro Politico]
+|3,600
+|15.8
+|19.9
+|19.8
+|6.8
+|style="background:#E5E7FF;" |'''21.2'''
+|colspan="2"|2.8
+|1.4
+|1.5
+|3.5
+|2.8
+|
+|4.8
+|style="background:#03386A; color:white;"|1.3
+|-
 |11–14 Oct
 |[https://www.affaritaliani.it/politica/sondaggi-lega-primo-partito-dati-di-oggi-chi-sale-e-chi-scende-762219.html Lab2101]
 |1,000

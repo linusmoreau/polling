@@ -28,13 +28,29 @@
 ! style="background:#808080;"|
 ! style="background:#568203"|
 |-
-|10–18 Sep 2021
+|data-sort-value="2021-09-18"|7–16 Oct 2021
+|[https://demokrata.hu/magyarorszag/friss-kutatas-kerdeseket-vet-fel-az-elovalasztasi-szinjatek-eredmenye-439269/ e-benchmark]
+|1000
+| style="background:#FFE5B4" |'''44'''
+|3
+|1
+|{{N/A}}
+|18
+|1
+|4
+|2
+|3
+|0
+| style="background:{{Fidesz/meta/color}}; color:white;" |26
+|33
+|-
+|data-sort-value="2021-09-18"|10–18 Sep 2021
 |[https://demokrata.hu/magyarorszag/gyengult-az-ellenzek-kevesebben-akarnak-kormanyvaltast-428488/ e-benchmark]
 |1000
 |style="background:#FFE5B4"|'''45'''
 |5
 |2
-|N/A
+|{{N/A}}
 |13
 |1
 |4
@@ -44,7 +60,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |32
 |25
 |-
-|31 Aug – 7 Sep 2021
+|data-sort-value="2021-09-07"|31 Aug – 7 Sep 2021
 |[https://www.ideaintezet.hu/hu/hirek-aktualis/71/beindulo-kampany--koncentralodo-szavazok-----2021--szeptember IDEA]
 |2000
 |style="background:#FFE5B4"|'''48'''
@@ -60,7 +76,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |32
 |45
 |-
-|23–28 August 2021
+|data-sort-value="2021-08-28"|23–28 August 2021
 |[http://republikon.hu/elemzesek,-kutatasok/21-09-01-kvk.aspx Republikon]
 |1000
 |style="background:#FFE5B4"|'''45'''
@@ -76,7 +92,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |28
 |52
 |-
-|August 2021
+|data-sort-value="2021-08-25"|August 2021
 |[https://index.hu/belfold/2021/08/26/fidesz-kormany-partpreferencia-ellenzek-valasztasok/ Závecz Research]
 |1000
 |style="background:#FFE5B4"|'''50'''
@@ -92,7 +108,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |33
 |45
 |-
-|22 Jul – 1 Aug 2021
+|data-sort-value="2021-08-01"|22 Jul – 1 Aug 2021
 |[https://www.ideaintezet.hu/hu/hirek-aktualis/69/megallt-a-jobbik-eloretorese-a-nyar-derekan------2021--julius IDEA]
 |2000
 |style="background:#FFE5B4"|'''47'''
@@ -108,7 +124,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |31
 |47
 |-
-|30 June – 4 July 2021
+|data-sort-value="2021-07-04"|30 June – 4 July 2021
 |[https://www.ideaintezet.hu/hu/hirek-aktualis/65/listak-versenyeben-a-biztos-szavazoknal-forditott-a-fidesz IDEA]
 |2000
 | style="background:#FFE5B4" |'''47'''
@@ -124,7 +140,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |32
 |46
 |-
-|27 May – 8 June 2021
+|data-sort-value="2021-06-08"|27 May – 8 June 2021
 |[https://www.ideaintezet.hu/hu/hirek-aktualis/63/ellenzeki-vezetes-a-listak-versenyeben------2021--majus-junius/ IDEA]
 |2000
 | style="background:#FFE5B4" |'''46'''
@@ -140,7 +156,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |30
 |49
 |-
-|18-21 May 2021
+|data-sort-value="2021-05-21"|18-21 May 2021
 |[https://publicus.hu/blog/partok-tamogatottsaga-es-az-elovalasztas-2021-majus/ Publicus]
 |600
 | style="background:#FFE5B4" |'''44'''
@@ -155,7 +171,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |32
 |54
 |-
-|8–17 May 2021
+|data-sort-value="2021-05-17"|8–17 May 2021
 |[https://telex.hu/belfold/2021/05/21/zavecz-felmeres-partok-tamogatottsaga-fidesz-ellenzeki-partok Závecz Research]
 |1000
 |style="background:#FFE5B4" |'''46'''
@@ -171,7 +187,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |28
 |50
 |-
-|6–11 May 2021
+|data-sort-value="2021-05-11"|6–11 May 2021
 |[https://designrr.page/?id=92245&token=2630185484&type=FP Civitas]
 |1003
 |style="background:#FFE5B4" |'''54'''
@@ -187,7 +203,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |40
 |45
 |-
-|27 April – 4 May 2021
+|data-sort-value="2021-05-04"|27 April – 4 May 2021
 |[https://www.ideaintezet.hu/hu/hirek-aktualis/58/rendkivul-kielezett-verseny-a-politikai-tombok-kozott-2021--majus-elejen- IDEA]
 |2000
 |style="background:#FFE5B4" |'''46'''
@@ -203,7 +219,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |30
 |48
 |-
-|24-28 Apr 2021
+|data-sort-value="2021-04-28"|24-28 Apr 2021
 |[https://publicus.hu/blog/partok-tamogatottsaga-es-az-elovalasztas-2021-aprilis/?fbclid=IwAR1ouaHoJHCie2KSWKVHFfwFHcXIxmH6fdIHTJ8BZATZRfi2p_wic02YEa8&utm_source=mandiner&utm_medium=link&utm_campaign=mandiner_202105 Publicus]
 |1012
 | style="background:#FFE5B4" |'''48'''
@@ -219,7 +235,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |37
 |51{{efn|Includes 11 percent expressing support only for a united opposition, not for any opposition party individually.|name=|group=}}
 |-
-|19-23 Apr 2021
+|data-sort-value="2021-04-23"|19-23 Apr 2021
 |[http://republikon.hu/elemzesek,-kutatasok/21-04-30-kvk.aspx Republikon]
 |1000
 | style="background:#FFE5B4" |'''46'''
@@ -235,7 +251,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |32
 |52
 |-
-|Apr 2021
+|data-sort-value="2021-04-22"|Apr 2021
 |[https://index.hu/belfold/2021/04/22/zavecz-fej-fej-mellett-a-kormanypartok-es-a-hatparti-ellenzek/ Závecz Research]
 |1000
 | style="background:#FFE5B4" |'''47'''
@@ -251,7 +267,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |30
 |50
 |-
-|26–31 Mar 2021
+|data-sort-value="2021-03-31"|26–31 Mar 2021
 |[https://www.ideaintezet.hu/hu/hirek-aktualis/55/erosodo-jobbik-mellett-tovabbra-is-ellenzeki-foleny IDEA]
 |2000
 | style="background:#FFE5B4" |'''44'''
@@ -267,7 +283,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |27
 |49
 |-
-|5–11 Mar 2021
+|data-sort-value="2021-03-11"|5–11 Mar 2021
 |[https://designrr.page/?id=71673&token=2044092031&type=FP Civitas]
 |1007
 | style="background:#FFE5B4" |'''47'''
@@ -283,7 +299,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |33
 |40
 |-
-|2–11 Mar 2021
+|data-sort-value="2021-03-11"|2–11 Mar 2021
 |[https://hvg.hu/itthon/20210316_zavecz_fidesz_jobbik_kozvelemeny_kutatas Závecz Research]
 |1000
 | style="background:#FFE5B4" |'''46'''
@@ -299,7 +315,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |30
 |51
 |-
-|20–25 Feb 2021
+|data-sort-value="2021-02-25"|20–25 Feb 2021
 |[https://publicus.hu/blog/partok-tamogatottsaga-2021-februar/?fbclid=IwAR1vT6Cw6mYz7O4vK4VM6FzQr5lfEfRs992O-eoNYll4XfF9Tt82ik5A0CU Publicus]
 |1001
 | style="background:#FFE5B4" |'''45'''
@@ -315,7 +331,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |33
 |43
 |-
-|22–25 Feb 2021
+|data-sort-value="2021-02-25"|22–25 Feb 2021
 |[https://www.ideaintezet.hu/hu/hirek-aktualis/53/stabil-az-ellenzeki-egyesitett-lista-elonye------2021--februar IDEA]
 |2000
 | style="background:#FFE5B4" |'''44'''
@@ -331,7 +347,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |27
 |48
 |-
-|15–22 Feb 2021
+|data-sort-value="2021-02-22"|15–22 Feb 2021
 |[https://telex.hu/belfold/2021/03/03/republikon-februar-partpreferencia-felmeres Republikon]
 |1000
 | style="background:#FFE5B4" |'''46'''
@@ -347,7 +363,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |31
 |51
 |-
-|5–13 Feb 2021
+|data-sort-value="2021-02-13"|5–13 Feb 2021
 |[http://www.atv.hu/belfold/20210219-zavecz-szoros-a-verseny-a-fidesz-kdnp-es-az-ellenzek-kozott Závecz Research]
 |1000
 | style="background:#FFE5B4" |'''47'''
@@ -363,7 +379,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |29
 |51
 |-
-|14–21 Jan 2021
+|data-sort-value="2021-01-21"|14–21 Jan 2021
 |[https://telex.hu/belfold/2021/02/02/republikon-befagytak-a-partpreferenciak-januarra Republikon]
 |1000
 | style="background:#FFE5B4" |'''46'''
@@ -379,7 +395,22 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |30
 |52
 |-
-|11–15 Dec 2020
+|data-sort-value="2020-12-18"|Dec 2020
+|[https://kozvelemenykutatok.hu/2020-decemberi-kutatasi-eredmenyek-median/?fbclid=IwAR3NhUCqZN2bNyjzkfw4FDsWwxkWnpfVUJDRXsuB8Zjwedcte8WlKL9My0U Medián]
+|600
+| style="background:#FFE5B4" |'''49'''
+|10
+|colspan="2"|4
+|11
+|2
+|13
+|5
+|3
+|0
+| style="background:{{Fidesz/meta/color}}; color:white;" |33
+|48
+|-
+|data-sort-value="2020-12-15"|11–15 Dec 2020
 |[https://www.ideaintezet.hu/hu/hirek-aktualis/49/lassan--de-morzsolodik-a-fidesz-tabor IDEA]
 |2000
 | style="background:#FFE5B4"|'''47'''
@@ -395,7 +426,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;"|30
 |49
 |-
-|8–15 Dec 2020
+|data-sort-value="2020-12-15"|8–15 Dec 2020
 |[https://telex.hu/belfold/2020/12/23/republikon-decemberi-partpreferencia Republikon]
 |1000
 | style="background:#FFE5B4" |'''46'''
@@ -411,22 +442,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |31
 |52
 |-
-|Dec 2020
-|[https://kozvelemenykutatok.hu/2020-decemberi-kutatasi-eredmenyek-median/?fbclid=IwAR3NhUCqZN2bNyjzkfw4FDsWwxkWnpfVUJDRXsuB8Zjwedcte8WlKL9My0U Medián]
-|600
-| style="background:#FFE5B4" |'''49'''
-|10
-|colspan="2"|4
-|11
-|2
-|13
-|5
-|3
-|0
-| style="background:{{Fidesz/meta/color}}; color:white;" |33
-|48
-|-
-|1–8 Dec 2020
+|data-sort-value="2020-12-08"|1–8 Dec 2020
 |[https://telex.hu/belfold/2020/12/11/a-fidesz-felmillio-valasztot-vesztett-augusztus-ota-zavecz-kozvelemenykutatas-partpreferencia Závecz Research]
 |1000
 | style="background:#FFE5B4" |'''45'''
@@ -442,7 +458,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |26
 |53
 |-
-|30 Nov – 4 Dec 2020
+|data-sort-value="2020-12-04"|30 Nov – 4 Dec 2020
 |[https://www.ideaintezet.hu/hu/hirek-aktualis/46/a-szajer-botrany-a-kirobbanasanak-idejen--meg--nem-befolyasolta-a-partpreferenciakat IDEA]
 |2000
 | style="background:#FFE5B4" |'''47'''
@@ -458,7 +474,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |30
 |50
 |-
-|16–23 Nov 2020
+|data-sort-value="2020-11-23"|16–23 Nov 2020
 |[https://www.facebook.com/republikon/posts/10158899680769976 Republikon]
 |1000
 | style="background:#FFE5B4" |'''48'''
@@ -474,7 +490,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |33
 |50
 |-
-|18–21 Nov 2020
+|data-sort-value="2020-11-21"|18–21 Nov 2020
 |[https://publicus.hu/blog/partok-tamogatottsaga-2020-november/  Publicus]
 |1000
 | style="background:#FFE5B4" |'''48'''
@@ -490,7 +506,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |35
 |46
 |-
-|3–17 Nov 2020
+|data-sort-value="2020-11-17"|3–17 Nov 2020
 |[http://www.zaveczresearch.hu/szoros-a-verseny-a-fidesz-es-az-ellenzek-kozott/ Závecz Research]
 |1000
 | style="background:#FFE5B4" |'''47'''
@@ -506,7 +522,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |30
 |51
 |-
-|31 Oct – 5 Nov 2020
+|data-sort-value="2020-11-05"|31 Oct – 5 Nov 2020
 |[https://www.ideaintezet.hu/hu/hirek-aktualis/45/az-ellenzek-ossztamogatottsaga-magasabb--mint-a-kormanypartoke IDEA]
 |2000
 | style="background:#FFE5B4" |'''48'''
@@ -522,7 +538,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |31
 |48
 |-
-|19–26 Oct 2020
+|data-sort-value="2020-10-26"|19–26 Oct 2020
 |[https://kozvelemenykutatok.hu/2020-oktoberi-kutatasi-eredmenyek-republikon/ Republikon]
 |1000
 | style="background:#FFE5B4" |'''50'''
@@ -538,7 +554,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |35
 |48
 |-
-|15–20 Oct 2020
+|data-sort-value="2020-10-20"|15–20 Oct 2020
 |[http://iranytuintezet.hu/elemzesek-kutatasok/mind/243-az-iranytu-intezet-2020-oktoberi-orszagos-kozvelemeny-kutatasa/ Iránytű]
 |1000
 | style="background:#FFE5B4" |'''51'''
@@ -554,7 +570,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |39
 |46
 |-
-|5–15 Oct 2020
+|data-sort-value="2020-10-15"|5–15 Oct 2020
 |[https://infostart.hu/belfold/2020/10/22/zavecz-elszant-maradt-de-kisebb-a-fidesz-szavazotabora Závecz Research]
 |1000
 | style="background:#FFE5B4" |'''49'''
@@ -570,7 +586,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |32
 |49
 |-
-|30 Sep – 4 Oct 2020
+|data-sort-value="2020-10-04"|30 Sep – 4 Oct 2020
 |[https://www.ideaintezet.hu/hu/hirek-aktualis/43/a-momentum-es-a-jobbik-szavazoinak-az-elkotelezodeset-kockaztatna--ha-elutasitana-a-kozos-listat IDEA]
 |2000
 | style="background:#FFE5B4" |'''50'''
@@ -586,7 +602,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |33
 |47
 |-
-|22–25 Sep 2020
+|data-sort-value="2020-09-25"|22–25 Sep 2020
 |[https://publicus.hu/blog/partok-tamogatottsaga-az-osszefogas-szavazo-szuletese-2020-szeptember/ Publicus]
 |1005
 | style="background:#FFE5B4" |'''49'''
@@ -602,7 +618,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |36
 |46
 |-
-|7–18 Sep 2020
+|data-sort-value="2020-09-18"|7–18 Sep 2020
 |[https://infostart.hu/belfold/2020/09/30/zavecz-research-vezet-a-fidesz-a-dk-a-legerosebb-ellenzeki-part Závecz Research]
 |1000
 | style="background:#FFE5B4" |'''50'''
@@ -618,7 +634,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |32
 |48
 |-
-|27 Aug – 31 Aug 2020
+|data-sort-value="2020-08-31"|27 Aug – 31 Aug 2020
 |[https://www.ideaintezet.hu/hu/hirek-aktualis/42/a-momentum--es-jobbik-szavazok-tobbsege-szerint-is-a-kulon-lista-csokkenti-a-kormanyvaltas-eselyet IDEA]
 |2000
 | style="background:#FFE5B4" |'''52'''
@@ -634,7 +650,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |36
 |45
 |-
-|27 Aug – 31 Aug 2020
+|data-sort-value="2020-08-31"|27 Aug – 31 Aug 2020
 |[https://publicus.hu/blog/partok-tamogatottsaga-es-egyes-politikus-megitelese/ Publicus]
 |1009
 | style="background:#FFE5B4" |'''48'''
@@ -650,7 +666,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |36
 |48
 |-
-|14 Aug – 24 Aug 2020
+|data-sort-value="2020-08-24"|14 Aug – 24 Aug 2020
 |[https://kozvelemenykutatok.hu/2020-augusztusi-kutatasi-eredmenyek-republikon/ Republikon]
 |1000
 | style="background:#FFE5B4" |'''54'''
@@ -666,7 +682,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |40
 |44
 |-
-|5 Aug – 19 Aug 2020
+|data-sort-value="2020-08-19"|5 Aug – 19 Aug 2020
 |[https://hvg.hu/itthon/20200826_partpreferencia_zavecz_research_kutatas_fidesz_ellenzek?fbclid=IwAR0tp4E1k7jxPsd5JaUM_qC4Pocip9Ie9gC_gmLv7CNV70Z8eURHXPJg5Oo Závecz Research]
 |1000
 | style="background:#FFE5B4" |'''51'''
@@ -682,7 +698,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |36
 |45
 |-
-|30 Jul – 3 Aug 2020
+|data-sort-value="2020-08-03"|30 Jul – 3 Aug 2020
 |[https://www.ideaintezet.hu/hu/hirek-aktualis/41/vihar-elotti-csend------koronavirus-jarvany-elso-hullama-utan-is-befagyott-partpreferenciak IDEA]
 |2000
 | style="background:#FFE5B4" |'''52'''
@@ -698,7 +714,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |36
 |45
 |-
-|13–15 Jul 2020
+|data-sort-value="2020-07-15"|13–15 Jul 2020
 |[https://hvg.hu/itthon/20200716_zavecz_research_dk_momentum_partpreferencia Závecz Research]
 |1000
 | style="background:#FFE5B4" |'''52'''
@@ -714,7 +730,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |37
 |45
 |-
-|30 Jun – 2 Jul 2020
+|data-sort-value="2020-07-02"|30 Jun – 2 Jul 2020
 |[https://nezopontintezet.hu/2020/07/09/kockazatos-a-kozos-lista/ Nézőpont]
 |1000
 | style="background:#FFE5B4" |'''51'''
@@ -729,7 +745,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |35
 |47
 |-
-|27–30 Jun 2020
+|data-sort-value="2020-06-30"|27–30 Jun 2020
 |[https://www.ideaintezet.hu/hu/hirek-aktualis/39/milyen-a----tipikus----fidesz-tamogato-?utm_source=mandiner&utm_medium=link&utm_campaign=mandiner_202007 IDEA]
 |2000
 | style="background:#FFE5B4" |'''50'''
@@ -745,10 +761,10 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |35
 |46
 |-
-|5–10 Jun 2020
+|data-sort-value="2020-06-10"|5–10 Jun 2020
 |[https://publicus.hu/blog/ellenzeki-varosvezetok-es-az-egyuttmukodes-megitelese/ Publicus]
 |1,007
-|  style="background:#FFE5B4" |'''51'''
+| style="background:#FFE5B4" |'''51'''
 |7
 | colspan="2" |11
 |14
@@ -760,10 +776,10 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |37
 |49
 |-
-|3–5 Jun 2020
+|data-sort-value="2020-06-05"|3–5 Jun 2020
 |[https://nezopontintezet.hu/2020/06/12/a-jobbik-2022-re-folosleges-lehet/ Nézőpont]
 |1000
-|  style="background:#FFE5B4" |'''52'''
+| style="background:#FFE5B4" |'''52'''
 |9
 | colspan="2" |4
 |12
@@ -775,10 +791,10 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |38
 |46
 |-
-|28 May – 5 Jun 2020
+|data-sort-value="2020-06-05"|28 May – 5 Jun 2020
 |[https://hvg.hu/360/20200610_A_jarvany_enyhulesevel_erosodott_a_Fidesz_de_a_30_ev_alattiak_kozt_elverezne Medián]
 |1000
-|  style="background:#FFE5B4" |'''50'''
+| style="background:#FFE5B4" |'''50'''
 |7
 |7
 |2
@@ -791,10 +807,10 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |39
 |46
 |-
-|27–31 May 2020
+|data-sort-value="2020-05-31"|27–31 May 2020
 |[https://ideaintezet.hu/hu/hirek-aktualis/38/ovatosan-aktivizalodo-szavazok IDEA]
 |2000
-|  style="background:#FFE5B4" |'''49'''
+| style="background:#FFE5B4" |'''49'''
 |7
 |6
 |2
@@ -807,10 +823,10 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |32
 |47
 |-
-|18–22 May 2020
+|data-sort-value="2020-05-22"|18–22 May 2020
 |[https://publicus.hu/blog/partok-tamogatottsaga-2020-majus/ Publicus]
 |998
-|  style="background:#FFE5B4" |'''50'''
+| style="background:#FFE5B4" |'''50'''
 |8
 | colspan="2" |12
 |16
@@ -822,10 +838,10 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |34
 |49
 |-
-|7–8 May 2020
+|data-sort-value="2020-05-08"|7–8 May 2020
 |[https://nezopontintezet.hu/2020/05/12/tartja-megnovekedett-nepszeruseget-a-fidesz/ Nézőpont]
 |1000
-|  style="background:#FFE5B4" |'''54'''
+| style="background:#FFE5B4" |'''54'''
 |9
 | colspan="2" |3
 |11
@@ -837,10 +853,10 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |43
 |44
 |-
-|20–26 Apr 2020
+|data-sort-value="2020-04-26"|20–26 Apr 2020
 |[http://www.ideaintezet.hu/hu/hirek-aktualis/37/nem-tort-elore-a-fidesz-a-koronavirus-jarvanykezelessel IDEA]
 |2000
-|  style="background:#FFE5B4" |'''50'''
+| style="background:#FFE5B4" |'''50'''
 |7
 |7
 |2
@@ -853,22 +869,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |34
 |47
 |-
-|14–18 Apr 2020
-|[https://publicus.hu/blog/partok-tamogatottsaga-2020-aprilis/ Publicus]
-|1500
-|  style="background:#FFE5B4" |'''51'''
-|9
-| colspan="2" |10
-|13
-|2
-|9
-|2
-|1
-|2
-| style="background:{{Fidesz/meta/color}}; color:white;" |38
-|45
-|-
-|14–19 Apr 2020
+|data-sort-value="2020-04-19"|14–19 Apr 2020
 |[https://hirklikk.hu/kozelet/kozepesre-ertekelik-a-valsagkezelest-a-valasztok/362810/ Závecz Research]
 |1500
 |  style="background:#FFE5B4" |'''53'''
@@ -883,7 +884,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |38
 |45
 |-
-|16–18 Apr 2020
+|data-sort-value="2020-04-18"|16–18 Apr 2020
 |[https://nezopontintezet.hu/2020/04/20/a-fidesz-erezhetoen-erosodott/ Nézőpont]
 |1000
 |  style="background:#FFE5B4" |'''55'''
@@ -898,7 +899,22 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |43
 |44
 |-
-|17–21 Mar 2020
+|data-sort-value="2020-04-18"|14–18 Apr 2020
+|[https://publicus.hu/blog/partok-tamogatottsaga-2020-aprilis/ Publicus]
+|1500
+|  style="background:#FFE5B4" |'''51'''
+|9
+| colspan="2" |10
+|13
+|2
+|9
+|2
+|1
+|2
+| style="background:{{Fidesz/meta/color}}; color:white;" |38
+|45
+|-
+|data-sort-value="2020-03-21"|17–21 Mar 2020
 |[https://publicus.hu/blog/partok-tamogatottsaga-2020-marcius-vege/ Publicus]
 |1003
 | style="background:#FFE5B4" |'''52'''
@@ -913,7 +929,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |39
 |41
 |-
-|17–20 Mar 2020
+|data-sort-value="2020-03-20"|17–20 Mar 2020
 |[https://ideaintezet.hu/hu/hirek-aktualis/35/nem-csokkeno-fidesz---kdnp--stabil-fopolgarmesteri-rokonszenv IDEA]
 |2000
 | style="background:#FFE5B4" |'''49'''
@@ -929,7 +945,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |33
 |47
 |-
-|12–14 Mar 2020
+|data-sort-value="2020-03-14"|12–14 Mar 2020
 |[https://nezopontintezet.hu/2020/03/17/a-kormanyellenesek-is-tamogatjak-a-kormanyt/ Nézőpont]
 |1000
 | style="background:#FFE5B4" |'''51'''
@@ -944,6 +960,22 @@
 |1
 | style="background:{{Fidesz/meta/color}}; color:white;" |38
 |46
+|-
+|data-sort-value="2020-03-13"|3–13 Mar 2020
+|[https://kozvelemenykutatok.hu/2020-marciusi-kutatasi-eredmenyek-zri-zavecz/ Závecz Research]
+|1000
+| style="background:#FFE5B4" |'''50'''
+|9
+|7
+|2
+|16
+|2
+|9
+|2
+|2
+|1
+| style="background:{{Fidesz/meta/color}}; color:white;" |34
+|47
 |-
 |data-sort-value="2020-03-10"|5–10 Mar 2020
 |[https://publicus.hu/blog/partok-tamogatottsaga-2020-marcius/ Publicus]
@@ -960,23 +992,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" |34
 |51
 |-
-|3–13 Mar 2020
-|[https://kozvelemenykutatok.hu/2020-marciusi-kutatasi-eredmenyek-zri-zavecz/ Závecz Research]
-|1000
-| style="background:#FFE5B4" |'''50'''
-|9
-|7
-|2
-|16
-|2
-|9
-|2
-|2
-|1
-| style="background:{{Fidesz/meta/color}}; color:white;" |34
-|47
-|-
-|data-sort-value="2020-02-29"|Feb 2020
+|data-sort-value="2020-02-27"|Feb 2020
 |[https://kozvelemenykutatok.hu/2020-januari-kutatasi-eredmenyek-median/ Medián]
 |1200
 | style="background:#FFE5B4" |'''55'''
@@ -1087,22 +1103,6 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" | 35
 |46
 |-
-|data-sort-value="2019-12-03"|29 Nov–3 Dec 2019
-|[https://nepszava.hu/3060890_idea-novelte-taborat-a-dk-es-a-momentum-a-fidesz-tamogatottsaga-valamivel-csokkent IDEA]
-|2000
-| style="background:#FFE5B4" | '''49'''
-|7
-|5
-|2
-|17
-|2
-|12
-|3
-|2
-|1
-| style="background:{{Fidesz/meta/color}}; color:white;" | 32
-|48
-|-
 |data-sort-value="2019-12-05"|28 Nov–5 Dec 2019
 |[https://kozvelemenykutatok.hu/2019-decemberi-kutatasi-eredmenyek-median/ Medián]
 |1200
@@ -1118,20 +1118,20 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" | 43
 |43
 |-
-|data-sort-value="2019-11-16"|8–16 Nov 2019
-|[http://www.zaveczresearch.hu/a-fidesz-gyengult-a-momentum-erosodott/ Závecz Research]
-|1000
-| style="background:#FFE5B4" |'''49'''
-|9
-|8
-|1
-|15
+|data-sort-value="2019-12-03"|29 Nov–3 Dec 2019
+|[https://nepszava.hu/3060890_idea-novelte-taborat-a-dk-es-a-momentum-a-fidesz-tamogatottsaga-valamivel-csokkent IDEA]
+|2000
+| style="background:#FFE5B4" | '''49'''
+|7
+|5
 |2
-|11
+|17
 |2
+|12
 |3
-|0
-| style="background:{{Fidesz/meta/color}}; color:white;" | 34
+|2
+|1
+| style="background:{{Fidesz/meta/color}}; color:white;" | 32
 |48
 |-
 |data-sort-value="2019-11-30"|1–30 Nov 2019
@@ -1149,6 +1149,22 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" | 41
 |44
 |-
+|data-sort-value="2019-11-16"|8–16 Nov 2019
+|[http://www.zaveczresearch.hu/a-fidesz-gyengult-a-momentum-erosodott/ Závecz Research]
+|1000
+| style="background:#FFE5B4" |'''49'''
+|9
+|8
+|1
+|15
+|2
+|11
+|2
+|3
+|0
+| style="background:{{Fidesz/meta/color}}; color:white;" | 34
+|48
+|-
 |data-sort-value="2019-10-31"|29–31 Oct 2019
 |[http://ideaintezet.hu/hu/hirek-aktualis/27/karacsony-gergely-a-legnepszerubb-politikus-az-ellenzeki-szavazok-koreben IDEA]
 |2000
@@ -1163,6 +1179,21 @@
 |3
 |1
 |style="background:{{Fidesz/meta/color}}; color:white;" | 37
+|45
+|-
+|data-sort-value="2019-10-27"|14–27 Oct 2019
+|[https://nezopontintezet.hu/2019/11/12/stagnal-a-fidesz-kdnp-elonye-az-onkormanyzati-valasztas-utan/ Nézőpont]
+|2300
+|style="background:#FFE5B4" | '''52'''
+|9
+| colspan="2" |6
+|11
+|3
+|13
+|3
+|2
+|1
+| style="background:{{Fidesz/meta/color}}; color:white;" | 39
 |45
 |-
 |data-sort-value="2019-10-23"|18–23 Oct 2019
@@ -1195,21 +1226,6 @@
 |0
 |style="background:{{Fidesz/meta/color}}; color:white;" | 38
 |48
-|-
-|data-sort-value="2019-10-27"|14–27 Oct 2019
-|[https://nezopontintezet.hu/2019/11/12/stagnal-a-fidesz-kdnp-elonye-az-onkormanyzati-valasztas-utan/ Nézőpont]
-|2300
-|style="background:#FFE5B4" | '''52'''
-|9
-| colspan="2" |6
-|11
-|3
-|13
-|3
-|2
-|1
-| style="background:{{Fidesz/meta/color}}; color:white;" | 39
-|45
 |- style="background:#EFEFEF; font-weight:bold;"
 |data-sort-value="2019-10-13"|13 Oct 2019
 |[[2019 Hungarian local elections|Local Elections]]
@@ -1283,6 +1299,21 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" | 39
 |42
 |-
+|data-sort-value="2019-08-26"|1–26 Aug 2019
+|[https://nezopontintezet.hu/2019/09/04/stabilan-33-millio-fidesz-szimpatizans-van-magyarorszagon/ Nézőpont]
+|5000
+| style="background:#FFE5B4" | '''53'''
+|8
+| colspan="2" |6
+|11
+|3
+|11
+|4
+|3
+|1
+| style="background:{{Fidesz/meta/color}}; color:white;" | 42
+|43
+|-
 |data-sort-value="2019-08-17"|12–17 Aug 2019
 |[https://publicus.hu/blog/partok-tamogatottsaga-2019-augusztus/ Publicus]
 |1001
@@ -1313,21 +1344,6 @@
 |2
 | style="background:{{Fidesz/meta/color}}; color:white;" | 39
 |42
-|-
-|data-sort-value="2019-08-26"|1–26 Aug 2019
-|[https://nezopontintezet.hu/2019/09/04/stabilan-33-millio-fidesz-szimpatizans-van-magyarorszagon/ Nézőpont]
-|5000
-| style="background:#FFE5B4" | '''53'''
-|8
-| colspan="2" |6
-|11
-|3
-|11
-|4
-|3
-|1
-| style="background:{{Fidesz/meta/color}}; color:white;" | 42
-|43
 |-
 |data-sort-value="2019-07-28"|2–28 Jul 2019
 |[https://nezopontintezet.hu/2019/08/05/40-szazalekpontos-elonnyel-vezet-a-fidesz-kdnp/ Nézőpont]
@@ -1421,6 +1437,21 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" | 40
 |47
 |-
+|data-sort-value="2019-06-26"|31 May–26 Jun 2019
+|[https://nezopontintezet.hu/2019/07/02/utcahosszal-vezet-a-fidesz-kdnp-az-ep-valasztas-utan/ Nézőpont]
+|5000
+| style="background:#FFE5B4" | '''53'''
+|8
+| colspan="2" |6
+|12
+|3
+|10
+|5
+|2
+|1
+| style="background:{{Fidesz/meta/color}}; color:white;" | 41
+|44
+|-
 |data-sort-value="2019-06-14"|4–14 Jun 2019
 |[https://hvg.hu/itthon/20190617_zavecz_research_junius_momentum_dk_fidesz_mszp_mi_hazank_mozgalom_lmp_ketfarku_kutyapart_parbeszed Závecz Research]
 |1000
@@ -1452,21 +1483,6 @@
 |3
 | style="background:{{Fidesz/meta/color}}; color:white;" | 34
 |48
-|-
-|data-sort-value="2019-06-26"|31 May–26 Jun 2019
-|[https://nezopontintezet.hu/2019/07/02/utcahosszal-vezet-a-fidesz-kdnp-az-ep-valasztas-utan/ Nézőpont]
-|5000
-| style="background:#FFE5B4" | '''53'''
-|8
-| colspan="2" |6
-|12
-|3
-|10
-|5
-|2
-|1
-| style="background:{{Fidesz/meta/color}}; color:white;" | 41
-|44
 |- style="background:#EFEFEF; font-weight:bold;"
 |data-sort-value="2019-05-26"|26 May 2019
 |[[2019 European Parliament election in Hungary|EP Election]]
@@ -1496,6 +1512,21 @@
 |1
 |1
 | style="background:{{Fidesz/meta/color}}; color:white;" | 36
+|
+|-
+|data-sort-value="2019-05-19"|2–19 May 2019
+|[https://nezopontintezet.hu/2019/05/21/megnyerte-az-ellenzeki-kampanyhajrat-a-dk/ Nézőpont]
+|4000
+| style="background:#FFE5B4" | '''54'''
+|10
+| colspan="2" |10
+|10
+|5
+|6
+|3
+|2
+|0
+| style="background:{{Fidesz/meta/color}}; color:white;" | 44
 |
 |-
 |data-sort-value="2019-05-18"|15–18 May 2019
@@ -1528,21 +1559,6 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" | 40
 |
 |-
-|data-sort-value="2019-05-11"|6–11 May 2019
-|[https://alfahir.hu/2019/05/14/jobbik_ep_valasztas_2019_iranytu_intezet/ Iránytű]
-|647
-| style="background:#FFE5B4" | '''50'''
-|14
-| colspan="2" |7
-|8
-|5
-|6
-|4
-|2
-|2
-| style="background:{{Fidesz/meta/color}}; color:white;" | 36
-|
-|-
 |data-sort-value="2019-05-14"|4–14 May 2019
 |[https://hvg.hu/itthon/20190516_Ugyanannyi_kepviseloje_lehet_a_Jobbiknak_MSZPnek_es_DKnak_is_az_EPben Závecz Research]
 |1000
@@ -1558,19 +1574,19 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" | 41
 |
 |-
-|data-sort-value="2019-05-19"|2–19 May 2019
-|[https://nezopontintezet.hu/2019/05/21/megnyerte-az-ellenzeki-kampanyhajrat-a-dk/ Nézőpont]
-|4000
-| style="background:#FFE5B4" | '''54'''
-|10
-| colspan="2" |10
-|10
+|data-sort-value="2019-05-11"|6–11 May 2019
+|[https://alfahir.hu/2019/05/14/jobbik_ep_valasztas_2019_iranytu_intezet/ Iránytű]
+|647
+| style="background:#FFE5B4" | '''50'''
+|14
+| colspan="2" |7
+|8
 |5
 |6
-|3
+|4
 |2
-|0
-| style="background:{{Fidesz/meta/color}}; color:white;" | 44
+|2
+| style="background:{{Fidesz/meta/color}}; color:white;" | 36
 |
 |-
 |data-sort-value="2019-05-06"|2–6 May 2019
@@ -1589,19 +1605,19 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" | 37
 |
 |-
-|data-sort-value="2019-04-23"|17–23 Apr 2019
-|[https://kozvelemenykutatok.hu/2019-aprilisi-kutatasi-eredmenyek-publicus/ Publicus]
-|1010
-| style="background:#FFE5B4" | '''52'''
-|15
-| colspan="2" |16
-|7
+|data-sort-value="2019-04-26"|1–26 Apr 2019
+|[https://nezopontintezet.hu/2019/05/03/a-fidesz-nyerte-a-kampanykezdest/ Nézőpont]
+|1000
+| style="background:#FFE5B4" | '''57'''
+|11
+| colspan="2" |10
+|8
+|5
 |4
-|6
+|3
+|2
 |0
-|0
-|0
-| style="background:{{Fidesz/meta/color}}; color:white;" | 36
+| style="background:{{Fidesz/meta/color}}; color:white;" | 46
 |
 |-
 |data-sort-value="2019-04-25"|15–25 Apr 2019
@@ -1618,6 +1634,21 @@
 |1
 |0
 | style="background:{{Fidesz/meta/color}}; color:white;" | 44
+|
+|-
+|data-sort-value="2019-04-23"|17–23 Apr 2019
+|[https://kozvelemenykutatok.hu/2019-aprilisi-kutatasi-eredmenyek-publicus/ Publicus]
+|1010
+| style="background:#FFE5B4" | '''52'''
+|15
+| colspan="2" |16
+|7
+|4
+|6
+|0
+|0
+|0
+| style="background:{{Fidesz/meta/color}}; color:white;" | 36
 |
 |-
 |data-sort-value="2019-04-21"|10–21 Apr 2019
@@ -1649,21 +1680,6 @@
 |2
 |1
 | style="background:{{Fidesz/meta/color}}; color:white;" | 40
-|
-|-
-|data-sort-value="2019-04-26"|1–26 Apr 2019
-|[https://nezopontintezet.hu/2019/05/03/a-fidesz-nyerte-a-kampanykezdest/ Nézőpont]
-|1000
-| style="background:#FFE5B4" | '''57'''
-|11
-| colspan="2" |10
-|8
-|5
-|4
-|3
-|2
-|0
-| style="background:{{Fidesz/meta/color}}; color:white;" | 46
 |
 |-
 |data-sort-value="2019-04-03"|29 Mar–3 Apr 2019
@@ -1760,21 +1776,6 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" | 30
 |
 |-
-|data-sort-value="2019-02-20"|13–20 Feb 2019
-| [https://kozvelemenykutatok.hu/2019-februari-kutatasi-eredmenyek-publicus/ Publicus]
-|999
-| style="background:#FFE5B4" | '''50'''
-|17
-| colspan="2" |15
-|5
-|3
-|4
-|2
-|0
-|4
-| style="background:{{Fidesz/meta/color}}; color:white;" | 33
-|
-|-
 |data-sort-value="2019-02-22"|31 Jan–22 Feb 2019
 |[https://nezopontintezet.hu/2019/03/01/5427/ Nézőpont]
 |5000
@@ -1788,6 +1789,21 @@
 |3
 |0
 | style="background:{{Fidesz/meta/color}}; color:white;" | 41
+|
+|-
+|data-sort-value="2019-02-20"|13–20 Feb 2019
+| [https://kozvelemenykutatok.hu/2019-februari-kutatasi-eredmenyek-publicus/ Publicus]
+|999
+| style="background:#FFE5B4" | '''50'''
+|17
+| colspan="2" |15
+|5
+|3
+|4
+|2
+|0
+|4
+| style="background:{{Fidesz/meta/color}}; color:white;" | 33
 |
 |-
 |data-sort-value="2019-02-10"|3–10 Feb 2019
@@ -2116,7 +2132,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" | 37
 |
 |-
-|data-sort-value="2018-09-30"| September 2018
+|data-sort-value="2018-09-30"| Sep 2018
 | [https://hvg.hu/itthon/20180926_Median_Bo_felmillio_biztos_szavazot_vesztett_a_Fidesz_az_elmult_honapokban Medián]
 | 1200
 | style="background:#FFE5B4" | '''60'''
@@ -2126,7 +2142,7 @@
 | 4
 | 2
 | 1
-|2
+| 2
 | 1
 | style="background:{{Fidesz/meta/color}}; color:white;" | 49
 |
@@ -2185,9 +2201,9 @@
 | colspan="2" |13
 |7
 |5
-|  {{N/A}}
-|  {{N/A}}
-|  {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
 |8
 | style="background:{{Fidesz/meta/color}}; color:white;" | 39
 |
@@ -2344,7 +2360,7 @@
 | style="background:{{Fidesz/meta/color}}; color:white;" | 38
 |
 |-
-|data-sort-value="2018-05-30"| 28 May–1 Jun 2018
+|data-sort-value="2018-06-01"| 28 May–1 Jun 2018
 | [https://hvg.hu/itthon/201823_medianfelmeres_gyozteshez_huzas Medián]
 | 1200
 | style="background:#FFE5B4" | '''59'''

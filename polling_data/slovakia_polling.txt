@@ -1,7 +1,7 @@
 === Voting intention estimates ===
 Voting intention estimates made by polling firms that are members of the [[ESOMAR|European Society for Opinion and Marketing Research]] (ESOMAR) and the [[Slovak Association of Research Agencies]] (SAVA). 
 
-They are conducted in the form of telephone and personal interviews with selected persons, who form a [[Sampling (statistics)|representative sample]] reflecting the demographic parameters of the [[Demographics of Slovakia|population of Slovakia]]. Respondents are asked: "Imagine that [[Parliamentary elections in Slovakia|parliamentary election]] would be held in [[Slovakia]] next Saturday. Would you vote in them and if so, which party would you vote for?" Respondents are read a [[List of political parties in Slovakia|list]] of currently active political parties.
+They are conducted in the form of telephone and personal interviews with selected persons, who form a [[Sampling (statistics)|representative sample]] reflecting the demographic parameters of the [[Demographics of Slovakia|population of Slovakia]]. Respondents are asked: "Imagine that a [[Next Slovak parliamentary election|parliamentary election]] would be held in [[Slovakia]] next Saturday. Would you vote in them and if so, which party would you vote for?" Respondents are read a [[List of political parties in Slovakia|list]] of currently active political parties.
 
 Results are published that include only the answers of respondents who would vote for a particular party. The table shows political parties that have exceeded the electoral threshold in the [[2020 Slovak parliamentary election|last election]] or oscillate around 4 percent or more in polls. 
 

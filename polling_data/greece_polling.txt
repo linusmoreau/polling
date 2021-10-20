@@ -29,6 +29,51 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Antarsya/meta/color}};"|
 ! style="background:{{Greeks for the Fatherland/meta/color}};"|
 |-
+| Interview/Political<ref>{{cite web |title=Δημοσκόπηση Interview: Προβάδισμα 13% της ΝΔ από τον ΣΥΡΙΖΑ – 60% υπέρ της συμφωνίας με τη Γαλλία |url=https://www.protothema.gr/politics/article/1171812/dimoskopisi-interview-provadisma-13-tis-nd-apo-ton-suriza-60-uper-tis-sumfonias-me-ti-gallia/ |language=el |work=Proto Thema |date=16 October 2021}}</ref>
+| 11–16 Oct 2021
+|?
+| {{Party shading/ND}}| '''40.1'''
+| 25.3
+| 7.9
+| 6.2
+| 5.4
+| 4.4
+| –
+| –
+| –
+| –
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;" | 14.8
+|-
+| Alco/Open<ref>{{Cite web|date=2021-10-18|title=Διψήφια η διαφορά ΝΔ - ΣΥΡΙΖΑ και σε νέα δημοσκόπηση|url=https://www.protothema.gr/politics/article/1172555/dipsifia-i-diafora-nd-suriza/|access-date=2021-10-18|website=ProtoThema|language=el}}</ref><ref>{{Cite web|last=Newsroom|date=2021-10-18|title=Δημοσκόπηση ALCO: Προβάδισμα 10,1 μονάδων της ΝΔ έναντι του ΣΥΡΙΖΑ|url=https://www.cnn.gr/politiki/story/285870/dimoskopisi-alco-provadisma-10-1-monadon-tis-nd-enanti-toy-syriza|access-date=2021-10-18|website=CNN.gr|language=el}}</ref>
+| 12–15 Oct 2021
+|1,000
+| {{Party shading/ND}} | '''39.7'''
+| 28.3
+| 7.3
+| 6.0
+| 5.0
+| 4.7
+| –
+| 1.8
+| –
+| 1.5
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;" | 11.4
+|-
+| ProRata/Efimerida ton Sintakton<ref>{{Cite web|title=Δημοσκόπηση «Εφ.Συν»-Prorata: Στο 8% η διαφορά ΝΔ-ΣΥΡΙΖΑ|url=https://www.protagon.gr/epikairotita/dimoskopisi-ef-syn-prorata-sto-8-i-diafora-nd-syriza-44342368030|access-date=2021-10-16|website=Protagon.gr|language=el}}</ref>
+| 8–12 Oct 2021
+| 1,131
+| {{Party shading/ND}}| '''40.7'''
+| 31.1
+| 7.8
+| 5.4
+| 3.6
+| 2.4
+| –
+| –
+| –
+| –
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;" | 9.6
+|-
 | Marc/ANT1<ref>{{Cite web|title=Η δημοσκόπηση της MARC για τον ΑΝΤ1: Η πρόθεση ψήφου - Τι λένε οι πολίτες για αμυντική συμφωνία και διαγραφή Μπογδάνου|url=https://www.enikos.gr/politics/i-dimoskopisi-tis-marc-gia-ton-ant1-i-prothesi-psifou-ti-lene-oi-polites-gia-amyntiki-symfonia-kai-diagrafi-bogdanou/1687443/|access-date=2021-10-11|language=el}}</ref>
 | 6–11 Oct 2021
 | 1,007

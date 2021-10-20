@@ -203,8 +203,19 @@ def transcribe_table(content, key, choice, begin, start):
                 reset = True
             # if '2021 Chilean presidential primaries' in line:
             #     break
+        elif choice == 'Latvia':
+            if 'A new party - [[Law and Order (Latvia)|LuK]] - is established' in line:
+                nkey = ['firm', 'date', 'sample', 'dec',
+                        'S', 'PCL', 'JKP', 'AP!', 'NA', 'ZZS', 'JV', 'LRA', 'LKS', 'P',
+                        'Other', 'lead', 'gov', 'opp', 'end']
+                reset = True
+            elif 'Two new parties - [[Latvia First]] and [[Republic (Latvia)|Republic]] - are established' in line:
+                nkey = ['firm', 'date', 'sample', 'dec',
+                        'S', 'PCL', 'JKP', 'AP!', 'NA', 'ZZS', 'JV', 'LRA', 'LKS', 'P', 'LuK',
+                        'Other', 'lead', 'gov', 'opp', 'end']
+                reset = True
         if reset:
-            tables.append({'table': table, 'key': key, 'years': years})
+            tables.append({'table': table[:-1], 'key': key, 'years': years})
             table = []
             years = {0: years[max(years)]}
             row = 0
@@ -327,7 +338,6 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
             m = temp[-2]
             d = temp[-3]
             temp = d + ' ' + m + ' ' + y
-            print(temp)
         else:
             if '{{efn' in line:
                 line = line[:line.find('{{efn')]
@@ -843,7 +853,7 @@ class GraphPage:
             with open(choices[self.choice]['old_data'], 'r', encoding='utf-8') as f:
                 content.extend(f.readlines())
         tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
-        # display_tables(tables)
+        display_tables(tables)
         tables = process_tables(tables, self.choice, self.include, self.zeros)
         tables = filter_tables(tables, self.choice, self.include)
         tables = modify_tables(tables, self.choice, self.include, self.zeros)

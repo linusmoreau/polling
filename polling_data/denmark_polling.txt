@@ -18,7 +18,7 @@
 ! class="unsortable" style="width:40px;"| [[Christian Democrats (Denmark)|K]]
 ! class="unsortable" style="width:40px;" | [[The Citizen List|E]]
 ! class="unsortable" style="width:40px;" | [[Vegan Party|G]]
-! class="unsortable" style="width:40px;" | [[Moderates (Denmark)|M]]  
+! class="unsortable" style="width:40px;" | [[Moderates (Denmark)|M]]<ref>Party letter not confirmed.</ref>  
 ! class="unsortable" style="width:40px;" rowspan="2"| Others
 ! rowspan="2"| Lead
 ! class="unsortable" style="width:40px;"| {{H:title|A, B, F, Ø, Å and G|Red}}

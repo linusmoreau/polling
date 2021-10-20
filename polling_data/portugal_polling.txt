@@ -10,9 +10,9 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! class="unsortable" style="width:50px;" rowspan="2"| Sample size
 ! class="unsortable" style="width:45px;" rowspan="2"| Turnout
 ! class="sortable" style="width:35px;"| [[File:PS Logo (Text version).png|33px|link=Socialist Party (Portugal)|PS]]
-! class="sortable" style="width:35px;"| [[File:PSD (2018).png|32px|link=Social Democratic Party (Portugal)|PSD]]
+! class="sortable" style="width:35px;"| [[File:Partido Social Democrata Logo.svg|32x32px|PSD]]
 ! class="sortable" style="width:35px;"| [[File:LeftBloc.svg|25px|link=Left Bloc (Portugal)|BE]]
-! class="sortable" style="width:35px;"| [[File:Símbolo CDU (PCP-PEV) (Letras).png|31px|link=Unitary Democratic Coalition|CDU]]
+! class="sortable" style="width:35px;"| [[File:PCP-PEV.svg|31x31px|CDU]]
 ! class="sortable" style="width:35px;"| [[File:Cds simbolo 2.png|25px|link=CDS – People's Party|CDS–PP]]
 ! class="sortable" style="width:35px;"| [[File:Logo Pessoas-Animais-Natureza (text only).png|30px|link=People–Animals–Nature|PAN]]
 ! class="sortable" style="width:35px;"| [[File:Logo Chega!.png|33px|link=Chega (political party)|CH]]

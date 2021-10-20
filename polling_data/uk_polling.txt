@@ -20,6 +20,61 @@
 ! data-sort-type="number" style="background:{{Scottish National Party/meta/color}};"|
 ! data-sort-type="number" style="background:{{Green Party of England and Wales/meta/color}};"|
 |-
+|{{opdrts||18|Oct|2021}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-18-october-2021/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''40%'''
+|37%
+|9%
+|4%
+|5%
+|{{Hidden|5%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|3%
+|-
+|{{opdrts|11|18|Oct|2021}}
+|[https://twitter.com/NCPoliticsUK/status/1450155243778592773/ Number Cruncher Politics]
+|N/A
+|UK
+|1,000
+|style="background:#CCEBFF;"|'''40%'''
+|32%
+|6%
+|6%
+|9%
+|{{Hidden|6%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|8%
+|-
+|{{opdrts||15|Oct|2021}}
+|colspan="11"|[[Killing of David Amess|Killing]] of MP [[David Amess]]<ref>{{Cite news|last=Lee|first=Joseph|date=15 October 2021|title=Sir David Amess: Conservative MP stabbed to death|work=BBC News|url=https://www.bbc.co.uk/news/uk-58930593|access-date=16 October 2021}}</ref>
+|-
+|{{opdrts|13|15|Oct|2021}}
+|[https://deltapoll.co.uk/wp-content/uploads/2021/10/Deltapoll-211016_voteint.pdf Deltapoll]
+|''The Mail on Sunday''
+|GB
+|3,043
+|style="background:#CCEBFF;"|'''38%'''
+|37%
+|9%
+|4%
+|6%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|6%|[[Plaid Cymru]] on 1%<br/>[[UKIP]] on 2%<br/>[[Reform UK]] on 2% <br/>Other on 1%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|1%
+|-
+|{{opdrts|13|15|Oct|2021}}
+|[https://www.opinium.com/wp-content/uploads/2021/10/13-10-21-VI-Tables.xlsx Opinium]
+|''The Observer''
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''41%'''
+|37%
+|7%
+|5%
+|5%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|4%
+|-
 |{{opdrts|12|13|Oct|2021}}
 |[https://yougov.co.uk/topics/politics/articles-reports/2021/10/14/voting-intention-con-41-lab-31-12-13-oct YouGov]
 |N/A
@@ -112,7 +167,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|5%
 |-
 |{{opdrts||01|Oct|2021}}
-|colspan="11"|'''[[Carla Denyer]] and [[Adrian Ramsay]] are [[2021 Green Party of England and Wales leadership election|elected co-leaders]] of the [[Green Party of England and Wales]]'''<ref>{{Cite news|date=1 October 2021|title=Green Party's new leadership team to focus on power not protests|work=BBC News|url=https://www.bbc.co.uk/news/uk-politics-58761003|access-date=1 October 2021}}</ref>
+|colspan="11"|[[Carla Denyer]] and [[Adrian Ramsay]] are [[2021 Green Party of England and Wales leadership election|elected co-leaders]] of the [[Green Party of England and Wales]]<ref>{{Cite news|date=1 October 2021|title=Green Party's new leadership team to focus on power not protests|work=BBC News|url=https://www.bbc.co.uk/news/uk-politics-58761003|access-date=1 October 2021}}</ref>
 |-
 |{{opdrts|29|1|Oct|2021}}
 |[https://www.opinium.com/wp-content/uploads/2021/10/VI-29-09-2021-Tables.xlsx Opinium]
@@ -934,7 +989,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|11%
 |-
 |{{opdrts||1|Jul|2021}}
-|colspan="11"|'''[[2021 Batley and Spen by-election|Batley and Spen by-election]]<ref name=":1">{{Cite news|date=2 July 2021|title=Batley and Spen: Labour hold seat in by-election|language=en-GB|work=BBC News|url=https://www.bbc.co.uk/news/uk-politics-57691543|access-date=2 July 2021}}</ref>'''
+|colspan="11"|[[2021 Batley and Spen by-election|Batley and Spen by-election]]<ref name=":1">{{Cite news|date=2 July 2021|title=Batley and Spen: Labour hold seat in by-election|language=en-GB|work=BBC News|url=https://www.bbc.co.uk/news/uk-politics-57691543|access-date=2 July 2021}}</ref>
 |-
 |{{opdrts|29|30|Jun|2021}}
 |[https://docs.cdn.yougov.com/y7uow6z2dq/TheTimes_VotingIntention_Track_210630_W_BPC.pdf YouGov]
@@ -1054,7 +1109,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|6%
 |-
 |{{opdrts||17|Jun|2021}}
-|colspan="11"|'''[[2021 Chesham and Amersham by-election|Chesham and Amersham by-election]]<ref>{{Cite news|date=18 June 2021|title=Chesham and Amersham by-election won by Lib Dems|language=en-GB|work=BBC News|url=https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57472032|access-date=18 June 2021}}</ref>'''
+|colspan="11"|[[2021 Chesham and Amersham by-election|Chesham and Amersham by-election]]<ref>{{Cite news|date=18 June 2021|title=Chesham and Amersham by-election won by Lib Dems|language=en-GB|work=BBC News|url=https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57472032|access-date=18 June 2021}}</ref>
 |-
 |{{opdrts|16|17|Jun|2021}}
 |[https://docs.cdn.yougov.com/bul4ckm2bw/TheTimes_VI_Track_210617_W.pdf YouGov]
@@ -1434,7 +1489,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|13%
 |-
 |{{opdrts||13|May|2021}}
-|colspan="11"|'''[[2021 Airdrie and Shotts by-election|Airdrie and Shotts by-election]]<ref name=":2">{{Cite news|date=14 May 2021|title=SNP holds Airdrie and Shotts seat in by-election|language=en-GB|work=BBC News|url=https://www.bbc.com/news/uk-scotland-scotland-politics-57087381|access-date=15 May 2021}}</ref>'''
+|colspan="11"|[[2021 Airdrie and Shotts by-election|Airdrie and Shotts by-election]]<ref name=":2">{{Cite news|date=14 May 2021|title=SNP holds Airdrie and Shotts seat in by-election|language=en-GB|work=BBC News|url=https://www.bbc.com/news/uk-scotland-scotland-politics-57087381|access-date=15 May 2021}}</ref>
 |-
 |{{opdrts|11|12|May|2021}}
 |[https://docs.cdn.yougov.com/bdgo9ekylx/TheTimes_Voting_Intention_Track_210512_W.pdf YouGov] 
@@ -1476,7 +1531,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|8%
 |-
 |{{opdrts||06|May|2021}}
-|colspan="11"|'''[[2021 United Kingdom local elections|Local elections]] in England and Wales, [[2021 Scottish Parliament election|Scottish]] and [[2021 Senedd election|Welsh]] parliament elections, and the [[2021 Hartlepool by-election|Hartlepool by-election]]<ref name=":0">{{Cite news|title=England local elections 2021 - BBC News|url=https://www.bbc.co.uk/news/topics/c481drqqzv7t/england-local-elections-2021|access-date=15 May 2021|work=BBC News|language=en-GB}}</ref><ref name="2021SPE">{{Cite news|title=Scottish Parliament election 2021|url=https://www.bbc.co.uk/news/topics/c37d28xdn99t/scottish-parliament-election-2021|access-date=15 May 2021|work=BBC News|language=en-GB}}</ref><ref name="2021WPE">{{Cite news|title=Welsh Parliament election 2021|url=https://www.bbc.co.uk/news/topics/cqwn14k92zwt/welsh-parliament-election-2021|access-date=15 May 2021|work=BBC News|language=en-GB}}</ref><ref name="2021HBE">{{Cite news|date=2021-05-07|title=Elections 2021: Conservatives hail historic Labour defeat in Hartlepool by-election|language=en-GB|work=BBC News|url=https://www.bbc.com/news/uk-politics-57019456|access-date=15 May 2021}}</ref>'''
+|colspan="11"|[[2021 United Kingdom local elections|Local elections]] in England and Wales, [[2021 Scottish Parliament election|Scottish]] and [[2021 Senedd election|Welsh]] parliament elections, and the [[2021 Hartlepool by-election|Hartlepool by-election]]<ref name=":0">{{Cite news|title=England local elections 2021 - BBC News|url=https://www.bbc.co.uk/news/topics/c481drqqzv7t/england-local-elections-2021|access-date=15 May 2021|work=BBC News|language=en-GB}}</ref><ref name="2021SPE">{{Cite news|title=Scottish Parliament election 2021|url=https://www.bbc.co.uk/news/topics/c37d28xdn99t/scottish-parliament-election-2021|access-date=15 May 2021|work=BBC News|language=en-GB}}</ref><ref name="2021WPE">{{Cite news|title=Welsh Parliament election 2021|url=https://www.bbc.co.uk/news/topics/cqwn14k92zwt/welsh-parliament-election-2021|access-date=15 May 2021|work=BBC News|language=en-GB}}</ref><ref name="2021HBE">{{Cite news|date=2021-05-07|title=Elections 2021: Conservatives hail historic Labour defeat in Hartlepool by-election|language=en-GB|work=BBC News|url=https://www.bbc.com/news/uk-politics-57019456|access-date=15 May 2021}}</ref>
 |-
 |{{opdrts|4|5|May|2021}}
 |[https://docs.cdn.yougov.com/lf780scitq/TheTimes_VotingIntention_210505_W.pdf YouGov]
@@ -2090,7 +2145,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|6%
 |-
 |{{opdrts||06|Mar|2021}}
-|colspan="11"|'''[[Richard Tice]] becomes leader of [[Reform UK]]<ref>{{Cite news|date=6 March 2021|title=Nigel Farage: Brexit-backing politician to quit as leader of Reform UK|language=en-GB|work=BBC News|url=https://www.bbc.co.uk/news/uk-politics-56311599|access-date=8 March 2021}}</ref>'''
+|colspan="11"|[[Richard Tice]] becomes leader of [[Reform UK]]<ref>{{Cite news|date=6 March 2021|title=Nigel Farage: Brexit-backing politician to quit as leader of Reform UK|language=en-GB|work=BBC News|url=https://www.bbc.co.uk/news/uk-politics-56311599|access-date=8 March 2021}}</ref>
 |-
 |{{opdrts|3|4|Mar|2021}}
 |[https://docs.cdn.yougov.com/ilcouuqj2o/TheTimes_VI_Tracker_Results_210304_w.pdf YouGov]
@@ -2601,7 +2656,7 @@
 |-
 |-
 |{{opdrts||06|Jan|2021}}
-|colspan="11"|'''The Brexit Party is re-registered as [[Reform UK]]<ref>{{Cite news|date=6 January 2021|title=Party registration decisions|language=en-GB|work=Electoral Commission|url=https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/party-registration-applications/party-registration-decisions|access-date=6 January 2021}}</ref>'''
+|colspan="11"|The Brexit Party is re-registered as [[Reform UK]]<ref>{{Cite news|date=6 January 2021|title=Party registration decisions|language=en-GB|work=Electoral Commission|url=https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/party-registration-applications/party-registration-decisions|access-date=6 January 2021}}</ref>
 |-
 |{{opdrts|4|5|Jan|2021}}
 |[https://docs.cdn.yougov.com/7ji0ksou4y/TheTimes_VI_Tracker_200105_W.pdf YouGov]
