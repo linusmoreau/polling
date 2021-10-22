@@ -1,5 +1,5 @@
 ==Pre-campaign polls==
-Opinion polls conducted prior to the campaign and the announcement of the list of participating parties. Parties with more than 5% support of the whole electorate (enough to enter [[State Duma]] while not adjusting for likely voters) are given in bold.
+Opinion polls conducted prior to the campaign and the announcement of the list of participating parties. Parties with more than 5% support of the whole electorate (enough to enter [[State Duma]] while not adjusting for likely voters) are given in bold. When a specific poll does not show a data figure for a party, the party's cell corresponding to that poll is shown empty.
 
 ===2021===
 {|class=wikitable style="font-size:95%; line-height:14px; text-align:center"
@@ -11,6 +11,15 @@ Opinion polls conducted prior to the campaign and the announcement of the list o
 ! style="width:60px;"| [[Liberal Democratic Party of Russia|LDPR]]
 ! style="width:60px;"| [[A Just Russia — For Truth|SRZP]]
 ! style="width:60px;"| [[New People (political party)|NP]]
+! style="width:60px;"| [[Russian Party of Pensioners for Social Justice|RPPSJ]]
+! style="width:60px;"| [[Yabloko]]
+! style="width:60px;"| [[Communists of Russia|CR]]
+! style="width:60px;"| [[Russian Ecological Party "The Greens"|Greens]]
+! style="width:60px;"| [[Rodina (political party)|Rodina]]
+! style="width:60px;"| [[Russian Party of Freedom and Justice|RPFJ]]
+! style="width:60px;"| [[Green Alternative (Russia)|GA]]
+! style="width:60px;"| [[Party of Growth|PG]]
+! style="width:60px;"| [[Civic Platform (Russia)|CP]]
 !style="width:60px;" rowspan=2|Others
 !style="width:60px;" rowspan=2|Undecided
 !style="width:60px;" rowspan=2|Abstention
@@ -21,28 +30,49 @@ Opinion polls conducted prior to the campaign and the announcement of the list o
 |bgcolor={{Liberal Democratic Party of Russia/meta/color}}|
 |bgcolor={{A Just Russia/meta/color}}|
 |bgcolor={{New People (political party)/meta/color}}|
+|bgcolor={{Russian Party of Pensioners for Social Justice/meta/color}}|
+|bgcolor={{Yabloko/meta/color}}|
+|bgcolor={{Communists of Russia/meta/color}}|
+|bgcolor={{Russian Ecological Party "The Greens"/meta/color}}|
+|bgcolor={{Rodina (political party)/meta/color}}|
+|bgcolor={{Russian Party of Freedom and Justice/meta/color}}|
+|bgcolor={{Green Alternative (Russia)/meta/color}}|
+|bgcolor={{Party of Growth/meta/color}}|
+|bgcolor={{Civic Platform (Russia)/meta/color}}|
+|-
+|15–17 October 2021
+|[https://media.fom.ru/fom-bd/d41pi2021.pdf FOM]
+|3,000
+|style="background:#B3E0FF" |'''30'''||'''18'''||'''9'''||'''6'''||'''6'''||1||1||1||2||0||0||0||0||0||–||12||13
+|style="background:#0C2C84; color:white;"|12
+|-
+|11–17 October 2021
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-22102021 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''30.1'''||'''19.8'''||'''7.7'''||'''6.0'''||'''8.6'''|| || || || || || || || || ||10.4||7.7||8.5
+|style="background:#0C2C84; color:white;"|10.3
 |-
 |4–10 October 2021
 |[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-15102021 WCIOM]
 |11,200
-|style="background:#B3E0FF" |'''29.8%'''||'''20.2%'''||'''7.5%'''||'''6.3%'''||'''8.6%'''||11.1%||6.9%||8.1%
-|style="background:#0C2C84; color:white;"|9.6%
+|style="background:#B3E0FF" |'''29.8'''||'''20.2'''||'''7.5'''||'''6.3'''||'''8.6'''|| || || || || || || || || ||11.1||6.9||8.1
+|style="background:#0C2C84; color:white;"|9.6
 |-
 |27 September–3 October 2021
 |[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-08102021 WCIOM]
 |11,200
-|style="background:#B3E0FF" |'''29.8%'''||'''20.2%'''||'''7.3%'''||'''6.1%'''||'''8.4%'''||11.0%||7.7%||8.1%
-|style="background:#0C2C84; color:white;"|9.6%
+|style="background:#B3E0FF" |'''29.8'''||'''20.2'''||'''7.3'''||'''6.1'''||'''8.4'''|| || || || || || || || || ||11.0||7.7||8.1
+|style="background:#0C2C84; color:white;"|9.6
 |-
 |20–26 September 2021
 |[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20211001 WCIOM]
 |11,200
-|style="background:#B3E0FF" |'''29.5%'''||'''23.3%'''||'''7.6%'''||'''6.4%'''||'''8.4%'''||9.8%||6.9%||6.9%
-|style="background:#0C2C84; color:white;"|6.2%
+|style="background:#B3E0FF" |'''29.5'''||'''23.3'''||'''7.6'''||'''6.4'''||'''8.4'''|| || || || || || || || || ||9.8||6.9||6.9
+|style="background:#0C2C84; color:white;"|6.2
 |-
 |style="background:#D5D5D5"|{{nowrap|''17–19 September 2021''}}
 |style="background:#D5D5D5"|{{nowrap|''[[2021 Russian legislative election|Election result]]''}}
 |style="background:#D5D5D5"|
-|style="background:#B3E0FF"|'''''49.82%'''''||style="background:#D5D5D5"|'''''18.93%'''''||style="background:#D5D5D5"|'''''7.55%'''''||style="background:#D5D5D5"|'''''7.46%'''''||style="background:#D5D5D5"|'''''5.32%'''''||style="background:#D5D5D5"|''8.85%''||style="background:#D5D5D5"| ||style="background:#D5D5D5"|
-|style="background:#0C2C84; color:white;"|''30.89%''
+|style="background:#B3E0FF"|'''''49.82'''''||style="background:#D5D5D5"|'''''18.93'''''||style="background:#D5D5D5"|'''''7.55'''''||style="background:#D5D5D5"|'''''7.46'''''||style="background:#D5D5D5"|'''''5.32'''''||style="background:#D5D5D5"|''2.45''||style="background:#D5D5D5"|''1.34''||style="background:#D5D5D5"|''1.27''||style="background:#D5D5D5"|''0.91''||style="background:#D5D5D5"|''0.80''||style="background:#D5D5D5"|''0.77''||style="background:#D5D5D5"|''0.64''||style="background:#D5D5D5"|''0.52''||style="background:#D5D5D5"|''0.15''||style="background:#D5D5D5"| ||style="background:#D5D5D5"| ||style="background:#D5D5D5"|
+|style="background:#0C2C84; color:white;"|''30.89''
 |}

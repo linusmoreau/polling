@@ -12,8 +12,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! class="unsortable" style="width:50px;"|[[João Doria|Doria]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
 ! class="unsortable" style="width:50px;"|[[Eduardo Leite|Leite]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
 ! class="unsortable" style="width:50px;"|[[Luiz Henrique Mandetta|Mandetta]]<br>{{small|[[Brazil Union|UNIÃO]]}}
-! class="unsortable" style="width:50px;"|[[Rodrigo Pacheco (politician)|Pacheco]]<br>{{small|[[Brazil Union|UNIÃO]]}}
 ! class="unsortable" style="width:50px;"|[[José Luiz Datena|Datena]]<br>{{small|[[Brazil Union|UNIÃO]]}}
+! class="unsortable" style="width:50px;"|[[Rodrigo Pacheco (politician)|Pacheco]]<br>{{small|[[Social Democratic Party (Brazil, 2011)|PSD]]}}
 ! class="unsortable" style="width:50px;"|[[Sérgio Moro|Moro]]<br>{{small|Indep.}}
 ! rowspan="2" class="unsortable"| Others
 ! rowspan="2" class="unsortable"| Abst.<br>Undec.
@@ -22,11 +22,9 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! data-sort-type="number" class="sortable" style="background:#0067BC;"|
 ! data-sort-type="number" class="sortable" style="background:#CC0000;"|
 ! data-sort-type="number" class="sortable" style="background:#EE161F;"|
-! data-sort-type="number" class="sortable" style="background:#0080FF;"|
-! data-sort-type="number" class="sortable" style="background:#0080FF;"|
-! data-sort-type="number" class="sortable" style="background:#0FC0E6;"|
-! data-sort-type="number" class="sortable" style="background:#0FC0E6;"|
-! data-sort-type="number" class="sortable" style="background:#0FC0E6;"|
+! data-sort-type="number" class="sortable" colspan="2" style="background:#0080FF;"|
+! data-sort-type="number" class="sortable" colspan="2" style="background:#0FC0E6;"|
+! data-sort-type="number" class="sortable" style="background:#FFA500;"|
 ! data-sort-type="number" class="sortable" style="background:#BBBBBB;"|
 |-
 |rowspan="3"|[https://www.oantagonista.com/brasil/quaest-genial-55-dos-eleitores-nao-sabem-em-quem-votar-para-presidente/ ''Quaest/Genial'']
@@ -38,8 +36,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |–
-|–
 |11%
+|–
 |–
 |–
 |12%
@@ -80,8 +78,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |3%
 |–
 |3%
-|2%
 |4%
+|2%
 |–
 |2%
 |11%
@@ -93,8 +91,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |4%
 |3%
-|1%
 |2%
+|1%
 |–
 |2%
 |11%
@@ -109,8 +107,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |5%
 |–
 |4%
-|2%
 |–
+|2%
 |–
 |–
 |7%
@@ -122,8 +120,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |5%
 |3%
 |3%
-|1%
 |3%
+|1%
 |7%
 |1%
 |6%
@@ -151,8 +149,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |2%
 |–
 |3%
-|1%
 |3%
+|1%
 |5%
 |–
 |14%
@@ -167,8 +165,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |2%
 |–
 |–
-|–
 |3.1%
+|–
 |5.6%
 |9.3%
 |14.2%
@@ -222,8 +220,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |5%
 |–
 |–
-|1%
 |4%
+|1%
 |–
 |3%
 |12%
@@ -254,8 +252,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |4%
 |–
 |5%
-|4%
 |3%
+|4%
 |–
 |–
 |11%
@@ -299,8 +297,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |5%
 |–
 |–
-|1%
 |5%
+|1%
 |–
 |–
 |13%
@@ -320,8 +318,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |6%
 |–
 |4%
-|–
 |7%
+|–
 |–
 |–
 |11%
@@ -354,8 +352,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |–
-|–
 |10%
+|–
 |–
 |–
 |10%
@@ -370,8 +368,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |3.9%
 |–
 |1.8%
-|0.8%
 |7.0%
+|0.8%
 |–
 |0.7%
 |12.7%
@@ -415,8 +413,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |4%
 |5%
-|–
 |4%
+|–
 |–
 |2%
 |13%
@@ -429,7 +427,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |'''29.28%'''
 |12.47%
 |colspan="2"|4.76%
-|colspan="3"|−
+|colspan="2"|−
+|−
 |−
 |3.38%
 |−
@@ -456,15 +455,13 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! rowspan="2" data-sort-type="number"| Lead
 |-
 ! data-sort-type="number" class="sortable" style="background:#0067BC;"|
-! data-sort-type="number" class="sortable" style="background:#CC0000;"|
-! data-sort-type="number" class="sortable" style="background:#CC0000;"|
+! data-sort-type="number" class="sortable" colspan="2" style="background:#CC0000;"|
 ! data-sort-type="number" class="sortable" style="background:#A30000;"|
 ! data-sort-type="number" class="sortable" style="background:#EE161F;"|
 ! data-sort-type="number" class="sortable" style="background:#A30000;"|
 ! data-sort-type="number" class="sortable" style="background:#0080FF;"|
 ! data-sort-type="number" class="sortable" style="background:#F0762A;"|
-! data-sort-type="number" class="sortable" style="background:#BBBBBB;"|
-! data-sort-type="number" class="sortable" style="background:#BBBBBB;"|
+! data-sort-type="number" class="sortable" colspan="2" style="background:#BBBBBB;"|
 |-
 |[https://tribunapr.uol.com.br/noticias/brasil/bolsonaro-e-lula-empatam-na-pesquisa-exame-ideia-para-as-eleicoes-2022/ ''Exame/Ideia'']
 |22–24 June
@@ -1019,15 +1016,13 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! rowspan="2" data-sort-type="number"| Lead
 |-
 ! data-sort-type="number" class="sortable" style="background:#0067bc;"|
-! data-sort-type="number" class="sortable" style="background:#cc0000;"|
-! data-sort-type="number" class="sortable" style="background:#cc0000;"|
+! data-sort-type="number" class="sortable" colspan="2" style="background:#cc0000;"|
 ! data-sort-type="number" class="sortable" style="background:#a30000;"|
 ! data-sort-type="number" class="sortable" style="background:#ee161f;"|
 ! data-sort-type="number" class="sortable" style="background:#a30000;"|
 ! data-sort-type="number" class="sortable" style="background:#0080FF;"|
 ! data-sort-type="number" class="sortable" style="background:#f0762a;"|
-! data-sort-type="number" class="sortable" style="background:#bbbbbb;"|
-! data-sort-type="number" class="sortable" style="background:#bbbbbb;"|
+! data-sort-type="number" class="sortable" colspan="2" style="background:#bbbbbb;"|
 |-
 |''[https://www.poder360.com.br/poderdata/bolsonaro-lidera-com-folga-1o-turno-de-2022-e-ganharia-de-todos-no-2o-turno/ PoderData]''
 |21−23 Dec
@@ -1522,13 +1517,11 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! rowspan="2" data-sort-type="number"| Lead
 |-
 ! data-sort-type="number" class="sortable" style="background:#0067bc;"|
-! data-sort-type="number" class="sortable" style="background:#cc0000;"|
-! data-sort-type="number" class="sortable" style="background:#cc0000;"|
+! data-sort-type="number" class="sortable" colspan="2" style="background:#cc0000;"|
 ! data-sort-type="number" class="sortable" style="background:#ee161f;"|
 ! data-sort-type="number" class="sortable" style="background:#0080FF;"|
 ! data-sort-type="number" class="sortable" style="background:#f0762a;"|
-! data-sort-type="number" class="sortable" style="background:#bbbbbb;"|
-! data-sort-type="number" class="sortable" style="background:#bbbbbb;"|
+! data-sort-type="number" class="sortable" colspan="2" style="background:#bbbbbb;"|
 |-
 | rowspan="5"| [https://static.poder360.com.br/2019/12/FSB-Pesquisa-VEJA-Rodada-3-versa%CC%83o-final-completa-2.pdf ''Veja/FSB'']
 | rowspan="5"| 11 Nov–2 Dec

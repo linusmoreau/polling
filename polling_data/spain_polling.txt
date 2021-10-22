@@ -15,7 +15,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="width:35px;"| [[File:Logo oficial Ciudadanos.svg|23px|link=Citizens (Spanish political party)|Cs]]
 ! style="width:35px;"| [[File:Esquerra Republicana de Catalunya-Sobiranistes icono.svg|30px|link=Republican Left of Catalonia–Sovereigntists|ERC–Sobiranistes]]
 ! style="width:35px;"| [[File:Más País.svg|25px|link=Más País]]
-! style="width:35px;"| [[File:Junts per Catalunya.svg|25px|link=Together for Catalonia (2017)|JxCat]]<br/>[[File:Junts per Catalunya (2020).svg|25px|link=Together for Catalonia (2020)|Junts]]
+! style="width:35px;"| [[File:Junts per Catalunya (2020).svg|30px|link=Together for Catalonia (2020)|JxCat]]
 ! style="width:35px;"| [[Basque Nationalist Party|PNV]]
 ! style="width:35px;"| [[File:EHB.png|28px|link=EH Bildu]]
 ! style="width:35px;"| [[File:CUP.svg|27px|link=Popular Unity Candidacy|CUP]]
@@ -6855,7 +6855,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="width:35px;"| [[File:Logo oficial Ciudadanos.svg|23px|link=Citizens (Spanish political party)|Cs]]
 ! style="width:35px;"| [[File:Esquerra Republicana de Catalunya-Sobiranistes icono.svg|30px|link=Republican Left of Catalonia–Sovereigntists|ERC–Sobiranistes]]
 ! style="width:35px;"| [[File:Más País.svg|25px|link=Más País]]
-! style="width:35px;"| [[File:Junts per Catalunya.svg|25px|link=Together for Catalonia (2017)|JxCat]]<br/>[[File:Junts per Catalunya (2020).svg|25px|link=Together for Catalonia (2020)|Junts]]
+! style="width:35px;"| [[File:Junts per Catalunya.svg|30px|link=Together for Catalonia (2017)|JxCat]]
 ! style="width:35px;"| [[Basque Nationalist Party|PNV]]
 ! style="width:35px;"| [[File:EHB.png|28px|link=EH Bildu]]
 ! style="width:35px;"| [[File:CUP.svg|27px|link=Popular Unity Candidacy|CUP]]
@@ -6872,7 +6872,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Citizens (Spanish political party)/meta/color}};"|
 ! style="background:{{Republican Left of Catalonia–Sovereigntists/meta/color}};"|
 ! style="background:{{Más País/meta/color}};"|
-! style="background:{{Together for Catalonia (2020)/meta/color}};"|
+! style="background:{{Together for Catalonia (2017)/meta/color}};"|
 ! style="background:{{Basque Nationalist Party/meta/color}};"|
 ! style="background:{{EH Bildu/meta/color}};"|
 ! style="background:{{Popular Unity Candidacy/meta/color}};"|

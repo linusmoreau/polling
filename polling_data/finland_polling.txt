@@ -28,6 +28,23 @@
 ! data-sort-type="number" style="background:{{Christian Democrats (Finland)/meta/color}};" |
 ! data-sort-type="number" style="background:{{Movement Now/meta/color}};" |
 |-
+| Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000008343853.html|title=HS-gallup: Kokoomus yhä suosituin puolue|first=Elina|last=Kervinen|website=Helsingin Sanomat |date=20 October 2021|access-date=20 October 2021}}</ref>
+| data-sort-value="2021-10-15"| 18 Sep–15 Oct 2021
+| 2,392
+| 18.5
+| 17.8
+| style="background:#D9E9F4"|'''21.2'''
+| 12.5
+| 10.1
+| 7.7
+| 4.5
+| 3.6
+| 2.2
+| 1.9
+| style="background:{{National Coalition Party/meta/color}};color:#FFFFFF;" data-sort-value="-2.7"| 2.7
+| {{#expr:18.5+12.5+10.1+7.7+4.5}}
+| {{#expr:17.8+21.2+3.6+2.2}}
+|-
 | Taloustutkimus<ref>{{Cite web|url=https://yle.fi/uutiset/3-12130889|title=Ylen puoluekannatusmittaus: Kokoomus jatkaa suurimpana puolueena, vihreiden kannatus vuotaa vasemmalle|first=Matti|last=Koivisto|website=Yle Uutiset|language=fi|access-date=7 October 2021|date=7 October 2021}}</ref>
 | data-sort-value="2021-10-05"| 1 Sep–5 Oct 2021
 | 2,538

@@ -26,6 +26,20 @@ The following are opinion polls conducted for the legislative elections, measuri
 | style="background:#009C3D" <!-- Centre Party -->|
 | style="background:{{Freedom and Justice/meta/color}}" <!-- Freedom and Justice --> |
 |-
+|[https://m.delfi.lt/lietuvoje/article.php?id=88494695&amp=1&id=88494695&__twitter_impression=true Baltijos tyrimai]
+|17 September – 3 October 2021
+|<!-- TS-KD --> |'''15.5'''
+| Lithuanian Farmers and Greens Union --> |'''15.1'''
+|<!-- Labour Party --> |'''7.8'''
+|style="background:#E10514" <!-- Social Democratic Party of Lithuania --> |'''25.7'''
+|<!-- Laisves--> |4.1
+|<!-- LRLS--> |'''11.2'''
+|<!-- Electoral Action of Poles in Lithuania--> |3.4
+|<!-- LSDDP--> |2.7
+|<!-- Lithuanian Centre Party--> |2.7
+|<!-- Freedom and Justice --> |'''10.2'''
+| style="background:#E10514" |10.2
+|-
 |[https://www.delfi.lt/news/daily/lithuania/naujausiu-reitingu-sarasuose-aiski-tendencija-lvzs-ir-socialdemokratai-keicia-pozicijas.d?id=88380093 Spinter tyrimai]
 |17-26 September 2021
 |<!-- TS-KD --> |'''18.6'''

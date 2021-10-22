@@ -27,6 +27,21 @@
 ! data-sort-type="number" style="height:1px; background:{{Poland 2050/meta/color}};"|
 ! data-sort-type="number" style="height:1px; background:{{AGROunia/meta/color}};"|
 |-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/570863-sondaz-pis-nadal-wysoko-ko-z-tuskiem-stanela-w-miejscu Social Changes / wPolityce.pl]
+| data-sort-value="2021-10-18" | 15–18 Oct 2021
+| 1,096
+| style="background:#C0DBFC;" | '''39'''
+| 2
+| 26
+| 7
+| 2
+| 2
+| 8
+| 13
+| 
+| 1
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''13'''
+|-
 |[https://mobile.twitter.com/CBOS_Info/status/1448988696879960069 CBOS]
 | data-sort-value="2021-10-14" | 4–14 Oct 2021
 | 1,161
@@ -57,7 +72,7 @@
 | 7
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''6'''
 |-
-| [https://natemat.pl/zdrowie/378867,najmniej-szkodliwa-alternatywa-dla-palaczy-naukowcy-okreslili-skale-ryzyka Kantar Public]
+| [https://www.wnp.pl/parlamentarny/sondaze/najnowszy-sondaz-wyborczy-w-sejmie-5-partii,957.html Kantar Public]
 | data-sort-value="2021-10-13" | 8–13 Oct 2021
 | 968
 | style="background:#C0DBFC;" | '''32'''
@@ -593,7 +608,7 @@
 | 9.1
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''11.2'''
 |-
-| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/563987-sondaz-czy-koalicja-psl-u-i-porozumienia-przekracza-prog Social Changes / wPolityce.pl]
+| style="letter-spacing: -1px;"| {{nowrap|[https://wpolityce.pl/polityka/563987-sondaz-czy-koalicja-psl-u-i-porozumienia-przekracza-prog Social Changes / wPolityce.pl]}}
 | data-sort-value="2021-08-23" | 20–23 Aug 2021
 | 1,057
 | style="background:#C0DBFC;" | '''33'''

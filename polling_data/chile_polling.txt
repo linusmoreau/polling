@@ -1,5 +1,5 @@
 === After official registration of candidates ===
-:''Results considering only official candidates (excluding "Other", "Don't know", "Do not vote", etc.) and general voters, excluding polls only with likely voters or regional groups.''
+:''Results considering only official candidates (excluding "Other", "Don't know", "Do not vote", etc.) and general voters, excluding polls showing likely voters or non-national samples.''
 {{Graph:Chart |width=900 |height=400 |xAxisTitle=Date |yAxisTitle=Percentage (excl. Others/None) |legend=Presidential candidate |type=line
 |interpolate=bundle
 |xType=date

@@ -43,6 +43,30 @@
 ! data-sort-type="number" style="background:{{Social Democrats (Denmark)/meta/color}};"|
 ! data-sort-type="number" style="background:{{Venstre (Denmark)/meta/color}};"|
 |-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-17-10-2021.pdf Voxmeter]
+|11–17 Oct 2021
+|1,103
+| style="background:#FACECD;" |'''27.7'''
+|13.3
+|6.5
+|5.7
+|8.4
+|8.8
+|12.8
+|0.6
+|7.1
+|4.0
+| –
+|1.3
+| –
+|0.1
+| –
+|3.7
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |14.4
+| style="background:#FACECD;" |'''51.3'''
+|45.0
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |6.3
+|-
 |[https://www.berlingske.dk/politik/ny-maaling-har-for-foerste-gang-tal-for-loekkes-nye-parti-saa-mange Gallup]
 |3 Oct 2021
 |1,662
@@ -56,19 +80,19 @@
 |0.6
 |5.6
 |1.9
-| -
+| –
 |2.5
-| -
+| –
 |0.1
 |3.5
-| -
+| –
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |13.6
 | style="background:#FACECD;" |'''51.1'''
 |47.9
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |3.2
 |-
 |[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmetermåling-03-10-2021.pdf Voxmeter]
-|27 Sep-3 Oct 2021
+|27 Sep–3 Oct 2021
 |1,003
 | style="background:#FACECD;" |'''27.6'''
 |14.9
@@ -80,11 +104,11 @@
 |0.5
 |6.6
 |2.9
-| -
+| –
 |1.6
-| -
+| –
 |0.1
-| -
+| –
 |3.2
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |12.7
 | style="background:#FACECD;" |'''50.7'''
@@ -93,7 +117,7 @@
 |-
 |-
 |[https://www.bt.dk/politik/loekke-i-vildt-comeback-stormer-ind-i-folketinget YouGov]
-|17-20 Sep 2021
+|17–20 Sep 2021
 |1,253
 | style="background:#FACECD;" |'''30.8'''
 |9.4
@@ -105,19 +129,19 @@
 |1.0
 |8.4
 |2.0
-| -
+| –
 |1.1
-| -
-| -
+| –
+| –
 |4.5
-| -
+| –
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |13.8
 | style="background:#FACECD;" |'''50.3'''
 |49.0
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |1.3
 |-
 |[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmetermåling-19-09-2021.pdf Voxmeter]
-|13-19 Sep 2021
+|13–19 Sep 2021
 |1,001
 | style="background:#FACECD;" |'''27.7'''
 |13.6
@@ -129,11 +153,11 @@
 |0.4
 |5.7
 |3.1
-| -
+| –
 |1.4
-| -
+| –
 |0.0
-| -
+| –
 |4.7
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |14.1
 | style="background:#FACECD;" |'''51.9'''
@@ -141,7 +165,7 @@
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |8.5
 |-
 |[https://www.bt.dk/politik/ny-maaling-roed-bloks-forspring-smuldrer YouGov]
-|10-12 Sep 2021
+|10–12 Sep 2021
 |1,263
 | style="background:#FACECD;" |'''31.0'''
 |10.3
@@ -153,19 +177,19 @@
 |0.6
 |9.8
 |2.2
-| -
+| –
 |1.7
-| -
+| –
 |1.2
-| -
-| -
+| –
+| –
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |14.1
 | style="background:#FACECD;" |'''50.8'''
 |48.0
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |2.8
 |-
 |[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-29-08-2021.pdf Voxmeter]
-|23-29 Aug 2021
+|23–29 Aug 2021
 |1,006
 | style="background:#FACECD;" |'''28.4'''
 |15.1
@@ -177,11 +201,11 @@
 |0.5
 |5.8
 |2.9
-| -
+| –
 |1.8
-| -
+| –
 |0.0
-| -
+| –
 |2.3
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |13.3
 | style="background:#FACECD;" |'''52.6'''
@@ -189,7 +213,7 @@
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |7.5
 |-
 |[https://politiken.dk/indland/politik/art8341382/M%C3%A5ling-giver-d%C3%A5rligste-resultat-til-Socialdemokratiet-siden-coronakrisen-startede Megafon]
-|23-26 Aug 2021
+|23–26 Aug 2021
 |1,007
 | style="background:#FACECD;" |'''25.2'''
 |12.6
@@ -201,19 +225,19 @@
 |0.9
 |8.9
 |2.6
-| -
+| –
 |1.8
-| -
+| –
 |0.3
-| -
-| -
+| –
+| –
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |8.7
 | style="background:#FACECD;" |'''51.3'''
 |48.7
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |2.6
 |-
 |[https://www.dr.dk/nyheder/politik/ny-maaling-giver-tiltraengt-fremgang-til-venstre-men-ellemann-er-stadig-langt-fra Epinion]
-|19-26 Aug 2021
+|19–26 Aug 2021
 |1,639
 | style="background:#FACECD;" |'''28.6'''
 |15.2
@@ -225,19 +249,19 @@
 |1.3
 |9.3
 |2.3
-| -
+| –
 |1.2
-| -
+| –
 |0.3
-| -
-| -
+| –
+| –
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |13.4
 | style="background:#FACECD;" |'''51.5'''
 |47.1
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |4.5
 |-
 |[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-22-08-2021.pdf Voxmeter]
-|16-22 Aug 2021
+|16–22 Aug 2021
 |1,003
 | style="background:#FACECD;" |'''29.3'''
 |14.5
@@ -249,11 +273,11 @@
 |0.2
 |6.3
 |2.6
-| -
+| –
 |2.1
-| -
+| –
 |0.1
-| -
+| –
 |1.1
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |14.8
 | style="background:#FACECD;" |'''53.6'''
@@ -261,7 +285,7 @@
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |8.3
 |-
 |[https://www.bt.dk/politik/ny-maaling-roed-bloks-forspring-smuldrer YouGov]
-|13-16 Aug 2021
+|13–16 Aug 2021
 |1,253
 | style="background:#FACECD;" |'''31.5'''
 |9.8
@@ -273,19 +297,19 @@
 |1.6
 |9.7
 |3.2
-| -
+| –
 |1.4
-| -
+| –
 |1.1
-| -
-| -
+| –
+| –
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |16.9
 | style="background:#FACECD;" |'''53.0'''
 |45.9
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |7.1
 |-
 |[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-15-08-2021.pdf Voxmeter]
-|9-15 Aug 2021
+|9–15 Aug 2021
 |1,007
 | style="background:#FACECD;" |'''30.6'''
 |13.7
@@ -297,11 +321,11 @@
 |0.2
 |6.8
 |2.1
-| -
+| –
 |2.1
-| -
+| –
 |0.1
-| -
+| –
 |1.3
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |16.9
 | style="background:#FACECD;" |'''55.3'''
@@ -321,11 +345,11 @@
 |0.0
 |6.0
 |1.7
-| -
+| –
 |2.2
-| -
+| –
 |0.3
-| -
+| –
 |1.4
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |15.8
 | style="background:#FACECD;" |'''54.9'''
@@ -349,7 +373,7 @@
 |2.1
 |0.2
 |0.1
-| -
+| –
 |1.1
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |13.5
 | style="background:#FACECD;" |'''52.0'''
@@ -369,11 +393,11 @@
 |0.3
 |6.4
 |1.9
-| -
+| –
 |1.8
-| -
+| –
 |0.2
-| -
+| –
 |2.0
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |13.8
 | style="background:#FACECD;" |'''53.3'''
@@ -421,7 +445,7 @@
 |1.3
 |–
 |0.0
-| -
+| –
 |3.0
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |15.4
 | style="background:#FACECD;" |'''53.1'''

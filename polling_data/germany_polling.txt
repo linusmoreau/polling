@@ -11,7 +11,6 @@
 ! class="unsortable" style="width:40px;"| [[Free Democratic Party (Germany)|FDP]]
 ! class="unsortable" style="width:40px;"| [[Alternative for Germany|AfD]]
 ! class="unsortable" style="width:40px;"| [[The Left (Germany)|Linke]]
-! class="unsortable" style="width:40px;"| [[Free Voters|FW]]
 ! class="unsortable" style="width:30px;" rowspan="2"| Others
 ! style="width:30px;" rowspan="2"| Lead
 |-
@@ -21,7 +20,19 @@
 ! style="background:{{Free Democratic Party (Germany)/meta/color}};"|
 ! style="background:{{Alternative for Germany/meta/color}};"|
 ! style="background:{{The Left (Germany)/meta/color}};"|
-! style="background:{{Free Voters/meta/color}};"|
+|-
+| [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-mehrheit-wuenscht-sich-steinmeiers-wiederwahl-als-bundespraesident-a-106857de-de60-419b-bf6d-7a107c30b415 Civey]
+| {{opdrts|13|20|Oct|2021|year}}
+| 10,028
+| –
+| {{Party shading/SPD}}| '''25'''
+| 20
+| 15
+| 15
+| 11
+| 6
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|15|18|Oct|2021|year}}
@@ -33,7 +44,6 @@
 | 15
 | 11.5
 | 5
-| –
 | 6
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 9.5
 |-
@@ -47,7 +57,6 @@
 | 15
 | 9
 | 5
-| –
 | 9
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
 |-
@@ -61,7 +70,6 @@
 | 13
 | 11
 | 4
-| –
 | 9
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 9
 |-
@@ -75,9 +83,21 @@
 | 13
 | 11
 | 5
-| –
 | 7
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 9
+|-
+| [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
+| {{opdrts|1|14|Oct|2021|year}}
+| 1,045
+| –
+| {{Party shading/SPD}}| '''28'''
+| 21
+| 15
+| 14
+| 9.5
+| 5
+| 7.5
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
 |-
 | [https://www.spiegel.de/politik/deutschland/ampel-koalition-mehrheit-der-deutschen-befuerwortet-buendnis-von-spd-gruenen-und-fdp-a-bb119e31-7e5e-443d-ab13-60e15614bff4 Civey]
 | {{opdrts|6|13|Oct|2021|year}}
@@ -89,7 +109,6 @@
 | 15
 | 11
 | 6
-| –
 | 8
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
 |-
@@ -103,7 +122,6 @@
 | 14
 | 10
 | 5
-| –
 | 9
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
 |-
@@ -117,7 +135,6 @@
 | 14.5
 | 11
 | 4
-| –
 | 6.5
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 9
 |-
@@ -131,7 +148,6 @@
 | 14
 | 9
 | 5
-| –
 | 10
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
 |-
@@ -145,7 +161,6 @@
 | 14
 | 10
 | 5
-| –
 | 8
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 8
 |-
@@ -159,7 +174,6 @@
 | 14
 | 11
 | 6
-| –
 | 7
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 9
 |-
@@ -173,8 +187,7 @@
 | 13
 | 10
 | 5
-| 3
-| 6
+| 9<ref name=FW>[[Free Voters|FW]]: 3</ref>
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
@@ -187,7 +200,6 @@
 | 13.5
 | 10
 | 4.5
-| –
 | 7.5
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
 |-
@@ -201,7 +213,6 @@
 | 14
 | 9
 | 5
-| –
 | 10
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
 |-
@@ -215,7 +226,6 @@
 | 12
 | 10
 | 5
-| –
 | 8
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
 |-
@@ -229,7 +239,6 @@
 | 13
 | 10
 | 5
-| –
 | 8
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 8
 |- style="background:#E9E9E9;"
@@ -243,7 +252,6 @@
 | 11.5
 | 10.3
 | 4.9
-| 2.4
-| 6.3
+| 8.7<ref name=FW />
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 1.6
 |}

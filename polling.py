@@ -853,7 +853,7 @@ class GraphPage:
             with open(choices[self.choice]['old_data'], 'r', encoding='utf-8') as f:
                 content.extend(f.readlines())
         tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
-        display_tables(tables)
+        # display_tables(tables)
         tables = process_tables(tables, self.choice, self.include, self.zeros)
         tables = filter_tables(tables, self.choice, self.include)
         tables = modify_tables(tables, self.choice, self.include, self.zeros)

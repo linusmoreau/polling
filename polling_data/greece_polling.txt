@@ -29,6 +29,21 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Antarsya/meta/color}};"|
 ! style="background:{{Greeks for the Fatherland/meta/color}};"|
 |-
+| Opinion Poll/mononews.gr<ref>{{Cite web|date=2021-10-21|title=Μεγάλη δημοσκόπηση της Opinion Poll για το mononews: Σταθερά κυρίαρχος ο Μητσοτάκης, 29 μονάδες μπροστά από τον Τσίπρα - 13,3 μονάδες η διαφορά ΝΔ-ΣΥΡΙΖΑ - Βασικό κριτήριο ψήφου η οικονομία|url=https://www.mononews.gr/politics/megali-dimoskopisi-tis-opinion-poll-gia-to-mononews-stathera-kiriarchos-o-mitsotakis-29-brosta-apo-ton-tsipra-133-monades-i-diafora-nd-siriza-vasiko-kritirio-psifou-i-ikonomia|access-date=2021-10-22|website=mononews|language=el}}</ref>
+| 16–19 Oct 2021
+|1,000
+| {{Party shading/ND}}| '''43.7'''
+| 27.3
+| 7.5
+| 6.5
+| 5.0
+| 2.8
+| –
+| 1.5
+| –
+| 1.6
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;" | 16.4
+|-
 | Interview/Political<ref>{{cite web |title=Δημοσκόπηση Interview: Προβάδισμα 13% της ΝΔ από τον ΣΥΡΙΖΑ – 60% υπέρ της συμφωνίας με τη Γαλλία |url=https://www.protothema.gr/politics/article/1171812/dimoskopisi-interview-provadisma-13-tis-nd-apo-ton-suriza-60-uper-tis-sumfonias-me-ti-gallia/ |language=el |work=Proto Thema |date=16 October 2021}}</ref>
 | 11–16 Oct 2021
 |?

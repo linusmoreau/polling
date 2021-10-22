@@ -26,6 +26,21 @@
 | style="background-color: {{Reiwa Shinsengumi/meta/color}}" |
 | style="background-color: {{The Party to Protect the People from NHK/meta/color}}" |
 |-
+|19-20 Oct
+|[https://www.asahi.com/articles/ASPBN7HHWPBLUZPS001.html Asahi Shimbun]
+| {{Party shading/Liberal Democratic Party (Japan)}} |'''38'''
+|13
+|7
+|5
+|4
+|2
+|1
+|1
+|1
+|2
+|23
+|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white"|'''25'''
+|-
 |16-17 Oct
 |[https://www.nikkei.com/article/DGXZQOUA172OG0X11C21A0000000/ Kyodo News]
 | {{Party shading/Liberal Democratic Party (Japan)}} |'''29.6'''
