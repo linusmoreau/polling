@@ -28,6 +28,38 @@
 ! style="background:{{Conservative Party of Norway (2020)/meta/color}};"|
 ! style="background:{{Progress Party (Norway)/meta/color}};"|
 |-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4540 Sentio]
+|{{opdrts|11|19|Oct|2021}}
+|1,000
+|–
+|4.8
+|8.6
+|3.9
+|style="background:#F7BDC5;"|'''27.4'''
+|12.8
+|4.6
+|2.7
+|21.0
+|11.0
+|3.2
+|style="background:{{Labour Party (Norway)/meta/color}};color:#FFFFFF;"|6.4
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4539 Respons Analyse]
+|{{opdrts|13|18|Oct|2021}}
+|1,001
+|–
+|4.8
+|9.3
+|3.7
+|style="background:#F7BDC5;"|'''26.7'''
+|12.4
+|5.4
+|3.4
+|21.2
+|10.3
+|2.8
+|style="background:{{Labour Party (Norway)/meta/color}};color:#FFFFFF;"|5.5
+|-
 |[http://www.pollofpolls.no/?cmd=Maling&gallupid=4537 Opinion Perduco]
 |{{opdrts|5|11|Oct|2021}}
 |977

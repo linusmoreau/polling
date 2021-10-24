@@ -14,7 +14,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! class="unsortable" style="width:50px;"|[[Luiz Henrique Mandetta|Mandetta]]<br>{{small|[[Brazil Union|UNIÃO]]}}
 ! class="unsortable" style="width:50px;"|[[José Luiz Datena|Datena]]<br>{{small|[[Brazil Union|UNIÃO]]}}
 ! class="unsortable" style="width:50px;"|[[Rodrigo Pacheco (politician)|Pacheco]]<br>{{small|[[Social Democratic Party (Brazil, 2011)|PSD]]}}
-! class="unsortable" style="width:50px;"|[[Sérgio Moro|Moro]]<br>{{small|Indep.}}
+! class="unsortable" style="width:50px;"|[[Sérgio Moro|Moro]]<br>{{small|[[Podemos (Brazil)|PODE]]}}
 ! rowspan="2" class="unsortable"| Others
 ! rowspan="2" class="unsortable"| Abst.<br>Undec.
 ! rowspan="2" data-sort-type="number"| Lead
@@ -25,7 +25,17 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! data-sort-type="number" class="sortable" colspan="2" style="background:#0080FF;"|
 ! data-sort-type="number" class="sortable" colspan="2" style="background:#0FC0E6;"|
 ! data-sort-type="number" class="sortable" style="background:#FFA500;"|
-! data-sort-type="number" class="sortable" style="background:#BBBBBB;"|
+! data-sort-type="number" class="sortable" style="background:#2DA933;"|
+|-
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;" {{opdrts||23|Oct|2021}}
+| colspan="14" align="center" style="font-weight:bold;" |PSD confirm candidacy of [[Rodrigo Pacheco (politician)|Pacheco]].<ref>{{cite web|url=https://noticias.r7.com/brasilia/kassab-confirma-pacheco-candidato-do-psd-a-presidencia-em-2022-23102021|title=Kassab confirma Pacheco candidato do PSD à Presidência em 2022|website=R7|language=pt|first=Augusto|last=Fernandes|date=23 October 2021|accessdate=23 October 2021}}</ref>
+|-
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;" {{opdrts||22|Oct|2021}}
+| colspan="14" align="center" style="font-weight:bold;" |Former judge and Justice minister [[Sergio Moro|Moro]] confirm candidacy.<ref>{{cite web|url=https://blogs.oglobo.globo.com/bela-megale/post/moro-bate-martelo-sobre-eleicoes-e-podemos-marcar-evento-de-filiacao-do-ex-juiz.html|title=Moro bate martelo sobre eleições e Podemos marca evento de filiação do ex-juiz|website=O Globo|language=pt|first=Bela|last=Megale|date=22 October 2021|accessdate=22 October 2021}}</ref>
 |-
 |rowspan="3"|[https://www.oantagonista.com/brasil/quaest-genial-55-dos-eleitores-nao-sabem-em-quem-votar-para-presidente/ ''Quaest/Genial'']
 |rowspan="3"|30 Sept–3 Oct
@@ -448,7 +458,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! class="unsortable" style="width:50px;"|[[Guilherme Boulos|Boulos]]<br>{{small|[[Socialism and Liberty Party|PSOL]]}}
 ! class="unsortable" style="width:50px;"|[[João Doria|Doria]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
 ! class="unsortable" style="width:50px;"|[[João Amoêdo|Amoêdo]]<br>{{small|[[New Party (Brazil)|NOVO]]}}
-! class="unsortable" style="width:50px;"|[[Sérgio Moro|Moro]]<br>{{small|Indep.}}
+! class="unsortable" style="width:50px;"|[[Sérgio Moro|Moro]]<br>{{small|[[Podemos (Brazil)|PODE]]}}
 ! class="unsortable" style="width:50px;"|[[Luciano Huck|Huck]]<br>{{small|Indep.}}
 ! rowspan="2" class="unsortable"| Others
 ! rowspan="2" class="unsortable"| Abst.<br>Undec.
@@ -461,7 +471,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! data-sort-type="number" class="sortable" style="background:#A30000;"|
 ! data-sort-type="number" class="sortable" style="background:#0080FF;"|
 ! data-sort-type="number" class="sortable" style="background:#F0762A;"|
-! data-sort-type="number" class="sortable" colspan="2" style="background:#BBBBBB;"|
+! data-sort-type="number" class="sortable" style="background:#2DA933;"|
+! data-sort-type="number" class="sortable" style="background:#BBBBBB;"|
 |-
 |[https://tribunapr.uol.com.br/noticias/brasil/bolsonaro-e-lula-empatam-na-pesquisa-exame-ideia-para-as-eleicoes-2022/ ''Exame/Ideia'']
 |22–24 June
@@ -1009,7 +1020,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! class="unsortable" style="width:50px;"|[[Guilherme Boulos|Boulos]]<br>{{small|[[Socialism and Liberty Party|PSOL]]}}
 ! class="unsortable" style="width:50px;"|[[João Doria|Doria]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
 ! class="unsortable" style="width:50px;"|[[João Amoêdo|Amoêdo]]<br>{{small|[[New Party (Brazil)|NOVO]]}}
-! class="unsortable" style="width:50px;"|[[Sérgio Moro|Moro]]<br>{{small|Indep.}}
+! class="unsortable" style="width:50px;"|[[Sérgio Moro|Moro]]<br>{{small|[[Podemos (Brazil)|PODE]]}}
 ! class="unsortable" style="width:50px;"|[[Luciano Huck|Huck]]<br>{{small|Indep.}}
 ! rowspan="2" class="unsortable"| Others
 ! rowspan="2" class="unsortable"| Abst.<br>Undec.
@@ -1021,8 +1032,9 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! data-sort-type="number" class="sortable" style="background:#ee161f;"|
 ! data-sort-type="number" class="sortable" style="background:#a30000;"|
 ! data-sort-type="number" class="sortable" style="background:#0080FF;"|
-! data-sort-type="number" class="sortable" style="background:#f0762a;"|
-! data-sort-type="number" class="sortable" colspan="2" style="background:#bbbbbb;"|
+! data-sort-type="number" class="sortable" style="background:#F0762A;"|
+! data-sort-type="number" class="sortable" style="background:#2DA933;"|
+! data-sort-type="number" class="sortable" style="background:#BBBBBB;"|
 |-
 |''[https://www.poder360.com.br/poderdata/bolsonaro-lidera-com-folga-1o-turno-de-2022-e-ganharia-de-todos-no-2o-turno/ PoderData]''
 |21−23 Dec
@@ -1413,11 +1425,11 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |−
 | 4%
 | 5%
-| style="background:#d5d5d5;" |'''31%'''
+| style="background:#ABDCAD;" |'''31%'''
 | 16%
 | −
 | 19%
-| style="background:#bbbbbb;color:#000000;" | 15%
+| style="background:#2DA933;color:#FFFFFF;" | 5%
 |-
 | −
 | 28%
@@ -1427,11 +1439,11 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |−
 | 3%
 | 5%
-| style="background:#d5d5d5;" |'''33%'''
+| style="background:#ABDCAD;" |'''33%'''
 | 10%
 | −
 | 13%
-| style="background:#bbbbbb;color:#000000;" | 5%
+| style="background:#2DA933;color:#FFFFFF;" | 5%
 |-
 | rowspan="2" | [https://brasil.elpais.com/brasil/2020-02-12/bolsonaro-lidera-pesquisa-para-reeleicao-em-todos-os-cenarios-inclusive-contra-lula.html ''Atlas Político'']
 | rowspan="2" | 7–9 Feb
@@ -1510,7 +1522,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! class="unsortable" style="width:50px;"|[[Ciro Gomes|Gomes]]<br>{{small|[[Democratic Labour Party (Brazil)|PDT]]}}
 ! class="unsortable" style="width:50px;"|[[João Doria|Doria]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
 ! class="unsortable" style="width:50px;"|[[João Amoêdo|Amoêdo]]<br>{{small|[[New Party (Brazil)|NOVO]]}}
-! class="unsortable" style="width:50px;"|[[Sérgio Moro|Moro]]<br>{{small|Indep.}}
+! class="unsortable" style="width:50px;"|[[Sérgio Moro|Moro]]<br>{{small|[[Podemos (Brazil)|PODE]]}}
 ! class="unsortable" style="width:50px;"|[[Luciano Huck|Huck]]<br>{{small|Indep.}}
 ! rowspan="2" class="unsortable"| Others
 ! rowspan="2" class="unsortable"| Abst.<br>Undec.
@@ -1521,7 +1533,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! data-sort-type="number" class="sortable" style="background:#ee161f;"|
 ! data-sort-type="number" class="sortable" style="background:#0080FF;"|
 ! data-sort-type="number" class="sortable" style="background:#f0762a;"|
-! data-sort-type="number" class="sortable" colspan="2" style="background:#bbbbbb;"|
+! data-sort-type="number" class="sortable" style="background:#2DA933;"|
+! data-sort-type="number" class="sortable" style="background:#BBB;"|
 |-
 | rowspan="5"| [https://static.poder360.com.br/2019/12/FSB-Pesquisa-VEJA-Rodada-3-versa%CC%83o-final-completa-2.pdf ''Veja/FSB'']
 | rowspan="5"| 11 Nov–2 Dec
@@ -1568,11 +1581,11 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 | 12%
 | 4%
 | 4%
-| style="background:#d5d5d5;"|'''32%'''
+| style="background:#ABDCAD;"|'''32%'''
 | 15%
 | −
 | 17%
-| style="background:#bbbbbb;color:#000000;"| 16%
+| style="background:#2DA933;color:#FFF;"| 16%
 |-
 | −
 | 29%
@@ -1580,11 +1593,11 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 | 9%
 | 4%
 | 5%
-| style="background:#d5d5d5;"|'''32%'''
+| style="background:#ABDCAD;"|'''32%'''
 | 10%
 | −
 | 11%
-| style="background:#bbbbbb;color:#000000;"| 3%
+| style="background:#2DA933;color:#FFF;"| 3%
 |-
 | rowspan="3"| [https://veja.abril.com.br/politica/pesquisa-veja-lula-bolsonaro-2022 ''Veja/FSB'']
 | rowspan="3"| 11–14 Oct
@@ -1607,11 +1620,11 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 | 10%
 | 3%
 | 4%
-| style="background:#d5d5d5;"|'''17%'''
+| style="background:#ABDCAD;"|'''17%'''
 | 15%
 | −
 | 13%
-| style="background:#0067bc;color:#ffffff;"| 7%
+| style="background:#2DA933;color:#FFF;"| 7%
 |-
 | −
 | −
@@ -1619,11 +1632,11 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 | 11%
 | 5%
 | 5%
-| style="background:#d5d5d5;"|'''30%'''
+| style="background:#ABDCAD;"|'''30%'''
 | 16%
 | −
 | 17%
-| style="background:#bbbbbb;color:#000000;"| 14%
+| style="background:#2DA933;color:#FFF;"| 14%
 |-
 | rowspan="2"| [https://veja.abril.com.br/politica/pesquisa-numa-disputa-com-a-esquerda-bolsonaro-e-mais-forte-que-moro ''Veja/FSB'']
 | rowspan="2"| 16–18 Aug
@@ -1646,11 +1659,11 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 | 13%
 | 5%
 | 5%
-| style="background:#d5d5d5;"|'''27%'''
+| style="background:#ABDCAD;"|'''27%'''
 | 13%
 | −
 | 19%
-| style="background:#bbbbbb;color:#000000;"| 9%
+| style="background:#2DA933;color:#FFF;"| 9%
 |- style="background:#E9E9E9;"
 | [[2018 Brazilian general election|'''2018 general election''']]
 | 7 Oct

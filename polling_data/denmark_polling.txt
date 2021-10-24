@@ -22,7 +22,7 @@
 ! class="unsortable" style="width:40px;" rowspan="2"| Others
 ! rowspan="2"| Lead
 ! class="unsortable" style="width:40px;"| {{H:title|A, B, F, Ø, Å and G|Red}}
-! class="unsortable" style="width:40px;"| {{H:title|V, O, C, D, I, P, K, E, M|Blue}}
+! class="unsortable" style="width:40px;"| {{H:title|V, O, C, D, I, P, K, E,|Blue}}
 ! style="width:30px;" rowspan="2"| Lead
 |-
 ! data-sort-type="number" style="background:{{Social Democrats (Denmark)/meta/color}};" |

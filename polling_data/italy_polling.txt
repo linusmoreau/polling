@@ -32,6 +32,77 @@
 ! style="background:{{Italia Viva/meta/color}};"|
 ! style="background:{{Coraggio Italia/meta/color}};"|
 |-
+|21 Oct
+|[https://www.dire.it/23-10-2021/679872-sondaggio-dire-tecne-fdi-primo-partito-ma-cresce-la-fiducia-nelle-istituzioni/ Tecnè]
+|
+|15.6
+|20.0
+|18.9
+|7.5
+|style="background:#E5E7FF;" |'''20.7'''
+|2.0
+|1.9
+|1.5
+|1.7
+|3.9
+|2.4
+|
+|3.9
+|style="background:#03386A; color:white;"|0.7
+|-
+|19-21 Oct
+|[https://sondaggibidimedia.com/sondaggio-ipsos-corriere-21-10/ Ipsos]
+|1,000
+|16.5
+|style="background:#FFD0D7;"|'''20.7'''
+|20.0
+|8.0
+|18.8
+|1.2
+|2.0
+|2.0
+|2.0
+|2.0
+|2.0
+|
+|4.8
+|style="background:#EF1C27; color:white;"|0.7
+|-
+|19–21 Oct
+|[https://www.termometropolitico.it/1598139_sondaggi-tp-per-il-496-degli-italiani-partiti-non-interessati-al-voto-prima-del-2023.html Termometro Politico]
+|3,400
+|15.5
+|20.3
+|19.7
+|7.0
+|style="background:#E5E7FF;" |'''20.9'''
+|colspan="2"|2.8
+|1.5
+|1.5
+|3.4
+|2.5
+|
+|4.9
+|style="background:#03386A; color:white;"|0.6
+|-
+|20 Oct
+|[https://twitter.com/EuropeElects/status/1451637470550966285 Euromedia]
+|
+|16.2
+|style="background:#FFD0D7;"|'''19.5'''
+|17.6
+|8.1
+|19.2
+|1.5
+|1.4
+|1.2
+|2.1
+|4.5
+|2.0
+|
+|
+|style="background:#EF1C27; color:white;"|0.3
+|-
 |13–18 Oct
 |[https://tg.la7.it/sondaggi/il-sondaggio-politico-di-luned%C3%AC-18-ottobre-2021-18-10-2021-165394 SWG]
 |1,200

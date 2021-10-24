@@ -27,6 +27,21 @@
 ! data-sort-type="number" style="height:1px; background:{{Poland 2050/meta/color}};"|
 ! data-sort-type="number" style="height:1px; background:{{AGROunia/meta/color}};"|
 |-
+| [https://wiadomosci.wp.pl/sondaz-dla-wp-pis-ze-wzrostem-poparcia-ko-traci-powieksza-sie-przewaga-6697269321661024a United Surveys / WP.pl]
+| data-sort-value="2021-10-22" | 22 Oct 2021
+| 1,000
+| style="background:#C0DBFC;" | '''37.1'''
+|
+| 23.3
+| 8.0
+| 6.2
+|
+| 6.1
+| 12.0
+|
+| 7.3
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''13.8'''
+|-
 | style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/570863-sondaz-pis-nadal-wysoko-ko-z-tuskiem-stanela-w-miejscu Social Changes / wPolityce.pl]
 | data-sort-value="2021-10-18" | 15–18 Oct 2021
 | 1,096

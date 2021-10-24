@@ -54,7 +54,7 @@ specs = {
         'start': 0,
         'end_date': Date(2021, 11, 14),
         'toggle_seats': True,
-        'url': 'https://en.wikipedia.org/w/index.php?title=2021_Bulgarian_general_election&action=edit&section=8',
+        'url': 'https://en.wikipedia.org/w/index.php?title=2021_Bulgarian_general_election&action=edit&section=9',
         'old_data': 'polling_data/old_bulgaria_polling.txt',
         'seats': 240,
         'method': 'remainder',

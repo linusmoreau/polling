@@ -30,6 +30,23 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! class="sortable" style="background:#202056;"|
 ! class="sortable" style="background:#00ADEF;"|
 ! class="sortable" style="background:darkseagreen;"|
+|-
+|[https://twitter.com/Electograph/status/1451865769164394511 Eurosondagem]
+|18–21 Oct 2021
+|1,028
+|?
+|{{Party shading/PS}} |'''38.1'''
+|27.5
+|5.1
+|5.6
+|2.5
+|2.8
+|9.2
+|5.5
+| –
+|3.7
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |10.6
+|-
 |- style="background:#EFEFEF;"
 | '''[[2021 Portuguese local elections|2021 local elections]]'''
 | data-sort-value="2019-10-03" | 26 Sep 2021

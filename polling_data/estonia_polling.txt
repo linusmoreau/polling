@@ -25,6 +25,104 @@
 ! data-sort-type="number" style="background:Green;"|
 ! data-sort-type="number" style="background:Red;"|
 |-
+| [https://www.err.ee/1608378497/emor-reformierakond-kaotas-kuuga-enim-toetust Kantar Emor]
+| 14-20 Oct
+| 1,218
+| style="background:#FEF4AE"| '''23'''
+| 18
+| 21
+| 8
+| 10
+| 16
+| 4
+| 1
+| style="background:{{Estonian Reform Party/meta/color}};"| 2
+| 41|| {{no|59}}
+|-
+| [https://reitingud.ee/reitingud/ Norstat]
+| 13-18 Oct
+| ≥1,000
+| 23.5
+| 18.1
+| style="background:#AEDDFF;"| '''26.4'''
+| 9
+| 8.9
+| 11.1
+| 1.6
+| 1.4
+| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;"| 2.9
+| 41.6|| {{no|57}}
+|-
+| [https://reitingud.ee/reitingud/ Norstat]
+| 05-12 Oct
+| ≥1,000
+| style="background:#FEF4AE"| '''26.7'''
+| 19.7
+| 22
+| 6.7
+| 8.3
+| 11.9
+| 2.4
+| 2.3
+| style="background:{{Estonian Reform Party/meta/color}};"| 4.7
+| 46.4|| {{no|51.3}}
+|-
+| [https://www.err.ee/1608369441/reitingud-reformierakond-juhib-napilt-ekre-ees-eesti-200-kaotas-toetust Turu-uuringute AS]
+| 04-08 Oct
+| 1,000
+| style="background:#FEF4AE"| '''24'''
+| 19
+| 23
+| 7
+| 7
+| 13
+| 3
+| 4
+| style="background:{{Estonian Reform Party/meta/color}};"| 1
+| 43|| {{no|53}}
+|-
+| [https://reitingud.ee/reitingud/ Norstat]
+| 28 Sep–05 Oct
+| ≥1,000
+| 22.8
+| 19.8
+| style="background:#AEDDFF;"| '''26.3'''
+| 7
+| 7.9
+| 12.5
+| 2.3
+| 1.4
+| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;"| 3.5
+| 42.6|| {{no|56}}
+|-
+| [https://reitingud.ee/reitingud/ Norstat]
+| 22–27 Sep
+| ≥1,000
+| 22.9
+| 22.3
+| style="background:#AEDDFF;"| '''24.6'''
+| 7.9
+| 9
+| 11.1
+| 1.5
+| 0.7
+| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;"| 1.7
+| 45.2|| {{no|54.1}}
+|-
+| [https://www.err.ee/1608349622/reformierakond-suurendas-emori-kusitluses-edu-ekre-ees Kantar Emor]
+| 16–21 Sep
+| 1,060
+| style="background:#FEF4AE"| '''27'''
+| 16
+| 22
+| 6
+| 9
+| 16
+| 3
+| 1
+| style="background:{{Estonian Reform Party/meta/color}};"| 5
+| 43|| {{no|56}}
+|-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 14–20 Sep
 | ≥1,000

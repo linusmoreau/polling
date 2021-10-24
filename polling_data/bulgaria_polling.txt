@@ -1,5 +1,5 @@
-==Opinion polls==
-<small>'''Graphical representation of recalculated data:'''</small>
+=== Legislative election ===
+;Graphical representation of recalculated data
 {{Graph:Chart
  | hannotatonslabel=4% electoral threshold
  | hannotatonsline=4
@@ -28,37 +28,39 @@
  | y9Title=Revival
  | y10Title=PP
  | x = 2021/07/11, 2021/07/28, 2021/07/30, 2021/08/22, 2021/09/10, 2021/09/15, 2021/09/15, 2021/09/20, 2021/09/26, 2021/10/10, 2021/10/10, 2021/10/12, 2021/10/12, 2021/10/17, 2021/10/18
- | y1 = 23.8, 20.7, 21.6, 15.7, 15.5, 16.9, 17.5, 13.5, 12.3, 10.4, 11.7, 14.4, 13.4, 12.2, 14.3
- | y2 = 23.2, 18.1, 22.4, 21.6, 22.5, 21.1, 24.4, 22.6, 21.4, 23.1, 24.2, 24.2, 20.7, 22.5, 26.2
- | y3 = 13.2, 16.4, 14.5, 15.7, 16.1, 16.5, 16.6, 14.5, 13.4, 16.8, 15.8, 19.1, 13.2, 15.1, 14.9
- | y4 = 12.5, 15.7, 14.1, 16.5, 15.8, 13.2, 8.5, 11.9, 12.1, 10.9, 10.3, 9, 9, 11.2, 8.8
- | y5 = 10.6, 8.8, 10.2, 11, 11.9, 9.6, 9.3, 9.8, 11.4, 9.3, 11, 8.7, 8.2, 10.8, 11.6
- | y6 = 5, 4.9, 4.4, 4.5, 4.8, 4.1, 3.8, 3.3, 4.1, 3.2, 3.2, 4.2, 2.3, 3.7, 2.9
- | y7 = 3.1, , 1.9, , 2.4, , 2.2, , 2.2, 2.1, 0.7, 1.8, 2.2, 2.3, 3.7
- | y8 = 3.1, 1.9, , , , , , , , , , , ,
- | y9 = 3, 3.4, 2.9, 4.3, 3.1, 3.5, 2.9, 3.2, 3.3, 2.9, 1.7, 1.9, 1.7, 2.9, 1.5
- | y10 = , , , , , , 9.1, 10.8, 15.2, 15.9, 12.8, 14.6, 13.6, 13.4,  10.5
+ | y1 = 23.8, 22.6, 21.6, 17.2, 15.5, 18.6, 17.5, 14.9, 12.3, 10.4, 11.7, 14.4, 15.2, 12.2, 14.3
+ | y2 = 23.2, 19.8, 22.4, 23.7, 22.5, 23.2, 24.4, 25.0, 21.4, 23.1, 24.2, 24.2, 23.5, 22.5, 26.2
+ | y3 = 13.2, 17.9, 14.5, 17.2, 16.1, 18.1, 16.6, 16.0, 13.4, 16.8, 15.8, 19.1, 15.0, 15.1, 14.9
+ | y4 = 12.5, 17.2, 14.1, 18.1, 15.8, 14.5, 8.5, 13.1, 12.1, 10.9, 10.3, 9, 10.2, 11.2, 8.8
+ | y5 = 10.6, 9.6, 10.2, 12, 11.9, 10.5, 9.3, 10.8, 11.4, 9.3, 11, 8.7, 9.4, 10.8, 11.6
+ | y6 = 5, 5.4, 4.4, 4.9, 4.8, 4.5, 3.8, 3.6, 4.1, 3.2, 3.2, 4.2, 2.6, 3.7, 2.9
+ | y7 = 3.1, , 1.9, , 2.4, , 2.2, , 2.2, 2.1, 0.7, 1.8, 2.5, 2.3, 3.7
+ | y8 = 3.1, 2.1, , , , , , , , , , , ,
+ | y9 = 3, 3.7, 2.9, 4.7, 3.1, 3.8, 2.9, 3.5, 3.3, 2.9, 1.7, 1.9, 1.9, 2.9, 1.5
+ | y10 = , , , , , , 9.1, 11.9, 15.2, 15.9, 12.8, 14.6, 15.5, 13.4,  10.5
  | colors = #4BB9DE, #0056A7, #D71921, #A1C619, #800080, #4C813D, #01193B, #01193B, #C09F62, #ffd966, #8F8F8F
  | showSymbols = 1,1,1,1,1,1,1,1,1,1
  | symbolsShape = circle
  | symbolsNoFill = false
  | symbolsStroke = 1.25
-}}<small>The opinion poll results below were recalculated from the original data and exclude polls that chose 'I will not vote' or 'I am uncertain'</small>
+}}
+
+The opinion poll results below were recalculated from the original data and exclude polls that chose "I will not vote" or "I am uncertain" options.
 {| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
 ! rowspan="2" |Polling firm
 ! rowspan="2" |Fieldwork date
 ! rowspan="2" |Sample
 ! rowspan="2" |Turnout range{{efn|Mininum and maximum values}}
-! class="unsortable" style="width:50px;" |[[There Is Such A People|ITN]]
-! class="unsortable" style="width:50px;" |[[GERB]]
-! class="unsortable" style="width:50px;" |[[BSP for Bulgaria|BSPzB]]
-! class="unsortable" style="width:50px;" |[[Democratic Bulgaria|DB]]
-! class="unsortable" style="width:50px;" |[[Movement for Rights and Freedoms|DPS]]
-! class="unsortable" style="width:50px;" |[[Stand Up.BG! We are coming!|IBG-NI]]
-! class="unsortable" style="width:50px;" |[[IMRO-BNM|IMRO-BND]]
-! class="unsortable" style="width:50px;" |[[Revival (Bulgarian political party)|Revival]]
-! class="unsortable" style="width:50px;" |[[We Continue the Change|PP]]
-! rowspan="2" class="unsortable" style="width:50px;" |Certain to vote {{small|([[None of the above|NOTA]]/[[To be announced|TBD]])}}
+![[File:There Is Such A People logo.svg|35px|link=There Is Such A People]]
+![[File:Logo GERB PP.png|55px|link=GERB]]
+![[File:Logo of the Bulgarian Socialist Party.svg|70x70px|link=Bulgarian Socialist Party]]
+![[File:Лого Демократична България.svg|75px|link=Democratic Bulgaria]]
+![[File:Logo_of_the_Movement_for_Rights_and_Freedoms.svg|75px|link=Movement for Rights and Freedoms]]
+![[File:Logo of the Stand Up.BG! We are coming!.png|75px|link=Stand Up.BG! We are coming!]]
+![[File:IMRO-BNM political logo.svg|70x70px|link=IMRO - Bulgarian National Movement]]
+![[File:Logo_of_the_Revival_(Bulgarian_political_party).svg|75px|link=Revival (Bulgarian political party)]]
+![[File:Logo_of_the_We_Continue_the_Change.svg|75px|link=We Continue the Change]]
+! rowspan="2" class="unsortable" style="width:50px;" |Certain to vote {{small|([[None of the above|NOTA]]/[[To be announced|TBD]])}}{{efn|This is over adding up to the total beacuse the rest of the entities are calculated to make up 100%|name=tbd|group=}}
 ! rowspan="2" class="unsortable" style="width:50px;" |[[None of the above|None of the above]]
 ! rowspan="2" class="unsortable" style="width:50px;" |[[List of political parties in Bulgaria|Others]]
 ! rowspan="2" |Lead
@@ -115,19 +117,19 @@
 | data-sort-value="2021-10-12" |6−12 Oct 2021
 |1025
 |49%
-|13.4%
-| style="background:#CCE6FF"| '''20.7%'''
-|13.2%
-|9%
-|8.2%
-|2.3%
-|2.2%
-|1.7%
-|13.6%
+|15.2%
+| style="background:#CCE6FF"| '''23.5%'''
+|15.0%
+|10.2%
+|9.4%
+|2.6%
+|2.5%
+|1.9%
+|15.5%
 |12%
 | —
 |4.2%
-| style="background:{{GERB/meta/color}}; color:white;" |7.1%
+| style="background:{{GERB/meta/color}}; color:white;" |8.0%
 |-
 |[https://sovaharris.com/%d0%b5%d0%bb%d0%b5%d0%ba%d1%82%d0%be%d1%80%d0%b0%d0%bb%d0%bd%d0%b8-%d0%b8-%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%b2-%d0%b1-3/ Sova Harris]
 | data-sort-value="2021-10-12" |5−12 Oct 2021
@@ -179,7 +181,7 @@
 |2.1%
 |2.9%
 |15.9%
-| —
+|10.6%
 | —
 |5.4%
 | style="background:{{GERB/meta/color}}; color:white;" |6.3%
@@ -206,19 +208,19 @@
 | data-sort-value="2021-09-20" |14−20 Sep 2021
 |1076
 |[57%–90%]
-|13.5%
-| style="background:#CCE6FF"| '''22.6%'''
-|14.5%
-|11.9%
-|9.8%
-|3.3%
-| —
-|3.2%
+|14.9%
+| style="background:#CCE6FF"| '''25.0%'''
+|16.0%
+|13.1%
 |10.8%
-|9.5%
+|3.6%
 | —
-|1.0%
-| style="background:{{GERB/meta/color}}; color:white;" |8.1%
+|3.5%
+|11.9%
+|10.5%
+| —
+|1.1%
+| style="background:{{GERB/meta/color}}; color:white;" |9.0%
 |-
 |[https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%81%d0%bf%d1%80%d1%8f%d0%bc%d0%be-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%b8%d1%82-7/ Trend]
 | data-sort-value="2021-09-15" |8–15 Sep 2021
@@ -242,19 +244,19 @@
 | data-sort-value="2021-09-15" |8−15 Sep 2021
 |1017
 |51.7%
-|16.9%
-| style="background:#CCE6FF"| '''21.1%'''
-|16.5%
-|13.2%
-|9.6%
-|4.1%
+|18.6%
+| style="background:#CCE6FF"| '''23.2%'''
+|18.1%
+|14.5%
+|10.5%
+|4.5%
 | —
-|3.5%
+|3.8%
 | —
-|8.9%
+|9.8%
 | —
-|6.2%
-| style="background:{{GERB/meta/color}}; color:white;" |4.2%
+|6.8%
+| style="background:{{GERB/meta/color}}; color:white;" |4.6%
 |-
 |[https://www.gallup-international.bg/44980/current-electoral-snapshot-3/ Gallup]
 | data-sort-value="2021-09-10" |2−10 Sep 2021
@@ -278,19 +280,19 @@
 | data-sort-value="2021-08-22" |13−22 Aug 2021
 |1055
 |[52%–90%]
-|15.7%
-| style="background:#CCE6FF"| '''21.6%'''
-|15.7%
-|16.5%
-|11%
-|4.5%
+|17.2%
+| style="background:#CCE6FF"| '''23.7%'''
+|17.2%
+|18.1%
+|12%
+|4.9%
 | —
-|4.3%
+|4.7%
 | —
-|8.7%
+|9.5%
 | —
-|2%
-| style="background:{{GERB/meta/color}}; color:white;" |5.1%
+|2.2%
+| style="background:{{GERB/meta/color}}; color:white;" |5.6%
 |-
 |[https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%81%d0%bf%d1%80%d1%8f%d0%bc%d0%be-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%b8%d1%82-6/ Trend]
 | data-sort-value="2021-07-30" |23–30 Jul 2021
@@ -314,19 +316,19 @@
 | data-sort-value="2021-07-28" |21–28 Jul 2021
 |1059
 |{{nowrap|[48%–88%]}}
-| style="background:#CCE6FF"| '''20.7%'''
-|18.1%
-|16.4%
-|15.7%
-|8.8%
-|4.9%
-| 1.9%{{Efn|name=bp}}
-|3.4%
+| style="background:#CCE6FF"| '''22.6%'''
+|19.8%
+|17.9%
+|17.2%
+|9.6%
+|5.4%
+|2.1%{{Efn|name=bp}}
+|3.7%
 | —
 |8.6%
 | —
-|1.3%
-| style="background:{{There_Are_Such_People/meta/color}}; color:white;" |2.6%
+|1.4%
+| style="background:{{There_Are_Such_People/meta/color}}; color:white;" |2.8%
 |- style="background:#D5D5D5;"
 |{{nowrap|[[July 2021 Bulgarian parliamentary election|July 2021 election]]}}
 | data-sort-value="2021-07-11" |11 Jul 2021
@@ -341,8 +343,7 @@
 |3.1%{{efn|Result of [[Bulgarian Patriots]]|name=bp|group=}}
 |3%
 | —
-|1.3%
-|1.3%
+|colspan="2"|1.3%
 |4.4%
 | style="background:{{There_Are_Such_People/meta/color}}; color:white;" |0.6%
 |}

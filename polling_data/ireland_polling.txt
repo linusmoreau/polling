@@ -27,6 +27,19 @@
 
 PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological order - latest first - but users can sort the table. In order to preserve the ability to sort by polling date, please include an entry for data-sort-value in front of the polling date. In order to preserve the ability to sort by polling company, please increment the relevant data-sort-value by one each time you add a new poll. So a new Behaviour & Attitudes poll would become "B&A14" if the last one was "B&A13". Please also wikilink the most recent poll (link goes to the publishing media outlet, piped to show the commissioning publisher and polling company) and please also unlink the prior poll from that company. If the above doesn't make sense to you, please do not make major changes. -->
 |-
+|data-sort-value="2021-10-22"|22 October 2021
+|data-sort-value="RedC12"|[[Business Post|Red C/Business Post]]<ref group="p">{{Cite tweet |author=Next Irish General Election |user=NextIrishGE |number=1452002772887408640  |title=Red C / Sunday Business Post }}</ref>
+|?
+|style="background:#D7ECEA"|'''33'''
+|12
+|25
+|4
+|5
+|6
+|3
+|2
+|10
+|-
 |data-sort-value="2021-10-16"|16 October 2021
 |data-sort-value="ITMos15"|[[Irish Daily Mail|Ireland Thinks/Irish Mail on Sunday]]<ref group="p">{{Cite web|date=17 October 2021|title=Ireland Elects|url=https://twitter.com/ToghannEire/status/1449516086286815233|url-status=live|access-date=19 October 2021|website=Twitter|language=en}}</ref>
 |1,200
@@ -80,7 +93,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 | – <ref group="nb" name="absent">Not specifically mentioned in the report.</ref>
 |-
 |data-sort-value="2021-09-09"|9 September 2021
-|data-sort-value="RedC11"|[[Business Post|Red C/Business Post]]<ref group="p">{{Cite tweet |author=Next Irish General Election |user=NextIrishGE |number=1436797590461423619  |title=Red C / Sunday Business Post }}</ref>
+|data-sort-value="RedC11"|Red C/Business Post<ref group="p">{{Cite tweet |author=Next Irish General Election |user=NextIrishGE |number=1436797590461423619  |title=Red C / Sunday Business Post }}</ref>
 |1,031
 |style="background:#D7ECEA"|'''29'''
 |13

@@ -92,7 +92,7 @@
 | 12
 | 6
 | 7
-| bgcolor="#2A58A6" style="color:white" | '''21'''
+| bgcolor="#84A0CE" | '''21'''
 | 27
 |-
 | 6-8 Oct 2021

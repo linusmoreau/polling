@@ -332,11 +332,17 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
             m = temp[-2 - shift]
             d = temp[-3 - shift]
             temp = d + ' ' + m + ' ' + y
-        elif choice in ['Ireland', 'Norway'] and ('dts' in line or 'opdrts' in line):
+        elif choice == 'Norway' and ('dts' in line or 'opdrts' in line):
             temp = line.strip('}|').split('|')
             y = temp[-1]
             m = temp[-2]
             d = temp[-3]
+            temp = d + ' ' + m + ' ' + y
+        elif choice == 'Ireland' and 'dts' in line:
+            temp = line.strip('}|').split('|')
+            d = temp[-1]
+            m = temp[-2]
+            y = temp[-3]
             temp = d + ' ' + m + ' ' + y
         else:
             if '{{efn' in line:
@@ -689,7 +695,7 @@ def filter_trails(dat):
 
 
 class GraphPage:
-    spread = 60
+    spread = 120
     high_res = 3
     low_res = 21
 

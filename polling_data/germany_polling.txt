@@ -21,6 +21,19 @@
 ! style="background:{{Alternative for Germany/meta/color}};"|
 ! style="background:{{The Left (Germany)/meta/color}};"|
 |-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|18|22|Oct|2021|year}}
+| 1,205
+| –
+| {{Party shading/SPD}}| '''27'''
+| 20
+| 17
+| 14
+| 11
+| 4
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
+|-
 | [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-mehrheit-wuenscht-sich-steinmeiers-wiederwahl-als-bundespraesident-a-106857de-de60-419b-bf6d-7a107c30b415 Civey]
 | {{opdrts|13|20|Oct|2021|year}}
 | 10,028
@@ -33,6 +46,19 @@
 | 6
 | 8
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| {{opdrts|13|19|Oct|2021|year}}
+| 1,424
+| –
+| {{Party shading/SPD}}| '''25'''
+| 21
+| 16
+| 13
+| 11
+| 5
+| 9
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|15|18|Oct|2021|year}}

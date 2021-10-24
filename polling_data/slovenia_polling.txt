@@ -43,6 +43,54 @@ Poll results are listed in the table in reverse chronological order, showing the
 ! class="unsortable" style="background: #81d742; width:30px"|
 ! class="unsortable" style="background: #6ab32e; width:30px"|
 |-
+|data-sort-value="2021-10-15"|12–15 Oct 2021
+|Parsifal
+|[[Nova24TV]]
+|707
+| style="background:#FFFFBF" |'''20.7'''
+|6.3
+|10.7
+|0.9
+|6.3
+|3.1
+|3.3
+|3.0
+|2.7
+|3.1{{efn|name=PoS}}
+|0.9
+|0.5
+|{{efn|name=PoS}}
+|5.3{{efn|[[Our Country (Slovenia)|Our Country]] 1.7%, [[Green Actions]] 1.0%}}
+|6.7
+|17.3
+|9.2
+|style="background:{{Slovenian Democratic Party/meta/color}}"|10.0
+|<ref>{{Cite web|date=2021-10-18|title=Anketa: SDS še vedno močno vodi, KUL za večino ni alternativa vladi|url=http://novice.najdi.si/predogled/novica/c0435d26f4c961323117a054a3e65f9e/Moje-Posavje/Dolenjska-in-Posavje/Anketa-SDS-%C5%A1e-vedno-mo%C4%8Dno-vodi-KUL-za-ve%C4%8Dino-ni-alternativa-vladi|access-date=2021-10-23|language=sl-SI}}</ref>
+|-
+|data-sort-value="2021-10-14"|12–14 Oct 2021
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|700
+|style="background:#FFFFBF" |'''16.8'''
+|6.3
+|14.0
+|0.5
+|8.6
+|5.3
+|5.1
+|1.1
+|1.2
+|1.8
+|–
+|–
+|–
+|–
+|–
+|30.4
+|8.1
+|style="background:{{Slovenian Democratic Party/meta/color}}" |2.8
+|<ref>{{Cite web|title=Javno mnenje: SDS še naprej z največjo podporo, sledijo SD, Levica in LMŠ|url=https://www.rtvslo.si/slovenija/javno-mnenje-sds-se-naprej-z-najvecjo-podporo-sledijo-sd-levica-in-lms/597973|access-date=2021-10-23|language=sl-SI}}</ref>
+|-
 |data-sort-value="2021-10-07"|4–7 Oct 2021
 |Mediana
 | [[Delo (newspaper)|''Delo'']]
