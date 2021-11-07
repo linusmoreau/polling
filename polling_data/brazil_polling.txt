@@ -12,7 +12,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! class="unsortable" style="width:50px;"|[[João Doria|Doria]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
 ! class="unsortable" style="width:50px;"|[[Eduardo Leite|Leite]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
 ! class="unsortable" style="width:50px;"|[[Luiz Henrique Mandetta|Mandetta]]<br>{{small|[[Brazil Union|UNIÃO]]}}
-! class="unsortable" style="width:50px;"|[[José Luiz Datena|Datena]]<br>{{small|[[Brazil Union|UNIÃO]]}}
+! class="unsortable" style="width:50px;"|[[José Luiz Datena|Datena]]<br>{{small|[[Social Democratic Party (Brazil, 2011)|PSD]]}}
 ! class="unsortable" style="width:50px;"|[[Rodrigo Pacheco (politician)|Pacheco]]<br>{{small|[[Social Democratic Party (Brazil, 2011)|PSD]]}}
 ! class="unsortable" style="width:50px;"|[[Sérgio Moro|Moro]]<br>{{small|[[Podemos (Brazil)|PODE]]}}
 ! rowspan="2" class="unsortable"| Others
@@ -23,19 +23,77 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! data-sort-type="number" class="sortable" style="background:#CC0000;"|
 ! data-sort-type="number" class="sortable" style="background:#EE161F;"|
 ! data-sort-type="number" class="sortable" colspan="2" style="background:#0080FF;"|
-! data-sort-type="number" class="sortable" colspan="2" style="background:#0FC0E6;"|
-! data-sort-type="number" class="sortable" style="background:#FFA500;"|
+! data-sort-type="number" class="sortable" style="background:#0FC0E6;"|
+! data-sort-type="number" class="sortable" colspan="2" style="background:#FFA500;"|
 ! data-sort-type="number" class="sortable" style="background:#2DA933;"|
 |-
-| style="border-right-style:hidden;"|
-| style="border-right-style:hidden;"|
-| style="border-right-style:hidden;" {{opdrts||23|Oct|2021}}
-| colspan="14" align="center" style="font-weight:bold;" |PSD confirm candidacy of [[Rodrigo Pacheco (politician)|Pacheco]].<ref>{{cite web|url=https://noticias.r7.com/brasilia/kassab-confirma-pacheco-candidato-do-psd-a-presidencia-em-2022-23102021|title=Kassab confirma Pacheco candidato do PSD à Presidência em 2022|website=R7|language=pt|first=Augusto|last=Fernandes|date=23 October 2021|accessdate=23 October 2021}}</ref>
+|rowspan="2"|[https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2021/11/03/lula-lidera-disputa-presidencial-mas-para-de-crescer-mostra-pesquisa-xpipespe.ghtml ''XP/Ipespe'']
+|rowspan="2"|25–28 Oct
+|rowspan="2"|1,000
+|28%
+|style="background:#ffb7b7;"| '''42%'''
+|11%
+|4%
+|–
+|3%
+|–
+|2%
+|–
+|–
+|10%
+|style="background:#cc0000;color:#ffffff;"| 14%
 |-
-| style="border-right-style:hidden;"|
-| style="border-right-style:hidden;"|
+|25%
+|style="background:#ffb7b7;"| '''41%'''
+|9%
+|–
+|3%
+|3%
+|3%
+|2%
+|8%
+|1%
+|5%
+|style="background:#cc0000;color:#ffffff;"| 16%
+|-
+|rowspan="2"|[https://www.poder360.com.br/poderdata/poderdata-moro-volta-pontua-de-7-a-8-e-desidrata-nomes-da-3a-via/ ''PoderData'']
+|rowspan="2"|25–27 Oct
+|rowspan="2"|2,500
+|28%
+|style="background:#ffb7b7;"| '''35%'''
+|5%
+|4%
+|–
+|4%
+|3%
+|1%
+|8%
+|3%
+|9%
+|style="background:#cc0000;color:#ffffff;"| 7%
+|-
+|30%
+|style="background:#ffb7b7;"| '''34%'''
+|7%
+|–
+|3%
+|4%
+|4%
+|1%
+|7%
+|3%
+|7%
+|style="background:#cc0000;color:#ffffff;"| 4%
+|-
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" {{opdrts||23|Oct|2021}}
+| colspan="12" style="font-weight:bold;" align="center" |PSD confirms the candidacy of [[Rodrigo Pacheco (politician)|Pacheco]].<ref>{{cite web|url=https://noticias.r7.com/brasilia/kassab-confirma-pacheco-candidato-do-psd-a-presidencia-em-2022-23102021|title=Kassab confirma Pacheco candidato do PSD à Presidência em 2022|website=R7|language=pt|first=Augusto|last=Fernandes|date=23 October 2021|accessdate=23 October 2021}}</ref>
+|-
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" {{opdrts||22|Oct|2021}}
-| colspan="14" align="center" style="font-weight:bold;" |Former judge and Justice minister [[Sergio Moro|Moro]] confirm candidacy.<ref>{{cite web|url=https://blogs.oglobo.globo.com/bela-megale/post/moro-bate-martelo-sobre-eleicoes-e-podemos-marcar-evento-de-filiacao-do-ex-juiz.html|title=Moro bate martelo sobre eleições e Podemos marca evento de filiação do ex-juiz|website=O Globo|language=pt|first=Bela|last=Megale|date=22 October 2021|accessdate=22 October 2021}}</ref>
+| colspan="12" style="font-weight:bold;" align="center" |Former Judge and Justice Minister [[Sergio Moro|Moro]] confirms candidacy.<ref>{{cite web|url=https://blogs.oglobo.globo.com/bela-megale/post/moro-bate-martelo-sobre-eleicoes-e-podemos-marcar-evento-de-filiacao-do-ex-juiz.html|title=Moro bate martelo sobre eleições e Podemos marca evento de filiação do ex-juiz|website=O Globo|language=pt|first=Bela|last=Megale|date=22 October 2021|accessdate=22 October 2021}}</ref>
 |-
 |rowspan="3"|[https://www.oantagonista.com/brasil/quaest-genial-55-dos-eleitores-nao-sabem-em-quem-votar-para-presidente/ ''Quaest/Genial'']
 |rowspan="3"|30 Sept–3 Oct
@@ -317,7 +375,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;" {{opdrts||5|Aug|2021}}
-| colspan="14" align="center" style="font-weight:bold;" |Rio Grande do Sul state governor [[Eduardo Leite|Leite]] and Senate president [[Rodrigo Pacheco (politician)|Pacheco]] in pre-candidacy campaign.<ref>{{cite news |last= |first= |date= |title=Alckmin e Eduardo Leite discutem em SP acordo anti-Doria no PSDB|url=https://www.cnnbrasil.com.br/politica/2021/08/05/alckmin-e-eduardo-leite-discutem-em-sp-acordo-anti-doria-no-psdb|work=CNN|location= |access-date=5 August 2021}}</ref><ref>{{cite news |last= |first= |date= |title=Pacheco se aproxima do PSD e deve disputar Planalto em 2022|url=https://www.poder360.com.br/eleicoes/pacheco-se-aproxima-do-psd-e-deve-disputar-planalto-em-2022/|work=Poder 360|location= |access-date=5 August 2021}}</ref>
+| colspan="12" style="font-weight:bold;" align="center" |Governor of Rio Grande do Sul [[Eduardo Leite|Leite]] and President of the Federal Senate [[Rodrigo Pacheco (politician)|Pacheco]] announce their respective pre-candidacies.<ref>{{cite news |last= |first= |date= |title=Alckmin e Eduardo Leite discutem em SP acordo anti-Doria no PSDB|url=https://www.cnnbrasil.com.br/politica/2021/08/05/alckmin-e-eduardo-leite-discutem-em-sp-acordo-anti-doria-no-psdb|work=CNN|location= |access-date=5 August 2021}}</ref><ref>{{cite news |last= |first= |date= |title=Pacheco se aproxima do PSD e deve disputar Planalto em 2022|url=https://www.poder360.com.br/eleicoes/pacheco-se-aproxima-do-psd-e-deve-disputar-planalto-em-2022/|work=Poder 360|location= |access-date=5 August 2021}}</ref>
 |-
 |[https://www.poder360.com.br/poderdata/poderdata-lula-lidera-corrida-para-2022-com-39-bolsonaro-tem-25/ ''PoderData'']
 |2–4 Aug
@@ -338,7 +396,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;" {{opdrts||3|Aug|2021}}
-| colspan="14" align="center" style="font-weight:bold;" |TV presenter [[José Luiz Datena|Datena]] announces candidacy.<ref>{{cite news |last= |first= |date= |title=Datena descarta vice em chapas de Ciro ou Bolsonaro: Sou candidato à Presidência |url=https://www.band.uol.com.br/noticias/brasil-urgente/ultimas/datena-descarta-vice-em-chapa-com-ciro-sou-candidato-a-presidencia-16363546|work=Band |location= |access-date=3 August 2021}}</ref>
+| colspan="12" style="font-weight:bold;" align="center" |TV presenter [[José Luiz Datena|Datena]] announces candidacy.<ref>{{cite news |last= |first= |date= |title=Datena descarta vice em chapas de Ciro ou Bolsonaro: Sou candidato à Presidência |url=https://www.band.uol.com.br/noticias/brasil-urgente/ultimas/datena-descarta-vice-em-chapa-com-ciro-sou-candidato-a-presidencia-16363546|work=Band |location= |access-date=3 August 2021}}</ref>
 |-
 |rowspan="2"|[https://valor.globo.com/politica/noticia/2021/08/04/lula-tem-46-pontos-percentuais-contra-29-para-bolsonaro-e-12-para-ciro-mostra-pesquisa-genialquaest.ghtml ''Quaest/Genial'']
 |rowspan="2"|29 July–1 Aug
@@ -429,24 +487,10 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |2%
 |13%
 |style="background:#cc0000;color:#ffffff;"| 8%
-|- style="background:#E9E9E9;"
-|[[2018 Brazilian general election|'''2018 general election''']]
-|7 Oct
-|−
-| style="background:#b2d1ea;" |'''46.03%'''
-|'''29.28%'''
-|12.47%
-|colspan="2"|4.76%
-|colspan="2"|−
-|−
-|−
-|3.38%
-|−
-| style="background:#0067bc;color:#ffffff;" |16.75%
 |}
 
 =====Before July-August=====
-{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+{| class="wikitable" style="text-align:center;font-size:80%;line-height:14px;"
 ! rowspan="2"| Pollster/client(s)
 ! rowspan="2"| Fieldwork<br>date(s)
 ! rowspan="2" data-sort-type="number"| Sample<br>size
@@ -1008,7 +1052,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |}
 
 ====2020====
-{| class="wikitable sortable" style="text-align:center;font-size:85%;line-height:14px;"
+{| class="wikitable sortable" style="text-align:center;font-size:80%;line-height:14px;"
 ! rowspan="2"| Pollster/client(s)
 ! rowspan="2"| Fieldwork<br>date(s)
 ! rowspan="2" data-sort-type="number"| Sample<br>size

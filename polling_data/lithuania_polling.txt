@@ -7,7 +7,7 @@ The following are opinion polls conducted for the legislative elections, measuri
 ! class="unsortable" |[[Lithuanian Farmers and Greens Union|LVŽS]]
 ! class="unsortable" |[[Labour Party (Lithuania)|DP]]  
 ! class="unsortable" |[[Social Democratic Party of Lithuania|LSDP]]
-! class="unsortable" |[[Freedom Party (Lithuania)|Laisves]]
+! class="unsortable" |[[Freedom Party (Lithuania)|LP]]
 ! class="unsortable" |[[Liberal Movement (Lithuania)|LRLS]]
 ! class="unsortable" |[[Electoral Action of Poles in Lithuania – Christian Families Alliance|LLRA]]
 ! class="unsortable" |[[Lithuanian Regions Party|LRP]]
@@ -25,6 +25,20 @@ The following are opinion polls conducted for the legislative elections, measuri
 | style="background:{{Lithuanian Regions Party/meta/color}}" <!-- LRP --> |
 | style="background:#009C3D" <!-- Centre Party -->|
 | style="background:{{Freedom and Justice/meta/color}}" <!-- Freedom and Justice --> |
+|-
+|[https://www.delfi.lt/news/daily/lithuania/naujausi-partiju-reitingai-tarp-geriausiai-vertinamu-vel-socialdemokratai.d?id=88563939 Vilmorus]
+|15–22 October 2021
+|<!-- TS-KD --> |'''16.7'''
+|<!-- Lithuanian Farmers and Greens Union -->|'''16.1'''
+|<!-- Labour Party --> |'''9.8'''
+|style="background:#E10514" <!-- Social Democratic Party of Lithuania --> |'''28.9'''
+|<!-- Laisves--> |4.6
+|<!-- LRLS--> |'''10.8'''
+|<!-- Electoral Action of Poles in Lithuania--> |2.2
+|<!-- LSDDP--> |'''5.2'''
+|<!-- Lithuanian Centre Party--> |-
+|<!-- Freedom and Justice --> |-
+|style="background:#E10514" |12.2
 |-
 |[https://m.delfi.lt/lietuvoje/article.php?id=88494695&amp=1&id=88494695&__twitter_impression=true Baltijos tyrimai]
 |17 September – 3 October 2021

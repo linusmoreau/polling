@@ -28,6 +28,71 @@
 ! style="background:{{Conservative Party of Norway (2020)/meta/color}};"|
 ! style="background:{{Progress Party (Norway)/meta/color}};"|
 |-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4544 Norfakta]
+|{{opdrts|2|3|Nov|2021}}
+|–
+|–
+|4.6
+|8.2
+|4.1
+|style="background:#F7BDC5;"|'''27.9'''
+|12.7
+|4.7
+|3.3
+|21.7
+|10.0
+|2.8
+|style="background:{{Labour Party (Norway)/meta/color}};color:#FFFFFF;"|6.5
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4542 Kantar TNS]
+|{{opdrts||2|Nov|2021}}
+|–
+|–
+|5.3
+|8.6
+|3.7
+|style="background:#F7BDC5;"|'''26.8'''
+|12.0
+|4.3
+|3.2
+|21.4
+|11.5
+|3.2
+|style="background:{{Labour Party (Norway)/meta/color}};color:#FFFFFF;"|5.4
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4543 Norstat]
+|{{opdrts|26|31|Oct|2021}}
+|954
+|–
+|5.9
+|8.2
+|4.2
+|style="background:#F7BDC5;"|'''26.8'''
+|14.0
+|4.4
+|3.0
+|21.2
+|9.8
+|2.5
+|style="background:{{Labour Party (Norway)/meta/color}};color:#FFFFFF;"|5.6
+|-
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4541 Norstat]
+|{{opdrts|19|24|Oct|2021}}
+|953
+|–
+|4.7
+|8.9
+|3.2
+|style="background:#F7BDC5;"|'''28.0'''
+|13.2
+|4.7
+|3.1
+|21.1
+|11.0
+|2.2
+|style="background:{{Labour Party (Norway)/meta/color}};color:#FFFFFF;"|6.9
+|-
 |[http://www.pollofpolls.no/?cmd=Maling&gallupid=4540 Sentio]
 |{{opdrts|11|19|Oct|2021}}
 |1,000

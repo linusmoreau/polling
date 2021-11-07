@@ -1,28 +1,28 @@
 === 2021 ===
-{| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
 |-
 ! rowspan="2"| Polling<br/>firm
 ! rowspan="2"| Fieldwork<br/>date
 ! rowspan="2"| Sample<br/>size
-! class="unsortable" style="width:40px;" | [[Social Democrats (Denmark)|A]]
-! class="unsortable" style="width:40px;" | [[Venstre (Denmark)|V]]
-! class="unsortable" style="width:40px;" | [[Danish People's Party|O]]
-! class="unsortable" style="width:40px;" | [[Danish Social Liberal Party|B]]
-! class="unsortable" style="width:40px;" | [[Socialist People's Party (Denmark)|F]]
-! class="unsortable" style="width:40px;"| [[Red–Green Alliance (Denmark)|Ø]]
-! class="unsortable" style="width:40px;"| [[The Conservative People's Party (Denmark)|C]]
-! class="unsortable" style="width:40px;" | [[The Alternative (Denmark)|Å]]
-! class="unsortable" style="width:40px;" | [[New Right (Denmark)|D]]
-! class="unsortable" style="width:40px;"| [[Liberal Alliance (Denmark)|I]]
-! class="unsortable" style="width:40px;" | [[Hard Line (political party)|P]]
-! class="unsortable" style="width:40px;"| [[Christian Democrats (Denmark)|K]]
-! class="unsortable" style="width:40px;" | [[The Citizen List|E]]
-! class="unsortable" style="width:40px;" | [[Vegan Party|G]]
-! class="unsortable" style="width:40px;" | [[Moderates (Denmark)|M]]<ref>Party letter not confirmed.</ref>  
-! class="unsortable" style="width:40px;" rowspan="2"| Others
+! class="unsortable" style="width:30px;" | [[Social Democrats (Denmark)|A]]
+! class="unsortable" style="width:30px;" | [[Venstre (Denmark)|V]]
+! class="unsortable" style="width:30px;" | [[Danish People's Party|O]]
+! class="unsortable" style="width:30px;" | [[Danish Social Liberal Party|B]]
+! class="unsortable" style="width:30px;" | [[Socialist People's Party (Denmark)|F]]
+! class="unsortable" style="width:30px;" | [[Red–Green Alliance (Denmark)|Ø]]
+! class="unsortable" style="width:30px;" | [[The Conservative People's Party (Denmark)|C]]
+! class="unsortable" style="width:30px;" | [[The Alternative (Denmark)|Å]]
+! class="unsortable" style="width:30px;" | [[New Right (Denmark)|D]]
+! class="unsortable" style="width:30px;" | [[Liberal Alliance (Denmark)|I]]
+! class="unsortable" style="width:30px;" | [[Hard Line (political party)|P]]
+! class="unsortable" style="width:30px;" | [[Christian Democrats (Denmark)|K]]
+! class="unsortable" style="width:30px;" | [[The Citizen List|E]]
+! class="unsortable" style="width:30px;" | [[Vegan Party|G]]
+! class="unsortable" style="width:30px;" | [[Moderates (Denmark)|M]]{{efn|Party letter not confirmed.}}  
+! class="unsortable" style="width:30px;" rowspan="2"| Others
 ! rowspan="2"| Lead
-! class="unsortable" style="width:40px;"| {{H:title|A, B, F, Ø, Å and G|Red}}
-! class="unsortable" style="width:40px;"| {{H:title|V, O, C, D, I, P, K, E,|Blue}}
+! class="unsortable" style="width:30px;"| {{H:title|A, B, F, Ø, Å and G|Red}}
+! class="unsortable" style="width:30px;"| {{H:title|V, O, C, D, I, P, K, E,|Blue}}
 ! style="width:30px;" rowspan="2"| Lead
 |-
 ! data-sort-type="number" style="background:{{Social Democrats (Denmark)/meta/color}};" |
@@ -42,6 +42,102 @@
 ! data-sort-type="number" style="background:{{Moderates (Denmark)/meta/color}};" | 
 ! data-sort-type="number" style="background:{{Social Democrats (Denmark)/meta/color}};"|
 ! data-sort-type="number" style="background:{{Venstre (Denmark)/meta/color}};"|
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-31-10-2021.pdf Voxmeter]
+|25–31 Oct 2021
+|1,001
+| style="background:#FACECD;" |'''26.8'''
+|14.6
+|6.4
+|5.9
+|7.2
+|8.6
+|15.0
+|0.6
+|7.1
+|3.3
+| –
+|1.4
+| –
+|0.0
+| –
+|3.1
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |11.8
+| style="background:#FACECD;" |'''49.1'''
+|47.8
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |1.3
+|-
+|[https://nyheder.tv2.dk/politik/2021-10-29-ny-spaending-i-dansk-politik-nu-er-der-doedt-loeb-mellem-roed-og-blaa-blok Megafon]
+|25–28 Oct 2021
+|1,034
+| style="background:#FACECD;" |'''23.3'''
+|15.0
+|5.3
+|6.4
+|8.9
+|8.5
+|17.2
+|0.6
+|7.8
+|2.7
+| –
+|1.3
+| –
+|0.4
+| –
+|2.6
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |6.1
+|48.1
+| style="background:#25587E; color:white"|'''49.3'''
+| style="background:{{Venstre (Denmark)/meta/color}};color:#FFFFFF;" |2.2
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-24-10-2021.pdf Voxmeter]
+|18–24 Oct 2021
+|1,003
+| style="background:#FACECD;" |'''27.1'''
+|14.3
+|6.9
+|5.3
+|7.8
+|8.1
+|13.9
+|0.6
+|6.6
+|4.2
+| –
+|1.2
+| –
+|0.4
+| –
+|3.6
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |12.8
+| style="background:#FACECD;" |'''49.3'''
+|47.1
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |2.2
+|-
+|[https://www.altinget.dk/artikel/ny-maaling-ingen-nye-doenninger-i-vaelgerhavet Epinion]
+|14–21 Oct 2021
+|1,634
+| style="background:#FACECD;" |'''28.0'''
+|15.9
+|5.9
+|6.0
+|8.0
+|8.0
+|13.5
+|1.4
+|5.8
+|2.9
+| –
+|1.5
+| –
+|0.7
+| –
+|2.4
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |12.1
+| style="background:#FACECD;" |'''52.1'''
+|45.5
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |6.6
 |-
 |[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-17-10-2021.pdf Voxmeter]
 |11–17 Oct 2021
@@ -66,6 +162,30 @@
 | style="background:#FACECD;" |'''51.3'''
 |45.0
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |6.3
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-10-10-2021.pdf Voxmeter]
+|4–11 Oct 2021
+|1,013
+| style="background:#FACECD;" |'''28.7'''
+|14.5
+|6.0
+|5.3
+|7.6
+|8.3
+|13.8
+|0.6
+|7.6
+|3.2
+| –
+|1.4
+| –
+|0.0
+| –
+|2.0
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |14.2
+| style="background:#FACECD;" |'''51.3'''
+|46.7
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |4.6
 |-
 |[https://www.berlingske.dk/politik/ny-maaling-har-for-foerste-gang-tal-for-loekkes-nye-parti-saa-mange Gallup]
 |3 Oct 2021
@@ -115,6 +235,30 @@
 |46.1
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |4.6
 |-
+|-
+|[https://www.dr.dk/nyheder/politik/meningsmaalinger Epinion]
+|21-29 Sep 2021
+|1,551
+| style="background:#FACECD;" |'''27.6'''
+|14.4
+|6.2
+|5.6
+|9.2
+|7.8
+|14.5
+|1.0
+|5.6
+|2.8
+| –
+|0.9
+| –
+|1.3
+| –
+| –
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |12.1
+| style="background:#FACECD;" |'''52.5'''
+|44.4
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |8.1
 |-
 |[https://www.bt.dk/politik/loekke-i-vildt-comeback-stormer-ind-i-folketinget YouGov]
 |17–20 Sep 2021

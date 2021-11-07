@@ -19,7 +19,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="width:35px;"| [[Basque Nationalist Party|PNV]]
 ! style="width:35px;"| [[File:EHB.png|28px|link=EH Bildu]]
 ! style="width:35px;"| [[File:CUP.svg|27px|link=Popular Unity Candidacy|CUP]]
-! style="width:35px;"| [[File:Logo compacto Coalición Canaria-Nueva Canarias 2019.svg|32px|link=Canarian Coalition|CC–NCa]]
+! style="width:35px;"| [[File:Logo compacto Coalición Canaria-Nueva Canarias 2019.svg|32px|link=Canarian Coalition–New Canaries|CC–NCa]]
 ! style="width:35px;"| [[File:BNG logo.svg|30px|link=Galician Nationalist Bloc|BNG]]
 ! style="width:35px;"| [[File:Logo Navarra Suma.png|30px|link=Navarra Suma|NA+]]
 ! style="width:35px;"| [[Regionalist Party of Cantabria|PRC]]
@@ -36,12 +36,138 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Basque Nationalist Party/meta/color}};"|
 ! style="background:{{EH Bildu/meta/color}};"|
 ! style="background:{{Popular Unity Candidacy/meta/color}};"|
-! style="background:{{Canarian Coalition/meta/color}};"|
+! style="background:{{Canarian Coalition–New Canaries/meta/color}};"|
 ! style="background:{{Galician Nationalist Bloc/meta/color}};"|
 ! style="background:{{Navarra Suma/meta/color}};"|
 ! style="background:{{Regionalist Party of Cantabria/meta/color}};"|
 |-
-| ElectoPanel/Electomanía<ref>{{Cite web|title=ElectoPanel (23O): subida de Vox, que supera el 17%|url=https://electomania.es/ep24o21/|url-status=live|work=Electomanía |date=23 October 2021}}</ref>
+| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP ganaría las elecciones generales con el 28,2% de los apoyos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-ganaria-elecciones-generales-282-apoyos_202111076187d61077bc8000019ce670.html |language=es |work=laSexta |date=7 November 2021}}</ref>
+| 1–5 Nov 2021
+|?
+|?
+| 26.0
+| {{Party shading/PP}}| '''28.2'''
+| 16.9
+| 8.7
+| 1.5
+| –
+| 4.5
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.2
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (7N): UP sigue al alza, el PP pierde apoyos |url=https://electomania.es/ep7n21/ |language=es |work=Electomanía |date=7 November 2021}}</ref>
+| 29 Oct–4 Nov 2021
+| 1,479
+|?
+| 25.4<br/>{{font|size=75%|font=Verdana|text=99}}
+| {{Party shading/PP}}| '''27.3'''<br/>{{font|size=75%|font=Verdana|text=116}}
+| 17.4<br/>{{font|size=75%|font=Verdana|text=58}}
+| 11.2<br/>{{font|size=75%|font=Verdana|text=27}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=14}}
+| 2.8<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.9
+|-
+| SW Demoscopia<ref name="SWOct21">{{cite web |title=Barómetro SW España octubre 2021 |url=http://swdemoscopia.com/2021/10/30/barometro-sw-demoscopia-espana-octubre-2021/ |language=es |work=SW Demoscopia |date=30 October 2021}}</ref>
+| 20–30 Oct 2021
+| 1,203
+|?
+| 25.3<br/>{{font|size=75%|font=Verdana|text=102/108}}
+| {{Party shading/PP}}| '''25.5'''<br/>{{font|size=75%|font=Verdana|text=104/110}}
+| 17.9<br/>{{font|size=75%|font=Verdana|text=55/62}}
+| 11.2<br/>{{font|size=75%|font=Verdana|text=26/33}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=0/3}}
+| 3.6<br/>{{font|size=75%|font=Verdana|text=?}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=2/6}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=?}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=?}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=?}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=?}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=?}}
+| –
+| 0.4<br/>{{font|size=75%|font=Verdana|text=?}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=?}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.2
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=EP (31O): subida de Unidas Podemos, el PSOE por debajo de los 100 escaños |url=https://electomania.es/ep31o21/ |language=es |work=Electomanía |date=31 October 2021}}</ref>
+| 22–29 Oct 2021
+| 1,228
+|?
+| 25.5<br/>{{font|size=75%|font=Verdana|text=98}}
+| {{Party shading/PP}}| '''27.7'''<br/>{{font|size=75%|font=Verdana|text=117}}
+| 17.3<br/>{{font|size=75%|font=Verdana|text=58}}
+| 10.8<br/>{{font|size=75%|font=Verdana|text=27}}
+| 2.9<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.9<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.2
+|-
+| DYM/Henneo<ref>{{cite web |title=Sondeo DYM: El PP toma impulso y deja al PSOE por debajo de los 100 escaños |url=https://www.diariodesevilla.es/espana/sondeo-DYM-PP-impulso-PSOE-debajo_0_1623438470.html |language=es |work=Diario de Sevilla |date=27 October 2021}}</ref>
+| 20–24 Oct 2021
+| 1,000
+|?
+| 24.7<br/>{{font|size=75%|font=Verdana|text=96/100}}
+| {{Party shading/PP}}| '''29.2'''<br/>{{font|size=75%|font=Verdana|text=124/129}}
+| 14.6<br/>{{font|size=75%|font=Verdana|text=46/50}}
+| 13.2<br/>{{font|size=75%|font=Verdana|text=31/34}}
+| 3.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| –
+| 2.2<br/>{{font|size=75%|font=Verdana|text=2/3}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.5
+|-
+| Celeste-Tel/Onda Cero<ref>{{cite web |title=Encuestas electorales: El PP ganaría las elecciones y la derecha desbancaría a Sánchez de La Moncloa |url=https://www.ondacero.es/noticias/espana/encuestas-electorales-ganaria-elecciones-derecha-desbancaria-sanchez-moncloa_20211028617a83dfed0d1f0001646cf3.html |language=es |work=Onda Cero |date=28 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta Celeste-Tel 28/10/2021: UP-ECP-EC 10,0% (25), MÁS PAÍS-EQUO 4,1% (5), PSOE 26,4% (103), Cs 3,4% (2), PP 28,9% (123), VOX 15,1% (50) |url=https://www.electograph.com/2021/10/encuesta-onda-cero-211028.html |language=es |work=Electgraph |date=28 October 2021}}</ref>
+| 18–22 Oct 2021
+| 1,100
+|?
+| 26.4<br/>{{font|size=75%|font=Verdana|text=103}}
+| {{Party shading/PP}}| '''28.9'''<br/>{{font|size=75%|font=Verdana|text=123}}
+| 15.1<br/>{{font|size=75%|font=Verdana|text=50}}
+| 10.0<br/>{{font|size=75%|font=Verdana|text=25}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 3.2<br/>{{font|size=75%|font=Verdana|text=13}}
+| 4.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.5
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (23O): subida de Vox, que supera el 17% |url=https://electomania.es/ep24o21/ |language=es |work=Electomanía |date=23 October 2021}}</ref>
 | 15–22 Oct 2021
 | 1,822
 |?
@@ -61,6 +187,69 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.1
+|-
+| IMOP/El Confidencial<ref>{{cite web |title=Casado arrebata medio millón de votos a Sánchez y frena en seco a Vox|url=https://www.elconfidencial.com/espana/observatorio-electoral/2021-10-27/casado-arrebata-medio-millon-votos-sanchez-observatorio-electoral_3313617/ |language=es |work=El Confidencial |date=27 October 2021}}</ref>
+| 11–22 Oct 2021
+| 1,338
+|?
+| 25.8<br/>{{font|size=75%|font=Verdana|text=101}}
+| {{Party shading/PP}}| '''28.0'''<br/>{{font|size=75%|font=Verdana|text=120}}
+| 15.9<br/>{{font|size=75%|font=Verdana|text=52}}
+| 11.0<br/>{{font|size=75%|font=Verdana|text=28}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.2<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.5<br/>{{font|size=75%|font=Verdana|text=4}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=5}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=3}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=3}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.2
+|-
+| Sigma Dos/El Mundo<ref>{{cite web |title=Casado consolida su mayoría y Sánchez se estanca ante la irrupción de Yolanda Díaz |url=https://www.elmundo.es/espana/encuestas/2021/10/24/61758fabfc6c83642f8b45e7.html |language=es |work=El Mundo |date=24 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta SigmaDos 25/10/2021: UP-ECP-EC 10,9% (25), MÁS PAÍS-EQUO 3,1% (7), PSOE 25,5% (99), Cs 3,1% (1), PP 28,9% (129), VOX 15,0% (47) |url=https://www.electograph.com/2021/10/encuesta-sigmados-211025.html |language=es |work=Sigma Dos |date=24 October 2021}}</ref>
+| 19–21 Oct 2021
+| 1,928
+|?
+| 25.5<br/>{{font|size=75%|font=Verdana|text=99}}
+| {{Party shading/PP}}| '''28.9'''<br/>{{font|size=75%|font=Verdana|text=129}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=47}}
+| 10.9<br/>{{font|size=75%|font=Verdana|text=25}}
+| 3.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.1<br/>{{font|size=75%|font=Verdana|text=12}}
+| 3.1<br/>{{font|size=75%|font=Verdana|text=7}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=7}}
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.4
+|-
+| KeyData/Público<ref>{{cite web |title=La convención del PP refuerza a Casado en las encuestas en un escenario muy complejo para conformar mayorías |url=https://www.publico.es/politica/convencion-pp-refuerza-casado-encuestas-escenario-complejo-conformar-mayorias.html |language=es |work=Público |date=24 October 2021}}</ref>
+| 20 Oct 2021
+|?
+| 65.6
+| 25.8<br/>{{font|size=75%|font=Verdana|text=103}}
+| {{Party shading/PP}}| '''28.2'''<br/>{{font|size=75%|font=Verdana|text=121}}
+| 15.7<br/>{{font|size=75%|font=Verdana|text=53}}
+| 10.4<br/>{{font|size=75%|font=Verdana|text=25}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.6<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.6<br/>{{font|size=75%|font=Verdana|text=5}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.4
 |-
 | NC Report/La Razón<ref>{{cite web |title=Casado podría gobernar en solitario con el apoyo de Vox |url=https://www.larazon.es/espana/20211018/3cyuuj6mg5drfnuhvoxyvv3vzq.html |language=es |work=NC Report |date=18 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 18/10/2021: UP-ECP-EC 9,6% (22/24), MÁS PAÍS-EQUO 3,2% (7), PSOE 25,4% (101/103), Cs 2,7% (1), PP 29,6% (127/129), VOX 15,1% (47/49) |url=https://www.electograph.com/2021/10/encuesta-nc-report-211018.html |language=es |work=Electograph |date=18 October 2021}}</ref>
 | 13–15 Oct 2021
@@ -124,6 +313,27 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.0
+|-
+| Simple Lógica<ref name="SLOct21">{{cite web |title=Intención de voto y valoración de líderes políticos (octubre 2021) |url=https://www.simplelogica.com/es/intencion-de-voto-y-valoracion-de-lideres-politicos-octubre-2021/ |language=es |work=Simple Lógica |date=25 October 2021}}</ref>
+| 30 Sep–15 Oct 2021
+| 1,056
+| 64.5
+| 23.8
+| {{Party shading/PP}}| '''25.5'''
+| 17.6
+| 12.4
+| 4.0
+| –
+| 2.3
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.7
 |-
 | GAD3/ABC<ref>{{cite web |title=El PP supera al PSOE por 3,4 puntos y suma mayoría absoluta con Vox 
  |url=https://www.abc.es/espana/abci-pp-supera-psoe-34-puntos-y-suma-mayoria-absoluta-202110170226_noticia.html |language=es |work=ABC |date=17 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta GAD3 17/10/2021: UP-ECP-EC 10,1% (24), MÁS PAÍS-EQUO 2,4% (3), PSOE 26,2% (103), Cs 2,8% (2), PP 29,2% (123), VOX 15,4% (51) |url=https://www.electograph.com/2021/10/encuesta-gad3-211017.html |language=es |work=Electograph |date=16 October 2021}}</ref>
@@ -314,6 +524,27 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.8
+|-
+| Ágora Integral<ref>{{cite web |title=El nacionalismo canario pierde fuerza de cara a las próximas elecciones generales |url=https://www.eldiario.es/canariasahora/politica/nacionalismo-pierde-fuerza-cara-proximas-elecciones-generales-coalicion-nueva-canarias_1_8358120.html |language=es |work=elDiario.es |date=3 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta Ágora Integral 03/10/2021: UP-ECP-EC 11,5% (30), MÁS PAÍS-EQUO 3,7% (5), PSOE 26,1% (103), Cs 3,2% (2), PP 26,3% (118), VOX 15,4% (54) |url=https://www.electograph.com/2021/10/espana-encuesta-agora-integral-03102021.html |language=es |work=Electogrpah |date=30 October 2021}}</ref>
+| 23–27 Sep 2021
+| 1,000
+| 61.9
+| 26.1<br/>{{font|size=75%|font=Verdana|text=103}}
+| {{Party shading/PP}}| '''26.3'''<br/>{{font|size=75%|font=Verdana|text=118}}
+| 15.4<br/>{{font|size=75%|font=Verdana|text=54}}
+| 11.5<br/>{{font|size=75%|font=Verdana|text=30}}
+| 3.2<br/>{{font|size=75%|font=Verdana|text=2}}
+| 3.5<br/>{{font|size=75%|font=Verdana|text=12}}
+| 3.7<br/>{{font|size=75%|font=Verdana|text=5}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=5}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| –
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.2
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (26S): PP y PSOE, empatados en votos y la gobernabilidad se complica más |url=https://electomania.es/ep26s21/ |language=es |work=Electomanía |date=26 September 2021}}</ref>
 | 17–24 Sep 2021
@@ -3056,7 +3287,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="width:35px;"| [[Basque Nationalist Party|PNV]]
 ! style="width:35px;"| [[File:EHB.png|28px|link=EH Bildu]]
 ! style="width:35px;"| [[File:CUP.svg|27px|link=Popular Unity Candidacy|CUP]]
-! style="width:35px;"| [[File:Logo compacto Coalición Canaria-Nueva Canarias 2019.svg|32px|link=Canarian Coalition|CC–NCa]]
+! style="width:35px;"| [[File:Logo compacto Coalición Canaria-Nueva Canarias 2019.svg|32px|link=Canarian Coalition–New Canaries|CC–NCa]]
 ! style="width:35px;"| [[File:BNG logo.svg|30px|link=Galician Nationalist Bloc|BNG]]
 ! style="width:35px;"| [[File:Logo Navarra Suma.png|30px|link=Navarra Suma|NA+]]
 ! style="width:35px;"| [[Regionalist Party of Cantabria|PRC]]
@@ -3073,7 +3304,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Basque Nationalist Party/meta/color}};"|
 ! style="background:{{EH Bildu/meta/color}};"|
 ! style="background:{{Popular Unity Candidacy/meta/color}};"|
-! style="background:{{Canarian Coalition/meta/color}};"|
+! style="background:{{Canarian Coalition–New Canaries/meta/color}};"|
 ! style="background:{{Galician Nationalist Bloc/meta/color}};"|
 ! style="background:{{Navarra Suma/meta/color}};"|
 ! style="background:{{Regionalist Party of Cantabria/meta/color}};"|
@@ -6880,7 +7111,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="width:35px;"| [[Basque Nationalist Party|PNV]]
 ! style="width:35px;"| [[File:EHB.png|28px|link=EH Bildu]]
 ! style="width:35px;"| [[File:CUP.svg|27px|link=Popular Unity Candidacy|CUP]]
-! style="width:35px;"| [[File:Logo compacto Coalición Canaria-Nueva Canarias 2019.svg|32px|link=Canarian Coalition|CC–NCa]]
+! style="width:35px;"| [[File:Logo compacto Coalición Canaria-Nueva Canarias 2019.svg|32px|link=Canarian Coalition–New Canaries|CC–NCa]]
 ! style="width:35px;"| [[File:BNG logo.svg|30px|link=Galician Nationalist Bloc|BNG]]
 ! style="width:35px;"| [[File:Logo Navarra Suma.png|30px|link=Navarra Suma|NA+]]
 ! style="width:35px;"| [[Regionalist Party of Cantabria|PRC]]
@@ -6897,7 +7128,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Basque Nationalist Party/meta/color}};"|
 ! style="background:{{EH Bildu/meta/color}};"|
 ! style="background:{{Popular Unity Candidacy/meta/color}};"|
-! style="background:{{Canarian Coalition/meta/color}};"|
+! style="background:{{Canarian Coalition–New Canaries/meta/color}};"|
 ! style="background:{{Galician Nationalist Bloc/meta/color}};"|
 ! style="background:{{Navarra Suma/meta/color}};"|
 ! style="background:{{Regionalist Party of Cantabria/meta/color}};"|

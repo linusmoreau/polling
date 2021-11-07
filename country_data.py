@@ -15,7 +15,7 @@ specs = {
         'end_date': Date(2024, 9, 29),
         'toggle_seats': True,
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_next_Austrian_legislative_election&action=edit&section=3',
+               'Opinion_polling_for_the_next_Austrian_legislative_election&action=edit&section=2',
         'seats': 183,
         'divisor': 1,
         'bar': 0,
@@ -25,7 +25,7 @@ specs = {
     'Brazil': {
         'key': ['firm', 'date', 'sample',
                 'Bolsanaro (APB)', 'Lula (PT)', 'Gomes (PDT)', 'Doria (PSDB)',
-                'Leite (PSDB)', 'Mandetta (DEM)', 'Pancheco (DEM)', 'Datena (PSL)', 'Moro',
+                'Leite (PSDB)', 'Mandetta (DEM)', 'Datena (PSL)', 'Pancheco (DEM)', 'Moro',
                 'Other', 'Undecided', 'lead', 'end'],
         'include': ['Bolsanaro (APB)', 'Lula (PT)', 'Gomes (PDT)', 'Doria (PSDB)'],
         'zeros': ['Undecided'],
@@ -40,16 +40,17 @@ specs = {
                'Opinion_polling_for_the_2022_Brazilian_general_election&action=edit&section=3',
     },
     'Bulgaria': {
-        'include': ['ITN', 'GERB', 'BSPzB', 'DB', 'DPS', 'IBG-NI', 'IMRO', 'Revival', 'PP'],
+        'include': ['ITN', 'GERB', 'BSPzB', 'DB', 'DPS', 'IBG-NI', 'IMRO', 'Revival', 'PP', 'BP'],
         'key': ['firm', 'date', 'sample', 'turnout',
                 'ITN', 'GERB', 'BSPzB', 'DB', 'DPS', 'IBG-NI', 'IMRO', 'Revival', 'PP',
                 'Undecided', 'None', 'Other', 'lead', 'end'],
         'col': {'GERB': (0, 86, 167), 'ITN': (75, 185, 222), 'BSPzB': (219, 15, 40), 'DPS': (0, 96, 170),
                 'DB': (0, 74, 128), 'IBG-NI': (91, 165, 70), 'BP': (1, 25, 59), 'Revival': (192, 159, 98),
                 'BL': (243, 129, 20), 'RzB': (43, 74, 153), 'LSChSR': (241, 25, 40), 'PP': (3, 22, 143),
-                'IMRO': black},
+                'IMRO': black,
+                'Nationalist': black},
         'blocs': {'Conservative': ['GERB'], 'Socialist': ['BSPzB'], 'Liberal': ['DPS'],
-                  'Nationalist': ['Revival', 'IMRO'],
+                  'Nationalist': ['Revival', 'IMRO', 'BP'],
                   'Populist': ['ITN', 'DB', 'IBG-NI', 'PP']},
         'start': 0,
         'end_date': Date(2021, 11, 14),
@@ -59,7 +60,8 @@ specs = {
         'seats': 240,
         'method': 'remainder',
         'threshold': 4,
-        'vlines': {Date(2021, 7, 11): "Parliamentary Election"}
+        'vlines': {Date(2021, 7, 11): "Parliamentary Election",
+                   Date(2021, 4, 4): "Parliamentary Election"}
     },
     'Canada': {
         'key': ['firm', 'date', 'link',
@@ -154,7 +156,7 @@ specs = {
     },
     'Estonia': {
         'key': ['firm', 'date', 'sample',
-                'Reform', 'Centre', 'EKRE', 'Isamaa', 'SDE', 'E200', 'Green',
+                'Centre', 'EKRE', 'Reform', 'Isamaa', 'SDE', 'E200', 'Green',
                 'Other', 'lead', 'gov', 'opp', 'end'],
         'include': ['Reform', 'Centre', 'EKRE', 'Isamaa', 'SDE', 'E200', 'Green'],
         'col': {'Reform': (255, 226, 0), 'Centre': (0, 117, 87), 'EKRE': (0, 99, 175), 'Isamaa': (0, 156, 226),
@@ -358,8 +360,8 @@ specs = {
                 'LDP', 'CDP', 'NKP', 'JCP', 'Ishin', 'DPP', 'SDP', 'Reiwa', 'NHK',
                 'Other', 'None', 'lead', 'end'],
         'include': ['LDP', 'CDP', 'NKP', 'JCP', 'Ishin', 'DPP', 'SDP', 'Reiwa', 'NHK'],
-        'gov': {'Government': ['LDP'],
-                'Opposition': ['CDP', 'NKP', 'JCP', 'Ishin', 'DPP', 'SDP', 'Reiwa', 'NHK']},
+        'gov': {'Government': ['LDP', 'NKP'],
+                'Opposition': ['CDP', 'JCP', 'Ishin', 'DPP', 'SDP', 'Reiwa', 'NHK']},
         'zeros': ['None'],
         'col': {'LDP': (60, 163, 36), 'CDP': (24, 69, 137), 'NKP': (245, 88, 129), 'JCP': (219, 0, 28),
                 'Ishin': (184, 206, 67), 'DPP': (255, 215, 0), 'SDP': (28, 169, 233), 'Reiwa': (237, 0, 140),
@@ -526,9 +528,9 @@ specs = {
                 'Left': (255, 102, 255), 'Right': (255, 153, 0)},
         'blocs': {'Left': ['PS', 'BE', 'CDU', 'PAN', 'LIVRE'], 'Right': ['PSD', 'CDS-PP', 'Chega', 'IL']},
         'start': 0,
-        'end_date': Date(2023, 10, 8),
+        'end_date': Date(2022, 1, 30),
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_next_Portuguese_legislative_election&action=edit&section=3',
+               'Opinion_polling_for_the_2022_Portuguese_legislative_election&action=edit&section=3',
         'toggle_seats': True,
         'seats': 200,
         'divisor': 1,
@@ -538,7 +540,7 @@ specs = {
     },
     'Romania': {
         'key': ['date', 'source', 'sample',
-                'PSD', 'PNL', 'PNL', 'USR', 'AUR', 'UDMR', 'PMP', 'PRO', 'ALDE', 'PPU-SL', 'PER', 'APP',
+                'PSD', 'PNL', 'USR', 'AUR', 'UDMR', 'PMP', 'PRO', 'ALDE', 'PPU-SL', 'PER', 'APP',
                 'Other', 'lead', 'end'],
         'include': ['PSD', 'PNL', 'FL', 'USR', 'AUR', 'UDMR', 'PMP', 'PRO', 'ALDE', 'PPU-SL', 'PER'],
         'col': {'PSD': (237, 33, 40), 'PNL': (255, 221, 0), 'USR': (0, 166, 255), 'AUR': (252, 194, 36),
@@ -550,7 +552,7 @@ specs = {
         'restart': ['[https', 'CURS'],
         'start': -1,
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Next_Romanian_legislative_election&action=edit&section=8',
+               'Opinion_polling_for_the_next_Romanian_legislative_election&action=edit&section=1',
     },
     'Russia': {
         'key': ['date', 'firm', 'sample', 'UR', 'CPRF', 'LDPR', 'SRZP', 'NP',

@@ -10,22 +10,22 @@
 |yAxisMax=40
 |linewidth = 1.8
 |xAxisFormat=%d-%m
-|x=2021/08/25, 2021/08/25, 2021/08/27, 2021/08/27, 2021/08/31, 2021/09/03, 2021/09/06, 2021/09/10, 2021/09/13, 2021/09/14, 2021/09/16, 2021/09/16, 2021/09/21, 2021/09/24, 2021/10/01, 2021/10/01, 2021/10/04, 2021/10/05, 2021/10/07, 2021/10/08, 2021/10/14, 2021/10/15
+|x=2021/08/25, 2021/08/25, 2021/08/27, 2021/08/27, 2021/08/31, 2021/09/03, 2021/09/06, 2021/09/10, 2021/09/13, 2021/09/14, 2021/09/16, 2021/09/16, 2021/09/21, 2021/09/24, 2021/10/01, 2021/10/01, 2021/10/04, 2021/10/05, 2021/10/07, 2021/10/08, 2021/10/14, 2021/10/15, 2021/10/22, 2021/10/26, 2021/10/29, 2021/10/29, 2021/10/31, 2021/10/31, 2021/11/2, 2021/11/2, 2021/11/3, 2021/11/4, 2021/11/5, 2021/11/6
 
 |y1Title=G. Boric (AD)
-|y1= 25.3, 27.7, 27.0, 29.3, 34.7, 30.7, 34.8, 31.0, 33.7, 35.6, 30.3, 34.2, 31.9, 31.1, 30.6, 30.6, 33.3, 33.3, 30.4, 28.8, 27.4, 31.2
+|y1= 25.3, 27.7, 27.0, 29.3, 34.7, 30.7, 34.8, 31.0, 33.7, 35.6, 30.3, 34.2, 31.9, 31.1, 30.6, 30.6, 33.3, 33.3, 30.4, 28.8, 27.4, 31.2, 27.0, 35.3, 25.0, 25.7, 27.6, 33.7, 30.0, 23.6, 26.5, 24.4, 24.7, 24.2
 |y2Title=S. Sichel (ChP+)
-|y2= 29.9, 25.4, 27.0, 20.6, 26.4, 25.3, 23.4, 26.8, 20.0, 26.7, 25.8, 23.3, 26.4, 23.0, 16.7, 19.3, 15.7, 19.2, 17.7, 13.7, 9.6, 11.0
+|y2= 29.9, 25.4, 27.0, 20.6, 26.4, 25.3, 23.4, 26.8, 20.0, 26.7, 25.8, 23.3, 26.4, 23.0, 16.7, 19.3, 15.7, 19.2, 17.7, 13.7, 9.6, 11.0, 9.5, 10.8, 9.9, 10.8, 10.5, 9.5, 10.0, 10.2, 10.8, 10.3, 11.5, 12.9
 |y3Title=Y. Provoste (NPS)
-|y3= 13.8, 16.4, 17.6, 20.2, 16.7, 16.0, 14.8, 14.1, 16.8, 14.9, 10.1, 12.3, 15.4, 13.5, 16.7, 13.3, 14.9, 14.1, 12.7, 17.8, 16.4, 19.2
+|y3= 13.8, 16.4, 17.6, 20.2, 16.7, 16.0, 14.8, 14.1, 16.8, 14.9, 10.1, 12.3, 15.4, 13.5, 16.7, 13.3, 14.9, 14.1, 12.7, 17.8, 16.4, 19.2, 16.2, 13.7, 13.6, 14.9, 11.4, 13.7, 11.3, 13.5, 12.0, 11.5, 15.2, 10.2
 |y4Title=J.A. Kast (FSC)
-|y4= 17.2, 13.6, 13.5, 11.3, 11.1, 16.0, 14.3, 12.7, 14.7, 11.9, 21.3, 13.7, 17.6, 17.6, 20.8, 21.6, 20.9, 21.8, 24.1, 24.7, 28.8, 23.9
+|y4= 17.2, 13.6, 13.5, 11.3, 11.1, 16.0, 14.3, 12.7, 14.7, 11.9, 21.3, 13.7, 17.6, 17.6, 20.8, 21.6, 20.9, 21.8, 24.1, 24.7, 28.8, 23.9, 31.1, 29.4, 31.9, 32.4, 37.9, 28.4, 28.8, 34.2, 30.1, 32.1, 30.3, 30.1
 |y5Title=F. Parisi (PDG)
-|y5= 9.2, 9.8, 9.5, 10.9, 8.3, 9.3, 7.2, 11.3, 11.9, 5.0, 7.9, 8.2, 7.7, 6.8, 6.9, 8.8, 6.4, 6.4, 7.6, 8.2, 8.2, 7.3
+|y5= 9.2, 9.8, 9.5, 10.9, 8.3, 9.3, 7.2, 11.3, 11.9, 5.0, 7.9, 8.2, 7.7, 6.8, 6.9, 8.8, 6.4, 6.4, 7.6, 8.2, 8.2, 7.3, 8.1, 4.9, 10.5, 9.5, 5.9, 8.4, 10.0, 11.1, 12.0, 12.8, 10.2, 12.6
 |y6Title=M. Enríquez-O. (PRO)
-|y6= 3.4, 5.2, 4.1, 6.4, 1.4, 2.7, 3.4, 4.2, , 3.0, 2.2, 6.8, , 5.4, 6.9, 4.2, 4.8, 3.8, 5.1, 5.5, 5.5, 5.0
+|y6= 3.4, 5.2, 4.1, 6.4, 1.4, 2.7, 3.4, 4.2, , 3.0, 2.2, 6.8, , 5.4, 6.9, 4.2, 4.8, 3.8, 5.1, 5.5, 5.5, 5.0, 6.8, 3.9, 6.9, 5.4, 4.7, 4.2, 7.5, 4.6, 6.0, 6.4, 5.4, 6.9
 |y7Title=E. Artés (UPA)
-|y7= 1.1, 1.8, 1.4, 1.3, 1.4, 0.0, 2.0, 0.0, 2.9, 3.0, 2.2, 1.4, 1.1, 2.7, 1.4, 2.2, 4.0, 1.3, 2.5, 1.4, 4.1, 2.3
+|y7= 1.1, 1.8, 1.4, 1.3, 1.4, 0.0, 2.0, 0.0, 2.9, 3.0, 2.2, 1.4, 1.1, 2.7, 1.4, 2.2, 4.0, 1.3, 2.5, 1.4, 4.1, 2.3, 1.4, 2.0, 2.3, 1.4, 1.9, 2.1, 2.5, 2.8, 2.4, 2.6, 2.7, 3.1
 |colors=#FC415C,#FFD700,#800080,#2A58A6,#00285E,#FF1493,#CC0000
 | showSymbols = 0.7
 | symbolsShape = circle
@@ -61,11 +61,269 @@
 ! [[Sebastián Sichel|Sichel]]<br/><small>[[Chile Podemos Más|ChP+]]</small>
 ! [[José Antonio Kast|Kast]]<br/><small>[[Christian Social Front|FSC]]</small>
 |-
-| rowspan="2" | 12-15 Oct 2021
+| rowspan="2" |5–6 Nov 2021
+| rowspan="2" |[https://cdn.atlasintel.org/8d8d343c-8bfa-4a54-b4f5-300ea7c10e51.pdf AtlasIntel]
+|Base 100
+|3.1
+|'''24.2'''
+|6.9
+|10.2
+|12.6
+|12.9
+|bgcolor="#84A0CE" | '''30.1'''
+|—
+|-
+|
+| 2.8
+| '''21.9'''
+| 6.2
+| 9.2
+| 11.4
+| 11.7
+| bgcolor="#84A0CE" | '''27.2'''
+| 9.7
+|-
+| rowspan="2" | 2–5 Nov 2021
+| rowspan="2" | [https://chile.activasite.com/wp-content/uploads/2021/11/211986_PULSO_CIUDADANO_ELECTORAL_NOVIEMBRE_1106_V1.pdf Activa]
+|
+| 1.9
+| '''17.7'''
+| 3.9
+| 10.9
+| 7.3
+| 8.2
+| bgcolor="#84A0CE" | '''21.7'''
+| 28.4
+|-
+| Likely voter (51.6%)
+| 1.9
+| '''23.7'''
+| 4.5
+| 13.5
+| 9.9
+| 11.3
+| bgcolor="#84A0CE" | '''27.3'''
+| —
+|-
+| rowspan="2" |2–4 Nov 2021
+| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/11/Track-PP-408-Noviembre-S1-VF.pdf Cadem]
+|Base 100
+|3
+|24
+|6
+|12
+|13
+|10
+|bgcolor="#84A0CE" | '''32'''
+|—
+|-
+|
+| 2
+| '''19'''
+| 5
+| 9
+| 10
+| 8
+| bgcolor="#84A0CE" | '''25'''
+| 22
+|-
+| 2–3 Nov 2021
+| [https://pbs.twimg.com/media/FDglmALXIAQDf1e?format=jpg&name=large UDD]
+|
+| 2
+| '''22'''
+| 5
+| 10
+| 10
+| 9
+| bgcolor="#84A0CE" | '''25'''
+| 17
+|-
+| rowspan="2" |1–2 Nov 2021
+| rowspan="2" |[https://cdn.atlasintel.org/ef9b5bf6-ed1b-4cfe-a292-d6e2675021ad.pdf AtlasIntel]
+|Base 100
+|2.7
+|'''23.7'''
+|4.7
+|13.5
+|11.2
+|10.1
+|bgcolor="#84A0CE" | '''34.2'''
+|—
+|-
+|
+| 2.5
+| '''21.4'''
+| 4.2
+| 12.2
+| 10.1
+| 9.2
+| bgcolor="#84A0CE" | '''31.0'''
+| 9.4
+|-
+| rowspan="3" | 29 Oct–2 Nov 2021
+| rowspan="3" | [https://www.criteria.cl/descargas/Agenda_Criteria_Octubre_2021-5g23f.pdf Criteria]
+|
+| 2
+| bgcolor="#FD9FAD" |'''24'''
+| 6
+| 9
+| 8
+| 8
+| '''23'''
+| 19
+|-
+| Likely voter (51%)
+| 2
+| bgcolor="#FD9FAD"|'''34'''
+| 4
+| 12
+| 8
+| 8
+| '''28'''
+| 4
+|-
+| Likely voter (41%)
+| 2
+| bgcolor="#FD9FAD"|'''35'''
+| 4
+| 11
+| 10
+| 6
+| '''29'''
+| 3
+|-
+| 29 Oct–2 Nov 2021
+| [https://www.df.cl/noticias/economia-y-politica/pais/encuesta-feedback-kast-lidera-en-primera-y-segunda-vuelta-pero-lo/2021-11-04/205409.html Feedback]
+| Likely voter (48%)
+| 1
+| '''30'''
+| 2
+| 9
+| 4
+| 11
+| bgcolor="#84A0CE" | '''36'''
+| 7
+|-
+| 26–31 Oct 2021
+| [https://www.dropbox.com/s/u73kfzbaxveonps/Studio%20Publico%20-%2020211031.pdf?dl=0 Studio Público]
+| 
+| 1.9
+| '''27.6'''
+| 4.7
+| 11.4
+| 5.9
+| 10.5
+| bgcolor="#84A0CE" | '''37.9'''
+| —
+|-
+| 29 Oct 2021
+| [https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_OCTUBRE_2021.pdf Tú Influyes]
+| 
+| 2
+| bgcolor="#FD9FAD"|'''32'''
+| 4
+| 13
+| 8
+| 9
+| '''27'''
+| 5
+|-
+| rowspan="2" |27–29 Oct 2021
+| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-406-Octubre-S4-VF.pdf Cadem]
+|Base 100
+|1
+|'''26'''
+|5
+|15
+|10
+|11
+|bgcolor="#84A0CE" | '''32'''
+|—
+|-
+|
+| 1
+| '''19'''
+| 4
+| 11
+| 7
+| 8
+| bgcolor="#84A0CE" | '''24'''
+| 26
+|-
+| rowspan="2" | 25–29 Oct 2021
+| rowspan="2" | [https://chile.activasite.com/wp-content/uploads/2021/11/Pulso_Ciudadano_OCTUBRE_Q2_Informe.pdf Activa]
+| Likely voter (50.8%)
+| 2.6
+| '''25'''
+| 5.1
+| 12.1
+| 10.6
+| 9.1
+| bgcolor="#84A0CE" | '''26.5'''
+| 9
+|-
+| 
+| 1.6
+| '''17.4'''
+| 4.8
+| 9.5
+| 7.3
+| 6.9
+| bgcolor="#84A0CE" | '''22.2'''
+| 30.3
+|-
+| 20–26 Oct 2021
+| [https://www.youtube.com/watch?v=7wbjrH2dHt4 La Cosa Nostra]
+| 
+| 2
+| bgcolor="#FD9FAD" | '''36'''
+| 4
+| 14
+| 5
+| 11
+| '''30'''
+| —
+|-
+| rowspan="2" |20–22 Oct 2021
+| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-406-Octubre-S4-VF.pdf Cadem]
+|Base 100
+|1
+|'''27'''
+|7
+|16
+|8
+|10
+|bgcolor="#84A0CE" | '''31'''
+|—
+|-
+|
+| 1
+| '''20'''
+| 5
+| 12
+| 6
+| 7
+| bgcolor="#84A0CE" | '''23'''
+| 26
+|-
+| 18–22 Oct 2021
+| [https://www.biobiochile.cl/noticias/nacional/chile/2021/10/24/encuesta-criteria-kast-le-pisa-los-talones-a-boric-y-provoste-relega-al-cuarto-lugar-a-sichel.shtml Criteria]
+| Likely voter
+| 2.0
+| bgcolor="#FD9FAD" | '''30.8 '''
+| 3.5
+| 10.9
+| 7.7
+| 8.1
+| '''27.7'''
+| 9.3
+|-
+| rowspan="2" | 12–15 Oct 2021
 | rowspan="2" | [https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf Activa]
 | Likely voter (50.9%)
 | 2.4
-| bgcolor="#FD9FAD"|'''31.3 '''
+| bgcolor="#FD9FAD" |'''31.3 '''
 | 3.7
 | 16.5
 | 6.9
@@ -83,9 +341,19 @@
 |'''16.3'''
 | 31.8
 |-
-| 13-14 Oct 2021
-| [https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf Cadem]
-| 
+| rowspan="2" |13–14 Oct 2021
+| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf Cadem]
+|Base 100
+|4
+|'''27'''
+|6
+|16
+|8
+|10
+|bgcolor="#84A0CE" | '''29'''
+|—
+|-
+|
 | 3
 | '''20'''
 | 4
@@ -95,11 +363,21 @@
 | bgcolor="#84A0CE" | '''21'''
 | 27
 |-
-| 6-8 Oct 2021
-| [https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf Cadem]
+| rowspan="2" |6–8 Oct 2021
+| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf Cadem]
+|Base 100
+|1
+|bgcolor="#FD9FAD" |'''29'''
+|5
+|18
+|8
+|14
+|'''25'''
+|—
+|-
 |
 | 1
-| bgcolor="#FD9FAD"|'''21'''
+| bgcolor="#FD9FAD" |'''21'''
 | 4
 | 13
 | 6
@@ -107,11 +385,11 @@
 | '''18'''
 | 27
 |-
-| 5-7 Oct 2021
+| 5–7 Oct 2021
 | [https://pbs.twimg.com/media/FBVs456X0AUPs-M?format=jpg&name=large UDD]
 |
 | 2
-| bgcolor="#FD9FAD"|'''24'''
+| bgcolor="#FD9FAD" |'''24'''
 | 4
 | 10
 | 6
@@ -119,11 +397,11 @@
 | '''19'''
 | 21
 |-
-| 1-5 Oct 2021
+| 1–5 Oct 2021
 | [https://www.criteria.cl/descargas/Agenda_Criteria_Septiembre_2021-4cR9p.pdf Criteria]
 | Open-ended
 | 1
-| bgcolor="#FD9FAD"|'''26'''
+| bgcolor="#FD9FAD" |'''26'''
 | 3
 | 11
 | 5
@@ -131,11 +409,11 @@
 | '''17'''
 | 20
 |-
-| 1-4 Oct 2021
+| 1–4 Oct 2021
 | [https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf Tú Influyes]
 |
 | 3.1
-| bgcolor="#FD9FAD"|'''25.7'''
+| bgcolor="#FD9FAD" |'''25.7'''
 | 3.7
 | 11.5
 | 4.9
@@ -143,11 +421,21 @@
 | '''16.1'''
 | 22.9
 |-
-| 29 Sept-1 Oct 2021
-| [https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf Cadem]
+| rowspan="2" |29 Sept–1 Oct 2021
+| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf Cadem]
+|Base 100
+|1
+|bgcolor="#FD9FAD" |'''30'''
+|7
+|17
+|7
+|17
+|'''21'''
+|—
+|-
 |
 | 1
-| bgcolor="#FD9FAD"|'''22'''
+| bgcolor="#FD9FAD" |'''22'''
 | 5
 | 12
 | 5
@@ -155,11 +443,11 @@
 | '''15'''
 | 28
 |-
-| rowspan="2" | 27 Sept-1 Oct 2021
+| rowspan="2" | 27 Sept–1 Oct 2021
 | rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf Activa]
 | Likely voter (48.4%)
 | 1.8
-| bgcolor="#FD9FAD"|'''29.7 '''
+| bgcolor="#FD9FAD" |'''29.7 '''
 | 3.1
 |11.2
 | 7.6
@@ -177,11 +465,21 @@
 |'''14.0'''
 |35.3
 |-
-| 23-24 Sept 2021
-|[https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf Cadem]
+| rowspan="2" |23–24 Sept 2021
+| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf Cadem]
+|Base 100
+|2
+|bgcolor="#FD9FAD" |'''31'''
+|5
+|14
+|7
+|'''23'''
+|18
+|—
+|-
 |
 | 2
-| bgcolor="#FD9FAD"|'''23'''
+| bgcolor="#FD9FAD" |'''23'''
 | 4
 | 10
 | 5
@@ -189,23 +487,11 @@
 | 13
 | 26
 |-
-| 23-24 Sept 2021
-|[https://panelciudadano.cl/wp-content/uploads/2021/09/2021-09-26-postdebate1.png UDD]
-| Only [[Santiago Metropolitan Region|Santiago M. R.]]
-| 3
-| bgcolor="#FD9FAD"|'''26'''
-| 4
-| 9
-| 4
-| '''16'''
-| 12
-| 26
-|-
-| 20-21 Sept 2021
+| 20–21 Sept 2021
 |[https://pbs.twimg.com/media/FATyzr1XMAA6rJM?format=png&name=900x900 Black & White]
 |
 | 1
-| bgcolor="#FD9FAD"|'''29'''
+| bgcolor="#FD9FAD" |'''29'''
 | —
 | 14
 | 7
@@ -213,11 +499,11 @@
 | 16
 | 9
 |-
-| rowspan="2" | 15-16 Sept 2021
+| rowspan="2" | 15–16 Sept 2021
 | rowspan="2" | [https://static1.squarespace.com/static/60aa93aeb7e9621e2f425a6f/t/6149e93740c1c1764ed6345c/1632233787102/Informe+Encuesta+Septiembre+2021+Esp%C3%ADritu+Constituyente.pdf Feedback]
 | Likely voter (56%)
 | 2
-| bgcolor="#FD9FAD"|'''34'''
+| bgcolor="#FD9FAD" |'''34'''
 | 1
 | 7
 | 4
@@ -235,11 +521,21 @@
 | 19
 | 11
 |-
-| 13-16 Sept 2021
-|[https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf Cadem]
+| rowspan="2" |14–16 Sept 2021
+| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf Cadem]
+|Base 100
+|2
+|bgcolor="#FD9FAD" |'''34'''
+|6
+|12
+|8
+|'''24'''
+|14
+|—
+|-
 |
 | 1
-| bgcolor="#FD9FAD"|'''25'''
+| bgcolor="#FD9FAD" |'''25'''
 | 5
 | 9
 | 6
@@ -247,11 +543,11 @@
 | 10
 | 27
 |-
-| 6-14 Sept 2021
+| 6–14 Sept 2021
 |[https://es.scribd.com/document/526959468/Encuesta-La-Cosa-Nostra-Septiembre La Cosa Nostra]
 |
 | 3
-| bgcolor="#FD9FAD"|'''36'''
+| bgcolor="#FD9FAD" |'''36'''
 | 3
 | 15
 | 5
@@ -259,11 +555,11 @@
 | 12
 | —
 |-
-| rowspan="2" | 7-13 Sept 2021
+| rowspan="2" | 7–13 Sept 2021
 | rowspan="2" | [https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf Activa]
 | Likely voter (54.3%)
 | 2.5
-| bgcolor="#FD9FAD"|'''28.0'''
+| bgcolor="#FD9FAD" |'''28.0'''
 | —
 | 11.9
 | 10.9
@@ -281,11 +577,21 @@
 | 8.7
 | 41.0
 |-
-| 8-10 Sept 2021
-|[https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf Cadem]
+| rowspan="2" |8–10 Sept 2021
+| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf Cadem]
+|Base 100
+|1
+|bgcolor="#FD9FAD" |'''31'''
+|4
+|15
+|11
+|'''26'''
+|12
+|—
+|-
 |
 | 0
-| bgcolor="#FD9FAD"|'''22'''
+| bgcolor="#FD9FAD" |'''22'''
 | 3
 | 10
 | 8
@@ -293,11 +599,11 @@
 | 9
 | 29
 |-
-| 3-6 Sept 2021
+| 3–6 Sept 2021
 |[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf Tú Influyes]
 |
 | 1.5
-| bgcolor="#FD9FAD"|'''26.5'''
+| bgcolor="#FD9FAD" |'''26.5'''
 | 2.6
 | 11.3
 | 5.5
@@ -305,11 +611,11 @@
 | 10.9
 | 24.0
 |-
-| 1-3 Sept 2021
+|1–3 Sept 2021
 |[https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf Cadem]
 |
 | 0
-| bgcolor="#FD9FAD"|'''23'''
+| bgcolor="#FD9FAD" |'''23'''
 | 2
 | 12
 | 7
@@ -317,11 +623,11 @@
 | 12
 | 25
 |-
-| 27-31 Aug 2021
+| 27–31 Aug 2021
 |[https://www.criteria.cl/descargas/Agenda_Criteria_Agosto_2021-9bT8h.pdf Criteria]
 | Open-ended
 | 1
-| bgcolor="#FD9FAD"|'''25'''
+| bgcolor="#FD9FAD" |'''25'''
 | 1
 | 12
 | 6
@@ -329,23 +635,23 @@
 | 8
 | 28
 |-
-| 26-27 Aug 2021
+| 26–27 Aug 2021
 |[https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf Cadem]
 |
 | 1
-| bgcolor="#FD9FAD"|'''20'''
+| bgcolor="#FD9FAD" |'''20'''
 | 3
 | 13
 | 7
-| bgcolor="#F6E47F"|'''20'''
+| bgcolor="#F6E47F" |'''20'''
 | 10
 | 26
 |-
-| rowspan="2" | 24-27 Aug 2021
+| rowspan="2" | 24–27 Aug 2021
 | rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf Activa]
 | Likely voter (51.9%){{efn|The poll included the candidacies of [[Diego Ancalao]] and [[Gino Lorenzini]], before being rejected by the Electoral Service. Ancalao obtained 1.5% of the preferences and Lorenzini 5.1%.}}
 | 1.2
-| bgcolor="#FD9FAD"|'''23.4'''
+| bgcolor="#FD9FAD" |'''23.4'''
 | 3.6
 | 12.3
 | 8.8
@@ -363,7 +669,7 @@
 |6.3
 |44.1
 |-
-| 24-25 Aug 2021
+| 24–25 Aug 2021
 |[https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf Black & White]
 |{{efn|The poll included the candidacies of [[Diego Ancalao]] and [[Gino Lorenzini]], before being rejected by the Electoral Service. Ancalao obtained 2% of the preferences and Lorenzini 7%.}}
 | 1
@@ -375,7 +681,7 @@
 | 15
 | 13
 |-
-| 24-25 Aug 2021
+| 24–25 Aug 2021
 |[https://www.litoralpress.cl/paginaconsultas/Servicios_NClip/Get_Imagen_Pagina.aspx?LPKey=AHV7U6ZGM3X6H2CNP4E6GWZTRVEQ44IFISL7SPI6D53SEDHE2ZHA UDD]
 |{{efn|The poll included the candidacies of [[Diego Ancalao]] and [[Gino Lorenzini]], before being rejected by the Electoral Service. Ancalao obtained 1.1% of the preferences and Lorenzini 4.4%.}}
 | 1.4
@@ -386,4 +692,73 @@
 | '''20.0'''
 | 10.7
 | 21.4
+|}
+
+==== Regional polls ====
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|- bgcolor=lightgray
+! rowspan="3"| Fieldwork dates
+! rowspan="3" style="width:125px;" | Polling firm
+! rowspan="3"| Type of poll
+! style="width:60px;" | [[File:Eduardo Artés 2018 (4x3).jpg|60x90px]]
+! style="width:60px;" | [[File:Gabriel Boric Font (2018).jpg|60x90px]]
+! style="width:60px;" | [[File:Marco Enríquez-Ominami 2018 (4x3).jpg|60x90px]]
+! style="width:60px;" | [[File:Yasna Provoste Campillay (cropped).jpg|60x90px]]
+! style="width:60px;" | [[File:Franco Parisi.png|60x90px]]
+! style="width:60px;" | [[File:SEBASTIAN SICHEL 2019 (cropped).jpg|60x90px]]
+! style="width:60px;" | [[File:José Antonio Kast (2019) 4x3 cropped.jpg|60x90px]]
+! rowspan="3"| Others/<br/>None
+|-
+| bgcolor={{Patriotic Union (Chile)/meta/color}} |
+| bgcolor={{Apruebo Dignidad/meta/color}} |
+| bgcolor={{Progressive Party (Chile)/meta/color}} |
+| bgcolor={{New Social Pact/meta/color}} |
+| bgcolor={{Party of the People (Chile)/meta/color}} |
+| bgcolor={{Chile Podemos Más/meta/color}} |
+| bgcolor={{Christian Social Front/meta/color}} |
+|-
+! [[Eduardo Artés|Artés]]<br/><small>[[Patriotic Union (Chile)|UPa]]</small>
+! [[Gabriel Boric|Boric]]<br/><small>[[Apruebo Dignidad|AD]]</small>
+! [[Marco Enríquez-Ominami|M. E-O]]<br/><small>[[Progressive Party (Chile)|PRO]]</small>
+! [[Yasna Provoste|Provoste]]<br/><small>[[New Social Pact|NPS]]</small>
+! [[Franco Parisi|Parisi]]<br/><small>[[Party of the People (Chile)|PDG]]</small>
+! [[Sebastián Sichel|Sichel]]<br/><small>[[Chile Podemos Más|ChP+]]</small>
+! [[José Antonio Kast|Kast]]<br/><small>[[Christian Social Front|FSC]]</small>
+|-
+| 1 Oct-4 Nov 2021
+|[https://www.noticias.ucn.cl/wp-content/uploads/2021/11/Informe-Baro%CC%81metro-Regional-Antofagasta-Noviembre-2021-VF-1.pdf IPP UCN]
+| Only [[Antofagasta Region|Antofagasta R.]]
+| 0
+| '''11'''
+| 5
+| bgcolor="#f1a8ff"|'''12'''
+| 10
+| 1
+| 9
+| 52
+|-
+| 24-28 Oct 2021
+|[https://mobile.twitter.com/ADPrensa/status/1455972415209721857 Go People]
+| Only [[Santiago Metropolitan Region|Santiago M. R.]]
+| 1.7
+| bgcolor="#FD9FAD"|'''19.1'''
+| 8.8
+| 8.6
+| 3.6
+| 7.2
+| '''17.3'''
+| 33.8
+|-
+| 23-24 Sept 2021
+|[https://panelciudadano.cl/wp-content/uploads/2021/09/2021-09-26-postdebate1.png UDD]
+| Only [[Santiago Metropolitan Region|Santiago M. R.]]
+| 3
+| bgcolor="#FD9FAD"|'''26'''
+| 4
+| 9
+| 4
+| '''16'''
+| 12
+| 26
+|-
 |}

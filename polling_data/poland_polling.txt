@@ -27,6 +27,111 @@
 ! data-sort-type="number" style="height:1px; background:{{Poland 2050/meta/color}};"|
 ! data-sort-type="number" style="height:1px; background:{{AGROunia/meta/color}};"|
 |-
+| [https://dorzeczy.pl/sondaz/222853/najnowszy-sondaz-poparcia-dla-partii-politycznych.html Estymator / DoRzeczy.pl]
+| data-sort-value="2021-11-06" | 5–6 Nov 2021
+| 1,016
+| style="background:#C0DBFC;" | '''37.6'''
+| 
+| 24.6
+| 9.1
+| 5.7
+| 
+| 8.2
+| 12.8
+|
+| 2.0
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''13.0'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/572624-nasz-sondaz-pis-wciaz-b-wysoko-zwieksza-przewage-nad-ko Social Changes / wPolityce.pl]
+| data-sort-value="2021-11-02" | 29 Oct–2 Nov 2021
+| 1,059
+| style="background:#C0DBFC;" | '''39'''
+| 1
+| 25
+| 8
+| 2
+| 2
+| 9
+| 12
+| 
+| 2
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''14'''
+|-
+| [https://wiadomosci.onet.pl/kraj/sondaz-cbos-spada-poparcie-dla-pis-ko-i-polska-2050-zyskuje/g9pxkmr CBOS]
+| data-sort-value="2021-10-28" | 18–28 Oct 2021
+| 1,157
+| style="background:#C0DBFC;" | '''28.4'''
+| 
+| 17.2
+| 4.7
+| 3
+| 
+| 7.6
+| 12.2
+|
+| 26
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''11.2'''
+|-
+| [https://www.se.pl/wiadomosci/polityka/takie-poparcie-pis-ma-naprawde-ten-sondaz-ujawnia-prawde-aa-z5K3-WqtN-KNtv.html Pollster / SE.pl]
+| data-sort-value="2021-10-28" | 27–28 Oct 2021
+| 1,078
+| style="background:#C0DBFC;" | '''36.58'''
+| 0.60
+| 25.80
+| 8.56
+| 4.41
+| 1.29
+| 8.77
+| 13.80
+|
+| 0.19
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''10.78'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/571884-sondaz-partie-prawicowe-popiera-w-sumie-51-proc-polakow Social Changes / wPolityce.pl]
+| data-sort-value="2021-10-25" | 22–25 Oct 2021
+| 1,067
+| style="background:#C0DBFC;" | '''39'''
+| 0
+| 26
+| 8
+| 2
+| 2
+| 10
+| 12
+| 
+| 1
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''13'''
+|-
+| [https://www.fakt.pl/wydarzenia/polityka/pis-traci-ko-zyskuje-najnowszy-sondaz-poparcia-dla-partii/h9b7zdd Research Partner]
+| data-sort-value="2021-10-25" | 22–25 Oct 2021
+| 1,223
+| style="background:#C0DBFC;" | '''35.0'''
+| 0.7
+| 23.3
+| 7.0
+| 3.0
+| 1.5
+| 7.7
+| 11.3
+|
+| 10.3
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''11.7'''
+|-
+| [https://twitter.com/IBRiS_PL/status/1452512234215718912 IBRiS / "Rz.pl"]
+| data-sort-value="2021-10-23" | 22–23 Oct 2021
+| 1,100
+| style="background:#C0DBFC;" | '''35.8'''
+| 
+| 24.5
+| 9.4
+| 4.6
+| 
+| 5.1
+| 13.5
+| 
+| 7.1
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''11.3'''
+|-
 | [https://wiadomosci.wp.pl/sondaz-dla-wp-pis-ze-wzrostem-poparcia-ko-traci-powieksza-sie-przewaga-6697269321661024a United Surveys / WP.pl]
 | data-sort-value="2021-10-22" | 22 Oct 2021
 | 1,000
@@ -57,7 +162,7 @@
 | 1
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''13'''
 |-
-|[https://mobile.twitter.com/CBOS_Info/status/1448988696879960069 CBOS]
+| [https://mobile.twitter.com/CBOS_Info/status/1448988696879960069 CBOS]
 | data-sort-value="2021-10-14" | 4–14 Oct 2021
 | 1,161
 | style="background:#C0DBFC;" | '''34.6'''
@@ -1538,9 +1643,9 @@
 | 1
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''10'''
 |-
-| rowspan="2" | [https://natemat.pl/354345,sondaz-research-partner-partia-trzaskowskiego-i-holowni-wygralaby-wybory Research Partner]
-| rowspan="2" data-sort-value="2021-05-17" | 14–17 May 2021
-| rowspan="2" | 1,098
+| [https://natemat.pl/354345,sondaz-research-partner-partia-trzaskowskiego-i-holowni-wygralaby-wybory Research Partner]
+| data-sort-value="2021-05-17" | 14–17 May 2021
+| 1,098
 | style="background:#C0DBFC;" | '''30.9'''
 | 16.6
 | 6.4
@@ -1550,16 +1655,6 @@
 | 20.5
 | 14.2
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''10.4'''
-|-
-| 31.5
-| 8.1
-| 4.9
-| 2.1
-| 1.6
-| 7.2
-| style="background:#FCDE83;" | '''32.1'''{{efn|Party of [[Szymon Hołownia]] and [[Rafał Trzaskowski]]}}
-| 12.5
-| style="background:{{Poland 2050/meta/color}};"| '''0.6'''
 |-
 | [https://wiadomosci.wp.pl/najnowszy-sondaz-dla-wp-jaroslaw-kaczynski-moze-byc-dumny-6640959486135040a UCE RESEARCH / WP]
 | data-sort-value="2021-05-16" | 15–16 May 2021

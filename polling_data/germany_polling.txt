@@ -1,6 +1,7 @@
 === 2021 ===
+
 {| class="wikitable sortable tpl-blanktable mw-collapsible" style="text-align:center;font-size:90%;line-height:14px;"
-|- 
+|- style="height:40px;"
 ! rowspan="2"| Polling firm
 ! rowspan="2"| Fieldwork date
 ! rowspan="2"| Sample<br>size
@@ -20,6 +21,175 @@
 ! style="background:{{Free Democratic Party (Germany)/meta/color}};"|
 ! style="background:{{Alternative for Germany/meta/color}};"|
 ! style="background:{{The Left (Germany)/meta/color}};"|
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|1|5|Nov|2021|year}}
+| 1,212
+| –
+| {{Party shading/SPD}}| '''27'''
+| 21
+| 15
+| 14
+| 11
+| 5
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+|-
+| [https://www.wahlrecht.de/umfragen/gms.htm GMS]
+| {{opdrts|1|4|Nov|2021|year}}
+| 1,005
+| –
+| {{Party shading/SPD}}| '''26'''
+| 21
+| 16
+| 15
+| 10
+| 4
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| {{opdrts|2|3|Nov|2021|year}}
+| 1,329
+| –
+| {{Party shading/SPD}}| '''27'''
+| 21
+| 16
+| 13
+| 10
+| 5
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| {{opdrts|27|2|Nov|2021|year}}
+| 1,417
+| –
+| {{Party shading/SPD}}| '''25'''
+| 22
+| 16
+| 13
+| 10
+| 5
+| 9
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 3
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|29|1|Nov|2021|year}}
+| 2,140
+| –
+| {{Party shading/SPD}}| '''27'''
+| 20
+| 16
+| 13.5
+| 11.5
+| 5
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| {{opdrts|26|1|Nov|2021|year}}
+| 2,501
+| –
+| {{Party shading/SPD}}| '''25'''
+| 21
+| 16
+| 15
+| 9
+| 5
+| 9
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|25|29|Oct|2021|year}}
+| 1,503
+| –
+| {{Party shading/SPD}}| '''27'''
+| 21
+| 16
+| 13
+| 11
+| 5
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+|-
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| {{opdrts|26|28|Oct|2021|year}}
+| 1,208
+| 15
+| {{Party shading/SPD}}| '''27'''
+| 20
+| 16
+| 14
+| 11
+| 5
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| {{opdrts|26|27|Oct|2021|year}}
+| 1,239
+| –
+| {{Party shading/SPD}}| '''26'''
+| 22
+| 16
+| 13
+| 10
+| 4
+| 9
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-zu-ampel-gespraechen-mehrheit-traut-fdp-groesste-verhandlungsmacht-zu-a-d10bf27a-b505-44d3-87e1-6e81d205d128 Civey]
+| {{opdrts|20|27|Oct|2021|year}}
+| 10,050
+| –
+| {{Party shading/SPD}}| '''25'''
+| 21
+| 15
+| 14
+| 12
+| 5
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| {{opdrts|19|26|Oct|2021|year}}
+| 1,422
+| –
+| {{Party shading/SPD}}| '''25'''
+| 21
+| 17
+| 14
+| 11
+| 5
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|22|25|Oct|2021|year}}
+| 2,105
+| –
+| {{Party shading/SPD}}| '''28'''
+| 20
+| 16
+| 14
+| 11
+| 5
+| 6
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 8
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| {{opdrts|19|25|Oct|2021|year}}
+| 2,510
+| –
+| {{Party shading/SPD}}| '''25'''
+| 20
+| 17
+| 16
+| 9
+| 5
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|18|22|Oct|2021|year}}
@@ -213,7 +383,7 @@
 | 13
 | 10
 | 5
-| 9<ref name=FW>[[Free Voters|FW]]: 3</ref>
+| 9
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
@@ -278,6 +448,6 @@
 | 11.5
 | 10.3
 | 4.9
-| 8.7<ref name=FW />
+| 8.7<ref name=FW>[[Free Voters|FW]]: 2.4</ref>
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 1.6
 |}

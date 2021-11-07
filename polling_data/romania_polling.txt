@@ -1,5 +1,4 @@
-=== Party polling ===
- 
+== Polls ==
 {{Graph:Chart|width=800|height=400|xAxisTitle=Date|yAxisTitle=Percentage|legend=|type=line
 |interpolate=bundle
 |showSymbols=1
@@ -8,50 +7,44 @@
 |yAxisMin=0
 |xGrid=11
 |yGrid=11
-|x=  2020/12/06, 2020/12/20, 2020/12/21, 2021/01/15, 2021/01/17, 2021/02/11, 2021/02/14, 2021/02/26, 2021/03/28, 2021/04/11, 2021/04/17, 2021/05/06, 2021/05/2, 2021/05/17, 2021/05/28,  2021/06/01, 2021/06/15, 2021/06/18, 2021/07/01, 2021/07/29, 2021/08/15, 2021/08/16, 2021/08/16, 2021/08/21, 2021/08/30, 2021/09/05, 2021/09/20, 2021/09/24, 2021/09/25, 2021/09/28, 2021/10/03, 2021/10/20
-|y1Title= PSD |y1= 29 ,35, 35, 34, 34, 28, 33, 34, 35, 28.9, 33, 22.14, 36, 36, 36, 22.91, 30.02, 34, 31, 38, 35, 34, 35, 35, 35, 36, 37, 37, 32, 31, 30, 34
-|y2Title= PNL |y2= 26 ,26, 26, 26, 24, 27, 25, 25, 26, 22.3, 21, 23.50, 28, 23, 22, 24.95, 26.6, 22, 27,  15.1, 27, 20, 21, 20, 20, 19, 19, 20, 15, 17, , 
-|y3Title= PNL (without FL) |y3=   ,  ,  ,  , , , , , , , , , , , , , , , , , , , , , , , , , , , 3, 9
-|y4Title= FL |y4=   ,  ,  ,  , , , , , , , , , , , , , , , , , , , , , , , , , , , 11.5, 7
-|y5Title= USR |y5= 15 ,14, 15, 16, 16, 14, 20, 16, 17, 22.5, 16, 13.59, 11, 14, 15, 15, 13.2, 14, 15 , 11.1, 14, 12, 14, 11, 11, 11, 13, 10, 15, 18, 17.5, 15
-|y6Title= AUR |y6= 9 ,15, 14, 12, 14, 16, 8, 9, 12, 10, 12, 15.53, 14, 15, 11, 17.96, 14.2, 12, 10, 14.5, 14, 11, 15, 12, 12, 14, 14, 17, 17, 17.5, 17, 17
-|y7Title= UDMR |y7= 5.75, 4, 5, 5, 5, 6, 4, 4, 4, 4, 4, 8.64, 3, 5, 6, 5, 4, 7, 5.1, 5, 5, 5, 5, 5, 5, 5, 5, , 4.5, 5, 4, 5
-|y8Title= PMP |y8= 5 ,2, 2, 3, 3, 4, 4, 3, 3, 4.2, 5, 4.66, , 2, 2, , 2.8, 5, 2, 2, 4, 5, 5, 5, 5, 5, 4, 5, 2, 5, 6, 4
-|y9Title= PRO |y9= 4 ,1, 2, 2, 1, 1, 4, 2, 2, 2.9, 3, 4.17, 3, 2, 5, 2, 4.3, 2, 3, 0, 2, 3, 3, 2, 3, 3, 3, 1, , 2.3, 5, 1
-|y10Title= ALDE |y10=  , , , , , , 2, , , ,  , , , , 0, 2.9, , 3, , 1, 3, , 3, , 3, 2, 1, , , 1, 1.5, 1
-|y11Title= PPU |y11= , , , , , , , , , , 3, , 4, , ,1,1, , , 2, , , , 4, 1, 4, 4, 4, , , , 2
-|y12Title= PER |y12= , , , , , , 3, , , ,  , , 1, 1, 1, , , , 2, , , , , , , , , , , 1
-|y13Title= APP |y13= , , , , , , , , , , , , , , , , , , , , , , , , , , , , 1.2, 3, 3.5, 4
-|colors= #ED262B, #FAE800, #FAE800, #FFDD93, #00aae7, #fcc224, green, #81F781, #0080C7, #005487, #66CCFF, #00753A, #0048BA
-| hannotatonslabel=Treshold (5%)
-| hannotatonsline=5
+|x=  2020/12/06, 2020/12/20, 2020/12/21, 2021/01/15, 2021/01/17, 2021/02/11, 2021/02/14, 2021/02/26, 2021/03/28, 2021/04/11, 2021/04/17, 2021/05/06, 2021/05/2, 2021/05/17, 2021/05/28,  2021/06/01, 2021/06/15, 2021/06/18, 2021/07/01, 2021/07/29, 2021/08/15, 2021/08/16, 2021/08/16, 2021/08/21, 2021/08/30, 2021/09/05, 2021/09/20, 2021/09/24, 2021/09/25, 2021/09/28, 2021/10/03, 2021/10/15, 2021/10/16, 2021/10/17, 2021/10/20, 2021/10/24, 2021/10/30 /
+|y1Title= PSD |y1= 29 ,35, 35, 34, 34, 28, 33, 34, 35, 28.9, 33, 22.14, 36, 36, 36, 22.91, 30.02, 34, 31, 38, 35, 34, 35, 35, 35, 36, 37, 37, 32, 31, 30, 32, 36.7, 39, 34, 40, 39, 34
+|y2Title= PNL (incl. FL) |y2= 26 ,26, 26, 26, 24, 27, 25, 25, 26, 22.3, 21, 23.50, 28, 23, 22, 24.95, 26.6, 22, 27,  15.1, 27, 20, 21, 20, 20, 19, 19, 20, 15, 17, 14, 20, 19.8, 21, 16, 17, 19
+|y3Title= USR |y3= 15 ,14, 15, 16, 16, 14, 20, 16, 17, 22.5, 16, 13.59, 11, 14, 15, 15, 13.2, 14, 15 , 11.1, 14, 12, 14, 11, 11, 11, 13, 10, 15, 18, 17.5, 13.0, 16.4, 11, 15, 13, 11 , 20
+|y4Title= APP |y4= , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+|y5Title= AUR |y5= 9 ,15, 14, 12, 14, 16, 8, 9, 12, 10, 12, 15.53, 14, 15, 11, 17.96, 14.2, 12, 10, 14.5, 14, 11, 15, 12, 12, 14, 14, 17, 17, 17.5, 17, 21, 15.3, 13, 17, 14, 12, 12
+|y6Title= UDMR |y6= 5.75, 4, 5, 5, 5, 6, 4, 4, 4, 4, 4, 8.64, 3, 5, 6, 5, 4, 7, 5.1, 5, 5, 5, 5, 5, 5, 5, 5, , 4.5, 5, 4, 5, 6, 3, 5, 5, 5, 5
+|y7Title= PMP |y7= 5 ,2, 2, 3, 3, 4, 4, 3, 3, 4.2, 5, 4.66, , 2, 2, , 2.8, 5, 2, 2, 4, 5, 5, 5, 5, 5, 4, 5, 2.9, 2.3, 5.5, , 6, 2.1, 4.5, 4, 5, 6.5
+|y8Title= PRO |y8= 4 ,1, 2, 2, 1, 1, 4, 2, 2, 2.9, 3, 4.17, 3, 2, 5, 2, 4.3, 2, 3, 0, 2, 3, 3, 2, 3, 3, 3, 1, , 2.3, 4, 5, 3, , 1, 2, 3, 5
+|y9Title= PPU |y9= , , , , , , , , , , 3, , 4, , ,1,1, , , 2, , , , 4, 1, 4, 4, 4, , , , , , , 2, 4, 4, 1
+|y10Title= APP |y10= , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 1.2, 3, , 3.5, , 4, , 2
+|colors= #ED262B, #FAE800,  #00aae7, #fcc224, green, #81F781, #0080C7, #005487, #66CCFF, #0048BA
+| hannotatonslabel=Threshold (5%)
 }}
 
 {{see also if exists|2020 in Romania|2021 in Romania|2022 in Romania|2023 in Romania|2024 in Romania}}
 
 {| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
 |- style="background:lightgrey;"
-! rowspan="2" style="width:110px;"| Date
-! rowspan="2" style="width:90px;"| Poll source
-! class="unsortable" rowspan="2" style="width:45px;"| Sample size
-! class="unsortable" style="width:45px;"             | [[Social Democratic Party (Romania)|PSD]]
-! class="unsortable" style="width:45px;"             | [[National Liberal Party (Romania)|PNL]]
-! class="unsortable" style="width:45px;" | [[Liberal Force|FL]]
-! class="unsortable" style="width:45px;" | [[Save Romania Union|USR]] 
-! class="unsortable" style="width:45px;" | [[Alliance for the Union of Romanians|AUR]]
-! class="unsortable" style="width:45px;" | [[Democratic Alliance of Hungarians in Romania|UDMR]]
-! class="unsortable" style="width:45px;" | [[People's Movement Party|PMP]]
-! class="unsortable" style="width:45px;" | [[PRO Romania|PRO]] 
-! class="unsortable" style="width:45px;letter-spacing:-1px;" | [[Alliance of Liberals and Democrats (Romania)|ALDE]]
-! class="unsortable" style="width:45px;letter-spacing:-1px;" | [[Humanist Power Party|PPU-SL]]
-! class="unsortable" style="width:45px" | [[Ecologist Party of Romania|PER]]
-! class="unsortable" style="width:45px;" | [[Alliance for the Fatherland|APP]]
-! rowspan="2" style="width:45px;" style="width:45px;"| [[List of political parties in Romania|Others]]
-! rowspan="2" style="width:45px;" style="width:45px;"| Lead
+! rowspan="2" style="width:90px;"| Date
+! rowspan="2" style="width:40px;"| Poll source
+! class="unsortable" rowspan="2" style="width:20px;"| Sample size
+! class="unsortable" style="width:30px;"             | [[Social Democratic Party (Romania)|PSD]]
+! class="unsortable" style="width:15px;"             | [[National Liberal Party (Romania)|PNL]]
+! class="unsortable" style="width:30px;" | [[Save Romania Union|USR]] 
+! class="unsortable" style="width:30px;" | [[Alliance for the Union of Romanians|AUR]]
+! class="unsortable" style="width:30px;" | [[Democratic Alliance of Hungarians in Romania|UDMR]]
+! class="unsortable" style="width:30px;" | [[People's Movement Party|PMP]]
+! class="unsortable" style="width:30px;" | [[PRO Romania|PRO]] 
+! class="unsortable" style="width:30px;letter-spacing:-1px;" | [[Alliance of Liberals and Democrats (Romania)|ALDE]]
+! class="unsortable" style="width:30px;letter-spacing:-1px;" | [[Humanist Power Party|PPU-SL]]
+! class="unsortable" style="width:30px" | [[Ecologist Party of Romania|PER]]
+! class="unsortable" style="width:30px;" | [[Alliance for the Fatherland|APP]]
+! rowspan="2" style="width:30px;" style="width:45px;"| [[List of political parties in Romania|Others]]
+! rowspan="2" style="width:30px;" style="width:45px;"| Lead
 |-
 ! style="background:{{Social Democratic Party (Romania)/meta/color}};"|
 ! style="background:{{National Liberal Party (Romania)/meta/color}};"|
-! style="background:{{Swedish People's Party of Finland/meta/color}};" |
 ! style="background:{{USR PLUS/meta/color}};" |
 ! style="background:{{Alliance for the Union of Romanians/meta/color}};" |
 ! style="background:{{Democratic Alliance of Hungarians in Romania/meta/color}};" |
@@ -62,26 +55,45 @@
 ! style="background:{{Ecologist Party of Romania/meta/color}}" |
 ! style="background:{{Alliance for the Fatherland/meta/color}};" |
 |-
-|rowspan="2"|12–21 Oct 2021
-|rowspan="2"|[http://roispap.simplesite.com/450876497 ISPAP]
-|rowspan="2"|1,228
-| style="background:#F9C8CA"| '''34.0'''
-|9.0
-|7.0
-|15.0
+|25–30 Oct 2021
+| [https://www.stiripesurse.ro/sondaj-curs-intentia-de-vot-pentru-partide_2072784.html CURS]
+|1,100
+| style="background:#F9C8CA"| '''39.0'''
+|19.0
+|11.0
+|12.0
+|5.0
+|5.0
+|3.0
+| {{n/a}}
+|4.0
+| {{n/a}}
+| {{n/a}}
+|2.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 20.0
+|-
+|17–26 Oct 2021
+|[https://www.news.ro/politic-intern/sondaj-avangarde-cota-popularitate-presedintelui-iohannis-florin-citu-s-injumatatit-octombrie-comparativ-luna-precedenta-psd-crescut-3-intentiile-vot-iar-pnl-pierdut-3-procente-1922401827362021101320444735 Avangarde]
+|900
+| style="background:#F9C8CA"| '''40.0'''
 |17.0
+|13.0
+|14.0
 |5.0
 |4.0
-|1.0
-|0.5
 |2.0
 |1.0
 |4.0
-|4.5
-| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 17
+| {{n/a}}
+| {{n/a}}
+|0.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 23.0
 |-
-| style="background:#F9C8CA"| '''34.5'''
-|colspan="2"|16.0
+|12–21 Oct 2021
+|[http://roispap.simplesite.com/450876497 ISPAP]
+|1,228
+| style="background:#F9C8CA" | '''34.5'''
+|16.0
 |15.0
 |17.0
 |5.0
@@ -89,34 +101,67 @@
 |1.0
 |{{N/A}}
 |2.0
-|4.0
+|1.0
 |4.0
 |5.0{{efn|[[Green Party (Romania)|PV]] 1.0%}}
 | style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 17.5
 |-
-|12–17 Oct 2021
-|[https://www.gazetacivica.ro/politica/sondaj-de-opinie-in-care-pentru-prima-data-la-pnl-este-masurata-aripa-orban-si-aripa-citu/ APP]
-|1,122
-| style="background:#F9C8CA;" | '''30.0'''
-|3.0
-|11.5
-|17.5
-|17.0
-|4.0
-|6.0
+|12–20 Oct 2021
+| [https://www.antena3.ro/emisiuni/sinteza-zilei/romanii-taxeaza-dur-puterea-4-sondaje-nationale-care-rastorna-toate-calculele-politice-618035.html CURS]
+|1,202
+| style="background:#F9C8CA" | '''39.0'''
+|21.0
+|11.0
+|13.0
 |5.0
-|1.5
-| {{n/a}}
-| {{n/a}}
-|3.5
-|1.0
-| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 12.5
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|11.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 18.0
+|-
+|12–17 Oct 2021
+| [https://www.antena3.ro/emisiuni/sinteza-zilei/romanii-taxeaza-dur-puterea-4-sondaje-nationale-care-rastorna-toate-calculele-politice-618035.html INSCOP]
+|1,100
+| style="background:#F9C8CA" | '''36.7'''
+|19.8
+|16.4
+|15.3
+|3.0
+|2.1
+|3.0
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|3.8
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 16.9
+|-
+|11–15 Oct 2021
+| [https://www.antena3.ro/emisiuni/sinteza-zilei/romanii-taxeaza-dur-puterea-4-sondaje-nationale-care-rastorna-toate-calculele-politice-618035.html Sociopol]
+|1,002
+| style="background:#F9C8CA" | '''32.0'''
+|20.0
+|13.0
+|21.0
+|6.0
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|8.0
+| style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 11.0
 |-
 | data-sort-value="2021-09-29" | 26–29 Sep 2021
 | [https://www.gazetacivica.ro/politica/sondaj-de-opinie-de-ultima-ora-devastator-pentru-doua-partide/ Gazeta Civică]
 | 1,202
 | style="background:#F9C8CA;" | '''28.0'''
-| colspan="2"| 17.0
+| 17.0
 | 18.0
 | 17.5
 | 5.0
@@ -133,7 +178,7 @@
 | [https://insomar.org/2021/09/28/pnl-after-party/ INSOMAR]
 | 1,030
 | style="background:#F9C8CA" | '''31.6'''
-| colspan="2"|25.9
+|25.9
 | 15.0
 | 17.0
 | 4.6
@@ -150,7 +195,7 @@
 | style="letter-spacing:-1px;" | [https://www.g4media.ro/sondaj-inscop-votul-politic-inainte-de-caderea-guvernului-citu-psd-a-ajuns-la-35-pnl-la-219-usr-a-cazut-la-98-aur-urca-la-171-si-isi-dubleaza-scorul-electoral.html INSCOP]
 | 1,204
 | style="background:#F9C8CA;" | '''35.4'''
-| colspan="2"|21.9
+|21.9
 | 9.8
 | 17.1
 | {{n/a}}
@@ -167,7 +212,7 @@
 | [https://www.aktual24.ro/trolling-psd-inainte-cu-o-zi-de-congresul-pnl-da-publicitatii-un-sondaj-in-care-se-lauda-cu-37-din-intentiile-de-vot/ Avangarde]
 | 900
 | style="background:#F9C8CA;" | '''37.0'''
-| colspan="2"|20.0
+|20.0
 | 13.0
 | 14.0
 | 5.0
@@ -184,7 +229,7 @@
 | [https://ph-online.ro/politica/item/120634-sondaj-curs-pnl-in-cadere-libera-psd-castiga-alegerile-cu-aproape-40 CURS]
 | 861
 | style="background:#F9C8CA;" |'''36.0'''
-| colspan="2"|19.0
+|19.0
 | 11.0
 | 14.0
 | 5.0
@@ -201,7 +246,7 @@
 | [https://www.stiripesurse.ro/sondaj-curs-dupa-izbucnirea-crizei-politice-usr-plus-si-pnl-in-scadere-psd-si-aur-castiga-teren_1978554.html CURS]
 | 853
 | style="background:#F9C8CA;" | '''35.0'''
-| colspan="2"|20.0
+|20.0
 | 11.0
 | 12.0
 | 5.0
@@ -218,7 +263,7 @@
 | [https://www.digi24.ro/stiri/actualitate/politica/surse-sondajul-prezentat-de-marcel-ciolacu-liderilor-psd-la-sedinta-de-la-neptun-1650129 Avangarde]
 | 900
 | style="background:#F9C8CA;" | '''35'''
-| colspan="2"|21
+|21
 | 14
 | 15
 | 5
@@ -235,7 +280,7 @@
 | [https://curs.ro/sondaj-national-august-2021/ CURS]
 | 1,067
 | style="background:#F9C8CA;" | '''34.0'''
-| colspan="2"|20.0
+|20.0
 | 12.0
 | 11.0
 | 5.0
@@ -252,7 +297,7 @@
 | [https://www.digi24.ro/stiri/actualitate/politica/cel-mai-nou-sondaj-ires-ce-partide-ar-vota-romanii-daca-duminica-ar-fi-alegeri-parlamentare-1639263 IRES]
 | 1,006
 | style="background:#F9C8CA;" | '''35.0'''
-| colspan="2"|27.0
+|27.0
 | 14.0
 | 14.0
 | 5.0
@@ -269,7 +314,7 @@
 | [https://insomar.org/2021/07/26/coalitia-de-guvernare-vs-opozitie/ INSOMAR]
 | {{n/a}}
 | style="background:#F9C8CA;" | '''38.1'''
-| colspan="2"|15.1
+|15.1
 | 11.1
 | 15.0
 | 5.1
@@ -286,7 +331,7 @@
 | [https://zin.ro/21/07/2021/politica/social-democratii-au-un-sondaj-care-le-atribuie-34-dintre-voturile-romanilor-cum-au-castigat-cinci-procente/ Avangarde]
 | 903
 | style="background:#F9C8CA;" | '''34.0'''
-| colspan="2"|23.0
+|23.0
 | 13.0
 | 15.0
 | 5.0
@@ -303,7 +348,7 @@
 | [https://www.g4media.ro/sondaj-politico-psd-34-pnl-18-aur-14-usrplus-12-caderea-abrupta-a-pnl-incepe-la-sase-luni-de-la-guvernare.html Sociopol]
 | 1,100
 | style="background:#F9C8CA;" | '''31.0'''
-| colspan="2"|27.0
+|27.0
 | 15.0
 | 10.0
 | 7.0
@@ -320,7 +365,7 @@
 | [https://insomar.org/2021/06/24/mini-status-socio-politic/ INSOMAR]
 | 1,030
 | 22.9
-| colspan="2" style="background:#F9F2C8" | '''25.0'''
+| style="background:#F9F2C8" | '''25.0'''
 | 15.0
 | 18.0
 | 5.1
@@ -337,7 +382,7 @@
 | [https://www.stiripesurse.ro/sondaj-curs-intentia-de-vot-pentru-partide-la-nivel-national_1856124.html CURS]
 | 1,067
 | style="background:#F9C8CA;" | '''34.0'''
-| colspan="2"|22.0
+|22.0
 | 14.0
 | 12.0
 | 4.0
@@ -354,7 +399,7 @@
 | [https://www.antena3.ro/actualitate/sondaj-psd-conduce-intentii-vot-romani-aur-declin-607910.html INSCOP]
 | 1,100
 | style="background:#F9C8CA;" | '''30.2'''
-|colspan="2"| 26.6
+| 26.6
 | 13.2
 | 14.2
 | {{n/a}}
@@ -371,7 +416,7 @@
 | [https://www.antena3.ro/emisiuni/punctul-de-intalnire/sondaj-psd-intentii-electorale-romani-pnl-601815.html Sociopol]
 | 1,100
 | style="background:#F9C8CA;" | '''36'''
-|colspan="2"| 22
+| 22
 | 15
 | 11
 | 6
@@ -388,7 +433,7 @@
 | [https://www.antena3.ro/emisiuni/punctul-de-intalnire/sondaj-psd-intentii-electorale-romani-pnl-601815.html IRES]
 | 1,100
 | style="background:#F9C8CA;" |'''36.0'''
-| colspan="2"|28.0
+|28.0
 | 11.0
 | 14.0
 | 3.0
@@ -405,7 +450,7 @@
 | [https://www.antena3.ro/emisiuni/punctul-de-intalnire/sondaj-psd-intentii-electorale-romani-pnl-601815.html Avangarde]
 | 900
 | style="background:#F9C8CA;" | '''36.0'''
-| colspan="2"|23.0
+|23.0
 | 14.0
 | 15.0
 | 5.0
@@ -422,7 +467,7 @@
 | [https://www.aktual24.ro/sondaj-insomar-pnl-a-trecut-pe-primul-loc-ciolacu-nu-mai-cere-alegeri-anticipate-nici-el-nu-sta-bine-in-sondaj/ INSOMAR]
 | 1,030
 | 22.1
-| colspan="2" style="background:#F9F2C8" | '''23.5'''
+| style="background:#F9F2C8" | '''23.5'''
 | {{circa}} 13.5
 | 15.5
 | 8.6
@@ -439,7 +484,7 @@
 | [https://www.stiripesurse.ro/sondaj-curs_1745955.html CURS]
 | 1,107
 | style="background:#F9C8CA;" | '''33.0'''
-| colspan="2"|21.0
+|21.0
 | 16.0
 | 12.0
 | 4.0
@@ -456,7 +501,7 @@
 | BCS<ref>{{Cite web|title=Biroul de Cercetări Sociale|url=https://bcs.com.ro/sondaj/credinte-si-valori-in-societatea-romaneasca|access-date=2021-09-25|language=ro-RO}}</ref>{{cn|date=May 2021}}
 | 1,420
 | style="background:#F9C8CA;" | '''28.9'''
-| colspan="2"|22.3
+|22.3
 | 22.5
 | 10.0
 | 4.0
@@ -473,7 +518,7 @@
 | [https://tomisnews.ro/sondaj-sociopol-privind-popularitatea-partidelor-in-ritmul-actual-in-2024-presedintele-tarii-va-fi-ori-candidatul-psd-ori-emil-boc-bataie-intre-aur-si-usr/ Sociopol]
 | {{n/a}}
 | style="background:#F9C8CA;" | '''35.0'''
-|colspan="2"| 26.0
+| 26.0
 | 17.0
 | 12.0
 | 4.0
@@ -490,7 +535,7 @@
 | [https://www.g4media.ro/sondaj-curs-clasamentul-partidelor-psd-34-pnl-25-usr-plus-16-aur-9.html CURS]
 | 1,100
 | style="background:#F9C8CA;" | '''34.0'''
-| colspan="2"|25.0
+|25.0
 | 16.0
 | 9.0
 | 4.0
@@ -507,7 +552,7 @@
 | [https://www.gazetacivica.ro/politica/sondaj-de-opinie-efectuat-in-perioada-10-14-februarie/ PER]
 | 1,055
 | style="background:#F9C8CA;" | '''33.0'''
-| colspan="2"|25.0
+|25.0
 | 20.0
 | 8.0
 | 4.0
@@ -524,7 +569,7 @@
 | [https://www.realitatea.net/stiri/ultimele-stiri/sondaj-insomar-cine-ar-castiga-acum-alegerile-parlamentare-in-romania-tensiuni-la-nivel-inalt-scorul-care-pulverizeaza-partidul-lui-ponta_60265342e10f7876d73aab5e INSOMAR]
 | 1,030
 | style="background:#F9C8CA;" | '''28.0'''
-| colspan="2"|27.0
+|27.0
 | 14.0
 | 16.0
 | 6.0
@@ -541,7 +586,7 @@
 | [https://us24.ro/2021/01/19/sondaj-avangarde-rasturnare-de-situatie-pe-scena-politica/ Avangarde]
 | 710
 | style="background:#F9C8CA;" | '''34.0'''
-| colspan="2"|24.0
+|24.0
 | 16.0
 | 14.0
 | 5.0
@@ -558,7 +603,7 @@
 | [https://curs.ro/ro/sondaj-de-opinie-la-nivel-national-ianuarie-2021/ CURS]
 | 1,100
 | style="background:#F9C8CA;" | '''34.0'''
-| colspan="2"|26.0
+|26.0
 | 16.0
 | 12.0
 | 5.0
@@ -575,7 +620,7 @@
 | [https://antena3.ro CURS]
 | 1,100
 | style="background:#F9C8CA;" | '''35.0'''
-| colspan="2"|26.0
+|26.0
 | 14.0
 | 15.0
 | 4.0
@@ -592,7 +637,7 @@
 | [https://adevarul.ro/news/politica/sondaj-avangarde-psd-castiga-nou-alegeri-s-ar-reorganiza-romani-acord-suspendarea-presedintelui-1_5fe1b6215163ec42712777ce/index.html Avangarde]
 | 900
 | style="background:#F9C8CA;" | '''35.0'''
-| colspan="2"|26.0
+|26.0
 | 15.0
 | 14.0
 | 5.0
@@ -605,13 +650,13 @@
 | 2.0
 | style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 9.0
 |-
-| colspan="17" style="background:#A0A0A0" |
+| colspan="16" style="background:#A0A0A0" |
 |-
 ! rowspan="2" data-sort-value="2020-12-06" | 6 December 2020
 ! [[2020 Romanian legislative election|2020 Chamber election]]
 ! {{N/A}}
 ! style="background:#F9C8CA;" | 28.90
-! colspan="2"|25.18
+!25.18
 ! 15.37
 ! 9.08
 ! 5.74
@@ -626,7 +671,7 @@
 ! [[2020 Romanian legislative election|2020 Senate election]]
 ! {{N/A}}
 ! style="background:#F9C8CA;" | 29.32
-! colspan="2"|25.58
+!25.58
 ! 15.86
 ! 9.17
 ! 5.89

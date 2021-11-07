@@ -38,6 +38,50 @@ The following are opinion polls conducted for the parliamentary election, measur
 ! data-sort-type="number" style="background:{{Latvia First/meta/color}};" |
 ! data-sort-type="number" style="background:#1B4D7D;" |
 |-
+| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1455584951886360579|title=Partiju reitingi - Oktobris 2021|website=Twitter|language=lv|access-date=2 November 2021|date=2 November 2021}}</ref>
+|1-31 Oct 2021
+|1,871
+| -
+|'''12.6'''
+|0.6
+|'''5.1'''
+|'''14.1'''
+|'''11.8'''
+|'''9.0'''
+| style="background:#A0D78E"|'''15.9'''
+|3.8
+|3.5
+|'''6.4'''
+|'''6.4'''
+|4.5
+|2.2
+|4.1
+| style="background:{{New Unity/meta/color}};" |1.8
+| {{#expr:15.9+14.1+11.8+5.1}}
+| {{#expr:12.6+0.6+9+3.8+3.5+6.4+6.4+4.5+2.2}}
+|-
+|SKDS<ref>{{Cite web|title=Partiju reitingi oktobrī: popularitāte krīt gandrīz visām partijām|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-oktobri-popularitate-krit-gandriz-visam-partijam.a427967/|first=Laura|last=Vonda|website=LSM|language=lv|access-date=29 October 2021|date=29 October 2021}}</ref>
+|October 2021
+| -
+|50.2
+|style="background:#F8C1BE" | '''19.9'''
+|1.8
+|4.9
+|'''9.2'''
+|'''10.6'''
+|'''12.9'''
+|'''12.8'''
+|4.8
+|'''5.0'''
+|'''5.3'''
+|4.5
+|4.8
+|2.4
+|1.1
+| style="background:{{Social Democratic Party "Harmony"/meta/color}};" |7.0
+| {{#expr:12.8+10.6+9.2+4.9}}
+| {{#expr:19.9+1.8+12.9+4.8+5+5.3+4.5+4.8+2.4}}
+|-
 | Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1444309330766049281|title=PARTIJU REITINGI - Septembris 2021|website=Twitter|language=lv|access-date=16 October 2021|date=2 October 2021}}</ref>
 | 1 Sep–1 Oct 2021
 | 1,170
@@ -496,13 +540,13 @@ The following are opinion polls conducted for the parliamentary election, measur
 | 1-17 Dec 2020
 | 2,421
 | -
-| '''13'''
+| style="background:#F8C1BE" | '''13'''
 | 2
 | '''8'''
-| '''13'''
-| '''13'''
-| '''13'''
-| '''13'''
+| style="background:#F2F5A9" | '''13'''
+| style="background:#C05B6A" | '''13'''
+| style="background:#44B56F" | '''13'''
+| style="background:#A0D78E" | '''13'''
 | 3
 | 4
 | '''8'''
@@ -534,10 +578,10 @@ The following are opinion polls conducted for the parliamentary election, measur
 | 11-30 Nov 2020
 | 817
 | -
-| '''15'''
+| style="background:#F8C1BE" | '''15'''
 | 1
 | '''9'''
-| '''15'''
+| style="background:#F2F5A9" | '''15'''
 | '''13'''
 | '''12'''
 | '''13'''
@@ -686,13 +730,13 @@ The following are opinion polls conducted for the parliamentary election, measur
 | 8-31 Jul 2020
 | 1975
 | -
-| '''16'''
+| style="background:#F8C1BE" | '''16'''
 | 2
 | '''9'''
 | '''15'''
 | '''11'''
 | '''10'''
-| '''16'''
+| style="background:#A0D78E" | '''16'''
 | 4
 | 3
 | '''8'''
@@ -730,7 +774,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | '''15'''
 | '''11'''
 | '''10'''
-| style="background:#A0D78E"| '''17'''
+| style="background:#A0D78E" | '''17'''
 | '''5'''
 | 3
 | '''8'''
@@ -787,7 +831,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | '''13'''
 | '''11'''
 | '''9'''
-| style="background:#A0D78E"| '''18'''
+| style="background:#A0D78E" | '''18'''
 | 4
 | 3
 | '''8'''
@@ -1161,13 +1205,13 @@ The following are opinion polls conducted for the parliamentary election, measur
 | 26-30 Jun 2019
 | 860
 | -
-| '''17'''
+| style="background:#F8C1BE" | '''17'''
 | 4
 | '''10'''
 | '''12'''
 | '''15'''
 | '''9'''
-| '''17'''
+| style="background:#A0D78E" | '''17'''
 | '''6'''
 | 4
 | '''6'''

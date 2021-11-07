@@ -139,6 +139,11 @@ def transcribe_table(content, key, choice, begin, start):
                         'Other', 'None', 'lead', 'end']
                 reset = True
         elif choice == 'Estonia':
+            if '[[Kaja Kallas\' cabinet]] is formed by the Reform Party and Centre Party' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'Reform', 'Centre', 'EKRE', 'Isamaa', 'SDE', 'E200', 'Green', 'TULE/EVA',
+                        'Other', 'lead', 'gov', 'opp', 'end']
+                reset = True
             if '=== 2020 ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Reform', 'Centre', 'EKRE', 'Isamaa', 'SDE', 'E200', 'Green', 'TULE/EVA',
@@ -185,6 +190,11 @@ def transcribe_table(content, key, choice, begin, start):
                 nkey = ['firm', 'date', 'sample',
                         'GERB', 'ITN', 'BSPzB', 'DPS', 'DB', 'IBG-NI', 'BP', 'BP', 'BP', 'Revival', 'BL', 'RzB',
                         'LSChSR',
+                        'Other', 'lead', 'end']
+                reset = True
+            elif 'Pre-April Election polls' in line:
+                nkey = ['firm', 'date', 'sample', 'moe',
+                        'GERB', 'BSPzB', 'DPS', 'BP', 'DB', 'Volya', 'ITN', 'IBG-NI',
                         'Other', 'lead', 'end']
                 reset = True
         elif choice == 'Norway':

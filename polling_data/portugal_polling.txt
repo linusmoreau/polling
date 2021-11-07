@@ -10,9 +10,9 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! class="unsortable" style="width:50px;" rowspan="2"| Sample size
 ! class="unsortable" style="width:45px;" rowspan="2"| Turnout
 ! class="sortable" style="width:35px;"| [[File:PS Logo (Text version).png|33px|link=Socialist Party (Portugal)|PS]]
-! class="sortable" style="width:35px;"| [[File:Partido Social Democrata Logo.svg|32x32px|PSD]]
+! class="sortable" style="width:35px;"| [[File:Partido Social Democrata Logo.svg|32x32px|link=Social Democratic Party (Portugal)|PSD]]
 ! class="sortable" style="width:35px;"| [[File:LeftBloc.svg|25px|link=Left Bloc (Portugal)|BE]]
-! class="sortable" style="width:35px;"| [[File:PCP-PEV.svg|31x31px|CDU]]
+! class="sortable" style="width:35px;"| [[File:PCP-PEV.svg|31x31px|link=Unitary Democratic Coalition|CDU]]
 ! class="sortable" style="width:35px;"| [[File:Cds simbolo 2.png|25px|link=CDS – People's Party|CDS–PP]]
 ! class="sortable" style="width:35px;"| [[File:Logo Pessoas-Animais-Natureza (text only).png|30px|link=People–Animals–Nature|PAN]]
 ! class="sortable" style="width:35px;"| [[File:Logo Chega!.png|33px|link=Chega (political party)|CH]]
@@ -30,6 +30,38 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! class="sortable" style="background:#202056;"|
 ! class="sortable" style="background:#00ADEF;"|
 ! class="sortable" style="background:darkseagreen;"|
+|-
+|[https://www.rtp.pt/noticias/politica/cecilia-meireles-deputada-do-cds-vai-abandonar-a-vida-politica_v1361190 CESOP–UCP]
+| data-sort-value="2019-10-03" | 29 Oct–4 Nov 2021
+| 878
+|?
+| {{Party shading/PS}} |'''39'''
+| 30
+| 7
+| 5
+| 2
+| 3
+| 5
+| 5
+| –
+| 4
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |9
+|-
+|[https://www.tsf.pt/portugal/politica/ha-14-pontos-a-separar-ps-e-psd-na-intencao-de-voto-costa-jeronimo-e-catarina-caem-14288786.html Aximage]
+|28–31 Oct 2021
+|803
+|?
+|{{Party shading/PS}} |'''38.5'''
+|24.4
+|8.8
+|4.6
+|2.0
+|2.8
+|7.7
+|4.7
+| –
+|6.4
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |14.1
 |-
 |[https://twitter.com/Electograph/status/1451865769164394511 Eurosondagem]
 |18–21 Oct 2021

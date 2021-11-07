@@ -8,24 +8,23 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 **— Sum of the [[Thirty-sixth government of Israel|36th government]] parties: [[Yesh Atid]], [[Blue and White (political alliance)|Blue & White]], [[Yamina]], [[Israeli Labor Party|Labor]], [[Yisrael Beiteinu]], [[New Hope (Israel)|New Hope]], [[Meretz]] and [[United Arab List|Ra'am]]. The coalition parties are highlighted in yellow.
 
 {|class="wikitable sortable" style=text-align:center;font-size:90%;line-height:12px
-|-
 !rowspan=2 |Date
 !rowspan=2 |Polling firm
 !rowspan=2 |Publisher
 ![[Likud]]
-! style="background:#eeb;"|[[Yesh Atid|Yesh<br>Atid]]
+!style=background:#eeb |[[Yesh Atid|Yesh<br>Atid]]
 ![[Shas]]
-! style="background:#eeb;"|[[Blue and White (political alliance)|Blue &<br>White]]
-! style="background:#eeb;"|[[Yamina]]
-! style="background:#eeb;"|[[Israeli Labor Party|Labor]]
+!style=background:#eeb |[[Blue and White (political alliance)|Blue &<br>White]]
+!style=background:#eeb |[[Yamina]]
+!style=background:#eeb |[[Israeli Labor Party|Labor]]
 ![[United Torah Judaism|UTJ]]
-! style="background:#eeb; font-size:90%;"|[[Yisrael Beiteinu|Yisrael<br>Beiteinu]]
+!style="background:#eeb; font-size:90%" |[[Yisrael Beiteinu|Yisrael<br>Beiteinu]]
 !style=font-size:90% |[[Religious Zionist Party|Religious<br>Zionist]]
 ![[Joint List|Joint<br>List]]
-! style="background:#eeb;"|[[New Hope (Israel)|New<br>Hope]]
-! style="background:#eeb;"|[[Meretz]]
-! style="background:#eeb;"|[[United Arab List|Ra'am]]
-! style="background:#eeb;"|[[Thirty-sixth government of Israel|''Gov.'']]
+!style=background:#eeb |[[New Hope (Israel)|New<br>Hope]]
+!style=background:#eeb |[[Meretz]]
+!style=background:#eeb |[[United Arab List|Ra'am]]
+!style=background:#eeb |[[Thirty-sixth government of Israel|''Gov.'']]
 |-
 !style=background:{{Likud/meta/color}} |
 !style=background:{{Yesh Atid/meta/color}} |
@@ -37,10 +36,64 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 !style=background:{{Yisrael Beiteinu/meta/color}} |
 !style=background:#0071AD |
 !style=background:{{Joint List/meta/color}} |
-!style=background:#0081B2|
+!style=background:#0081B2 |
 !style=background:{{Meretz/meta/color}} |
 !style=background:{{United Arab List/meta/color}} |
 !style=background:{{Yesh Atid/meta/color}} |
+|-
+|data-sort-value=2021-11-01 |1 Nov 21
+|Smith
+|Galei Israel<ref name=GI3Nov>{{cite news |url=https://www.srugim.co.il/613619-סקר-מנדטים-נתניהו-פותח-פער-בנט-מתאושש |title=סקר מנדטים: נתניהו פותח פער; בנט מתאושש |lang=he |work=Srugim |author=Staff |date=3 November 2021 |access-date=3 Nov 2021}}</ref>
+|style=background:#BBCDE4 |'''34'''	<!-- Likud		-->
+|20					<!-- Yesh Atid		-->
+|8					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|6					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|7					<!-- Religious Zionist	-->
+|7					<!-- Joint List		-->
+|{{small|(2.9%)}}	<!-- New Hope		-->
+|6					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|58					<!-- Gov		-->
+|-
+|data-sort-value=2021-11-01 |1 Nov 21
+|Camil Fuchs
+|[[Channel 13 (Israel)|Channel 13]]<ref>{{cite news |title= סקר חדשות 13: הליכוד עם 36 מנדטים, בנט וגם סמוטריץ' עם 6 מנדטים 7 |url=https://www.inn.co.il/news/530332 |access-date=1 Nov 2021 |date=1 Nov 2021 |work=[[Arutz Sheva]] |lang=he}}</ref>
+|style=background:#BBCDE4 |'''36'''	<!-- Likud		-->
+|20					<!-- Yesh Atid	-->
+|7					<!-- Shas		-->
+|7					<!-- Blue and White	-->
+|6					<!-- Yamina		-->
+|10					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|4					<!-- Yisrael Beiteinu	-->
+|6					<!-- Religious Zionist	-->
+|8					<!-- Joint List	-->
+|{{small|(2.6%)}}	<!-- New Hope	-->
+|5					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|56					<!-- Gov		-->
+|-
+|data-sort-value=2021-10-31 |31 Oct 21
+|Direct Polls
+|–<ref>{{Cite tweet |author=Direct Polls |user=Direct_Polls |number=1454763901904728070 |date=31 October 2021 |title=שבועיים קשוחים עברו על הקואליציה בכלל, ועל ימינה בפרט: הקלטות בנט ושקד, ציוץ סוער של חה"כ שירלי פינטו והדלפות על מגעי חה"כ סילמן עם יש עתיד. |language=he |access-date=31 October 2021}}</ref>
+|style=background:#BBCDE4 |'''35'''	<!-- Likud		-->
+|20					<!-- Yesh Atid	-->
+|9					<!-- Shas		-->
+|7					<!-- Blue and White	-->
+|{{small|(2.9%)}}	<!-- Yamina		-->
+|7					<!-- Labor		-->
+|8					<!-- UTJ		-->
+|7					<!-- Yisrael Beiteinu	-->
+|7					<!-- Religious Zionist	-->
+|7					<!-- Joint List	-->
+|4					<!-- New Hope	-->
+|4					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|54					<!-- Gov		-->
 |-
 |data-sort-value=2021-10-12 |12 Oct 21
 |Midgam
@@ -58,7 +111,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |4					<!-- New Hope	-->
 |5					<!-- Meretz		-->
 |4					<!-- Ra'am		-->
-|58 				<!-- Gov		-->
+|58					<!-- Gov		-->
 |-
 |data-sort-value=2021-10-06 |6 Oct 21
 |Smith
@@ -166,7 +219,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |4					<!-- New Hope	-->
 |4					<!-- Meretz		-->
 |4					<!-- Ra'am		-->
-|60 				<!-- Gov		-->
+|60					<!-- Gov		-->
 |-
 |data-sort-value=2021-08-18 |18 Aug 21
 |Maagar Mohot
@@ -188,7 +241,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-08-12 |11–12 Aug 21
 |Maagar Mohot
-|''[[Israel Hayom]]''<ref name=IH13Aug>{{cite news |title=סקר: הליכוד בנסיקה – תקווה חדשה נמחקת |url=https://www.20il.co.il/%D7%A1%D7%A7%D7%A8-%D7%94%D7%9C%D7%99%D7%9B%D7%95%D7%93-%D7%91%D7%A0%D7%A1%D7%99%D7%A7%D7%94-%D7%AA%D7%A7%D7%95%D7%95%D7%94-%D7%97%D7%93%D7%A9%D7%94-%D7%A0%D7%9E%D7%97%D7%A7%D7%AA/ |access-date=13 August 2021 |date=13 August 2021 |work=Israel Hayom |lang=he}}</ref>
+|''[[Israel Hayom]]''<ref name=IH13Aug>{{cite news |title=סקר: הליכוד בנסיקה – תקווה חדשה נמחקת |url=https://www.20il.co.il/סקר-הליכוד-בנסיקה-תקווה-חדשה-נמחקת/ |access-date=13 August 2021 |date=13 August 2021 |work=Channel 20 |lang=he}}</ref>
 |style=background:#BBCDE4 |'''32'''	<!-- Likud		-->
 |18					<!-- Yesh Atid	-->
 |8					<!-- Shas		-->
@@ -202,7 +255,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |–					<!-- New Hope	-->
 |6					<!-- Meretz		-->
 |5					<!-- Ra'am		-->
-|60 				<!-- Gov		-->
+|60					<!-- Gov		-->
 |-
 |data-sort-value=2021-07-15 |14–15 Jul 21
 |Maagar Mohot

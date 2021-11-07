@@ -514,3 +514,828 @@
  | symbolsNoFill = false
  | symbolsStroke = 1.25
 }}
+
+==Pre-April Election polls==
+<small>The opinion poll results below were recalculated from the original data and exclude pollees that chose 'I will not vote' or 'I am uncertain'.</small>
+{| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="2"| Polling firm
+! rowspan="2"| Fieldwork date
+! rowspan="2"| Sample<br>size
+!rowspan="2"| Margin<br />of error
+! class="unsortable" style="width:50px;"| [[GERB]]
+! class="unsortable" style="width:50px;"| [[Bulgarian Socialist Party|BSP]]
+! class="unsortable" style="width:50px;"| [[Movement for Rights and Freedoms|DPS]]
+! class="unsortable" style="width:50px;"| [[United Patriots|OP]]{{Efn|Percentages might not include [[Attack (political party)|Ataka]]'s results, as they left the coalition around mid-2019.|name=|group=}}
+! class="unsortable" style="width:50px;"| [[Democratic Bulgaria|DB]]
+! class="unsortable" style="width:50px;"| [[Volya Movement|Volya]]
+! class="unsortable" style="width:50px;"| [[There Is Such A People|ITN]]
+! class="unsortable" style="width:50px;"| [[Stand Up! Mafia, Get Out!|ISMV]]
+! class="unsortable" style="width:50px;" rowspan="2"| Others / [[None of the above|None]]
+! rowspan="2"| Lead
+|-
+! data-sort-type="number" style="background:{{GERB/meta/color}};"|
+! data-sort-type="number" style="background:{{Bulgarian Socialist Party/meta/color}};"|
+! data-sort-type="number" style="background:{{Movement for Rights and Freedoms/meta/color}};"|
+! data-sort-type="number" style="background:{{United Patriots/meta/color}};"|
+! data-sort-type="number" style="background:{{Democratic Bulgaria/meta/color}};"|
+! data-sort-type="number" style="background:{{Volya Movement/meta/color}};"|
+! data-sort-type="number" style="background:{{There_Are_Such_People/meta/color}};"|
+! data-sort-type="number" style="background:{{Stand Up! Mafia, Get Out!/meta/color}};;"|
+|-
+| [https://alpharesearch.bg/post/977-obshtestveni-naglasi-na-starta-na-predizbornata-kampania-za-45-narodno-subranie.html Alpha Research] (voters)
+| data-sort-value="2021-03-01" | 26 Feb–1 Mar 2021
+| 1,013
+| –
+| style="background: #CCE6FF;"|'''28.5%'''{{efn|In an electoral alliance with [[Union of Democratic Forces (Bulgaria)|SDS]].|name=gerbsds1}}
+| 23.2%
+| 12.5%
+| 3.7%{{efn|[[IMRO – Bulgarian National Movement|IMRO-BNM]] only.|name=imro1}}
+| 5.7%
+| 1.8%{{efn|In an electoral alliance with [[National Front for the Salvation of Bulgaria|NFSB]].|name=volyanfsb1}}
+| 13.3%
+| 4.5%
+| 6.8%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|5.3%
+|-
+|[https://offnews.bg/politika/mediana-21-iskat-borisov-da-ostane-na-vlast-a-51-upravlenie-bez-746827.html Mediana]
+| data-sort-value="2020-12-17" | 22–26 Feb 2021
+| 943
+| –
+| style="background: #CCE6FF;"|'''27.5%'''{{efn|In an electoral alliance with [[Union of Democratic Forces (Bulgaria)|SDS]].|name=gerbsds1}}
+| 24.2%
+| 10.7%
+| 4.0%{{efn|[[IMRO – Bulgarian National Movement|IMRO-BNM]] only.|name=imro1}}
+| 4.2%
+| 3.1%{{efn|In an electoral alliance with [[National Front for the Salvation of Bulgaria|NFSB]].|name=volyanfsb1}}
+| 15.2%
+| 5.0%
+| 6.1%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|3.3%
+|-
+| [https://btvnovinite.bg/predavania/tazi-sutrin/market-links-slavi-trifonov-s-poveche-podkrepa-ot-borisov-i-manolova.html Market Links] (voters)
+| data-sort-value="2021-02-24" | 17–24 Feb 2021
+| 1,019
+| –
+| style="background: #CCE6FF;"|'''24.6%'''{{efn|In an electoral alliance with [[Union of Democratic Forces (Bulgaria)|SDS]].|name=gerbsds1}}
+| 18.9%
+| 8.5%
+| 2.7%{{efn|[[IMRO – Bulgarian National Movement|IMRO-BNM]] only.|name=imro1}}
+| 7.6%
+| –
+| 13.0%
+| 3.9%
+| 20.8%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|5.7%
+|-
+| [https://rctrend.bg/project/нагласи-на-българие-спрямо-основните/ Trend] (voters)
+| data-sort-value="2021-02-19" |12–19 Feb 2021
+| 1,008
+| ± 3.1%
+| style="background: #CCE6FF;"|'''28.9%'''{{efn|In an electoral alliance with [[Union of Democratic Forces (Bulgaria)|SDS]].|name=gerbsds1}}
+| 24.1%
+| 11.1%
+| 3.8%{{efn|[[IMRO – Bulgarian National Movement|IMRO-BNM]] only.|name=imro1}}
+| 6.2%
+| 2.6%{{efn|In an electoral alliance with [[National Front for the Salvation of Bulgaria|NFSB]].|name=volyanfsb1}}
+| 12.9%
+| 4.0%
+| 6.4%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|4.8%
+|-
+| [https://www.gallup-international.bg/44430/institutional-confidence-and-electoral-snapshot/ Gallup] (voters)
+| data-sort-value="2021-01-15" | 4–12 Feb 2021
+| 1,011
+| ± 3.1%
+| style="background: #CCE6FF;"|'''25.8%'''{{efn|In an electoral alliance with [[Union of Democratic Forces (Bulgaria)|SDS]].|name=gerbsds1}}
+| 21.9%
+| 12.4%
+| 4.2%{{efn|[[IMRO – Bulgarian National Movement|IMRO-BNM]] only.|name=imro1}}
+| 6.8%
+| 2.7%{{efn|In an electoral alliance with [[National Front for the Salvation of Bulgaria|NFSB]].|name=volyanfsb1}}
+| 13.1%
+| 4.7%
+| 8.4%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|3.9%
+|-
+| [https://www.marketlinks.bg/bg/news/obshtestveni-naglasi-kam-predstoyashtite-izbori-yanuari-2021-84.html Market Links] (voters)
+| data-sort-value="2021-01-31" | 23–31 Jan 2021
+| 500
+| –
+| style="background: #CCE6FF;"|'''28.6%'''
+| 20.9%
+| 11.9%
+| 3.4%
+| 10.7%
+| –
+| 15.5%
+| 5.3%
+| 3.8%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|7.7%
+|-
+| [https://www.marketlinks.bg/bg/news/obshtestveni-naglasi-kam-predstoyashtite-izbori-yanuari-2021-84.html Market Links] (all)
+| data-sort-value="2021-01-31" | 23–31 Jan 2021
+| 1,000
+| –
+| style="background: #CCE6FF;"|'''25.5%'''
+| 22.5%
+| 11.2%
+| 4.3%
+| 8%
+| –
+| 18.1%
+| 6.6%
+| 3.8%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|3%
+|-
+|-
+| [https://rctrend.bg/project/нагласи-на-българие-спрямо-основните/ Trend] (voters)
+| data-sort-value="2021-01-19" |12–19 Jan 2021
+| 1,008
+| ± 3.1%
+| style="background: #CCE6FF;"|'''27.6%'''
+| 24.9%
+| 10.3%
+| 4%
+| 6%
+| 1.3%
+| 11.8%
+| 4.1%
+| 10%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|2.7%
+|-
+| [https://www.gallup-international.bg/44244/moment-electoral-attitudes-snapshot/ Gallup] (voters)
+| data-sort-value="2021-01-15" | 7–15 Jan 2021
+| 1,010
+| ± 3.1%
+| style="background: #CCE6FF;"|'''25.6%'''{{efn|In an electoral alliance with [[Union of Democratic Forces (Bulgaria)|SDS]].|name=gerbsds1}}
+| 21.4%
+| 12.2%
+| 5.1%
+| 6.9%
+| 2.3%
+| 13.8%
+| 5%
+| 7.6%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|4.2%
+|-
+| [https://alpharesearch.bg/post/975-predizboren-politicheski-triugulnik-kovid-19-ikonomika-aktivnost.html Alpha Research] (voters)
+| data-sort-value="2020-12-21" | 15–21 Dec 2020
+| 504
+| –
+| style="background: #CCE6FF;"|'''29%'''
+| 26.2%
+| 8.6%
+| 3.2%
+| 7.3%
+| –
+| 12.2%
+| 5.9%
+| 7.6%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|2.8%
+|-
+|[https://offnews.bg/analizi/mediana-pravitelstvoto-poluchava-otcenka-3-22-vseki-vtori-balgarin-i-742600.html Mediana]
+| data-sort-value="2020-12-17" | 12–17 Dec 2020
+| 954
+| –
+| 24.2%
+| style="background: #FAD1D3;"|'''25.7%'''
+| 10.8%
+| 4.7%
+| 3.4%
+| 1.6%
+| 17%
+| 4.8%
+| 7.8%
+| style="background:{{Bulgarian Socialist Party/meta/color}};color:#FFFFFF;"|1.5%
+|-
+|[https://offnews.bg/politika/prouchvane-gerb-s-malka-prednina-pred-bsp-slavi-e-treta-politicheska-742541.html Exacta]
+| data-sort-value="2020-12-12" | 5–12 Dec 2020
+| 1,025
+| –
+| style="background: #CCE6FF;"|'''28.8%'''
+| 25.6%
+| 8.4%
+| 5.4%
+| 6%
+| –
+| 14%
+| 3.7%
+| 8.1%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|3.2%
+|-
+|[https://frognews.bg/novini/spored-barometar-gerb-povejda-izborite-slavi-ostava-izvan-parlamenta.html Barometer]
+| data-sort-value="2020-11-29" | 24–29 Nov 2020
+| 847
+| –
+| style="background: #CCE6FF;"|'''33.5%'''
+| 20.8%
+| 13.2%
+| 12.7%
+| 5.2%
+| 1.2%
+| 6.2%
+| 2.5%
+| 4.8%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|12.7%
+|-
+|[https://novini.bg/bylgariya/politika/628955 Barometer]
+| data-sort-value="2020-11-11" | 6–11 Nov 2020
+| 882
+| –
+| style="background: #CCE6FF;"|'''33.6%'''
+| 21.6%
+| 12.3%
+| 12%
+| 5.1%
+| 1.1%
+| 6.1%
+| 2.6%
+| 5.7%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|12%
+|-
+|[https://www.facebook.com/sovaharris/photos/pcb.3485584781561018/3485582691561227 Sova Harris]
+| data-sort-value="2020-11-03" | 27 Oct–3 Nov 2020
+| 1,000
+| ± 3.1%
+| style="background: #CCE6FF;"|'''26.6%'''{{efn|In an electoral alliance with [[Union of Democratic Forces (Bulgaria)|SDS]].|name=gerbsds1}}
+| 25.1%
+| 8.7%
+| 5.5%
+| 8.4%
+| 3.2%
+| 11.4%
+| 5.7%
+| 5.4%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|1.5%
+|-
+|[https://rego.bg/политически-и-електорални-нагласи-ок/ Rego] (voters)
+| data-sort-value="2020-10-27" | 21–27 Oct 2020
+| 2,000
+| –
+| style="background: #CCE6FF;"|'''27.1%'''
+| 26.3%
+| 8.3%
+| 2.8%
+| 7.6%
+| 1.1%
+| 18.6%
+| 3.9%
+| 4.3%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|0.8%
+|-
+|[https://dariknews.bg/novini/bylgariia/prouchvane-pet-partii-v-parlamenta-gerb-pred-bsp-s-1-2245073 Specter] (voters)
+| data-sort-value="2020-10-17" | 12–16 Oct 2020
+| 1,016
+| –
+| style="background: #CCE6FF;"|'''22.9%'''
+| 21.8%
+| 10.4%
+| 3.4%
+| 12.2%
+| 0.8%
+| 16.1%
+| 3.5%
+| 8.9%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|1.1%
+|-
+|[https://www.bgonair.bg/a/2-bulgaria/206654-barometar-v-parlamenta-vlizat-gerb-bsp-dps-i-op Barometer]
+| data-sort-value="2020-10-16" | 10–16 Oct 2020
+| 866
+| –
+| style="background: #CCE6FF;"|'''32.7%'''
+| 23.6%
+| 12.4%
+| 11.3%
+| 4.7%
+| 1.1%
+| 6.1%
+| 2.7%
+| 5.3%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|9.1%
+|-
+| [https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%81%d0%bf%d1%80%d1%8f%d0%bc%d0%be-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%b8%d1%82-5/ Trend] (voters)
+| data-sort-value="2020-10-10"| 3–10 Oct 2020
+| 1,008
+| ± 3.1%
+| style="background: #CCE6FF;"|'''24.1%'''
+| 23.6%
+| 10.2%
+| 3.8%
+| 8.8%
+| 1.6%
+| 15.9%
+| 3.9%
+| 8.1%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|0.5%
+|-
+|[https://www.gallup-international.bg/44062/public-opinion-in-bulgaria-about-parties-and-economy/ Gallup]
+| data-sort-value="2020-10-09" | 1–9 Oct 2020
+| 803
+| ± 3.5%
+| 19.1%
+| style="background: #FAD1D3;"|'''19.8%'''
+| 10.1%
+| 3.4%
+| 7.3%
+| 2.6%
+| 12.6%
+| 3.7%
+| 21.4%
+| style="background:{{Bulgarian Socialist Party/meta/color}};color:#FFFFFF;"|0.7%
+|-
+| [https://alpharesearch.bg/post/971-produljavashta-podkrepa-za-protestite-i-neiasen-izhod-ot-politicheskata-kriza.html Alpha Research] (voters)
+| data-sort-value="2020-09-30" | 21–30 Sep 2020
+| 1,031
+| –
+| style="background: #CCE6FF;"|'''22.8%'''
+| 21.8%
+| 11%
+| 4.2%
+| 10.5%
+| 0.3%
+| 16.6%
+| 5.1%
+| 7.7%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|1%
+|-
+| [https://www.marketlinks.bg/bg/news/otnovo-s-pogled-kam-evropa-septemvri-2020-83.html Market Links] (voters){{Efn|The original source data had percentages that totaled 100.2 due to rounding. Due to a lack of better data, the same is true for the recalculated percentages.|name=|group=}}
+| data-sort-value="2020-09-26" | 18–26 Sep 2020
+| 544
+| –
+| style="background: #CCE6FF;"|'''27.4%'''
+| 27.2%
+| 9.9%
+| 2.7%
+| 11.8%
+| –
+| 13.5%
+| 3.1%
+| 4.4%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|0.2%
+|-
+| [https://www.marketlinks.bg/bg/news/otnovo-s-pogled-kam-evropa-septemvri-2020-83.html Market Links] (all)
+| data-sort-value="2020-09-26" | 18–26 Sep 2020
+| 1,058
+| –
+| 24.6%
+| style="background: #FAD1D3;"|'''25.5%'''
+| 11.7%
+| 2.8%
+| 10%
+| –
+| 17%
+| 4.2%
+| 4.2%
+| style="background:{{Bulgarian Socialist Party/meta/color}};color:#FFFFFF;"|0.9%
+|-
+| [https://www.gallup-international.bg/43966/public-opinion-political-situation-september/ Gallup]
+| data-sort-value="2020-09-11" | 3–11 Sep 2020
+| 807
+| ± 3.5%
+| 18.6%
+| style="background: #FAD1D3;"|'''19%'''
+| 10.7%
+| 3.8%
+| 7.3%
+| 2.5%
+| 11.7%
+| 3.1%
+| 22.6%
+| style="background:{{Bulgarian Socialist Party/meta/color}};color:#FFFFFF;"|0.4%
+|-
+| [https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%81%d0%bf%d1%80%d1%8f%d0%bc%d0%be-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%b8%d1%82-4/ Trend] (voters)
+| data-sort-value="2020-09-05"| 29 Aug–5 Sep 2020
+| 1,008
+| ± 3.1%
+| style="background: #CCE6FF;"|'''23.8%'''
+| 23.4%
+| 10.4%
+| 3.9%
+| 9.9%
+| 1.2%
+| 15.9%
+| 4%
+| 7.5%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|0.4%
+|-
+| [https://www.facebook.com/sovaharris/posts/3274689862650512 Sova Harris]
+| data-sort-value="2020-08-25"| 19–25 Aug 2020
+| 1,000
+| ± 3.1%
+| style="background: #CCE6FF;"|'''27.7%'''{{efn|In an electoral alliance with [[Union of Democratic Forces (Bulgaria)|SDS]].|name=gerbsds1}}
+| 24.5%
+| 9.2%
+| 4.4%
+| 7%
+| 3%
+| 15.7%
+| 4.5%
+| 4%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|3.2%
+|-
+| [https://dariknews.bg/novini/bylgariia/barometyr-bylgariia-708-ne-iskat-predsrochen-vot-26-odobriavat-protesta-2236808 Barometer]
+| data-sort-value="2020-08-11"| 3–11 Aug 2020
+| 842
+| –
+| style="background: #CCE6FF;"|'''38.9%'''
+| 18.9%
+| 12.2%
+| 11.7%
+| 4.8%
+| 1.7%
+| 5.3%
+| 1.9%
+| 4.5%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|20%
+|-
+| [https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d0%ba%d1%8a%d0%bc-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%b8%d1%82%d0%b5-%d0%bf%d0%b0-6/ Trend] (voters)
+| data-sort-value="2020-08-10"| 3–10 Aug 2020
+| 1,010
+| ± 3.1%
+| style="background: #CCE6FF;"|'''24.2%'''
+| 22.9%
+| 9.8%
+| 4.1%
+| 10.1%
+| 1.2%
+| 14.9%
+| 4.4%
+| 8.4%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|1.3%
+|-
+|[https://www.gallup-international.bg/43810/public-opinion-political-situation/ Gallup]
+| data-sort-value="2020-08-07" | 30 Jul–7 Aug 2020
+| 811
+| ± 3.5%
+| style="background: #CCE6FF;"|'''20%'''
+| 19.1%
+| 9.4%
+| 3.2%
+| 7.9%
+| 2.2%
+| 10.9%
+| 3.3%
+| 24.1%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|0.9%
+|-
+| [https://pik.bg/само-в-пик-tv-горещи-данни-от-център-за-анализи-и-маркетинг---59-не-искат-предсрочни-избор-news950384.html CAM]
+| data-sort-value="2020-08-05"| 1–5 Aug 2020
+| 1,021
+| ± 3.1%
+| style="background: #CCE6FF;"|'''30.1%'''{{efn|In an electoral alliance with [[Union of Democratic Forces (Bulgaria)|SDS]].|name=gerbsds1}}
+| 19.7%
+| 10.8%
+| 4.3%
+| 10.1%
+| 2.1%
+| 13.9%
+| 5%
+| 3.9%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|10.4%
+|-
+| [https://www.marketlinks.bg/bg/news/obshtestvenoto-nedovolstvo-promenya-politicheskata-konfiguratsiya-yuli-2020-82.html Market Links] (voters)
+| data-sort-value="2020-08-03"| 28 Jul–3 Aug 2020
+| 573
+| –
+| style="background: #CCE6FF;"|'''26.3%'''
+| 24.7%
+| 10.5%
+| 5%
+| 12.8%
+| –
+| 13.8%
+| 2.5%
+| 4.5%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|1.6%
+|-
+| [https://www.marketlinks.bg/bg/news/obshtestvenoto-nedovolstvo-promenya-politicheskata-konfiguratsiya-yuli-2020-82.html Market Links] (all)
+| data-sort-value="2020-08-03"| 28 Jul–3 Aug 2020
+| 1,093
+| –
+| style="background: #CCE6FF;"|'''23.3%'''
+| 20.7%
+| 9.6%
+| 4.6%
+| 10.1%
+| –
+| 23%
+| 4%
+| 4.7%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|0.3%
+|-
+| [https://www.gallup-international.bg/43810/public-opinion-political-situation/ Gallup]
+| data-sort-value="2020-07-31" | Jul 2020
+| –
+| ± 3.5%
+| style="background: #CCE6FF;"|'''27.4%'''
+| 25.7%
+| 8.5%
+| 4.4%
+| 3.2%
+| 2.4%
+| 8.6%
+| 1.8%
+| 17.9%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|1.7%
+|-
+| [https://www.dnevnik.bg/bulgaria/2020/08/03/4098431_shest_ili_sedem_partii_vlizat_v_parlamenta_ako/?ref=home_mainStory Alpha Research]
+| data-sort-value="2020-07-30"| 23–30 Jul 2020
+| 1,017
+| –
+| style="background: #CCE6FF;"|'''26.7%'''
+| 19.2%
+| 8.3%
+| 4.1%
+| 12.3%
+| 0.9%
+| 18.8%
+| 5.9%
+| 3.9%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|7.5%
+|-
+| [https://www.facebook.com/sovaharris/photos/pcb.3111732932279540/3111731105613056 Sova Harris]
+| data-sort-value="2020-07-1"| 26 Jun–1 Jul 2020
+| 1,000
+| –
+| style="background: #CCE6FF;"|'''37.4%'''
+| 21.4%
+| 7.7%
+| 7.5%
+| 4.2%
+| 4.2%
+| 9.1%
+| 2.6%
+| 5.8%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|16%
+|-
+| [https://www.gallup-international.bg/43810/public-opinion-political-situation/ Gallup]
+| data-sort-value="2020-06-30" | Jun 2020
+| –
+| ± 3.5%
+| style="background: #CCE6FF;"|'''29%'''
+| 23.1%
+| 7.9%
+| 3.8%
+| 3.2%
+| 2.4%
+| 7%
+| 2.4%
+| 21.3%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|5.9%
+|-
+| [https://www.flagman.bg/article/217721 Barometer]
+| data-sort-value="2020-06-25"| 20–25 Jun 2020
+| 828
+| –
+| style="background: #CCE6FF;"|'''37.5%'''
+| 20.4%
+| 11.2%
+| 10.1%
+| 3.4%
+| 1.5%
+| 3.8%
+| 1.7%
+| 10.5%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|17.1%
+|-
+| [https://www.marketlinks.bg/bg/news/konsolidatsiya-okolo-vlastovite-tsentrove-i-visok-zalog-za-sledvashtite-izbori-yuni-2020-81.html Market Links] (voters)
+| data-sort-value="2020-06-03"| 27 May–3 Jun 2020
+| 483
+| –
+| style="background: #CCE6FF;"|'''34.1%'''
+| 25.6%
+| 9.8%
+| 3.7%{{Efn|Results of [[IMRO – Bulgarian National Movement|VMRO]] only, no information on [[National Front for the Salvation of Bulgaria|NFSB]]'s results, which are probably counted as 'Others'.|name=UP2|group=}}
+| 8.5%
+| –
+| 9.8%
+| –
+| 8.5%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|8.5%
+|-
+| [https://clubz.bg/98438-alfa_risyrch_bsp_se_sriva_s_6_na_sto_borisov_haresvan_kolkoto_radev Alpha Research]
+| data-sort-value="2020-05-05"| 28 Apr–5 May 2020
+| 1,000
+| –
+| style="background: #CCE6FF;"|'''33.4%'''
+| 19.6%
+| 10.3%
+| 6.3%
+| 5.9%
+| 1.6%
+| 14.6%
+| –
+| 8.2%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|13.8%
+|-
+| [http://www.mediana.bg/download-analysis/Doklad_022020.doc Mediana]
+| data-sort-value="2020-02-28"| 21–28 Feb 2020
+| 1,008
+| –
+| style="background: #CCE6FF;"|'''29.4%'''
+| 25.7%
+| 13.3%
+| 5.8%
+| 2.7%
+| 1.9%
+| 12.9%
+| –
+| 8.3%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|3.7%
+|-
+| [https://news.bg/society/barometar-ostavi-slavi-i-db-pod-chertata-za-sledvashtiya-parlament.html Barometer]
+| data-sort-value="2020-02-27"| 27 Feb 2020
+| –
+| –
+| style="background: #CCE6FF;"|'''35.2%'''
+| 24%
+| 10.5%
+| 9%{{Efn|Results of [[IMRO – Bulgarian National Movement|VMRO]] only, no information on [[National Front for the Salvation of Bulgaria|NFSB]]'s results, which are probably counted as 'Others'.|name=UP2|group=}}
+| 3.1%
+| 1.4%
+| 3.7%
+| 1.6%
+| 11.5%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|11.2%
+|-
+| [https://rctrend.bg/project/нагласи-на-българите-спрямо-основнит-3/ Trend]
+| data-sort-value="2020-02-10"| 3–10 Feb 2020
+| 1,007
+| ± 3.1%
+| style="background: #CCE6FF;"|'''30.6%'''
+| 27.3%
+| 10.1%
+| 3.9%{{Efn|Results of [[IMRO – Bulgarian National Movement|VMRO]] only, no information on [[National Front for the Salvation of Bulgaria|NFSB]]'s results, which are probably counted as 'Others'.|name=UP2|group=}}
+| 6%
+| 2%
+| 10.7%
+| –
+| 9.4%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|3.3%
+|-
+| [https://dariknews.bg/novini/bylgariia/barometyr-bylgariia-nad-50-ot-bylgarite-sa-dovolni-ot-vyzmozhnostite-v-stranata-2206625 Barometer] (voters)
+| data-sort-value="2020-01-13"| 9–13 Jan 2020
+| 873
+| –
+| style="background: #CCE6FF;"|'''35.5%'''
+| 28.2%
+| 11%
+| 11%
+| 3.2%
+| –
+| 3.6%
+| –
+| 7.5%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|7.3%
+|-
+| [https://alpharesearch.bg/api/uploads/Articles%202019/December%20pressrelease/1219_Alpha_Research_Public_Opinion.pdf Alpha Research]
+| data-sort-value="2019-12-12"| 5–12 Dec 2019
+| 1,017
+| –
+| style="background: #CCE6FF;"|'''29.8%'''
+| 25%
+| 10.7%
+| 7.3%{{Efn|Results of [[IMRO – Bulgarian National Movement|VMRO]] only, no information on [[National Front for the Salvation of Bulgaria|NFSB]]'s results, which are probably counted as 'Others'.|name=UP2|group=}}
+| 7%
+| 2.1%
+| 11.8%
+| –
+| 6.2%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|4.8%
+|-
+| [https://www.marketlinks.bg/bg/news/obshtestveno-politicheski-naglasi-noemvri-2019-66.html Market Links] (voters)
+| data-sort-value="2019-11-28"| 21–28 Nov 2019
+| 448
+| –
+| style="background: #CCE6FF;"|'''29.4%'''
+| style="background: #FAD1D3;"|'''29.4%'''
+| 8.2%
+| 5.9%
+| 10.6%
+| 2.4%
+| 10.6%
+| –
+| 4.7%
+| Tie
+|-
+| [https://www.marketlinks.bg/bg/news/obshtestveno-politicheski-naglasi-noemvri-2019-66.html Market Links] (all)
+| data-sort-value="2019-11-28"| 21–28 Nov 2019
+| 980
+| –
+| style="background: #CCE6FF;"|'''28.6%'''
+| 25.4%
+| 12.7%
+| 6.3%
+| 7.9%
+| 1.6%
+| 12.7%
+| –
+| 3.2%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|3.2%
+|-
+| [https://rctrend.bg/project/208417/ Trend]
+| data-sort-value="2019-11-15"| 7–15 Nov 2019
+| 1,008
+| ± 3.1%
+| style="background: #CCE6FF;"|'''35.6%'''
+| 27.5%
+| 10.3%
+| 5.1%
+| 4.6%
+| 1.8%
+| 7.6%
+| –
+| 7.3%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|8.1%
+|-
+| [https://alpharesearch.bg/post/956-obshtestveni-naglasi-v-nachaloto-na-novia-politicheski-sezon-stari-problemi-novi-igrachi-i-vuzmojni-intrigi-v-mestnia-vot.html Alpha Research]
+| data-sort-value="2019-09-16"| 10–16 Sep 2019
+| 1,023
+| –
+| style="background: #CCE6FF;"|'''29.6%'''
+| 25.8%
+| 11.8%
+| 6.6%
+| 5.6%
+| 2.8%
+| 11.4%
+| –
+| 6.3%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|3.8%
+|-
+| [https://www.marketlinks.bg/bg/news/obshtestveno-politicheski-naglasi-yuni-2019-61.html Market Links] (voters)
+| data-sort-value="2019-06-19"| 11–19 Jun 2019
+| 429
+| –
+| style="background: #CCE6FF;"|'''34.9%'''
+| 33%
+| 9.1%
+| 6.8%
+| 6%
+| 3.8%
+| –
+| –
+| 6.4%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|1.9%
+|-
+| [https://rctrend.bg/project/нагласи-на-българите-спрямо-основнит-2/ Trend]
+| data-sort-value="2019-06-12"| 5–12 Jun 2019
+| 1,008
+| ± 3.1%
+| style="background: #CCE6FF;"|'''36.7%'''
+| 29.1%
+| 10.9%
+| 7.6%
+| 5.1%
+| 1.8%
+| –
+| –
+| 8.8%
+| style="background:{{GERB/meta/color}};color:#FFFFFF;"|7.6%
+|-
+
+<br>
+<small>'''Graphical representation of recalculated data:'''</small>
+{{Graph:Chart
+ | hannotatonslabel=4% electoral threshhold
+ | hannotatonsline=4
+ | vannotatonslabel=First case of CoViD-19 in Bulgaria,Start of 2020 Protests,Start of election campaign
+ | vannotatonsline=2020/03/08,2020/07/09,2021/03/05
+ | width = 900
+ | height= 500
+ | type = line
+ | interpolate =
+ | xType = date
+ | xAxisAngle = -40
+ | yAxisTitle = % of votes
+ | yGrid = yes
+ | yAxisMin = 0
+ | linewidth = 2
+ | legend=Legend:
+ | y1Title=GERB-SDS
+ | y2Title=BSP
+ | y4Title=DPS
+ | y8Title=OP
+ | y7Title=VMRO
+ | y5Title=DB
+ | y9Title=Volya-NFSB
+ | y3Title=ITN
+ | y6Title=ISMV
+ | x = 2019/06/12, 2019/06/19, 2019/09/16, 2019/11/15, 2019/11/28, 2019/11/29, 2019/12/12, 2020/02/10, 2020/02/28, 2020/05/05, 2020/06/03, 2020/06/30, 2020/07/01, 2020/07/30, 2020/07/31, 2020/08/03, 2020/08/04, 2020/08/05, 2020/08/07, 2020/08/10, 2020/08/25, 2020/09/05, 2020/09/11, 2020/09/26, 2020/09/27, 2020/09/30, 2020/10/09, 2020/10/10, 2020/10/17, 2020/10/27, 2020/11/03, 2020/12/12, 2020/12/17, 2020/12/21, 2021/01/13, 2021/01/15, 2021/01/19, 2021/01/31, 2021/02/01, 2021/02/02, 2021/02/12, 2021/02/17, 2021/02/19, 2021/02/22, 2021/02/24, 2021/02/25, 2021/02/26, 2021/03/01, 2021/03/02, 2021/03/04, 2021/03/14, 2021/03/16, 2021/03/18, 2021/03/23, 2021/03/24, 2021/03/25, 2021/03/26, 2021/03/28, 2021/03/30, 2021/03/31, 2021/04/01, 2021/04/02, 2021/04/04,
+ | y1 = 36.7,34.9,29.6,35.6,28.6,29.4,29.8,30.6,29.4,33.4,34.1,29,37.4,26.7,27.4,23.3,26.3,30.1,20,24.8,27.7,24.3,18.6,24.6,27.4,22.8,19.1,24.4,22.9,27.1,26.6,28.8,24.2,29,29.5,25.6,28.3,25.5,28.6,27,25.8,25.2,28.9,26.4,26.5,28.9,27.5,27.5,28.5,27.5,28.8,30.7,28.4,27,29.9,25.7,25.9,25.5,28.1,28.6,28.1,28.2, 26.18
+ | y2 = 29.1,33,25.8,27.5,25.4,29.4,25,27.3,25.7,19.6,25.6,23.1,21.4,19.2,25.7,20.7,24.7,19.7,19.1,22.9,24.5,23.4,19,25.5,27.2,21.8,19.8,23.6,21.8,26.3,25.1,25.6,25.7,26.2,23.9,21.4,24.9,22.5,20.9,24.8,21.9,22.5,24.1,22.3,21.6,22.2,24.2,23.3,23.2,22.1,23.6,24,22.5,23,21,22,20.4,28.2,20.2,21.8,19.8,20.8, 15.01
+ | y4 = 10.9,9.1,11.8,10.3,12.7,8.2,10.7,10.1,13.3,10.3,9.8,7.9,7.7,8.3,8.5,9.6,10.5,10.8,9.4,9.8,9.2,10.4,10.7,11.7,9.9,11,10.1,10.2,10.4,8.3,8.7,8.4,10.8,8.6,10.8,12.2,10.3,11.2,11.9,9.3,12.4,11.5,11.1,8.5,10.1,10,10.7,12.5,12.5,11.2,12.1,11.5,12,11.3,11.2,11.5,10.2,9,12.9,12.4,12.5,12.7, 10.49
+ | y8 = 2,6.8,6.6,5.1,6.3,5.9,7.3,3.9,5.8,6.3,3.7,3.8,7.5,4.1,4.4,4.6,5,4.3,3.2,4.1,4.4,3.9,3.8,2.8,2.7,4.2,3.4,3.8,3.4,2.8,5.5,5.4,4.7,3.2,3.7,5.1,4,4.3,3.4,
+ | y7 = 5.5, , ,5.1, , , ,3.9,3.9, ,3.7, ,6.8, , , , , , , ,3.7, , , , , , , , , ,4.7, , , , , , , , ,4.4,4.2,3.2,3.8, ,3.2,3.2,4,4.2,3.7,3.8,4,4.8,4,4.2,4.4,3.8,3.7,3.1,4.6,4.3,4,4.4, 3.64
+ | y5 = 5.1,6,5.6,4.6,7.9,10.6,7,6,2.7,5.9,8.5,3.2,4.2,12.3,3.2,10.1,12.8,10.1,7.9,10.1,7,9.9,7.3,10,11.8,10.5,7.3,8.8,12.2,7.6,8.4,6,3.4,7.3,7.4,6.9,6,8,10.7,4.1,6.8,5.6,6.2,5.1,7.3,8.9,4.2,6.5,5.7,5.5,5.9,5.6,5.4,4.7,5.8,7.1,8.5,5.2,6,5.9,6.3,6.1, 9.45
+ | y9 = 1.8,3.8,2.8,1.8,1.6,2.4,2.1,2,3.8,1.6, ,2.4,4.9,0.9,2.4, , ,2.1,2.2,1.2,3.6,1.2,2.5, , ,0.3,2.6,1.6,0.8,1.1,4, ,1.6, ,1.3,2.3,1.3, , ,4.5,2.7,2,2.6, , , ,3.1,2.6,1.8,4,2.5,2.3,4.5,4,2.3, , ,1.5,2.8,3.2,3.1,3, 2.37
+ | y3 = , ,11.4,7.6,12.7,10.6,11.8,10.7,12.9,14.6,9.8,7,9.1,18.8,8.6,23,13.8,13.9,10.9,14.9,15.7,15.9,11.7,17,13.5,16.6,12.6,15.9,16.1,18.6,11.4,14,17,12.2,12.1,13.8,11.8,18.1,15.5,15.4,13.1,14.2,12.9,13.5,19.1,15.3,15.2,13.2,13.3,12.1,12.7,11.8,12.2,13.5,11.5,16.4,14.4,15.7,14.3,12.6,12.7,12.9, 17.66
+ | y6 = , , , , , , , , , , ,2.4,2.6,5.9,1.8,4,2.5,5,3.3,4.4,4.5,4,3.1,4.2,3.1,5.1,3.7,3.9,3.5,3.9,5.7,3.7,4.8,5.9,5.3,5,4.1,6.6,5.3,4.7,4.7,4.1,4, ,5.3,4.6,5,4.5,4.5,3.8,4.1,4.8,3.8,6.7,4.3,5.6,5.1,6.9,5.1,4.8,6,5.2, 4.72
+ | colors = #0056A7, #D71921, #4BB9DE, #0060AA, #004A80, #4C813D, #000000, #999999, #00718F
+ | showSymbols = 1,1,1,1,1,1,1,1
+ | symbolsShape = circle
+ | symbolsNoFill = false
+ | symbolsStroke = 1.25
+}}
+<small>''Note: The above data does not include Barometer polls, due to claims by other pollsters and media that the agency only has one employee.''</small><ref>[https://www.svobodnaevropa.bg/a/30988522.html When the numbers 'smell fishy'. How a party-colored agency sends something and BNT shows it]. // Svobodnaevropa.bg. Visited on 5 February 2021.</ref>

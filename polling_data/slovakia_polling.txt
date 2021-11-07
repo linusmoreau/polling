@@ -1,11 +1,8 @@
 === Voting intention estimates ===
-Voting intention estimates made by polling firms that are members of the [[ESOMAR|European Society for Opinion and Marketing Research]] (ESOMAR) and the [[Slovak Association of Research Agencies]] (SAVA). 
+Voting intention estimates made by polling firms that are members of the [[ESOMAR|European Society for Opinion and Marketing Research]] (ESOMAR) and the [[Slovak Association of Research Agencies]] (SAVA). They are conducted in the form of telephone and personal interviews with selected persons, who form a [[Sampling (statistics)|representative sample]] reflecting the demographic parameters of the [[Demographics of Slovakia|population of Slovakia]]. Respondents are asked: "Imagine that a [[Next Slovak parliamentary election|parliamentary election]] would be held in [[Slovakia]] next Saturday. Would you vote in them and if so, which party would you vote for?" Respondents are read a [[List of political parties in Slovakia|list]] of currently active political parties.
 
-They are conducted in the form of telephone and personal interviews with selected persons, who form a [[Sampling (statistics)|representative sample]] reflecting the demographic parameters of the [[Demographics of Slovakia|population of Slovakia]]. Respondents are asked: "Imagine that a [[Next Slovak parliamentary election|parliamentary election]] would be held in [[Slovakia]] next Saturday. Would you vote in them and if so, which party would you vote for?" Respondents are read a [[List of political parties in Slovakia|list]] of currently active political parties.
+Results are published that include only the answers of respondents who would vote for a particular party. The table shows political parties that have exceeded the electoral threshold in the [[2020 Slovak parliamentary election|last election]] or oscillate around 4 percent or more in polls. The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party alliances; 10% for four-or-more party alliance. 76 seats are required for an [[absolute majority]] in the [[National Council (Slovakia)|National council]].
 
-Results are published that include only the answers of respondents who would vote for a particular party. The table shows political parties that have exceeded the electoral threshold in the [[2020 Slovak parliamentary election|last election]] or oscillate around 4 percent or more in polls. 
-
-The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party alliances; 10% for four-or-more party alliance. 76 seats are required for an [[absolute majority]] in the [[National Council (Slovakia)|National council]]. 
 {|class="wikitable" style="text-align:center; font-size:90%; line-height:14px;"
 
 |+
@@ -37,6 +34,23 @@ The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party a
 !style="background:#403f3b;"|
 !style="background:#f90311;"|
 !style="background:#e30512;"|
+|-
+|Focus{{Ref|1=https://dennikn.sk/2593543/focus-smer-rastie-a-blizi-sa-k-16-percentam-kollarovi-blokovanie-reforiem-zatial-nepomaha/?ref=tit}}
+|20–27<br>Oct 2021
+|1,009
+|8.4%<br>{{font|size=80%|font=Arial|text=15}}
+|15.5%<br>{{font|size=80%|font=Arial|text=27}}
+|6.3%<br>{{font|size=80%|font=Arial|text=11}}
+|3.8%<br>{{font|size=80%|font=Arial|text=0}}
+|6.9%<br>{{font|size=80%|font=Arial|text=12}}
+|12.2%<br>{{font|size=80%|font=Arial|text=21}}
+|2.8%<br>{{font|size=80%|font=Arial|text=0}}
+|6.1%<br>{{font|size=80%|font=Arial|text=11}}
+|5.2%<br>{{font|size=80%|font=Arial|text=9}}
+| style="background:#f9acb1;" | '''19.3%'''<br>{{font|size=80%|font=Arial|text=34}}
+|5.5%<br>{{font|size=80%|font=Arial|text=10}}
+|8.0%
+| style="background:#f90311;" | 3.8%
 |-
 |AKO{{Ref|https://ako.sk/wp-content/uploads/2021/10/AKO-VOLEBNE-PREF-OKTOBER-2021.pdf}}
 |4–7<br>Oct 2021

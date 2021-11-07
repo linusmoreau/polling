@@ -20,6 +20,123 @@
 ! data-sort-type="number" style="background:{{Scottish National Party/meta/color}};"|
 ! data-sort-type="number" style="background:{{Green Party of England and Wales/meta/color}};"|
 |-
+|{{opdrts|5|6|Nov|2021}}
+|[https://twitter.com/OpiniumResearch/status/1457065107918307329 Opinium]
+|''The Observer''
+|GB
+|1,175
+|style="background:#CCEBFF;"|'''37%'''
+|36%
+|9%
+|5%
+|6%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|7%|[[Plaid Cymru]] on 1%<br/>Other on 6%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|1%
+|-
+|{{opdrts|3|5|Nov|2021}}
+|[https://deltapoll.co.uk/polls/voteint211106 Deltapoll]
+|N/A
+|GB
+|1,560
+|style="background:#CCEBFF;"|'''40%'''
+|37%
+|8%
+|3%
+|6%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|6%|[[Plaid Cymru]] on 1%<br/>[[UKIP]] on 2%<br/>[[Reform UK]] on 2% <br/>Other on 1%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|3%
+|-
+|{{opdrts|3|4|Nov|2021}}
+|[https://docs.cdn.yougov.com/kt0t33j4pz/TheTimes_VI_211104_W.pdf YouGov]
+|''The Times''
+|GB
+|1,699
+|style="background:#CCEBFF;"|'''36%'''
+|35%
+|8%
+|5%
+|9%
+|{{Hidden|7%|[[Reform UK]] on 5%<br/>[[Plaid Cymru]] on 0%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|1%
+|-
+|{{opdrts||1|Nov|2021}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-1-november-2021/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''40%'''
+|35%
+|10%
+|4%
+|6%
+|{{Hidden|5%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 0%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|5%
+|-
+|{{opdrts|29|31|Oct|2021}}
+|[https://comresglobal.com/polls/westminster-voting-intention-4th-november-2021/ SavantaComRes]
+|N/A
+|UK
+|2,242
+|style="background:#CCEBFF;"|'''40%'''
+|35%
+|9%
+|5%
+|4%
+|{{Hidden|8%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|5%
+|-
+|{{opdrts|27|29|Oct|2021}}
+|[https://www.opinium.com/resource-center/uk-voting-intention-25th-october-2021/ Opinium]
+|''The Observer''
+|GB
+|2,001
+|style="background:#CCEBFF;"|'''40%'''
+|35%
+|8%
+|5%
+|7%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|6%|[[Plaid Cymru]] on 1%<br/>Other on 5%}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|5%
+|-
+|{{opdrts|27|28|Oct|2021}}
+|[https://docs.cdn.yougov.com/ho1tab7cgu/TheTimes_VI_Results_211028_.pdf YouGov]
+|''The Times''
+|GB
+|1,699
+|style="background:#CCEBFF;"|'''39%'''
+|33%
+|8%
+|5%
+|10%
+|{{Hidden|7%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|6%
+|-
+|{{opdrts||25|Oct|2021}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-25-october-2021/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''39%'''
+|36%
+|10%
+|4%
+|6%
+|{{Hidden|5%|[[Reform UK]] on 4%<br/>[[Plaid Cymru]] on 0%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|3%
+|-
+|{{opdrts|22|24|Oct|2021}}
+|[https://comresglobal.com/polls/westminster-voting-intention-27th-october-2021/ SavantaComRes]
+|N/A
+|UK
+|2,092
+|style="background:#CCEBFF;"|'''37%'''
+|35%
+|8%
+|5%
+|7%
+|{{Hidden|10%|[[Reform UK]] on 4%<br/>[[Plaid Cymru]] on 1%<br/>Other on 5%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|2%
+|-
 |{{opdrts|20|21|Oct|2021}}
 |[https://docs.cdn.yougov.com/bbcub9yad5/TheTimes_VI_Results_211021_W.pdf YouGov]
 |''The Times''
@@ -73,7 +190,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|8%
 |-
 |{{opdrts|15|17|Oct|2021}}
-|[https://twitter.com/SavantaComRes/status/1450738469270077443?s=20 SavantaComRes]
+|[https://comresglobal.com/polls/savanta-comres-political-tracker-october-2021/ SavantaComRes]
 |N/A
 |UK
 |2,092
@@ -82,7 +199,7 @@
 |8%
 |4%
 |5%
-|8%
+|{{Hidden|8%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|5%
 |-
 |{{opdrts||15|Oct|2021}}
@@ -141,7 +258,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|4%
 |-
 |{{opdrts|8|10|Oct|2021}}
-|[https://twitter.com/SavantaComRes/status/1448652047138504711 SavantaComRes]
+|[https://comresglobal.com/polls/westminster-voting-intention-14th-october-2021/ SavantaComRes]
 |N/A
 |UK
 |2,103
@@ -150,7 +267,7 @@
 |8%
 |5%
 |5%
-|7%
+|{{Hidden|7%|[[Reform UK]] on 2%<br/>[[Plaid Cymru]] on 0%<br/>Other on 5%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|5%
 |-
 |{{opdrts|6|7|Oct|2021}}
