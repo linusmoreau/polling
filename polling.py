@@ -51,18 +51,21 @@ def transcribe_table(content, key, choice, begin, start):
             ns = line.strip()
         if not ('{{' in line and '}}' not in line[line.find('{{'):]):
             ns += '|'
-        if ns[0] == '!' and len(ns) > 1:
+        if len(ns) > 1 and ns[0] == '!':
             ns = '|' + ns[1:]
         s += ns
     content = s.split('||')
     ncontent = []
     j = 0
     while j < len(content) - 1:
-        line = content[j]
+        line = content[j].strip()
         for p in range(len(line) - 2):
             if line[p:p + 2] == '{{' and '}}' not in line[p + 2:]:
-                line = line + '|' + content[j + 1]
                 j += 1
+                line += '|' + content[j].strip()
+                while '}}' not in content[j]:
+                    j += 1
+                    line += '|' + content[j].strip()
                 break
         ncontent.append(line)
         j += 1
@@ -211,8 +214,6 @@ def transcribe_table(content, key, choice, begin, start):
                         'Pinera', 'Lavin', 'Matthei', 'Kast', 'Parisi', 'Farkas', 'Siches',
                         'Other', 'end']
                 reset = True
-            # if '2021 Chilean presidential primaries' in line:
-            #     break
         elif choice == 'Latvia':
             if 'A new party - [[Law and Order (Latvia)|LuK]] - is established' in line:
                 nkey = ['firm', 'date', 'sample', 'dec',
@@ -869,7 +870,7 @@ class GraphPage:
             with open(choices[self.choice]['old_data'], 'r', encoding='utf-8') as f:
                 content.extend(f.readlines())
         tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
-        # display_tables(tables)
+        display_tables(tables)
         tables = process_tables(tables, self.choice, self.include, self.zeros)
         tables = filter_tables(tables, self.choice, self.include)
         tables = modify_tables(tables, self.choice, self.include, self.zeros)

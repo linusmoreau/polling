@@ -76,7 +76,7 @@ The opinion poll results below were recalculated from the original data and excl
 |[http://exacta.bg/?page_id=42 Exacta]
 | data-sort-value="2021-11-05" |29 Oct−5 Nov 2021
 |1025
-|57%
+|[65%-66%]
 |12.5%
 | style="background:#CCE6FF"| '''23.8%'''
 |15.0%
@@ -86,7 +86,7 @@ The opinion poll results below were recalculated from the original data and excl
 |2.5%
 |3.0%
 |15.5%
-|9%
+|8%-9%
 |1.8%
 |3.7%
 | style="background:{{GERB/meta/color}}; color:white;" |8.3%
@@ -122,15 +122,22 @@ The opinion poll results below were recalculated from the original data and excl
 |2.3%
 |3.3%
 |13.7%
-|~15.6%<br>
-([[We Continue the Change|PP]] +2.2%<br>
-[[Democratic Bulgaria|DB]] +1.2%<br>
-[[There Is Such A People|ITN]] +0.5%<br>
-[[Stand Up.BG! We are coming!|IBG]] +0.4%<br>
-[[Movement for Rights and Freedoms|DPS]] -0.4%<br>
-[[Bulgarian Socialist Party|BSP]] -2.1%<br>
-[[GERB|G]][[Union of Democratic Forces (Bulgaria)|SDS]] -2.2%<br>
-other +6.8%)
+|~15.6%{{Collapsible list
+ | expand = no
+ | framestyle = 
+ | titlestyle = 
+ | title = odds
+ | liststyle = 
+ | hlist = 
+ | bullets = 
+ |1=([[We Continue the Change|PP]] +2.2%
+ |2=[[Democratic Bulgaria|DB]] +1.2%
+ |3=[[There Is Such A People|ITN]] +0.5%
+ |4=[[Stand Up.BG! We are coming!|IBG]] +0.4%
+ |5=[[Movement for Rights and Freedoms|DPS]] -0.4%
+ |6=[[Bulgarian Socialist Party|BSP]] -2.1%
+ |7=[[GERB|G]][[Union of Democratic Forces (Bulgaria)|SDS]] -2.2%
+ |8=other +6.8%)}}
 | —
 |5.5%
 | style="background:{{GERB/meta/color}}; color:white;" |6.1%-<br>8.5%

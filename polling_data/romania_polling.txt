@@ -8,7 +8,7 @@
 |xGrid=11
 |yGrid=11
 |x=  2020/12/06, 2020/12/20, 2020/12/21, 2021/01/15, 2021/01/17, 2021/02/11, 2021/02/14, 2021/02/26, 2021/03/28, 2021/04/11, 2021/04/17, 2021/05/06, 2021/05/2, 2021/05/17, 2021/05/28,  2021/06/01, 2021/06/15, 2021/06/18, 2021/07/01, 2021/07/29, 2021/08/15, 2021/08/16, 2021/08/16, 2021/08/21, 2021/08/30, 2021/09/05, 2021/09/20, 2021/09/24, 2021/09/25, 2021/09/28, 2021/10/03, 2021/10/15, 2021/10/16, 2021/10/17, 2021/10/20, 2021/10/24, 2021/10/30 /
-|y1Title= PSD |y1= 29 ,35, 35, 34, 34, 28, 33, 34, 35, 28.9, 33, 22.14, 36, 36, 36, 22.91, 30.02, 34, 31, 38, 35, 34, 35, 35, 35, 36, 37, 37, 32, 31, 30, 32, 36.7, 39, 34, 40, 39, 34
+|y1Title= PSD |y1= 29 ,35, 35, 34, 34, 28, 33, 34, 35, 28.9, 33, 22.14, 36, 36, 36, 22.91, 30.02, 34, 31, 38, 35, 34, 35, 35, 35, 36, 37, 37, 32, 31, 30, 32, 36.7, 39, 34, 40.01, 39, 34
 |y2Title= PNL (incl. FL) |y2= 26 ,26, 26, 26, 24, 27, 25, 25, 26, 22.3, 21, 23.50, 28, 23, 22, 24.95, 26.6, 22, 27,  15.1, 27, 20, 21, 20, 20, 19, 19, 20, 15, 17, 14, 20, 19.8, 21, 16, 17, 19
 |y3Title= USR |y3= 15 ,14, 15, 16, 16, 14, 20, 16, 17, 22.5, 16, 13.59, 11, 14, 15, 15, 13.2, 14, 15 , 11.1, 14, 12, 14, 11, 11, 11, 13, 10, 15, 18, 17.5, 13.0, 16.4, 11, 15, 13, 11 , 20
 |y4Title= APP |y4= , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
@@ -43,17 +43,17 @@
 ! rowspan="2" style="width:30px;" style="width:45px;"| [[List of political parties in Romania|Others]]
 ! rowspan="2" style="width:30px;" style="width:45px;"| Lead
 |-
-! style="background:{{Social Democratic Party (Romania)/meta/color}};"|
-! style="background:{{National Liberal Party (Romania)/meta/color}};"|
-! style="background:{{USR PLUS/meta/color}};" |
-! style="background:{{Alliance for the Union of Romanians/meta/color}};" |
-! style="background:{{Democratic Alliance of Hungarians in Romania/meta/color}};" |
-! style="background:{{People's Movement Party/meta/color}};" |
-! style="background:{{PRO Romania/meta/color}};" |
-! style="background:{{Alliance of Liberals and Democrats (Romania)/meta/color}};" |
-! style="background:{{Conservative Party (Romania)/meta/color}}" |
-! style="background:{{Ecologist Party of Romania/meta/color}}" |
-! style="background:{{Alliance for the Fatherland/meta/color}};" |
+!data-sort-type="number" style="background:{{Social Democratic Party (Romania)/meta/color}};"|
+!data-sort-type="number" style="background:{{National Liberal Party (Romania)/meta/color}};"|
+!data-sort-type="number" style="background:{{USR PLUS/meta/color}};" |
+!data-sort-type="number" style="background:{{Alliance for the Union of Romanians/meta/color}};" |
+!data-sort-type="number" style="background:{{Democratic Alliance of Hungarians in Romania/meta/color}};" |
+!data-sort-type="number" style="background:{{People's Movement Party/meta/color}};" |
+!data-sort-type="number" style="background:{{PRO Romania/meta/color}};" |
+!data-sort-type="number" style="background:{{Alliance of Liberals and Democrats (Romania)/meta/color}};" |
+!data-sort-type="number" style="background:{{Conservative Party (Romania)/meta/color}}" |
+!data-sort-type="number" style="background:{{Ecologist Party of Romania/meta/color}}" |
+!data-sort-type="number" style="background:{{Alliance for the Fatherland/meta/color}};" |
 |-
 |25–30 Oct 2021
 | [https://www.stiripesurse.ro/sondaj-curs-intentia-de-vot-pentru-partide_2072784.html CURS]
@@ -262,18 +262,18 @@
 | data-sort-value="2021-08-24" | 20–24 Aug 2021
 | [https://www.digi24.ro/stiri/actualitate/politica/surse-sondajul-prezentat-de-marcel-ciolacu-liderilor-psd-la-sedinta-de-la-neptun-1650129 Avangarde]
 | 900
-| style="background:#F9C8CA;" | '''35'''
-|21
-| 14
-| 15
-| 5
-| 5
-| 2
+| style="background:#F9C8CA;" | '''35.0'''
+|21.0
+| 14.0
+| 15.0
+| 5.0
+| 5.0
+| 2.0
 | {{n/a}}
-| 1
+| 1.0
 | {{n/a}}
 | {{n/a}}
-| 2{{efn|[[Greater Romania Party|PRM]] 1%}}
+| 2.0{{efn|[[Greater Romania Party|PRM]] 1%}}
 | style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 14.0
 |-
 | data-sort-value="2021-08-20" | 12–20 Aug 2021
@@ -468,7 +468,7 @@
 | 1,030
 | 22.1
 | style="background:#F9F2C8" | '''23.5'''
-| {{circa}} 13.5
+| 13.6
 | 15.5
 | 8.6
 | 4.6
@@ -498,7 +498,7 @@
 | style="background:{{Social Democratic Party (Romania)/meta/color}}; color:white;" | 12.0
 |-
 | data-sort-value="2021-04-11" | 30 Mar–11 Apr 2021
-| BCS<ref>{{Cite web|title=Biroul de Cercetări Sociale|url=https://bcs.com.ro/sondaj/credinte-si-valori-in-societatea-romaneasca|access-date=2021-09-25|language=ro-RO}}</ref>{{cn|date=May 2021}}
+| BCS<ref>https://bcs.com.ro/sondaj/credinte-si-valori-in-societatea-romaneasca</ref>
 | 1,420
 | style="background:#F9C8CA;" | '''28.9'''
 |22.3
