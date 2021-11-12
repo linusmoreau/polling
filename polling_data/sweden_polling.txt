@@ -50,7 +50,7 @@
 |22.7
 |6.0
 |style="background:#FEF4AE;"|'''23.9''' 
-|2.4{{efn|[[Feminist Initiative (Sweden)|FI]]: 0.6 [[Alternative for Sweden|AfS]]: 0.4 [[Citizens' Coalition|MED]]: 0.4 [[Pirate Party (Sweden)|PP]]: 0.6}}
+|2.4{{efn|[[Feminist Initiative (Sweden)|FI]]: 0.6 [[Alternative for Sweden|AfS]]: 0.6 [[Citizens' Coalition|MED]]: 0.3 [[Pirate Party (Sweden)|PP]]: 0.6}}
 |style="background:{{Sweden Democrats/meta/color}};color:black;" |1.2
 |-
 |Ipsos<ref>https://www.dn.se/sverige/dn-ipsos-flera-partier-balanserar-pa-riksdagssparren/</ref>

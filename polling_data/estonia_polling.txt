@@ -3,9 +3,9 @@
 ! rowspan="2"| Polling firm
 ! rowspan="2"|Fieldwork Date
 ! rowspan="2" data-sort-type="number"|Sample<br />size
-! class="unsortable" style="width:50px;" |[[Estonian Centre Party|Kesk]]
-! class="unsortable" style="width:50px;" |[[Conservative People's Party of Estonia|EKRE]]
-! class="unsortable" style="width:50px;" |[[Estonian Reform Party|Ref]]
+! class="unsortable" style="width:50px;"|[[Estonian Reform Party|Ref]]
+! class="unsortable" style="width:50px;"|[[Estonian Centre Party|Kesk]]
+! class="unsortable" style="width:50px;"|[[Conservative People's Party of Estonia|EKRE]]
 ! class="unsortable" style="width:50px;"|[[Isamaa|I]]
 ! class="unsortable" style="width:50px;"|[[Social Democratic Party (Estonia)|SDE]]
 ! class="unsortable" style="width:50px;"|[[Estonia 200|E200]]
@@ -15,808 +15,821 @@
 ! class="unsortable" style="width:20px;"| {{abbr|Gov.|Government parties (Reform, Centre)}}
 ! class="unsortable" style="width:20px;"| {{abbr|Opp.|Non-government parties (Conservative, Isamaa, Social Democratic, Estonia 200 and Green)}}
 |- style="text-align:center;"
-! data-sort-type="number" style="background:{{Estonian Centre Party/meta/color}};" |
-! data-sort-type="number" style="background:{{Conservative People's Party of Estonia/meta/color}};" |
-! data-sort-type="number" style="background:{{Estonian Reform Party/meta/color}};" |
+! data-sort-type="number" style="background:{{Estonian Reform Party/meta/color}};"|
+! data-sort-type="number" style="background:{{Estonian Centre Party/meta/color}};"|
+! data-sort-type="number" style="background:{{Conservative People's Party of Estonia/meta/color}};"|
 ! data-sort-type="number" style="background:{{Pro Patria (Estonian political party)/meta/color}};"|
 ! data-sort-type="number" style="background:{{Social Democratic Party (Estonia)/meta/color}};"|
-! data-sort-type="number" style="background:{{Estonia 200/meta/color}};"|
+! data-sort-type="number" style="background:{{Estonia 200 (2021)/meta/color}};"|
 ! data-sort-type="number" style="background:{{Estonian Greens/meta/color}};"|
 ! data-sort-type="number" style="background:Green;"|
 ! data-sort-type="number" style="background:Red;"|
 |-
-|[https://reitingud.ee/reitingud/ Norstat]
-|26 Oct - 2 Nov
-|≥1,000
-|'''22.8'''
-|21.9
-|20.8
-|7.7
-|8
-|16.9
-|1.5
-|0.4
-|0.9
-|43.6
-|56.4
+| [https://reitingud.ee/reitingud/ Norstat]
+| 2–8 Nov
+| ≥1,000
+| 20.5
+| 20.5
+| style="background:#AEDDFF;"| '''25.5'''
+| 8.0
+| 9.4
+| 12.7
+| 2.7
+| 0.8
+| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;"| 5.0
+| 41.0
+| {{no|58.2}}
 |-
-|[https://reitingud.ee/reitingud/ Norstat]
-|20-25 Oct
-|≥1,000
-|20.3
-| style="background:#AEDDFF;" |'''24'''
-|22.8
-|8.3
-|7.3
-|14.2
-|1.6
-|1.5
-| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;" |1.2
-|43.1
-|{{no|56.9}}
+| [https://reitingud.ee/reitingud/ Norstat]
+| 26 Oct–2 Nov
+| ≥1,000
+| 20.8
+| style="background:#b3dcc8"| '''22.8'''
+| 21.9
+| 7.7
+| 8.0
+| 16.9
+| 1.5
+| 0.4
+| style="background:{{Estonian Centre Party/meta/color}}; color:white;"| 0.9
+| 43.6
+| {{no|56.0}}
+|-
+| [https://reitingud.ee/reitingud/ Norstat]
+| 20–25 Oct
+| ≥1,000
+| 22.8
+| 20.3
+| style="background:#AEDDFF;"| '''24'''
+| 8.3
+| 7.3
+| 14.2
+| 1.6
+| 1.5
+| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;"| 1.2
+| 43.1
+| {{no|55.4}}
 |-
 | [https://www.err.ee/1608378497/emor-reformierakond-kaotas-kuuga-enim-toetust Kantar Emor]
-| 14-20 Oct
+| 14–20 Oct
 | 1,218
+| style="background:#FEF4AE"| '''23'''
 | 18
 | 21
-| style="background:#FEF4AE" | '''23'''
 | 8
 | 10
 | 16
 | 4
 | 1
-| style="background:{{Estonian Reform Party/meta/color}};" | 2
-| 41|| {{no|59}}
+| style="background:{{Estonian Reform Party/meta/color}};"| 2
+| 41|| {{no|58}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
-| 13-18 Oct
+| 13–18 Oct
 | ≥1,000
-| 18.1
-| style="background:#AEDDFF;" | '''26.4'''
 | 23.5
-| 9
+| 18.1
+| style="background:#AEDDFF;"| '''26.4'''
+| 9.0
 | 8.9
 | 11.1
 | 1.6
 | 1.4
-| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;" | 2.9
-| 41.6|| {{no|57}}
+| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;"| 2.9
+| 41.6|| {{no|57.0}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
-| 05-12 Oct
+| 5–12 Oct
 | ≥1,000
+| style="background:#FEF4AE"| '''26.7'''
 | 19.7
-| 22
-| style="background:#FEF4AE" | '''26.7'''
+| 22.0
 | 6.7
 | 8.3
 | 11.9
 | 2.4
 | 2.3
-| style="background:{{Estonian Reform Party/meta/color}};" | 4.7
+| style="background:{{Estonian Reform Party/meta/color}};"| 4.7
 | 46.4|| {{no|51.3}}
 |-
 | [https://www.err.ee/1608369441/reitingud-reformierakond-juhib-napilt-ekre-ees-eesti-200-kaotas-toetust Turu-uuringute AS]
-| 04-08 Oct
+| 4–8 Oct
 | 1,000
+| style="background:#FEF4AE"| '''24'''
 | 19
 | 23
-| style="background:#FEF4AE" | '''24'''
 | 7
 | 7
 | 13
 | 3
 | 4
-| style="background:{{Estonian Reform Party/meta/color}};" | 1
+| style="background:{{Estonian Reform Party/meta/color}};"| 1
 | 43|| {{no|53}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
-| 28 Sep–05 Oct
+| 28 Sep–5 Oct
 | ≥1,000
-| 19.8
-| style="background:#AEDDFF;" | '''26.3'''
 | 22.8
-| 7
+| 19.8
+| style="background:#AEDDFF;"| '''26.3'''
+| 7.0
 | 7.9
 | 12.5
 | 2.3
 | 1.4
-| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;" | 3.5
-| 42.6|| {{no|56}}
+| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;"| 3.5
+| 42.6|| {{no|56.0}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 22–27 Sep
 | ≥1,000
-| 22.3
-| style="background:#AEDDFF;" | '''24.6'''
 | 22.9
+| 22.3
+| style="background:#AEDDFF;"| '''24.6'''
 | 7.9
-| 9
+| 9.0
 | 11.1
 | 1.5
 | 0.7
-| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;" | 1.7
+| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;"| 1.7
 | 45.2|| {{no|54.1}}
 |-
 | [https://www.err.ee/1608349622/reformierakond-suurendas-emori-kusitluses-edu-ekre-ees Kantar Emor]
 | 16–21 Sep
 | 1,060
+| style="background:#FEF4AE"| '''27'''
 | 16
 | 22
-| style="background:#FEF4AE" | '''27'''
 | 6
 | 9
 | 16
 | 3
 | 1
-| style="background:{{Estonian Reform Party/meta/color}};" | 5
+| style="background:{{Estonian Reform Party/meta/color}};"| 5
 | 43|| {{no|56}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 14–20 Sep
 | ≥1,000
-| 15.4
-| style="background:#AEDDFF;" | '''26.1'''
 | 24.1
+| 15.4
+| style="background:#AEDDFF;"| '''26.1'''
 | 5.9
 | 10.1
-| 14
-| 2
+| 14.0
+| 2.0
 | 2.4
-| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;" | 2
+| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;"| 2.0
 | 39.5|| {{no|58.1}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
-| 08-13 Sep
+| 8–13 Sep
 | ≥1,000
+| style="background:#FEF4AE"| '''25.6'''
 | 21.3
 | 23.6
-| style="background:#FEF4AE" | '''25.6'''
 | 6.2
 | 9.8
 | 10.4
 | 2.2
 | 0.9
-| style="background:{{Estonian Reform Party/meta/color}};" | 2
+| style="background:{{Estonian Reform Party/meta/color}};"| 2.0
 | 46.9|| {{no|52.2}}
 |-
 | [https://www.err.ee/1608342428/reitingud-isamaa-toetus-moodus-sotside-omast Turu-uuringute AS]
-| 06-15 Sep
+| 6–15 Sep
 | 1,003
+| style="background:#FEF4AE"| '''24'''
 | 17
 | 22
-| style="background:#FEF4AE" | '''24'''
 | 8
 | 7
 | 16
 | 3
 | 3
-| style="background:{{Estonian Reform Party/meta/color}};" | 2
+| style="background:{{Estonian Reform Party/meta/color}};"| 2
 | 41|| {{no|56}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
-| 01-07 Sep
+| 1–7 Sep
 | ≥1,000
+| style="background:#FEF4AE"| '''24.7'''
 | 19.2
 | 24.6
-| style="background:#FEF4AE" | '''24.7'''
 | 8.4
 | 7.2
 | 12.4
 | 2.4
 | 1.1
-| style="background:{{Estonian Reform Party/meta/color}};" | 0.1
-| 43.9|| {{no|55}}
+| style="background:{{Estonian Reform Party/meta/color}};"| 0.1
+| 43.9|| {{no|55.0}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
-| 25-31 Aug
+| 25–31 Aug
 | ≥1,000
+| style="background:#FEF4AE"| '''28.2'''
 | 17.7
-| 22
-| style="background:#FEF4AE" | '''28.2'''
+| 22.0
 | 7.7
 | 7.6
 | 13.6
 | 2.2
-| 1
-| style="background:{{Estonian Reform Party/meta/color}};" | 6.2
+| 1.0
+| style="background:{{Estonian Reform Party/meta/color}};"| 6.2
 | 45.9|| {{no|53.1}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 17–24 Aug
 | ≥1,000
+| style="background:#FEF4AE"| '''30.0'''
 | 18.1
 | 23.1
-| style="background:#FEF4AE" | '''30'''
 | 5.8
 | 9.2
 | 11.6
 | 1.9
 | 0.3
-| style="background:{{Estonian Reform Party/meta/color}};" | 6.9
+| style="background:{{Estonian Reform Party/meta/color}};"| 6.9
 | 48.1|| {{no|51.6}}
 |-
 | [https://www.err.ee/1608309857/reformierakonna-ja-ekre-toetus-vordsustus Kantar Emor]
 | 12–17 Aug
 | 1,058
+| style="background:#FEF4AE"| '''25'''
 | 16
 | 24
-| style="background:#FEF4AE" | '''25'''
 | 4
 | 11
 | 15
 | 4
 | 1
-| style="background:{{Estonian Reform Party/meta/color}};" | 1
+| style="background:{{Estonian Reform Party/meta/color}};"| 1
 | 41|| {{no|58}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 9–16 Aug
 | ≥1,000
+| style="background:#FEF4AE"| '''32.1'''
 | 17.3
 | 18.3
-| style="background:#FEF4AE" | '''32.1'''
-| 5
+| 5.0
 | 8.5
 | 14.7
 | 2.7
 | 1.4
-| style="background:{{Estonian Reform Party/meta/color}};" | 13.8
+| style="background:{{Estonian Reform Party/meta/color}};"| 13.8
 | {{yes2|49.4}}|| 49.2
 |-
 | [https://www.err.ee/1608314669/reitingud-reformierakond-liider-keskerakonna-toetus-vordsustus-eesti-200-ga Turu-uuringute AS]
 | 5–13 Aug
 | 1,000
+| style="background:#FEF4AE"| '''24'''
 | 17
 | 21
-| style="background:#FEF4AE" | '''24'''
 | 5
 | 9
 | 16
 | 4
 | 4
-| style="background:{{Estonian Reform Party/meta/color}};" | 3
+| style="background:{{Estonian Reform Party/meta/color}};"| 3
 | 41|| {{no|55}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 3–7 Aug
 | ≥1,000
+| style="background:#FEF4AE"| '''29.9'''
 | 18.8
 | 23.5
-| style="background:#FEF4AE" | '''29.9'''
 | 5.9
 | 8.9
 | 10.2
 | 1.8
-| 1
-| style="background:{{Estonian Reform Party/meta/color}};" | 6.4
+| 1.0
+| style="background:{{Estonian Reform Party/meta/color}};"| 6.4
 | 48.7|| {{no|50.3}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 27 Jul–2 Aug
 | ≥1,000
+| style="background:#FEF4AE"| '''28.8'''
 | 17.8
 | 24.8
-| style="background:#FEF4AE" | '''28.8'''
 | 5.8
 | 7.6
 | 12.1
 | 2.3
 | 0.8
-| style="background:{{Estonian Reform Party/meta/color}};" | 4
+| style="background:{{Estonian Reform Party/meta/color}};"| 4.0
 | 46.6|| {{no|52.6}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 20–27 Jul
 | ≥1,000
-| 15
+| style="background:#FEF4AE"| '''33.9'''
+| 15.0
 | 23.2
-| style="background:#FEF4AE" | '''33.9'''
 | 5.4
 | 7.2
 | 13.2
 | 2.3
 | 0.7
-| style="background:{{Estonian Reform Party/meta/color}};" | 10.7
+| style="background:{{Estonian Reform Party/meta/color}};"| 10.7
 | 48.9|| {{no|51.3}}
 |-
 | [https://www.err.ee/1608309857/reformierakonna-ja-ekre-toetus-vordsustus Kantar Emor]
 | 14–22 Jul
 | 1,001
-| 20
-| style="background:#AEDDFF;" | '''25'''
 | 23
+| 20
+| style="background:#AEDDFF;"| '''25'''
 | 4
 | 9
 | 15
 | 3
 | 1
-| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;" | 2
+| style="background:{{Conservative People's Party of Estonia/meta/color}}; color:white;"| 2
 | 43|| {{no|56}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 13–19 Jul
 | ≥1,000
+| style="background:#FEF4AE"| '''29.5'''
 | 16.3
 | 26.3
-| style="background:#FEF4AE" | '''29.5'''
 | 6.2
 | 6.9
 | 12.6
 | 1.5
 | 0.7
-| style="background:{{Estonian Reform Party/meta/color}};" | 3.2
+| style="background:{{Estonian Reform Party/meta/color}};"| 3.2
 | 45.8|| {{no|53.5}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 6–12 Jul
 | ≥1,000
+| style="background:#FEF4AE"| '''28.8'''
 | 17.7
 | 24.4
-| style="background:#FEF4AE" | '''28.8'''
 | 6.3
-| 7
+| 7.0
 | 12.7
 | 0.8
 | 2.3
-| style="background:{{Estonian Reform Party/meta/color}};" | 4.4
+| style="background:{{Estonian Reform Party/meta/color}};"| 4.4
 | 46.5|| {{no|51.2}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 28 Jun–4 Jul
 | ≥1,000
+| style="background:#FEF4AE"| '''30.0'''
 | 20.4
-| 21
-| style="background:#FEF4AE" | '''30'''
+| 21.0
 | 6.1
-| 7
+| 7.0
 | 11.4
 | 2.5
 | 1.6
-| style="background:{{Estonian Reform Party/meta/color}};" | 9
-| {{yes|50.4}}|| 48
+| style="background:{{Estonian Reform Party/meta/color}};"| 9.0
+| {{yes|50.4}}|| 48.0
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 15–21 Jun
 | ≥1,000
+| style="background:#FEF4AE"| '''28.7'''
 | 18.9
 | 21.1
-| style="background:#FEF4AE" | '''28.7'''
 | 4.7
 | 9.2
 | 13.5
 | 2.1
 | 1.8
-| style="background:{{Estonian Reform Party/meta/color}};" | 7.6
+| style="background:{{Estonian Reform Party/meta/color}};"| 7.6
 | 47.6|| {{no|50.6}}
 |-
 | [https://www.err.ee/1608251373/emor-reformierakond-jatkab-liidrina-kuid-langeva-toetusega/ Kantar Emor]
 | 10–16 Jun
 | 997
+| style="background:#FEF4AE"| '''25'''
 | 18
 | 20
-| style="background:#FEF4AE" | '''25'''
 | 4
 | 13
 | 16
 | 2
 | 2
-| style="background:{{Estonian Reform Party/meta/color}};" | 5.0
+| style="background:{{Estonian Reform Party/meta/color}};"| 5.0
 | 43|| {{no|55}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 8–14 Jun
 | ≥1,000
+| style="background:#FEF4AE"| '''26.6'''
 | 18.8
 | 25.5
-| style="background:#FEF4AE" | '''26.6'''
 | 5.6
 | 8.5
 | 10.9
 | 1.7
 | 2.4
-| style="background:{{Estonian Reform Party/meta/color}};" | 1.1
+| style="background:{{Estonian Reform Party/meta/color}};"| 1.1
 | 45.4|| {{no|52.2}}
 |-
 | [https://news.err.ee/1608250284/party-ratings-support-for-reform-and-ekre-almost-equal-in-june Turu-uuringute AS]
 | 3–10 Jun
 | 1,000
+| style="background:#FEF4AE"| '''24'''
 | 19
 | 23
-| style="background:#FEF4AE" | '''24'''
 | 7
 | 9
 | 13
 | 3
 | 2
-| style="background:{{Estonian Reform Party/meta/color}};" | 1
+| style="background:{{Estonian Reform Party/meta/color}};"| 1
 | 43|| {{no|55}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 1–7 Jun
 | ≥1,000
+| style="background:#FEF4AE"| '''29.6'''
 | 20.5
 | 21.1
-| style="background:#FEF4AE" | '''29.6'''
 | 5.2
-| 7
-| 14
+| 7.0
+| 14.0
 | 1.5
 | 1.1
-| style="background:{{Estonian Reform Party/meta/color}};" | 8.5
+| style="background:{{Estonian Reform Party/meta/color}};"| 8.5
 | {{yes|50.1}}|| 48.8
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 26–31 May
 | ≥1,000
-| 21
+| style="background:#FEF4AE"| '''29.3'''
+| 21.0
 | 19.9
-| style="background:#FEF4AE" | '''29.3'''
 | 5.9
 | 8.2
 | 11.2
 | 2.8
 | 1.8
-| style="background:{{Estonian Reform Party/meta/color}};" | 8.3
-| {{yes|50.3}}|| 48
+| style="background:{{Estonian Reform Party/meta/color}};"| 8.3
+| {{yes|50.3}}|| 48.0
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 19–25 May
 | ≥1,000
+| style="background:#FEF4AE"| '''31.8'''
 | 17.9
 | 20.6
-| style="background:#FEF4AE" | '''31.8'''
 | 5.5
 | 7.1
 | 13.7
 | 2.4
-| 1
-| style="background:{{Estonian Reform Party/meta/color}};" | 11.2
+| 1.0
+| style="background:{{Estonian Reform Party/meta/color}};"| 11.2
 | {{yes2|49.7}}|| 49.3
 |-
 | [https://news.err.ee/1608216478/ratings-non-parliamentary-eesti-200-catch-up-with-center-party Kantar Emor]
 | 12–18 May
 | 1,050
+| style="background:#FEF4AE"| '''28'''
 | 16
 | 19
-| style="background:#FEF4AE" | '''28'''
 | 7
 | 11
 | 16
 | 3
 | 2
-| style="background:{{Estonian Reform Party/meta/color}};" | 9
+| style="background:{{Estonian Reform Party/meta/color}};"| 9
 | 44|| {{no|56}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 12–17 May
 | ≥1,000
+| style="background:#FEF4AE"| '''32.5'''
 | 18.1
 | 21.2
-| style="background:#FEF4AE" | '''32.5'''
 | 4.8
 | 7.7
 | 13.2
 | 1.2
 | 1.3
-| style="background:{{Estonian Reform Party/meta/color}};" | 11.3
+| style="background:{{Estonian Reform Party/meta/color}};"| 11.3
 | {{yes|50.6}}|| 48.1
 |-
 | [https://news.err.ee/1608215092/ratings-reform-still-on-top-support-for-center-and-ekre-stabilizes Turu-uuringute AS]
 | 6–11 May
 | 1,002
+| style="background:#FEF4AE"| '''26'''
 | 20
 | 21
-| style="background:#FEF4AE" | '''26'''
 | 5
 | 8
 | 15
 | 2
 | 3
-| style="background:{{Estonian Reform Party/meta/color}};" | 5
+| style="background:{{Estonian Reform Party/meta/color}};"| 5
 | 46|| {{no|51}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 4–10 May
 | ≥1,000
+| style="background:#FEF4AE"| '''30.4'''
 | 18.7
 | 20.5
-| style="background:#FEF4AE" | '''30.4'''
 | 4.4
 | 8.4
 | 15.2
 | 1.4
-| 1
-| style="background:{{Estonian Reform Party/meta/color}};" | 9.9
+| 1.0
+| style="background:{{Estonian Reform Party/meta/color}};"| 9.9
 | 49.1|| {{no2|49.9}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 27 Apr–3 May
 | ≥1,000
+| style="background:#FEF4AE"| '''29.1'''
 | 20.7
 | 23.9
-| style="background:#FEF4AE" | '''29.1'''
 | 4.8
 | 6.0
 | 11.9
 | 1.9
 | 1.7
-| style="background:{{Estonian Reform Party/meta/color}};" | 5.2
+| style="background:{{Estonian Reform Party/meta/color}};"| 5.2
 | {{yes2|49.8}}|| 48.5
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 20–26 Apr
 | ≥1,000
+| style="background:#FEF4AE"| '''33.4'''
 | 22.3
 | 15.6
-| style="background:#FEF4AE" | '''33.4'''
 | 5.7
 | 6.9
 | 12.1
 | 1.9
 | 2.1
-| style="background:{{Estonian Reform Party/meta/color}};" | 11.1
+| style="background:{{Estonian Reform Party/meta/color}};"| 11.1
 | {{yes|55.7}}|| 42.2
 |-
 | [https://news.err.ee/1608188263/ratings-reform-most-popular-but-gap-narrowing Kantar Emor]
 | 15–21 Apr
 | 1,110
+| style="background:#FEF4AE"| '''27'''
 | 19
 | 21
-| style="background:#FEF4AE" | '''27'''
 | 5
 | 8
 | 14
 | 3
 | 3
-| style="background:{{Estonian Reform Party/meta/color}};" | 8
+| style="background:{{Estonian Reform Party/meta/color}};"| 8
 | 46|| {{no|51}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 13–19 Apr
 | ≥1,000
+| style="background:#FEF4AE"| '''29.7'''
 | 19.3
 | 17.4
-| style="background:#FEF4AE" | '''29.7'''
 | 5.9
 | 6.9
 | 16.9
 | 2.1
 | 1.8
-| style="background:{{Estonian Reform Party/meta/color}};" | 10.4
-| 49|| {{no2|49.2}}
+| style="background:{{Estonian Reform Party/meta/color}};"| 10.4
+| 49.0|| {{no2|49.2}}
 |-
 | [https://www.err.ee/1608178324/reitingud-ekre-toetus-tousis-rekordtasemele Turu-uuringute AS]
 | 8–14 Apr
 | 1,010
+| style="background:#FEF4AE"| '''27'''
 | 19
 | 23
-| style="background:#FEF4AE" | '''27'''
 | 5
 | 7
 | 13
 | 2
 | 3
-| style="background:{{Estonian Reform Party/meta/color}};" | 4
+| style="background:{{Estonian Reform Party/meta/color}};"| 4
 | 46|| {{no|51}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 7–12 Apr
 | ≥1,000
+| style="background:#FEF4AE"| '''30.5'''
 | 17.3
 | 21.2
-| style="background:#FEF4AE" | '''30.5'''
 | 5.7
 | 8.2
 | 13.5
 | 1.6
 | 2.0
-| style="background:{{Estonian Reform Party/meta/color}};" | 9.3
+| style="background:{{Estonian Reform Party/meta/color}};"| 9.3
 | 47.8|| {{no|50.2}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 30 Mar–5 Apr
 | ≥1,000
+| style="background:#FEF4AE"| '''34.4'''
 | 20.1
 | 19.6
-| style="background:#FEF4AE" | '''34.4'''
 | 5.1
 | 6.3
 | 10.9
 | 1.7
 | 1.9
-| style="background:{{Estonian Reform Party/meta/color}};" | 14.3
+| style="background:{{Estonian Reform Party/meta/color}};"| 14.3
 | {{yes|54.5}}|| 43.6
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 23–29 Mar
 | ≥1,000
+| style="background:#FEF4AE"| '''35.2'''
 | 20.7
 | 18.2
-| style="background:#FEF4AE" | '''35.2'''
 | 5.4
 | 5.7
 | 12.4
 | 1.9
 | 0.5
-| style="background:{{Estonian Reform Party/meta/color}};" | 14.5
+| style="background:{{Estonian Reform Party/meta/color}};"| 14.5
 | {{yes|55.9}}|| 43.6
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 17–22 Mar
 | ≥1,000
+| style="background:#FEF4AE"| '''33.3'''
 | 19.4
 | 17.7
-| style="background:#FEF4AE" | '''33.3'''
 | 6.6
 | 6.6
 | 12.2
 | 2.5
 | 1.7
-| style="background:{{Estonian Reform Party/meta/color}};" | 13.9
+| style="background:{{Estonian Reform Party/meta/color}};"| 13.9
 | {{yes|52.7}}|| 45.6
 |-
 | [https://news.err.ee/1608147625/party-ratings-center-party-sees-increase-in-support Turu-uuringute AS]
 | 9–15 Mar
 | 1,005
+| style="background:#FEF4AE"| '''26'''
 | 20
 | 19
-| style="background:#FEF4AE" | '''26'''
 | 6
 | 9
 | 15
 | 3
 | 2
-| style="background:{{Estonian Reform Party/meta/color}};" | 6
+| style="background:{{Estonian Reform Party/meta/color}};"| 6
 | 46|| {{no|52}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 10–15 Mar
 | ≥1,000
+| style="background:#FEF4AE"| '''31.5'''
 | 23
 | 20.5
-| style="background:#FEF4AE" | '''31.5'''
 | 4.7
 | 6.2
 | 10.1
 | 2
 | 1.6
-| style="background:{{Estonian Reform Party/meta/color}};" | 8.5
+| style="background:{{Estonian Reform Party/meta/color}};"| 8.5
 | {{yes|54.5}}|| 43.5
 |-
 | [https://www.err.ee/1608144184/emor-erakondade-reitingute-edetabelit-juhib-reformierakond Kantar Emor]
 | 11–16 Mar
 | 1,114
+| style="background:#FEF4AE"| '''28'''
 | 18
 | 19
-| style="background:#FEF4AE" | '''28'''
 | 5
 | 9
 | 16
 | 4
 | 1
-| style="background:{{Estonian Reform Party/meta/color}};" | 9
+| style="background:{{Estonian Reform Party/meta/color}};"| 9
 | 46|| {{no|53}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 2–8 Mar
 | ≥1,000
+| style="background:#FEF4AE"| '''36.7'''
 | 17
 | 20.3
-| style="background:#FEF4AE" | '''36.7'''
 | 6.2
 | 5.3
 | 10.5
 | 2.9
 | 1.1
-| style="background:{{Estonian Reform Party/meta/color}};" | 16.4
+| style="background:{{Estonian Reform Party/meta/color}};"| 16.4
 | {{yes|53.7}}|| 45.2
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 23 Feb–1 Mar
 | ≥1,000
+| style="background:#FEF4AE"| '''35.4'''
 | 18.8
 | 20.5
-| style="background:#FEF4AE" | '''35.4'''
 | 4.9
 | 6.2
 | 11.2
 | 1.9
 | 1.1
-| style="background:{{Estonian Reform Party/meta/color}};" | 14.9
+| style="background:{{Estonian Reform Party/meta/color}};"| 14.9
 | {{yes|54.2}}|| 44.7
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 16–22 Feb
 | ≥1,000
+| style="background:#FEF4AE"| '''35.3'''
 | 19.3
 | 18.1
-| style="background:#FEF4AE" | '''35.3'''
 | 5.4
 | 6.1
 | 12.5
 | 2.1
 | 1.2
-| style="background:{{Estonian Reform Party/meta/color}};" | 16
+| style="background:{{Estonian Reform Party/meta/color}};"| 16
 | {{yes|54.6}}|| 44.2
 |-
 | [https://news.err.ee/1608116122/ratings-center-s-support-falls-to-lowest-in-recent-years Turu-uuringute AS]
 | 10–15 Feb
 | 1,005
+| style="background:#FEF4AE"| '''28'''
 | 17
 | 20
-| style="background:#FEF4AE" | '''28'''
 | 6
 | 7
 | 16
 | 2
 | 4
-| style="background:{{Estonian Reform Party/meta/color}};" | 8
+| style="background:{{Estonian Reform Party/meta/color}};"| 8
 | 45|| {{no|51}}
 |-
 | [https://www.err.ee/1608111244/emor-veebruaris-kasvas-toetus-reformierakonnale-ja-ekre-le Kantar Emor]
 | 11–15 Feb
 | 1,124
+| style="background:#FEF4AE"| '''30'''
 | 17
 | 20
-| style="background:#FEF4AE" | '''30'''
 | 5
 | 9
 | 15
 | 2
 | 2
-| style="background:{{Estonian Reform Party/meta/color}};" | 10
+| style="background:{{Estonian Reform Party/meta/color}};"| 10
 | 47|| {{no|51}}
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 9–15 Feb
 | ≥1,000
+| style="background:#FEF4AE"| '''35.2'''
 | 15.5
 | 20.2
-| style="background:#FEF4AE" | '''35.2'''
 | 4.8
 | 7.6
 | 13.7
 | 1.9
 | 1.1
-| style="background:{{Estonian Reform Party/meta/color}};" | 15
+| style="background:{{Estonian Reform Party/meta/color}};"| 15
 | {{yes|50.7}}|| 48.2
 |-
 |[https://reitingud.ee/reitingud/ Norstat]
 | 2–8 Feb
 | ≥1,000
+| style="background:#FEF4AE"| '''34.6'''
 | 20.7
 | 19.1
-| style="background:#FEF4AE" | '''34.6'''
 | 6.1
 | 5
 | 11.7
 | 1.6
 | 1.2
-| style="background:{{Estonian Reform Party/meta/color}};" | 13.9
+| style="background:{{Estonian Reform Party/meta/color}};"| 13.9
 | {{yes|55.3}}|| 41.9
 |-
 | [https://reitingud.ee/reitingud/ Norstat]
 | 26 Jan–1 Feb
 | ≥1,000
+| style="background:#FEF4AE"| '''32.3'''
 | 18.6
 | 17.1
-| style="background:#FEF4AE" | '''32.3'''
 | 5.1
 | 7.7
 | 15.4
 | 2.5
 | 1.3
-| style="background:{{Estonian Reform Party/meta/color}};" | 13.7 
+| style="background:{{Estonian Reform Party/meta/color}};"| 13.7 
 | {{yes|50.9}}|| 47.8
 |-
-| style="border-right-style:hidden;" |
-| style="border-right-style:hidden;" |26 Jan
-| style="border-right-style:hidden;" |
-|
-|
-| colspan="9" |'''[[Kaja Kallas' cabinet]] is formed by the Reform Party and Centre Party'''
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"|26 Jan
+| style="border-right-style:hidden;"|
+| colspan="11"|'''[[Kaja Kallas' cabinet]] is formed'''
 |-
 |}
 {| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"

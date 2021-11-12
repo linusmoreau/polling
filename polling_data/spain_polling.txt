@@ -41,6 +41,69 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Navarra Suma/meta/color}};"|
 ! style="background:{{Regionalist Party of Cantabria/meta/color}};"|
 |-
+| SocioMétrica/El Español<ref name="SMNov21">{{cite web |title=España Vaciada obtendría 15 escaños y sería clave para decantar la Moncloa con sólo el 1,1% del voto  |url=https://www.elespanol.com/espana/politica/20211109/partido-espana-vaciada-revoluciona-electoral-publica-espanol/625938122_0.html |language=es |work=El Español |date=10 November 2021}}</ref>
+| 5–8 Nov 2021
+| 1,200
+|?
+| 25.4<br/>{{font|size=75%|font=Verdana|text=105}}
+| {{Party shading/PP}}| '''25.5'''<br/>{{font|size=75%|font=Verdana|text=107}}
+| 16.8<br/>{{font|size=75%|font=Verdana|text=58}}
+| 12.4<br/>{{font|size=75%|font=Verdana|text=34}}
+| 3.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 3.2<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 1.8<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=4}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.1
+|-
+| NC Report/La Razón<ref>{{cite web |title=Sánchez baja de los cien escaños tras su pulso con Yolanda Díaz |url=https://www.larazon.es/espana/20211108/zplpdtrzqvas3gsnscysklsv6u.html |language=es |work=La Razón |date=8 November 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 08/11/2021: UP-ECP-EC 9,8% (24/26), MÁS PAÍS-EQUO 3,0% (6), PSOE 25,2% (98/100), Cs 2,9% (1), PP 29,3% (125/127), VOX 15,2% (49/51) |url=https://www.electograph.com/2021/11/encuesta-nc-report-211108.html |language=es |work=Electograph |date=8 November 2021}}</ref>
+| 2–6 Nov 2021
+| 1,000
+| 62.6
+| 25.2<br/>{{font|size=75%|font=Verdana|text=98/100}}
+| {{Party shading/PP}}| '''29.3'''<br/>{{font|size=75%|font=Verdana|text=125/127}}
+| 15.2<br/>{{font|size=75%|font=Verdana|text=49/51}}
+| 9.8<br/>{{font|size=75%|font=Verdana|text=24/26}}
+| 2.9<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=5}}
+| –
+| –
+| –
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.1
+|-
+| IMOP/El Confidencial<ref>{{cite web |title=La lucha contra Ayuso merma a Casado y Yolanda Díaz reanima a la izquierda |url=https://www.elconfidencial.com/espana/observatorio-electoral/2021-11-10/encuesta-imop-lucha-ayuso-casado-yolanda-diaz-izquierda_3321151/ |language=es |work=El Confidencial |date=10 November 2021}}</ref>
+| 25 Oct–6 Nov 2021
+| 1,342
+|?
+| 26.3<br/>{{font|size=75%|font=Verdana|text=104}}
+| {{Party shading/PP}}| '''27.1'''<br/>{{font|size=75%|font=Verdana|text=117}}
+| 16.4<br/>{{font|size=75%|font=Verdana|text=51}}
+| 11.5<br/>{{font|size=75%|font=Verdana|text=30}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.1<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.1<br/>{{font|size=75%|font=Verdana|text=4}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=3}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.8
+|-
 | Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP ganaría las elecciones generales con el 28,2% de los apoyos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-ganaria-elecciones-generales-282-apoyos_202111076187d61077bc8000019ce670.html |language=es |work=laSexta |date=7 November 2021}}</ref>
 | 1–5 Nov 2021
 |?
@@ -62,6 +125,27 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.2
 |-
+| Data10/OKDiario<ref>{{cite web |title=El PP aventaja en 30 escaños al PSOE y gobernaría con Vox al cumplirse dos años de las elecciones |url=https://okdiario.com/espana/pp-aventaja-30-escanos-psoe-gobernaria-vox-cumplirse-dos-anos-elecciones-8062612 |language=es |work=OKDiario |date=8 November 2021}}</ref>
+| 2–4 Nov 2021
+| 1,000
+|?
+| 25.2<br/>{{font|size=75%|font=Verdana|text=98}}
+| {{Party shading/PP}}| '''28.8'''<br/>{{font|size=75%|font=Verdana|text=126}}
+| 16.2<br/>{{font|size=75%|font=Verdana|text=52}}
+| 10.3<br/>{{font|size=75%|font=Verdana|text=24}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.2<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.8<br/>{{font|size=75%|font=Verdana|text=5}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=10}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.6
+|-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (7N): UP sigue al alza, el PP pierde apoyos |url=https://electomania.es/ep7n21/ |language=es |work=Electomanía |date=7 November 2021}}</ref>
 | 29 Oct–4 Nov 2021
 | 1,479
@@ -82,6 +166,27 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.9
+|-
+| Metroscopia<ref>{{cite web |title=10N, dos años después: límites, liderazgos, agenda y calendario |url=https://metroscopia.org/2021/11/10/10n-dos-anos-despues-limites-liderazgos-agenda-y-calendario/ |language=es |work=Metroscopia |date=10 November 2021}}</ref><ref>{{cite web |title=Metroscopia frena el crecimiento del PP en plena guerra entre Casado y Ayuso |url=https://www.vozpopuli.com/espana/metroscopia-pp-guerra-casado-ayuso.html |language=es |work=VozPópuli |date=10 November 2021}}</ref>
+| 21 Oct–4 Nov 2021
+| 2,400
+|?
+| {{Party shading/PSOE}}| '''26.5'''<br/>{{font|size=75%|font=Verdana|text=107}}
+| 25.2<br/>{{font|size=75%|font=Verdana|text=104}}
+| 18.0<br/>{{font|size=75%|font=Verdana|text=66}}
+| 11.0<br/>{{font|size=75%|font=Verdana|text=28}}
+| 2.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| –
+| 3.0<br/>{{font|size=75%|font=Verdana|text=4}}
+| –
+| –
+| –
+| –
+| –
+| –
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 1.3
 |-
 | SW Demoscopia<ref name="SWOct21">{{cite web |title=Barómetro SW España octubre 2021 |url=http://swdemoscopia.com/2021/10/30/barometro-sw-demoscopia-espana-octubre-2021/ |language=es |work=SW Demoscopia |date=30 October 2021}}</ref>
 | 20–30 Oct 2021
@@ -265,11 +370,11 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.2<br/>{{font|size=75%|font=Verdana|text=8}}
 | 1.7<br/>{{font|size=75%|font=Verdana|text=6}}
 | 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
-| – 
-| – 
-| – 
-| – 
-| – 
+| –
+| –
+| –
+| –
+| –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.2
 |-
 | Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP mantiene su ventaja sobre el PSOE: obtendría un 28,4% del voto decidido |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-mantiene-ventaja-psoe-obtendria-284-voto-decidido_20211016616ac3b295a4560001ad05c8.html |language=es |work=laSexta |date=16 October 2021}}</ref>
@@ -525,7 +630,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.8
 |-
-| Ágora Integral<ref>{{cite web |title=El nacionalismo canario pierde fuerza de cara a las próximas elecciones generales |url=https://www.eldiario.es/canariasahora/politica/nacionalismo-pierde-fuerza-cara-proximas-elecciones-generales-coalicion-nueva-canarias_1_8358120.html |language=es |work=elDiario.es |date=3 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta Ágora Integral 03/10/2021: UP-ECP-EC 11,5% (30), MÁS PAÍS-EQUO 3,7% (5), PSOE 26,1% (103), Cs 3,2% (2), PP 26,3% (118), VOX 15,4% (54) |url=https://www.electograph.com/2021/10/espana-encuesta-agora-integral-03102021.html |language=es |work=Electogrpah |date=30 October 2021}}</ref>
+| Ágora Integral<ref>{{cite web |title=El nacionalismo canario pierde fuerza de cara a las próximas elecciones generales |url=https://www.eldiario.es/canariasahora/politica/nacionalismo-pierde-fuerza-cara-proximas-elecciones-generales-coalicion-nueva-canarias_1_8358120.html |language=es |work=elDiario.es |date=3 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta Ágora Integral 03/10/2021: UP-ECP-EC 11,5% (30), MÁS PAÍS-EQUO 3,7% (5), PSOE 26,1% (103), Cs 3,2% (2), PP 26,3% (118), VOX 15,4% (54) |url=https://www.electograph.com/2021/10/espana-encuesta-agora-integral-03102021.html |language=es |work=Electograph |date=30 October 2021}}</ref>
 | 23–27 Sep 2021
 | 1,000
 | 61.9

@@ -28,6 +28,22 @@
 ! style="background:#808080;"|
 ! style="background:#568203"|
 |-
+|data-sort-value="2021-10-04"|25–29 Oct 2021
+|[http://republikon.hu/elemzesek,-kutatasok/21-11-08-kvk-okt.aspx Republikon]
+|1000
+|style="background:#FFE5B4"|'''42'''
+|11
+|7
+|2
+|16
+|3
+|10
+|3
+|2
+|2
+|style="background:{{Fidesz/meta/color}}; color:white;" |26
+|54
+|-
 |data-sort-value="2021-10-19"|11-19 Oct 2021
 |[https://telex.hu/belfold/2021/10/27/zavecz-kozvelemeny-kutatas-oktober-ellenzeki-lista-4-szazalekpont-elony-fidesz Závecz Research]
 |1000

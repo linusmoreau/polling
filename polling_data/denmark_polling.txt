@@ -19,10 +19,11 @@
 ! class="unsortable" style="width:30px;" | [[The Citizen List|E]]
 ! class="unsortable" style="width:30px;" | [[Vegan Party|G]]
 ! class="unsortable" style="width:30px;" | [[Moderates (Denmark)|M]]{{efn|Party letter not confirmed.}}  
+! class="unsortable" style="width:30px;" | [[Independent Greens (Denmark)|Q]]
 ! class="unsortable" style="width:30px;" rowspan="2"| Others
 ! rowspan="2"| Lead
-! class="unsortable" style="width:30px;"| {{H:title|A, B, F, Ø, Å and G|Red}}
-! class="unsortable" style="width:30px;"| {{H:title|V, O, C, D, I, P, K, E,|Blue}}
+! class="unsortable" style="width:30px;"| {{H:title|A, B, F, Ø, Å, G and Q|Red}}
+! class="unsortable" style="width:30px;"| {{H:title|V, O, C, D, I, P, K, E and M|Blue}}
 ! style="width:30px;" rowspan="2"| Lead
 |-
 ! data-sort-type="number" style="background:{{Social Democrats (Denmark)/meta/color}};" |
@@ -40,8 +41,83 @@
 ! data-sort-type="number" style="background:{{The Citizen List/meta/color}};" |
 ! data-sort-type="number" style="background:{{Vegan Party/meta/color}};" |
 ! data-sort-type="number" style="background:{{Moderates (Denmark)/meta/color}};" | 
+! data-sort-type="number" style="background:{{Independent Greens (Denmark)/meta/color}};"|
 ! data-sort-type="number" style="background:{{Social Democrats (Denmark)/meta/color}};"|
 ! data-sort-type="number" style="background:{{Venstre (Denmark)/meta/color}};"|
+|-
+|[https://nyheder.tv2.dk/politik/2021-11-10-ny-maaling-viser-doedt-loeb-mellem-roed-og-blaa-blok-og-saa-faar-de-konservative Megafon]
+|8–10 Nov 2021
+|{{N/A}}
+| style="background:#FACECD;" |'''24.8'''
+|13.9
+|5.2
+|5.4
+|8.7
+|8.6
+|18.2
+|0.9
+|7.3
+|2.7
+| –
+|1.6
+| –
+|0.2
+| –
+|0.6
+|1.9
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |6.6
+| style="background:#FACECD;" |'''49.2'''
+|48.9
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |0.3
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-07-11-2021.pdf Voxmeter]
+|1–6 Nov 2021
+|1,006
+| style="background:#FACECD;" |'''26.4'''
+|15.2
+|6.2
+|5.4
+|8.1
+|8.0
+|15.1
+|0.7
+|7.0
+|3.7
+| –
+|1.7
+| –
+|0.0
+| –
+|rowspan="63" {{N/A}}
+|2.6
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |11.2
+|48.6
+| style="background:#25587E; color:white"|'''48.9'''
+| style="background:{{Venstre (Denmark)/meta/color}};color:#FFFFFF;" |0.3
+|-
+|[https://www.berlingske.dk/politik/ny-maaling-viser-pludselig-doedt-loeb-om-magten-naeste-valg-kan-ende-som Gallup]
+|29 Oct–4 Nov 2021
+|1,589
+| style="background:#FACECD;" |'''26.6'''
+|16.1
+|6.7
+|5.7
+|8.2
+|8.5
+|15.0
+|0.8
+|6.7
+|2.5
+| –
+|1.5
+| –
+|0.0
+|1.6
+|0.5
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |10.5
+| style="background:#FACECD;" |'''49.9'''
+|49.6
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |0.3
 |-
 |[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-31-10-2021.pdf Voxmeter]
 |25–31 Oct 2021
@@ -1484,7 +1560,7 @@
 |41.8
 | style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" | 16.0
 |-
-| colspan="22" style="background:#A0A0A0"|
+| colspan="24" style="background:#A0A0A0"|
 |- style="background:#EFEFEF;"
 | ''[[2019 Danish general election|2019 election]]''
 | data-sort-value="2019-06-05" | ''5 Jun 2019''
@@ -1502,6 +1578,7 @@
 | ''1.8''
 | ''1.7''
 | ''0.8''
+| ''–''
 | ''–''
 | ''–''
 | ''0.0''

@@ -43,6 +43,30 @@ Poll results are listed in the table in reverse chronological order, showing the
 ! class="unsortable" style="background: {{Good State (Slovenia)/meta/color}}; width:30px"|
 ! class="unsortable" style="background: #6ab32e; width:30px"|
 |-
+|{{opdrts||8|Nov|2021|year}}{{efn|name=date|Publication date}}
+|Mediana
+| [[Delo (newspaper)|''Delo'']]
+|{{N/A}}
+| style="background:#FFFFBF" " |'''15.6'''
+|6.0
+|12.6
+|0.4
+|7.2
+|5.9
+|3.7
+|0.4
+|1.8
+|1.4
+|1.8
+|1.9
+|1.7
+|2.7
+|12.0
+|20.0
+|3.1
+| style="background:{{Slovenian Democratic Party/meta/color}}" |3.0
+|<ref>{{Cite web|title=Anketa Dela: SD zanihala navzgor, raste NSi, ki je izenačena s padajočo LMŠ|url=https://www.domovina.je/anketa-dela-sd-zanihala-navzgor-raste-nsi-ki-je-izenacena-s-padajoco-lms/|website=www.domovina.je|language=sl}}</ref>
+|-
 |{{opdrts||25|Oct|2021|year}}{{efn|name=date|Publication date}}
 |Mediana
 |[[Pop (Slovenian TV channel)|POPTV]]

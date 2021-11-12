@@ -27,6 +27,21 @@
 ! data-sort-type="number" style="height:1px; background:{{Poland 2050/meta/color}};"|
 ! data-sort-type="number" style="height:1px; background:{{AGROunia/meta/color}};"|
 |-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/573708-nasz-sondaz-pis-i-ko-lekko-traca-bardzo-slaby-wynik-psl Social Changes / wPolityce.pl]
+| data-sort-value="2021-11-08" | 5–8 Nov 2021
+| 1,082
+| style="background:#C0DBFC;" | '''37'''
+| 1
+| 24
+| 9
+| 1
+| 2
+| 10
+| 14
+| 
+| 2
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''13'''
+|-
 | [https://dorzeczy.pl/sondaz/222853/najnowszy-sondaz-poparcia-dla-partii-politycznych.html Estymator / DoRzeczy.pl]
 | data-sort-value="2021-11-06" | 5–6 Nov 2021
 | 1,016
@@ -41,6 +56,21 @@
 |
 | 2.0
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''13.0'''
+|-
+| [https://wiadomosci.wp.pl/sondaz-dla-wp-pis-zalicza-duzy-spadek-dobra-passa-minela-6702272709884544a United Surveys / WP.pl]
+| data-sort-value="2021-11-05" | 5 Nov 2021
+| 1,000
+| style="background:#C0DBFC;" | '''32.6'''
+|
+| 21.6
+| 7.2
+| 4.6
+|
+| 5.9
+| 16.5
+|
+| 11.7
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''11.0'''
 |-
 | style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/572624-nasz-sondaz-pis-wciaz-b-wysoko-zwieksza-przewage-nad-ko Social Changes / wPolityce.pl]
 | data-sort-value="2021-11-02" | 29 Oct–2 Nov 2021

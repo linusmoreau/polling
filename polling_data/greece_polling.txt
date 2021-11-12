@@ -29,9 +29,24 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Antarsya/meta/color}};"|
 ! style="background:{{Greeks for the Fatherland/meta/color}};"|
 |-
-| GPO/powergame.gr<ref>{{Cite web|last=admin|date=2021-11-02|title=Δημοσκόπηση GPO: Στραβοκατάπιε όταν την είδε, τι αλλάζει για ΚΙΝΑΛ, δημοφιλέστεροι υπουργοί|url=https://www.fimes.gr/2021/11/dimoskopisi-gpo-kinal/|access-date=2021-11-02|website=Φήμες|language=el}}</ref><ref>{{Cite web|date=2021-11-02|title=Δημοσκόπηση GPO: 11 μονάδες μπροστά η ΝΔ από ΣΥΡΙΖΑ - Κυριαρχία Μητσοτάκη - Δένδιας ο δημοφιλέστερος υπουργός|url=https://www.thetoc.gr/politiki/article/dimoskopisi-gpo-11-monades-mprosta-i-nd-apo-suriza---kuriarxia-mitsotaki---dendias-o-dimofilesteros-upourgos/|access-date=2021-11-02|website=The TOC|language=el}}</ref>
-| 30–31 Oct 2021
-| 1,100
+| Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview για την politic.gr: Στις 12 ποσοστιαίες μονάδες η διαφορά ΝΔ – ΣΥΡΙΖΑ – Άνοδος ποσοστών του ΚΙΝΑΛ |url=https://politic.gr/politiki/dimoskopisi-interview-gia-tin-politic-gr-stis-12-posostiaies-monades-i-diafora-nd-syriza-anodos-pososton-tou-kinal/ |language=el |work=Politic.gr |access-date=10 November 2021}}</ref>
+| 3–8 Nov 2021
+| 1,734
+| {{Party shading/ND}}| '''40.0'''
+| 26.3
+| 10.3
+| 6.1
+| 5.9
+| 3.4
+| –
+| –
+| –
+| –
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 12.6
+|-
+| GPO/Powergame.gr<ref>{{cite web |title=GPO: Στις 11 ποσοστιαίες μονάδες η διαφορά ΝΔ – ΣΥΡΙΖΑ |url=https://www.powergame.gr/ellada/150684/gpo-stis-11-posostiaies-monades-i-diafora-nd-syriza/ |language=el |work=Powergame.gr |date=2 November 2021}}</ref>
+| 27–29 Oct 2021
+| 1,000
 | {{Party shading/ND}}| '''41.6'''
 | 28.7
 | 8.3
@@ -44,22 +59,22 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.1
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 12.9
 |-
-| Pulse RC/Skai<ref>{{Cite web|date=2021-11-02|title=Δημοσκόπηση Pulse: Ανοίγει και πάλι η ψαλίδα μεταξύ ΝΔ - ΣΥΡΙΖΑ και Μητσοτάκη - Τσίπρα|url=https://www.protothema.gr/politics/article/1177564/dimoskopisi-skai/|access-date=2021-11-02|website=ProtoThema|language=el}}</ref>
+| Pulse RC/Skai<ref>{{cite web |title=Pulse RC. 22 - 25 Οκτωβρίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-11/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20021121.pdf |language=el |work=Pulse RC |date=2 November 2021}}</ref>
 | 22–25 Oct 2021
 | 1,907
-| {{Party shading/ND}}| '''40.1'''
-| 26.9
-| 9.3
+| {{Party shading/ND}}| '''40.0'''
+| 27.0
+| 9.5
 | 6.0
-| 4.4
-| 3.3
+| 4.5
+| 3.5
 | –
 | –
 | –
-| 1.6
-| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 13.2
+| 1.5
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 13.0
 |-
-| Opinion Poll/mononews.gr<ref>{{cite web |title=Μεγάλη δημοσκόπηση της Opinion Poll για το mononews: Σταθερά κυρίαρχος ο Μητσοτάκης, 29 μονάδες μπροστά από τον Τσίπρα - 13,3 μονάδες η διαφορά ΝΔ-ΣΥΡΙΖΑ - Βασικό κριτήριο ψήφου η οικονομία |url=https://www.mononews.gr/politics/megali-dimoskopisi-tis-opinion-poll-gia-to-mononews-stathera-kiriarchos-o-mitsotakis-29-brosta-apo-ton-tsipra-133-monades-i-diafora-nd-siriza-vasiko-kritirio-psifou-i-ikonomia |language=el |work=mononews.gr |date=21 October 2021}}</ref>
+| Opinion Poll/Mononews.gr<ref>{{cite web |title=Μεγάλη δημοσκόπηση της Opinion Poll για το mononews: Σταθερά κυρίαρχος ο Μητσοτάκης, 29 μονάδες μπροστά από τον Τσίπρα - 13,3 μονάδες η διαφορά ΝΔ-ΣΥΡΙΖΑ - Βασικό κριτήριο ψήφου η οικονομία |url=https://www.mononews.gr/politics/megali-dimoskopisi-tis-opinion-poll-gia-to-mononews-stathera-kiriarchos-o-mitsotakis-29-brosta-apo-ton-tsipra-133-monades-i-diafora-nd-siriza-vasiko-kritirio-psifou-i-ikonomia |language=el |work=mononews.gr |date=21 October 2021}}</ref>
 | 13–19 Oct 2021
 | 1,005
 | {{Party shading/ND}}| '''43.7'''
@@ -163,6 +178,21 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | 1.8
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 14.8
+|-
+| GPO/Powergame.gr<ref>{{cite web |title=GPO: Διψήφια διαφορά μεταξύ ΝΔ και ΣΥΡΙΖΑ στην πρόθεση ψήφου |url=https://www.powergame.gr/ellada/132836/gpo-dipsifia-diafora-metaxy-nd-kai-syriza-stin-prothesi-psifou/ |language=el |work=Powergame.gr |date=28 September 2021}}</ref>
+| 20–24 Sep 2021
+| 1,000
+| {{Party shading/ND}}| '''41.3'''
+| 29.3
+| 7.0
+| 7.3
+| 4.0
+| 3.4
+| –
+| –
+| –
+| 1.9
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 12.0
 |-
 | Marc/Proto Thema<ref>{{cite web |title=Γκάλοπ MARC για το «ΘΕΜΑ»: Στις 11,4 μονάδες η διαφορά της ΝΔ με τον ΣΥΡΙΖΑ |url=https://www.protothema.gr/greece/article/1165182/galop-marc-gia-to-thema-sto-114-i-diafora-tis-nd-me-ton-suriza/ |language=el |work=Proto Thema |date=27 September 2021}}</ref>
 | 19–23 Sep 2021

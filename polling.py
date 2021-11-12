@@ -96,17 +96,24 @@ def transcribe_table(content, key, choice, begin, start):
                         'LIB', 'CON', 'NDP', 'BQ', 'GRN', 'PPC',
                         'margin', 'size', 'method', 'lead', 'end']
                 reset = True
+            elif 'Opinion polling during the campaign period of the 2021 Canadian federal election' in line:
+                nkey = ['firm', 'date', 'link',
+                        'CON', 'LIB', 'NDP', 'BQ', 'GRN', 'PPC',
+                        'Other', 'margin', 'size', 'method', 'lead']
+                reset = True
         elif choice == 'Brazil':
-            if 'Before July-August' in line:
+            mark = 'https://tribunapr.uol.com.br/noticias/brasil/bolsonaro-e-lula-empatam-na-pesquisa-exame-' \
+                   'ideia-para-as-eleicoes-2022/'
+            if mark in line:
                 nkey = ['firm', 'date', 'sample',
                         'Bolsanaro (APB)', 'Lula (PT)', 'Haddad (PT)', 'Dino (PCdoB)', 'Gomes (PDT)', 'Boulos (PSOL)',
-                        'Doria (PSDB)', 'Amoedo (NOVO)', 'Moro', 'Huck',
+                        'Doria (PSDB)', 'Amoedo (NOVO)', 'Moro (PODE)', 'Huck',
                         'Other', 'Undecided', 'lead', 'end']
                 reset = True
             elif '====2019====' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Bolsanaro (APB)', 'Lula (PT)', 'Haddad (PT)', 'Gomes (PDT)', 'Doria (PSDB)', 'Amoedo (NOVO)',
-                        'Moro', 'Huck',
+                        'Moro (PODE)', 'Huck',
                         'Other', 'Undecided', 'lead', 'end']
                 reset = True
         elif choice == 'Italy':
@@ -225,6 +232,17 @@ def transcribe_table(content, key, choice, begin, start):
                         'S', 'PCL', 'JKP', 'AP!', 'NA', 'ZZS', 'JV', 'LRA', 'LKS', 'P', 'LuK',
                         'Other', 'lead', 'gov', 'opp', 'end']
                 reset = True
+        elif choice == 'Denmark':
+            if '=== 2020 ===' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G', 'Q',
+                        'Other', 'lead', 'red', 'blue', 'lead']
+                reset = True
+            elif '=== 2019 ===' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G',
+                        'Other', 'lead', 'red', 'blue', 'lead']
+                reset = True
         if reset:
             tables.append({'table': table[:-1], 'key': key, 'years': years})
             table = []
@@ -235,7 +253,6 @@ def transcribe_table(content, key, choice, begin, start):
         cont = False
         if len(line) > 0 and line[0] == '}':
             started = False
-            i += 1
             col = 0
             row += 1
             cont = True
@@ -248,11 +265,11 @@ def transcribe_table(content, key, choice, begin, start):
                 pass
             else:
                 years[row] = yline
-            i += 1
             col = 0
             started = False
             cont = True
         if cont:
+            i += 1
             continue
         if not started:
             for b in begin:
@@ -870,7 +887,7 @@ class GraphPage:
             with open(choices[self.choice]['old_data'], 'r', encoding='utf-8') as f:
                 content.extend(f.readlines())
         tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
-        display_tables(tables)
+        # display_tables(tables)
         tables = process_tables(tables, self.choice, self.include, self.zeros)
         tables = filter_tables(tables, self.choice, self.include)
         tables = modify_tables(tables, self.choice, self.include, self.zeros)

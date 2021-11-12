@@ -46,6 +46,29 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 ! data-sort-type="number" style="background:{{Farmer–Citizen Movement/meta/color}};"|
 ! data-sort-type="number" style="background:{{BIJ1/meta/color}};"|
 |-
+|[https://kantarpublic.com/nl/nieuws-evenementen/persberichten/politieke-peilingen-11-november-2021 Kantar]
+|10 Nov 2021
+|985
+|style="background:#CED7FD;"|'''33'''
+|20
+|18
+|9
+|8
+|9
+|8
+|6
+|7
+|5
+|7
+|5
+|3
+|3
+|2
+|6
+|1
+|0
+|style="background:{{People's Party for Freedom and Democracy (2020)/meta/color}};color:#FFFFFF;"|13
+|-
 |[https://www.maurice.nl/peilingen/2021/11/07/de-stemming-7-11-2021-vertrouwenscijfers/ Peil.nl]
 |7 Nov 2021
 |3,000+

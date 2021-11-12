@@ -61,18 +61,8 @@
 ! [[Sebastián Sichel|Sichel]]<br/><small>[[Chile Podemos Más|ChP+]]</small>
 ! [[José Antonio Kast|Kast]]<br/><small>[[Christian Social Front|FSC]]</small>
 |-
-| rowspan="2" |5–6 Nov 2021
-| rowspan="2" |[https://cdn.atlasintel.org/8d8d343c-8bfa-4a54-b4f5-300ea7c10e51.pdf AtlasIntel]
-|Base 100
-|3.1
-|'''24.2'''
-|6.9
-|10.2
-|12.6
-|12.9
-|bgcolor="#84A0CE" | '''30.1'''
-|—
-|-
+| 5–6 Nov 2021
+| [https://cdn.atlasintel.org/8d8d343c-8bfa-4a54-b4f5-300ea7c10e51.pdf AtlasIntel]
 |
 | 2.8
 | '''21.9'''
@@ -103,20 +93,10 @@
 | 9.9
 | 11.3
 | bgcolor="#84A0CE" | '''27.3'''
-| —
+| 7.9
 |-
-| rowspan="2" |2–4 Nov 2021
-| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/11/Track-PP-408-Noviembre-S1-VF.pdf Cadem]
-|Base 100
-|3
-|24
-|6
-|12
-|13
-|10
-|bgcolor="#84A0CE" | '''32'''
-|—
-|-
+| 2–4 Nov 2021
+| [https://cadem.cl/wp-content/uploads/2021/11/Track-PP-408-Noviembre-S1-VF.pdf Cadem]
 |
 | 2
 | '''19'''
@@ -139,18 +119,8 @@
 | bgcolor="#84A0CE" | '''25'''
 | 17
 |-
-| rowspan="2" |1–2 Nov 2021
-| rowspan="2" |[https://cdn.atlasintel.org/ef9b5bf6-ed1b-4cfe-a292-d6e2675021ad.pdf AtlasIntel]
-|Base 100
-|2.7
-|'''23.7'''
-|4.7
-|13.5
-|11.2
-|10.1
-|bgcolor="#84A0CE" | '''34.2'''
-|—
-|-
+| 1–2 Nov 2021
+| [https://cdn.atlasintel.org/ef9b5bf6-ed1b-4cfe-a292-d6e2675021ad.pdf AtlasIntel]
 |
 | 2.5
 | '''21.4'''
@@ -229,18 +199,8 @@
 | '''27'''
 | 5
 |-
-| rowspan="2" |27–29 Oct 2021
-| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-406-Octubre-S4-VF.pdf Cadem]
-|Base 100
-|1
-|'''26'''
-|5
-|15
-|10
-|11
-|bgcolor="#84A0CE" | '''32'''
-|—
-|-
+| 27–29 Oct 2021
+| [https://cadem.cl/wp-content/uploads/2021/10/Track-PP-406-Octubre-S4-VF.pdf Cadem]
 |
 | 1
 | '''19'''
@@ -285,18 +245,8 @@
 | '''30'''
 | —
 |-
-| rowspan="2" |20–22 Oct 2021
-| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-406-Octubre-S4-VF.pdf Cadem]
-|Base 100
-|1
-|'''27'''
-|7
-|16
-|8
-|10
-|bgcolor="#84A0CE" | '''31'''
-|—
-|-
+| 20–22 Oct 2021
+| [https://cadem.cl/wp-content/uploads/2021/10/Track-PP-406-Octubre-S4-VF.pdf Cadem]
 |
 | 1
 | '''20'''
@@ -341,18 +291,8 @@
 |'''16.3'''
 | 31.8
 |-
-| rowspan="2" |13–14 Oct 2021
-| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf Cadem]
-|Base 100
-|4
-|'''27'''
-|6
-|16
-|8
-|10
-|bgcolor="#84A0CE" | '''29'''
-|—
-|-
+| 13–14 Oct 2021
+| [https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf Cadem]
 |
 | 3
 | '''20'''
@@ -363,18 +303,8 @@
 | bgcolor="#84A0CE" | '''21'''
 | 27
 |-
-| rowspan="2" |6–8 Oct 2021
-| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf Cadem]
-|Base 100
-|1
-|bgcolor="#FD9FAD" |'''29'''
-|5
-|18
-|8
-|14
-|'''25'''
-|—
-|-
+| 6–8 Oct 2021
+| [https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf Cadem]
 |
 | 1
 | bgcolor="#FD9FAD" |'''21'''
@@ -421,18 +351,8 @@
 | '''16.1'''
 | 22.9
 |-
-| rowspan="2" |29 Sept–1 Oct 2021
-| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf Cadem]
-|Base 100
-|1
-|bgcolor="#FD9FAD" |'''30'''
-|7
-|17
-|7
-|17
-|'''21'''
-|—
-|-
+| 29 Sept–1 Oct 2021
+| [https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf Cadem]
 |
 | 1
 | bgcolor="#FD9FAD" |'''22'''
@@ -465,18 +385,8 @@
 |'''14.0'''
 |35.3
 |-
-| rowspan="2" |23–24 Sept 2021
-| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf Cadem]
-|Base 100
-|2
-|bgcolor="#FD9FAD" |'''31'''
-|5
-|14
-|7
-|'''23'''
-|18
-|—
-|-
+| 23–24 Sept 2021
+| [https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf Cadem]
 |
 | 2
 | bgcolor="#FD9FAD" |'''23'''
@@ -521,18 +431,8 @@
 | 19
 | 11
 |-
-| rowspan="2" |14–16 Sept 2021
-| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf Cadem]
-|Base 100
-|2
-|bgcolor="#FD9FAD" |'''34'''
-|6
-|12
-|8
-|'''24'''
-|14
-|—
-|-
+| 14–16 Sept 2021
+| [https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf Cadem]
 |
 | 1
 | bgcolor="#FD9FAD" |'''25'''
@@ -577,18 +477,8 @@
 | 8.7
 | 41.0
 |-
-| rowspan="2" |8–10 Sept 2021
-| rowspan="2" |[https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf Cadem]
-|Base 100
-|1
-|bgcolor="#FD9FAD" |'''31'''
-|4
-|15
-|11
-|'''26'''
-|12
-|—
-|-
+| 8–10 Sept 2021
+| [https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf Cadem]
 |
 | 0
 | bgcolor="#FD9FAD" |'''22'''
@@ -699,7 +589,7 @@
 |- bgcolor=lightgray
 ! rowspan="3"| Fieldwork dates
 ! rowspan="3" style="width:125px;" | Polling firm
-! rowspan="3"| Type of poll
+! rowspan="3"| Region
 ! style="width:60px;" | [[File:Eduardo Artés 2018 (4x3).jpg|60x90px]]
 ! style="width:60px;" | [[File:Gabriel Boric Font (2018).jpg|60x90px]]
 ! style="width:60px;" | [[File:Marco Enríquez-Ominami 2018 (4x3).jpg|60x90px]]
@@ -727,7 +617,7 @@
 |-
 | 1 Oct-4 Nov 2021
 |[https://www.noticias.ucn.cl/wp-content/uploads/2021/11/Informe-Baro%CC%81metro-Regional-Antofagasta-Noviembre-2021-VF-1.pdf IPP UCN]
-| Only [[Antofagasta Region|Antofagasta R.]]
+| [[Antofagasta Region|Antofagasta]]
 | 0
 | '''11'''
 | 5
@@ -739,7 +629,7 @@
 |-
 | 24-28 Oct 2021
 |[https://mobile.twitter.com/ADPrensa/status/1455972415209721857 Go People]
-| Only [[Santiago Metropolitan Region|Santiago M. R.]]
+| [[Santiago Metropolitan Region|Santiago]]
 | 1.7
 | bgcolor="#FD9FAD"|'''19.1'''
 | 8.8
@@ -751,7 +641,7 @@
 |-
 | 23-24 Sept 2021
 |[https://panelciudadano.cl/wp-content/uploads/2021/09/2021-09-26-postdebate1.png UDD]
-| Only [[Santiago Metropolitan Region|Santiago M. R.]]
+| [[Santiago Metropolitan Region|Santiago]]
 | 3
 | bgcolor="#FD9FAD"|'''26'''
 | 4

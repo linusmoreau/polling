@@ -3,7 +3,7 @@
 
 Poll results are listed in the table below in reverse chronological order, showing the most recent first. The highest percentage figure in each polling survey is displayed in bold, and the background shaded in the leading party's colour. In the instance that there is a tie, then no figure is shaded but both are displayed in bold. The lead column on the right shows the percentage-point difference between the two parties with the highest figures. Poll results use the date the survey's fieldwork was done, as opposed to the date of publication.
 
-{| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:16px;"
+{| class="wikitable sortable mw-datatable" style="text-align:center;font-size:95%;line-height:16px;"
 |- style="height:42px; background-color:#E9E9E9"
 ! style="width:145px;" rowspan="2"| Polling firm/Link
 ! style="width:145px;" rowspan="2"| Fieldwork date

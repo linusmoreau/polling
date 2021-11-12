@@ -628,7 +628,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |12
 |-
 |data-sort-value="2020-02-16"|16 February 2020
-|data-sort-value="AR01"|[[Extra.ie|Amárach Research/Extra.ie]]<ref group="p">{{cite news|url=https://extra.ie/2020/02/19/news/politics/sinn-fein-second-election|title=Sinn Fein popularity would rise to 35% in event of a second election — Extra.ie Poll|last=Grennan|first=Dan|publisher=Extra.ie|date=19 February 2020|access-date=2 March 2020}}</ref><ref group="p">{{Cite web|url=https://twitter.com/europeelects/status/1230295011817816065|title=Ireland, Amárach Research poll|date=20 February 2020|website=@EuropeElects|language=en|access-date=2 March 2020}}</ref>
+|data-sort-value="AR01"|[[Extra.ie|Amárach Research/Extra.ie]]<ref group="p">{{cite news|url=https://extra.ie/2020/02/19/news/politics/sinn-fein-second-election|title=Sinn Fein popularity would rise to 35% in event of a second election — Extra.ie Poll|last=Grennan|first=Dan|publisher=Extra.ie|date=19 February 2020|access-date=2 March 2020}}</ref><ref group="p">{{cite tweet|user=europeelects|author=EuropeElects|number=1230295011817816065|title=Ireland, Amárach Research poll|language=en|access-date=2 March 2020}}</ref>
 |1,040
 |style="background:#D7ECEA"|'''35'''
 |17

@@ -15,7 +15,7 @@ specs = {
         'end_date': Date(2024, 9, 29),
         'toggle_seats': True,
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_next_Austrian_legislative_election&action=edit&section=2',
+               'Opinion_polling_for_the_next_Austrian_legislative_election&action=edit&section=3',
         'seats': 183,
         'divisor': 1,
         'bar': 0,
@@ -24,15 +24,15 @@ specs = {
     },
     'Brazil': {
         'key': ['firm', 'date', 'sample',
-                'Bolsanaro (APB)', 'Lula (PT)', 'Gomes (PDT)', 'Doria (PSDB)',
-                'Leite (PSDB)', 'Mandetta (DEM)', 'Datena (PSL)', 'Pancheco (DEM)', 'Moro',
+                'Bolsanaro (APB)', 'Lula (PT)', 'Moro (PODE)', 'Gomes (PDT)', 'Doria (PSDB)',
+                'Leite (PSDB)', 'Mandetta (DEM)', 'Pancheco (DEM)',
                 'Other', 'Undecided', 'lead', 'end'],
-        'include': ['Bolsanaro (APB)', 'Lula (PT)', 'Gomes (PDT)', 'Doria (PSDB)'],
+        'include': ['Bolsanaro (APB)', 'Lula (PT)', 'Gomes (PDT)', 'Doria (PSDB)', 'Moro (PODE)'],
         'zeros': ['Undecided'],
         'col': {'Bolsanaro (APB)': (0, 140, 0), 'Lula (PT)': (204, 0, 0), 'Haddad (PT)': (204, 0, 0),
                 'Dino (PCdoB)': (163, 0, 0), 'Gomes (PDT)': (238, 100, 100), 'Boulos (PSOL)': (163, 0, 0),
                 'Doria (PSDB)': (0, 95, 164), 'Amoedo (NOVO)': (240, 118, 42), 'Silva (REDE)': (46, 139, 87),
-                'Moro': dark_grey, 'Huck': grey},
+                'Moro (PODE)': (45, 169, 51), 'Huck': grey},
         'start': 0,
         'vlines': {Date(2021, 3, 8): "Lula cleared of charges"},
         'end_date': Date(2022, 10, 2),
@@ -41,9 +41,9 @@ specs = {
     },
     'Bulgaria': {
         'include': ['ITN', 'GERB', 'BSPzB', 'DB', 'DPS', 'IBG-NI', 'IMRO', 'Revival', 'PP', 'BP'],
-        'key': ['firm', 'date', 'sample', 'turnout',
+        'key': ['firm', 'date', 'sample', 'turnout', 'Undecided',
                 'ITN', 'GERB', 'BSPzB', 'DB', 'DPS', 'IBG-NI', 'IMRO', 'Revival', 'PP',
-                'Undecided', 'None', 'Other', 'lead', 'end'],
+                'Other', 'None', 'lead', 'end'],
         'col': {'GERB': (0, 86, 167), 'ITN': (75, 185, 222), 'BSPzB': (219, 15, 40), 'DPS': (0, 96, 170),
                 'DB': (0, 74, 128), 'IBG-NI': (91, 165, 70), 'BP': (1, 25, 59), 'Revival': (192, 159, 98),
                 'BL': (243, 129, 20), 'RzB': (43, 74, 153), 'LSChSR': (241, 25, 40), 'PP': (3, 22, 143),
@@ -55,17 +55,18 @@ specs = {
         'start': 0,
         'end_date': Date(2021, 11, 14),
         'toggle_seats': True,
-        'url': 'https://en.wikipedia.org/w/index.php?title=2021_Bulgarian_general_election&action=edit&section=9',
+        'url': 'https://en.wikipedia.org/w/index.php?title=2021_Bulgarian_general_election&action=edit&section=10',
         'old_data': 'polling_data/old_bulgaria_polling.txt',
         'seats': 240,
         'method': 'remainder',
         'threshold': 4,
         'vlines': {Date(2021, 7, 11): "Parliamentary Election",
-                   Date(2021, 4, 4): "Parliamentary Election"}
+                   Date(2021, 4, 4): "Parliamentary Election"},
+        'zeros': ['Undecided', 'None']
     },
     'Canada': {
         'key': ['firm', 'date', 'link',
-                'CON', 'LIB', 'NDP', 'BQ', 'GRN', 'PPC',
+                'CON', 'LIB', 'NDP', 'BQ', 'PPC', 'GRN',
                 'Other', 'margin', 'size', 'method', 'lead'],
         'include': ['CON', 'LIB', 'NDP', 'BQ', 'GRN', 'PPC'],
         'col': {'CON': (100, 149, 237), 'LIB': (234, 109, 106), 'NDP': (244, 164, 96), 'BQ': (135, 206, 250),
@@ -82,7 +83,7 @@ specs = {
         'end_date': Date(2025, 9, 20),
         'toggle_seats': True,
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_2021_Canadian_federal_election&action=edit&section=1',
+               'Opinion_polling_for_the_45th_Canadian_federal_election&action=edit&section=1',
         'old_data': 'polling_data/old_canada_polling.txt'
     },
     'Chile': {
@@ -103,8 +104,7 @@ specs = {
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_2021_Chilean_presidential_election&action=edit&section=2',
         'old_data': 'polling_data/old_chile_polling.txt',
-        'vlines': {Date(2021, 7, 18): 'Official Primaries',
-                   Date(2021, 8, 21): 'New Social Pact Primary'}
+        'vlines': {Date(2021, 7, 18): 'Official Primaries'}
     },
     'Czechia': {
         'key': ['firm', 'date', 'size', 'turnout',
@@ -132,7 +132,7 @@ specs = {
     },
     'Denmark': {
         'key': ['firm', 'date', 'sample',
-                'A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G',
+                'A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G', 'M', 'Q',
                 'Other', 'lead', 'red', 'blue', 'lead', 'end'],
         'include': ['A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G'],
         'col': {'A': (240, 77, 70), 'V': (0, 40, 131), 'O': (252, 208, 59), 'B': (229, 0, 125), 'F': (191, 3, 26),
@@ -156,7 +156,7 @@ specs = {
     },
     'Estonia': {
         'key': ['firm', 'date', 'sample',
-                'Centre', 'EKRE', 'Reform', 'Isamaa', 'SDE', 'E200', 'Green',
+                'Reform', 'Centre', 'EKRE', 'Isamaa', 'SDE', 'E200', 'Green',
                 'Other', 'lead', 'gov', 'opp', 'end'],
         'include': ['Reform', 'Centre', 'EKRE', 'Isamaa', 'SDE', 'E200', 'Green'],
         'col': {'Reform': (255, 226, 0), 'Centre': (0, 117, 87), 'EKRE': (0, 99, 175), 'Isamaa': (0, 156, 226),
@@ -402,7 +402,7 @@ specs = {
     },
     'Lithuania': {
         'include': ['TS-LKD', 'LVZS', 'DP', 'LSDP', 'Laisves', 'LRLS', 'LLRA', 'LRP', 'LCP', 'LT'],
-        'key': ['firm', 'date',
+        'key': ['firm', 'date', 'sample',
                 'TS-LKD', 'LVZS', 'DP', 'LSDP', 'Laisves', 'LRLS', 'LLRA', 'LRP', 'LCP', 'LT',
                 'lead', 'end'],
         'col': {'TS-LKD': (0, 165, 155), 'LVZS': (0, 144, 53), 'DP': (29, 87, 140), 'LSDP': (225, 5, 20),
@@ -415,7 +415,7 @@ specs = {
         'start': 0,
         'end_date': Date(2024, 10, 6),
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               '2024_Lithuanian_parliamentary_election&action=edit&section=3'
+               '2024_Lithuanian_parliamentary_election&action=edit&section=2'
     },
     'Netherlands': {
         'key': ['firm', 'date', 'sample',
