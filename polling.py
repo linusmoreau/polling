@@ -243,6 +243,22 @@ def transcribe_table(content, key, choice, begin, start):
                         'A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G',
                         'Other', 'lead', 'red', 'blue', 'lead']
                 reset = True
+        elif choice == 'France':
+            if '==== January–September ====' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'Arthaud', 'Poutou', 'Roussel', 'Melenchon', 'Hidalgo', 'Hollande', 'Montebourg', 'Piolle',
+                        'Jadot', 'Macron', 'Lagarde', 'Lassalle', 'Bertrand', 'Pecresse', 'Barnier', 'Baroin',
+                        'Retailleau', 'Wauquiez', 'Poisson', 'Dupont-Aignan', 'Le Pen', 'Zemmour', 'Asselineau',
+                        'end']
+                reset = True
+            elif '=== 2017–2020 ===' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'Arthaud', 'Poutou', 'Roussel', 'Melenchon', 'Hamon', 'Cazeneuve', 'Faure', 'Hidalgo',
+                        'Hollande', 'Royal', 'Jadot', 'Macron', 'Lagarde', 'Lassalle', 'Bertrand', 'Pecresse',
+                        'Baroin', 'Dati', 'Fillon', 'Retailleau', 'Wauquiez', 'Dupont-Aignan', 'Le Pen',
+                        'Asselineau', 'Cheminade',
+                        'end']
+                reset = True
         if reset:
             tables.append({'table': table[:-1], 'key': key, 'years': years})
             table = []
@@ -550,6 +566,12 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
             if type(entry[i]).__name__ == 'str':
                 if 'Presidential election' in entry[i]:
                     purge.add(k)
+    elif choice == 'France':
+        for p in ['Melenchon', 'Hidalgo', 'Jadot', 'Macron', 'Bertrand', 'Le Pen']:
+            i = key.index(p)
+            for k, entry in enumerate(table):
+                if entry[i] is None:
+                    purge.add(k)
     for j, entry in enumerate(table):
         for i, k in enumerate(key):
             if k in include and entry[i] is not False:
@@ -737,8 +759,7 @@ class GraphPage:
         self.minx = -1
         self.spread = GraphPage.spread
         self.file_name, self.key, self.col, self.blocs, self.gov, self.start, self.restart, self.date, \
-            self.end_date, self.include, self.vlines, toggle_seats, self.zeros \
-            = choice_setting(self.choice)
+            self.end_date, self.include, self.vlines, toggle_seats, self.zeros = choice_setting(self.choice)
 
         self.to_end_date = to_end_date
 
@@ -1372,7 +1393,6 @@ def get_today():
 
 
 today = get_today()
-
 
 if __name__ == '__main__':
     save_loc = 'updated.txt'

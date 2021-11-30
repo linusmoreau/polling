@@ -1,0 +1,6641 @@
+== First round ==
+=== 2021 ===
+==== September–present ====
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="2"| Polling<br/>firm
+! rowspan="2"| Fieldwork<br/>date
+! rowspan="2"| Sample<br/>size
+! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud]]}}
+! {{vert header|mw=35px|stp=1|[[Philippe Poutou]]}}
+! {{vert header|mw=35px|stp=1|[[Fabien Roussel]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon]]}}
+! {{vert header|mw=35px|stp=1|[[Anne Hidalgo]]}}
+! {{vert header|mw=35px|stp=1|[[Arnaud Montebourg]]}}
+! {{vert header|mw=35px|stp=1|[[Yannick Jadot]]}}
+! {{vert header|mw=35px|stp=1|[[Emmanuel Macron]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Christophe Lagarde]]}}
+! {{vert header|mw=35px|stp=1|[[Jean Lassalle]]}}
+! {{vert header|mw=35px|stp=1|[[Michel Barnier]]}}
+! {{vert header|mw=35px|stp=1|[[Xavier Bertrand]]}}
+! {{vert header|mw=35px|stp=1|[[Éric Ciotti]]}}
+! {{vert header|mw=35px|stp=1|[[Philippe Juvin]]}}
+! {{vert header|mw=35px|stp=1|[[Denis Payre]]}}
+! {{vert header|mw=35px|stp=1|[[Valérie Pécresse]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Frédéric Poisson]]}}
+! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Le Pen]]}}
+! {{vert header|mw=35px|stp=1|[[Florian Philippot]]}}
+! {{vert header|mw=35px|stp=1|[[Éric Zemmour]]}}
+! {{vert header|mw=35px|stp=1|[[François Asselineau]]}}
+|-
+! style="background:{{Lutte Ouvrière/meta/color}};"|
+! style="background:{{New Anticapitalist Party/meta/color}};"|
+! style="background:{{French Communist Party/meta/color}};"|
+! style="background:{{La France Insoumise/meta/color}};"|
+! style="background:{{Socialist Party (France)/meta/color}};"|
+! style="background:{{Miscellaneous left/meta/color}};"|
+! style="background:{{Europe Ecology – The Greens/meta/color}};"|
+! style="background:{{La République En Marche!/meta/color}};"|
+! style="background:{{Union of Democrats and Independents/meta/color}};"|
+! style="background:{{Résistons!/meta/color}};"|
+! colspan="6" style="background:{{The Republicans (France)/meta/color}};"|
+! style="background:{{Christian Democratic Party (France)/meta/color}};"|
+! style="background:{{Debout la France/meta/color}};"|
+! style="background:{{National Rally (France)/meta/color}};"|
+! style="background:{{The Patriots (France)/meta/color}};"|
+! style="background:{{Independent (politician)/meta/color}};"|
+! style="background:{{Popular Republican Union (2007)/meta/color}};"|
+|-
+| rowspan="5" style="background:#FFCCCC"| [https://www.ifop.com/wp-content/uploads/2021/11/117825-Rapport-IV-presid..pdf Ifop-Fiducial]
+| rowspan="5" |23-25 Nov 2021
+| rowspan="5" |1,351
+|0%
+|1%
+|2%
+|7.5%
+|6%
+|2%
+|7%
+|style="background:#FFED99" | '''25%'''
+|–
+|0.5%
+|–
+|13%
+|–
+|–
+|–
+|–
+|–
+|3%
+|style="background:#E0E5F0;" | '''19%'''
+|–
+|14%
+|–
+|-
+|0.5%
+|1%
+|2%
+|8.5%
+|6%
+|2%
+|6.5%
+|style="background:#FFED99" | '''25%'''
+|–
+|0%
+|–
+|–
+|–
+|–
+|–
+|10%
+|–
+|4%
+|style="background:#E0E5F0;" | '''19.5%'''
+|–
+|15%
+|–
+|-
+|0.5%
+|1%
+|2.5%
+|8.5%
+|6%
+|2%
+|6.5%
+|style="background:#FFED99" | '''25%'''
+|–
+|0.5%
+|10%
+|–
+|–
+|–
+|–
+|–
+|–
+|3.5%
+|style="background:#E0E5F0;" | '''19%'''
+|–
+|15%
+|–
+|-
+|0.5%
+|1%
+|2%
+|8.5%
+|6%
+|2.5%
+|7%
+|style="background:#FFED99" | '''28%'''
+|–
+|1%
+|–
+|–
+|6%
+|–
+|–
+|–
+|–
+|3.5%
+|style="background:#E0E5F0;" | '''20%'''
+|–
+|14%
+|–
+|-
+|0.5%
+|1%
+|2.5%
+|8%
+|6.5%
+|2.5%
+|7.5%
+|style="background:#FFED99" | '''28%'''
+|–
+|1.5%
+|–
+|–
+|–
+|3%
+|–
+|–
+|–
+|4%
+|style="background:#E0E5F0;" | '''20%'''
+|–
+|15%
+|–
+|-
+| rowspan="5" style="background:#CAD5F7" |[https://elabe.fr/wp-content/uploads/2021/11/opinion-2022.pdf Elabe]
+| rowspan="5" |23–24 Nov 2021
+| rowspan="5" |1,491
+|1%
+|1%
+|2%
+|9%
+|4%
+|1%
+|8%
+| style="background:#FFED99" | '''25%'''
+|–
+|1%
+|–
+|13%
+|–
+|–
+|–
+|–
+|<1%
+|2%
+| style="background:#E0E5F0;" | '''20%'''
+|1%
+|12%
+|<1%
+|-
+|1%
+|2%
+|2%
+|9%
+|4%
+|2%
+|8%
+| style="background:#FFED99" | '''25%'''
+|–
+|1%
+|–
+|–
+|–
+|–
+|–
+|9%
+|<1%
+|3%
+| style="background:#E0E5F0;" | '''20%'''
+|<1%
+|13%
+|1%
+|-
+|1%
+|1%
+|2%
+|9%
+|4%
+|2%
+|8%
+| style="background:#FFED99" | '''25%'''
+|–
+|1%
+|9%
+|–
+|–
+|–
+|–
+|–
+|<1%
+|3%
+| style="background:#E0E5F0;" | '''20%'''
+|1%
+|13%
+|1%
+|-
+|1%
+|1%
+|2%
+|9%
+|5%
+|3%
+|8%
+| style="background:#FFED99" | '''26%'''
+|–
+|1%
+|–
+|–
+|5%
+|–
+|–
+|–
+|<1%
+|3%
+| style="background:#E0E5F0;" | '''21%'''
+|1%
+|13%
+|1%
+|-
+|<1%
+|1%
+|2%
+|9%
+|4%
+|2%
+|9%
+| style="background:#FFED99" | '''27%'''
+|–
+|1%
+|–
+|–
+|–
+|3%
+|–
+|–
+|<1%
+|3%
+| style="background:#E0E5F0;" | '''22%'''
+|1%
+|15%
+|1%
+|-
+| rowspan="5" style="background:GreenYellow" |[https://harris-interactive.fr/wp-content/uploads/sites/6/2021/11/DGTENVF-AX5.pdf Harris-Interactive]
+| rowspan="5" |19–22 Nov 2021
+| rowspan="5" |2,624
+|1%
+|1%
+|2%
+|10%
+|5%
+|1%
+|8%
+|style="background:#FFED99"| '''23%'''
+|–
+|<0.5%
+|–
+|14%
+|–
+|–
+|–
+|–
+|–
+|2%
+|style="background:#E0E5F0;"| '''16%'''
+|1%
+|16%
+|<0.5%
+|-
+|1%
+|1%
+|2%
+|10%
+|5%
+|1%
+|9%
+|style="background:#FFED99"| '''24%'''
+|–
+|<0.5%
+|–
+|–
+|–
+|–
+|–
+|11%
+|–
+|2%
+|style="background:#E0E5F0;"| '''16%'''
+|2%
+|16%
+|<0.5%
+|-
+|1%
+|1%
+|2%
+|10%
+|5%
+|1%
+|9%
+|style="background:#FFED99"| '''24%'''
+|–
+|<0.5%
+|10%
+|–
+|–
+|–
+|–
+|–
+|–
+|2%
+|16%
+|2%
+|style="background:#EEEEEE"| '''17%'''
+|<0.5%
+|-
+|1%
+|1%
+|2%
+|10%
+|5%
+|1%
+|9%
+|style="background:#FFED99"| '''29%'''
+|–
+|<0.5%
+|–
+|–
+|5%
+|–
+|–
+|–
+|–
+|2%
+|style="background:#E0E5F0;"| '''17%'''
+|1%
+|style="background:#EEEEEE"| '''17%'''
+|<0.5%
+|-
+|1%
+|1%
+|2%
+|10%
+|5%
+|1%
+|9%
+|style="background:#FFED99"| '''30%'''
+|–
+|<0.5%
+|–
+|–
+|–
+|4%
+|–
+|–
+|–
+|2%
+|style="background:#E0E5F0;"| '''17%'''
+|1%
+|style="background:#EEEEEE"| '''17%'''
+|<0.5%
+|-
+| rowspan="3" style="background:#80fcd4;"| [https://www.cnews.fr/france/2021-11-18/presidentielle-emmanuel-macron-reste-en-tete-devant-marine-le-pen-et-xavier OpinionWay]
+| rowspan="3"| 15–17 Nov 2021
+| rowspan="3"| 1,521
+| 1%
+| 1%
+| 2%
+| 9%
+| 5%
+| 3%
+| 8%
+| style="background:#FFED99;"| '''24%'''
+| –
+| –
+| –
+| 13%
+| –
+| –
+| –
+| –
+| –
+| 3%
+| style="background:#E0E5F0;"| '''19%'''
+| –
+| 12%
+| –
+|-
+| 1%
+| 1%
+| 2%
+| 9%
+| 5%
+| 3%
+| 8%
+| style="background:#FFED99;"| '''24%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 11%
+| –
+| 3%
+| style="background:#E0E5F0;"| '''20%'''
+| –
+| 12%
+| –
+|-
+| 1%
+| 1%
+| 2%
+| 9%
+| 6%
+| 3%
+| 8%
+| style="background:#FFED99;"| '''25%'''
+| –
+| –
+| 9%
+| –
+| –
+| –
+| –
+| –
+| –
+| 3%
+| style="background:#E0E5F0;"| '''21%'''
+| –
+| 12%
+| –
+|-
+| rowspan="3" style="background:GreenYellow"| [http://harris-interactive.fr/wp-content/uploads/sites/6/2021/11/T7XJ65-Q8ZBH4-22.pdf Harris-Interactive]
+| rowspan="3"| 12–15 Nov 2021
+| rowspan="3"| 2,609
+| 1%
+| 1%
+| 2%
+| 10%
+| 4%
+| 2%
+| 8%
+| style="background:#FFED99"| '''23%'''
+| –
+| <0.5%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 1%
+| 16%
+| 1%
+| style="background:#EEEEEE"| '''17%'''
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 10%
+| 4%
+| 2%
+| 9%
+| style="background:#FFED99"| '''24%'''
+| –
+| <0.5%
+| –
+| –
+| –
+| –
+| –
+| 10%
+| –
+| 2%
+| 16%
+| 2%
+| style="background:#EEEEEE"| '''17%'''
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 10%
+| 4%
+| 2%
+| 9%
+| style="background:#FFED99"| '''24%'''
+| –
+| <0.5%
+| 10%
+| –
+| –
+| –
+| –
+| –
+| –
+| 2%
+| 16%
+| 1%
+| style="background:#EEEEEE"| '''18%'''
+| <0.5% 
+|-
+| rowspan="5" style="background:#CAD5F7"| [https://elabe.fr/presidentielle2022-et-candidats-lr/ Elabe]
+| rowspan="5"| 10–11 Nov 2021
+| rowspan="5"| 1,484
+|1%
+|2%
+|2%
+|8%
+|7%
+|2%
+|5%
+| style="background:#FFED99"|'''25%'''
+|–
+|1%
+|–
+|13%
+|–
+|–
+|–
+|–
+|<0.5%
+|2%
+|style="background:#E0E5F0" |'''17%'''
+|0.5%
+|14%
+|0.5%
+|-
+|1%
+|2%
+|2%
+|8%
+|7%
+|2%
+|5%
+| style="background:#FFED99"|'''27%'''
+|–
+|0.5%
+|–
+|–
+|–
+|–
+|–
+|11%
+|<0.5%
+|2%
+|style="background:#E0E5F0"|'''18%'''
+|0.5%
+|14%
+|<0.5%
+|-
+|1%
+|2%
+|2%
+|8%
+|8%
+|2%
+|5%
+| style="background:#FFED99"|'''28%'''
+|–
+|1%
+|9%
+|–
+|–
+|–
+|–
+|–
+|<0.5%
+|2 %
+|style="background:#E0E5F0"| '''18%'''
+|0.5%
+|13%
+|0.5%
+|-
+|1%
+|2%
+|2%
+|8%
+|8%
+|2%
+|5%
+| style="background:#FFED99"|'''30%'''
+|–
+|1%
+|–
+|–
+|5%
+|–
+|–
+|–
+|<0.5%
+|2%
+|style="background:#E0E5F0"|'''17%'''
+|1%
+|15%
+|1%
+|-
+|1%
+|1%
+|2%
+|9%
+|8%
+|2%
+|6%
+|style="background:#FFED99"|'''29%'''
+|–
+|1%
+|–
+|–
+|–
+|4%
+|–
+|–
+|<0.5%
+|2%
+|style="background:#E0E5F0"|'''18%'''
+|1%
+|15%
+|1%
+|-
+| rowspan="3" style="background:#FFCCFF;"| [http://www.odoxa.fr/sondage/zemmour-recule-macron-domine-les-electeurs-de-gauche-se-sentent-abandonnes/ Odoxa]
+| rowspan="3"| 5–8 Nov 2021
+| rowspan="3"| 3,005
+| 1%
+| 2%
+| 2%
+| 8.5%
+| 4.5%
+| 2%
+| 6.5%
+| style="background:#FFED99"| '''25%'''
+| –
+| 1,5%
+| –
+| 12%
+| –
+| –
+| –
+| –
+| –
+| 3%
+| style="background:#E0E5F0"| '''18%'''
+| –
+| 14%
+| –
+|-
+| 1%
+| 2.5%
+| 2%
+| 8.5%
+| 5%
+| 2%
+| 6.5%
+| style="background:#FFED99"| '''25%'''
+| –
+| 1.5%
+| –
+| –
+| –
+| –
+| –
+| 9%
+| –
+| 4%
+| style="background:#E0E5F0"| '''18.5%'''
+| –
+| 14.5%
+| –
+|-
+| 1%
+| 2%
+| 2%
+| 9%
+| 5%
+| 2%
+| 7%
+| style="background:#FFED99"| '''25%'''
+| –
+| 1%
+| 9%
+| –
+| –
+| –
+| –
+| –
+| –
+| 3%
+| style="background:#E0E5F0"| '''19%'''
+| –
+| 14.5%
+| –
+|-
+| rowspan="3" style="background:GreenYellow"| [http://harris-interactive.fr/wp-content/uploads/sites/6/2021/11/Rapport-Harris-Vague-21-Intentions-de-vote-Presidentielle-2022-Challenges.pdf Harris-Interactive]
+| rowspan="3"| 5–8 Nov 2021
+| rowspan="3"| 2,569
+| 1%
+| 1%
+| 2%
+| 10%
+| 4%
+| 2%
+| 8%
+| style="background:#FFED99"| '''23%'''
+| <0.5%
+| <0.5%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 1%
+| 15%
+| 1%
+| style="background:#EEEEEE"| '''18%'''
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 10%
+| 4%
+| 2%
+| 9%
+| style="background:#FFED99"| '''24%'''
+| <0.5%
+| <0.5%
+| –
+| –
+| –
+| –
+| –
+| 10%
+| –
+| 2%
+| 16%
+| 1%
+| style="background:#EEEEEE"| '''18%'''
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 10%
+| 4%
+| 2%
+| 9%
+| style="background:#FFED99"| '''24%'''
+| <0.5%
+| <0.5%
+| 10%
+| –
+| –
+| –
+| –
+| –
+| –
+| 2%
+| 15%
+| 1%
+| style="background:#EEEEEE"| '''19%'''
+| <0.5% 
+|-
+| rowspan="5" style="background:#FFCCCC"| [https://www.ifop.com/wp-content/uploads/2021/11/118574_Ifop_Rapport_Baro_Presid.V6..pdf Ifop-Fiducial]
+| rowspan="5"| 4–5 Nov 2021
+| rowspan="5"| 1,358
+| 0.5%
+| 0.5%
+| 2%
+| 8.5%
+| 5%
+| 2.5%
+| 7%
+| style="background:#FFED99"| '''25%'''
+| –
+| 0.5%
+| –
+| 13%
+| –
+| –
+| –
+| –
+| –
+| 2.5%
+| 16%
+| –
+| style="background:#EEEEEE"| '''17%'''
+| –
+|-
+| 0.5%
+| 1%
+| 2.5%
+| 8%
+| 6%
+| 4%
+| 7%
+| style="background:#FFED99"| '''25%'''
+| –
+| 0.5%
+| 10%
+| –
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0"| '''17%'''
+| –
+| 16.5%
+| –
+|-
+| 0,5%
+| 1%
+| 2%
+| 8%
+| 6%
+| 4%
+| 7%
+| style="background:#FFED99"| '''26%'''
+| –
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 9%
+| –
+| 4.5%
+| style="background:#E0E5F0"| '''16.5%'''
+| –
+| style="background:#EEEEEE"| '''16.5%'''
+| –
+|-
+| 0.5%
+| 1%
+| 2%
+| 8.5%
+| 6.5%
+| 4.5%
+| 7% 
+| style="background:#FFED99"| '''29%'''
+| –
+| 1%
+| –
+| –
+| 4%
+| –
+| –
+| –
+| –
+| 4%
+| 17%
+| –
+| style="background:#EEEEEE"| '''18%'''
+| –
+|-
+| 0.5%
+| 1%
+| 2%
+| 9%
+| 6%
+| 4.5%
+| 7%
+| style="background:#FFED99"| '''28%'''
+| –
+| 1%
+| –
+| –
+| –
+| 2%
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0"| '''18%'''
+| –
+| style="background:#EEEEEE"| '''18%'''
+| <0.5%
+|-
+| rowspan="3" style="background:GreenYellow"| [http://harris-interactive.fr/wp-content/uploads/sites/6/2021/11/Rapport-Harris-Vague-20-Intentions-de-vote-Presidentielle-2022-Challenges.pdf Harris-Interactive]
+| rowspan="3"| 28–30 Oct 2021
+| rowspan="3"| 2,505
+| 1%
+| 1%
+| 2%
+| 10%
+| 5%
+| 2%
+| 8%
+| style="background:#FFED99"| '''23%'''
+| <0.5%
+| <0.5%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 1%
+| 15%
+| 1%
+| style="background:#EEEEEE"| '''17%'''
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 10%
+| 5%
+| 2%
+| 9%
+| style="background:#FFED99"| '''24%'''
+| <0.5%
+| <0.5%
+| –
+| –
+| –
+| –
+| –
+| 10%
+| –
+| 2%
+| 16%
+| 1%
+| style="background:#EEEEEE"| '''17%'''
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 10%
+| 5%
+| 2%
+| 9%
+| style="background:#FFED99"| '''24%'''
+| <0.5%
+| <0.5%
+| 9%
+| –
+| –
+| –
+| –
+| –
+| –
+| 2%
+| 16%
+| 1%
+| style="background:#EEEEEE"| '''18%'''
+| <0.5% 
+|-
+| rowspan="3" style="background:#CAD5F7"| [https://elabe.fr/wp-content/uploads/2021/10/presidentielle-2022.pdf Elabe]
+| rowspan="3"| 25–27 Oct 2021
+| rowspan="3"| 1,300
+| 1%
+| 1%
+| 2%
+| 7%
+| 5%
+| 4%
+| 6%
+| style="background:#FFED99"| '''23%'''
+| <1%
+| 1%
+| –
+| 13%
+| –
+| –
+| –
+| –
+| <1%
+| 4%
+| style="background:#E0E5F0"| '''19%'''
+| 1%
+| 15%
+| <1%
+|-
+| 1%
+| 1%
+| 2%
+| 6%
+| 5%
+| 4%
+| 8%
+| style="background:#FFED99"| '''24%'''
+| <1%
+| 2%
+| –
+| –
+| –
+| –
+| –
+| 10%
+| <1%
+| 2%
+| style="background:#E0E5F0"| '''19%'''
+| <1%
+| 16%
+| <1%
+|-
+| <1%
+| 1%
+| 2%
+| 7%
+| 5%
+| 4%
+| 7%
+| style="background:#FFED99"| '''26%'''
+| 1%
+| 2%
+| 8%
+| –
+| –
+| –
+| –
+| –
+| 1%
+| 4%
+| style="background:#E0E5F0"| '''19%'''
+| <1%
+| 15%
+| <1%
+|-
+| rowspan="3" style="background:GreenYellow" 7|[http://harris-interactive.fr/wp-content/uploads/sites/6/2021/10/Rapport-Harris-Vague-19-Intentions-de-vote-Presidentielle-2022-Challenges.pdf Harris-Interactive]
+| rowspan="3"| 22–25 Oct 2021
+| rowspan="3"| 2,497
+| 1%
+| 1%
+| 2%
+| 10%
+| 5%
+| 2%
+| 8%
+| style="background:#FFED99"| '''23%'''
+| <0.5%
+| <0.5%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 1%
+| 16%
+| <0.5%
+| style="background:#EEEEEE"| '''17%'''
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 10%
+| 5%
+| 2%
+| 9%
+| style="background:#FFED99"| '''25%'''
+| <0.5%
+| <0.5%
+| –
+| –
+| –
+| –
+| –
+| 10%
+| –
+| 2%
+| 16%
+| <0.5%
+| style="background:#EEEEEE"| '''17%'''
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 10%
+| 6%
+| 2%
+| 9%
+| style="background:#FFED99"| '''25%'''
+| <0.5%
+| <0.5%
+| 8%
+| –
+| –
+| –
+| –
+| –
+| –
+| 2%
+| 16%
+| <0.5%
+| style="background:#EEEEEE"| '''18%'''
+| <0.5%
+|-
+| rowspan="4" style="background:#80fcd4;"| [https://www.opinion-way.com/fr/component/edocman/opinionway-pour-les-vague-2-octobre-2021/viewdocument/2695.html OpinionWay]
+| rowspan="4"| 18–20 Oct 2021
+| rowspan="4"| 1,066
+| 1%
+| 1%
+| 2%
+| 9%
+| 5%
+| 4%
+| 8%
+| style="background:#FFED99;"| '''25%'''
+| –
+| –
+| –
+| 12%
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''18%'''
+| –
+| 13%
+| –
+|-
+| 1%
+| 1%
+| 2%
+| 9%
+| 5%
+| 4%
+| 8%
+| style="background:#FFED99;"| '''25%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 8%
+| –
+| 4%
+| style="background:#E0E5F0;"| '''19%'''
+| –
+| 13%
+| –
+|-
+| 1%
+| 1%
+| 2%
+| 9%
+| 6%
+| 4%
+| 8%
+| style="background:#FFED99;"| '''26%'''
+| –
+| –
+| 8%
+| –
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''20%'''
+| –
+| 13%
+| –
+|-
+| 1%
+| 1%
+| 2%
+| 8%
+| 6%
+| 4%
+| 8%
+| style="background:#FFED99;"| '''26%'''
+| –
+| –
+| –
+| 13%
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| –
+| –
+|-
+| rowspan="3" style="background:GreenYellow;"| [http://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9225-p-hi-challenges-v18.pdf Harris-Interactive]
+| rowspan="3"| 15–18 Oct 2021
+| rowspan="3"| 2,544
+| 1%
+| 1%
+| 2%
+| 10%
+| 4%
+| 4%
+| 8%
+| style="background:#FFED99;"| '''23%'''
+| <0.5%
+| <0.5%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 1%
+| 16%
+| <0.5%
+| style="background:#EEEEEE;"| '''17%'''
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 10%
+| 4%
+| 4%
+| 9%
+| style="background:#FFED99;"| '''25%'''
+| <0.5%
+| <0.5%
+| –
+| –
+| –
+| –
+| –
+| 10%
+| –
+| 2%
+| 16%
+| <0.5%
+| style="background:#EEEEEE;"| '''17%'''
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 10%
+| 5%
+| 4%
+| 9%
+| style="background:#FFED99;"| '''25%'''
+| <0.5%
+| <0.5%
+| 8%
+| –
+| –
+| –
+| –
+| –
+| –
+| 2%
+| 16%
+| <0.5%
+| style="background:#EEEEEE;"| '''18%'''
+| <0.5%
+|-
+| rowspan="3" style="background:#FFCCCC|[https://www.ifop.com/wp-content/uploads/2021/10/Presentation-LAZARE-DEF-19.10.2021-18h15.pdf Ifop-Fiducial]
+| rowspan="3"| 14–15 Oct 2021
+| rowspan="3"| 1,516
+| 0.5%
+| 0.5%
+| 2%
+| 8%
+| 6%
+| 1.5%
+| 7%
+| style="background:#FFED99;"| '''24%'''
+| –
+| 0.5%
+| –
+| 15%
+| –
+| –
+| –
+| –
+| –
+| 2%
+| style="background:#E0E5F0;"| '''17%'''
+| –
+| 16%
+| –
+|-
+| 0.5%
+| 1%
+| 2.5%
+| 8.5%
+| 6.5%
+| 2%
+| 7%
+| style="background:#FFED99;"| '''24%'''
+| –
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 10%
+| –
+| 4%
+| style="background:#E0E5F0;"| '''17%'''
+| –
+| style="background:#EEEEEE;"| '''17%'''
+| –
+|-
+| 0.5%
+| 0.5%
+| 2%
+| 8%
+| 6%
+| 2%
+| 7%
+| style="background:#FFED99;"| '''25%'''
+| –
+| 1%
+| 10%
+| –
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''18%'''
+| –
+| 17%
+| –
+|-
+| rowspan="3" style="background:#FFCCCC"| [http://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9224-p-ifop-le-figaro.pdf Ifop-Fiducial]
+| rowspan="3"| 9–13 Oct 2021
+| rowspan="3"| 4,503
+| 0.5%
+| 0.5%
+| 1.5%
+| 8%
+| 5%
+| 1.5%
+| 7%
+| style="background:#FFED99;"| '''25%'''
+| –
+| 0.5%
+| –
+| 15%
+| –
+| –
+| –
+| –
+| –
+| 2.5%
+| style="background:#E0E5F0;"| '''17%'''
+| –
+| 16%
+| –
+|-
+| 0.5%
+| 0.5%
+| 2%
+| 8%
+| 5.5%
+| 2%
+| 7%
+| style="background:#FFED99;"| '''26%'''
+| –
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 10%
+| –
+| 2.5%
+| style="background:#E0E5F0;"| '''18%'''
+| –
+| 17 %
+| –
+|-
+| 0.5%
+| 0.5%
+| 2%
+| 8%
+| 5%
+| 2%
+| 7%
+| style="background:#FFED99;"| '''27%'''
+| –
+| 1%
+| 8%
+| –
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''18.5%'''
+| –
+| 17%
+| –
+|-
+|rowspan="6" style="background:GreenYellow;"| [https://harris-interactive.fr/wp-content/uploads/sites/6/2021/10/Rapport-Harris-Vague-17-Intentions-de-vote-Presidentielle-2022-Challenges.pdf Harris-Interactive]
+| rowspan="6"| 8–11 Oct 2021
+| rowspan="6"| 1,337
+| 1%
+| 1%
+| 2%
+| 11%
+| 5%
+| 2%
+| 7%
+| style="background:#FFED99;"| '''24%'''
+| <0.5%
+| <0.5%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| <0.5%
+| 1%
+| 15%
+| <0.5%
+| style="background:#EEEEEE;"| '''17%'''
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 11%
+| 5%
+| 2%
+| 8%
+| style="background:#FFED99;"| '''25%'''
+| <0.5%
+| <0.5%
+| –
+| –
+| –
+| –
+| –
+| 11%
+| <0.5%
+| 2%
+| 15%
+| <0.5%
+| style="background:#EEEEEE;"| '''17%'''
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 11%
+| 5%
+| 2%
+| 8%
+| style="background:#FFED99;"| '''27%'''
+| <0.5%
+| <0.5%
+| 7%
+| –
+| –
+| –
+| –
+| –
+| <0.5%
+| 2%
+| 16%
+| <0.5%
+| style="background:#EEEEEE;"| '''18%'''
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 11%
+| 5%
+| 2%
+| 7%
+| style="background:#FFF7CE;"| '''25%'''
+| <0.5%
+| <0.5%
+| –
+| 15%
+| –
+| –
+| –
+| –
+| <0.5%
+| 4 %
+| style="background:#C1CCE1;"| '''26%'''
+| 1%
+| –
+| <0.5 %
+|-
+| 1%
+| 1%
+| 2%
+| 11%
+| 5%
+| 4%
+| 8%
+| style="background:#FFED99;"| '''27%'''
+| <0.5%
+| <0.5%
+| –
+| –
+| –
+| –
+| –
+| 11%
+| <0.5%
+| 4%
+| style="background:#E0E5F0;"| '''26%'''
+| 1%
+| –
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 11%
+| 5%
+| 4%
+| 8%
+| style="background:#FFED99;"| '''28%'''
+| <0.5%
+| <0.5%
+| 9%
+| –
+| –
+| –
+| –
+| –
+| <0.5%
+| 4%
+| style="background:#E0E5F0;"| '''27%'''
+| 1%
+| –
+| <0,5%
+|-
+| rowspan="6" style="background:#FFDFCC;"| [https://presidentielle2022.bva-group.com/wp-content/uploads/2021/10/BVA-RTL-Orange-Presidentielle-2022-Vague-1-14.10.21.pdf BVA]
+| rowspan="6"| 7–11 Oct 2021
+| rowspan="6"| 1,503
+| 1.5%
+| 0.5%
+| 1.5%
+| 8%
+| 4%
+| 4%
+| 8%
+| style="background:#FFED99;"| '''26%'''
+| –
+| 1%
+| –
+| 12%
+| –
+| –
+| –
+| –
+| –
+| 2.5%
+| style="background:#E0E5F0;"| '''16%'''
+| –
+| 14%
+| 1%
+|-
+| 1%
+| 1%
+| 1.5%
+| 8%
+| 4%
+| 4%
+| 8%
+| style="background:#FFED99;"| '''27%'''
+| –
+| 1.5%
+| –
+| –
+| –
+| –
+| –
+| 10%
+| –
+| 2.5%
+| style="background:#E0E5F0;"| '''17%'''
+| –
+| 14%
+| 0.5%
+|-
+| 1%
+| 1%
+| 1.5%
+| 8.5%
+| 4%
+| 4%
+| 8%
+| style="background:#FFED99;"| '''28%'''
+| –
+| 1.5%
+| 8.5%
+| –
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''17%'''
+| –
+| 13%
+| 1%
+|-
+| 1%
+| 0.5%
+| 1%
+| 8%
+| 4%
+| 4%
+| 8%
+| style="background:#FFED99;"| '''28%'''
+| –
+| 2%
+| –
+| 15%
+| –
+| –
+| –
+| –
+| –
+| 4.5%
+| style="background:#E0E5F0;"| '''24%'''
+| –
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 1.5%
+| 8%
+| 4%
+| 4%
+| 8%
+| style="background:#FFED99;"| '''29%'''
+| –
+| 2%
+| –
+| –
+| –
+| –
+| –
+| 12%
+| –
+| 4.5%
+| style="background:#E0E5F0;"| '''25%'''
+| –
+| –
+| 1%
+|-
+| 1.5%
+| 1%
+| 1.5%
+| 8%
+| 4%
+| 4%
+| 8%
+| style="background:#FFED99;"| '''30%'''
+| –
+| 2%
+| 10%
+| –
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''25%'''
+| –
+| –
+| 1%
+|-
+| rowspan="3" style="background:#FFCCFF;"| [http://www.odoxa.fr/sondage/intentions-de-vote-2eme-vague/ Odoxa]
+| rowspan="3"| 5–11 Oct 2021
+| rowspan="3"| 4,010
+| 1%
+| 2%
+| 2%
+| 8%
+| 4.5%
+| 2%
+| 6.5%
+| style="background:#FFED99;"| '''25%'''
+| –
+| –
+| –
+| 13%
+| –
+| –
+| –
+| –
+| –
+| 2%
+| style="background:#E0E5F0;"| '''18%'''
+| –
+| 16%
+| –
+|-
+| 1%
+| 2%
+| 2%
+| 9%
+| 4%
+| 2.5%
+| 7%
+| style="background:#FFED99;"| '''26.5%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 8.5%
+| –
+| 2.5%
+| style="background:#E0E5F0;"| '''18.5%'''
+| –
+| 16.5%
+| –
+|-
+| 1%
+| 2%
+| 2%
+| 8.5%
+| –
+| –
+| 11%
+| style="background:#FFED99;"| '''26%'''
+| –
+| –
+| –
+| 13%
+| –
+| –
+| –
+| –
+| –
+| 2.5%
+| style="background:#E0E5F0;"| '''18%'''
+| –
+| 16%
+| –
+|-
+| rowspan="2" style="background:#FFCCCC"| [https://www.ifop.com/wp-content/uploads/2021/10/118499-Rapport.pdf Ifop]
+| rowspan="2"| 5–6 Oct 2021
+| rowspan="2"| 921
+| 0.5%
+| 0.5%
+| 2%
+| 7%
+| 6%
+| 2%
+| 8%
+| style="background:#FFED99;"| '''25%'''
+| –
+| 1%
+| –
+| style="background:#DFEEFF;"| '''16%'''
+| –
+| –
+| –
+| –
+| –
+| 2%
+| style="background:#E0E5F0;"| '''16%'''
+| –
+| 14%
+| –
+|-
+| 0.5%
+| 0.5%
+| 1.5%
+| 8%
+| 6%
+| 2.5%
+| 8%
+| style="background:#FFED99;"| '''26%'''
+| –
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 11%
+| –
+| 4%
+| style="background:#E0E5F0;"| '''18%'''
+| –
+| 14%
+| –
+|-
+| rowspan="6" style="background:#CAD5F7;"| [https://elabe.fr/wp-content/uploads/2021/09/presidentielle-2022-et-eric-zemmour.pdf Elabe]
+| rowspan="6"| 5–6 Oct 2021
+| rowspan="6"| 1,309
+| 1%
+| 1%
+| 2%
+| 7%
+| 5%
+| 1%
+| 9%
+| style="background:#FFED99;"| '''25%'''
+| 1%
+| 1%
+| –
+| 13%
+| –
+| –
+| –
+| –
+| <1%
+| 4%
+| style="background:#E0E5F0;"| '''16%'''
+| 1%
+| 13%
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 8%
+| 5%
+| 2%
+| 9%
+| style="background:#FFED99;"| '''27%'''
+| <1%
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 8%
+| <1%
+| 4%
+| style="background:#E0E5F0;"| '''17%'''
+| 1%
+| 14%
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 8%
+| 5%
+| 2%
+| 9%
+| style="background:#FFED99;"| '''28%'''
+| <1%
+| 1%
+| 5%
+| –
+| –
+| –
+| –
+| –
+| <1%
+| 4%
+| style="background:#E0E5F0;"| '''18%'''
+| 1%
+| 14%
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 8%
+| 5%
+| 2%
+| 10%
+| style="background:#FFED99;"| '''25%'''
+| 1%
+| 2%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| <1%
+| 4%
+| style="background:#E0E5F0;"| '''23%'''
+| 1%
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 8%
+| 4%
+| 1%
+| 10%
+| style="background:#FFED99;"| '''27%'''
+| 1%
+| 2%
+| –
+| –
+| –
+| –
+| –
+| 11%
+| 1%
+| 5%
+| style="background:#E0E5F0;"| '''24%'''
+| 1%
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 8%
+| 5%
+| 2%
+| 11%
+| style="background:#FFED99;"| '''29%'''
+| <1%
+| 2%
+| 8%
+| –
+| –
+| –
+| –
+| –
+| <1%
+| 4%
+| style="background:#E0E5F0;"| '''25%'''
+| 1%
+| –
+| 1%
+|-
+| rowspan="3" style="background:GreenYellow;"| [https://harris-interactive.fr/wp-content/uploads/sites/6/2021/10/Rapport-Harris-Vague-16-Intentions-de-vote-Presidentielle-2022-Challenges.pdf Harris-Interactive]
+| rowspan="3"| 1–4 Oct 2021
+| rowspan="3"| 1,310
+| 1%
+| 1%
+| 2%
+| 11%
+| 6%
+| 2%
+| 6%
+| style="background:#FFED99;"| '''24%'''
+| <0.5%
+| <0.5%
+| –
+| 13%
+| –
+| –
+| –
+| –
+| <0.5%
+| 2%
+| 15%
+| <0.5%
+| style="background:#EEEEEE;"| '''17%'''
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 11%
+| 6%
+| 2%
+| 7%
+| style="background:#FFED99;"| '''25%'''
+| <0.5%
+| <0.5%
+| –
+| –
+| –
+| –
+| –
+| 11%
+| <0.5%
+| 2%
+| 15%
+| <0.5%
+| style="background:#EEEEEE;"| '''17%'''
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 11%
+| 6%
+| 2%
+| 7%
+| style="background:#FFED99;"| '''27%'''
+| <0.5%
+| <0.5%
+| 7%
+| –
+| –
+| –
+| –
+| –
+| <0.5%
+| 2%
+| 16%
+| <0.5%
+| style="background:#EEEEEE;"| '''18%'''
+| <0.5%
+|-
+| rowspan="7" style="background:#FFCCCC"| [https://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9216-p-ifop-le-figaro-v4.pdf Ifop]
+| rowspan="7"| 29 Sep–1 Oct 2021
+| rowspan="7"| 1,351
+| 0.5%
+| 1%
+| 2%
+| 7%
+| 5.5%
+| 3.5%
+| 8%
+| style="background:#FFED99;"| '''24%'''
+| –
+| 1%
+| –
+| 15%
+| –
+| –
+| –
+| –
+| –
+| 2.5%
+| style="background:#E0E5F0;"| '''18%'''
+| –
+| 12%
+| –
+|-
+| 0.5%
+| 1%
+| 2%
+| 7%
+| 6%
+| 3%
+| 8%
+| style="background:#FFED99;"| '''26%'''
+| –
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 11%
+| –
+| 2.5%
+| style="background:#E0E5F0;"| '''19%'''
+| –
+| 13%
+| –
+|-
+| 0.5%
+| 1%
+| 1.5%
+| 7%
+| 6%
+| 3%
+| 8.5%
+| style="background:#FFED99;"| '''26%'''
+| –
+| 1%
+| 9.5%
+| –
+| –
+| –
+| –
+| –
+| –
+| 2.5%
+| style="background:#E0E5F0;"| '''19.5%'''
+| –
+| 14%
+| –
+|-
+| 0.5%
+| 1%
+| 2%
+| 7.5%
+| 5.5%
+| 3.5%
+| 8%
+| style="background:#FFED99;"| '''27%'''
+| –
+| 1%
+| –
+| –
+| 5%
+| –
+| –
+| –
+| –
+| 3%
+| style="background:#E0E5F0;"| '''21%'''
+| –
+| 15%
+| –
+|-
+| 0.5%
+| 1%
+| 2%
+| 7.5%
+| 6%
+| 4%
+| 8.5%
+| style="background:#FFED99;"| '''26%'''
+| –
+| 1%
+| –
+| 18%
+| –
+| –
+| –
+| –
+| –
+| 2.5%
+| style="background:#E0E5F0;"| '''23%'''
+| –
+| –
+| –
+|-
+| 0.5%
+| 1%
+| 2.5%
+| 8%
+| 6%
+| 4%
+| 8.5%
+| style="background:#FFED99;"| '''27%'''
+| –
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 13%
+| –
+| 3.5%
+| style="background:#E0E5F0;"| '''25%'''
+| –
+| –
+| –
+|-
+| 0.5%
+| 1%
+| 2%
+| 8%
+| 6%
+| 3.5%
+| 9%
+| style="background:#FFED99;"| '''27%'''
+| –
+| 2%
+| 12%
+| –
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''25%'''
+| –
+| –
+| –
+|-
+| rowspan="6" style="background:#04FBF4;"| [https://www.ipsos.com/sites/default/files/ct/news/documents/2021-10/Ipsos%20-%20Le%20Parisien-France%20Info%20-%20IV%202022%20-%20Oct.%202021.pdf Ipsos]
+| rowspan="6"| 29–30 Sep 2021
+| rowspan="6"| 1,500
+| 1%
+| 1%
+| 1.5%
+| 9%
+| 5.5%
+| 1.5%
+| 9%
+| style="background:#FFED99;"| '''24%'''
+| –
+| 1%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 1.5%
+| style="background:#E0E5F0;"| '''16%'''
+| –
+| 15%
+| –
+|-
+| 1%
+| 1%
+| 1.5%
+| 9%
+| 5.5%
+| 1.5%
+| 9%
+| style="background:#FFED99;"| '''25%'''
+| –
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 12%
+| –
+| 1.5%
+| style="background:#E0E5F0;"| '''17%'''
+| –
+| 15%
+| –
+|-
+| 1%
+| 1%
+| 1.5%
+| 9%
+| 5.5%
+| 1.5%
+| 9.5%
+| style="background:#FFED99;"| '''25.5%'''
+| –
+| 1%
+| 11%
+| –
+| –
+| –
+| –
+| –
+| –
+| 1.5%
+| style="background:#E0E5F0;"| '''17%'''
+| –
+| 15%
+| –
+|-
+| 1%
+| 1%
+| 1.5%
+| 8.5%
+| 5.5%
+| 1.5%
+| 9%
+| style="background:#FFED99;"| '''25%'''
+| –
+| 1%
+| –
+| 17%
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#C1CCE1;"| '''25%'''
+| –
+| –
+| –
+|-
+| 1%
+| 1%
+| 1.5%
+| 8.5%
+| 5.5%
+| 1.5%
+| 9%
+| style="background:#FFED99;"| '''26%'''
+| –
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 14%
+| –
+| 5%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| –
+| –
+|-
+| 1%
+| 1%
+| 1.5%
+| 8.5%
+| 5.5%
+| 1.5%
+| 9%
+| style="background:#FFED99;"| '''27%'''
+| –
+| 1%
+| 13%
+| –
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''26%'''
+| –
+| –
+| –
+|-
+| rowspan="3" style="background:GreenYellow;"| [https://harris-interactive.fr/wp-content/uploads/sites/6/2021/09/Rapport-Harris-Vague-15-Intentions-de-vote-Presidentielle-2022-Challenges.pdf Harris-Interactive]
+| rowspan="3"| 24–27 Sep 2021
+| rowspan="3"| 1,379
+| 1%
+| 1%
+| 1%
+| 13%
+| 7%
+| 2%
+| 6%
+| style="background:#FFED99;"| '''23%'''
+| <0.5%
+| <0.5%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| <0.5%
+| 2%
+| style="background:#E0E5F0;"| '''16%'''
+| 1%
+| 13%
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 13%
+| 7%
+| 2%
+| 6%
+| style="background:#FFED99;"| '''24%'''
+| <0.5%
+| <0.5%
+| –
+| –
+| –
+| –
+| –
+| 12%
+| <0.5%
+| 2%
+| style="background:#E0E5F0;"| '''16%'''
+| 1%
+| 13%
+| <0.5%
+|-
+| 1%
+| 1%
+| 2%
+| 13%
+| 7%
+| 2%
+| 6%
+| style="background:#FFED99;"| '''26%'''
+| <0.5%
+| <0.5%
+| 8%
+| –
+| –
+| –
+| –
+| –
+| <0.5%
+| 4%
+| style="background:#E0E5F0;"| '''16%'''
+| 1%
+| 14%
+| <0.5%
+|-
+| rowspan="4" style="background:#80fcd4;"| [https://www.opinion-way.com/fr/component/edocman/opinionway-pour-les-echos-cnews-et-radio-classique-presitrack-vague-1-septembre-2021/viewdocument/2673.html OpinionWay]
+| rowspan="4"| 22–23 Sep 2021
+| rowspan="4"| 980
+| 1%
+| 1%
+| 4%
+| 8%
+| 6%
+| 4%
+| 7%
+| style="background:#FFED99;"| '''24%'''
+| –
+| –
+| –
+| 15%
+| –
+| –
+| –
+| –
+| –
+| 2%
+| style="background:#E0E5F0;"| '''20%'''
+| –
+| 10%
+| –
+|-
+| 1%
+| 1%
+| 4%
+| 7%
+| 7%
+| 2%
+| 8%
+| style="background:#FFED99;"| '''25%'''
+| –
+| –
+| –
+| 16%
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#C1CCE1;"| '''25%'''
+| –
+| –
+| –
+|-
+| 1%
+| 1%
+| 4%
+| 7%
+| 7%
+| 2%
+| 8%
+| style="background:#FFED99;"| '''26%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 15%
+| –
+| 5%
+| style="background:#E0E5F0;"| '''25%'''
+| –
+| –
+| –
+|-
+| 1%
+| 1%
+| 4%
+| 8%
+| 7%
+| 4%
+| 8%
+| style="background:#FFED99;"| '''28%'''
+| –
+| –
+| 9%
+| –
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#E0E5F0;"| '''26%'''
+| –
+| –
+| –
+|-
+| rowspan="4" style="background:#FFCCFF;"| [https://www.odoxa.fr/sondage/intentions-de-vote-a-la-presidentielle-et-match-zemmour-melenchon-dans-lopinion Odoxa]
+| rowspan="4"| 22–23 Sep 2021
+| rowspan="4"| 1,005
+| 1.5%
+| 2%
+| 2%
+| 8%
+| 4%
+| 4%
+| 6%
+| style="background:#FFED99;"| '''26%'''
+| –
+| –
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 2%
+| style="background:#E0E5F0;"| '''20.5%'''
+| –
+| 10%
+| –
+|-
+| 2%
+| 1.5%
+| 4%
+| 7.5%
+| 4%
+| 4.5%
+| 5%
+| style="background:#FFED99;"| '''25%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 13%
+| –
+| 4%
+| style="background:#E0E5F0;"| '''21%'''
+| –
+| 10.5%
+| –
+|-
+| 2%
+| 1%
+| 2%
+| 8%
+| 5%
+| 4%
+| 4%<br><ref name="Rousseau">'''[[Sandrine Rousseau]]'''</ref>
+| style="background:#FFED99;"| '''26%'''
+| –
+| –
+| –
+| 15%
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''21%'''
+| –
+| 10%
+| –
+|-
+| 2%
+| 1%
+| 4%
+| 8%
+| 5%
+| 4%
+| 4%<br><ref name="Rousseau" />
+| style="background:#FFED99;"| '''26%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 12.5%
+| –
+| 2.5%
+| style="background:#E0E5F0;"| '''21.5%'''
+| –
+| 10.5%
+| –
+|-
+| rowspan="3" style="background:GreenYellow;"| [https://harris-interactive.fr/wp-content/uploads/sites/6/2021/09/Rapport_Harris_-_Vague_14_Intentions_de_vote_Presidentielle_2022_Challenges.pdf Harris-Interactive]
+| rowspan="3"| 17–20 Sep 2021
+| rowspan="3"| 1,314
+| 1%
+| 1%
+| 4%
+| 11%
+| 7%
+| 2%
+| 6%
+| style="background:#FFED99;"| '''23%'''
+| <0.5%
+| <0.5%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| <0.5%
+| 2%
+| style="background:#E0E5F0;"| '''18%'''
+| 1%
+| 11%
+| <0.5%
+|-
+| 1%
+| 1%
+| 4%
+| 11%
+| 8%
+| 4%
+| 2%<br><ref name="Rousseau" />
+| style="background:#FFED99;"| '''23%'''
+| <0.5%
+| <0.5%
+| –
+| 15%
+| –
+| –
+| –
+| –
+| <0.5%
+| 2%
+| style="background:#E0E5F0;"| '''18%'''
+| 1%
+| 11%
+| <0.5%
+|-
+| 1%
+| 1%
+| 4%
+| 11%
+| 7%
+| 4%
+| 6%
+| style="background:#FFED99;"| '''23%'''
+| <0.5%
+| <0.5%
+| –
+| –
+| –
+| –
+| –
+| 12%
+| <0.5%
+| 2%
+| style="background:#E0E5F0;"| '''19%'''
+| 1%
+| 11%
+| <0.5%
+|-
+| style="background:#FFCCCC;"| [https://www.ifop.com/wp-content/uploads/2021/09/118442-Rapport.pdf Ifop]
+| 14–15 Sep 2021
+| 893
+| <0.5%
+| 1%
+| 4%
+| 8%
+| 7%
+| 2%
+| 6%
+| style="background:#FFED99;"| '''26%'''
+| <0.5%
+| –
+| –
+| 15%
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''20%'''
+| –
+| 9%
+| –
+|-
+| rowspan="4" style="background:#CAD5F7;"| [https://elabe.fr/wp-content/uploads/2021/09/presidentielle-2022-et-eric-zemmour.pdf Elabe]
+| rowspan="4"| 11–13 Sep 2021
+| rowspan="4"| 1,334
+| <1%
+| 1%
+| 2%
+| 8%
+| 7%
+| 2%
+| 6%
+| style="background:#FFED99;"| '''26%'''
+| <1%
+| 2%
+| –
+| 16%
+| –
+| –
+| –
+| –
+| <1%
+| 5%
+| style="background:#E0E5F0;"| '''23%'''
+| 1%
+| –
+| <1%
+|-
+| <1%
+| 1%
+| 2%
+| 8%
+| 6%
+| 2%
+| 8%
+| style="background:#FFED99;"| '''26%'''
+| 1%
+| 2%
+| –
+| –
+| –
+| –
+| –
+| 14%
+| <1%
+| 6%
+| style="background:#E0E5F0;"| '''23%'''
+| 1%
+| –
+| <1%
+|-
+| <1%
+| 1%
+| 2%
+| 8%
+| 7%
+| 2%
+| 7%
+| style="background:#FFED99;"| '''25%'''
+| 1%
+| 1%
+| –
+| 15%
+| –
+| –
+| –
+| –
+| <1%
+| 4%
+| style="background:#E0E5F0;"| '''18%'''
+| 1%
+| 8%
+| <1%
+|-
+| <1%
+| 1%
+| 2%
+| 8%
+| 6%
+| 1%
+| 7%
+| style="background:#FFED99;"| '''26%'''
+| 1%
+| 2%
+| –
+| –
+| –
+| –
+| –
+| 13%
+| <1%
+| 5%
+| style="background:#E0E5F0;"| '''19%'''
+| 1%
+| 8%
+| <1%
+|-
+| rowspan="7" style="background:GreenYellow;"| [http://harris-interactive.fr/wp-content/uploads/sites/6/2021/09/Rapport_Harris_-_Vague_13_Intentions_de_vote_Presidentielle_2022_Challenges.pdf Harris-Interactive]
+| rowspan="7"| 10–13 Sep 2021
+| rowspan="7"| 1,340
+| 1%
+| 1%
+| 4%
+| 11%
+| 7%
+| –
+| 7%
+| style="background:#FFED99;"| '''24%'''
+| 1%
+| 1%
+| –
+| 15%
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''22%'''
+| 1%
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 4%
+| 11%
+| 7%
+| –
+| 7%
+| style="background:#FFED99;"| '''25%'''
+| 1%
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 13%
+| –
+| 5%
+| style="background:#E0E5F0;"| '''23%'''
+| 1%
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 4%
+| 11%
+| 7%
+| –
+| 7%
+| style="background:#FFED99;"| '''26%'''
+| 1%
+| 1%
+| 9%
+| –
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''26%'''
+| 1%
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 4%
+| 11%
+| 7%
+| –
+| 7%
+| style="background:#FFED99;"| '''29%'''
+| 1%
+| 1%
+| –
+| –
+| 6%
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''26%'''
+| 1%
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 4%
+| 11%
+| 7%
+| –
+| 7%
+| style="background:#FFED99;"| '''29%'''
+| 1%
+| 1%
+| –
+| –
+| –
+| 5%
+| –
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''27%'''
+| 1%
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 4%
+| 12%
+| 7%
+| –
+| 7%
+| style="background:#FFED99;"| '''30%'''
+| 1%
+| 1%
+| –
+| –
+| –
+| –
+| 1%
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''29%'''
+| 1%
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 4%
+| 11%
+| 7%
+| –
+| 7%
+| style="background:#FFED99;"| '''23%'''
+| 1%
+| 1%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 2%
+| style="background:#E0E5F0;"| '''19%'''
+| <0.5%
+| 10%
+| <0.5%
+|}
+
+==== January–September ====
+{| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+|- valign=bottom
+! style="background-position" rowspan=2| Polling<br/>firm
+! style="background-position" rowspan=2| Fieldwork<br/>date
+! style="background-position" rowspan=2| Sample<br/>size
+! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud]]}}
+! {{vert header|mw=35px|stp=1|[[Philippe Poutou]]}}
+! {{vert header|mw=35px|stp=1|[[Fabien Roussel]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon]]}}
+! {{vert header|mw=35px|stp=1|[[Anne Hidalgo]]}}
+! {{vert header|mw=35px|stp=1|[[François Hollande]]}}
+! {{vert header|mw=35px|stp=1|[[Arnaud Montebourg]]}}
+! {{vert header|mw=35px|stp=1|[[Eric Piolle]]}}
+! {{vert header|mw=35px|stp=1|[[Yannick Jadot]]}}
+! {{vert header|mw=35px|stp=1|[[Emmanuel Macron]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Christophe Lagarde]]}}
+! {{vert header|mw=35px|stp=1|[[Jean Lassalle]]}}
+! {{vert header|mw=35px|stp=1|[[Xavier Bertrand]]}}
+! {{vert header|mw=35px|stp=1|[[Valérie Pécresse]]}}
+! {{vert header|mw=35px|stp=1|[[Michel Barnier]]}}
+! {{vert header|mw=35px|stp=1|[[François Baroin]]}}
+! {{vert header|mw=35px|stp=1|[[Bruno Retailleau]]}}
+! {{vert header|mw=35px|stp=1|[[Laurent Wauquiez]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Frédéric Poisson]]}}
+! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Le Pen]]}}
+! {{vert header|mw=35px|stp=1|[[Éric Zemmour]]}}
+! {{vert header|mw=35px|stp=1|[[François Asselineau]]}}
+|-
+! style="background:{{Lutte Ouvrière/meta/color}};"|
+! style="background:{{New Anticapitalist Party/meta/color}};"|
+! style="background:{{French Communist Party/meta/color}};"|
+! style="background:{{La France Insoumise/meta/color}};"|
+! style="background:{{Socialist Party (France)/meta/color}};"|
+! style="background:{{Socialist Party (France)/meta/color}};"|
+! style="background:{{Miscellaneous left/meta/color}};"|
+! style="background:{{Europe Ecology – The Greens/meta/color}};"|
+! style="background:{{Europe Ecology – The Greens/meta/color}};"|
+! style="background:{{La République En Marche!/meta/color}};"|
+! style="background:{{Union of Democrats and Independents/meta/color}};"|
+! style="background:{{Résistons!/meta/color}};"|
+! style="background:{{Miscellaneous right/meta/color}};"|
+! style="background:{{Soyons libres/meta/color}};"|
+! style="background:{{The Republicans (France)/meta/color}};"|
+! style="background:{{The Republicans (France)/meta/color}};"|
+! style="background:{{The Republicans (France)/meta/color}};"|
+! style="background:{{The Republicans (France)/meta/color}};"|
+! style="background:{{Christian Democratic Party (France)/meta/color}};"|
+! style="background:{{Debout la France/meta/color}};"|
+! style="background:{{National Rally (France)/meta/color}};"|
+! style="background:{{Independent (politician)/meta/color}};"|
+! style="background:{{Popular Republican Union (2007)/meta/color}};"|
+|-
+| rowspan="5" style="background:GreenYellow;"| [http://harris-interactive.fr/wp-content/uploads/sites/6/2021/09/Rapport_Harris_-_Vague_12_Intentions_de_vote_Presidentielle_2022_Challenges.pdf Harris-Interactive]
+| rowspan="5"| 3–6 Sep 2021
+| rowspan="5"| 1,330
+| 1%
+| 1%
+| 2%
+| 11%
+| 8%
+| –
+| –
+| –
+| 7%
+| style="background:#FFED99;"| '''23%'''
+| 1%
+| 1%
+| 16%
+| –
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''22%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 11%
+| 8%
+| –
+| –
+| –
+| 7%
+| style="background:#FFED99;"| '''24%'''
+| 1%
+| 1%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''23%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 3%
+| 12%
+| 8%
+| –
+| –
+| –
+| 7%
+| style="background:#FFED99;"| '''25%'''
+| 1%
+| 1%
+| –
+| –
+| 9%
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''24%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 11%
+| –
+| –
+| 5%
+| –
+| 7%
+| style="background:#FFED99;"| '''25%'''
+| 1%
+| 1%
+| 16%
+| –
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"|'''23%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 10%
+| 8%
+| –
+| –
+| –
+| 7%
+| style="background:#FFED99;"| '''23%'''
+| 1%
+| 1%
+| 15%
+| –
+| –
+| –
+| –
+| –
+| –
+| 3%
+| style="background:#E0E5F0;"| '''19%'''
+| 7%
+| 1%
+|-
+| rowspan="6" style="background:#04FBF4;"| [https://www.francetvinfo.fr/politique/marine-le-pen/presidentielle-2022-emmanuel-macron-et-marine-le-pen-au-second-tour-quelles-que-soient-les-hypotheses-a-droite-y-compris-une-candidature-d-eric-zemmour-selon-notre-sondage_4759135.html#xtor=CS2-765-%5Bautres%5D-f Ipsos]
+| rowspan="6"| 2–3 Sep 2021
+| rowspan="6"| 925
+| colspan="2"| 1.5%
+| 1.5%
+| 8%
+| 9%
+| –
+| 2%
+| –
+| 10%
+| style="background:#FFED99;"| '''25%'''
+| –
+| –
+| 17%
+| –
+| –
+| –
+| –
+| 13%
+| –
+| 4%
+| style="background:#E0E5F0;"| '''22%'''
+| –
+| –
+|-
+| colspan="2"| 1.5%
+| 1.5%
+| 8%
+| 9%
+| –
+| 2%
+| –
+| 10%
+| style="background:#FFED99;"| '''25.5%'''
+| –
+| –
+| –
+| 16%
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''22%'''
+| –
+| –
+|-
+| colspan="2"| 1.5%
+| 1.5%
+| 8%
+| 9%
+| –
+| 2%
+| –
+| 11%
+| style="background:#FFED99;"| '''26%'''
+| –
+| –
+| –
+| –
+| 13%
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''23%'''
+| –
+| –
+|-
+| colspan="2"| 1.5%
+| 1.5%
+| 8%
+| 9%
+| –
+| 2%
+| –
+| 10%
+| style="background:#FFED99;"| '''24%'''
+| –
+| –
+| 15%
+| –
+| –
+| –
+| –
+| 10.5%
+| –
+| 4%
+| style="background:#E0E5F0;"| '''19%'''
+| 8%
+| –
+|-
+| colspan="2"| 1.5%
+| 1.5%
+| 8%
+| 9%
+| –
+| 2%
+| –
+| 10%
+| style="background:#FFED99;"| '''24%'''
+| –
+| –
+| –
+| 14%
+| –
+| –
+| –
+| 10.5%
+| –
+| 4%
+| style="background:#E0E5F0;"| '''19%'''
+| 8%
+| –
+|-
+| colspan="2"| 1.5%
+| 1.5%
+| 8.5%
+| 9%
+| –
+| 2%
+| –
+| 10%
+| style="background:#FFED99;"| '''24%'''
+| –
+| –
+| –
+| –
+| 11%
+| –
+| –
+| 10.5%
+| –
+| 4%
+| style="background:#E0E5F0;"| '''20%'''
+| 8.5%
+| –
+|-
+| rowspan="8" style="background:#FFCCCC;"| [https://www.lefigaro.fr/elections/presidentielles/presidentielle-2022-macron-et-le-pen-restent-toujours-favoris-20210905 Ifop-Fiducial]
+| rowspan="8"| 31 Aug–2 Sep 2021
+| rowspan="8"| 1,334
+| 0.5%
+| 1.5%
+| 2%
+| 9.5%
+| 7%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''24%'''
+| –
+| 2%
+| 17%
+| –
+| –
+| –
+| –
+| –
+| 0.5%
+| 4%
+| style="background:#C1CCE1;"| '''24%'''
+| –
+| –
+|-
+| 0.5%
+| 1.5%
+| 2.5%
+| 9%
+| 8%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''26%'''
+| –
+| 1.5%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| 0.5%
+| 4%
+| style="background:#E0E5F0;"| '''25%'''
+| –
+| –
+|-
+| 0.5%
+| 1.5%
+| 2.5%
+| 10%
+| 9%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''29%'''
+| –
+| 2.5%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''26%'''
+| –
+| –
+|-
+| 0.5%
+| 1.5%
+| 2.5%
+| 9%
+| 8%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''28%'''
+| –
+| 2%
+| –
+| –
+| 11%
+| –
+| –
+| –
+| –
+| 3%
+| style="background:#E0E5F0;"| '''26%'''
+| –
+| –
+|-
+| 0.5%
+| 2%
+| 2.5%
+| 9%
+| 9%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''29%'''
+| –
+| 2%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 5.5%
+| style="background:#E0E5F0;"| '''27%'''
+| –
+| –
+|-
+| 0.5%
+| 1.5%
+| 2%
+| 9%
+| 7%
+| –
+| –
+| –
+| 7.5%
+| style="background:#FFED99;"| '''24%'''
+| –
+| 1.5%
+| 15%
+| –
+| –
+| –
+| –
+| –
+| –
+| 3%
+| style="background:#E0E5F0;"| '''22%'''
+| –
+| –
+|-
+| 0.5%
+| 1%
+| 2.5%
+| 9%
+| 8.5%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''26%'''
+| –
+| 1.5%
+| –
+| 12%
+| –
+| –
+| –
+| –
+| 0.5%
+| 3.5%
+| style="background:#E0E5F0;"| '''21%'''
+| –
+| –
+|-
+| 0.5%
+| 1.5%
+| 2.5%
+| 8%
+| 8.5%
+| –
+| 3%
+| –
+| 8%
+| style="background:#FFED99;"| '''23%'''
+| –
+| 2%
+| 16%
+| –
+| –
+| –
+| –
+| –
+| –
+| 3%
+| style="background:#C1CCE1;"| '''23%'''
+| –
+| –
+|-
+| rowspan="4" style="background:GreenYellow;"| [http://harris-interactive.fr/wp-content/uploads/sites/6/2021/09/Rapport_Harris_-_Vague_11_Intentions_de_vote_Presidentielle_2022_Challenges.pdf Harris Interactive]
+| rowspan="4"| 27–30 Aug 2021
+| rowspan="4"| 1,328
+| 1%
+| 1%
+| 3%
+| 12%
+| 7%
+| –
+| –
+| –
+| 6%
+| style="background:#FFED99;"| '''24%'''
+| <0.5% 
+| 1%
+| 16%
+| –
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''23%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 12%
+| 7%
+| –
+| –
+| –
+| 6%
+| style="background:#FFED99;"| '''26%'''
+| <0.5%
+| 1%
+| –
+| 13%
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''24%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 3%
+| 12%
+| 7%
+| –
+| –
+| –
+| 6%
+| style="background:#FFED99;"| '''30%'''
+| <0.5% 
+| 1%
+| 16%
+| –
+| –
+| –
+| –
+| 11%
+| –
+| 4%
+| style="background:#E0E5F0;"| '''24%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 13%
+| –
+| –
+| 5%
+| –
+| 6%
+| style="background:#FFED99;"| '''26%'''
+| <0.5% 
+| 1%
+| 11%
+| 8%
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''24%'''
+| –
+| 1%
+|-
+| rowspan="4" style="background:GreenYellow;"| [http://harris-interactive.fr/wp-content/uploads/sites/6/2021/08/Rapport_Harris_-_Vague_10_Intentions_de_vote_Presidentielle_2022_Challenges.pdf Harris Interactive]
+| rowspan="4"| 20–23 Aug 2021
+| rowspan="4"| 1,343
+| 1%
+| 1%
+| 2%
+| 11%
+| 7%
+| –
+| –
+| –
+| 7%
+| style="background:#FFED99;"| '''24%'''
+| 1% 
+| 1%
+| 16%
+| –
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#C1CCE1;"| '''24%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 11%
+| 7%
+| –
+| –
+| –
+| 8%
+| style="background:#FFF7CE;"| '''25%'''
+| 1% 
+| 1%
+| 14%
+| –
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 11%
+| –
+| –
+| 5%
+| –
+| 8%
+| style="background:#FFED99;"| '''24%'''
+| 1% 
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 11%
+| –
+| 4%
+| style="background:#C1CCE1;"| '''24%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 11%
+| 7%
+| –
+| –
+| –
+| 8%
+| style="background:#FFF7CE;"| '''21%'''
+| 1% 
+| 1%
+| 16%
+| –
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#C1CCE1;"| '''23%'''
+| –
+| 1%
+|-
+| rowspan="4" style="background:#04FBF4;"| [http://www.commission-des-sondages.fr/notices/files/notices/2021/aout/9201-p-ipsos-libres-le-point.pdf Ipsos]
+| rowspan="4"| 20–22 Aug 2021
+| rowspan="4"| 2,000
+| colspan="2"| 1%
+| 2%
+| 8%
+| 9%
+| –
+| –
+| –
+| 11%
+| style="background:#FFED99;"| '''24.5%'''
+| –
+| –
+| –
+| –
+| 11%
+| –
+| –
+| 13%
+| –
+| 4%
+| style="background:#E0E5F0;"| '''22.5%'''
+| 7%
+| –
+|-
+| colspan="2"| 1%
+| 2%
+| 7%
+| 9%
+| –
+| –
+| –
+| 11%
+| style="background:#FFED99;"| '''23%'''
+| –
+| –
+| 15%
+| –
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''21%'''
+| 7%
+| –
+|-
+| colspan="2"| 1%
+| 2%
+| 8%
+| 9%
+| –
+| –
+| –
+| 11%
+| style="background:#FFED99;"| '''23%'''
+| –
+| –
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''21%'''
+| 7%
+| –
+|-
+| colspan="2"| 1%
+| 2%
+| 8%
+| 9%
+| –
+| –
+| –
+| 11%
+| style="background:#FFED99;"| '''25.5%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 10.5%
+| –
+| 4%
+| style="background:#E0E5F0;"| '''22%'''
+| 7%
+| –
+|-
+| rowspan="3" style="background:GreenYellow;"| [https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-9/ Harris Interactive]
+| rowspan="3"| 2–5 Jul 2021
+| rowspan="3"| 1,260
+| 1%
+| 1%
+| 2%
+| 10%
+| 7%
+| –
+| –
+| –
+| 7%
+| style="background:#FFED99;"| '''24%'''
+| 1%
+| 1%
+| 16%
+| –
+| –
+| –
+| –
+| –
+| <0.5%
+| 2%
+| style="background:#E0E5F0;"| '''22%'''
+| 5%
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 10%
+| 7%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''26%'''
+| –
+| 1%
+| –
+| 12%
+| –
+| –
+| –
+| –
+| <0.5%
+| 4%
+| style="background:#E0E5F0;"| '''24%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 10%
+| 7%
+| –
+| –
+| –
+| 7%
+| style="background:#FFED99;"| '''24%'''
+| –
+| 1%
+| 17%
+| –
+| –
+| –
+| –
+| –
+| <0.5%
+| 4%
+| style="background:#C1CCE1;"| '''24%'''
+| –
+| 1%
+|-
+| rowspan="5" style="background:#FFCCCC;"| [http://www.commission-des-sondages.fr/notices/files/notices/2021/juillet/9198-pres-ifop-le-figaro.pdf Ifop-Fiducial]
+| rowspan="5"| 29 Jun–2 Jul 2021
+| rowspan="5"| 1,337
+| 0.5%
+| 1%
+| 4%
+| 7%
+| –
+| –
+| –
+| –
+| 9%
+| style="background:#FFF7CE;"| '''26%'''
+| 0.5%
+| 2%
+| 18.5%
+| –
+| –
+| –
+| –
+| –
+| 0.5%
+| 4%
+| style="background:#C1CCE1;"| '''27%'''
+| –
+| –
+|-
+| 0.5%
+| 1%
+| 4%
+| 7%
+| 8%
+| –
+| –
+| –
+| –
+| style="background:#FFED99;"| '''28%'''
+| 0.5%
+| 2%
+| 18%
+| –
+| –
+| –
+| –
+| –
+| 0.5%
+| 4.5%
+| style="background:#E0E5F0;"| '''26%'''
+| –
+| –
+|-
+| 0.5%
+| 1%
+| 3.5%
+| 7.5%
+| 6%
+| –
+| –
+| –
+| 7%
+| style="background:#FFED99;"| '''28%'''
+| 0.5%
+| 3%
+| –
+| –
+| –
+| –
+| –
+| 13%
+| 0.5%
+| 3.5%
+| style="background:#E0E5F0;"| '''26%'''
+| –
+| –
+|-
+| 0.5%
+| 1%
+| 3.5%
+| 7.5%
+| 6.5%
+| –
+| –
+| –
+| 7%
+| style="background:#FFED99;"| '''26%'''
+| 0.5%
+| 2.5%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| 0.5%
+| 4.5%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| –
+|-
+| 0.5%
+| 1%
+| 3.5%
+| 7%
+| 6%
+| –
+| –
+| –
+| 7%
+| style="background:#FFF7CE;"| '''24%'''
+| 0.5%
+| 2%
+| 18%
+| –
+| –
+| –
+| –
+| –
+| 0.5%
+| 4%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| –
+|-
+| rowspan="3" style="background:#CAD5F7;"| [http://www.commission-des-sondages.fr/notices/files/notices/2021/juillet/9197-p-elabe-bfm.pdf Elabe]
+| rowspan="3"| 28–29 Jun 2021
+| rowspan="3"| 1,124
+| 1%
+| 1%
+| 1%
+| 9%
+| 5%
+| –
+| –
+| –
+| 6%
+| style="background:#FFED99;"| '''29%'''
+| <1% 
+| 2%
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 1%
+| 5%
+| style="background:#E0E5F0;"| '''25%'''
+| –
+| 1%
+|-
+| <1%
+| 2%
+| 2%
+| 10%
+| 5%
+| –
+| –
+| –
+| 7%
+| style="background:#FFED99;"| '''30%'''
+| 1% 
+| 2%
+| –
+| 11%
+| –
+| –
+| –
+| –
+| 1%
+| 4%
+| style="background:#E0E5F0;"| '''26%'''
+| –
+| 2%
+|-
+| 1%
+| 2%
+| 2%
+| 10%
+| 4%
+| –
+| –
+| –
+| 6%
+| style="background:#FFED99;"| '''31%'''
+| <1% 
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 12%
+| 1%
+| 5%
+| style="background:#E0E5F0;"| '''24%'''
+| –
+| 1%
+|-
+| rowspan="3" style="background:GreenYellow;"| [https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-8/ Harris Interactive]
+| rowspan="3"| 27–28 Jun 2021
+| rowspan="3"| 1,003
+| 1%
+| 1%
+| 1%
+| 10%
+| 6%
+| –
+| –
+| –
+| 7%
+| style="background:#FFED99;"| '''25%'''
+| 1% 
+| 1%
+| 17%
+| –
+| –
+| –
+| –
+| –
+| <0.5%
+| 4%
+| style="background:#E0E5F0;"| '''24%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 1%
+| 10%
+| 7%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''28%'''
+| 1% 
+| 1%
+| –
+| 11%
+| –
+| –
+| –
+| –
+| <0.5%
+| 4%
+| style="background:#E0E5F0;"| '''26%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 1%
+| 10%
+| 7%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''27%'''
+| 1%
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 11%
+| <0.5%
+| 4%
+| style="background:#C1CCE1;"| '''27%'''
+| –
+| 1%
+|-
+| rowspan="3" style="background:#80fcd4;"| [https://www.opinion-way.com/fr/component/edocman/opinionway-pour-cnews-sondage-soir-du-vote-intention-de-vote-pour-la-presidentielle-2022-27-juin-2021/viewdocument/2636.html?Itemid=0 OpinionWay]
+| rowspan="3"| 27 Jun 2021
+| rowspan="3"| –
+| 0%
+| 1%
+| –
+| 9%
+| 7%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''26%'''
+| –
+| –
+| 20%
+| –
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''24%'''
+| –
+| –
+|-
+| 1%
+| 1%
+| –
+| 10%
+| 7%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''30%'''
+| –
+| –
+| –
+| 12%
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#E0E5F0;"| '''25%'''
+| –
+| –
+|-
+| 1%
+| 1%
+| –
+| 9%
+| 7%
+| –
+| –
+| –
+| 9%
+| style="background:#FFED99;"| '''31%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 13%
+| –
+| 5%
+| style="background:#E0E5F0;"| '''24%'''
+| –
+| –
+|-
+| rowspan="3" style="background:#04FBF4;"| [https://www.francetvinfo.fr/politique/marine-le-pen/election-presidentielle-emmanuel-macron-et-marine-le-pen-en-tete-des-intentions-de-vote-au-premier-tour-selon-notre-sondage_4680623.html Ipsos]
+| rowspan="3"| 25–26 Jun 2021
+| rowspan="3"| 1,499
+| colspan="2"| 1.5%
+| 2.5%
+| 7%
+| 8%
+| –
+| –
+| –
+| 10%
+| style="background:#FFED99;"| '''24%'''
+| –
+| –
+| 18%
+| –
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#C1CCE1;"| '''24%'''
+| –
+| –
+|-
+| colspan="2"| 1.5%
+| 2.5%
+| 7%
+| 9%
+| –
+| –
+| –
+| 10%
+| style="background:#FFED99;"| '''26%'''
+| –
+| –
+| –
+| 13%
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| –
+|-
+| colspan="2"| 1.5%
+| 2.5%
+| 7%
+| 9%
+| –
+| –
+| –
+| 10%
+| style="background:#FFED99;"| '''27%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 13%
+| –
+| 5%
+| style="background:#E0E5F0;"| '''25%'''
+| –
+| –
+|-
+| rowspan="3" style="background:GreenYellow;"| [https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-7/ Harris Interactive]
+| rowspan="3"| 20–21 Jun 2021
+| rowspan="3"| 1,279
+| 1%
+| 1%
+| 1%
+| 10%
+| 6%
+| –
+| –
+| –
+| 7%
+| style="background:#FFF7CE;"| '''25%'''
+| 1%
+| 1%
+| 16%
+| –
+| –
+| –
+| –
+| –
+| <0.5%
+| 4%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 1%
+| 10%
+| 7%
+| –
+| –
+| –
+| 7%
+| style="background:#FFED99;"| '''28%'''
+| 1%
+| 1%
+| –
+| 10%
+| –
+| –
+| –
+| –
+| <0.5%
+| 4%
+| style="background:#C1CCE1;"| '''28%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 1%
+| 10%
+| 7%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''28%'''
+| 1%
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 10%
+| <0.5%
+| 4%
+| style="background:#E0E5F0;"| '''27%'''
+| –
+| 1%
+|-
+| rowspan="4" style="background:GreenYellow;"| [https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-6/ Harris Interactive]
+| rowspan="4"| 11–14 Jun 2021
+| rowspan="4"| 1,304
+| 1%
+| 2%
+| 3%
+| 13%
+| –
+| –
+| –
+| –
+| –
+| style="background:#FFED99;"| '''29%'''
+| 1%
+| 1%
+| 14%
+| –
+| –
+| –
+| –
+| –
+| <0.5%
+| 5%
+| style="background:#C1CCE1;"| '''29%'''
+| –
+| 1%
+|-
+| 2%
+| 3%
+| 4%
+| –
+| –
+| –
+| –
+| –
+| 12% 
+| style="background:#FFF7CE;"| '''28%'''
+| 1%
+| 1%
+| 14%
+| –
+| –
+| –
+| –
+| –
+| <0.5%
+| 4%
+| style="background:#C1CCE1;"| '''29%'''
+| –
+| 1%
+|-
+| 3%
+| 3%
+| 4%
+| –
+| 9%
+| –
+| –
+| –
+| –
+| style="background:#FFF7CE;"| '''28%'''
+| 1%
+| 1%
+| 15%
+| –
+| –
+| –
+| –
+| –
+| <0.5%
+| 5%
+| style="background:#C1CCE1;"| '''29%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 11%
+| 7%
+| –
+| –
+| –
+| 6% 
+| style="background:#FFF7CE;"| '''26%'''
+| 1%
+| 1%
+| 13%
+| –
+| –
+| –
+| –
+| –
+| <0.5%
+| 3%
+| style="background:#C1CCE1;"| '''27%'''
+| –
+| 1%
+|-
+| style="background:#FFCCCC"| [https://www.lepoint.fr/politique/exclusif-le-sondage-qui-teste-eric-zemmour-pour-2022--16-06-2021-2431266_20.php Ifop]
+| 8–9 Jun 2021
+| 901
+| 0.5%
+| 1%
+| 2%
+| 9%
+| 5%
+| –
+| –
+| –
+| 5.5%
+| style="background:#FFF7CE;"| '''26%'''
+| 0.5%
+| 0.5%
+| 13.5%
+| –
+| –
+| –
+| –
+| –
+| –
+| 3.5%
+| style="background:#C1CCE1;"| '''28%'''
+| 5.5% 
+| –
+|-
+| rowspan="2" style="background:GreenYellow;"| [https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-5/ Harris Interactive]
+| rowspan="2"| 4–7 Jun 2021
+| rowspan="2"| 1,295
+| 1%
+| 1%
+| 1%
+| 11%
+| 7%
+| –
+| –
+| –
+| 6%
+| style="background:#FFED99;"| '''28%'''
+| 1%
+| 1%
+| –
+| –
+| –
+| 10%
+| –
+| –
+| 1%
+| 3%
+| style="background:#C1CCE1;"| '''28%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 1%
+| 11%
+| 7%
+| –
+| –
+| –
+| 6%
+| style="background:#FFF7CE;"| '''25%'''
+| 1%
+| 1%
+| 14%
+| –
+| –
+| –
+| –
+| –
+| <0.5%
+| 3%
+| style="background:#C1CCE1;"| '''28%'''
+| –
+| 1%
+|-
+| rowspan="2" style="background:GreenYellow;"| [https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-4/ Harris Interactive]
+| rowspan="2"| 28–31 May 2021
+| rowspan="2"| 1,316
+| 1%
+| 1%
+| 1%
+| 12%
+| 6%
+| –
+| –
+| –
+| 6%
+| style="background:#FFF7CE;"| '''25%'''
+| <0.5%
+| 1%
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 1%
+| 4%
+| style="background:#C1CCE1;"| '''28%'''
+| –
+| <0.5%
+|-
+| 1%
+| 1%
+| 1%
+| 13%
+| 6%
+| –
+| –
+| –
+| 6%
+| style="background:#FFF7CE;"| '''27%'''
+| <0.5%
+| 1%
+| –
+| 10%
+| –
+| –
+| –
+| –
+| 1%
+| 4%
+| style="background:#C1CCE1;"| '''28%'''
+| –
+| 1%
+|-
+| rowspan="2" style="background:GreenYellow;"| [https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-3/ Harris Interactive]
+| rowspan="2"| 21–24 May 2021
+| rowspan="2"| 1,272
+| 1%
+| 1%
+| 1%
+| 13%
+| 6%
+| –
+| –
+| –
+| 6%
+| style="background:#FFF7CE;"| '''25%'''
+| 1%
+| 1%
+| 14%
+| –
+| –
+| –
+| –
+| –
+| <0.5%
+| 4%
+| style="background:#C1CCE1;"| '''27%'''
+| –
+| <0.5%
+|-
+| 1%
+| 1%
+| 1%
+| 13%
+| 7%
+| –
+| –
+| –
+| 6%
+| style="background:#FFED99;"| '''27%'''
+| 1%
+| 1%
+| –
+| –
+| 6%
+| –
+| –
+| –
+| <0.5%
+| 4%
+| style="background:#C1CCE1;"| '''27%'''
+| –
+| <0.5%
+|-
+| rowspan="5" style="background:#FFCCCC"| [https://www.lefigaro.fr/politique/presidentielle-2022-la-droite-ne-parvient-pas-a-perturber-le-duel-annonce-entre-macron-et-le-pen-20210524 Ifop]
+| rowspan="5"| 18–20 May 2021
+| rowspan="5"| 1,363
+| 0.5%
+| 1%
+| 1.5%
+| 11%
+| 6%
+| –
+| –
+| –
+| 6%
+| style="background:#FFF7CE;"| '''25%'''
+| 0%
+| 1.5%
+| 16%
+| –
+| –
+| –
+| –
+| –
+| 0.5%
+| 5%
+| style="background:#C1CCE1;"| '''27%'''
+| –
+| –
+|-
+| 0.5%
+| 1%
+| 2%
+| 12%
+| 6%
+| –
+| –
+| –
+| 6%
+| style="background:#FFF7CE;"| '''26%'''
+| 0.5%
+| 1.5%
+| –
+| 10%
+| –
+| –
+| –
+| –
+| 0.5%
+| 5%
+| style="background:#C1CCE1;"| '''29%'''
+| –
+| –
+|-
+| 0.5%
+| 1%
+| 2%
+| 12%
+| 6%
+| –
+| –
+| –
+| 5% 
+| style="background:#FFF7CE;"| '''27%'''
+| 1%
+| 2%
+| –
+| –
+| 8%
+| –
+| –
+| –
+| 0.5%
+| 6%
+| style="background:#C1CCE1;"| '''29%'''
+| –
+| –
+|-
+| 0.5%
+| 1%
+| 2%
+| 11%
+| 6%
+| –
+| –
+| –
+| 6%
+| style="background:#FFF7CE;"| '''28%'''
+| 1.5%
+| 2%
+| –
+| –
+| –
+| –
+| 6%
+| –
+| 1%
+| 6%
+| style="background:#C1CCE1;"| '''29%'''
+| –
+| –
+|-
+| 0.5%
+| 0.5%
+| 2%
+| 12%
+| 7%
+| –
+| –
+| –
+| 6%
+| style="background:#FFF7CE;"| '''27%'''
+| 0.5%
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 8%
+| 0.5%
+| 5%
+| style="background:#C1CCE1;"| '''30%'''
+| –
+| –
+|-
+| rowspan="2" style="background:GreenYellow;"| [https://harris-interactive.fr/opinion_polls/intentions-de-vote-presidentielle-2022-mai-2021/ Harris Interactive]
+| rowspan="2"| 14–17 May 2021
+| rowspan="2"| 1,236
+| 1%
+| 1%
+| 2%
+| 12%
+| 6%
+| –
+| –
+| –
+| 6%
+| style="background:#FFF7CE;"| '''25%'''
+| 1%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 0%
+| 4%
+| style="background:#C1CCE1;"| '''27%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 2%
+| 13%
+| 6%
+| –
+| –
+| –
+| 6%
+| style="background:#FFF7CE;"| '''27%'''
+| 2%
+| –
+| –
+| –
+| 6%
+| –
+| –
+| –
+| 0%
+| 4%
+| style="background:#C1CCE1;"| '''29%'''
+| –
+| 1%
+|-
+| rowspan="2" style="background:GreenYellow;"| [https://harris-interactive.fr/opinion_polls/barometre-dintentions-de-vote-pour-lelection-presidentielle-de-2022-vague-1/ Harris Interactive]
+| rowspan="2"| 16–19 Apr 2021
+| rowspan="2"| 1,210
+| 1%
+| 1%
+| 1%
+| 11%
+| 6%
+| –
+| –
+| –
+| 6%
+| style="background:#FFED99;"| '''26%'''
+| 1%
+| 0%
+| 15%
+| –
+| –
+| –
+| –
+| –
+| 0%
+| 5%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 1%
+| 11%
+| 6%
+| –
+| –
+| –
+| 6%
+| style="background:#FFED99;"| '''28%'''
+| 2%
+| 0%
+| –
+| 12%
+| –
+| –
+| –
+| –
+| 0%
+| 5%
+| style="background:#E0E5F0;"| '''26%'''
+| –
+| 1%
+|-
+| [https://redfieldandwiltonstrategies.com/first-france-presidential-election-voting-intention-14-15-april-2021/ Redfield & Wilton<br/>Strategies]
+| 14–15 Apr 2021
+| 2,200
+| –
+| –
+| –
+| 16%
+| 6%
+| –
+| –
+| –
+| 8%
+| style="background:#FFF7CE;"| '''20%'''
+| –
+| –
+| 10%
+| 3%
+| 6%
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#C1CCE1;"| '''23%'''
+| –
+| –
+|-
+| rowspan="3" style="background:#04FBF4;"| [https://www.ipsos.com/sites/default/files/ct/publication/documents/2021-04/Rapport%20Enquete%20Ipsos_CEVIPOF%20LEMONDE%20FJJ%20_SituationPolitique.pdf Ipsos]
+| rowspan="3"| 9–15 Apr 2021
+| rowspan="3"| 10,000
+| colspan="2"| 1%
+| 2%
+| 8%
+| 8%
+| –
+| –
+| –
+| 10%
+| style="background:#FFF7CE;"| '''25%'''
+| –
+| –
+| 16%
+| –
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| –
+|-
+| colspan="2"| 1%
+| 2%
+| 8%
+| 9%
+| –
+| –
+| –
+| 10%
+| style="background:#FFED99;"| '''27%'''
+| –
+| –
+| –
+| 11%
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#C1CCE1;"| '''27%'''
+| –
+| –
+|-
+| colspan="2"| 1%
+| 2%
+| 8%
+| 9%
+| –
+| –
+| –
+| 10%
+| style="background:#FFED99;"| '''29%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| 8%
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''28%'''
+| –
+| –
+|-
+| rowspan="2" style="background:#CAD5F7;"| [https://elabe.fr/1-an-presidentielles-2022/ Elabe]
+| rowspan="2"| 12–14 Apr 2021
+| rowspan="2"| 2,021
+| 0%
+| 2%
+| 1%
+| 11%
+| 5%
+| –
+| –
+| –
+| 6%
+| style="background:#FFF7CE;"| '''25%'''
+| 1%
+| 2%
+| 15%
+| –
+| –
+| –
+| –
+| –
+| 0%
+| 5%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| 1%
+|-
+| 0%
+| 2%
+| 1%
+| 11%
+| 5%
+| –
+| –
+| –
+| 5%
+| style="background:#FFF7CE;"| '''27%'''
+| 2%
+| 3%
+| –
+| 9%
+| –
+| –
+| –
+| –
+| 0%
+| 6%
+| style="background:#C1CCE1;"| '''28%'''
+| –
+| 1%
+|-
+| rowspan="10" style="background:#FFCCCC"| [https://www.lejdd.fr/Politique/sondage-presidentielle-2022-macron-et-le-pen-largement-en-tete-bertrand-en-embuscade-la-gauche-lachee-4037701?Echobox=1618093484#utm_medium=Social&xtor=CS1-3&utm_source=Facebook Ifop]
+| rowspan="10"| 2–8 Apr 2021
+| rowspan="10"| 1,730
+| 0.5%
+| 1.5%
+| 2%
+| 11%
+| 10%
+| –
+| –
+| 2%
+| –
+| style="background:#FFF7CE;"| '''24%'''
+| 0%
+| 1.5%
+| 18%
+| –
+| –
+| –
+| –
+| –
+| 0.5%
+| 4%
+| style="background:#C1CCE1;"| '''25%'''
+| –
+| –
+|-
+| 1%
+| 1%
+| 2.5%
+| 11%
+| 7%
+| –
+| –
+| –
+| 6%
+| style="background:#FFF7CE;"| '''24%'''
+| 0%
+| 1%
+| 16%
+| –
+| –
+| –
+| –
+| –
+| 0.5%
+| 5%
+| style="background:#C1CCE1;"| '''25%'''
+| –
+| –
+|-
+| 1%
+| 1.5%
+| 3%
+| 11%
+| 7%
+| –
+| –
+| –
+| 7%
+| style="background:#FFF7CE;"| '''25%'''
+| 0.5%
+| 1.5%
+| –
+| 11%
+| –
+| –
+| –
+| –
+| 0.5%
+| 5%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| –
+|-
+| 1%
+| 1.5%
+| 3%
+| 11%
+| 7%
+| –
+| –
+| –
+| 7%
+| style="background:#FFF7CE;"| '''26%'''
+| 1%
+| 3%
+| –
+| –
+| –
+| –
+| 6%
+| –
+| 0.5%
+| 6%
+| style="background:#C1CCE1;"| '''27%'''
+| –
+| –
+|-
+| 1%
+| 1.5%
+| 2.5%
+| 10%
+| 8%
+| –
+| –
+| –
+| 7%
+| style="background:#FFED99;"| '''27%'''
+| 1%
+| 2%
+| –
+| –
+| –
+| –
+| –
+| 7%
+| 0.5%
+| 5.5%
+| style="background:#C1CCE1;"| '''27%'''
+| –
+| –
+|-
+| 0.5%
+| 1%
+| –
+| 13.5%
+| –
+| –
+| –
+| –
+| 9%
+| style="background:#FFF7CE;"| '''25%'''
+| –
+| 1.5%
+| 19%
+| –
+| –
+| –
+| –
+| –
+| 0.5%
+| 4%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| –
+|-
+| 1.5%
+| 1%
+| –
+| 13%
+| –
+| –
+| –
+| –
+| 9%
+| style="background:#FFED99;"| '''28%'''
+| 1%
+| 1%
+| –
+| 13%
+| –
+| –
+| –
+| –
+| 0.5%
+| 5%
+| style="background:#E0E5F0;"| '''27%'''
+| –
+| –
+|-
+| 1%
+| 1%
+| –
+| 12%
+| 10%
+| –
+| –
+| –
+| –
+| style="background:#FFED99;"| '''25%'''
+| –
+| 1.5%
+| 20%
+| –
+| –
+| –
+| –
+| –
+| 0.5%
+| 4%
+| style="background:#C1CCE1;"| '''25%'''
+| –
+| –
+|-
+| 0.5%
+| 1.5%
+| –
+| 13%
+| 10%
+| –
+| –
+| –
+| –
+| style="background:#FFED99;"| '''27%'''
+| 1%
+| 2%
+| –
+| 12%
+| –
+| –
+| –
+| –
+| 1%
+| 5%
+| style="background:#C1CCE1;"| '''27%'''
+| –
+| –
+|-
+| 1%
+| 1%
+| 2%
+| 12%
+| –
+| –
+| 5%
+| –
+| 7%
+| style="background:#FFF7CE;"| '''23%'''
+| 0.5%
+| 1%
+| 18%
+| –
+| –
+| –
+| –
+| –
+| 0.5%
+| 4%
+| style="background:#C1CCE1;"| '''25%'''
+| –
+| –
+|-
+| style="background:#FFCCCC"| [https://www.ifop.com/wp-content/uploads/2021/03/118003-Rapport-Marianne-15.03.2021-1.pdf Ifop]
+| 5–11 Mar 2021
+| 2,554
+| 1%
+| 1%
+| 2%
+| 10%
+| 8%
+| –
+| –
+| –
+| 6%
+| style="background:#FFF7CE;"| '''24%'''
+| 0.5%
+| 1.5%
+| 14%
+| –
+| –
+| –
+| –
+| –
+| –
+| 4%
+| style="background:#C1CCE1;"| '''28%'''
+| –
+| –
+|-
+| rowspan="2" style="background:GreenYellow;"| [https://www.lopinion.fr/edition/politique/macron-pen-ci-git-front-republicain-238377 Harris Interactive]
+| rowspan="2"| 3–4 Mar 2021
+| rowspan="2"| 1,000
+| 1%
+| 1%
+| 1%
+| 11%
+| 6%
+| –
+| –
+| –
+| 7%
+| style="background:#FFED99;"| '''25%'''
+| 1%
+| –
+| 15%
+| –
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#C1CCE1;"| '''25%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| 1%
+| 11%
+| 7%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''26%'''
+| 1%
+| –
+| –
+| 12%
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#E0E5F0;"| '''25%'''
+| –
+| 1%
+|-
+| style="background:#FFCCCC"| [http://www.commission-des-sondages.fr/notices/files/notices/2021/mars/9103-p-ifop-club-de-la-presse.pdf Ifop]
+| 23–24 Feb 2021
+| 902
+| colspan="2"| 2%
+| –
+| 12%
+| 8%
+| –
+| –
+| –
+| 9%
+| style="background:#FFED99;"| '''31%'''
+| –
+| –
+| style="background:#E0E8FE;"| '''21%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 17%
+| –
+|-
+| rowspan="7" style="background:#04FBF4;"| [https://www.ipsos.com/sites/default/files/ct/news/documents/2021-02/enquete_ipsos_presidentielle_2022-diff.pdf Ipsos]
+| rowspan="7"| 27–28 Jan 2021
+| rowspan="7"| 1,000
+| colspan="2"| 2%
+| –
+| 10%
+| 12%
+| –
+| –
+| 2%
+| –
+| style="background:#FFED99;"| '''27%'''
+| –
+| –
+| 14.5%
+| –
+| –
+| –
+| –
+| –
+| –
+| 7.5%
+| style="background:#E0E5F0;"| '''25%'''
+| –
+| –
+|-
+| colspan="2"| 2%
+| –
+| 9%
+| –
+| –
+| –
+| –
+| 17%
+| style="background:#FFED99;"| '''25%'''
+| –
+| –
+| 15%
+| –
+| –
+| –
+| –
+| –
+| –
+| 7%
+| style="background:#C1CCE1;"| '''25%'''
+| –
+| –
+|-
+| colspan="2"| 2%
+| –
+| 9%
+| 16%
+| –
+| –
+| –
+| –
+| style="background:#FFED99;"| '''25%'''
+| –
+| –
+| 16%
+| –
+| –
+| –
+| –
+| –
+| –
+| 7%
+| style="background:#C1CCE1;"| '''25%'''
+| –
+| –
+|-
+| colspan="2"| 2%
+| –
+| 10%
+| 9%
+| –
+| –
+| –
+| 7.5%
+| style="background:#FFF7CE;"| '''24%'''
+| –
+| –
+| 14.5%
+| –
+| –
+| –
+| –
+| –
+| –
+| 7%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| –
+|-
+| colspan="2"| 2.5%
+| –
+| 10%
+| –
+| 6%
+| –
+| –
+| 9%
+| style="background:#FFED99;"| '''26%'''
+| –
+| –
+| 14.5%
+| –
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| –
+|-
+| colspan="2"| 2%
+| –
+| 10%
+| –
+| –
+| 4.5%
+| –
+| 10%
+| style="background:#FFF7CE;"| '''25%'''
+| –
+| –
+| 15%
+| –
+| –
+| –
+| –
+| –
+| –
+| 7%
+| style="background:#C1CCE1;"| '''26.5%'''
+| –
+| –
+|-
+| colspan="2"| 2%
+| –
+| 9%
+| 8%
+| –
+| 4%
+| –
+| 7%
+| style="background:#FFF7CE;"| '''24%'''
+| –
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| –
+| 7%
+| style="background:#C1CCE1;"| '''25%'''
+| –
+| –
+|-
+| rowspan="4" style="background:GreenYellow;"| [http://harris-interactive.fr/wp-content/uploads/sites/6/2021/01/Rapport-Harris-Intentions-de-vote-Pre%CC%81sidentielle-LOpinion-Commstrat.pdf Harris Interactive]
+| rowspan="4"| 19–20 Jan 2021
+| rowspan="4"| 1,403
+| 1%
+| 1%
+| –
+| 11%
+| 6%
+| –
+| –
+| –
+| 7%
+| style="background:#FFF7CE;"| '''24%'''
+| –
+| –
+| 16%
+| –
+| –
+| –
+| –
+| –
+| –
+| 7%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| –
+| 11%
+| 7%
+| –
+| –
+| –
+| 8%
+| style="background:#FFF7CE;"| '''24%'''
+| –
+| –
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 7%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| –
+| 10%
+| –
+| –
+| 5%
+| –
+| 10%
+| style="background:#FFF7CE;"| '''23%'''
+| –
+| –
+| 16%
+| –
+| –
+| –
+| –
+| –
+| –
+| 7%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| 1%
+|-
+| 1%
+| 1%
+| –
+| 11%
+| –
+| –
+| 5%
+| –
+| 9%
+| style="background:#FFF7CE;"| '''24%'''
+| –
+| –
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 7%
+| style="background:#C1CCE1;"| '''27%'''
+| –
+| 1%
+|}
+
+=== 2017–2020 ===
+{| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+|- valign=bottom
+! style="background-position" rowspan=2| Polling<br/>firm
+! style="background-position" rowspan=2| Fieldwork<br/>date
+! style="background-position" rowspan=2| Sample<br/>size
+! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud]]}}
+! {{vert header|mw=35px|stp=1|[[Philippe Poutou]]}}
+! {{vert header|mw=35px|stp=1|[[Fabien Roussel]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon]]}}
+! {{vert header|mw=35px|stp=1|[[Benoît Hamon]]}}
+! {{vert header|mw=35px|stp=1|[[Bernard Cazeneuve]]}}
+! {{vert header|mw=35px|stp=1|[[Olivier Faure]]}}
+! {{vert header|mw=35px|stp=1|[[Anne Hidalgo]]}}
+! {{vert header|mw=35px|stp=1|[[François Hollande]]}}
+! {{vert header|mw=35px|stp=1|[[Ségolène Royal]]}}
+! {{vert header|mw=35px|stp=1|[[Yannick Jadot]]}}
+! {{vert header|mw=35px|stp=1|[[Emmanuel Macron]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Christophe Lagarde]]}}
+! {{vert header|mw=35px|stp=1|[[Jean Lassalle]]}}
+! {{vert header|mw=35px|stp=1|[[Xavier Bertrand]]}}
+! {{vert header|mw=35px|stp=1|[[Valérie Pécresse]]}}
+! {{vert header|mw=35px|stp=1|[[François Baroin]]}}
+! {{vert header|mw=35px|stp=1|[[Rachida Dati]]}}
+! {{vert header|mw=35px|stp=1|[[François Fillon]]}}
+! {{vert header|mw=35px|stp=1|[[Bruno Retailleau]]}}
+! {{vert header|mw=35px|stp=1|[[Laurent Wauquiez]]}}
+! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Le Pen]]}}
+! {{vert header|mw=35px|stp=1|[[François Asselineau]]}}
+! {{vert header|mw=35px|stp=1|[[Jacques Cheminade]]}}
+|-
+! style="background:{{Lutte Ouvrière/meta/color}};"|
+! style="background:{{New Anticapitalist Party/meta/color}};"|
+! style="background:{{French Communist Party/meta/color}};"|
+! style="background:{{La France insoumise/meta/color}};"|
+! style="background:{{Génération.s/meta/color}};"|
+! style="background:{{Socialist Party (France)/meta/color}};"|
+! style="background:{{Socialist Party (France)/meta/color}};"|
+! style="background:{{Socialist Party (France)/meta/color}};"|
+! style="background:{{Socialist Party (France)/meta/color}};"|
+! style="background:{{Socialist Party (France)/meta/color}};"|
+! style="background:{{Europe Ecology – The Greens/meta/color}};"|
+! style="background:{{La République En Marche!/meta/color}};"|
+! style="background:{{Union of Democrats and Independents/meta/color}};"|
+! style="background:{{Résistons!/meta/color}};"|
+! style="background:{{Miscellaneous right/meta/color}};"|
+! style="background:{{Soyons libres/meta/color}};"|
+! style="background:{{The Republicans (France)/meta/color}};"|
+! style="background:{{The Republicans (France)/meta/color}};"|
+! style="background:{{The Republicans (France)/meta/color}};"|
+! style="background:{{The Republicans (France)/meta/color}};"|
+! style="background:{{The Republicans (France)/meta/color}};"|
+! style="background:{{Debout la France/meta/color}};"|
+! style="background:{{National Rally (France)/meta/color}};"|
+! style="background:{{Popular Republican Union (2007)/meta/color}};"|
+! style="background:{{Solidarity and Progress/meta/color}};"|
+|-
+| rowspan="11" style="background:#FFCCCC"| [https://www.ifop.com/wp-content/uploads/2020/10/117621-Rapport-T1s.pdf Ifop]
+| rowspan="11"| 28 Sep–1 Oct 2020 
+| rowspan="11"| 1,805
+| 1.5%
+| 2.5%
+| –
+| 15%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#FFED99;"| '''26%'''
+| 2%
+| 3.5%
+| 19%
+| –
+| –
+| –
+| –
+| –
+| –
+| 6.5%
+| style="background:#E0E5F0;"| '''24%'''
+| –
+| –
+|-
+| 1.5%
+| 3.5%
+| –
+| –
+| 13%
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#FFED99;"| '''26%'''
+| 1%
+| 4%
+| 19%
+| –
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| –
+|-
+| 2%
+| 3.5%
+| –
+| –
+| –
+| –
+| –
+| 13%
+| –
+| –
+| –
+| style="background:#FFF7CE;"| '''25%'''
+| 1.5%
+| 4%
+| 18%
+| –
+| –
+| –
+| –
+| –
+| –
+| 7%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| –
+|-
+| 1%
+| 1.5%
+| 1%
+| 11%
+| –
+| –
+| –
+| 9%
+| –
+| –
+| 6%
+| style="background:#FFED99;"| '''24%'''
+| 0.5%
+| 2%
+| 15.5%
+| –
+| –
+| –
+| –
+| –
+| –
+| 5.5%
+| style="background:#E0E5F0;"| '''23%'''
+| –
+| –
+|-
+| 1%
+| 1.5%
+| 1%
+| 12%
+| –
+| –
+| 4%
+| –
+| –
+| –
+| 7.5%
+| style="background:#FFED99;"| '''25%'''
+| 1%
+| 2%
+| 16%
+| –
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''24%'''
+| –
+| –
+|-
+| 1%
+| 2%
+| 1%
+| 11%
+| –
+| –
+| 4%
+| –
+| –
+| –
+| 8%
+| style="background:#FFF7CE;"| '''25%'''
+| 1%
+| 2%
+| –
+| 11%
+| –
+| –
+| –
+| –
+| –
+| 7%
+| style="background:#C1CCE1;"| '''27%'''
+| –
+| –
+|-
+| 1%
+| 1.5%
+| 1%
+| 11%
+| –
+| –
+| 5%
+| –
+| –
+| –
+| 8%
+| style="background:#FFF7CE;"| '''24%'''
+| 1%
+| 2.5%
+| –
+| –
+| 14%
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#C1CCE1;"| '''25%'''
+| –
+| –
+|-
+| 1%
+| 2%
+| 2%
+| 13%
+| –
+| –
+| 4%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''25%'''
+| 2%
+| 3%
+| –
+| –
+| –
+| 8%
+| –
+| –
+| –
+| 8%
+| style="background:#E0E5F0;"| '''24%'''
+| –
+| –
+|-
+| 1%
+| 2%
+| 1.5%
+| 12%
+| –
+| –
+| 4%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''26%'''
+| 2%
+| 3.5%
+| –
+| –
+| –
+| –
+| –
+| 8%
+| –
+| 6%
+| style="background:#C1CCE1;"| '''26%'''
+| –
+| –
+|-
+| 1%
+| 2.5%
+| 1%
+| 10%
+| –
+| –
+| –
+| –
+| –
+| 5%
+| 8%
+| style="background:#FFF7CE;"| '''23%'''
+| 0.5%
+| 2.5%
+| 17%
+| –
+| –
+| –
+| –
+| –
+| –
+| 5.5%
+| style="background:#C1CCE1;"| '''24%'''
+| –
+| –
+|-
+| 1%
+| 2%
+| 1%
+| 10%
+| –
+| –
+| –
+| –
+| 7%
+| –
+| 7%
+| style="background:#FFF7CE;"| '''23%'''
+| 0.5%
+| 2%
+| 16%
+| –
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#C1CCE1;"| '''24%'''
+| –
+| –
+|-
+| rowspan="4" style="background:GreenYellow;"| [https://harris-interactive.fr/opinion_polls/intentions-de-vote-a-lelection-presidentielle-de-2022-quel-candidat-pour-la-droite-a-2-ans-de-lelection-presidentielle/ Harris Interactive]
+| rowspan="4" data-sort-value="2020-07-03"| 2–3 Jul 2020 
+| rowspan="4"| 1,429
+| 1%
+| 3%
+| –
+| 12%
+| –
+| –
+| 3%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''28%'''
+| –
+| –
+| 13%
+| –
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#E0E5F0;"| '''25%'''
+| 1%
+| <0.5%
+|-
+| 1%
+| 3%
+| –
+| 12%
+| –
+| –
+| 3%
+| –
+| –
+| –
+| 9%
+| style="background:#FFED99;"| '''28%'''
+| –
+| –
+| –
+| 12%
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#E0E5F0;"| '''25%'''
+| 1%
+| <0.5%
+|-
+| 1%
+| 3%
+| –
+| 12%
+| –
+| –
+| 3%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''27%'''
+| –
+| –
+| –
+| –
+| 14%
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#E0E5F0;"| '''25%'''
+| 1%
+| <0.5%
+|-
+| 1%
+| 3%
+| –
+| 13%
+| –
+| –
+| 3%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''32%'''
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 6%
+| –
+| 6%
+| style="background:#E0E5F0;"| '''27%'''
+| 1%
+| <0.5%
+|-
+| rowspan="4" style="background:#CAD5F7;"| [https://elabe.fr/lexecutif_apres_les_municipales/ Elabe]
+| rowspan="4" data-sort-value="2020-07-01"| 30 Jun–1 Jul 2020 
+| rowspan="4"| 893
+| 0.5%
+| 1.5%
+| –
+| 12.5%
+| –
+| –
+| 2.5%
+| –
+| –
+| –
+| 8.5%
+| style="background:#FFED99;"| '''30%'''
+| –
+| –
+| 11%
+| –
+| –
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''27.5%'''
+| 1%
+| –
+|-
+| 1%
+| 1.5%
+| –
+| 12.5%
+| –
+| –
+| –
+| –
+| –
+| –
+| 9%
+| style="background:#FFED99;"| '''31%'''
+| –
+| –
+| 12%
+| –
+| –
+| –
+| –
+| –
+| –
+| 5.5%
+| style="background:#E0E5F0;"| '''26.5%'''
+| 1%
+| –
+|-
+| 1%
+| 2.5%
+| –
+| 11.5%
+| –
+| –
+| 2.5%
+| –
+| –
+| –
+| 8.5%
+| style="background:#FFED99;"| '''31%'''
+| –
+| –
+| –
+| –
+| 12%
+| –
+| –
+| –
+| –
+| 5.5%
+| style="background:#E0E5F0;"| '''24.5%'''
+| 1%
+| –
+|-
+| 1%
+| 2%
+| –
+| 12.5%
+| –
+| –
+| –
+| –
+| –
+| –
+| 10%
+| style="background:#FFED99;"| '''31%'''
+| –
+| –
+| –
+| –
+| 11%
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''26.5%'''
+| 1%
+| –
+|-
+| rowspan="2" style="background:#FFCCCC"| [https://www.ifop.com/wp-content/uploads/2020/06/117452-Rapport.pdf Ifop]
+| rowspan="2" data-sort-value="2020-06-19"| 18–19 Jun 2020 
+| rowspan="2"| 992
+| 1%
+| 0.5%
+| 2%
+| 11%
+| –
+| –
+| 3%
+| –
+| –
+| –
+| 8%
+| style="background:#FFF7CE;"| '''26%'''
+| 0.5%
+| 2%
+| 12%
+| –
+| –
+| –
+| –
+| –
+| –
+| 5.5%
+| style="background:#C1CCE1;"| '''28%'''
+| 0.5%
+| –
+|-
+| 1%
+| 0.5%
+| 1%
+| 12%
+| –
+| –
+| 3%
+| –
+| –
+| –
+| 8%
+| style="background:#FFED99;"| '''28%'''
+| 0.5%
+| 1.5%
+| –
+| –
+| 12%
+| –
+| –
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''27%'''
+| 0.5%
+| –
+|-
+| rowspan="3" style="background:#FFCCCC"| [https://www.ifop.com/wp-content/uploads/2019/11/116841-Rapport.pdf Ifop]
+| rowspan="3" data-sort-value="2019-10-30"| 28–30 Oct 2019
+| rowspan="3"| 1,396
+| 0.5%
+| 1%
+| 1.5%
+| 11%
+| –
+| –
+| 3%
+| –
+| –
+| –
+| 8%
+| style="background:#FFF7CE;"| '''27%'''
+| 1%
+| 1%
+| 10%
+| –
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#C1CCE1;"| '''28%'''
+| 1%
+| 0.5%
+|-
+| 0.5%
+| 1%
+| 1.5%
+| 11%
+| –
+| –
+| 3%
+| –
+| –
+| –
+| 9%
+| style="background:#FFED99;"| '''28%'''
+| 1%
+| 1.5%
+| –
+| 7%
+| –
+| –
+| –
+| –
+| –
+| 7%
+| style="background:#C1CCE1;"| '''28%'''
+| 1%
+| 0.5%
+|-
+| 0.5%
+| 1%
+| 1.5%
+| 11%
+| –
+| –
+| 2.5%
+| –
+| –
+| –
+| 7.5%
+| style="background:#FFF7CE;"| '''27%'''
+| 1%
+| 1.5%
+| –
+| –
+| 11%
+| –
+| –
+| –
+| –
+| 6.5%
+| style="background:#C1CCE1;"| '''28%'''
+| 1%
+| data-sort-value="0%"| <0.5%
+|-
+| rowspan="3" style="background:#CAD5F7;"| [https://elabe.fr/mi-mandat-macron/ Elabe]
+| rowspan="3" data-sort-value="2019-05-28"| 28–29 Oct 2019
+| rowspan="3"| 1,003
+| 1%
+| 3%
+| –
+| 13%
+| –
+| 5%
+| –
+| –
+| –
+| –
+| 6.5%
+| style="background:#FFF7CE;"| '''27%'''
+| –
+| –
+| 9%
+| –
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#C1CCE1;"| '''28%'''
+| 1.5%
+| –
+|-
+| 0.5%
+| 3.5%
+| –
+| 12.5%
+| –
+| 5.5%
+| –
+| –
+| –
+| –
+| 7%
+| style="background:#FFED99;"| '''29%'''
+| –
+| –
+| –
+| 5%
+| –
+| –
+| –
+| –
+| –
+| 6%
+| style="background:#C1CCE1;"| '''29%'''
+| 2%
+| –
+|-
+| 0.5%
+| 3%
+| –
+| 13%
+| –
+| 4.5%
+| –
+| –
+| –
+| –
+| 6.5%
+| style="background:#FFED99;"| '''27.5%'''
+| –
+| –
+| –
+| –
+| 9.5%
+| –
+| –
+| –
+| –
+| 6.5%
+| style="background:#C1CCE1;"| '''27.5%'''
+| 1.5%
+| –
+|-
+| style="background:#FFCCCC;"| [https://www.ifop.com/wp-content/uploads/2019/05/116488-Rapport.pdf Ifop]
+| 27–28 May 2019
+| 927
+| 1%
+| 1%
+| –
+| 9%
+| –
+| –
+| 4%
+| –
+| –
+| –
+| 12%
+| style="background:#FFED99;"| '''30%'''
+| –
+| 1%
+| –
+| –
+| –
+| –
+| –
+| –
+| 8%
+| 5%
+| style="background:#E0E5F0;"| '''28%'''
+| 1%
+| data-sort-value="0%"| <0.5%
+|-
+| style="background:#FFCCCC;"| [https://www.ifop.com/wp-content/uploads/2019/02/116145-Rapport-06.02.2019.pdf Ifop]
+| 1–2 Feb 2019
+| 912
+| data-sort-value="0%"| <0.5%
+| 1%
+| –
+| 12%
+| 6%
+| –
+| 3%
+| –
+| –
+| –
+| 2%
+| style="background:#FFED99;"| '''30%'''
+| 2%
+| 2%
+| –
+| –
+| –
+| –
+| –
+| –
+| 8%
+| 6%
+| style="background:#E0E5F0;"| '''27%'''
+| 1%
+| data-sort-value="0%"| <0.5%
+|-
+| rowspan="2" style="background:#FFCCCC;"| [https://www.ifop.com/wp-content/uploads/2018/12/116048-Rapport-1.pdf Ifop]
+| rowspan="2"| 11–13 Dec 2018
+| rowspan="2"| 1,125
+| 1%
+| 1%
+| –
+| 14%
+| 8%
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#FFF7CE;"| '''25%'''
+| –
+| 3%
+| –
+| –
+| –
+| –
+| 13%
+| –
+| –
+| 7%
+| style="background:#C1CCE1;"| '''27%'''
+| 1%
+| data-sort-value="0%"| <0.5%
+|-
+| 1.5%
+| 1%
+| –
+| 13%
+| 8.5%
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#FFED99;"| '''27.5%'''
+| –
+| 3%
+| –
+| –
+| –
+| –
+| –
+| –
+| 10%
+| 7%
+| style="background:#C1CCE1;"| '''27.5%'''
+| 1%
+| data-sort-value="0%"| <0.5%
+|-
+| rowspan="2" style="background:#FFCCCC;"| [https://www.ifop.com/wp-content/uploads/2018/05/macron_bilan_1an_ifop.pdf Ifop]
+| rowspan="2"| 12–16 Apr 2018
+| rowspan="2"| 1,131<!-- http://www.commission-des-sondages.fr/notices/files/notices/2018/avril/8767-pres-ifop-pm.pdf -->
+| 0.5%
+| 1%
+| –
+| 16.5%
+| 6%
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#FFED99;"| '''33%'''
+| –
+| 1%
+| –
+| –
+| –
+| –
+| 12%
+| –
+| –
+| 6%
+| style="background:#E0E5F0;"| '''23%'''
+| 1%
+| data-sort-value="0%"| <0.5%
+|-
+| 0.5%
+| 1%
+| –
+| 16.5%
+| 7%
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#FFED99;"| '''36%'''
+| –
+| 1%
+| –
+| –
+| –
+| –
+| –
+| –
+| 8%
+| 6%
+| style="background:#E0E5F0;"| '''23%'''
+| 1%
+| data-sort-value="0%"| <0.5%
+|-
+| style="background:#FFCCCC;"| [https://www.ifop.com/wp-content/uploads/2018/03/3879-1-study_file.pdf Ifop]
+| 13–18 Oct 2017
+| 1,908
+| 1%
+| 1.5%
+| –
+| 18%
+| 7%
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#FFED99;"| '''28%'''
+| –
+| 1.5%
+| –
+| –
+| –
+| –
+| 15%
+| –
+| –
+| 5%
+| style="background:#E0E5F0;"| '''21.5%'''
+| 1%
+| 0.5%
+|- style="background:#E9E9E9;"
+| [[2017 French presidential election|2017 election]]
+| 23 Apr 2017
+| –
+| 0.6%
+| 1.1%
+| –
+| 19.6%
+| 6.4%
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:#FFED99;"| '''24.0%'''
+| –
+| 1.2%
+| –
+| –
+| –
+| –
+| 20.0%
+| –
+| –
+| 4.7%
+| style="background:#E0E5F0;"| '''21.3%'''
+| 0.9%
+| 0.2%
+|}
+{{Notelist}}

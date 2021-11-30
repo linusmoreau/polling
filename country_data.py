@@ -1,5 +1,5 @@
 from date_kit import Date
-from base_ui import black, dark_grey, grey
+from base_ui import black, grey
 
 specs = {
     'Austria': {
@@ -198,6 +198,29 @@ specs = {
         'threshold': 2,
         'method': 'quotient'
     },
+    'France': {
+        'key': ['firm', 'date', 'sample',
+                'Arthaud', 'Poutou', 'Roussel', 'Melenchon', 'Hidalgo', 'Montebourg', 'Jadot', 'Macron', 'Lagarde',
+                'Lassalle', 'Barnier', 'Bertrand', 'Ciotti', 'Juvin', 'Payre', 'Pecresse', 'Poisson', 'Dupont-Aignan',
+                'Le Pen', 'Philippot', 'Zemmour', 'Asselineau',
+                'end'],
+        'include': ['Melenchon', 'Hidalgo', 'Montebourg', 'Jadot', 'Macron', 'Bertrand', 'Dupont-Aignan',
+                    'Le Pen', 'Zemmour',
+                    'Arthaud', 'Poutou', 'Roussel', 'Lagarde', 'Lassalle', 'Asselineau'],
+        'col': {'Melenchon': (201, 70, 44), 'Hidalgo': (237, 22, 81), 'Montebourg': (255, 192, 192),
+                'Jadot': (121, 180, 29),
+                'Macron': (255, 214, 0), 'Bertrand': (0, 102, 204), 'Dupont-Aignan': (0, 135, 205),
+                'Le Pen': (0, 74, 119), 'Zemmour': black,
+                'Arthaud': (170, 0, 0), 'Poutou': (192, 8, 31), 'Roussel': (221, 0, 0),
+                'Lagarde': (53, 162, 239), 'Lassalle': (3, 78, 161), 'Asselineau': (5, 124, 133)},
+        'blocs': {'Left': ['Melenchon', 'Hidalgo', 'Montebourg', 'Jadot', 'Arthaud', 'Poutou', 'Roussel'],
+                  'Centre': ['Macron', 'Bertrand', 'Lagarde', 'Lassalle'],
+                  'Right': ['Le Pen', 'Zemmour', 'Dupont-Aignan', 'Asselineau']},
+        'start': 0,
+        'end_date': Date(2022, 4, 10),
+        'url': 'https://en.wikipedia.org/w/index.php?title='
+               'Opinion_polling_for_the_2022_French_presidential_election&action=edit&section=2'
+    },
     'Germany': {
         'include': ['Union', 'SPD', 'AfD', 'FDP', 'Linke', 'Gr\u00fcne'],
         'key': ['firm', 'date', 'sample', 'abs',
@@ -239,7 +262,7 @@ specs = {
         'include': ['ND', 'Syriza', 'KINAL', 'KKE', 'EL', 'MeRA25'],
         'col': {'ND': (27, 92, 199), 'Syriza': (238, 128, 143), 'KINAL': (45, 144, 45), 'KKE': (227, 3, 1),
                 'EL': (84, 147, 206), 'MeRA25': (195, 52, 29), 'XA': (0, 2, 45)},
-        'gov': {'Government': ['ND'], 'Opposition': ['Syriza', 'KINAL', 'KKE', 'EL', 'MeRA25', 'XA']},
+        'gov': {'Government': ['ND'], 'Opposition': ['Syriza', 'KINAL', 'KKE', 'EL', 'MeRA25']},
         'blocs': {'Right': ['ND', 'EL'], 'Left': ['Syriza', 'KINAL', 'KKE', 'MeRA25']},
         'end_date': Date(2023, 7, 7),
         'start': 0,
@@ -532,7 +555,7 @@ specs = {
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_2022_Portuguese_legislative_election&action=edit&section=3',
         'toggle_seats': True,
-        'seats': 200,
+        'seats': 230,
         'divisor': 1,
         'bar': 0,
         'threshold': 0,
@@ -555,7 +578,9 @@ specs = {
                'Opinion_polling_for_the_next_Romanian_legislative_election&action=edit&section=1',
     },
     'Russia': {
-        'key': ['date', 'firm', 'sample', 'UR', 'CPRF', 'LDPR', 'SRZP', 'NP',
+        'key': ['date', 'firm', 'sample',
+                'UR', 'CPRF', 'LDPR', 'SRZP', 'NP',
+                'RPPSJ', 'Yabloko', 'CR', 'Greens', 'Rodina', 'RPFJ', 'GA', 'PG', 'CP',
                 'Others', 'Undecided', 'Abstention',
                 'lead', 'end'],
         'col': {'UR': (46, 78, 164), 'CPRF': (204, 17, 17), 'LDPR': (68, 136, 204), 'SRZP': (255, 192, 3),
