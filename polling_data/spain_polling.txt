@@ -23,6 +23,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="width:35px;"| [[File:BNG logo.svg|30px|link=Galician Nationalist Bloc|BNG]]
 ! style="width:35px;"| [[File:Logo Navarra Suma.png|30px|link=Navarra Suma|NA+]]
 ! style="width:35px;"| [[Regionalist Party of Cantabria|PRC]]
+! style="width:35px;"| [[Teruel Existe|TE]]
 ! style="width:30px;" rowspan="2"| Lead
 |-
 ! style="background:{{Spanish Socialist Workers' Party/meta/color}};"|
@@ -40,8 +41,339 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Galician Nationalist Bloc/meta/color}};"|
 ! style="background:{{Navarra Suma/meta/color}};"|
 ! style="background:{{Regionalist Party of Cantabria/meta/color}};"|
+! style="background:{{Teruel Existe/meta/color}};"|
 |-
-| SocioMétrica/El Español<ref name="SMNov21">{{cite web |title=España Vaciada obtendría 15 escaños y sería clave para decantar la Moncloa con sólo el 1,1% del voto  |url=https://www.elespanol.com/espana/politica/20211109/partido-espana-vaciada-revoluciona-electoral-publica-espanol/625938122_0.html |language=es |work=El Español |date=10 November 2021}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (28N): ligero repunte de PSOE y PP a costa de UP y Vox |url=https://electomania.es/ep28n21/ |language=es |work=Electomanía |date=28 November 2021}}</ref>
+| 19–26 Nov 2021
+|?
+|?
+| 25.9<br/>{{font|size=75%|font=Verdana|text=104}}
+| {{Party shading/PP}}| '''26.2'''<br/>{{font|size=75%|font=Verdana|text=109}}
+| 17.9<br/>{{font|size=75%|font=Verdana|text=62}}
+| 10.9<br/>{{font|size=75%|font=Verdana|text=25}}
+| 3.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.8<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=10}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.3
+|-
+| SW Demoscopia/Publicaciones Sur<ref>{{cite web |title=PP y Vox no suman lo suficiente para desalojar a Pedro Sánchez de la Moncloa |url=https://andaluciainformacion.es/andalucia/1011707/pp-y-vox-no-suman-lo-suficiente-para-desalojar-a-pedro-sanchez-de-la-moncloa/ |language=es |work=Andalucía Información |date=28 November 2021}}</ref>
+| 23–24 Nov 2021
+| 610
+|?
+| {{Party shading/PSOE}}| '''25.9'''<br/>{{font|size=75%|font=Verdana|text=106}}
+| 23.0<br/>{{font|size=75%|font=Verdana|text=97}}
+| 18.8<br/>{{font|size=75%|font=Verdana|text=68}}
+| 12.7<br/>{{font|size=75%|font=Verdana|text=33}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=3}}
+|?<br/>{{font|size=75%|font=Verdana|text=8}}
+|?<br/>{{font|size=75%|font=Verdana|text=6}}
+|?<br/>{{font|size=75%|font=Verdana|text=5}}
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 2.9
+|-
+| KeyData/Público<ref>{{cite web |title=La batalla entre Casado y Ayuso vuelve a frenar a la derecha y Yolanda Díaz se abre paso en las encuestas |url=https://www.publico.es/politica/batalla-casado-ayuso-vuelve-frenar-derecha-yolanda-diaz-abre-paso-encuestas.html/ |language=es |work=Público |date=29 November 2021}}</ref>
+| 22 Nov 2021
+|?
+|?
+| 25.6<br/>{{font|size=75%|font=Verdana|text=102}}
+| {{Party shading/PP}}| '''27.3'''<br/>{{font|size=75%|font=Verdana|text=116}}
+| 16.4<br/>{{font|size=75%|font=Verdana|text=56}}
+| 11.1<br/>{{font|size=75%|font=Verdana|text=29}}
+| 2.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.6<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.7
+|-
+| Sigma Dos/Antena 3<ref>{{cite web |title=El PP ganaría las elecciones con 130 escaños y alcanzaría la mayoría absoluta con Vox, según la última encuesta de Sigma 2 |url=https://www.antena3.com/noticias/espana/ganaria-elecciones-130-escanos-alcanzaria-mayoria-absoluta-vox-segun-ultima-encuesta-sigma-2_20211122619b4a075db1d60001039044.html |language=es |work=Antena 3 |date=22 November 2021}}</ref>
+| 22 Nov 2021
+|?
+|?
+| 25.8<br/>{{font|size=75%|font=Verdana|text=101}}
+| {{Party shading/PP}}| '''29.3'''<br/>{{font|size=75%|font=Verdana|text=130}}
+| 15.2<br/>{{font|size=75%|font=Verdana|text=47}}
+| 11.0<br/>{{font|size=75%|font=Verdana|text=26}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=12}}
+| 2.9<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=8}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.5
+|-
+| DYM/Henneo<ref>{{cite web |title=La crisis del PP le quita cuatro puntos de su ventaja sobre el PSOE, aunque aún podría gobernar con Vox |url=https://www.20minutos.es/noticia/4903798/0/la-crisis-del-pp-le-quita-cuatro-puntos-de-su-ventaja-sobre-el-psoe/ |language=es |work=20 minutos |date=25 November 2021}}</ref>
+| 17–21 Nov 2021
+| 1,021
+|?
+| 25.5<br/>{{font|size=75%|font=Verdana|text=100/105}}
+| {{Party shading/PP}}| '''25.8'''<br/>{{font|size=75%|font=Verdana|text=106/111}}
+| 18.3<br/>{{font|size=75%|font=Verdana|text=62/66}}
+| 12.2<br/>{{font|size=75%|font=Verdana|text=29/32}}
+| 4.7<br/>{{font|size=75%|font=Verdana|text=2/3}}
+| –
+| 2.5<br/>{{font|size=75%|font=Verdana|text=2/3}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.3
+|-
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro de laSexta. El PP pierde fuelle pero ganaría las elecciones con un 28% de los apoyos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-pierde-fuelle-pero-ganaria-elecciones-28-apoyos_20211121619a46509ef0da0001e7bc0e.html |language=es |work=laSexta |date=21 November 2021}}</ref>
+| 15–19 Nov 2021
+|?
+|?
+| 26.7
+| {{Party shading/PP}}| '''28.0'''
+| 16.6
+| 9.4
+| 1.3
+| –
+| 4.0
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.3
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (21N): sorpasso del PSOE al PP, Vox roza los 70 escaños. Adelante Andalucía logra el escaño |url=https://electomania.es/ep21n21/ |language=es |work=Electomanía |date=21 November 2021}}</ref>
+| 12–19 Nov 2021
+| 1,564
+|?
+| {{Party shading/PSOE}}| '''25.7'''<br/>{{font|size=75%|font=Verdana|text=101}}
+| {{Party shading/PP}}| '''25.7'''<br/>{{font|size=75%|font=Verdana|text=105}}
+| 18.2<br/>{{font|size=75%|font=Verdana|text=67}}
+| 11.5<br/>{{font|size=75%|font=Verdana|text=26}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.5<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.8<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=10}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:gray;color:white;"| Tie
+|-
+| IMOP/El Confidencial<ref>{{cite web |title=El PP dilapida en el último mes de crisis interna su ventaja sobre el PSOE |url=https://www.elconfidencial.com/espana/observatorio-electoral/2021-11-24/quiebra-pp-crisis-interna-ciudadanos-congreso_3329246/ |language=es |work=El Confidencial |date=24 November 2021}}</ref>
+| 8–19 Nov 2021
+| 1,343
+|?
+| {{Party shading/PSOE}}| '''27.1'''<br/>{{font|size=75%|font=Verdana|text=107}}
+| 26.8<br/>{{font|size=75%|font=Verdana|text=113}}
+| 16.7<br/>{{font|size=75%|font=Verdana|text=57}}
+| 11.0<br/>{{font|size=75%|font=Verdana|text=27}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=4}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=4}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=3}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=3}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 0.3
+|-
+| Celeste-Tel/Onda Cero<ref>{{cite web |title=Se recorta la distancia entre PP y PSOE |url=https://www.ondacero.es/noticias/espana/encuestas-electorales-recorta-distancia-psoe_20211119619786929dc5fc00012e6290.html |language=es |work=Onda Cero |date=19 November 2021}}</ref><ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Noviembre de 2021 |url=https://www.celeste-tel.es/wp-content/uploads/2021/11/Bar%C3%B3metro-Electoral-Mensual-Noviembre2021.pdf |language=es |work=Celeste-Tel |date=19 November 2021}}</ref>
+| 11–16 Nov 2021
+| 1,100
+| 63.4
+| 26.1<br/>{{font|size=75%|font=Verdana|text=102}}
+| {{Party shading/PP}}| '''28.5'''<br/>{{font|size=75%|font=Verdana|text=121}}
+| 15.4<br/>{{font|size=75%|font=Verdana|text=52}}
+| 10.5<br/>{{font|size=75%|font=Verdana|text=26}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 3.1<br/>{{font|size=75%|font=Verdana|text=13}}
+| 4.0<br/>{{font|size=75%|font=Verdana|text=5}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.4
+|-
+| Simple Lógica<ref name="SLNov21">{{cite web |title=Intención de voto y valoración de líderes políticos (noviembre 2021) |url=https://www.simplelogica.com/es/intencion-de-voto-y-valoracion-de-lideres-politicos-noviembre-2021/ |language=es |work=Simple Lógica |date=19 November 2021}}</ref>
+| 30 Oct–15 Nov 2021
+| 1,026
+| 62.9
+| {{Party shading/PSOE}}| '''24.3'''
+| 23.0
+| 18.3
+| 11.4
+| 2.8
+| –
+| 3.8
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 1.3
+|-
+| Sigma Dos/El Mundo<ref>{{cite web |title=El 75% de los votantes del PP cree que Casado será presidente |url=https://www.elmundo.es/espana/encuestas/2021/11/14/61915e72e4d4d8fc2b8b459f.html |language=es |work=El Mundo |date=15 November 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta SigmaDos 15/11/2021: UP-ECP-EC 10,5% (24), MÁS PAÍS-EQUO 3,6% (7), PSOE 25,9% (100), Cs 3,0% (1), PP 29,1% (130), VOX 15,4% (48) |url=https://www.electograph.com/2021/11/encuesta-sigmados-211115.html |language=es |work=Electograph |date=15 November 2021}}</ref>
+| 10–11 Nov 2021
+| 1,688
+|?
+| 25.9<br/>{{font|size=75%|font=Verdana|text=100}}
+| {{Party shading/PP}}| '''29.1'''<br/>{{font|size=75%|font=Verdana|text=130}}
+| 15.4<br/>{{font|size=75%|font=Verdana|text=48}}
+| 10.5<br/>{{font|size=75%|font=Verdana|text=24}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=12}}
+| 3.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.8<br/>{{font|size=75%|font=Verdana|text=8}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.2
+|-
+| GAD3/NIUS<ref name="GAD3Nov21">{{cite web |title=Sondeo GAD3: El PP sigue como partido más votado pero cada vez son menos los que piensan que ganará las elecciones |url=https://www.niusdiario.es/nacional/politica/encuesta-gad3-pp-sigue-partido-mas-votado-cada-vez-menos-piensan-ganara-elecciones_18_3233749558.html |language=es |work=NIUS |date=14 November 2021}}</ref><ref>{{cite web |title=Barómetro NIUS. Estimación elecciones generales |url=https://www.gad3.com/encuesta-para-nius-elecciones-generales/ |language=es |work=GAD3 |date=15 November 2021}}</ref>
+| 8–11 Nov 2021
+| 1,001
+| 66
+| 24.9<br/>{{font|size=75%|font=Verdana|text=96/100}}
+| {{Party shading/PP}}| '''29.5'''<br/>{{font|size=75%|font=Verdana|text=124/128}}
+| 14.7<br/>{{font|size=75%|font=Verdana|text=47/49}}
+| 11.8<br/>{{font|size=75%|font=Verdana|text=32/34}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=13/14}}
+| 2.8<br/>{{font|size=75%|font=Verdana|text=3}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=7/8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=4}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.6
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (14N): bajada del PP, al borde del sorpasso por el PSOE. Vox supera los 60 escaños |url=https://electomania.es/ep14n21/ |language=es |work=Electomanía |date=14 November 2021}}</ref>
+| 4–11 Nov 2021
+| 1,502
+|?
+| 25.8<br/>{{font|size=75%|font=Verdana|text=104}}
+| {{Party shading/PP}}| '''26.2'''<br/>{{font|size=75%|font=Verdana|text=107}}
+| 17.9<br/>{{font|size=75%|font=Verdana|text=61}}
+| 11.5<br/>{{font|size=75%|font=Verdana|text=28}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=14}}
+| 2.8<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.4
+|-
+| CIS<ref name="CISNov21">{{cite web |title=Barómetro de noviembre 2021 (Estudio nº 3340. Noviembre 2021) |url=http://datos.cis.es/pdf/Es3340marMT_A.pdf |language=es |work=CIS |date=17 November 2021}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3340. Barómetro de noviembre 2021) |url=http://datos.cis.es/pdf/3340_Estimacion.pdf |language=es |work=CIS |date=17 November 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta CIS 17/11/2021: UP-ECP-EC 13,6%, MÁS PAÍS-EQUO 3,1%, PSOE 27,6%, Cs 5,7%, PP 20,9%, VOX 14,3% |url=https://www.electograph.com/2021/11/encuesta-cis-211117.html |language=es |work=Electograph |date=17 November 2021}}</ref>
+| 2–11 Nov 2021
+| 3,779
+|?
+| {{Party shading/PSOE}}| '''27.6'''<br/>{{font|size=75%|font=Verdana|text=122}}
+| 20.9<br/>{{font|size=75%|font=Verdana|text=92}}
+| 14.3<br/>{{font|size=75%|font=Verdana|text=48}}
+| 13.6<br/>{{font|size=75%|font=Verdana|text=40}}
+| 5.7<br/>{{font|size=75%|font=Verdana|text=9}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=12}}
+| 3.1<br/>{{font|size=75%|font=Verdana|text=4}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=7}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=3}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.7
+|-
+| Hamalgama Métrica/VozPópuli<ref>{{cite web |title=La guerra abierta entre Casado y Ayuso frena al Partido Popular y da alas a Vox |url=https://www.vozpopuli.com/espana/casado-ayuso-vox-5.html |language=es |work=VozPópuli |date=14 November 2021}}</ref>
+| 3–10 Nov 2021
+| 1,000
+|?
+| 25.8<br/>{{font|size=75%|font=Verdana|text=100}}
+| {{Party shading/PP}}| '''28.3'''<br/>{{font|size=75%|font=Verdana|text=120}}
+| 16.1<br/>{{font|size=75%|font=Verdana|text=55}}
+| 10.3<br/>{{font|size=75%|font=Verdana|text=26}}
+| 2.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.5
+|-
+| SocioMétrica/El Español<ref name="SMNov21">{{cite web |title=España Vaciada obtendría 15 escaños y sería clave para decantar la Moncloa con sólo el 1,1% del voto  |url=https://www.elespanol.com/espana/politica/20211109/partido-espana-vaciada-revoluciona-electoral-publica-espanol/625938122_0.html |language=es |work=El Español |date=10 November 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta SocioMétrica 10/11/2021: UP-ECP-EC 12,4% (34), MÁS PAÍS-EQUO 3,3% (5), PSOE 25,4% (105), Cs 3,9% (2), PP 25,5% (107), VOX 16,8% (58) |url=https://www.electograph.com/2021/11/encuesta-sociometrica-211110.html |language=es |work=Electograph |date=10 November 2021}}</ref>
 | 5–8 Nov 2021
 | 1,200
 |?
@@ -60,6 +392,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.1
 |-
 | NC Report/La Razón<ref>{{cite web |title=Sánchez baja de los cien escaños tras su pulso con Yolanda Díaz |url=https://www.larazon.es/espana/20211108/zplpdtrzqvas3gsnscysklsv6u.html |language=es |work=La Razón |date=8 November 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 08/11/2021: UP-ECP-EC 9,8% (24/26), MÁS PAÍS-EQUO 3,0% (6), PSOE 25,2% (98/100), Cs 2,9% (1), PP 29,3% (125/127), VOX 15,2% (49/51) |url=https://www.electograph.com/2021/11/encuesta-nc-report-211108.html |language=es |work=Electograph |date=8 November 2021}}</ref>
@@ -80,6 +413,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| –
 | –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.1
 |-
@@ -102,9 +436,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1.0<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.8
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP ganaría las elecciones generales con el 28,2% de los apoyos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-ganaria-elecciones-generales-282-apoyos_202111076187d61077bc8000019ce670.html |language=es |work=laSexta |date=7 November 2021}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP ganaría las elecciones generales con el 28,2% de los apoyos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-ganaria-elecciones-generales-282-apoyos_202111076187d61077bc8000019ce670.html |language=es |work=laSexta |date=7 November 2021}}</ref>
 | 1–5 Nov 2021
 |?
 |?
@@ -115,6 +450,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1.5
 | –
 | 4.5
+| –
 | –
 | –
 | –
@@ -144,6 +480,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.6
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (7N): UP sigue al alza, el PP pierde apoyos |url=https://electomania.es/ep7n21/ |language=es |work=Electomanía |date=7 November 2021}}</ref>
@@ -165,12 +502,13 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.9
 |-
-| Metroscopia<ref>{{cite web |title=10N, dos años después: límites, liderazgos, agenda y calendario |url=https://metroscopia.org/2021/11/10/10n-dos-anos-despues-limites-liderazgos-agenda-y-calendario/ |language=es |work=Metroscopia |date=10 November 2021}}</ref><ref>{{cite web |title=Metroscopia frena el crecimiento del PP en plena guerra entre Casado y Ayuso |url=https://www.vozpopuli.com/espana/metroscopia-pp-guerra-casado-ayuso.html |language=es |work=VozPópuli |date=10 November 2021}}</ref>
+| Metroscopia<ref>{{cite web |title=10N, dos años después: límites, liderazgos, agenda y calendario |url=https://metroscopia.org/2021/11/10/10n-dos-anos-despues-limites-liderazgos-agenda-y-calendario/ |language=es |work=Metroscopia |date=10 November 2021}}</ref><ref name="MetrosNov21">{{cite web |title=Metroscopia frena el crecimiento del PP en plena guerra entre Casado y Ayuso |url=https://www.vozpopuli.com/espana/metroscopia-pp-guerra-casado-ayuso.html |language=es |work=VozPópuli |date=10 November 2021}}</ref>
 | 21 Oct–4 Nov 2021
 | 2,400
-|?
+| 66
 | {{Party shading/PSOE}}| '''26.5'''<br/>{{font|size=75%|font=Verdana|text=107}}
 | 25.2<br/>{{font|size=75%|font=Verdana|text=104}}
 | 18.0<br/>{{font|size=75%|font=Verdana|text=66}}
@@ -185,6 +523,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| –
 | –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 1.3
 |-
@@ -207,6 +546,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | 0.4<br/>{{font|size=75%|font=Verdana|text=?}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=?}}
+| –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.2
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=EP (31O): subida de Unidas Podemos, el PSOE por debajo de los 100 escaños |url=https://electomania.es/ep31o21/ |language=es |work=Electomanía |date=31 October 2021}}</ref>
@@ -228,6 +568,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.2
 |-
 | DYM/Henneo<ref>{{cite web |title=Sondeo DYM: El PP toma impulso y deja al PSOE por debajo de los 100 escaños |url=https://www.diariodesevilla.es/espana/sondeo-DYM-PP-impulso-PSOE-debajo_0_1623438470.html |language=es |work=Diario de Sevilla |date=27 October 2021}}</ref>
@@ -249,12 +590,13 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.5
 |-
-| Celeste-Tel/Onda Cero<ref>{{cite web |title=Encuestas electorales: El PP ganaría las elecciones y la derecha desbancaría a Sánchez de La Moncloa |url=https://www.ondacero.es/noticias/espana/encuestas-electorales-ganaria-elecciones-derecha-desbancaria-sanchez-moncloa_20211028617a83dfed0d1f0001646cf3.html |language=es |work=Onda Cero |date=28 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta Celeste-Tel 28/10/2021: UP-ECP-EC 10,0% (25), MÁS PAÍS-EQUO 4,1% (5), PSOE 26,4% (103), Cs 3,4% (2), PP 28,9% (123), VOX 15,1% (50) |url=https://www.electograph.com/2021/10/encuesta-onda-cero-211028.html |language=es |work=Electgraph |date=28 October 2021}}</ref>
+| Celeste-Tel/Onda Cero<ref>{{cite web |title=Encuestas electorales: El PP ganaría las elecciones y la derecha desbancaría a Sánchez de La Moncloa |url=https://www.ondacero.es/noticias/espana/encuestas-electorales-ganaria-elecciones-derecha-desbancaria-sanchez-moncloa_20211028617a83dfed0d1f0001646cf3.html |language=es |work=Onda Cero |date=28 October 2021}}</ref><ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Octubre de 2021 |url=https://www.celeste-tel.es/wp-content/uploads/2021/10/Bar%C3%B3metro-Electoral-Mensual-Octubre2021.pdf |language=es |work=Celeste-Tel |date=28 October 2021}}</ref>
 | 18–22 Oct 2021
 | 1,100
-|?
+| 63.3
 | 26.4<br/>{{font|size=75%|font=Verdana|text=103}}
 | {{Party shading/PP}}| '''28.9'''<br/>{{font|size=75%|font=Verdana|text=123}}
 | 15.1<br/>{{font|size=75%|font=Verdana|text=50}}
@@ -270,6 +612,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.5
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (23O): subida de Vox, que supera el 17% |url=https://electomania.es/ep24o21/ |language=es |work=Electomanía |date=23 October 2021}}</ref>
@@ -291,9 +634,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.1
 |-
-| IMOP/El Confidencial<ref>{{cite web |title=Casado arrebata medio millón de votos a Sánchez y frena en seco a Vox|url=https://www.elconfidencial.com/espana/observatorio-electoral/2021-10-27/casado-arrebata-medio-millon-votos-sanchez-observatorio-electoral_3313617/ |language=es |work=El Confidencial |date=27 October 2021}}</ref>
+| IMOP/El Confidencial<ref>{{cite web |title=Casado arrebata medio millón de votos a Sánchez y frena en seco a Vox |url=https://www.elconfidencial.com/espana/observatorio-electoral/2021-10-27/casado-arrebata-medio-millon-votos-sanchez-observatorio-electoral_3313617/ |language=es |work=El Confidencial |date=27 October 2021}}</ref>
 | 11–22 Oct 2021
 | 1,338
 |?
@@ -312,9 +656,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1.1<br/>{{font|size=75%|font=Verdana|text=3}}
 | 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.2
 |-
-| Sigma Dos/El Mundo<ref>{{cite web |title=Casado consolida su mayoría y Sánchez se estanca ante la irrupción de Yolanda Díaz |url=https://www.elmundo.es/espana/encuestas/2021/10/24/61758fabfc6c83642f8b45e7.html |language=es |work=El Mundo |date=24 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta SigmaDos 25/10/2021: UP-ECP-EC 10,9% (25), MÁS PAÍS-EQUO 3,1% (7), PSOE 25,5% (99), Cs 3,1% (1), PP 28,9% (129), VOX 15,0% (47) |url=https://www.electograph.com/2021/10/encuesta-sigmados-211025.html |language=es |work=Sigma Dos |date=24 October 2021}}</ref>
+| Sigma Dos/El Mundo<ref>{{cite web |title=Casado consolida su mayoría y Sánchez se estanca ante la irrupción de Yolanda Díaz |url=https://www.elmundo.es/espana/encuestas/2021/10/24/61758fabfc6c83642f8b45e7.html |language=es |work=El Mundo |date=24 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta SigmaDos 25/10/2021: UP-ECP-EC 10,9% (25), MÁS PAÍS-EQUO 3,1% (7), PSOE 25,5% (99), Cs 3,1% (1), PP 28,9% (129), VOX 15,0% (47) |url=https://www.electograph.com/2021/10/encuesta-sigmados-211025.html |language=es |work=Electograph |date=24 October 2021}}</ref>
 | 19–21 Oct 2021
 | 1,928
 |?
@@ -327,6 +672,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.1<br/>{{font|size=75%|font=Verdana|text=7}}
 | 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
 | 1.9<br/>{{font|size=75%|font=Verdana|text=7}}
+| –
 | –
 | –
 | –
@@ -354,6 +700,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
 |?<br/>{{font|size=75%|font=Verdana|text=2}}
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.4
 |-
 | NC Report/La Razón<ref>{{cite web |title=Casado podría gobernar en solitario con el apoyo de Vox |url=https://www.larazon.es/espana/20211018/3cyuuj6mg5drfnuhvoxyvv3vzq.html |language=es |work=NC Report |date=18 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 18/10/2021: UP-ECP-EC 9,6% (22/24), MÁS PAÍS-EQUO 3,2% (7), PSOE 25,4% (101/103), Cs 2,7% (1), PP 29,6% (127/129), VOX 15,1% (47/49) |url=https://www.electograph.com/2021/10/encuesta-nc-report-211018.html |language=es |work=Electograph |date=18 October 2021}}</ref>
@@ -373,11 +720,12 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | –
 | –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.2
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP mantiene su ventaja sobre el PSOE: obtendría un 28,4% del voto decidido |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-mantiene-ventaja-psoe-obtendria-284-voto-decidido_20211016616ac3b295a4560001ad05c8.html |language=es |work=laSexta |date=16 October 2021}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP mantiene su ventaja sobre el PSOE: obtendría un 28,4% del voto decidido |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-mantiene-ventaja-psoe-obtendria-284-voto-decidido_20211016616ac3b295a4560001ad05c8.html |language=es |work=laSexta |date=16 October 2021}}</ref>
 | 11–15 Oct 2021
 |?
 |?
@@ -388,6 +736,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1.5
 | –
 | 4.2
+| –
 | –
 | –
 | –
@@ -417,6 +766,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.0
 |-
 | Simple Lógica<ref name="SLOct21">{{cite web |title=Intención de voto y valoración de líderes políticos (octubre 2021) |url=https://www.simplelogica.com/es/intencion-de-voto-y-valoracion-de-lideres-politicos-octubre-2021/ |language=es |work=Simple Lógica |date=25 October 2021}}</ref>
@@ -430,6 +780,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.0
 | –
 | 2.3
+| –
 | –
 | –
 | –
@@ -460,9 +811,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.0
 |-
-| CIS<ref name="CISOct21">{{cite web |title=Barómetro de octubre 2021 (Estudio nº 3337. Octubre 2021) |url=http://datos.cis.es/pdf/Es3337marMT_A.pdf |language=es |work=CIS |date=15 October 2021}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3337. Octubre 2021) |url= http://datos.cis.es/pdf/3337_Estimacion.pdf |language=es |work=CIS |date=15 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta CIS 15/10/2021: UP-ECP-EC 11,8%, MÁS PAÍS-EQUO 3,0%, PSOE 28,5%, Cs 6,0%, PP 22,1%, VOX 13,2% |url= https://www.electograph.com/2021/10/encuesta-cis-211015.html?m=1 |language=es |work=Electograph |date=15 October 2021}}</ref>
+| CIS<ref name="CISOct21">{{cite web |title=Barómetro de octubre 2021 (Estudio nº 3337. Octubre 2021) |url=http://datos.cis.es/pdf/Es3337marMT_A.pdf |language=es |work=CIS |date=15 October 2021}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3337. Barómetro de octubre 2021) |url=http://datos.cis.es/pdf/3337_Estimacion.pdf |language=es |work=CIS |date=15 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta CIS 15/10/2021: UP-ECP-EC 11,8%, MÁS PAÍS-EQUO 3,0%, PSOE 28,5%, Cs 6,0%, PP 22,1%, VOX 13,2% |url=https://www.electograph.com/2021/10/encuesta-cis-211015.html |language=es |work=Electograph |date=15 October 2021}}</ref>
 | 1–13 Oct 2021
 | 3,660
 |?
@@ -481,6 +833,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.1<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.4
 |-
 | Sigma Dos/Antena 3<ref>{{cite web |title=El PP ganaría las elecciones con 130 escaños si se celebrasen hoy, según la última encuesta de Sigma 2 |url=https://www.antena3.com/noticias/espana/ganaria-elecciones-130-escanos-celebrasen-hoy-segun-ultima-encuesta-sigma-2_202110116163daced257c7000137ebc9.html |language=es |work=Antena 3 |date=11 October 2021}}</ref>
@@ -502,7 +855,30 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.4
+|-
+| Metroscopia<ref name="MetrosNov21"/>
+| 10 Oct 2021
+|?
+|?
+| {{Party shading/PSOE}}| '''26.6'''
+| 26.2
+| 17.0
+| 10.0
+| 2.5
+| –
+| 2.4
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 0.4
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (10-O): el PP recupera posiciones |url=https://electomania.es/ep10o21/ |language=es |work=Electomanía |date=10 October 2021}}</ref>
 | 1–8 Oct 2021
@@ -523,6 +899,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.4
 |-
 | IMOP/El Confidencial<ref>{{cite web |title=El PP aumenta su ventaja sobre el PSOE y la derecha alcanzaría la Moncloa |url=https://www.elconfidencial.com/espana/observatorio-electoral/2021-10-13/pp-aumenta-ventaja-sobre-psoe_3305254/ |language=es |work=El Confidencial |date=13 October 2021}}</ref>
@@ -544,6 +921,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.0
 |-
 | Data10/OKDiario<ref>{{cite web |title=Casado sale reforzado de la Convención: supera en 31 escaños al PSOE y tendría mayoría absoluta con Vox |url=https://okdiario.com/espana/casado-sale-reforzado-convencion-supera-31-escanos-psoe-tendria-mayoria-absoluta-vox-7912579 |language=es |work=OKDiario |date=10 October 2021}}</ref>
@@ -565,6 +943,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.1
 |-
 | SocioMétrica/El Español<ref>{{cite web |title=Casado rompe su techo del 27% y logra su mayor ventaja sobre Sánchez tras la plaza de toros de Valencia |url=https://www.elespanol.com/espana/politica/20211010/casado-rompe-techo-logra-ventaja-sanchez-valencia/617689172_0.html |language=es |work=El Español |date=10 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta SocioMétrica 10/10/2021: UP-ECP-EC 11,4% (30), MÁS PAÍS-EQUO 3,5% (5), PSOE 25,0% (99), Cs 4,3% (2), PP 27,2% (118), VOX 16,3% (55) |url=https://www.electograph.com/2021/10/encuesta-sociometrica-211010.html |language=es |work=Electograph |date=10 October 2021}}</ref>
@@ -586,6 +965,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.2
 |-
 | Hamalgama Métrica/VozPópuli<ref>{{cite web |title=Vox sigue siendo imprescindible para que Casado desaloje a Sánchez de Moncloa |url=https://www.vozpopuli.com/espana/vox-casado-sanchez-encuesta.html |language=es |work=VozPópuli |date=13 October 2021}}</ref><ref>{{cite web |title=Encuesta Vozpópuli: PSOE y Podemos pierden un millón de votos y el PP ganaría dos |url=https://www.vozpopuli.com/espana/psoe-podemos-pp.html |language=es |work=VozPópuli |date=13 October 2021}}</ref>
@@ -607,6 +987,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.5
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (3Oct): Vox coge impulso y alcanza el 17% |url=https://electomania.es/ep3oct21/ |language=es |work=Electomanía |date=3 October 2021}}</ref>
@@ -628,6 +1009,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.8
 |-
 | Ágora Integral<ref>{{cite web |title=El nacionalismo canario pierde fuerza de cara a las próximas elecciones generales |url=https://www.eldiario.es/canariasahora/politica/nacionalismo-pierde-fuerza-cara-proximas-elecciones-generales-coalicion-nueva-canarias_1_8358120.html |language=es |work=elDiario.es |date=3 October 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta Ágora Integral 03/10/2021: UP-ECP-EC 11,5% (30), MÁS PAÍS-EQUO 3,7% (5), PSOE 26,1% (103), Cs 3,2% (2), PP 26,3% (118), VOX 15,4% (54) |url=https://www.electograph.com/2021/10/espana-encuesta-agora-integral-03102021.html |language=es |work=Electograph |date=30 October 2021}}</ref>
@@ -649,6 +1031,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | –
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.2
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (26S): PP y PSOE, empatados en votos y la gobernabilidad se complica más |url=https://electomania.es/ep26s21/ |language=es |work=Electomanía |date=26 September 2021}}</ref>
@@ -670,6 +1053,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.3
 |-
 | IMOP/El Confidencial<ref>{{cite web |title=PP y Vox consolidan su ventaja y se quedan a dos escaños de la mayoría absoluta |url=https://www.elconfidencial.com/espana/observatorio-electoral/2021-09-29/pp-vox-consolidan-ventaja-dos-escanos-mayoria-absoluta_3297591/ |language=es |work=El Confidencial |date=28 September 2021}}</ref>
@@ -691,6 +1075,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.5
 |-
 | KeyData/Público<ref>{{cite web |title=La batalla entre Casado y Ayuso frena el ascenso de un PP que reduce su ventaja sobre el Gobierno, según las encuestas |url=https://www.publico.es/politica/batalla-casado-ayuso-frena-ascenso-pp-reduce-ventaja-gobierno-encuestas.html |language=es |work=Público |date=25 September 2021}}</ref>
@@ -712,12 +1097,13 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
 |?<br/>{{font|size=75%|font=Verdana|text=2}}
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.0
 |-
-| Celeste-Tel/Onda Cero<ref>{{cite web |title=El bloque de centro-derecha podría gobernar y el PSOE deja de caer |url=https://www.ondacero.es/noticias/espana/bloque-centroderecha-podria-gobernar-psoe-deja-caer_202109276151c6f91d28e900019ee7b9.html |language=es |work=Onda Cero |date=27 September 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta Celeste-Tel 27/09/2021: UP-ECP-EC 9,9% (24), MÁS PAÍS-EQUO 4,1% (6), PSOE 26,1% (103), Cs 3,5% (2), PP 29,2% (124), VOX 15,1% (50) |url=https://www.electograph.com/2021/09/encuesta-celeste-tel-210927.html |language=es |work=Electograph |date=27 September 2021}}</ref>
+| Celeste-Tel/Onda Cero<ref>{{cite web |title=El bloque de centro-derecha podría gobernar y el PSOE deja de caer |url=https://www.ondacero.es/noticias/espana/bloque-centroderecha-podria-gobernar-psoe-deja-caer_202109276151c6f91d28e900019ee7b9.html |language=es |work=Onda Cero |date=27 September 2021}}</ref><ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Septiembre de 2021 |url=https://www.celeste-tel.es/wp-content/uploads/2021/09/Bar%C3%B3metro-Electoral-Mensual-Septiembre2021.pdf |language=es |work=Celeste-Tel |date=27 September 2021}}</ref>
 | 16–21 Sep 2021
 | 1,100
-|?
+| 63.6
 | 26.1<br/>{{font|size=75%|font=Verdana|text=103}}
 | {{Party shading/PP}}| '''29.2'''<br/>{{font|size=75%|font=Verdana|text=124}}
 | 15.1<br/>{{font|size=75%|font=Verdana|text=50}}
@@ -733,7 +1119,30 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.1
+|-
+| Metroscopia<ref name="MetrosNov21"/>
+| 20 Sep 2021
+|?
+|?
+| {{Party shading/PSOE}}| '''26.5'''
+| 26.2
+| 18.1
+| 9.8
+| 2.0
+| –
+| 2.2
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 0.3
 |-
 | Data10/OKDiario<ref>{{cite web |title=Casado pierde 5 escaños frente a Sánchez en 15 días por la crisis de Madrid pero gobernaría con Vox |url=https://okdiario.com/espana/casado-pierde-5-escanos-frente-sanchez-15-dias-crisis-madrid-pero-gobernaria-vox-7817251 |language=es |work=OKDiario |date=21 September 2021}}</ref>
 | 19–20 Sep 2021
@@ -754,6 +1163,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.7
 |-
 | DYM/Henneo<ref>{{cite web |title=La tensión entre Casado y Ayuso pasa factura al PP, que pierde su ventaja sobre el PSOE |url=https://www.lagacetadesalamanca.es/nacional/la-tension-entre-casado-y-ayuso-pasa-factura-al-pp-que-pierde-su-ventaja-sobre-el-psoe-MB9056493 |language=es |work=La Gaceta de Salamanca |date=22 September 2021}}</ref><ref>{{cite web |title=PSOE y PP empatarían tras meses de ventaja de los populares |url=https://www.20minutos.es/noticia/4830679/0/psoe-pp-empatarian-tras-meses-ventaja-populares-elecciones-generales/ |language=es |work=20 minutos |date=23 September 2021}}</ref>
@@ -775,9 +1185,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.1
 |-
-| NC Report/La Razón<ref>{{cite web |title=El PP se afianza pero necesita a Vox |url=https://www.larazon.es/espana/20210920/gbcj33qtsbhi7bbtsqwa64magq.html |language=es |work=La Razón |date=20 September 2021}}</ref>
+| NC Report/La Razón<ref>{{cite web |title=El PP se afianza pero necesita a Vox |url=https://www.larazon.es/espana/20210920/gbcj33qtsbhi7bbtsqwa64magq.html |language=es |work=La Razón |date=20 September 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 20/09/2021: UP-ECP-EC 9,5% (21/23), MÁS PAÍS-EQUO 3,4% (6), PSOE 25,0% (99/101), Cs 2,7% (2), PP 29,9% (128/130), VOX 14,9% (47/49) |url=https://www.electograph.com/2021/09/encuesta-nc-report-210920.html |language=es |work=Electograph |date=20 September 2021}}</ref>
 | 14–18 Sep 2021
 | 1,000
 | 63.6
@@ -794,6 +1205,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | –
 | –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.9
@@ -817,6 +1229,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.1
 |-
 | GAD3/NIUS<ref name="GAD3Sep21">{{cite web |title=España ingobernable: el PP no se garantiza La Moncloa y el PSOE tampoco suma |url=https://www.niusdiario.es/nacional/politica/encuesta-gad3-septiembre-espana-ingobernable-pp-no-garantiza-gobierno-psoe-recorta-distancia_18_3204349233.html |language=es |work=NIUS |date=20 September 2021}}</ref><ref>{{cite web |title=Barómetro NIUS. Estimación Elecciones Generales |url=https://www.gad3.com/barometro-nius-estimacion-elecciones-generales/ |language=es |work=GAD3 |date=20 September 2021}}</ref>
@@ -838,6 +1251,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.9
 |-
 | Simple Lógica<ref name="SLSep21">{{cite web |title=Intención de voto y valoración de líderes políticos (septiembre 2021) |url=https://www.simplelogica.com/es/intencion-de-voto-y-valoracion-de-lideres-politicos-septiembre-2021/ |language=es |work=Simple Lógica |date=24 September 2021}}</ref>
@@ -859,9 +1273,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.7
 |-
-| CIS<ref name="CISSep21">{{cite web |title=Barómetro de septiembre 2021 (Estudio nº 3334. Septiembre 2021) |url=http://datos.cis.es/pdf/Es3334marMT_A.pdf |language=es |work=CIS |date=16 September 2021}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3334. Septiembre 2021) |url=http://datos.cis.es/pdf/3334_Estimacion.pdf |language=es |work=CIS |date=16 September 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta CIS 16/09/2021: UP-ECP-EC 11,3%, MÁS PAÍS-EQUO 3,3%, PSOE 29,6%, Cs 6,5%, PP 20,5%, VOX 13,8% |url=https://www.electograph.com/2021/09/encuesta-cis-210916.html |language=es |work=Electograph |date=16 September 2021}}</ref>
+| CIS<ref name="CISSep21">{{cite web |title=Barómetro de septiembre 2021 (Estudio nº 3334. Septiembre 2021) |url=http://datos.cis.es/pdf/Es3334marMT_A.pdf |language=es |work=CIS |date=16 September 2021}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3334. Barómetro de septiembre 2021) |url=http://datos.cis.es/pdf/3334_Estimacion.pdf |language=es |work=CIS |date=16 September 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta CIS 16/09/2021: UP-ECP-EC 11,3%, MÁS PAÍS-EQUO 3,3%, PSOE 29,6%, Cs 6,5%, PP 20,5%, VOX 13,8% |url=https://www.electograph.com/2021/09/encuesta-cis-210916.html |language=es |work=Electograph |date=16 September 2021}}</ref>
 | 1–13 Sep 2021
 | 3,780
 |?
@@ -880,6 +1295,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.1<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 9.1
 |-
 | IMOP/El Confidencial<ref>{{cite web |title=Empate PP-PSOE: España, ingobernable |url=https://www.elconfidencial.com/espana/observatorio-electoral/2021-09-15/empate-pp-psoe-espana-ingobernable-observatorio-electoral_3289337/ |language=es |work=IMOP |date=15 September 2021}}</ref>
@@ -901,6 +1317,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 0.2
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (12S): subida del PSOE, que araña algún escaño a la derecha |url=https://electomania.es/ep12s21/ |language=es |work=Electomanía |date=12 September 2021}}</ref>
@@ -922,6 +1339,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.9
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (5S): la izquierda recupera posiciones, baja el PP |url=https://electomania.es/ep5s21/ |language=es |work=Electomanía |date=5 September 2021}}</ref>
@@ -943,6 +1361,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.8
 |-
 | Sigma Dos/El Mundo<ref>{{cite web |title=Encuesta Sigma Dos - El Mundo. El PP se mantiene como favorito para ganar las elecciones generales con 131 escaños |url=https://www.sigmados.com/encuesta-sigma-dos-el-mundo-el-pp-se-mantiene-como-favorito-para-ganar-las-elecciones-generales-con-131-escanos/ |language=es |work=Sigma Dos |date=6 September 2021}}</ref>
@@ -958,6 +1377,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.1<br/>{{font|size=75%|font=Verdana|text=8}}
 | 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
 | 1.9<br/>{{font|size=75%|font=Verdana|text=8}}
+| –
 | –
 | –
 | –
@@ -985,6 +1405,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 5.4
 |-
 | KeyData/Público<ref>{{cite web |title=La escalada del precio de la luz pasa factura al Gobierno en las encuestas |url=https://www.publico.es/politica/escalada-del-precio-luz-pasa.html |language=es |work=Público |date=6 September 2021}}</ref>
@@ -1005,6 +1426,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
 |?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.5
 |-
@@ -1027,9 +1449,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.1
 |-
-| NC Report/La Razón<ref>{{cite web |title=El PP consolida su crecimiento y podría gobernar con Vox |url=https://www.larazon.es/espana/20210830/vx6i6sdjxbdmtmkwybcatwnsia.html |language=es |work=La Razón |date=30 August 2021}}</ref>
+| NC Report/La Razón<ref>{{cite web |title=El PP consolida su crecimiento y podría gobernar con Vox |url=https://www.larazon.es/espana/20210830/vx6i6sdjxbdmtmkwybcatwnsia.html |language=es |work=La Razón |date=30 August 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 30/08/2021: UP-ECP-EC 9,3% (21/23), MÁS PAÍS-EQUO 3,4% (6), PSOE 25,3% (99/101), Cs 2,7% (2), PP 30,1% (129/131), VOX 14,7% (46/48) |url=https://www.electograph.com/2021/08/encuesta-nc-report-210830.html |language=es |work=Electograph |date=30 August 2021}}</ref>
 | 24–27 Aug 2021
 | 1,000
 | 63.8
@@ -1046,6 +1469,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | –
 | –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.8
@@ -1069,6 +1493,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.6
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (22A): el curso político arranca con un escenario estático |url=https://electomania.es/ep22ag21/ |language=es |work=Electomanía |date=22 August 2021}}</ref>
@@ -1090,9 +1515,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.5
 |-
-| Celeste-Tel/Onda Cero<ref>{{cite web |title=El PP sería el partido más votado si se celebrasen elecciones generales |url=https://www.ondacero.es/noticias/espana/seria-partido-mas-votado-celebrasen-elecciones-generales_202108276128a66642618100012d8887.html |language=es |work=Onda Cero |date=27 August 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta Celeste-Tel 27/08/2021: UP-ECP-EC 9,7% (21), MÁS PAÍS-EQUO 4,5% (7), PSOE 25,7% (102), Cs 3,5% (2), PP 29,7% (129), VOX 14,8% (48) |url=https://www.electograph.com/2021/08/encuesta-celeste-tel-210827.html |language=es |work=Electograph |date=27 August 2021}}</ref>
+| Celeste-Tel/Onda Cero<ref>{{cite web |title=El PP sería el partido más votado si se celebrasen elecciones generales |url=https://www.ondacero.es/noticias/espana/seria-partido-mas-votado-celebrasen-elecciones-generales_202108276128a66642618100012d8887.html |language=es |work=Onda Cero |date=27 August 2021}}</ref><ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Agosto de 2021 |url=https://www.celeste-tel.es/wp-content/uploads/2021/08/Bar%C3%B3metro-Electoral-Mensual-Agosto2021.pdf |language=es |work=Celeste-Tel |date=27 August 2021}}</ref>
 | 16–20 Aug 2021
 | 1,100
 | 64.1
@@ -1111,6 +1537,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.0
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=EP (15A): el PP incrementa sus diputados, Cs vuelve al uniescaño |url=https://electomania.es/ep15ag21/ |language=es |work=Electomanía |date=15 August 2021}}</ref>
@@ -1132,6 +1559,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.6
 |-
 | Data10/OKDiario<ref>{{cite web |title=Sánchez se va de vacaciones con 21 escaños menos y el PP consolida su mayoría absoluta con Vox |url=https://okdiario.com/espana/pedro-sanchez-va-vacaciones-21-escanos-menos-pp-consolida-mayoria-absoluta-vox-7635674 |language=es |work=OKDiario |date=9 August 2021}}</ref>
@@ -1153,6 +1581,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 5.3
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel semanal (8A): el PSOE, estancado en el 25% |url=https://electomania.es/ep8ag21/ |language=es |work=Electomanía |date=8 August 2021}}</ref>
@@ -1174,6 +1603,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.3
 |-
 | Simple Lógica<ref name="SLAug21">{{cite web |title=Intención de voto y valoración de líderes políticos (agosto 2021) |url=https://www.simplelogica.com/es/intencion-de-voto-y-valoracion-de-lideres-politicos-agosto-2021/ |language=es |work=Simple Lógica |date=27 August 2021}}</ref>
@@ -1187,6 +1617,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.9
 | –
 | 4.6
+| –
 | –
 | –
 | –
@@ -1216,6 +1647,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.4
 |-
 | SocioMétrica/El Español<ref>{{cite web |title=Pablo Casado ganaría hoy pero dependería de Vox más de lo que Sánchez depende de Podemos |url=https://www.elespanol.com/espana/politica/20210801/pablo-casado-ganaria-dependeria-vox-sanchez-podemos/600440752_0.html |language=es |work=El Español |date=1 August 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta SocioMétrica 01/08/2021: UP-ECP-EC 10,3% (26), MÁS PAÍS-EQUO 4,5% (9), PSOE 24,7% (101), Cs 5,0% (3), PP 26,4% (116), VOX 16,1% (56) |url=https://www.electograph.com/2021/08/encuesta-sociometrica-210801.html |language=es |work=Electograph |date=1 August 2021}}</ref>
@@ -1237,9 +1669,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.7
 |-
-| Celeste-Tel/Onda Cero<ref>{{cite web |title=Encuesta elecciones generales: El PP alcanza los 131 escaños y podría gobernar en mayoría absoluta con Vox |url=https://www.ondacero.es/noticias/espana/encuesta-elecciones-generales-alcanza-130-escanos-podria-gobernar-vox_2021072861012c234aebd80001c5de17.html |language=es |work=Onda Cero |date=28 July 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta Celeste-Tel 28/07/2021: UP-ECP-EC 9,6% (21), MÁS PAÍS-EQUO 4,6% (7), PSOE 25,6% (101), Cs 3,3% (2), PP 30,0% (131), VOX 14,9% (47) |url=https://www.electograph.com/2021/07/encuesta-celeste-tel-210728.html |language=es |work=Electograph |date=28 July 2021}}</ref>
+| Celeste-Tel/Onda Cero<ref>{{cite web |title=Encuesta elecciones generales: El PP alcanza los 131 escaños y podría gobernar en mayoría absoluta con Vox |url=https://www.ondacero.es/noticias/espana/encuesta-elecciones-generales-alcanza-130-escanos-podria-gobernar-vox_2021072861012c234aebd80001c5de17.html |language=es |work=Onda Cero |date=28 July 2021}}</ref><ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Julio de 2021 |url=https://www.celeste-tel.es/wp-content/uploads/2021/07/Bar%C3%B3metro-Electoral-Mensual-Julio2021.pdf |language=es |work=Celeste-Tel |date=28 July 2021}}</ref>
 | 20–23 Jul 2021
 | 1,100
 | 64.4
@@ -1258,6 +1691,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.4
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (25JL): bajada de Más País, que es sorpassado por Cs |url=https://electomania.es/ep25jl21/ |language=es |work=Electomanía |date=25 July 2021}}</ref>
@@ -1279,6 +1713,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.7
 |-
 | KeyData/Público<ref>{{cite web |title=La fatiga de un año político intenso amenaza con bajar la participación y desdibuja el efecto de la crisis de Gobierno |url=https://www.publico.es/politica/encuestas-electorales-fatiga-ano-politico-intenso-amenaza-bajar-participacion-desdibuja-efecto-crisis-gobierno.html |language=es |work=Público |date=29 July 2021}}</ref>
@@ -1299,6 +1734,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
 |?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.1
 |-
@@ -1321,6 +1757,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 6.0
 |-
 | Sigma Dos/Antena 3<ref>{{cite web |title=El PP ganaría las elecciones, pero el PSOE recorta distancias con respecto a la encuesta de junio |url=https://www.antena3.com/noticias/espana/ganaria-elecciones-pero-psoe-recorta-distancias-respecto-encuesta-junio_2021071960f50495df51de0001df9e0e.html |language=es |work=Antena 3 |date=19 July 2021}}</ref>
@@ -1342,6 +1779,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.7
 |-
 | DYM/Henneo<ref>{{cite web |title=El PSOE acentúa su desgaste pese a la crisis de Gobierno y los españoles creen que no cambia nada |url=https://www.20minutos.es/noticia/4769818/0/encuesta-dym-julio-20minutos/ |language=es |work=20 minutos |date=21 July 2021}}</ref><ref>{{cite web |title=La mayoría de los españoles asegura que este Gobierno no mejorará la economía |url=https://www.lainformacion.com/espana/la-mayoria-de-los-espanoles-cree-que-el-nuevo-gobierno-no-mejorara-la-economia/2844898/ |language=es |work=La Información |date=21 July 2021}}</ref>
@@ -1355,6 +1793,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.0<br/>{{font|size=75%|font=Verdana|text=2/3}}
 | –
 | 2.5<br/>{{font|size=75%|font=Verdana|text=3/4}}
+| –
 | –
 | –
 | –
@@ -1384,9 +1823,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=3}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 5.8
 |-
-| NC Report/La Razón<ref>{{cite web |title=Sánchez frena la caída tras la remodelación del Gobierno |url=https://www.larazon.es/espana/20210719/nxfzud36sfeibaeprsbcommxni.html |language=es |work=La Razón |date=19 July 2021}}</ref>
+| NC Report/La Razón<ref>{{cite web |title=Sánchez frena la caída tras la remodelación del Gobierno |url=https://www.larazon.es/espana/20210719/nxfzud36sfeibaeprsbcommxni.html |language=es |work=La Razón |date=19 July 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 19/07/2021: UP-ECP-EC 9,2% (20/22), MÁS PAÍS-EQUO 3,7% (6), PSOE 25,9% (101/103), Cs 2,7% (1), PP 29,8% (126/128), VOX 15,3% (50/52) |url=https://www.electograph.com/2021/07/encuesta-nc-report-210719.html |language=es |work=Electograph |date=19 July 2021}}</ref>
 | 12–16 Jul 2021
 | 1,000
 | 64.2
@@ -1403,11 +1843,12 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | –
 | –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.9
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PSOE recorta distancias con el PP, que mantiene la mayor intención de voto |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-psoe-recorta-distancias-que-mantiene-mayor-intencion-voto_2021071860f419bedf51de0001def615.html |language=es |work=laSexta |date=18 July 2021}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PSOE recorta distancias con el PP, que mantiene la mayor intención de voto |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-psoe-recorta-distancias-que-mantiene-mayor-intencion-voto_2021071860f419bedf51de0001def615.html |language=es |work=laSexta |date=18 July 2021}}</ref>
 | 12–16 Jul 2021
 |?
 |?
@@ -1418,6 +1859,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1.4
 | –
 | 4.5
+| –
 | –
 | –
 | –
@@ -1447,7 +1889,30 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.3
+|-
+| Metroscopia<ref name="MetrosNov21"/>
+| 15 Jul 2021
+|?
+|?
+| 26.0
+| {{Party shading/PP}}| '''28.4'''
+| 14.7
+| 11.1
+| 2.5
+| –
+| 3.0
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.4
 |-
 | GESOP/El Periódico<ref>{{cite web |title=Encuesta elecciones generales España: El nuevo Gobierno echa a andar con el PP pisándole los talones |url=https://www.elperiodico.com/es/politica/20210718/encuesta-elecciones-generales-espana-nuevo-gobierno-11919308 |language=es |work=El Periódico de Catalunya |date=18 July 2021}}</ref>
 | 14–15 Jul 2021
@@ -1460,6 +1925,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.9<br/>{{font|size=75%|font=Verdana|text=2/3}}
 | 3.4<br/>{{font|size=75%|font=Verdana|text=12/14}}
 | 3.8<br/>{{font|size=75%|font=Verdana|text=4/6}}
+| –
 | –
 | –
 | –
@@ -1489,6 +1955,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1.0
 | 0.4
 | 0.1
+| 0.1
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.7
 |-
 | CIS<ref name="CISJul21">{{cite web |title=Barómetro de julio 2021 (Estudio nº 3330. Julio 2021) |url=http://datos.cis.es/pdf/Es3330marMT_A.pdf |language=es |work=CIS |date=21 July 2021}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3330. Barómetro de julio 2021) |url=http://datos.cis.es/pdf/3330_Estimacion.pdf |language=es |work=CIS |date=21 July 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta CIS 21/07/2021: UP-ECP-EC 10,6%, MÁS PAÍS-EQUO 3,7%, PSOE 28,6%, Cs 5,5%, PP 23,4%, VOX 13,6% |url=https://www.electograph.com/2021/07/encuesta-cis-210721.html |language=es |work=Electograph |date=21 July 2021}}</ref>
@@ -1508,6 +1975,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 5.2
 |-
 | Simple Lógica<ref name="SLJul21">{{cite web |title=Intención de voto y valoración de líderes políticos (julio 2021) |url=https://www.simplelogica.com/es/intencion-de-voto-y-valoracion-de-lideres-politicos-julio-2021/ |language=es |work=Simple Lógica |date=23 July 2021}}</ref>
@@ -1521,6 +1989,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.4
 | –
 | 3.5
+| –
 | –
 | –
 | –
@@ -1550,9 +2019,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.9
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP se mantiene como primera fuerza política en intención de voto con el 28,3% |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-mantiene-como-primera-fuerza-politica-intencion-voto-283_2021070460e1ba06f02596000126b270.html |language=es |work=laSexta |date=5 July 2021}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP se mantiene como primera fuerza política en intención de voto con el 28,3% |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-mantiene-como-primera-fuerza-politica-intencion-voto-283_2021070460e1ba06f02596000126b270.html |language=es |work=laSexta |date=5 July 2021}}</ref>
 | 28 Jun–2 Jul 2021
 |?
 |?
@@ -1563,6 +2033,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1.5
 | –
 | 4.4
+| –
 | –
 | –
 | –
@@ -1592,6 +2063,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.5
 |-
 | Data10/OKDiario<ref>{{cite web |title=Los indultos castigan a Sánchez: el PSOE pierde 24 escaños y el PP logra la mayoría absoluta con Vox |url=https://okdiario.com/espana/indultos-castigan-sanchez-psoe-pierde-24-escanos-pp-logra-mayoria-absoluta-vox-7458673 |language=es |work=OKDiario |date=4 July 2021}}</ref>
@@ -1613,6 +2085,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 5.9
 |-
 | Sigma Dos/El Mundo<ref>{{cite web |title=El PP ganaría las elecciones y rozaría la mayoría absoluta con Vox |url=https://www.elmundo.es/espana/encuestas/2021/07/04/60e1e739fc6c83dc0d8b4630.html |language=es |work=El Mundo |date=5 July 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta SigmaDos 05/07/2021: UP-ECP-EC 10,5% (25), MÁS PAÍS-EQUO 5,0% (10), PSOE 25,9% (103), Cs 2,5% (1), PP 29,4% (130), VOX 14,4% (44) |url=https://www.electograph.com/2021/07/encuesta-sigmados-210706.html |language=es |work=Electograph |date=5 July 2021}}</ref>
@@ -1628,6 +2101,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.0<br/>{{font|size=75%|font=Verdana|text=10}}
 | 1.8<br/>{{font|size=75%|font=Verdana|text=7}}
 | 1.5<br/>{{font|size=75%|font=Verdana|text=8}}
+| –
 | –
 | –
 | –
@@ -1655,6 +2129,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.1
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (27J): subida de Vox y bajada del PSOE tras los indultos |url=https://electomania.es/ep27j21/ |language=es |work=Electomanía |date=27 June 2021}}</ref>
@@ -1676,9 +2151,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.5
 |-
-| NC Report/La Razón<ref>{{cite web |title=Los indultos agravan la caída: el PSOE pierde ya 23 escaños |url=https://www.larazon.es/espana/20210628/qo4bemkyurdyxbgn2nslbjfdba.html |language=es |work=La Razón |date=28 June 2021}}</ref>
+| NC Report/La Razón<ref>{{cite web |title=Los indultos agravan la caída: el PSOE pierde ya 23 escaños |url=https://www.larazon.es/espana/20210628/qo4bemkyurdyxbgn2nslbjfdba.html |language=es |work=La Razón |date=28 June 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 28/06/2021: UP-ECP-EC 9,0% (19/21), MÁS PAÍS-EQUO 4,6% (5/7), PSOE 24,7% (97/99), Cs 2,6% (1), PP 30,4% (129/131), VOX 15,1% (49/51) |url=https://www.electograph.com/2021/06/encuesta-nc-report-210606.html |language=es |work=Electograph |date=28 June 2021}}</ref>
 | 23–26 Jun 2021
 | 1,000
 | 63.8
@@ -1695,6 +2171,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | –
 | –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 5.7
@@ -1718,6 +2195,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
 |?<br/>{{font|size=75%|font=Verdana|text=2}}
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.0
 |-
 | Sigma Dos/Antena 3<ref>{{cite web |title=Encuesta elecciones generales: El PP ganaría al PSOE y sumaría la mayoría absoluta con el apoyo de Vox |url=https://www.antena3.com/noticias/espana/encuesta-elecciones-generales-ganaria-psoe-sumaria-mayoria-absoluta-apoyo-vox_2021062160d017b25962ed0001d84c2a.html |language=es |work=Antena 3 |date=21 June 2021}}</ref>
@@ -1733,6 +2211,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.4<br/>{{font|size=75%|font=Verdana|text=9}}
 | 1.9<br/>{{font|size=75%|font=Verdana|text=7}}
 | 2.0<br/>{{font|size=75%|font=Verdana|text=9}}
+| –
 | –
 | –
 | –
@@ -1760,9 +2239,32 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.2
 |-
-| Celeste-Tel/Onda Cero<ref>{{cite web |title=ESPAÑA. Encuesta Celeste-Tel 23/06/2021: UP-ECP-EC 9,5% (21), MÁS PAÍS-EQUO 5,7% (9), PSOE 25,3% (98), Cs 2,4% (1), PP 29,8% (131), VOX 15,5% (49) |url=https://www.electograph.com/2021/06/encuesta-celeste-tel-210623.html |language=es |work=Electograph |date=23 June 2021}}</ref>
+| Metroscopia<ref name="MetrosNov21"/>
+| 20 Jun 2021
+|?
+|?
+| 26.1
+| {{Party shading/PP}}| '''30.2'''
+| 14.6
+| 10.5
+| 2.0
+| –
+| 4.4
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.1
+|-
+| Celeste-Tel/Onda Cero<ref>{{cite web |title=Encuesta elecciones generales: El PP y Vox sumarían mayoría absoluta y el PSOE bajaría de los 100 escaños |url=https://www.ondacero.es/noticias/espana/encuesta-elecciones-generales-vox-sumarian-mayoria-absoluta-psoe-bajaria-100-escanos_2021062360d3139d96a1750001e49985.html |language=es |work=Onda Cero |date=23 June 2021}}</ref><ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Junio de 2021 |url=https://www.celeste-tel.es/wp-content/uploads/2021/06/Bar%C3%B3metro-Electoral-Mensual-Junio2021.pdf |language=es |work=Celeste-Tel |date=23 June 2021}}</ref>
 | 14–18 Jun 2021
 | 1,100
 | 64.2
@@ -1781,6 +2283,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.5
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (20J): Sánchez sube tras la manifestación de Colón |url=https://electomania.es/ep20j21/ |language=es |work=Electomanía |date=20 June 2021}}</ref>
@@ -1802,6 +2305,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.7
 |-
 | CIS<ref name="CISJun21">{{cite web |title=Barómetro de junio 2021 (Estudio nº 3326. Junio 2021) |url=http://datos.cis.es/pdf/Es3326marMT_A.pdf |language=es |work=CIS |date=18 June 2021}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3326. Barómetro de junio 2021) |url=http://datos.cis.es/pdf/3326_Estimacion.pdf |language=es |work=CIS |date=18 June 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta CIS 18/06/2021: UP-ECP-EC 12,0%, MÁS PAÍS-EQUO 4,1%, PSOE 27,4%, Cs 5,7%, PP 23,9%, VOX 13,0% |url=https://www.electograph.com/2021/06/encuesta-cis-210618.html |language=es |work=Electograph |date=18 June 2021}}</ref>
@@ -1823,6 +2327,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.1<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.5
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (13J): los partidos asistentes a Colón superarían hoy el 47% de voto |url=https://electomania.es/ep13j21/ |language=es |work=Electomanía |date=13 June 2021}}</ref>
@@ -1844,6 +2349,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.1
 |-
 | GAD3/NIUS<ref name="GAD3Jun21">{{cite web |title=El PP desbanca al PSOE como partido más votado y podría gobernar con el apoyo de Vox |url=https://www.niusdiario.es/nacional/politica/pp-desbanca-psoe-partido-mas-votado-elecciones-podria-gobernar-apoyo-vox-estimacion-voto-barometro-gad3_18_3152897082.html |language=es |work=NIUS |date=14 June 2021}}</ref><ref>{{cite web |title=Encuesta electoral de GAD3 para NIUS: estimación de voto y escaños en Elecciones Generales |url=https://www.gad3.com/encuesta-electoral-de-gad3-para-nius-estimacion-de-voto-y-escanos-en-elecciones-generales-2/ |language=es |work=GAD3 |date=14 June 2021}}</ref>
@@ -1865,6 +2371,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 5.2
 |-
 | Simple Lógica<ref name="SLJun21">{{cite web |title=Intención de voto y valoración de líderes políticos (junio 2021) |url=https://www.simplelogica.com/es/intencion-de-voto-y-valoracion-de-lideres-politicos-junio-2021/ |language=es |work=Simple Lógica |date=18 June 2021}}</ref>
@@ -1878,6 +2385,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.4
 | –
 | 6.0
+| –
 | –
 | –
 | –
@@ -1907,6 +2415,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.5
 |-
 | Data10/OKDiario<ref>{{cite web |title=El PP sigue disparado: logra la mayoría con Vox mientras Sánchez se entrega al golpismo |url=https://okdiario.com/espana/pp-sigue-disparado-logra-mayoria-vox-mientras-sanchez-entrega-golpismo-7321558 |language=es |work=OKDiario |date=6 June 2021}}</ref>
@@ -1928,6 +2437,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 3.6
 |-
 | Sigma Dos/El Mundo<ref>{{cite web |title=El PP se consolida como primera fuerza política y podría gobernar con Vox |url=https://www.elmundo.es/espana/encuestas/2021/06/05/60bb9758e4d4d867218b45f5.html |language=es |work=El Mundo |date=6 June 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta SigmaDos 06/06/2021: UP-ECP-EC 10,2% (24), MÁS PAÍS-EQUO 4,3% (9), PSOE 25,0% (100), Cs 3,2% (2), PP 29,5% (132), VOX 15,4% (51) |url=https://www.electograph.com/2021/06/encuesta-sigmados-210606.html |language=es |work=Electograph |date=5 June 2021}}</ref>
@@ -1943,6 +2453,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.3<br/>{{font|size=75%|font=Verdana|text=9}}
 | 1.8<br/>{{font|size=75%|font=Verdana|text=8}}
 | 1.7<br/>{{font|size=75%|font=Verdana|text=7}}
+| –
 | –
 | –
 | –
@@ -1970,6 +2481,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.1
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (30M): subida de PP y Vox, que junto a Foro suman 176 escaños |url=https://electomania.es/ep30my21/ |language=es |work=Electomanía |date=30 May 2021}}</ref>
@@ -1991,6 +2503,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.5
 |-
 | DYM/Henneo<ref name="DYMMay21">{{cite web |title=El PP supera por primera vez al PSOE y sumaría mayoría con Vox |url=https://www.20minutos.es/noticia/4708680/0/pp-supera-primera-vez-psoe-sumaria-mayoria-vox/ |language=es |work=20 minutos |date=26 May 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta DYM 26/05/2021: UP-ECP-EC 9,3% (20/22), MÁS PAÍS-EQUO 5,0% (4/6), PSOE 24,5% (99/103), Cs 3,4% (2/3), PP 28,1% (121/126), VOX 16,0% (53/57) |url=https://www.electograph.com/2021/05/encuesta-dym-210526.html |language=es |work=Electograph |date=26 May 2021}}</ref>
@@ -2004,6 +2517,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.4<br/>{{font|size=75%|font=Verdana|text=2/3}}
 | –
 | 5.0<br/>{{font|size=75%|font=Verdana|text=4/6}}
+| –
 | –
 | –
 | –
@@ -2033,6 +2547,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | –
+| –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.2
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel 22M: caída del PSOE que baja de los 100 escaños. Subida de PP y Vox. Absoluta para la derecha |url=https://electomania.es/ep22my21/ |language=es |work=Electomanía |date=23 May 2021}}</ref>
@@ -2054,9 +2569,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.1
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP repite como primera opción en intención de voto con el 27,2% |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-vuelve-ser-segunda-oleada-consecutiva-primera-opcion-intencion-voto-272_2021052360aa4acfcd5e690001ba8f4e.html |language=es |work=laSexta |date=23 May 2021}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP repite como primera opción en intención de voto con el 27,2% |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-vuelve-ser-segunda-oleada-consecutiva-primera-opcion-intencion-voto-272_2021052360aa4acfcd5e690001ba8f4e.html |language=es |work=laSexta |date=23 May 2021}}</ref>
 | 17–21 May 2021
 |?
 |?
@@ -2067,6 +2583,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1.4
 | –
 | 4.8
+| –
 | –
 | –
 | –
@@ -2096,7 +2613,30 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
 |?<br/>{{font|size=75%|font=Verdana|text=2}}
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.8
+|-
+| Metroscopia<ref name="MetrosNov21"/><ref name="MetrosEG">{{cite web |title=ESPAÑA. Encuesta Metroscopia 10/11/2021: UP-ECP-EC 11,0% (28), MÁS PAÍS-EQUO 3,0% (4), PSOE 26,5% (107), Cs 2,7% (1), PP 25,2% (104), VOX 18,0% (66) |url=https://www.electograph.com/2021/11/encuesta-metroscopia-211110.html |language=es |work=Electograph |date=23 May 2021}}</ref>
+| 20 May 2021
+|?
+|?
+| 22.8
+| {{Party shading/PP}}| '''30.3'''
+| 12.2
+| 11.3
+| 2.2
+| –
+| 6.7
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 7.5
 |-
 | GAD3/ABC<ref>{{cite web |title=El PP se dispara hasta los 138 escaños y suma mayoría absoluta con Vox |url=https://www.abc.es/espana/abci-pp-dispara-hasta-138-escanos-y-suma-mayoria-absoluta-202105230219_noticia.html |language=es |work=ABC |date=23 May 2021}}</ref><ref>{{cite web |title=Primera encuesta al Congreso tras las elecciones a la Asamblea de Madrid |url=https://www.gad3.com/primera-encuesta-al-congreso-tras-las-elecciones-a-la-asamblea-de-madrid/ |language=es |work=Electograph |date=23 May 2021}}</ref>
 | 12–18 May 2021
@@ -2117,6 +2657,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 5.1
 |-
 | Sigma Dos/Antena 3<ref>{{cite web |title=Encuesta elecciones generales: El PP ganaría y Pablo Casado arrebataría la Moncloa a Pedro Sánchez con el apoyo de Vox |url=https://www.antena3.com/noticias/espana/encuesta-ganaria-elecciones-generales-pablo-casado-arrebataria-moncloa-pedro-sanchez-apoyo-vox_2021051760a1fbe7f0676400010be1ed.html |language=es |work=Antena 3 |date=17 May 2021}}</ref>
@@ -2132,6 +2673,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.0<br/>{{font|size=75%|font=Verdana|text=7}}
 | 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
 | 1.9<br/>{{font|size=75%|font=Verdana|text=7}}
+| –
 | –
 | –
 | –
@@ -2159,9 +2701,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.5
 |-
-| Celeste-Tel/Onda Cero<ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Mayo de 2021 |url=https://www.celeste-tel.es/wp-content/uploads/2021/05/Bar%C3%B3metro-Electoral-Mensual-Mayo2021.pdf |language=es |work=Celeste-Tel |date=21 May 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta Celeste-Tel 21/05/2021: UP-ECP-EC 9,6% (25), MÁS PAÍS-EQUO 6,0% (9), PSOE 26,0% (100), Cs 2,5% (1), PP 28,1% (117), VOX 16,2% (59) |url=https://www.electograph.com/2021/05/encuesta-celeste-tel-210521.html |language=es |work=Electograph |date=21 May 2021}}</ref>
+| Celeste-Tel/Onda Cero<ref>{{cite web |title=Encuesta Elecciones: El PP estaría por encima del PSOE en intención de voto |url=https://www.ondacero.es/noticias/espana/estaria-encima-psoe-intencion-voto_2021052160a745593610570001365cca.html |language=es |work=Onda Cero |date=21 May 2021}}</ref><ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Mayo de 2021 |url=https://www.celeste-tel.es/wp-content/uploads/2021/05/Bar%C3%B3metro-Electoral-Mensual-Mayo2021.pdf |language=es |work=Celeste-Tel |date=21 May 2021}}</ref>
 | 10–14 May 2021
 | 1,100
 | 64.5
@@ -2180,6 +2723,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.1
 |-
 | CIS<ref name="CISMay21">{{cite web |title=Barómetro de mayo 2021 (Estudio nº 3322. Mayo 2021) |url=http://datos.cis.es/pdf/Es3322marMT_A.pdf |language=es |work=CIS |date=18 May 2021}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3322. Barómetro de mayo 2021) |url=http://datos.cis.es/pdf/3322_Estimacion.pdf |language=es |work=CIS |date=18 May 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta CIS 18/05/2021: UP-ECP-EC 10,4%, MÁS PAÍS-EQUO 3,8%, PSOE 27,9%, Cs 5,3%, PP 23,4%, VOX 13,7% |url=https://www.electograph.com/2021/05/encuesta-cis-210518.html |language=es |work=Electograph |date=18 May 2021}}</ref>
@@ -2201,6 +2745,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.5
 |-
 | Simple Lógica<ref name="SLMay21">{{cite web |title=Intención de voto y valoración de líderes políticos (mayo 2021) |url=https://www.simplelogica.com/es/intencion-de-voto-y-valoracion-de-lideres-politicos-mayo-2021/ |language=es |work=Simple Lógica |date=21 May 2021}}</ref>
@@ -2214,6 +2759,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.0
 | –
 | 4.0
+| –
 | –
 | –
 | –
@@ -2243,6 +2789,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 1.8
 |-
 | NC Report/La Razón<ref>{{cite web |title=Encuesta NC REPORT: Primer «sorpasso» de Casado a Sánchez |url=https://www.larazon.es/espana/20210510/jarm5wjkzvantfw42df5eej67q.html |language=es |work=La Razón |date=10 May 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 10/05/2021: UP-ECP-EC 9,9% (23/25), MÁS PAÍS-EQUO 3,7% (5/7), PSOE 26,1% (106/108), Cs 2,8% (1/2), PP 26,9% (109/111), VOX 17,1% (59/61) |url=https://www.electograph.com/2021/05/encuesta-nc-report-210510.html |language=es |work=Electograph |date=10 May 2021}}</ref>
@@ -2264,9 +2811,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | –
+| –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.8
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP se coloca como primera opción en intención de voto por primera vez desde 2018 con el 27,3% |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-coloca-como-primera-opcion-intencion-voto-primera-vez-2018-273_2021050860967e9d29c3320001d8dabf.html |language=es |work=laSexta |date=8 May 2021}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP se coloca como primera opción en intención de voto por primera vez desde 2018 con el 27,3% |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-coloca-como-primera-opcion-intencion-voto-primera-vez-2018-273_2021050860967e9d29c3320001d8dabf.html |language=es |work=laSexta |date=8 May 2021}}</ref>
 | 5–7 May 2021
 |?
 |?
@@ -2277,6 +2825,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1.2
 | –
 | 4.4
+| –
 | –
 | –
 | –
@@ -2306,6 +2855,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 4.5
 |-
 | Demoscopia y Servicios/ESdiario<ref>{{cite web |title=Casado adelanta a Sánchez y alcanza la mayoría absoluta con Vox y Navarra Suma |url=https://www.esdiario.com/espana/332803556/Casado-adelanta-a-Sanchez-y-alcanza-la-mayoria-absoluta-con-Vox-y-Navarra-Suma.html |language=es |work=ESdiario |date=7 May 2021}}</ref>
@@ -2327,6 +2877,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 0.6
 |-
 | ElectoPanel/Electomanía<ref name="EP060521">{{cite web |title=EP 6M: Subida de Casado, que roza la Moncloa. Peligra el escaño de Arrimadas. Ayuso ganaría y dejaría casi sin opciones a la izquierda |url=https://electomania.es/ep6m21/ |language=es |work=Electomanía |date=7 May 2021}}</ref>
@@ -2348,6 +2899,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 1.1
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel Generales (2M – TODO EN ABIERTO): pocos cambios antes del 4M madrileño |url=https://electomania.es/epgenerales3m21/ |language=es |work=Electomanía |date=3 May 2021}}</ref>
@@ -2369,6 +2921,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.1
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (25A): subida de la izquierda |url=https://electomania.es/ep25a21/ |language=es |work=Electomanía |date=26 April 2021}}</ref>
@@ -2390,6 +2943,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.1
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (18A): subida de PSOE y Vox, baja UP |url=https://electomania.es/epgenerales18a21/ |language=es |work=Electomanía |date=19 April 2021}}</ref>
@@ -2411,6 +2965,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 2.4
 |-
 | GAD3/NIUS<ref name="GAD3Apr21">{{cite web |title=El PSOE ganaría las elecciones generales, pero el PP se quedaría a menos de dos puntos |url=https://www.niusdiario.es/nacional/politica/encuesta-barometro-sociopolitico-gad-tres-intencion-voto-psoe-ganaria-elecciones-pp-recorda-distancias_18_3124020007.html |language=es |work=NIUS |date=18 April 2021}}</ref><ref>{{cite web |title=Encuesta electoral de GAD3 para NIUS: estimación de voto y escaños en Elecciones Generales |url=https://www.gad3.com/encuesta-electoral-de-gad3-para-nius-estimacion-de-voto-y-escanos-en-elecciones-generales/ |language=es |work=GAD3 |date=18 April 2021}}</ref>
@@ -2432,9 +2987,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 1.7
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PSOE ganaría las elecciones con un 28% de los votos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-psoe-ganaria-elecciones-28-votos_20210418607c233cc8fbb500018b1544.html |language=es |work=laSexta |date=18 April 2021}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PSOE ganaría las elecciones con un 28% de los votos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-psoe-ganaria-elecciones-28-votos_20210418607c233cc8fbb500018b1544.html |language=es |work=laSexta |date=18 April 2021}}</ref>
 | 12–16 Apr 2021
 |?
 |?
@@ -2453,7 +3009,30 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.5
+|-
+| Metroscopia<ref name="MetrosNov21"/>
+| 15 Apr 2021
+|?
+|?
+| {{Party shading/PSOE}}| '''29.8'''
+| 24.1
+| 17.6
+| 11.2
+| 2.1
+| –
+| 1.7
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 5.7
 |-
 | CIS {{smaller|(SocioMétrica)}}{{efn|name=AltCIS}}<ref>{{cite web |title=Recálculo de los datos del CIS, ajustados al voto real del 10N19. 19/04/2021 |url=https://twitter.com/SociometricaEs/status/1384101241186230279 |language=es |work=SocioMétrica |date=19 April 2021}}</ref>
 | rowspan="2"| 5–14 Apr 2021
@@ -2473,7 +3052,8 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.2
 | 0.4
 | 0.3
-| –
+| 0.0
+| 0.1
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 9.2
 |-
 | CIS<ref name="CISApr21">{{cite web |title=Barómetro de abril 2021 (Estudio nº 3318. Abril 2021) |url=http://datos.cis.es/pdf/Es3318marMT_A.pdf |language=es |work=CIS |date=19 April 2021}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3318. Barómetro de abril 2021) |url=http://datos.cis.es/pdf/3318_Estimacion.pdf |language=es |work=CIS |date=19 April 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta CIS 19/04/2021: UP-ECP-EC 10,7%, MÁS PAÍS-EQUO 1,9%, PSOE 31,5%, Cs 6,7%, PP 20,6%, VOX 15,4% |url=https://www.electograph.com/2021/04/encuesta-cis-210419.html |language=es |work=Electograph |date=19 April 2021}}</ref>
@@ -2493,6 +3073,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | –
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 10.9
 |-
 | Simple Lógica<ref name="SLApr21">{{cite web |title=Intención de voto y valoración de líderes políticos (abril 2021) |url=https://www.simplelogica.com/es/intencion-de-voto-y-valoracion-de-lideres-politicos-abril-2021/ |language=es |work=Simple Lógica |date=23 April 2021}}</ref>
@@ -2506,6 +3087,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.8
 | –
 | 2.6
+| –
 | –
 | –
 | –
@@ -2535,6 +3117,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 2.1
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel 4A: Vox recupera los 60 escaños. UP baja, Cs sube |url=https://electomania.es/ep4a21/ |language=es |work=Electomanía |date=4 April 2021}}</ref>
@@ -2556,6 +3139,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 2.4
 |-
 | NC Report/La Razón<ref>{{cite web |title=El «efecto Ayuso» coloca al PP a 1,8 puntos de Sánchez |url=https://www.larazon.es/espana/20210405/usfrjtbsgnbapgs5qgz54p7ppq.html |language=es |work=La Razón |date=4 April 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 04/04/2021: UP-ECP-EC 11,5% (28/30), PSOE 26,6% (108/110), Cs 4,0% (1/3), PP 24,8% (105/107), VOX 17,4% (59/61) |url=https://www.electograph.com/2021/04/encuesta-nc-report-210404.html |language=es |work=Electograph |date=4 April 2021}}</ref>
@@ -2572,11 +3156,12 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.2<br/>{{font|size=75%|font=Verdana|text=8}}
 | 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
 | 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
-| –
-| –
-| –
-| –
-| –
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 1.8
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (28M): la distancia entre PP y PSOE, en 2p. Ligera bajada de UP y subida de Cs |url=https://electomania.es/ep28m21/ |language=es |work=Electomanía |date=28 March 2021}}</ref>
@@ -2598,9 +3183,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 1.9
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (21M): Yolanda Díaz sube y roza los 40 escaños |url=https://electomania.es/ep21m21/ |language=es |work=Electomanía |date=21 March 2021}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (21M): Yolanda Díaz sube y roza los 40 escaños |url=https://electomania.es/electopanel-21m-yolanda-diaz-sube-y-roza-los-40-escanos/ |language=es |work=Electomanía |date=21 March 2021}}</ref>
 | 16–20 Mar 2021
 | 2,513
 |?
@@ -2619,9 +3205,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 1.7
 |-
-| Invymark/laSexta<ref name="InvyMar21">{{cite web |title=Barómetro laSexta. El PSOE ganaría las elecciones con un 28,4% de los votos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-ganaria-las-elecciones-con-un-284-de-los-votos_20210321605746a2f992530001f6d042.html |language=es |work=laSexta |date=21 March 2021}}</ref>
+| InvyMark/laSexta<ref name="InvyMar21">{{cite web |title=Barómetro laSexta. El PSOE ganaría las elecciones con un 28,4% de los votos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-ganaria-las-elecciones-con-un-284-de-los-votos_20210321605746a2f992530001f6d042.html |language=es |work=laSexta |date=21 March 2021}}</ref>
 | 15–19 Mar 2021
 |?
 |?
@@ -2640,9 +3227,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.5
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (16M): Yolanda Díaz mejoraría en votos y escaños los resultados de Iglesias en 2019 y cambia por completo el tablero político nacional |url=https://electomania.es/ep16m21/ |language=es |work=Electomanía |date=16 March 2021}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (16M): Yolanda Díaz mejoraría en votos y escaños los resultados de Iglesias en 2019 y cambia por completo el tablero político nacional |url=https://electomania.es/electopanel-16m-yolanda-diaz-mejoraria-en-votos-y-escanos-los-resultados-de-iglesias-en-2019-y-cambia-por-completo-el-tablero-politico-nacional/ |language=es |work=Electomanía |date=16 March 2021}}</ref>
 | 15 Mar 2021
 | 2,400
 |?
@@ -2661,9 +3249,32 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 1.6
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel 14M: Cs al borde de la desaparición, caería hasta el 2,5% y solo conservaría el escaño de Arrimadas |url=https://electomania.es/ep14m21/ |language=es |work=Electomanía |date=14 March 2021}}</ref>
+| Metroscopia<ref name="MetrosNov21"/>
+| 15 Mar 2021
+|?
+|?
+| {{Party shading/PSOE}}| '''27.9'''
+| 20.9
+| 19.9
+| 11.8
+| 3.0
+| –
+| 1.7
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 7.0
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel 14M: Cs al borde de la desaparición, caería hasta el 2,5% y solo conservaría el escaño de Arrimadas |url=https://electomania.es/electopanel-14m-cs-al-borde-de-la-desaparicion-caeria-hasta-el-25-y-solo-conservaria-el-escano-de-arrimadas/ |language=es |work=Electomanía |date=14 March 2021}}</ref>
 | 12–13 Mar 2021
 | 2,576
 |?
@@ -2682,6 +3293,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.9
 |-
 | CIS<ref name="CISMar21">{{cite web |title=Barómetro de marzo 2021 (Estudio nº 3313. Marzo 2021) |url=http://datos.cis.es/pdf/Es3313marMT_A.pdf |language=es |work=CIS |date=16 March 2021}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3313. Barómetro de marzo 2021) |url=http://datos.cis.es/pdf/3313_Estimacion.pdf |language=es |work=CIS |date=16 March 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta CIS 16/03/2021: UP-ECP-EC 9,6%, MÁS PAÍS-EQUO 2,0%, PSOE 31,3%, Cs 9,5%, PP 17,9%, VOX 15,0% |url=https://www.electograph.com/2021/03/encuesta-cis-210316.html |language=es |work=Electograph |date=16 March 2021}}</ref>
@@ -2703,6 +3315,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | –
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 13.4
 |-
 | Simple Lógica<ref name="SLMar21">{{cite web |title=Intención de voto y valoración de líderes políticos (marzo 2021) |url=https://www.simplelogica.com/es/intencion-de-voto-y-valoracion-de-lideres-politicos-marzo-2021/ |language=es |work=Simple Lógica |date=12 March 2021}}</ref>
@@ -2724,9 +3337,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 8.6
 |-
-| Invymark/laSexta<ref name="InvyMar21"/>
+| InvyMark/laSexta<ref name="InvyMar21"/>
 | 1–5 Mar 2021
 |?
 |?
@@ -2745,9 +3359,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.6
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (7M): Ciudadanos cae por debajo del 5% de voto |url=https://electomania.es/ep7m21/ |language=es |work=Electomanía |date=7 March 2021}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (7M): Ciudadanos cae por debajo del 5% de voto |url=https://electomania.es/electopanel-7m-ciudadanos-cae-por-debajo-del-5-de-voto/ |language=es |work=Electomanía |date=7 March 2021}}</ref>
 | 28 Feb–5 Mar 2021
 | 1,406
 |?
@@ -2766,6 +3381,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 7.3
 |-
 | Sigma Dos/El Mundo<ref>{{cite web |title=Vox sube mientras el 40% de los votantes del PP reprueba la línea de Pablo Casado |url=https://www.elmundo.es/espana/2021/03/07/60453017fdddff908d8b4649.html |language=es |work=El Mundo |date=7 March 2021}}</ref><ref>{{cite web |title=Vox gana terreno frente a todos |url=https://i.ibb.co/9WdryTh/capturada.jpg |language=es |work=El Mundo |date=8 March 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta SigmaDos 07/03/2021: UP-ECP-EC 11,7%, MÁS PAÍS-EQUO 0,9%, PSOE 27,2%, Cs 5,4%, PP 22,9%, VOX 17,4% |url=https://www.electograph.com/2021/03/encuesta-sigmados-210307.html |language=es |work=Electograph |date=7 March 2021}}</ref>
@@ -2781,6 +3397,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.9
 | 2.0
 | 2.1
+| –
 | –
 | –
 | –
@@ -2808,6 +3425,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
 |?<br/>{{font|size=75%|font=Verdana|text=2}}
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.5
 |-
 | NC Report/La Razón<ref>{{cite web |title=Derecha: un millón de votos más que en el 96 pero sin poder gobernar |url=https://www.larazon.es/espana/20210228/eim57wiyjbaw5pd3svlc22f3yy.html |language=es |work=La Razón |date=1 March 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 01/03/2021: UP-ECP-EC 10,9% (27/29), PSOE 27,4% (115/117), Cs 4,3% (3/4), PP 23,7% (97/99), VOX 18,0% (60/62) |url=https://www.electograph.com/2021/03/encuesta-nc-report-210301.html |language=es |work=Electograph |date=1 March 2021}}</ref>
@@ -2820,18 +3438,19 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 10.9<br/>{{font|size=75%|font=Verdana|text=27/29}}
 | 4.3<br/>{{font|size=75%|font=Verdana|text=3/4}}
 | 3.3<br/>{{font|size=75%|font=Verdana|text=13}}
-| –
+| 2.5<br/>{{font|size=75%|font=Verdana|text=?}}
 | 2.2<br/>{{font|size=75%|font=Verdana|text=8/9}}
 | 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
 | 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
 | –
 | –
 | –
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | –
 | –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.7
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (27F): Vox en máximo histórico en voto y escaños, se alza a menos de 2p del PP |url=https://electomania.es/ep27f21/ |language=es |work=Electomanía |date=28 February 2021}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (27F): Vox en máximo histórico en voto y escaños, se alza a menos de 2p del PP |url=https://electomania.es/electopanel-27f-vox-en-maximo-historico-en-voto-y-escanos-se-alza-a-menos-de-2p-del-pp/ |language=es |work=Electomanía |date=28 February 2021}}</ref>
 | 20–27 Feb 2021
 | 1,406
 |?
@@ -2850,6 +3469,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 8.2
 |-
 | GAD3/NIUS<ref name="GAD3Mar21">{{cite web |title=Podemos sufre todo el desgaste del Gobierno de coalición y PP y Vox suben |url=https://www.niusdiario.es/nacional/politica/barometro-niusdiario-gad3-podemos-desgaste-gobierno-coalicion-pp-vox-suben_18_3097770327.html |language=es |work=NIUS |date=1 March 2021}}</ref><ref>{{cite web |title=Primer barómetro sociopolítico de GAD3 para NIUS con intención de voto |url=https://www.gad3.com/barometro-sociopolitico-para-nius/ |language=es |work=GAD3 |date=1 March 2021}}</ref>
@@ -2871,6 +3491,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.4
 |-
 | DYM/Henneo<ref>{{cite web |title=El resultado de las catalanas debilita al PP y la izquierda recupera espacio pese al alza de Vox |url=https://www.20minutos.es/noticia/4599843/0/el-batacazo-de-las-catalanas-debilita-al-pp-y-la-izquierda-recupera-espacio-pese-al-alza-de-vox/ |language=es |work=20 minutos |date=26 February 2021}}</ref><ref>{{cite web |title=El resultado de Cataluña da alas al PSOE |url=https://www.diariodesevilla.es/espana/encuesta-da-alas-PSOE-DYM_0_1550246809.html |language=es |work=Diario de Sevilla |date=26 February 2021}}</ref>
@@ -2892,9 +3513,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 5.8
 |-
-| Celeste-Tel/Onda Cero<ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Febrero 2021 |url=https://www.celeste-tel.es/wp-content/uploads/2021/02/Bar%C3%B3metro-Electoral-Mensual-Febrero2021.pdf |language=es |work=Celeste-Tel |date=27 February 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta Celeste-Tel 27/02/2021: UP-ECP-EC 10,1% (25), MÁS PAÍS-EQUO 2,6% (3), PSOE 28,3% (118), Cs 4,6% (5), PP 22,3% (96), VOX 18,2% (60) |url=https://www.electograph.com/2021/02/encuesta-celeste-tel-210227.html |language=es |work=Electograph |date=27 February 2021}}</ref>
+| Celeste-Tel/Onda Cero<ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Febrero 2021 |url=https://www.celeste-tel.es/wp-content/uploads/2021/02/Bar%C3%B3metro-Electoral-Mensual-Febrero2021.pdf |language=es |work=Celeste-Tel |date=27 February 2021}}</ref>
 | 17–23 Feb 2021
 | 1,100
 | 64.4
@@ -2913,6 +3535,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.0
 |-
 | Hamalgama Métrica/OKDiario<ref>{{cite web |title=Cataluña dispara a Vox: sube 12 escaños al absorber voto de Cs y se acerca al PP que gana 4 escaños |url=https://okdiario.com/espana/cataluna-dispara-vox-sube-12-escanos-absorber-voto-cs-acerca-pp-que-gana-4-escanos-6867824 |language=es |work=OKDiario |date=24 February 2021}}</ref>
@@ -2925,7 +3548,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 9.9<br/>{{font|size=75%|font=Verdana|text=26}}
 | 3.1<br/>{{font|size=75%|font=Verdana|text=3}}
 | 3.4<br/>{{font|size=75%|font=Verdana|text=14}}
-| –
+| 2.4<br/>{{font|size=75%|font=Verdana|text=?}}
 | –
 |?<br/>{{font|size=75%|font=Verdana|text=6}}
 |?<br/>{{font|size=75%|font=Verdana|text=5}}
@@ -2934,9 +3557,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | –
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.6
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (21F): Vox supera el 18% y se sitúa en el límite del empate técnico con el PP |url=https://electomania.es/ep21f21/ |language=es |work=Electomanía |date=21 February 2021}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (21F): Vox supera el 18% y se sitúa en el límite del empate técnico con el PP |url=https://electomania.es/electopanel-21f-vox-supera-el-18-y-se-situa-en-el-limite-del-empate-tecnico-con-el-pp/ |language=es |work=Electomanía |date=21 February 2021}}</ref>
 | 17–20 Feb 2021
 | 1,406
 |?
@@ -2955,6 +3579,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 8.5
 |-
 | Sigma Dos/El Mundo<ref>{{cite web |title=Vox recorta terreno al PP tras el 14-F pero sigue a ocho puntos |url=https://www.elmundo.es/espana/2021/02/22/6032bced21efa06c658b45f2.html |language=es |work=El Mundo |date=22 February 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta SigmaDos 22/02/2021: UP-ECP-EC 11,9%, MÁS PAÍS-EQUO 0,9%, PSOE 27,6%, Cs 6,3%, PP 23,4%, VOX 15,6% |url=https://www.electograph.com/2021/02/encuesta-sigmados-210222.html |language=es |work=Electograph |date=22 February 2021}}</ref>
@@ -2976,9 +3601,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.2
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel Especial (16F): TERREMOTO ELECTORAL tras Cataluña |url=https://electomania.es/ep16f21/ |language=es |work=Electomanía |date=17 February 2021}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel Especial (16F): TERREMOTO ELECTORAL tras Cataluña |url=https://electomania.es/electopanel-especial-16f-terremoto-electoral-tras-cataluna/ |language=es |work=Electomanía |date=17 February 2021}}</ref>
 | 14–16 Feb 2021
 | 1,240
 |?
@@ -2997,9 +3623,32 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 7.4
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel 13F: bajada del PP, subida de Vox |url=https://electomania.es/ep13f21/ |language=es |work=Electomanía |date=13 February 2021}}</ref>
+| Metroscopia<ref name="MetrosNov21"/>
+| 15 Feb 2021
+|?
+|?
+| {{Party shading/PSOE}}| '''28.7'''
+| 19.6
+| 19.1
+| 11.3
+| 4.6
+| –
+| 1.9
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 9.1
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel 13F: bajada del PP, subida de Vox |url=https://electomania.es/electopanel-13f-bajada-del-pp-subida-de-vox/ |language=es |work=Electomanía |date=13 February 2021}}</ref>
 | 6–12 Feb 2021
 | 2,530
 |?
@@ -3018,6 +3667,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.4
 |-
 | CIS {{smaller|(SocioMétrica)}}{{efn|name=AltCIS}}<ref>{{cite web |title=Recálculo de los datos del CIS, ajustados al voto real del 10N19. 21/02/2021 |url=https://twitter.com/SociometricaEs/status/1363378255169015809 |language=es |work=SocioMétrica |date=21 February 2021}}</ref>
@@ -3039,6 +3689,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7
 | 0.3
 | 0.2
+| 0.3
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 8.4
 |-
 | CIS<ref name="CISFeb21">{{cite web |title=Barómetro de febrero 2021 (Estudio nº 3309. Febrero 2021) |url=http://datos.cis.es/pdf/Es3309marMT_A.pdf |language=es |work=CIS |date=18 February 2021}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3309. Barómetro de febrero 2021) |url=http://datos.cis.es/pdf/3309_Estimacion.pdf |language=es |work=CIS |date=18 February 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta CIS 18/02/2021: UP-ECP-EC 11,2%, MÁS PAÍS-EQUO 1,7%, PSOE 30,7%, Cs 9,3%, PP 18,8%, VOX 13,6% |url=https://www.electograph.com/2021/02/encuesta-cis-210218.html |language=es |work=Electograph |date=18 February 2021}}</ref>
@@ -3058,9 +3709,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 11.9
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (7F): el PSOE sube ligeramente. Vox por debajo de los 50 escaños y rozando el 15% |url=https://electomania.es/ep7f21/ |language=es |work=Electomanía |date=7 February 2021}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (7F): el PSOE sube ligeramente. Vox por debajo de los 50 escaños y rozando el 15% |url=https://electomania.es/electopanel-7f-el-psoe-sube-ligeramente-vox-por-debajo-de-los-50-escanos-y-rozando-el-15/ |language=es |work=Electomanía |date=7 February 2021}}</ref>
 | 30 Jan–6 Feb 2021
 | 1,814
 |?
@@ -3079,6 +3731,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.7
 |-
 | Simple Lógica<ref name="SLFeb21">{{cite web |title=Intención de voto y valoración de líderes políticos (febrero 2021) |url=https://www.simplelogica.com/es/intencion-de-voto-y-valoracion-de-lideres-politicos-febrero-2021/ |language=es |work=Simple Lógica |date=19 February 2021}}</ref>
@@ -3100,9 +3753,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 10.0
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (30E): situación estable, con el PP duplicando a Vox en escaños |url=https://electomania.es/ep30e21/ |language=es |work=Electomanía |date=30 January 2021}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (30E): situación estable, con el PP duplicando a Vox en escaños |url=https://electomania.es/electopanel-30e-situacion-estable-con-el-pp-duplicando-a-vox-en-escanos/ |language=es |work=Electomanía |date=30 January 2021}}</ref>
 | 22–29 Jan 2021
 | 1,493
 |?
@@ -3121,6 +3775,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.6
 |-
 | CIS {{smaller|(SocioMétrica)}}{{efn|name=AltCIS}}<ref>{{cite web |title=Recálculo de los datos del CIS, ajustados al voto real del 10N19. 18/02/2021 |url=https://twitter.com/SociometricaEs/status/1354769980672385030 |language=es |work=SocioMétrica |date=28 January 2021}}</ref>
@@ -3142,6 +3797,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6
 | 0.8
 | 0.1
+| 0.0
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.4
 |-
 | CIS<ref name="CISJan21">{{cite web |title=Barómetro de enero 2021 (Estudio nº 3307. Enero 2021) |url=http://datos.cis.es/pdf/Es3307marMT_A.pdf |language=es |work=CIS |date=28 January 2021}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3307. Barómetro de enero 2021) |url=http://datos.cis.es/pdf/3307_Estimacion.pdf |language=es |work=CIS |date=28 January 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta CIS 28/01/2021: UP-ECP-EC 10,7%, MÁS PAÍS-EQUO 1,5%, PSOE 30,7%, Cs 9,3%, PP 20,5%, VOX 13,0% |url=https://www.electograph.com/2021/01/encuesta-cis-210128.html |language=es |work=Electograph |date=28 January 2021}}</ref>
@@ -3161,9 +3817,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.6<br/>{{font|size=75%|font=Verdana|text=3}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 10.2
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (24E): bajada de la izquierda, que se deja varios escaños |url=https://electomania.es/ep24e21/ |language=es |work=Electomanía |date=24 January 2021}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (24E): bajada de la izquierda, que se deja varios escaños |url=https://electomania.es/electopanel-24e-bajada-de-la-izquierda-que-se-deja-varios-escanos/ |language=es |work=Electomanía |date=24 January 2021}}</ref>
 | 18–22 Jan 2021
 | 1,470
 |?
@@ -3182,9 +3839,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.9
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PSOE obtendría el 27% de los votos seguido del PP (23%) |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-obtendria-el-27-de-los-votos-seguido-del-pp-23_20210124600d73f2ce4427000169c7c3.html |language=es |work=laSexta |date=24 January 2021}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PSOE obtendría el 27% de los votos seguido del PP (23%) |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-obtendria-el-27-de-los-votos-seguido-del-pp-23_20210124600d73f2ce4427000169c7c3.html |language=es |work=laSexta |date=24 January 2021}}</ref>
 | 18–22 Jan 2021
 |?
 |?
@@ -3203,9 +3861,32 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.8
 |-
-| Celeste-Tel/Onda Cero<ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Enero 2021 |url=https://www.celeste-tel.es/wp-content/uploads/2021/01/Bar%C3%B3metro-Electoral-Mensual-Enero2021.pdf |language=es |work=Celeste-Tel |date=21 January 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta Celeste-Tel 21/01/2021: UP-ECP-EC 11,8% (30), MÁS PAÍS-EQUO 2,5% (3), PSOE 27,0% (113), Cs 6,7% (9), PP 23,7% (101), VOX 14,8% (51) |url=https://www.electograph.com/2021/01/encuesta-celeste-tel-210121.html |language=es |work=Electograph |date=21 January 2021}}</ref>
+| Metroscopia<ref name="MetrosNov21"/><ref name="MetrosEG"/>
+| 15 Jan 2021
+|?
+|?
+| {{Party shading/PSOE}}| '''27.2'''
+| 22.8
+| 16.5
+| 11.5
+| 6.4
+| –
+| 1.8
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.4
+|-
+| Celeste-Tel/Onda Cero<ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Enero 2021 |url=https://www.celeste-tel.es/wp-content/uploads/2021/01/Bar%C3%B3metro-Electoral-Mensual-Enero2021.pdf |language=es |work=Celeste-Tel |date=21 January 2021}}</ref>
 | 11–15 Jan 2021
 | 1,100
 | 64.7
@@ -3224,9 +3905,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.3
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (17E): Vox continúa a la baja y marca su peor dato desde agosto. Cs en el 7% |url=https://electomania.es/ep17e21/ |language=es |work=Electomanía |date=17 January 2021}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (17E): Vox continúa a la baja y marca su peor dato desde agosto. Cs en el 7% |url=https://electomania.es/electopanel-17e-vox-continua-a-la-baja-y-marca-su-peor-dato-desde-agosto-cs-en-el-7/ |language=es |work=Electomanía |date=17 January 2021}}</ref>
 | 11–15 Jan 2021
 | 1,382
 |?
@@ -3245,6 +3927,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.1
 |-
 | Hamalgama Métrica/OKDiario<ref>{{cite web |title=El PP sube a 105 escaños y se queda a sólo 4 del PSOE, Vox crece a 55 y Podemos y Cs siguen cayendo |url=https://okdiario.com/espana/pp-sube-105-escanos-queda-solo-4-del-psoe-vox-crece-55-podemos-cs-siguen-cayendo-6704995 |language=es |work=OKDiario |date=18 January 2021}}</ref>
@@ -3265,6 +3948,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 |?<br/>{{font|size=75%|font=Verdana|text=2}}
 |?<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 2.0
 |-
@@ -3287,9 +3971,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 5.2
 |-
-| SyM Consulting<ref>{{cite web |title=Estimación generales Oleada Enero 2021 |url=https://twitter.com/Barometrocm/status/1350135779260059650 |language=es |work=SyM Consulting |date=15 January 2021}}</ref>
+| SyM Consulting<ref>{{cite web |title=Estimación generales Oleada Enero 2021 |url=https://twitter.com/Barometrocm/status/1350135779260059650 |language=es |work=SyM Consulting |date=15 January 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta SyM Consulting 15/01/2021: UP-ECP-EC 9,6%, PSOE 26,7%, Cs 6,6%, PP 24,6%, VOX 14,2% |url=https://www.electograph.com/2021/01/encuesta-sym-consulting-210115.html |language=es |work=Electograph |date=15 January 2021}}</ref>
 | 7–10 Jan 2021
 | 2,915
 | 70.0
@@ -3308,9 +3993,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 2.1
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (10E): situación estable, sin apenas diferencias |url=https://electomania.es/ep10e21/ |language=es |work=Electomanía |date=10 January 2021}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (10E): situación estable, sin apenas diferencias |url=https://electomania.es/electopanel-10e-situacion-estable-sin-apenas-diferencias/ |language=es |work=Electomanía |date=10 January 2021}}</ref>
 | 3–9 Jan 2021
 | 1,562
 |?
@@ -3329,6 +4015,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.4
 |-
 | SocioMétrica/El Español<ref>{{cite web |title=Pedro Sánchez y Pablo Iglesias pierden 18 escaños en un año pero retendrían el poder con las minorías |url=https://www.elespanol.com/espana/20210107/pedro-sanchez-pablo-iglesias-pierden-retendrian-minorias/549196091_0.html |language=es |work=El Español |date=7 January 2021}}</ref>
@@ -3350,9 +4037,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 3.8
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (3E): Casado sigue subiendo a costa de Abascal |url=https://electomania.es/ep3e21/ |language=es |work=Electomanía |date=3 January 2021}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (3E): Casado sigue subiendo a costa de Abascal |url=https://electomania.es/electopanel-3e-casado-sigue-subiendo-a-costa-de-abascal/ |language=es |work=Electomanía |date=3 January 2021}}</ref>
 | 28 Dec–2 Jan 2021
 | 1,321
 |?
@@ -3371,6 +4059,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.3
 |}
 
@@ -3498,7 +4187,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.2
 |-
-| Invymark/laSexta<ref name="InvyDec20">{{cite web |title=Barómetro laSexta. El PSOE lidera en intención de voto a más de 4 puntos de distancia del PP |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-lidera-en-intencion-de-voto-con-mas-de-4-puntos-de-distancia-del-pp_202012205fdf4e76ae19b30001f68e10.html |language=es |work=laSexta |date=20 December 2020}}</ref>
+| InvyMark/laSexta<ref name="InvyDec20">{{cite web |title=Barómetro laSexta. El PSOE lidera en intención de voto a más de 4 puntos de distancia del PP |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-lidera-en-intencion-de-voto-con-mas-de-4-puntos-de-distancia-del-pp_202012205fdf4e76ae19b30001f68e10.html |language=es |work=laSexta |date=20 December 2020}}</ref>
 | 14–18 Dec 2020
 |?
 |?
@@ -3560,6 +4249,27 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 5.0
+|-
+| Metroscopia<ref name="MetrosNov21"/>
+| 15 Dec 2020
+|?
+|?
+| {{Party shading/PSOE}}| '''27.0'''
+| 21.9
+| 16.9
+| 11.1
+| 6.2
+| –
+| 1.3
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 5.1
 |-
 | Celeste-Tel/Onda Cero<ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Diciembre de 2020 |url=https://www.celeste-tel.es/wp-content/uploads/2020/12/Bar%C3%B3metro-Electoral-Mensual-Diciembre2020.pdf |language=es |work=Celeste-Tel |date=23 December 2020}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta Celeste-Tel 23/12/2020: UP-ECP-EC 12,0% (31), MÁS PAÍS-EQUO 2,7% (3), PSOE 27,1% (114), Cs 6,5% (9), PP 23,3% (99), VOX 14,9% (51) |url=https://www.electograph.com/2020/12/encuesta-celeste-tel-201223.html |language=es |work=Electograph |date=23 December 2020}}</ref>
 | 9–15 Dec 2020
@@ -3834,6 +4544,27 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.1
 |-
+| Metroscopia<ref name="MetrosNov21"/>
+| 15 Nov 2020
+|?
+|?
+| {{Party shading/PSOE}}| '''26.5'''
+| 24.3
+| 15.3
+| 11.5
+| 6.0
+| –
+| 1.5
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 2.2
+|-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (15N): goteo de apoyos a la derecha. Más País logra el segundo escaño |url=https://electomania.es/ep15n20/ |language=es |work=Electomanía |date=15 November 2020}}</ref>
 | 10–13 Nov 2020
 | 1,290
@@ -4000,7 +4731,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.9
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PSOE ganaría las elecciones y el PP sube más de dos puntos respecto al 10-N |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-ganaria-las-elecciones-y-el-pp-sube-mas-de-dos-puntos-respecto-al-10-n_202011015f9eb95f9a1c4e000164b116.html |language=es |work=laSexta |date=1 November 2020}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PSOE ganaría las elecciones y el PP sube más de dos puntos respecto al 10-N |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-ganaria-las-elecciones-y-el-pp-sube-mas-de-dos-puntos-respecto-al-10-n_202011015f9eb95f9a1c4e000164b116.html |language=es |work=laSexta |date=1 November 2020}}</ref>
 | 26–30 Oct 2020
 |?
 |?
@@ -4189,6 +4920,27 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.6
 |-
+| Metroscopia<ref name="MetrosNov21"/>
+| 15 Oct 2020
+|?
+|?
+| {{Party shading/PSOE}}| '''28.5'''
+| 22.4
+| 18.0
+| 10.8
+| 5.2
+| –
+| 2.0
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.1
+|-
 | GIPEyOP<ref>{{cite web |title=Informe Preliminar GIPEyOP. Encuesta COVID-19 (Octubre 2020) |url=https://www.uv.es/pavia/Informe_GIPEyOP_encuesta_COVID_octubre.pdf |language=es |work=GIPEyOP |date=27 November 2020}}</ref>
 | 23 Sep–14 Oct 2020
 | 1,955
@@ -4231,7 +4983,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.0
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PSOE ganaría ahora las elecciones con un 28,8% de los votos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-ganaria-ahora-las-elecciones-con-un-288-de-los-votos_202010115f82f93b7c72380001cc5a2a.html |language=es |work=laSexta |date=11 October 2020}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PSOE ganaría ahora las elecciones con un 28,8% de los votos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-ganaria-ahora-las-elecciones-con-un-288-de-los-votos_202010115f82f93b7c72380001cc5a2a.html |language=es |work=laSexta |date=11 October 2020}}</ref>
 | 5–9 Oct 2020
 |?
 |?
@@ -4397,7 +5149,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 7.2
 |-
-| Invymark/laSexta<ref name="InvyDec20"/>
+| InvyMark/laSexta<ref name="InvyDec20"/>
 | 21–25 Sep 2020
 |?
 |?
@@ -4544,7 +5296,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 7.3
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta: un 60% de los encuestados prefiere a Ciudadanos antes que a los partidos independentistas para pactar los Presupuestos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-un-60-de-los-encuestados-prefiere-a-ciudadanos-antes-que-a-los-partidos-independentistas-para-pactar-los-presupuestos_202009135f5e0e35653ee200019a7e07.html |language=es |work=laSexta |date=13 September 2020}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta: un 60% de los encuestados prefiere a Ciudadanos antes que a los partidos independentistas para pactar los Presupuestos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-un-60-de-los-encuestados-prefiere-a-ciudadanos-antes-que-a-los-partidos-independentistas-para-pactar-los-presupuestos_202009135f5e0e35653ee200019a7e07.html |language=es |work=laSexta |date=13 September 2020}}</ref>
 | 7–11 Sep 2020
 |?
 |?
@@ -4920,7 +5672,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 5.9
 |-
-| Metroscopia<ref name="MetrosSep20-2"/><ref>{{cite web |title=No es un día cualquiera - Opinión pública y las buenas noticias desapercibidas - Primera hora - 26/07/20 |url=https://www.rtve.es/alacarta/audios/no-es-un-dia-cualquiera/no-dia-cualquiera-opinion-publica-buenas-noticias-desapercibidas-primera-hora-26-07-20/5632386/ |language=es |work=RTVE |date=26 July 2020}}</ref>
+| Metroscopia<ref name="MetrosNov21"/><ref name="MetrosSep20-2"/><ref>{{cite web |title=No es un día cualquiera - Opinión pública y las buenas noticias desapercibidas - Primera hora - 26/07/20 |url=https://www.rtve.es/alacarta/audios/no-es-un-dia-cualquiera/no-dia-cualquiera-opinion-publica-buenas-noticias-desapercibidas-primera-hora-26-07-20/5632386/ |language=es |work=RTVE |date=26 July 2020}}</ref>
 | 26 Jul 2020
 |?
 |?
@@ -4930,7 +5682,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 10.7
 | 5.3
 | –
-| –
+| 1.3
 | –
 | –
 | –
@@ -4941,7 +5693,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.9
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro de laSexta: el PSOE volvería a ganar las elecciones y Vox se consolidaría como tercera fuerza |url=https://www.lasexta.com/noticias/nacional/barometro-de-lasexta-el-psoe-volveria-a-ganar-las-elecciones-con-el-29-de-apoyos-y-vox-se-consolidaria-como-tercera-fuerza_202007265f1da8d3f5f4b20001d960b9.html |language=es |work=laSexta |date=26 July 2020}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro de laSexta: el PSOE volvería a ganar las elecciones y Vox se consolidaría como tercera fuerza |url=https://www.lasexta.com/noticias/nacional/barometro-de-lasexta-el-psoe-volveria-a-ganar-las-elecciones-con-el-29-de-apoyos-y-vox-se-consolidaria-como-tercera-fuerza_202007265f1da8d3f5f4b20001d960b9.html |language=es |work=laSexta |date=26 July 2020}}</ref>
 | 20–24 Jul 2020
 |?
 |?
@@ -5214,7 +5966,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 5.0
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El 74,5% de los encuestados apoya un pacto entre PP y Gobierno para la reconstrucción económica |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-745-de-los-encuestados-apoya-un-pacto-entre-pp-y-gobierno-para-la-reconstruccion-economica_202006285ef893f679400600019940c3.html |language=es |work=laSexta |date=28 June 2020}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El 74,5% de los encuestados apoya un pacto entre PP y Gobierno para la reconstrucción económica |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-745-de-los-encuestados-apoya-un-pacto-entre-pp-y-gobierno-para-la-reconstruccion-economica_202006285ef893f679400600019940c3.html |language=es |work=laSexta |date=28 June 2020}}</ref>
 | 22–26 Jun 2020
 |?
 |?
@@ -5318,6 +6070,27 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 2.7
+|-
+| Metroscopia<ref name="MetrosNov21"/>
+| 15 Jun 2020
+|?
+|?
+| {{Party shading/PSOE}}| '''29.4'''
+| 22.8
+| 14.3
+| 11.9
+| 6.7
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.6
 |-
 | NC Report/La Razón<ref>{{cite web |title=Casado se queda a 200.000 votos de Sánchez y el giro al centro penaliza a Cs |url=https://www.larazon.es/espana/20200615/t5c27hi27zaozbanrwgdfeflni.html |language=es |work=La Razón |date=15 June 2020}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 15/06/2020: UP-ECP-EC 12,1% (29/31), MÁS PAÍS-EQUO 1,9% (2), PSOE 26,0% (109/111), Cs 5,6% (7/9), PP 25,1% (109/111), VOX 14,8% (47/49) |url=https://www.electograph.com/2020/06/encuesta-nc-report-200615.html |language=es |work=Electograph |date=15 June 2020}}</ref>
 | 9–13 Jun 2020
@@ -5527,7 +6300,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 2.5
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PSOE conseguiría el 26,9% del voto ya decidido |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-conseguiria-el-269-del-voto-ya-decidido_202005315ed3ac3f4792350001fc65a2.html |language=es |work=laSexta |date=31 May 2020}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PSOE conseguiría el 26,9% del voto ya decidido |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-conseguiria-el-269-del-voto-ya-decidido_202005315ed3ac3f4792350001fc65a2.html |language=es |work=laSexta |date=31 May 2020}}</ref>
 | 25–29 May 2020
 |?
 |?
@@ -5737,15 +6510,15 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.1
 |-
-| Metroscopia<ref>{{cite web |title=Las polémicas de Díaz Ayuso revientan la estrategia del PP |url=https://elpais.com/espana/2020-05-13/las-polemicas-de-diaz-ayuso-revientan-la-estrategia-del-pp.html |language=es |work=El País |date=13 May 2020}}</ref><ref>{{cite web |title=Las mañanas de RNE |url=https://twitter.com/crparlamentaria/status/1260897523973197824 |language=es |work=RNE |date=14 May 2020}}</ref><ref>{{cite web |title=Encuesta de metroscopia (valores aproximados) |url=https://twitter.com/Electograph/status/1260923257923854336 |language=es |work=Electograph |date=14 May 2020}}</ref>
+| Metroscopia<ref name="MetrosNov21"/><ref>{{cite web |title=Las polémicas de Díaz Ayuso revientan la estrategia del PP |url=https://elpais.com/espana/2020-05-13/las-polemicas-de-diaz-ayuso-revientan-la-estrategia-del-pp.html |language=es |work=El País |date=13 May 2020}}</ref><ref>{{cite web |title=Las mañanas de RNE |url=https://twitter.com/crparlamentaria/status/1260897523973197824 |language=es |work=RNE |date=14 May 2020}}</ref><ref>{{cite web |title=Encuesta de metroscopia (valores aproximados) |url=https://twitter.com/Electograph/status/1260923257923854336 |language=es |work=Electograph |date=14 May 2020}}</ref>
 | 11–13 May 2020
 |?
 |?
-| {{Party shading/PSOE}}| '''28.0'''
+| {{Party shading/PSOE}}| '''28.3'''
 | 24.0
-| 13.0
-| 11.0
-| 7.0
+| 13.1
+| 11.2
+| 6.8
 | –
 | –
 | –
@@ -5756,7 +6529,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
-| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.0
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.3
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (13My): sorpasso del PP al PSOE en escaños. Los diputados del PNV podrían decantar la balanza |url=https://electomania.es/ep13my20/ |language=es |work=Electomanía |date=13 May 2020}}</ref>
 | 11–13 May 2020
@@ -5966,7 +6739,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 2.8
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta: los sanitarios, los más valorados durante la crisis del coronavirus y la monarquía suspende |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-sanitarios-mas-valorados-crisis-coronavirus-monarquia-suspende_202005045eaff0a980205c0001ff6619.html |language=es |work=laSexta |date=4 May 2020}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta: los sanitarios, los más valorados durante la crisis del coronavirus y la monarquía suspende |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-sanitarios-mas-valorados-crisis-coronavirus-monarquia-suspende_202005045eaff0a980205c0001ff6619.html |language=es |work=laSexta |date=4 May 2020}}</ref>
 | 27 Apr–1 May 2020
 |?
 |?
@@ -6071,15 +6844,15 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 2.8
 |-
-| Metroscopia<ref name="MetrosSep20-2"/>
+| Metroscopia<ref name="MetrosNov21"/><ref name="MetrosSep20-2"/>
 | 20–24 Apr 2020
 |?
 |?
 | {{Party shading/PSOE}}| '''26.7'''
 | 25.1
-| –
-| –
-| –
+| 13.6
+| 12.0
+| 5.6
 | –
 | –
 | –
@@ -6510,7 +7283,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.8
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PSOE ganaría las elecciones generales con el 28,8% de los votos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-ganaria-las-elecciones-generales-con-el-288-de-los-votos_202003075e63ae1e7795c700018e83bb.html |language=es |work=laSexta |date=7 March 2020}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PSOE ganaría las elecciones generales con el 28,8% de los votos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-ganaria-las-elecciones-generales-con-el-288-de-los-votos_202003075e63ae1e7795c700018e83bb.html |language=es |work=laSexta |date=7 March 2020}}</ref>
 | 2–6 Mar 2020
 |?
 |?
@@ -6636,7 +7409,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 7.3
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta: el PSOE se mantiene como primera fuerza con el 29% del voto |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-se-mantiene-como-primera-fuerza-con-el-29-del-voto_202002235e5281750cf2a8ef1789f1bc.html |language=es |work=laSexta |date=23 February 2020}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta: el PSOE se mantiene como primera fuerza con el 29% del voto |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-se-mantiene-como-primera-fuerza-con-el-29-del-voto_202002235e5281750cf2a8ef1789f1bc.html |language=es |work=laSexta |date=23 February 2020}}</ref>
 | 17–21 Feb 2020
 |?
 |?
@@ -6656,6 +7429,27 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 8.1
+|-
+| Metroscopia<ref name="MetrosNov21"/>
+| 15 Feb 2020
+|?
+|?
+| {{Party shading/PSOE}}| '''26.9'''
+| 21.0
+| 16.2
+| 13.8
+| 4.8
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 5.9
 |-
 | NC Report/La Razón<ref>{{cite web |title=La coalición de gobierno sólo desgasta al PSOE |url=https://www.larazon.es/espana/20200217/2p3gexyx6rfuncs6n7t5lbjdui.html |language=es |work=La Razón |date=17 February 2020}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 17/02/2020: UP-ECP-EC 13,2% (34/36), MÁS PAÍS-EQUO 1,7% (2), PSOE 26,9% (114/116), Cs 5,6% (8), PP 22,2% (92/94), VOX 16,1% (54/56) |url=https://www.electograph.com/2020/02/encuesta-nc-report-200217.html |language=es |work=Electograph |date=17 February 2020}}</ref>
 | 6–14 Feb 2020
@@ -6802,7 +7596,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.9
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta: Los socialistas retienen el 29,7% del voto ya decidido |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-alcanza-el-297-del-voto-ya-decidido_202002025e36d4f20cf2e7657595d56d.html |language=es |work=laSexta |date=2 February 2020}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta: Los socialistas retienen el 29,7% del voto ya decidido |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-alcanza-el-297-del-voto-ya-decidido_202002025e36d4f20cf2e7657595d56d.html |language=es |work=laSexta |date=2 February 2020}}</ref>
 | 27–31 Jan 2020
 |?
 |?
@@ -6928,7 +7722,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.3<br/>{{font|size=75%|font=Verdana|text=?}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.5
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta: El PSOE volvería ganar las elecciones ampliando su margen con el PP y Vox ganaría más apoyos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-volveria-ganar-las-elecciones-ampliando-su-margen-con-el-pp-y-vox-ganaria-mas-apoyos_202001195e2459f20cf20f1d1a881bee.html |language=es |work=laSexta |date=19 January 2020}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta: El PSOE volvería ganar las elecciones ampliando su margen con el PP y Vox ganaría más apoyos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-volveria-ganar-las-elecciones-ampliando-su-margen-con-el-pp-y-vox-ganaria-mas-apoyos_202001195e2459f20cf20f1d1a881bee.html |language=es |work=laSexta |date=19 January 2020}}</ref>
 | 13–17 Jan 2020
 |?
 |?
@@ -7071,7 +7865,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.2
 |-
-| Invymark/laSexta<ref>{{cite web |title=Barómetro laSexta: El PSOE ganaría las elecciones con más apoyos que el 10N: aglutinaría el 29,9% de los votos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-ganaria-las-elecciones-con-mas-votos-que-el-10n-aglutinaria-el-299-de-los-votos_202001125e1b23eb0cf2b262340a155b.html |language=es |work=laSexta |date=12 January 2020}}</ref>
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta: El PSOE ganaría las elecciones con más apoyos que el 10N: aglutinaría el 29,9% de los votos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-el-psoe-ganaria-las-elecciones-con-mas-votos-que-el-10n-aglutinaria-el-299-de-los-votos_202001125e1b23eb0cf2b262340a155b.html |language=es |work=laSexta |date=12 January 2020}}</ref>
 | 7–10 Jan 2020
 |?
 |?
@@ -7220,6 +8014,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="width:35px;"| [[File:BNG logo.svg|30px|link=Galician Nationalist Bloc|BNG]]
 ! style="width:35px;"| [[File:Logo Navarra Suma.png|30px|link=Navarra Suma|NA+]]
 ! style="width:35px;"| [[Regionalist Party of Cantabria|PRC]]
+! style="width:35px;"| [[Teruel Existe|TE]]
 ! style="width:30px;" rowspan="2"| Lead
 |-
 ! style="background:{{Spanish Socialist Workers' Party/meta/color}};"|
@@ -7237,8 +8032,9 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Galician Nationalist Bloc/meta/color}};"|
 ! style="background:{{Navarra Suma/meta/color}};"|
 ! style="background:{{Regionalist Party of Cantabria/meta/color}};"|
+! style="background:{{Teruel Existe/meta/color}};"|
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (29D): sigue el empate entre bloques. Bajan Cs y Vox, suben UP y PP |url=https://electomania.es/ep29d/ |language=es |work=Electomanía |date=29 December 2019}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (29D): sigue el empate entre bloques. Bajan Cs y Vox, suben UP y PP |url=https://electomania.es/electopanel-29d-sigue-el-empate-entre-bloques-bajan-cs-y-vox-suben-up-y-pp/ |language=es |work=Electomanía |date=29 December 2019}}</ref>
 | 25–28 Dec 2019
 | 1,250
 |?
@@ -7257,6 +8053,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.2
 |-
 | Sigma Dos/El Mundo<ref>{{cite web |title=La polarización dispara a Vox y Unidas Podemos a costa de PP y PSOE |url=https://www.elmundo.es/espana/2020/01/02/5e0cde3dfdddffaa548b459f.html |language=es |work=El Mundo |date=2 January 2020}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta SigmaDos 02/01/2020: UP-ECP-EC 15,4%, MÁS PAÍS-EQUO 2,3%, PSOE 27,5%, Cs 4,8%, PP 20,1%, VOX 16,0% |url=https://www.electograph.com/2020/01/encuesta-sigmados-200102.html |language=es |work=Electograph |date=2 January 2020}}</ref>
@@ -7272,6 +8069,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.3
 | 2.0
 | 1.6
+| –
 | –
 | –
 | –
@@ -7299,6 +8097,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
 |?<br/>{{font|size=75%|font=Verdana|text=2}}
 |?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.0
 |-
 | SocioMétrica/El Español<ref>{{cite web |title=Vox superaría el 16% y rozaría los 60 escaños si se celebrasen unas terceras elecciones |url=https://www.elespanol.com/espana/politica/20191223/vox-superaria-rozaria-escanos-celebrasen-terceras-elecciones/453955181_0.html |language=es |work=El Español |date=23 December 2019}}</ref>
@@ -7320,6 +8119,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 5.6
 |-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (19D): vuelve el empate entre bloques. Teruel Existe continúa siendo primera fuerza en su provincia |url=https://electomania.es/electopanel-19d-vuelve-el-empate-entre-bloques-teruel-existe-continua-siendo-primera-fuerza-en-su-provincia/ |language=es |work=Electomanía |date=19 December 2019}}</ref>
@@ -7341,6 +8141,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.6
 |-
 | CIS<ref name="CISDec19">{{cite web |title=Barómetro de diciembre 2019. Postelectoral elecciones generales 2019 (Estudio nº 3269. Noviembre-diciembre 2019) |url=http://datos.cis.es/pdf/Es3269marMT_A.pdf |language=es |work=CIS |date=16 January 2020}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3269. Noviembre-diciembre 2019) |url=http://datos.cis.es/pdf/3269_Estimacion.pdf |language=es |work=CIS |date=16 January 2020}}</ref>
@@ -7362,7 +8163,30 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5
 | 0.4
 | 0.3
+| 0.1
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 8.3
+|-
+| Metroscopia<ref name="MetrosNov21"/>
+| 15 Dec 2019
+|?
+|?
+| {{Party shading/PSOE}}| '''27.3'''
+| 22.5
+| 16.3
+| 13.3
+| 6.1
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.8
 |-
 | NC Report/La Razón<ref>{{cite web |title=ERC penaliza a Sánchez |url=https://www.larazon.es/espana/20191215/wesbuuc4dbb5rjcl6levueatvy.html |language=es |work=La Razón |date=15 December 2019}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta NC Report 15/12/2019: UP-ECP-EC 13,1% (35/36), MÁS PAÍS-EQUO 2,0% (2), PSOE 27,1% (116/118), Cs 5,8% (7/8), PP 21,6% (90/93), VOX 15,6% (52/54) |url=https://www.electograph.com/2019/12/encuesta-nc-report-191215.html |language=es |work=Electograph |date=20 January 2020}}</ref>
 | 10–13 Dec 2019
@@ -7383,9 +8207,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 5.5
 |-
-| Invymark/laSexta<ref name="InvyDec19">{{cite web |title=Barómetro de laSexta: el PSOE volvería a ganar las elecciones generales y Ciudadanos sufriría otra gran caída |url=https://www.lasexta.com/noticias/nacional/barometro-de-lasexta-el-psoe-volveria-a-ganar-las-elecciones-generales-y-ciudadanos-sufriria-otra-gran-caida_201912155df63b7c0cf22f4755c8171b.html |language=es |work=laSexta |date=15 December 2019}}</ref>
+| InvyMark/laSexta<ref name="InvyDec19">{{cite web |title=Barómetro de laSexta: el PSOE volvería a ganar las elecciones generales y Ciudadanos sufriría otra gran caída |url=https://www.lasexta.com/noticias/nacional/barometro-de-lasexta-el-psoe-volveria-a-ganar-las-elecciones-generales-y-ciudadanos-sufriria-otra-gran-caida_201912155df63b7c0cf22f4755c8171b.html |language=es |work=laSexta |date=15 December 2019}}</ref>
 | 9–13 Dec 2019
 |?
 |?
@@ -7404,9 +8229,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 7.2
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (12/12): el bloque de otros partidos, cada vez más grande. ERC adelanta a Junts en su lucha por el dominio catalán |url=https://electomania.es/ep12dic/ |language=es |work=Electomanía |date=12 December 2019}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (12/12): el bloque de otros partidos, cada vez más grande. ERC adelanta a Junts en su lucha por el dominio catalán |url=https://electomania.es/electopanel-1212-el-bloque-de-otros-partidos-cada-vez-mas-grande-erc-adelanta-a-junts-en-su-lucha-por-el-dominio-catalan/ |language=es |work=Electomanía |date=12 December 2019}}</ref>
 | 10–12 Dec 2019
 | 1,250
 |?
@@ -7425,6 +8251,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 7.0
 |-
 | Simple Lógica<ref name="SLDec19">{{cite web |title=Resultado de las Elecciones, intención de voto y valoración de líderes (diciembre 2019) |url=https://www.simplelogica.com/es/resultado-de-las-elecciones-intencion-de-voto-y-valoracion-de-lideres-diciembre-2019/ |language=es |work=Simple Lógica |date=20 December 2019}}</ref>
@@ -7446,9 +8273,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | –
+| –
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.5
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (5Dic): empate entre bloques. Sánchez se recupera, Ciudadanos vuelve a bajar |url=https://electomania.es/ep5dic/ |language=es |work=Electomanía |date=5 December 2019}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (5Dic): empate entre bloques. Sánchez se recupera, Ciudadanos vuelve a bajar |url=https://electomania.es/electopanel-5dic-empate-entre-bloques-sanchez-se-recupera-ciudadanos-vuelve-a-bajar/ |language=es |work=Electomanía |date=5 December 2019}}</ref>
 | 3–5 Dec 2019
 | 1,250
 |?
@@ -7467,9 +8295,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 7.3
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (28N): Vox a 2,5 puntos del sorpasso al PP. Ciudadanos empata con ERC a escaños |url=https://electomania.es/ep28n/ |language=es |work=Electomanía |date=28 November 2019}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (28N): Vox a 2,5 puntos del sorpasso al PP. Ciudadanos empata con ERC a escaños |url=https://electomania.es/electopanel-28n-vox-a-25-puntos-del-sorpasso-al-pp-ciudadanos-empata-con-erc-a-escanos/ |language=es |work=Electomanía |date=28 November 2019}}</ref>
 | 21–27 Nov 2019
 | 1,250
 |?
@@ -7488,6 +8317,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 7.0
 |-
 | GAD3/ABC<ref>{{cite web |title=El PSOE retrocede tras el 10-N y el PP gana 10 escaños con Vox a la baja |url=https://www.abc.es/espana/abci-psoe-retrocede-tras-10-n-y-pp-gana-10-escanos-baja-201912010218_noticia.html |language=es |work=ABC |date=30 November 2019}}</ref>
@@ -7509,9 +8339,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 4.7
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (21N): Vox supera el 16% y roza los 60 escaños. Ligera recuperación de Ciudadanos |url=https://electomania.es/ep21n/ |language=es |work=Electomanía |date=21 November 2019}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (21N): Vox supera el 16% y roza los 60 escaños. Ligera recuperación de Ciudadanos |url=https://electomania.es/electopanel-21n-vox-supera-el-16-y-roza-los-60-escanos-ligera-recuperacion-de-ciudadanos/ |language=es |work=Electomanía |date=21 November 2019}}</ref>
 | 13–20 Nov 2019
 | 1,250
 |?
@@ -7530,9 +8361,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.3
 |-
-| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (14N): Ciudadanos, desplomado, lucharía por mantener representación en el Congreso (y por el grupo propio) |url=https://electomania.es/ep14n/ |language=es |work=Electomanía |date=14 November 2019}}</ref><ref>{{cite web |title=ElectoPanel express: máxima división entre partidarios y detractores del acuerdo de Gobierno |url=https://electomania.es/epacuerdo12n/ |language=es |work=Electomanía |date=12 November 2019}}</ref>
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (14N): Ciudadanos, desplomado, lucharía por mantener representación en el Congreso (y por el grupo propio) |url=https://electomania.es/electopanel-14n-ciudadanos-desplomado-lucharia-por-mantener-representacion-en-el-congreso-y-por-el-grupo-propio/ |language=es |work=Electomanía |date=14 November 2019}}</ref><ref>{{cite web |title=ElectoPanel express: máxima división entre partidarios y detractores del acuerdo de Gobierno |url=https://electomania.es/electopanel-express-maxima-division-entre-partidarios-y-detractores-del-acuerdo-de-gobierno/ |language=es |work=Electomanía |date=12 November 2019}}</ref>
 | 12 Nov 2019
 | 1,510
 |?
@@ -7551,9 +8383,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 6.1
 |-
-| colspan="20" style="background:#A0A0A0"|
+| colspan="21" style="background:#A0A0A0"|
 |- style="background:#EFEFEF;"
 | '''[[November 2019 Spanish general election|November 2019 general election]]'''
 | 10 Nov 2019
@@ -7574,7 +8407,8 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:{{Spanish Socialist Workers' Party/meta/color}}; color:white;"| 7.2
 |-
-| colspan="20" style="background:#A0A0A0"|
+| colspan="21" style="background:#A0A0A0"|
 |}

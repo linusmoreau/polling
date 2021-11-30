@@ -6,7 +6,7 @@
 ! style="width:120px;" rowspan="2"|Polling firm
 ! style="width:60px;" rowspan="2"|Sample<br/>size
 ! style="width:65px;"| [[File:Fidesz_2015.svg|27px|link=Fidesz]] 
-! style="width:35px;"| [[File:Jobbik logo with text.svg|55px|link=Jobbik]]
+! style="width:35px;"| [[File:Jobbik.svg|27px|link=Jobbik]]
 ! style="width:35px;"| [[File:Flag_of_the_Hungarian_Socialist_Party.svg|35px|link=MSZP]]
 ! style="width:35px;"| [[File:Logo_of_the_Dialogue_for_Hungary.svg|30px|link=Dialogue for Hungary|P]]
 ! style="width:35px;"| [[File:Logo_of_the_Democratic_Coalition_(Hungary).svg|32px|link=Democratic Coalition (Hungary)|DK]]
@@ -28,7 +28,23 @@
 ! style="background:#808080;"|
 ! style="background:#568203"|
 |-
-|data-sort-value="2021-10-04"|25–29 Oct 2021
+|data-sort-value="2021-11-12"|2–12 Nov 2021
+|[https://hvg.hu/itthon/20211117_zavecz_kutatas_fidesz_ellenzek_lmp Závecz Research]
+|1000
+|style="background:#FFE5B4"|'''37'''
+|6
+|4
+|2
+|18
+|3
+|5
+|4
+|4
+|3
+|style="background:{{Fidesz/meta/color}}; color:white;" |19
+|41
+|-
+|data-sort-value="2021-10-29"|25–29 Oct 2021
 |[http://republikon.hu/elemzesek,-kutatasok/21-11-08-kvk-okt.aspx Republikon]
 |1000
 |style="background:#FFE5B4"|'''42'''

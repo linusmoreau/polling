@@ -39,7 +39,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 ! data-sort-type="number" style="background:#1B4D7D;" |
 |-
 | Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1455584951886360579|title=Partiju reitingi - Oktobris 2021|website=Twitter|language=lv|access-date=2 November 2021|date=2 November 2021}}</ref>
-|1-31 Oct 2021
+|{{nobr|1-31 Oct 2021}}
 |1,871
 | -
 |'''12.6'''
@@ -83,7 +83,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:19.9+1.8+12.9+4.8+5+5.3+4.5+4.8+2.4}}
 |-
 | Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1444309330766049281|title=PARTIJU REITINGI - Septembris 2021|website=Twitter|language=lv|access-date=16 October 2021|date=2 October 2021}}</ref>
-| 1 Sep–1 Oct 2021
+| {{nobr|1 Sep–1 Oct 2021}}
 | 1,170
 | -
 | '''13.4'''
@@ -152,6 +152,104 @@ The following are opinion polls conducted for the parliamentary election, measur
 | style="border-right-style:hidden;"|14-28 Aug 2021
 | style="border-right-style:hidden;"|
 | colspan="18"|'''Two new parties - [[Latvia First]] and [[Republic (Latvia)|Republic]] - are established'''
+|-
+| SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-augusta-druzma-ap-5-barjeru.a419153/|title=Partiju reitingi augustā: drūzma ap 5% barjeru|first=Jānis|last=Geste|website=LSM|language=lv|access-date=16 October 2021|date=30 August 2021}}</ref>
+| August 2021
+| 1,825
+| 56.9
+|style="background:#F8C1BE" | '''22.1'''
+| 0.8
+| '''5.5'''
+| '''8.9'''
+| '''12.5'''
+| '''12.9'''
+| '''11.9'''
+| '''5.0'''
+| '''5.8'''
+| '''6.3'''
+| '''5.6'''
+|
+|
+| 2.8
+| style="background:{{Social Democratic Party "Harmony"/meta/color}};" | 9.2
+| {{#expr:11.9+12.5+8.9+5.5}}
+| {{#expr:22.1+0.8+12.9+5+5.8+6.3+5.6}}
+|-
+| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1421426449723142146|title=PARTIJU REITINGI - Jūlijs 2021|website=Twitter|language=lv|access-date=16 October 2021|date=31 July 2021}}</ref>
+| 27-31 Jul 2021
+| 1,181
+| -
+| '''15.8'''
+| 0.6
+| '''5.8'''
+| '''11.5'''
+| '''14.4'''
+| '''11.6'''
+| style="background:#A0D78E"|'''16.2'''
+| 4.1
+| 3.4
+| '''6.5'''
+| 4.1
+| 
+| 
+| 6.0
+| style="background:{{New Unity/meta/color}};" | 0.4
+| {{#expr:16.2+14.4+11.5+5.8}}
+| {{#expr:15.8+0.6+11.6+4.1+3.4+6.5+4.1}}
+|-
+| SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-julija-atbalsts-visvairak-audzis-regionu-apvienibai-lielakais-kritums--na.a415600/|title=Partiju reitingi jūlijā: atbalsts visvairāk audzis Reģionu apvienībai, lielākais kritums – NA|first=Māris|last=Klūga|website=LSM|language=lv|access-date=16 October 2021|date=4 August 2021}}</ref>
+| July 2021
+| 1,801
+| 59.5
+|style="background:#F8C1BE" | '''19.0'''
+| 1.5
+| '''6.7'''
+| '''9.4'''
+| '''12.3'''
+| '''12.9'''
+| '''12.8'''
+| '''5.9'''
+| '''5.9'''
+| '''5.0'''
+| '''5.7'''
+| 
+| 
+| 2.9
+| style="background:{{Social Democratic Party "Harmony"/meta/color}};" | 6.1
+| {{#expr:12.8+12.3+9.4+6.7}}
+| {{#expr:19+1.5+12.9+5.9+5.9+5+5.7}}
+|-
+| SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-junija-saeima-varetu-ieklut-9-partijas-starp-na-un-zzs-aizvien-siva-cina-par-otro-vietu.a411452|title=Partiju reitingi jūnijā: Saeimā varētu iekļūt 9 partijas; starp NA un ZZS aizvien sīva cīņa par otro vietu|first=Ilze|last=Dobele|website=LSM|language=lv|access-date=16 October 2021|date=3 July 2021}}</ref>
+| June 2021
+| 1,793
+| 62.6
+|style="background:#F8C1BE" | '''19.3'''
+| 0.9
+| '''6.0'''
+| '''8.9'''
+| '''14.8'''
+| '''14.9'''
+| '''11.5'''
+| 4.4
+| '''5.3'''
+| '''6.9'''
+| '''5.3'''
+| 
+| 
+| 1.8
+| style="background:{{Social Democratic Party "Harmony"/meta/color}};" | 4.4
+| {{#expr:11.5+14.8+8.9+6}}
+| {{#expr:19.3+0.9+14.9+4.4+5.3+6.9+5.3}}
+|-
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"|4 Jun 2021
+| style="border-right-style:hidden;"|
+| colspan="18"|'''KPV LV renames itself to "For a Humane Latvia" (PCL)'''
+|-
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"|3 Jun 2021
+| style="border-right-style:hidden;"|
+| colspan="18"|'''The [[Saeima]] approves the government reshuffle, KPV LV officially leaves the government'''
 |}
 
 {| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
@@ -187,96 +285,6 @@ The following are opinion polls conducted for the parliamentary election, measur
 ! data-sort-type="number" style="background:{{Latvian Russian Union/meta/color}};" |
 ! data-sort-type="number" style="background:{{The Progressives (Latvia)/meta/color}};" |
 ! data-sort-type="number" style="background:{{Law and Order (Latvia)/meta/color}};" |
-|-
-| SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-augusta-druzma-ap-5-barjeru.a419153/|title=Partiju reitingi augustā: drūzma ap 5% barjeru|first=Jānis|last=Geste|website=LSM|language=lv|access-date=16 October 2021|date=30 August 2021}}</ref>
-| August 2021
-| 1,825
-| 56.9
-|style="background:#F8C1BE" | '''22.1'''
-| 0.8
-| '''5.5'''
-| '''8.9'''
-| '''12.5'''
-| '''12.9'''
-| '''11.9'''
-| '''5.0'''
-| '''5.8'''
-| '''6.3'''
-| '''5.6'''
-| 2.8
-| style="background:{{Social Democratic Party "Harmony"/meta/color}};" | 9.2
-| {{#expr:11.9+12.5+8.9+5.5}}
-| {{#expr:22.1+0.8+12.9+5+5.8+6.3+5.6}}
-|-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1421426449723142146|title=PARTIJU REITINGI - Jūlijs 2021|website=Twitter|language=lv|access-date=16 October 2021|date=31 July 2021}}</ref>
-| 27-31 Jul 2021
-| 1,181
-| -
-| '''15.8'''
-| 0.6
-| '''5.8'''
-| '''11.5'''
-| '''14.4'''
-| '''11.6'''
-| style="background:#A0D78E"|'''16.2'''
-| 4.1
-| 3.4
-| '''6.5'''
-| 4.1
-| 6.0
-| style="background:{{New Unity/meta/color}};" | 0.4
-| {{#expr:16.2+14.4+11.5+5.8}}
-| {{#expr:15.8+0.6+11.6+4.1+3.4+6.5+4.1}}
-|-
-| SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-julija-atbalsts-visvairak-audzis-regionu-apvienibai-lielakais-kritums--na.a415600/|title=Partiju reitingi jūlijā: atbalsts visvairāk audzis Reģionu apvienībai, lielākais kritums – NA|first=Māris|last=Klūga|website=LSM|language=lv|access-date=16 October 2021|date=4 August 2021}}</ref>
-| July 2021
-| 1,801
-| 59.5
-|style="background:#F8C1BE" | '''19.0'''
-| 1.5
-| '''6.7'''
-| '''9.4'''
-| '''12.3'''
-| '''12.9'''
-| '''12.8'''
-| '''5.9'''
-| '''5.9'''
-| '''5.0'''
-| '''5.7'''
-| 2.9
-| style="background:{{Social Democratic Party "Harmony"/meta/color}};" | 6.1
-| {{#expr:12.8+12.3+9.4+6.7}}
-| {{#expr:19+1.5+12.9+5.9+5.9+5+5.7}}
-|-
-| SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-junija-saeima-varetu-ieklut-9-partijas-starp-na-un-zzs-aizvien-siva-cina-par-otro-vietu.a411452|title=Partiju reitingi jūnijā: Saeimā varētu iekļūt 9 partijas; starp NA un ZZS aizvien sīva cīņa par otro vietu|first=Ilze|last=Dobele|website=LSM|language=lv|access-date=16 October 2021|date=3 July 2021}}</ref>
-| June 2021
-| 1,793
-| 62.6
-|style="background:#F8C1BE" | '''19.3'''
-| 0.9
-| '''6.0'''
-| '''8.9'''
-| '''14.8'''
-| '''14.9'''
-| '''11.5'''
-| 4.4
-| '''5.3'''
-| '''6.9'''
-| '''5.3'''
-| 1.8
-| style="background:{{Social Democratic Party "Harmony"/meta/color}};" | 4.4
-| {{#expr:11.5+14.8+8.9+6}}
-| {{#expr:19.3+0.9+14.9+4.4+5.3+6.9+5.3}}
-|-
-| style="border-right-style:hidden;"|
-| style="border-right-style:hidden;"|4 Jun 2021
-| style="border-right-style:hidden;"|
-| colspan="18"|'''KPV LV renames itself to "For a Humane Latvia" (PCL)'''
-|-
-| style="border-right-style:hidden;"|
-| style="border-right-style:hidden;"|3 Jun 2021
-| style="border-right-style:hidden;"|
-| colspan="18"|'''The [[Saeima]] approves the government reshuffle, KPV LV officially leaves the government'''
 |-
 | Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1400069592328949760|title=PARTIJU REITINGI - Maijs 2021|website=Twitter|language=lv|access-date=16 October 2021|date=2 June 2021}}</ref>
 | 26-31 May 2021
@@ -379,7 +387,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:20.1+12.9+3.4+7+7.5+7}}
 |-
 | Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1377233470578167809|title=Partiju reitingi - SAEIMA, Marts 2021|website=Twitter|language=lv|access-date=16 October 2021|date=31 March 2021}}</ref>
-| 26-30 Mar 2021
+| {{nobr|26–30 Mar 2021}}
 | 990
 | -
 |'''13.5'''
@@ -439,7 +447,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:18.3+11.8+4.8+5.4+7.7+6.8}}
 |-
 | Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1366457757856124928|title=Partiju reitingi - Saeima|website=Twitter|language=lv|access-date=16 October 2021|date=1 March 2021}}</ref>
-| 1-28 Feb 2021
+| 1–28 Feb 2021
 | 1,903
 | -
 |'''12.0'''

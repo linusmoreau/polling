@@ -1,13 +1,13 @@
-=== Legislative election ===
+===Legislative election===
 ;Graphical representation of recalculated data
 {{Graph:Chart
  | hannotatonslabel=4% electoral threshold
  | hannotatonsline=4
  | vannotatonslabel=
  | vannotatonsline=
- | width = 900
+ | width = 700
  | xAxisMax=1636920000000
- | height= 500
+ | height= 400
  | type = line
  | interpolate = basis
  | xType = date
@@ -27,17 +27,17 @@
  | y8Title=Revival
  | y9Title=PP
  | y10Title=scratch vote
- | x = 2021/07/11, 2021/07/28, 2021/07/30, 2021/08/22, 2021/09/10, 2021/09/15, 2021/09/15, 2021/09/16, 2021/09/20, 2021/09/26, 2021/10/01, 2021/10/10, 2021/10/10, 2021/10/12, 2021/10/12, 2021/10/17, 2021/10/18, 2021/10/26, 2021/10/31, 2021/10/31, 2021/10/31, 2021/11/01, 2021/11/02, 2021/11/05, 2021/11/07, 2021/11/07, 2021/11/08, 2021/11/08, 2021/11/09, 2021/11/09, 2021/11/09
- | y1 = 23.8, 22.6, 21.6, 17.2, 15.5, 18.6, 17.5, 15.1, 14.9, 12.3, 22.9, 10.4, 11.7, 14.4, 15.2, 12.2, 14.3, 12.3, 15.2, 11.3, 11.8, 19.3, 13.4, 12.5, 9.7, 12.8, 12.2, 12.2, 11.4, 13.4, 9.9
- | y2 = 23.2, 19.8, 22.4, 23.7, 22.5, 23.2, 24.4, 25.6, 25.0, 21.4, 24.3, 23.1, 24.2, 24.2, 23.5, 22.5, 26.2, 22.3, 24.1, 24.2, 22.0, 22.1, 23.8, 23.8, 23, 22.9, 25.4, 23.5, 23.5, 26.4, 24.1
- | y3 = 13.2, 17.9, 14.5, 17.2, 16.1, 18.1, 16.6, 13.2, 16.0, 13.4, 14.1, 16.8, 15.8, 19.1, 15.0, 15.1, 14.9, 15.1, 18.1, 15.7, 13.6, 16.6, 16.7, 15, 12.1, 15.1, 15.6, 14.6, 15.2, 15.8, 16
- | y4 = 12.5, 17.2, 14.1, 18.1, 15.8, 14.5, 8.5, 9.2, 13.1, 12.1, 6.9, 10.9, 10.3, 9, 10.2, 11.2, 8.8, 11.8, 7.4, 9.8, 11.0, 8.5, 9.1, 9.2, 10.5, 9.1, 9.7, 11, 9.6, 8.1, 10.2
- | y5 = 10.6, 9.6, 10.2, 12, 11.9, 10.5, 9.3, 11.9, 10.8, 11.4, 7.1, 9.3, 11, 8.7, 9.4, 10.8, 11.6, 10.3, 9.2, 11.1, 10.7, 10.3, 9.7, 9.5, 11.2, 10.3, 10.6, 10.3, 11.3, 11.4, 9.8
- | y6 = 5, 5.4, 4.4, 4.9, 4.8, 4.5, 3.8, 3.2, 3.6, 4.1, 2.8, 3.2, 3.2, 4.2, 2.6, 3.7, 2.9, 3.2, 3.3, 3.1, 3.5, 2.9, 4.1, 3.5, 4.1, 3.3, 4.2, 4.2, 3.4, 2.9, 3.6
- | y7 = 3.1, 2.1, 1.9, , 2.4, , 2.2, 3.8, , 2.2, 1.8, 2.1, 0.7, 1.8, 2.5, 2.3, 3.7, 1.2, 2.3, 2.3, , 2.1, 2.1, 2.5, 1.2, 2.2, , , 2.1, 3.7,
- | y8 = 3, 3.7, 2.9, 4.7, 3.1, 3.8, 2.9, 3.0, 3.5, 3.3, 3.2, 2.9, 1.7, 1.9, 1.9, 2.9, 1.5, 2.5, 3.3, 3.3, , 3.3, 2.5, 3, 3, 3.6, 3.1, , 3.5, 1.5, 3.8
- | y9 = , , , , , , 9.1, , 11.9, 15.2, 7.8, 15.9, 12.8, 14.6, 15.5, 13.4, 10.5, 15.8, 14.3, 13.7, 15.9, 10.1, 15.6, 15.5, 16.3, 14.8, 17.3, 16.2, 15.5, 11.2, 16.5
- | y10 = 1.3, , , , , , , , , , , , 0.7, 1.7, , , , 0.3, , , , , 1.1, 1.8, 8.9, , , , , ,
+ | x = 2021/07/11, 2021/07/28, 2021/07/30, 2021/08/22, 2021/09/10, 2021/09/15, 2021/09/15, 2021/09/16, 2021/09/20, 2021/09/26, 2021/10/01, 2021/10/10, 2021/10/10, 2021/10/12, 2021/10/12, 2021/10/17, 2021/10/18, 2021/10/26, 2021/10/31, 2021/10/31, 2021/10/31, 2021/11/01, 2021/11/02, 2021/11/05, 2021/11/07, 2021/11/07, 2021/11/08, 2021/11/08, 2021/11/09, 2021/11/09, 2021/11/09, 2021/11/14,
+ | y1 = 23.8, 22.6, 21.6, 17.2, 15.5, 18.6, 17.5, 15.1, 14.9, 12.3, 22.9, 10.4, 11.7, 14.4, 15.2, 12.2, 14.3, 12.3, 15.2, 11.3, 11.8, 19.3, 13.4, 12.5, 9.7, 12.8, 12.2, 12.2, 11.4, 13.4, 9.9, 9.4
+ | y2 = 23.2, 19.8, 22.4, 23.7, 22.5, 23.2, 24.4, 25.6, 25.0, 21.4, 24.3, 23.1, 24.2, 24.2, 23.5, 22.5, 26.2, 22.3, 24.1, 24.2, 22.0, 22.1, 23.8, 23.8, 23, 22.9, 25.4, 23.5, 23.5, 26.4, 24.1, 22.5
+ | y3 = 13.2, 17.9, 14.5, 17.2, 16.1, 18.1, 16.6, 13.2, 16.0, 13.4, 14.1, 16.8, 15.8, 19.1, 15.0, 15.1, 14.9, 15.1, 18.1, 15.7, 13.6, 16.6, 16.7, 15, 12.1, 15.1, 15.6, 14.6, 15.2, 15.8, 16, 10.1
+ | y4 = 12.5, 17.2, 14.1, 18.1, 15.8, 14.5, 8.5, 9.2, 13.1, 12.1, 6.9, 10.9, 10.3, 9, 10.2, 11.2, 8.8, 11.8, 7.4, 9.8, 11.0, 8.5, 9.1, 9.2, 10.5, 9.1, 9.7, 11, 9.6, 8.1, 10.2, 6.3
+ | y5 = 10.6, 9.6, 10.2, 12, 11.9, 10.5, 9.3, 11.9, 10.8, 11.4, 7.1, 9.3, 11, 8.7, 9.4, 10.8, 11.6, 10.3, 9.2, 11.1, 10.7, 10.3, 9.7, 9.5, 11.2, 10.3, 10.6, 10.3, 11.3, 11.4, 9.8, 12.7
+ | y6 = 5, 5.4, 4.4, 4.9, 4.8, 4.5, 3.8, 3.2, 3.6, 4.1, 2.8, 3.2, 3.2, 4.2, 2.6, 3.7, 2.9, 3.2, 3.3, 3.1, 3.5, 2.9, 4.1, 3.5, 4.1, 3.3, 4.2, 4.2, 3.4, 2.9, 3.6, 2.3
+ | y7 = 3.1, 2.1, 1.9, , 2.4, , 2.2, 3.8, , 2.2, 1.8, 2.1, 0.7, 1.8, 2.5, 2.3, 3.7, 1.2, 2.3, 2.3, , 2.1, 2.1, 2.5, 1.2, 2.2, , , 2.1, 3.7, , 1.1
+ | y8 = 3, 3.7, 2.9, 4.7, 3.1, 3.8, 2.9, 3.0, 3.5, 3.3, 3.2, 2.9, 1.7, 1.9, 1.9, 2.9, 1.5, 2.5, 3.3, 3.3, , 3.3, 2.5, 3, 3, 3.6, 3.1, , 3.5, 1.5, 3.8, 4.8
+ | y9 = , , , , , , 9.1, , 11.9, 15.2, 7.8, 15.9, 12.8, 14.6, 15.5, 13.4, 10.5, 15.8, 14.3, 13.7, 15.9, 10.1, 15.6, 15.5, 16.3, 14.8, 17.3, 16.2, 15.5, 11.2, 16.5, 25.3
+ | y10 = 1.3, , , , , , , , , , , , 0.7, 1.7, , , , 0.3, , , , , 1.1, 1.8, 8.9, , , , , 
  | colors = #4BB9DE, #0056A7, #D71921, #A1C619, #800080, #4C813D, #01193B, #C09F62, #ffd966, #8F8F8F, #FFAA1D
  | showSymbols = 1,1,1,1,1,1,1,1,1,1
  | symbolsShape = circle
@@ -53,7 +53,7 @@ The opinion poll results below were recalculated from the original data and excl
 ! rowspan="2" |Turnout range{{efn|Minimum and maximum values.}}
 ! rowspan="2" |Certain [[To be announced|undecided]] turnout
 ![[There Is Such A People|ITN]]
-![[GERB]]-[[Union of Democratic Forces (Bulgaria)|SDS]]
+![[GERB]]–[[Union of Democratic Forces (Bulgaria)|SDS]]
 ![[Bulgarian Socialist Party|BSP]]
 ![[Democratic Bulgaria|DB]]
 ![[Movement for Rights and Freedoms|DPS]]
@@ -74,6 +74,60 @@ The opinion poll results below were recalculated from the original data and excl
 ! class="unsortable" style="background:{{IMRO – Bulgarian National Movement/meta/color}};"|
 ! class="unsortable" style="background:{{Revival (Bulgarian political party)/meta/color}}" |
 ! class="unsortable" style="background:#ffd966" |
+|- style="background:#D5D5D5;"
+|November 2021 election
+|14 November 2021
+|—
+|—
+|—
+|9.5%
+|22.7%
+|10.2%
+|6.4%
+|13.0%
+|2.3%
+|1.1%
+|4.9%
+| style="background:#FBE8AF"|'''25.7%'''
+|4.2%
+|1.4%
+! class="unsortable" style="background:#ffd966" |2.8%
+|-  style="background:#EEEFFF"|
+|[https://bntnews.bg/news/paralelno-prebroyavane-100-galap-pp-263-gerb-231-dps-114-bsp-104-itn-93-db-64-vazrazhdane-5-1175199news.html Gallup]
+|Exit-Poll
+|—
+|—
+|—
+|9.3%
+|23.1%
+|10.4%
+|6.4%
+|11.4%
+|3.0%
+|1.1%
+|5.0%
+| style="background:#FBE8AF"|'''26.3%'''
+|3.6%
+|
+| class="unsortable" style="background:#ffd966" |3.2%
+|-  style="background:#EEEFFF"|
+|[https://bntnews.bg/news/paralelno-prebroyavane-100-alfa-risarch-pp-263-gerb-232-dps-116-bsp-109-itn-96-db-65-vazrazhdane-48-1175201news.html Alpha Research]
+|Exit-Poll
+|—
+|—
+|—
+|9.6%
+|23.2%
+|10.9%
+|6.5%
+|10.7%
+|2.6%
+|1.1%
+|4.8%
+|style="background:#FBE8AF"|'''26.3%'''
+|1.8%
+|
+|class="unsortable" style="background:#ffd966" |3.1%
 |-
 |[https://alpharesearch.bg/post/985-obshtestveni-naglasi-na-finala-na-kampaniata-za-izbori-dve-v-edno.html Alpha Research]
 | data-sort-value="2021-11-09" |7−9 Nov 2021
@@ -273,7 +327,7 @@ The opinion poll results below were recalculated from the original data and excl
  |4=[[Stand Up.BG! We are coming!|IBG]] +0.4%
  |5=[[Movement for Rights and Freedoms|DPS]] -0.4%
  |6=[[Bulgarian Socialist Party|BSP]] -2.1%
- |7=[[GERB|G]][[Union of Democratic Forces (Bulgaria)|SDS]] -2.2%
+ |7=[[GERB|G]] [[Union of Democratic Forces (Bulgaria)|SDS]] -2.2%
  |8=other +6.8%)}}
 |11.3%
 | style="background:#CCE6FF"| '''24.2%'''
@@ -522,7 +576,7 @@ The opinion poll results below were recalculated from the original data and excl
 | —
 | style="background:{{GERB/meta/color}}; color:white;" |6.9%
 |-
-|{{nowrap|[https://alpharesearch.bg/post/983-elektoralna-dinamika-i-vuzmojni-elektoralni-trusove-obshtestveno-politicheski-naglasi-septemvri-2021g.html Alpha Research]}}
+|{{nowrap|Alpha Research}}
 | data-sort-value="2021-09-15" |8−15 Sep 2021
 |1017
 |51.7%
@@ -613,7 +667,7 @@ The opinion poll results below were recalculated from the original data and excl
 | style="background:{{There_Are_Such_People/meta/color}}; color:white;" |2.8%
 |- style="background:#D5D5D5;"
 |{{nowrap|[[July 2021 Bulgarian parliamentary election|July 2021 election]]}}
-| data-sort-value="2021-07-11" |11 Jul 2021
+| data-sort-value="2021-07-11" |11 July 2021
 |–
 |40.4%
 | —

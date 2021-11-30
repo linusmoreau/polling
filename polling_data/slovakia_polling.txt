@@ -35,6 +35,40 @@ Results are published that include only the answers of respondents who would vot
 !style="background:#f90311;"|
 !style="background:#e30512;"|
 |-
+|Focus{{Ref|1=https://dennikn.sk/2627916/focus-hlas-so-smerom-by-volila-tretina-ludi-sas-je-tretia-republika-mierne-posilnila/?ref=tit}}
+|16–23<br>Nov 2021
+|1,000
+|7.9%<br>{{font|size=80%|font=Arial|text=15}}
+|15.0%<br>{{font|size=80%|font=Arial|text=28}}
+|6.1%<br>{{font|size=80%|font=Arial|text=11}}
+|4.8%<br>{{font|size=80%|font=Arial|text=0}}
+|7.7%<br>{{font|size=80%|font=Arial|text=14}}
+|11.5%<br>{{font|size=80%|font=Arial|text=22}}
+|2.1%<br>{{font|size=80%|font=Arial|text=0}}
+|6.1%<br>{{font|size=80%|font=Arial|text=11}}
+|4.4%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''19.2%'''<br>{{font|size=80%|font=Arial|text=36}}
+|6.8%<br>{{font|size=80%|font=Arial|text=13}}
+|8.4%
+| style="background:#f90311;" | 4.2%
+|-
+|AKO{{Ref|https://www.aktuality.sk/clanok/27bspeg/hnutie-sme-rodina-pokles-nezastavilo-jeho-volici-su-proti-odchodu-z-koalicie-prieskum/}}
+|8–16<br>Nov 2021
+|1,000
+|9.7%<br>{{font|size=80%|font=Arial|text=18}}
+|13.0%<br>{{font|size=80%|font=Arial|text=24}}
+|6.8%<br>{{font|size=80%|font=Arial|text=13}}
+|3.5%<br>{{font|size=80%|font=Arial|text=0}}
+|8.7%<br>{{font|size=80%|font=Arial|text=16}}
+|13.6%<br>{{font|size=80%|font=Arial|text=25}}
+|2.2%<br>{{font|size=80%|font=Arial|text=0}}
+|5.4%<br>{{font|size=80%|font=Arial|text=10}}
+|4.2%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''18.5%'''<br>{{font|size=80%|font=Arial|text=34}}
+|5.6%<br>{{font|size=80%|font=Arial|text=10}}
+|8.8%
+| style="background:#f90311;" | 4.9%
+|-
 |Focus{{Ref|1=https://dennikn.sk/2593543/focus-smer-rastie-a-blizi-sa-k-16-percentam-kollarovi-blokovanie-reforiem-zatial-nepomaha/?ref=tit}}
 |20–27<br>Oct 2021
 |1,009

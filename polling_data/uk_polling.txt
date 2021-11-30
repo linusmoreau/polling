@@ -20,6 +20,175 @@
 ! data-sort-type="number" style="background:{{Scottish National Party/meta/color}};"|
 ! data-sort-type="number" style="background:{{Green Party of England and Wales/meta/color}};"|
 |-
+|{{opdrts||29|Nov|2021}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-29-november-2021/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''38%'''
+|36%
+|10%
+|4%
+|6%
+|{{Hidden|6%|[[Reform UK]] on 4%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|2%
+|-
+|{{opdrts|24|26|Nov|2021}}
+|[https://www.opinium.com/resource-center/uk-voting-intention-9th-november-2021-2/ Opinium]
+|''The Observer''
+|UK
+|1,990
+|36%
+|style="background:#FFCCD9;"|'''38%'''
+|8%
+|5%
+|6%
+|{{Hidden|8%|[[Plaid Cymru]] on 1%<br/>Other on 7%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Labour Party (UK)/meta/color}};color:#FFFFFF;"|2%
+|-
+|{{opdrts|24|25|Nov|2021}}
+|[https://docs.cdn.yougov.com/prf6ceddy2/TheTimes_VI_211125_W.pdf YouGov]
+|''The Times''
+|GB
+|1,692
+|style="background:#CCEBFF;"|'''36%'''
+|35%
+|7%
+|5%
+|8%
+|{{Hidden|9%|[[Reform UK]] on 6%<br/>[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|1%
+|-
+|{{opdrts|18|22|Nov|2021}}
+|[https://www.kantarpublic.com/inspiration/thought-leadership/most-britons-think-mps-make-decisions-based-on-their-own-interests Kantar Public]
+|N/A
+|GB
+|1,119
+|style="background:#CCEBFF;"|'''39%'''
+|36%
+|10%
+|4%
+|5%
+|{{Hidden|6%|[[Reform UK]] on 2%<br/>[[UK Independence Party|UKIP]] on 2%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|3%
+|-
+|{{opdrts||21|Nov|2021}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-15-november-2021/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''37%'''
+|style="background:#FFCCD9;"|'''37%'''
+|9%
+|4%
+|6%
+|{{Hidden|6%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|Tie
+|-
+|{{opdrts|19|21|Nov|2021}}
+|[https://comresglobal.com/polls/savanta-comres-political-tracker-november-2021/ SavantaComRes]
+|N/A
+|UK
+|2,184
+|36%
+|style="background:#FFCCD9;"|'''38%'''
+|10%
+|4%
+|5%
+|{{Hidden|8%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Labour Party (UK)/meta/color}};color:#FFFFFF;"|2%
+|-
+|{{opdrts|10|19|Nov|2021}}
+|[https://www.drg.global/wp-content/uploads/GB-tables-for-publication-231121.pdf Panelbase]
+|N/A
+|GB
+|3,888
+|38%
+|style="background:#FFCCD9;"|'''39%'''
+|9%
+|4%
+|6%
+|{{Hidden|4%|[[Plaid Cymru]] on <1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Labour Party (UK)/meta/color}};color:#FFFFFF;"|1%
+|-
+|{{opdrts|17|18|Nov|2021}}
+|[https://docs.cdn.yougov.com/g8dunbfqqh/TheTimes_VI_211118_W.pdf YouGov]
+|''The Times''
+|GB
+|1,800
+|style="background:#CCEBFF;"|'''36%'''
+|34%
+|7%
+|4%
+|10%
+|{{Hidden|9%|[[Reform UK]] on 5%<br/>[[Plaid Cymru]] on 1%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|2%
+|-
+|{{opdrts||15|Nov|2021}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-15-november-2021/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|36%
+|style="background:#FFCCD9;"|'''37%'''
+|10%
+|4%
+|5%
+|{{Hidden|7%|[[Reform UK]] on 4%<br/>[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Labour Party (UK)/meta/color}};color:#FFFFFF;"|1%
+|-
+|{{opdrts|11|15|Nov|2021}}
+|[https://cdn.survation.com/wp-content/uploads/2021/11/17145217/38-Degrees-Final-Tables.xlsx Survation]
+|''38 Degrees''
+|UK
+|3,108
+|style="background:#CCEBFF;"|'''37%'''
+|style="background:#FFCCD9;"|'''37%'''
+|10%
+|5%
+|4%
+|{{Hidden|7%|[[Reform UK]] on 2%<br/>Other on 5%|headerstyle=font-weight:normal;line-height:9px;}}
+|Tie
+|-
+|{{opdrts|11|12|Nov|2021}}
+|[https://2sjjwunnql41ia7ki31qqub1-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/P018868_Final_weight_20211112_v1_Private.xlsx SavantaComRes]
+|''Daily Mail''
+|UK
+|2,019
+|34%
+|style="background:#FFCCD9;"|'''40%'''
+|10%
+|5%
+|5%
+|{{Hidden|8%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Labour Party (UK)/meta/color}};color:#FFFFFF;"|6%
+|-
+|{{opdrts|10|12|Nov|2021}}
+|[https://www.opinium.com/resource-center/uk-voting-intention-9th-november-2021/ Opinium]
+|''The Observer''
+|UK
+|1,175
+|36%
+|style="background:#FFCCD9;"|'''37%'''
+|9%
+|5%
+|7%
+|{{Hidden|6%|[[Plaid Cymru]] on 1%<br/>Other on 5%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Labour Party (UK)/meta/color}};color:#FFFFFF;"|1%
+|-
+|{{opdrts|10|11|Nov|2021}}
+|[https://docs.cdn.yougov.com/6sborzwxn6/YouGov%20Times%20-%20Voting%20intention%2010-11%20November%202021.pdf YouGov]
+|''The Times''
+|GB
+|1,696
+|style="background:#CCEBFF;"|'''35%'''
+|style="background:#FFCCD9;"|'''35%'''
+|8%
+|5%
+|10%
+|{{Hidden|8%|[[Reform UK]] on 4%<br/>[[Plaid Cymru]] on 1%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
+|Tie
+|-
 |{{opdrts||10|Nov|2021}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-10-november-2021/ Redfield & Wilton Strategies]
 |N/A
@@ -53,10 +222,10 @@
 |10,700
 |style="background:#CCEBFF;"|'''36%'''
 |35%
-|9%
-|5%
-|9%
-|{{Hidden|6%|[[Reform UK]] on 4%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|11%
+|4%
+|8%
+|{{Hidden|6%|[[Reform UK]] on 2%<br/>[[Plaid Cymru]] on 1%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|1%
 |-
 |{{opdrts|5|7|Nov|2021}}
@@ -111,7 +280,7 @@
 |{{Hidden|7%|[[Reform UK]] on 5%<br/>[[Plaid Cymru]] on 0%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|1%
 |-
-|{{opdrts|29|4|nov|2021}}
+|{{opdrts|29|4|Nov|2021}}
 |[https://www.standard.co.uk/news/politics/boris-johnson-loses-poll-lead-ipsos-mori-sleaze-scandal-b964945.html Ipsos MORI] 
 |''Evening Standard''
 |GB
@@ -662,7 +831,7 @@
 |-
 |{{opdrts|2|3|Sep|2021}}
 |[https://docs.cdn.yougov.com/228vaqqaw4/TheTimes_Results_VI_210903_W.pdf YouGov]
-|The Times
+|''The Times''
 |GB
 |1,653
 |style="background:#CCEBFF;"|'''38%'''

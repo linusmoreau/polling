@@ -25,6 +25,8 @@
 ! style="background:{{Canadian party colour|CA|Green}}" data-sort-type="number"|
 |- style="background:#ffd;"
 |-
+| [[Ekos Research Associates|EKOS]] ||  {{dts|November 21, 2021}} || [https://www.ekospolitics.com/index.php/2021/11/three-way-federal-horserace-frozen/ HTML ]|| 26.6 || {{Party shading/Liberal}}|'''30.4''' || 19.1 || 5.9 || 11.4 || 5.2 || 1 || ±3.1 pp || 1,006 || IVR || {{Party shading/Liberal}}|'''3.8''' 
+|-
 | [[Léger (company)|Leger]] || {{dts|November 7, 2021}} || [https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/Legers-North-American-Tracker-November-8th-2021.pdf PDF] || 26 || {{Party shading/Liberal}}| '''35''' || 22 || 8 || 5 || 3 || 2 || ±2.48 pp || 1,565 || online || {{Party shading/Liberal}}|'''9'''
 |-
 | [[Nanos Research]] || {{dts|October 29, 2021}} || [https://www.youtube.com/watch?v=nvNpvwj1x0A&t=124s HTML] || 30.1 || {{Party shading/Liberal}}| '''30.8''' || 21.6 || 7.4 || 5.8 || 3.1 || {{n/a}} || ±3.1 pp || 1,000 (1/4) || telephone (rolling) || {{Party shading/Liberal}}|'''0.7'''

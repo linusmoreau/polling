@@ -968,7 +968,7 @@
 |-
 | style="border-right-style:hidden;" | 
 | style="border-right-style:hidden;" data-sort-value="2021-04-13" |'''13 Apr'''
-| colspan="20" | '''[[Communist Party of Bohemia and Moravia]] terminated its support of the government'''<ref name="KSČM_endssupport">{{cite web |title=S podporou je konec. Komunisté vypověděli dohodu o toleranci vlády, hlasování o nedůvěře ale vyvolávat nebudou |url=https://domaci.ihned.cz/c1-66909430-s-podporou-je-konec-komuniste-vypovedeli-dohodu-o-toleranci-vlady-hlasovani-o-neduvere-ale-vyvolavat-nebudou |website=[[Hospodářské noviny]] |accessdate=13 April 2021}}</ref>
+| colspan="20" | '''[[Communist Party of Bohemia and Moravia]] terminated its support of the government'''<ref name="KSČM_endssupport">{{cite web |title=S podporou je konec. Komunisté vypověděli dohodu o toleranci vlády, hlasování o nedůvěře ale vyvolávat nebudou |url=https://domaci.ihned.cz/c1-66909430-s-podporou-je-konec-komuniste-vypovedeli-dohodu-o-toleranci-vlady-hlasovani-o-neduvere-ale-vyvolavat-nebudou |website=[[Hospodářské noviny]] |date=13 April 2021 |accessdate=13 April 2021}}</ref>
 |-
 |rowspan="2" |[https://www.stem.cz/volebni-preference-stem-duben-2021/ STEM]
 |rowspan="2" |7–13 Apr

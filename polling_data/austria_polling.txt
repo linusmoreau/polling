@@ -22,6 +22,18 @@
 ! style="background:{{NEOS – The New Austria and Liberal Forum/meta/color}};"|
 ! style="background:{{Independent/meta/color}};"|
 |-
+| [https://twitter.com/EuropeElects/status/1464692259140825089 OGM]
+| data-sort-value="2021-11-25"| 23–25 Nov 2021
+| 837
+| Online
+| 23
+| style="background:#F4C6C9;"| '''26'''
+| 21
+| 12
+| 12
+| 6
+| style="background:{{Social Democratic Party of Austria/meta/color}};color:#FFFFFF;"| 3
+|-
 | [https://image.kurier.at/images/cfs_616w/6467664/ogm_umfrage_17._10._online-01.png OGM]
 | data-sort-value="2021-10-15"| 12–15 Oct 2021
 | 1,170

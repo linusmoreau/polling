@@ -22,6 +22,214 @@
 ! style="background:{{Alternative for Germany/meta/color}};"|
 ! style="background:{{The Left (Germany)/meta/color}};"|
 |-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|26|29|Nov|2021|year}}
+| 2,129
+| –
+| {{Party shading/SPD}}| '''25'''
+| 21
+| 16
+| 14
+| 11
+| 5.5
+| 7.5
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|22|26|Nov|2021|year}}
+| 1,403
+| –
+| {{Party shading/SPD}}| '''26'''
+| 21
+| 15
+| 13
+| 12
+| 6
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| {{opdrts|23|25|Nov|2021|year}}
+| 1,344
+| 19
+| {{Party shading/SPD}}| '''28'''
+| 19
+| 17
+| 13
+| 11
+| 5
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 9
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| {{opdrts|23|24|Nov|2021|year}}
+| 1,239
+| –
+| {{Party shading/SPD}}| '''25'''
+| 21
+| 17
+| 13
+| 11
+| 5
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlkreisprognose.de/2021/11/24/bund-rot-gruene-mehrheit-in-impfhochburgen-i-unionsparteien-und-linke-mit-zulauf-fdp-verliert/ Wahlkreisprognose]
+| {{opdrts|22|24|Nov|2021|year}}
+| 1,002
+| –
+| {{Party shading/SPD}}| '''27'''
+| 22.5
+| 15.5
+| 11.5
+| 10
+| 5
+| 8.5
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4.5
+|-
+| [https://www.spiegel.de/politik/deutschland/ampelkoalition-startet-wer-ueberrascht-mit-welchem-ministerium-a-c7358db4-550d-438d-8d0e-e7c1e0df04ae Civey]
+| {{opdrts|17|24|Nov|2021|year}}
+| 10,064
+| –
+| {{Party shading/SPD}}| '''25'''
+| 24
+| 15
+| 11
+| 11
+| 5
+| 9
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 1
+|-
+| [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
+| {{opdrts|19|23|Nov|2021|year}}
+| 1,797
+| –
+| {{Party shading/SPD}}| '''25'''
+| 23
+| 16
+| 11
+| 12
+| 6
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| {{opdrts|17|23|Nov|2021|year}}
+| 1,424
+| –
+| {{Party shading/SPD}}| '''24'''
+| 22
+| 18
+| 11
+| 11
+| 6
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|19|22|Nov|2021|year}}
+| 2,096
+| –
+| {{Party shading/SPD}}| '''26'''
+| 22
+| 14
+| 14
+| 11
+| 5.5
+| 7.5
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| {{opdrts|16|22|Nov|2021|year}}
+| 2,501
+| 21
+| {{Party shading/SPD}}| '''24'''
+| 22
+| 17
+| 12
+| 10
+| 5
+| 10
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|15|19|Nov|2021|year}}
+| 1,501
+| –
+| {{Party shading/SPD}}| '''26'''
+| 21
+| 15
+| 13
+| 12
+| 5
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-merz-unter-unionsanhaengern-favorit-fuer-cdu-vorsitz-a-78ebebc9-602b-4cef-ab9c-648b479f659f Civey]
+| {{opdrts|10|17|Nov|2021|year}}
+| 10,077
+| –
+| {{Party shading/SPD}}| '''26'''
+| 23
+| 15
+| 12
+| 11
+| 5
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 3
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| {{opdrts|10|16|Nov|2021|year}}
+| 1,433
+| –
+| {{Party shading/SPD}}| '''24'''
+| 21
+| 18
+| 12
+| 11
+| 6
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 3
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|12|15|Nov|2021|year}}
+| 2,091
+| –
+| {{Party shading/SPD}}| '''27'''
+| 21
+| 15
+| 13
+| 11.5
+| 5.5
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| {{opdrts|9|15|Nov|2021|year}}
+| 2,510
+| 21
+| {{Party shading/SPD}}| '''24'''
+| 22
+| 17
+| 12
+| 10
+| 5
+| 10
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|8|12|Nov|2021|year}}
+| 1,202
+| –
+| {{Party shading/SPD}}| '''26'''
+| 22
+| 15
+| 13
+| 11
+| 5
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+|-
 | [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
 | {{opdrts|9|11|Nov|2021|year}}
 | 1,257
@@ -35,18 +243,44 @@
 | 7
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 8
 |-
+| [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
+| {{opdrts|29|11|Nov|2021|year}}
+| 1,016
+| –
+| {{Party shading/SPD}}| '''27'''
+| 23
+| 15
+| 14
+| 9.5
+| 5.5
+| 6
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+|-
 | [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-deutsche-setzen-auf-kernkompetenzen-der-ampelparteien-a-b52e4b95-de0f-4ece-8242-7e79bc2df8b7 Civey]
 | {{opdrts|3|10|Nov|2021|year}}
 | 9,999
 | –
 | {{Party shading/SPD}}| '''26'''
-| 21
+| 22
 | 15
 | 13
-| 12
+| 11
 | 5
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| {{opdrts|3|9|Nov|2021|year}}
+| 1,424
+| –
+| {{Party shading/SPD}}| '''25'''
+| 21
+| 16
+| 14
+| 10
+| 6
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|5|8|Nov|2021|year}}

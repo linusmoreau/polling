@@ -17,13 +17,136 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! rowspan="2" class="unsortable" style="width:50px" | Abst.<br>Undec.
 ! rowspan="2" data-sort-type="number" style="width:50px" | Lead
 |-
-! data-sort-type="number" class="sortable" style="background:#0067BC;"|
+! data-sort-type="number" class="sortable" style="background:#3F4196;"|
 ! data-sort-type="number" class="sortable" style="background:#CC0000;"|
 ! data-sort-type="number" class="sortable" style="background:#2DA933;"|
 ! data-sort-type="number" class="sortable" style="background:#EE161F;"|
 ! data-sort-type="number" class="sortable" colspan="2" style="background:#0080FF;"|
-! data-sort-type="number" class="sortable" style="background:#0FC0E6;"|
+! data-sort-type="number" class="sortable" style="background:#254AA5;"|
 ! data-sort-type="number" class="sortable" style="background:#FFA500;"|
+|-
+|rowspan="2"|[https://www.poder360.com.br/pesquisas/ipesp-confirma-poderdata-sobre-eleicao-de-2022-e-avaliacao-do-governo/ ''Ipespe'']
+|rowspan="2"|22–24 Nov
+|rowspan="2"|1,000
+|25%
+|style="background:#ffb7b7;"| '''42%'''
+|11%
+|9%
+|2%
+|–
+|1%
+|1%
+|1%
+|3%
+|style="background:#cc0000;color:#ffffff;"| 17%
+|-
+|24%
+|style="background:#ffb7b7;"| '''42%'''
+|11%
+|9%
+|–
+|2%
+|–
+|2%
+|1%
+|8%
+|style="background:#cc0000;color:#ffffff;"| 18%
+|-
+|rowspan="2"|[https://www.poder360.com.br/poderdata/lula-pontua-de-34-a-36-e-bolsonaro-tem-de-27-a-29-diz-poderdata/ ''PoderData'']
+|rowspan="2"|22–24 Nov
+|rowspan="2"|2,500
+|29%
+|style="background:#ffb7b7;"| '''34%'''
+|8%
+|7%
+|5%
+|–
+|3%
+|–
+|4%
+|9%
+|style="background:#cc0000;color:#ffffff;"| 5%
+|-
+|27%
+|style="background:#ffb7b7;"| '''36%'''
+|8%
+|9%
+|–
+|5%
+|2%
+|–
+|3%
+|8%
+|style="background:#cc0000;color:#ffffff;"| 9%
+|-
+|[https://www.oantagonista.com/brasil/com-lula-e-bolsonaro-estagnados-moro-dispara-e-ciro-some/ ''Futura/ModalMais'']
+|16–20 Nov
+|2,000
+|30.8%
+|style="background:#ffb7b7;"| '''37%'''
+|13.6%
+|7.5%
+|1.9%
+|–
+|–
+|–
+|2.1%
+|7.1%
+|style="background:#cc0000;color:#ffffff;"| 6.2%
+|-
+|rowspan="2"|[https://veja.abril.com.br/blog/maquiavel/com-107-das-intencoes-de-voto-moro-vira-maior-rival-de-lula-e-bolsonaro/ ''Paraná Pesquisas'']
+|rowspan="2"|16–19 Nov
+|rowspan="2"|2,020
+|29.2%
+|style="background:#ffb7b7;"| '''34.9%'''
+|10.7%
+|6.1%
+|3.1%
+|–
+|1.2%
+|0.4%
+|1.6%
+|13.4%
+|style="background:#cc0000;color:#ffffff;"| 5.7%
+|-
+|29.8%
+|style="background:#ffb7b7;"| '''35.1%'''
+|11%
+|6.1%
+|–
+|1.6%
+|–
+|0.6%
+|1.2%
+|13.6%
+|style="background:#cc0000;color:#ffffff;"| 5.3%
+|-
+|rowspan="2"|[https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2021/11/19/lula-lidera-para-2022-e-moro-atinge-18percent-sem-bolsonaro-na-disputa-diz-pesquisa.ghtml ''Ponteio Política'']
+|rowspan="2"|16–18 Nov
+|rowspan="2"|1,000
+|–
+|style="background:#ffb7b7;"| '''37%'''
+|18%
+|11%
+|3%
+|–
+|–
+|–
+|–
+|31%
+|style="background:#cc0000;color:#ffffff;"| 19%
+|-
+|24%
+|style="background:#ffb7b7;"| '''37%'''
+|11%
+|8%
+|3%
+|–
+|–
+|–
+|–
+|17%
+|style="background:#cc0000;color:#ffffff;"| 13%
 |-
 |[https://exame.com/brasil/ciro-e-moro-sao-os-nomes-mais-fortes-para-a-terceira-via-diz-exame-ideia/ ''Exame/Ideia'']
 |9–11 Nov
@@ -39,6 +162,11 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |2%
 |20%
 |style="background:#cc0000;color:#ffffff;"| 10%
+|-
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" {{opdrts||30|Nov|2021}}
+| colspan="12" style="font-weight:bold;" align="center" |President [[Jair Bolsonaro|Bolsonaro]] joins [[Liberal Party (Brazil, 2006)|Liberal Party]].<ref>[https://www.band.uol.com.br/bandnews-fm/noticias/partido-liberal-confirma-data-da-filiacao-de-jair-bolsonaro-16461889 Brazil: Partido Liberal confirma data da filiação de Jair Bolsonaro]</ref>
 |-
 |rowspan="2"|[https://www.cnnbrasil.com.br/politica/lula-tem-48-das-intencoes-de-voto-e-bolsonaro-21-diz-pesquisa-genial-quaest/ ''Quaest/Genial'']
 |rowspan="2"|3–6 Nov
@@ -66,6 +194,33 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |14%
 |style="background:#cc0000;color:#ffffff;"| 26%
+|-
+|rowspan="2"|[https://www.cartacapital.com.br/politica/intencao-de-voto-em-lula-chega-a-45-e-bolsonaro-fica-com-21-diz-vox-populi/ ''Vox Populi'']
+|rowspan="2"|30 Oct–4 Nov
+|rowspan="2"|2,000
+|21%
+|style="background:#ffb7b7;"| '''44%'''
+|3%
+|4%
+|1%
+|–
+|1%
+|–
+|3%
+|22%
+|style="background:#cc0000;color:#ffffff;"| 23%
+|-
+|21%
+|style="background:#ffb7b7;"| '''45%'''
+|3%
+|5%
+|–
+|1%
+|1%
+|–
+|3%
+|21%
+|style="background:#cc0000;color:#ffffff;"| 24%
 |-
 |rowspan="2"|[https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2021/11/03/lula-lidera-disputa-presidencial-mas-para-de-crescer-mostra-pesquisa-xpipespe.ghtml ''XP/Ipespe'']
 |rowspan="2"|25–28 Oct
@@ -329,7 +484,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |–
-|–
+|16.5%
 |style="background:#cc0000;color:#ffffff;"| 4.6%
 |-
 |[https://www.poder360.com.br/poderdata/lula-tem-37-contra-28-de-bolsonaro-no-1o-turno-diz-poderdata/ ''PoderData'']
@@ -493,7 +648,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! rowspan="2"| Pollster/client(s)
 ! rowspan="2"| Fieldwork<br>date(s)
 ! rowspan="2" data-sort-type="number"| Sample<br>size
-! class="unsortable" style="width:50px;"|[[Jair Bolsonaro|Bolsonaro]]<br>{{small|[[Liberal Party (Brazil, 2006)|PL]]}}
+! class="unsortable" style="width:50px;"|[[Jair Bolsonaro|Bolsonaro]]<br>{{small|[[Independent politician|Indep.]]}}
 ! class="unsortable" style="width:50px;"|[[Luiz Inácio Lula da Silva|Lula]]<br>{{small|[[Workers' Party (Brazil)|PT]]}}
 ! class="unsortable" style="width:50px;"|[[Fernando Haddad|Haddad]]<br>{{small|[[Workers' Party (Brazil)|PT]]}}
 ! class="unsortable" style="width:50px;"|[[Flávio Dino|Dino]]<br>{{small|[[Communist Party of Brazil|PCdoB]]}}
@@ -606,9 +761,6 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |2%{{efn|[[Luiz Henrique Mandetta]] (DEM) with 2%}}
 |13%
 |style="background:#cc0000;color:#ffffff;"| 18%
-|-
-| colspan="6" |May
-| colspan="10" |'''[[Luiz Inácio Lula da Silva|Lula]] announces candidacy.'''<ref>{{Cite web|title=Lula reitera candidatura presidencial contra Bolsonaro em 2022|url=https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2021/05/20/lula-reitera-candidatura-presidencial-contra-bolsonaro-em-2022.ghtml|access-date=2021-11-10|website=Valor Investe|language=pt-br}}</ref>
 |-
 |[https://exame.com/brasil/exame-ideia-pela-primeira-vez-lula-vence-bolsonaro-em-2022/ ''Exame/Ideia'']
 |19–22 Apr
@@ -1054,11 +1206,11 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |}
 
 ====2020====
-{| class="wikitable sortable" style="text-align:center;font-size:80%;line-height:14px;"
+{| class="wikitable sortable" style="text-align:center;font-size:85%;line-height:14px;"
 ! rowspan="2"| Pollster/client(s)
 ! rowspan="2"| Fieldwork<br>date(s)
 ! rowspan="2" data-sort-type="number"| Sample<br>size
-! class="unsortable" style="width:50px;"|[[Jair Bolsonaro|Bolsonaro]]<br>{{small|[[Liberal Party (Brazil, 2006)|PL]]}}
+! class="unsortable" style="width:50px;"|[[Jair Bolsonaro|Bolsonaro]]<br>{{small|[[Independent politician|Indep.]]}}
 ! class="unsortable" style="width:50px;"|[[Luiz Inácio Lula da Silva|Lula]]<br>{{small|[[Workers' Party (Brazil)|PT]]}}
 ! class="unsortable" style="width:50px;"|[[Fernando Haddad|Haddad]]<br>{{small|[[Workers' Party (Brazil)|PT]]}}
 ! class="unsortable" style="width:50px;"|[[Flávio Dino|Dino]]<br>{{small|[[Communist Party of Brazil|PCdoB]]}}
@@ -1562,7 +1714,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! rowspan="2"| Pollster/client(s)
 ! rowspan="2"| Fieldwork<br>date(s)
 ! rowspan="2" data-sort-type="number"| Sample<br>size
-! class="unsortable" style="width:50px;"|[[Jair Bolsonaro|Bolsonaro]]<br>{{small|[[Liberal Party (Brazil, 2006)|PL]]}}
+! class="unsortable" style="width:50px;"|[[Jair Bolsonaro|Bolsonaro]]<br>{{small|[[Independent politician|Indep.]]}}
 ! class="unsortable" style="width:50px;"|[[Luiz Inácio Lula da Silva|Lula]]<br>{{small|[[Workers' Party (Brazil)|PT]]}}
 ! class="unsortable" style="width:50px;"|[[Fernando Haddad|Haddad]]<br>{{small|[[Workers' Party (Brazil)|PT]]}}
 ! class="unsortable" style="width:50px;"|[[Ciro Gomes|Gomes]]<br>{{small|[[Democratic Labour Party (Brazil)|PDT]]}}

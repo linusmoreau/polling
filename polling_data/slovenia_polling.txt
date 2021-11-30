@@ -43,6 +43,30 @@ Poll results are listed in the table in reverse chronological order, showing the
 ! class="unsortable" style="background: {{Good State (Slovenia)/meta/color}}; width:30px"|
 ! class="unsortable" style="background: #6ab32e; width:30px"|
 |-
+|data-sort-value="2021-11-11"|9–11 Nov 2021
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|700
+|style="background:#FFFFBF" |'''17.0'''
+|7.3
+|13.9
+|0.3
+|8.1
+|6.6
+|4.3
+|1.2
+|1.2
+|1.7
+|–
+|–
+|–
+|1.6
+|–
+|32.7
+|4.1
+|style="background:{{Slovenian Democratic Party/meta/color}}" |3.1
+|<ref>{{Cite web|title=Raziskava: SDS ostaja vodilni, skoraj tretjina vprašanih še neopredeljena|url=https://www.rtvslo.si/slovenija/raziskava-sds-ostaja-vodilni-skoraj-tretjina-vprasanih-se-neopredeljena/601278|access-date=2021-11-15|language=sl-SI}}</ref>
+|-
 |{{opdrts||8|Nov|2021|year}}{{efn|name=date|Publication date}}
 |Mediana
 | [[Delo (newspaper)|''Delo'']]
@@ -66,6 +90,30 @@ Poll results are listed in the table in reverse chronological order, showing the
 |3.1
 | style="background:{{Slovenian Democratic Party/meta/color}}" |3.0
 |<ref>{{Cite web|title=Anketa Dela: SD zanihala navzgor, raste NSi, ki je izenačena s padajočo LMŠ|url=https://www.domovina.je/anketa-dela-sd-zanihala-navzgor-raste-nsi-ki-je-izenacena-s-padajoco-lms/|website=www.domovina.je|language=sl}}</ref>
+|-
+|20 Sep–4 Nov 2021
+|Parsifal
+|[[Nova24TV]]
+|{{N/A}}
+|style="background:#FFFFBF" |'''25.4'''
+|7.3
+|15.4
+|1.0
+|6.7
+|5.1
+|4.3
+|2.8
+|1.6
+|5.0{{efn|name=PoS}}
+|1.6
+|1.0
+|{{efn|name=PoS}}
+|2.5{{efn|[[Our Country (Slovenia)|Our Country]] 1.2%, [[Green Actions]] 0.3%}}
+|4.0
+|16.1
+|0.1
+|style="background:{{Slovenian Democratic Party/meta/color}}" |10.0
+|<ref>{{Cite web|date=2021-11-13|title=[Javnomnenjska anketa] SDS zanesljivo vodi, SD prevladala v KUL-u, lista Povežimo Slovenijo izenačena z NSi {{!}} Nova24TV|url=https://nova24tv.si/slovenija/politika/javnomnenjska-anketa-sds-zanesljivo-vodi-sd-prevladala-v-kul-u-lista-povezimo-slovenijo-izenacena-z-nsi/|access-date=2021-11-16|language=sl-SI}}</ref>
 |-
 |{{opdrts||25|Oct|2021|year}}{{efn|name=date|Publication date}}
 |Mediana

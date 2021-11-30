@@ -27,6 +27,186 @@
 ! data-sort-type="number" style="height:1px; background:{{Poland 2050/meta/color}};"|
 ! data-sort-type="number" style="height:1px; background:{{AGROunia/meta/color}};"|
 |-
+| [https://dorzeczy.pl/kraj/231823/najnowszy-sondaz-pis-i-konfederacja-blisko-wiekszosci.html Estymator / DoRzeczy.pl]
+| data-sort-value="2021-11-26" | 25–26 Nov 2021
+| 1,021
+| style="background:#C0DBFC;" | '''35.3'''
+| 
+| 23.8
+| 7.7
+| 7.1
+| 
+| 8.6
+| 15.8
+|
+| 1.7
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''11.5'''
+|-
+| style="letter-spacing: -1px;"|  [https://twitter.com/IBRiS_PL/status/1463573197933191182 IBRiS / "Wydarzenia" Polsat]
+| data-sort-value="2021-11-23" | 23 Nov 2021
+| 1,100
+| style="background:#C0DBFC;" | '''30.2'''
+|
+| 21.8
+| 7.6
+| 5.1
+| 
+| 9.3
+| 13.0
+|
+| 13.0
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''8.4'''
+|-
+| [https://www.se.pl/wiadomosci/polityka/najnowszy-sondaz-po-rajdzie-tuska-te-wyniki-mowia-wszystko-o-poparciu-pis-aa-MDYp-kgAB-Rda9.html Pollster / SE.pl]
+| data-sort-value="2021-11-23" | 22–23 Nov 2021
+| 1,016
+| style="background:#C0DBFC;" | '''37.53'''
+| 0.68
+| 24.30
+| 8.04
+| 4.46
+| 0.97
+| 8.00
+| 15.74
+| 
+| 0.28
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''13.23'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/575434-nasz-sondaz-pis-nadal-wysoko-choc-ko-nieco-blizej-sprawdz Social Changes / wPolityce.pl]
+| data-sort-value="2021-11-22" | 19–22 Nov 2021
+| 1,079
+| style="background:#C0DBFC;" | '''39'''
+| 1
+| 25
+| 8
+| 1
+| 1
+| 10
+| 13
+| 
+| 2
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''14'''
+|-
+| [https://twitter.com/IBRiS_PL/status/1463040071293100032 IBRiS / "Rz"]
+| data-sort-value="2021-11-20" | 19–20 Nov 2021
+| 1,100
+| style="background:#C0DBFC;" | '''30.2'''
+|
+| 21.2
+| 8.4
+| 4.6
+|
+| 6.1
+| 13.2
+|
+| 16.3
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''9.0'''
+|-
+| style="letter-spacing: -1px;"|[https://www.rmf24.pl/fakty/polska/news-sondaz-dla-rmf-fm-i-dgp-pis-i-ko-traca-poparcie,nId,5661588#crp_state=1 United Surveys / DGP, RMF]
+| data-sort-value="2021-11-19" | 18–19 Nov 2021
+| 1,000
+| style="background:#C0DBFC;" | '''31.0'''
+|
+| 22.1
+| 7.0
+| 5.8
+|
+| 6.5
+| 12.3
+|
+| 15.2
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''8.9'''
+|-
+| [https://wiadomosci.wp.pl/sondaz-parlamentarny-dla-wp-pis-traci-poparcie-przybywa-niezdecydowanych-6707263637957376a United Surveys / WP.pl]
+| data-sort-value="2021-11-19" | 18–19 Nov 2021
+| 1,000
+| style="background:#C0DBFC;" | '''30.6'''
+|
+| 21.7
+| 7.7
+| 5.1
+|
+| 5.8
+| 13.3
+|
+| 15.8
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''8.9'''
+|-
+| [https://wiadomosci.onet.pl/kraj/sondaz-partyjny-pis-na-czele-jednak-jest-ale/qdbw8gr Kantar Public / "GW"]
+| data-sort-value="2021-11-18" | 16–18 Nov 2021
+| 1,002
+| style="background:#C0DBFC;" | '''30'''
+| 0
+| 24
+| 8
+| 4
+| 2
+| 9
+| 14
+| 
+| 10
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''6'''
+|-
+| [https://wiadomosci.onet.pl/kraj/pis-traci-najwiecej-do-rzadzacych-zbliza-sie-koalicja-obywatelska-sondaz/x2q5bel?utm_source=tw_wiadomosci_viasg_wiadomosci&utm_medium=social&utm_campaign=onetsg_fb&srcc=ucs&utm_v=2 Kantar Public]
+| data-sort-value="2021-11-17" | 12–17 Nov 2021
+| 968
+| style="background:#C0DBFC;" | '''29'''
+| 1
+| 24
+| 7
+| 4
+| 2
+| 5
+| 10
+| 
+| 11
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''5'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/media/574397-nasz-sondaz-pis-mocno-w-goretraca-ko-polska-2050-lewica Social Changes / wPolityce.pl]
+| data-sort-value="2021-11-15" | 12–15 Nov 2021
+| 1,069
+| style="background:#C0DBFC;" | '''41'''
+| 1
+| 23
+| 7
+| 1
+| 2
+| 11
+| 13
+| 
+| 1
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''18'''
+|-
+| [https://twitter.com/CBOS_Info/status/1460238117512826883 CBOS]
+| data-sort-value="2021-11-14" | 4–14 Nov 2021
+| 1,100
+| style="background:#C0DBFC;" | '''29.3'''
+| 
+| 17.9
+| 4.9
+| 2
+| 1
+| 5.5
+| 12.0
+|
+| 27
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''11.4'''
+|-
+| [https://www.polsatnews.pl/wiadomosc/2021-11-12/spadek-zjednoczonej-prawicy-wzrost-koalicji-obywatelskiej-badanie-popularnosci-partii-politycznych/ Research Partner]
+| data-sort-value="2021-11-09" | 5–9 Nov 2021
+| 1,038
+| style="background:#C0DBFC;" | '''33.8'''
+| 0.6
+| 23.8
+| 7.6
+| 2.2
+| 1.1
+| 9.4
+| 10.8
+|
+| 10.7
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''10.0'''
+|-
 | style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/573708-nasz-sondaz-pis-i-ko-lekko-traca-bardzo-slaby-wynik-psl Social Changes / wPolityce.pl]
 | data-sort-value="2021-11-08" | 5–8 Nov 2021
 | 1,082
@@ -301,7 +481,7 @@
 | data-sort-value="2021-10-07" | 7 Oct 2021
 | colspan="12" |'''[[Constitutional Tribunal (Poland)|Constitutional Tribunal]]'s [[Constitutional Tribunal (Poland)#Case K 3/21|landmark decision]] on the [[primacy of European Union law]], sparking protests<ref>{{cite news|title =Constitutional Tribunal: EU treaties partially unconstitutional|url = https://tvn24.pl/tvn24-news-in-english/polands-constitutional-tribunal-some-articles-of-eu-treaties-unconstitutional-5443509|date = 7 October 2021|website= tvn24.pl}}</ref><ref>{{cite news|title =Dziś w Polsce prounijne manifestacje opozycji. Straż Narodowa organizuje kontrmanifestację [RELACJA NA ŻYWO]|url = https://wiadomosci.onet.pl/kraj/dzis-w-polsce-protesty-tuska-i-opozycji-kontrmanifestacja-narodowcow/74nf0pd|date =10 October 2021 |website=onet.pl}}</ref>
 |-
-| style="letter-spacing: -1px;"| [https://www.polsatnews.pl/wiadomosc/2021-10-09/sondaz-dla-wydarzen-polsatu-rozne-scenariusze-dla-opozycji/?ref=aside_najnowsze IBRiS "Wydarzenia" Polsat]
+| style="letter-spacing: -1px;"| [https://www.polsatnews.pl/wiadomosc/2021-10-09/sondaz-dla-wydarzen-polsatu-rozne-scenariusze-dla-opozycji/?ref=aside_najnowsze IBRiS / "Wydarzenia" Polsat]
 | data-sort-value="2021-10-06" | 6 Oct 2021
 | 1,100
 | style="background:#C0DBFC;" | '''34.3'''
@@ -847,7 +1027,7 @@
 |-
 |
 | data-sort-value="2021-08-12" | Early August 2021
-| colspan=12 |'''[[2021 Belarus–European Union border crisis#In Poland|Beginning of the Belarus-Poland border crisis]]'''
+| colspan=12 |'''[[2021 Belarus–European Union border crisis#Poland|Beginning of the Belarus-Poland border crisis]]'''
 |-
 |
 | data-sort-value="2021-08-11" | 11 August 2021
@@ -2357,6 +2537,19 @@
 | 14
 | 14
 | style="background:{{Law and Justice/meta/color}}; color:white;"| '''6'''
+|-
+| [https://www.wirtualnemedia.pl/artykul/sondaz-wyborczy-na-czele-prawo-i-sprawiedliwosc-polska-2050-szymona-holowni Research Partner]
+| data-sort-value="2021-03-08" | 5–8 Mar 2021 
+| 1,145
+| style="background:#C0DBFC;" | '''26.9''' 
+| 17.9
+| 10.0
+| 1.1
+| 2.5
+| 8.0
+| 22.1
+| 11.4
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''4.8'''
 |-
 | rowspan="2" style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/542599-najnowszy-sondaz-partyjny-w-sejmie-5-partii-ale-bez-psl Social Changes / wPolityce.pl]
 | rowspan="2" data-sort-value="2021-03-08" | 5–8 Mar 2021

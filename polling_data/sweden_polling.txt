@@ -25,8 +25,50 @@
 ! style="background:{{Christian Democrats (Sweden)/meta/color}};"|
 ! style="background:{{Sweden Democrats/meta/color}};"|
 |-
+|Ipsos<ref>https://www.dn.se/sverige/magdalena-andersson-har-annu-inte-lyckats-lyfta-s/</ref>
+|Nov 2021
+|{{N/A}}
+|11
+| style="background:#F9BDC5;" |'''25''' 
+|4
+|8
+|3
+|21
+|6
+|20
+|1
+|style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |4
+|-
+|Sifo<ref>https://www.svd.se/svd-sifo-uppsving-for-s--mitt-i-forhandlingarna</ref>
+|8-18 Nov 2021
+|5,710
+|9.3
+| style="background:#F9BDC5;" |'''28.9''' 
+|3.6
+|8.1
+|2.3
+|21.0
+|4.6
+|20.3
+|1.8
+|style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |7.9
+|-
+|Demoskop<ref>https://www.aftonbladet.se/nyheter/a/z79XKb/sverigedemokraterna-rasar-i-ny-undersokning</ref>
+|5–11 Nov 2021
+|2,359
+|8.1
+| style="background:#F9BDC5;" |'''27.0''' 
+|3.4
+|9.7
+|3.2
+|23.6
+|5.3
+|18.7
+|1.0
+|style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |3.4
+|-
 |Novus<ref>https://novus.se/wp-content/uploads/2021/11/valjarbarometer2021nov-1.pdf</ref>
-|4-31 Oct 2021
+|4–31 Oct 2021
 |3,660
 |11.3
 | style="background:#F9BDC5;" |'''25.6''' 
@@ -40,7 +82,7 @@
 |style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |2.7
 |-
 |Sentio<ref>https://nyheteridag.se/plus/sd-storsta-parti-i-sentio-s-pa-tredje-plats/</ref>
-|21-25 Oct 2021
+|21–25 Oct 2021
 |–
 |11.9
 |21.1
@@ -54,7 +96,7 @@
 |style="background:{{Sweden Democrats/meta/color}};color:black;" |1.2
 |-
 |Ipsos<ref>https://www.dn.se/sverige/dn-ipsos-flera-partier-balanserar-pa-riksdagssparren/</ref>
-|12-25 Oct 2021
+|12–25 Oct 2021
 |1,572
 |11
 | style="background:#F9BDC5;" |'''26''' 
@@ -68,7 +110,7 @@
 |style="background:{{Swedish Social Democratic Party/meta/color}};color:white;" |6
 |-
 |SKOP<ref>https://skop.se/main/wp-content/uploads/2021/10/SKOPs-Valjarbarometer-27-oktober-2021.pdf</ref>
-|15-17 Oct 2021
+|15–17 Oct 2021
 |1,011
 |11.5
 | style="background:#F9BDC5;" |'''24.3''' 

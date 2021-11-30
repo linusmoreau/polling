@@ -45,6 +45,85 @@
 ! data-sort-type="number" style="background:{{Social Democrats (Denmark)/meta/color}};"|
 ! data-sort-type="number" style="background:{{Venstre (Denmark)/meta/color}};"|
 |-
+|[https://twitter.com/Annamidtgaard/status/1462693340269494276 Voxmeter]
+|15–21 Nov 2021
+|1,250
+| style="background:#FACECD;" |'''25.8'''
+|17.5
+|5.8
+|5.2
+|8.4
+|8.7
+|14.7
+|1.5
+|6.3
+|3.0
+| –
+|1.7
+| –
+|0.1
+| –
+|0.0
+|1.3
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |8.3
+| style="background:#FACECD;" |'''49.7'''
+|49.0
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |0.7
+|-
+| colspan="24" style="background:#A0A0A0"|
+|- style="background:#EFEFEF;"
+| ''[[2021 Danish local elections|Local elections]]''
+|16 Nov 2021
+|3,088,128
+| style="background:#FACECD;" |'''28.5'''
+|21.2
+|4.1
+|5.6
+|7.6
+|7.3
+|15.2
+|0.7
+|3.6
+|1.4
+| –
+|0.8
+| –
+|0.2
+| –
+| –
+|3.6
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |7.3
+| style="background:#FACECD;" |'''49.7'''
+|46.3
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |3.4
+|-
+| colspan="24" style="background:#A0A0A0"|
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-14-11-2021.pdf Voxmeter]
+|8–14 Nov 2021
+|1,593
+| style="background:#FACECD;" |'''26.5'''
+|16.3
+|6.4
+|5.3
+|7.8
+|8.9
+|14.3
+|1.1
+|5.7
+|3.5
+| –
+|1.7
+| –
+|0.1
+| –
+|0.2
+|2.2
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |10.2
+| style="background:#FACECD;" |'''49.9'''
+|47.9
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |2.0
+|-
 |[https://nyheder.tv2.dk/politik/2021-11-10-ny-maaling-viser-doedt-loeb-mellem-roed-og-blaa-blok-og-saa-faar-de-konservative Megafon]
 |8–10 Nov 2021
 |{{N/A}}

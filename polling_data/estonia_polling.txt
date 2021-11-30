@@ -6,10 +6,10 @@
 ! class="unsortable" style="width:50px;"|[[Estonian Reform Party|Ref]]
 ! class="unsortable" style="width:50px;"|[[Estonian Centre Party|Kesk]]
 ! class="unsortable" style="width:50px;"|[[Conservative People's Party of Estonia|EKRE]]
-! class="unsortable" style="width:50px;"|[[Isamaa|I]]
+! class="unsortable" style="width:50px;"|[[Isamaa]]
 ! class="unsortable" style="width:50px;"|[[Social Democratic Party (Estonia)|SDE]]
 ! class="unsortable" style="width:50px;"|[[Estonia 200|E200]]
-! class="unsortable" style="width:50px;"|[[Estonian Greens|Green]]
+! class="unsortable" style="width:50px;"|[[Estonian Greens|EER]]
 ! rowspan="2" class="unsortable"| Others
 ! rowspan="2" data-sort-type="number"| Lead 
 ! class="unsortable" style="width:20px;"| {{abbr|Gov.|Government parties (Reform, Centre)}}
@@ -60,7 +60,7 @@
 | ≥1,000
 | 22.8
 | 20.3
-| style="background:#AEDDFF;"| '''24'''
+| style="background:#AEDDFF;"| '''24.0'''
 | 8.3
 | 7.3
 | 14.2

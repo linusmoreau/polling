@@ -12,7 +12,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! class="sortable" style="width:35px;"| [[File:PS Logo (Text version).png|33px|link=Socialist Party (Portugal)|PS]]
 ! class="sortable" style="width:35px;"| [[File:Partido Social Democrata Logo.svg|32x32px|link=Social Democratic Party (Portugal)|PSD]]
 ! class="sortable" style="width:35px;"| [[File:LeftBloc.svg|25px|link=Left Bloc (Portugal)|BE]]
-! class="sortable" style="width:35px;"| [[File:PCP-PEV.svg|31x31px|link=Unitary Democratic Coalition|CDU]]
+! class="sortable" style="width:35px;"| [[File:Logo of the Unitary Democratic Coalition.svg|31px|link=Unitary Democratic Coalition|CDU]]
 ! class="sortable" style="width:35px;"| [[File:Cds simbolo 2.png|25px|link=CDS – People's Party|CDS–PP]]
 ! class="sortable" style="width:35px;"| [[File:Logo Pessoas-Animais-Natureza (text only).png|30px|link=People–Animals–Nature|PAN]]
 ! class="sortable" style="width:35px;"| [[File:Logo Chega!.png|33px|link=Chega (political party)|CH]]
@@ -29,7 +29,39 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! class="sortable" style="background:{{People–Animals–Nature/meta/color}};"|
 ! class="sortable" style="background:#202056;"|
 ! class="sortable" style="background:#00ADEF;"|
-! class="sortable" style="background:darkseagreen;"|
+! class="sortable" style="background:{{LIVRE/meta/color}};"|
+|-
+|[https://cnnportugal.iol.pt/eleicoes-legislativas/rui-rio/sondagem-tvi-cnn-empate-tecnico-entre-ps-e-psd-com-rio-na-lideranca/20261130/619fecca0cf2cc58e7d4e123 Pitagórica]
+|data-sort-value="2019-10-03" | 10–15 Nov 2021
+|625
+|?
+| {{Party shading/PS}} |'''38.2'''
+| 32.1
+| 5.4
+| 5.2
+| 0.8
+| 1.9
+| 7.1
+| 4.2
+| –
+| 5.1
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |6.1
+|-
+|[https://www.cmjornal.pt/multimedia/infograficos/detalhe/sondagem-intencao-de-voto-agora-e-comparacao-com-os-resultados-de-setembro Intercampus]
+| data-sort-value="2019-10-03" | 5–11 Nov 2021
+| 612
+|?
+| {{Party shading/PS}} |'''39.0'''
+| 28.1
+| 7.7
+| 5.3
+| 2.0
+| 4.4
+| 6.3
+| 4.2
+| 0.2
+| 2.8
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |10.9
 |-
 |[https://www.rtp.pt/noticias/politica/cecilia-meireles-deputada-do-cds-vai-abandonar-a-vida-politica_v1361190 CESOP–UCP]
 | data-sort-value="2019-10-03" | 29 Oct–4 Nov 2021
@@ -46,6 +78,22 @@ Poll results are listed in the table below in reverse chronological order, showi
 | –
 | 4
 | style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |9
+|-
+|[https://sicnoticias.pt/especiais/eleicoes-legislativas/2021-11-13-Sondagem-SIC-Expresso-PS-aumenta-vantagem-e-Chega-e-terceira-forca-politica-9cfb3e8b ICS/ISCTE]
+| data-sort-value="2019-10-03" | 21 Oct–1 Nov 2021
+| 800
+|?
+| {{Party shading/PS}} |'''40'''
+| 26
+| 5
+| 6
+| 1
+| 2
+| 10
+| 2
+| –
+| 8
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |14
 |-
 |[https://www.tsf.pt/portugal/politica/ha-14-pontos-a-separar-ps-e-psd-na-intencao-de-voto-costa-jeronimo-e-catarina-caem-14288786.html Aximage]
 |28–31 Oct 2021
@@ -1411,4 +1459,51 @@ Poll results are listed in the table below in reverse chronological order, showi
 | style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;"|'''8.6'''
 |-
 | colspan="15" style="background:#A0A0A0"|
+|}
+
+====Hypothetical scenarios====
+=====Paulo Rangel as PSD leader=====
+{| class="wikitable sortable mw-datatable" style="text-align:center;font-size:95%;line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:145px;" rowspan="2"| Polling firm/Link
+! style="width:145px;" rowspan="2"| Fieldwork date
+! class="unsortable" style="width:50px;" rowspan="2"| Sample size
+! class="unsortable" style="width:45px;" rowspan="2"| Turnout
+! class="sortable" style="width:35px;"| [[File:PS Logo (Text version).png|33px|link=Socialist Party (Portugal)|PS]]
+! class="sortable" style="width:35px;"| [[File:MERCOSUL - Representação Brasileira no Parlamento do Mercosul (22371092998) (cropped).jpg|35px|link=Paulo Rangel|PSD (Paulo Rangel)]]
+! class="sortable" style="width:35px;"| [[File:LeftBloc.svg|25px|link=Left Bloc (Portugal)|BE]]
+! class="sortable" style="width:35px;"| [[File:Logo of the Unitary Democratic Coalition.svg|31px|link=Unitary Democratic Coalition|CDU]]
+! class="sortable" style="width:35px;"| [[File:Cds simbolo 2.png|25px|link=CDS – People's Party|CDS–PP]]
+! class="sortable" style="width:35px;"| [[File:Logo Pessoas-Animais-Natureza (text only).png|30px|link=People–Animals–Nature|PAN]]
+! class="sortable" style="width:35px;"| [[File:Logo Chega!.png|33px|link=Chega (political party)|CH]]
+! class="sortable" style="width:35px;"| [[File:Iniciativa Liberal logo 1.png|33px|link=Liberal Initiative (Portugal)|IL]]
+! class="sortable" style="width:35px;"| [[File:Partido_LIVRE_logo.png|25px|link=LIVRE|L]]
+! class="unsortable" style="width:35px;" rowspan="2"| {{abbr|O|Others}}
+! class="unsortable" style="width:30px;" rowspan="2"| Lead
+|-
+! class="sortable" style="background:{{Socialist Party (Portugal)/meta/color}};"|
+! class="sortable" style="background:{{Social Democratic Party (Portugal)/meta/color}};"|
+! class="sortable" style="background:{{Left Bloc (Portugal)/meta/color}};"|
+! class="sortable" style="background:{{Unitary Democratic Coalition/meta/color}};"|
+! class="sortable" style="background:{{CDS – People's Party/meta/color}};"|
+! class="sortable" style="background:{{People–Animals–Nature/meta/color}};"|
+! class="sortable" style="background:#202056;"|
+! class="sortable" style="background:#00ADEF;"|
+! class="sortable" style="background:{{LIVRE/meta/color}};"|
+|-
+|[https://cnnportugal.iol.pt/eleicoes-legislativas/rui-rio/sondagem-tvi-cnn-empate-tecnico-entre-ps-e-psd-com-rio-na-lideranca/20261130/619fecca0cf2cc58e7d4e123 Pitagórica]
+|data-sort-value="2019-10-03" | 10–15 Nov 2021
+|625
+|?
+| {{Party shading/PS}} |'''39.6'''
+| 23.9
+| 5.7
+| 5.5
+| 2.4
+| 2.0
+| 8.4
+| 5.1
+| –
+| 7.4
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |15.7
 |}

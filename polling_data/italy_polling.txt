@@ -31,6 +31,272 @@
 ! style="background:{{Action (Italy)/meta/color}};"|
 ! style="background:{{Italia Viva/meta/color}};"|
 ! style="background:{{Coraggio Italia/meta/color}};"|
+|- 
+|24–29 Nov
+|[https://twitter.com/swg_research/status/1465402686086418432/photo/1 SWG]
+|1,200
+|15.7
+|style="background:#FFD0D7;"|'''21.1'''
+|18.8
+|7.0
+|19.4
+|2.0
+|2.5
+|1.7
+|2.2
+|4.2
+|2.7
+|
+|2.7
+|style="background:#EF1C27; color:white;"|1.7
+|- 
+|27 Nov
+|[https://www.dire.it/27-11-2021/688871-monitor-italia-pd-primo-partito-lega-sempre-dietro-a-fdi-centrodestra-in-vantaggio/ Tecnè]
+|
+|15.9
+|style="background:#FFD0D7;"|'''20.3'''
+|18.3
+|7.7
+|19.9
+|2.1
+|2.1
+|1.5
+|2.1
+|3.7
+|2.4
+|
+|4.0
+|style="background:#EF1C27; color:white;"|0.4
+|- 
+|25 Nov
+|[https://scenaripolitici.com/2021/11/sondaggio-ipsos-27-novembre-2021.html Ipsos]
+|–
+|15.5
+|style="background:#FFD0D7;"|'''20.8'''
+|19.1
+|8.5
+|19.8
+|0.9
+|1.9
+|2.3
+|1.9
+|2.3
+|2.0
+|
+|5.0
+|style="background:#EF1C27; color:white;"|1.0
+|-
+|17–22 Nov
+|[https://tg.la7.it/politica/il-sondaggio-politico-di-lunedì-22-novembre-2021-22-11-2021-166431/ SWG]
+|1,200
+|15.7
+|style="background:#FFD0D7;"|'''20.8'''
+|18.4
+|6.8
+|19.8
+|2.2
+|2.5
+|2.1
+|2.4
+|4.0
+|2.4
+|1.0
+|1.9
+|style="background:#EF1C27; color:white;"|1.0
+|- 
+|19 Nov
+|[https://scenaripolitici.com/2021/11/sondaggio-tecne-20-novembre-2021.html Tecnè]
+|1,000
+|16.1
+|style="background:#FFD0D7;"|'''20.3'''
+|18.4
+|7.6
+|19.9
+|2.0
+|2.0
+|1.6
+|2.0
+|3.8
+|2.3
+|
+|4.0
+|style="background:#EF1C27; color:white;"|0.4
+|- 
+|16–18 Nov
+|[https://scenaripolitici.com/2021/11/sondaggio-winpoll-20-novembre-2021.html Winpoll]
+|1,000
+|11.0
+|style="background:#FFD0D7;"|'''22.8'''
+|21.7
+|10.3
+|19.1
+|colspan="2" |2.0
+|1.2
+|1.6
+|3.4
+|2.7
+|0.4
+|3.8
+|style="background:#EF1C27; color:white;"|1.1
+|-
+|16–18 Nov
+|[https://www.termometropolitico.it/1598584_sondaggi-tp-quarta-ondata-un-italiano-su-due-vuole-restrizioni-per-i-soli-non-vaccinati.html Termometro Politico]
+|3,200
+|15.8
+|19.7
+|19.5
+|7.1
+|style="background:#E5E7FF;" |'''20.7'''
+|colspan="2" |2.9
+|1.6
+|1.5
+|3.4
+|2.9
+|
+|3.9
+|style="background:#03386A; color:white;"|1.0
+|-
+|17 Nov
+|[https://scenaripolitici.com/2021/11/sondaggio-euromedia-research-18-novembre-2021.html Euromedia]
+|800
+|16.2
+|style="background:#FFD0D7;"|'''20.5'''
+|18.1
+|8.0
+|19.0
+|2.0
+|1.6
+|1.8
+|1.7
+|4.0
+|2.2
+|
+|4.9
+|style="background:#EF1C27; color:white;"|1.5
+|-
+|17 Nov
+|[https://www.la7.it/piazzapulita/video/conte-guarda-i-sondaggi-e-ironizza-su-italia-viva-lasci-stare-la-seconda-tabella-18-11-2021-409438 Index]
+|800
+|15.7
+|style="background:#FFD0D7;"|'''20.0'''
+|18.3
+|7.8
+|19.2
+|2.2
+|2.3
+|1.5
+|2.2
+|4.1
+|2.0
+|1.0
+|3.7
+|style="background:#EF1C27; color:white;"|0.8
+|-
+|16 Nov
+|[https://scenaripolitici.com/2021/11/sondaggio-emg-different-22-novembre-2021.html EMG]
+|1,478
+|15.3
+|style="background:#FFD0D7;"|'''19.6'''
+|18.5
+|7.0
+|19.4
+|1.8
+|2.3
+|1.3
+|2.2
+|3.6
+|4.2
+|1.4
+|3.4
+|style="background:#EF1C27; color:white;"|0.2
+|-
+|15 Nov
+|[https://scenaripolitici.com/2021/11/sondaggio-emg-different-16-novembre-2021.html EMG]
+|1,625
+|15.3
+|style="background:#FFD0D7;"|'''19.7'''
+|18.8
+|7.0
+|19.2
+|1.7
+|2.3
+|1.3
+|2.3
+|3.5
+|4.1
+|1.4
+|3.3
+|style="background:#EF1C27; color:white;"|0.5
+|-
+|15 Nov
+|[https://scenaripolitici.com/2021/11/sondaggio-piepoli-15-novembre-2021.html Piepoli]
+|–
+|16.5
+|style="background:#FFD0D7;"|'''20.5'''
+|18.5
+|7.0
+|19.0
+|colspan="2" |2.5
+|2.0
+|
+|4.0
+|2.5
+|
+|7.5
+|style="background:#EF1C27; color:white;"|1.5
+|-
+|10–15 Nov
+|[https://tg.la7.it/politica/il-sondaggio-politico-di-lunedì-15-novembre-2021-15-11-2021-166223/ SWG]
+|1,200
+|16.1
+|style="background:#FFD0D7;"|'''20.3'''
+|18.7
+|6.9
+|20.2
+|2.4
+|2.5
+|1.9
+|2.1
+|3.9
+|2.2
+|1.0
+|1.8
+|style="background:#EF1C27; color:white;"|0.1
+|- 
+|8–14 Nov
+|[https://sondaggibidimedia.com/sondaggio-lab2101-14-novembre/ Lab2101]
+|1,000
+|15.9
+|style="background:#FFD0D7;"|'''20.7'''
+|19.8
+|7.1
+|18.3
+|colspan="2"|4.1
+|1.8
+|1.2
+|4.0
+|2.6
+|
+|4.5
+|style="background:#EF1C27; color:white;"|0.9
+|- 
+|12 Nov
+|[https://www.dire.it/13-11-2021/685042-sondaggio-dire-tecne-sorpasso-pd-su-fdi-ora-e-il-primo-partito/ Tecnè]
+|1,000
+|16.2
+|style="background:#FFD0D7;"|'''20.4'''
+|18.4
+|7.5
+|20.0
+|2.1
+|2.0
+|1.5
+|2.0
+|3.9
+|2.2
+|
+|3.8
+|style="background:#EF1C27; color:white;"|0.4
 |-
 |10 Nov
 |[https://scenaripolitici.com/2021/11/sondaggio-index-research-11-novembre-2021.html Index]
@@ -49,6 +315,42 @@
 |1.1
 |3.3
 |style="background:#EF1C27; color:white;"|1.2
+|-
+|8–10 Nov
+|[https://www.repubblica.it/politica/2021/11/13/news/sondaggi_virus_italiani_insicurezza_draghi-326175625/amp/ Demos & Pi]
+|1,015
+|16.1
+|style="background:#FFD0D7;"|'''20.4'''
+|18.4
+|8.3
+|19.8
+|
+|2.0
+|2.5
+|2.1
+|3.0
+|2.3
+|
+|5.1
+|style="background:#EF1C27; color:white;"|0.6
+|-
+|9 Nov
+|[https://scenaripolitici.com/2021/11/sondaggio-emg-different-12-novembre-2021.html EMG]
+|1,428
+|15.2
+|style="background:#FFD0D7;"|'''19.7'''
+|18.5
+|7.1
+|19.2
+|1.8
+|2.4
+|1.3
+|2.1
+|3.8
+|4.2
+|1.4
+|3.3
+|style="background:#EF1C27; color:white;"|0.5
 |-
 |5–8 Nov
 |[https://www.istitutoixe.it/2021/11/08/intenzioni-di-voto-8-novembre-2021/ Ixè]
