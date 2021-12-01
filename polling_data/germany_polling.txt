@@ -35,6 +35,19 @@
 | 7.5
 | style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
 |-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| {{opdrts|23|29|Nov|2021|year}}
+| 2,509
+| –
+| {{Party shading/SPD}}| '''24'''
+| 22
+| 17
+| 12
+| 10
+| 5
+| 10
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|22|26|Nov|2021|year}}
 | 1,403

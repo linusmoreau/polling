@@ -473,6 +473,21 @@ specs = {
         'threshold': 0,
         'end_date': Date(2025, 3, 17)
     },
+    'New Zealand': {
+        'include': ['Labour', 'National', 'Green', 'ACT', 'Maori', 'NZF', 'TOP', 'New Conservative'],
+        'key': ['date', 'firm', 'sample',
+                'Labour', 'National', 'Green', 'ACT', 'Maori', 'NZF', 'TOP', 'New Conservative',
+                'lead'],
+        'col': {'Labour': (255, 182, 182), 'National': (176, 206, 255), 'Green': (144, 238, 144), 'ACT': (255, 255, 0),
+                'Maori': (189, 148, 144), 'NZF': (211, 211, 211), 'TOP': (50, 218, 195),
+                'New Conservative': (145, 211, 255)},
+        'blocs': {'Left': ['Labour', 'Green', 'Maori'],
+                  'Right': ['National', 'ACT', 'TOP', 'New Conservative']},
+        'start': -1,
+        'url': 'https://en.wikipedia.org/w/index.php?title='
+               'Opinion_polling_for_the_next_New_Zealand_general_election&action=edit&section=2',
+        'end_date': Date(2024, 1, 13)
+    },
     'Norway': {
         'include': ['R', 'SV', 'MDG', 'Ap', 'Sp', 'V', 'KrF', 'H', 'FrP'],
         'key': ['firm', 'date', 'sample', 'resp',

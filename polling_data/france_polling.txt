@@ -47,8 +47,80 @@
 ! style="background:{{Independent (politician)/meta/color}};"|
 ! style="background:{{Popular Republican Union (2007)/meta/color}};"|
 |-
+| rowspan="3" style="background:GreenYellow"|[https://harris-interactive.fr/wp-content/uploads/sites/6/2021/11/HVBTA-X43.pdf Harris-Interactive]
+| rowspan="3" |23-26 Nov 2021
+| rowspan="3" |2601
+|1 %
+|1 %
+|2 %
+|10 %
+|5 %
+|2 %
+|7 %
+|style="background:#FFED99" | '''23%'''
+|–
+|<0.5%
+|–
+|14 %
+|–
+|–
+|–
+|–
+|–
+|2 %
+|style="background:#E0E5F0;" | '''19%'''
+|1 %
+|13 %
+|<0.5%
+|-
+|1 %
+|1 %
+|2 %
+|10 %
+|5 %
+|2 %
+|8 %
+|style="background:#FFED99" | '''24%'''
+|–
+|<0.5%
+|–
+|–
+|–
+|–
+|–
+|11 %
+|–
+|2 %
+|style="background:#E0E5F0;" | '''20%'''
+|1 %
+|13 %
+|<0.5%
+|-
+|1 %
+|1 %
+|2 %
+|10 %
+|5 %
+|2 %
+|8 %
+|style="background:#FFED99" | '''24%'''
+|–
+|<0.5%
+|10 %
+|–
+|–
+|–
+|–
+|–
+|–
+|2 %
+|style="background:#E0E5F0;" | '''20%'''
+|2 %
+|13 %
+|<0.5%
+|-
 | rowspan="5" style="background:#FFCCCC"| [https://www.ifop.com/wp-content/uploads/2021/11/117825-Rapport-IV-presid..pdf Ifop-Fiducial]
-| rowspan="5" |23-25 Nov 2021
+| rowspan="5" |23–25 Nov 2021
 | rowspan="5" |1,351
 |0%
 |1%

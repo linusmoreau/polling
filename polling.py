@@ -681,7 +681,7 @@ def choices_setup():
                 if line not in d['col'].keys():
                     d['col'][line] = d['col'][d['gov'][line][0]]
         if 'file_name' not in d:
-            d['file_name'] = 'polling_data/' + c.lower() + '_polling.txt'
+            d['file_name'] = 'polling_data/' + c.lower().replace(' ', '_') + '_polling.txt'
         if 'include' not in d:
             d['include'] = None
         if 'vlines' not in d:
@@ -1183,7 +1183,7 @@ class MenuPage:
             b = Button((self.display.contain_rect.left, self.display.contain_rect.top + i * button_size),
                        (self.display.contain_rect.w, button_size), parent=self.display)
             b.callback(functools.partial(GraphPage, entry, to_end_date=True))
-            img_path = 'images/flags/' + entry.lower() + '.png'
+            img_path = 'images/flags/' + entry.lower().replace(' ', '_') + '.png'
             try:
                 img = Image((b.rect.centerx + b.rect.w / 8, b.rect.centery), (b.rect.w * 3 / 8, b.rect.h * 3 / 4),
                             img_path, align=LEFT)

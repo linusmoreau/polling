@@ -27,6 +27,19 @@
 
 PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological order - latest first - but users can sort the table. In order to preserve the ability to sort by polling date, please include an entry for data-sort-value in front of the polling date. In order to preserve the ability to sort by the polling company, please increment the relevant data-sort-value by one each time you add a new poll. So a new Behaviour & Attitudes poll would become "B&A14" if the last one was "B&A13". Please also wikilink the most recent poll (link goes to the publishing media outlet, piped to show the commissioning publisher and polling company) and please also unlink the prior poll from that company. If the above doesn't make sense to you, please do not make major changes. -->
 |-
+|data-sort-value="2021-11-25"|25 November 2021
+|data-sort-value="RedC13"|[[Business Post|Red C/Business Post]]<ref group="p">{{Cite tweet |author=Ireland Elects |user=ToghannEire |number=1464705833514713090  |title=Red C / Sunday Business Post }}</ref><ref>{{cite news|url=https://www.businesspost.ie/ireland/exclusive-red-cbusiness-post-poll-sinn-fein-shores-up-support-while-fine-gael-slips-further-back-d923fc3c|title=Sinn Féin shores up support while Fine Gael slips further back|last=Brennan|first=Michael|publisher=Business Post|date=27 November 2021|access-date=30 November 2021}}</ref>
+|1,001
+|style="background:#D7ECEA"|'''33'''
+|15
+|22
+|5
+|4
+|5
+|2
+|2
+|10
+|-
 |data-sort-value="2021-11-14"|14 November 2021
 |data-sort-value="ITMos16"|[[Irish Daily Mail|Ireland Thinks/Irish Mail on Sunday]]<ref group="p">{{Cite web|date=13 November 2021|title=Ireland Elects|url=https://twitter.com/NextIrishGE/status/1459670930679083013|url-status=live|access-date=17 November 2021|website=Twitter|language=en}}</ref>
 |?
@@ -54,7 +67,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |8
 |-
 |data-sort-value="2021-10-22"|22 October 2021
-|data-sort-value="RedC12"|[[Business Post|Red C/Business Post]]<ref group="p">{{Cite tweet |author=Next Irish General Election |user=NextIrishGE |number=1452002772887408640  |title=Red C / Sunday Business Post }}</ref>
+|data-sort-value="RedC12"|Red C/Business Post<ref group="p">{{Cite tweet |author=Next Irish General Election |user=NextIrishGE |number=1452002772887408640  |title=Red C / Sunday Business Post }}</ref>
 |?
 |style="background:#D7ECEA"|'''33'''
 |12
