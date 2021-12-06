@@ -1,5 +1,5 @@
 === 2021 ===
-{{For|events during the year|2021 in the United Kingdom}}
+{{For|political events during the year|2021 in United Kingdom politics and government}}
 {| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
 ! rowspan="2"|Dates<br>conducted
 ! rowspan="2"|Pollster
@@ -20,6 +20,61 @@
 ! data-sort-type="number" style="background:{{Scottish National Party/meta/color}};"|
 ! data-sort-type="number" style="background:{{Green Party of England and Wales/meta/color}};"|
 |-
+|{{opdrts||6|Dec|2021}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-6-december-2021/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|style="background:#CCEBFF;"|'''38%'''
+|36%
+|9%
+|4%
+|6%
+|{{Hidden|6%|[[Reform UK]] on 4%<br/>[[Plaid Cymru]] on 0%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|2%
+|-
+|{{opdrts|2|4|Dec|2021}}
+|[https://deltapoll.co.uk/wp-content/uploads/2021/12/Deltapoll-211204_voteint.pdf Deltapoll]
+|N/A
+|GB
+|1,553
+|37%
+|style="background:#FFCCD9;"|'''38%'''
+|10%
+|5%
+|5%
+|{{hidden|headerstyle=font-weight:normal;line-height:9px;|5%|[[Plaid Cymru]] on 1%<br/>[[UKIP]] on 2%<br/>[[Reform UK]] on 2% <br/>Other on 0%}}
+|style="background:{{Labour Party (UK)/meta/color}};color:#FFFFFF;"|1%
+|-
+|{{opdrts||2|Dec|2021}}
+|colspan="11"|[[2021 Old Bexley and Sidcup by-election|Old Bexley and Sidcup by-election]]
+|-
+|{{opdrts|1|2|Dec|2021}}
+|[https://docs.cdn.yougov.com/931piw7nlw/TheTimes_VI_211202_W.pdf YouGov]
+|''The Times''
+|GB
+|1,708
+|style="background:#CCEBFF;"|'''36%'''
+|33%
+|9%
+|5%
+|9%
+|{{Hidden|8%|[[Reform UK]] on 6%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|3%
+|-
+|{{opdrts|29|1|Dec|2021}}
+|[https://findoutnow.co.uk/blog/conservatives-decline-continues-to-just-1-lead-over-labour/ Find Out Now]
+|''Daily Telegraph''
+|GB
+|10,272
+|style="background:#CCEBFF;"|'''36%'''
+|35%
+|11%
+|3%
+|8%
+|{{Hidden|5%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|1%
+|-
 |{{opdrts||29|Nov|2021}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-29-november-2021/ Redfield & Wilton Strategies]
 |N/A
@@ -32,6 +87,19 @@
 |6%
 |{{Hidden|6%|[[Reform UK]] on 4%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|2%
+|-
+|{{opdrts|26|28|Nov|2021}}
+|[https://comresglobal.com/polls/westminster-voting-intention-30-november/ SavantaComRes]
+|N/A
+|GB
+|2,060
+|style="background:#CCEBFF;"|'''37%'''
+|style="background:#FFCCD9;"|'''37%'''
+|8%
+|5%
+|5%
+|{{Hidden|9%|[[Reform UK]] on 4%<br/>[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|Tie
 |-
 |{{opdrts|24|26|Nov|2021}}
 |[https://www.opinium.com/resource-center/uk-voting-intention-9th-november-2021-2/ Opinium]
@@ -242,7 +310,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|3%
 |-
 |{{opdrts|5|6|Nov|2021}}
-|[https://twitter.com/OpiniumResearch/status/1457065107918307329 Opinium]
+|[https://www.theguardian.com/politics/2021/nov/06/boris-johnsons-poll-ratings-slump-to-record-low-after-owen-paterson-affair Opinium]
 |''The Observer''
 |GB
 |1,175
@@ -255,7 +323,7 @@
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|1%
 |-
 |{{opdrts|3|5|Nov|2021}}
-|[https://deltapoll.co.uk/polls/voteint211106 Deltapoll]
+|[https://deltapoll.co.uk/wp-content/uploads/2021/11/Deltapoll-211106_voteint.pdf Deltapoll]
 |N/A
 |GB
 |1,560

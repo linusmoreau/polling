@@ -7,12 +7,12 @@
 ! style="width:60px;" rowspan="2"|Sample<br/>size
 ! style="width:65px;"| [[File:Fidesz_2015.svg|27px|link=Fidesz]] 
 ! style="width:35px;"| [[File:Jobbik.svg|27px|link=Jobbik]]
-! style="width:35px;"| [[File:Flag_of_the_Hungarian_Socialist_Party.svg|35px|link=MSZP]]
+! style="width:35px;"| [[File:Flag_of_the_Hungarian_Socialist_Party.svg|35px|link=Hungarian Socialist Party]]
 ! style="width:35px;"| [[File:Logo_of_the_Dialogue_for_Hungary.svg|30px|link=Dialogue for Hungary|P]]
 ! style="width:35px;"| [[File:Logo_of_the_Democratic_Coalition_(Hungary).svg|32px|link=Democratic Coalition (Hungary)|DK]]
 ! style="width:35px;"| [[LMP – Hungary's Green Party|LMP]]
 ! style="width:35px;"| [[File:Logo_of_the_Momentum_Movement.svg|32px|link=Momentum Movement|MM]]
-! style="width:35px;"| [[File:Magyar_Kétfarkú_Kutyapárt_logó.svg|35px|link=Hungarian Two-tailed Dog Party|MKKP]]
+! style="width:35px;"| [[File:Magyar_Kétfarkú_Kutyapárt_logó.svg|35px|link=Hungarian Two Tailed Dog Party|MKKP]]
 ! style="width:35px;" class="unsortable"| [[Our Homeland Movement|Mi Hazánk]]
 ! style="width:40px;" class="unsortable" rowspan="2"| Other
 ! style="width:20px;" class="unsortable" rowspan="2"| Lead
@@ -27,6 +27,22 @@
 ! style="background:#8E6FCE;"|
 ! style="background:#808080;"|
 ! style="background:#568203"|
+|-
+|data-sort-value="2021-11-12"|15–24 Nov 2021
+|[https://24.hu/belfold/2021/12/03/zavecz-kutatas-partpreferenciak/# Závecz Research]
+|1000
+|style="background:#FFE5B4"|'''47'''
+|10
+|7
+|3
+|19
+|2
+|5
+|2
+|3
+|{{N/A}}
+|style="background:{{Fidesz/meta/color}}; color:white;" |28
+|47
 |-
 |data-sort-value="2021-11-12"|2–12 Nov 2021
 |[https://hvg.hu/itthon/20211117_zavecz_kutatas_fidesz_ellenzek_lmp Závecz Research]

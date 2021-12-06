@@ -15,7 +15,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="width:35px;"| [[File:Meandros flag.svg|25px|link=Golden Dawn (political party)|XA]]
 ! style="width:35px;"| [[Course of Freedom|PE]]
 ! style="width:35px;"| [[Antarsya|ANT]]
-! style="width:35px;"| [[Greeks for the Fatherland|EP]]
+! style="width:35px;" font-size:95%;"| [[Greeks for the Fatherland|EP]]
 ! style="width:30px;" rowspan="2"| Lead
 |-
 ! style="background:{{New Democracy (Greece)/meta/color}};"|
@@ -30,8 +30,8 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Greeks for the Fatherland/meta/color}};"|
 |-
 | GPO/Parapolitika<ref>{{cite web |title=Δημοσκόπηση GPO: Προβάδισμα 10,7 μονάδων για τη ΝΔ έναντι ΣΥΡΙΖΑ - Μάχη για τρεις στο ΚΙΝΑΛ |url=https://www.capital.gr/politiki/3598085/dimoskopisi-gpo-probadisma-10-7-monadon-gia-ti-nd-enanti-suriza-maxi-gia-treis-sto-kinal |language=el |work=Capital.gr |date=28 November 2021}}</ref>
-| 28 Nov 2021
-|?
+| 22–25 Nov 2021
+| 1,000
 | {{Party shading/ND}} | '''40.4'''
 | 27.8
 | 11.1
@@ -89,21 +89,6 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1.9
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 11.1
 |-
-| MRB/Star<ref>{{cite web |title=Δημοσκόπηση MRB: Προβάδισμα 11,6% της ΝΔ, στο 11% το ΚΙΝΑΛ -Ντέρμπι μεταξύ Λοβέρδου, Ανδρουλάκη, Παπανδρέου |url=https://www.iefimerida.gr/politiki/dimoskopisi-mrb-probadisma-116-nd-11-kinal-ntermpi-loberdoy-androylaki-papandreoy |language=el |work=iefimerida |date=18 November 2021}}</ref>
-| 18 Nov 2021
-|?
-| {{Party shading/ND}}| '''38.2'''
-| 26.6
-| 11.0
-| 6.0
-| 5.1
-| 4.4
-| 1.2
-| –
-| –
-| 2.4
-| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 11.6
-|-
 | Marc/Proto Thema<ref>{{cite web |title=Γκάλοπ Marc για το ΘΕΜΑ: 11,9 μονάδες μπροστά η ΝΔ |url=https://www.protothema.gr/politics/article/1184075/galop-marc-gia-to-thema-119-monades-brosta-i-nd/ |language=el |work=Proto Thema |date=22 November 2021}}</ref>
 | 14–18 Nov 2021
 | 1,003
@@ -118,6 +103,21 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | 1.4
 | style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 14.6
+|-
+| MRB/Star<ref>{{cite web |title=Δημοσκόπηση MRB: Προβάδισμα 11,6% της ΝΔ, στο 11% το ΚΙΝΑΛ -Ντέρμπι μεταξύ Λοβέρδου, Ανδρουλάκη, Παπανδρέου |url=https://www.iefimerida.gr/politiki/dimoskopisi-mrb-probadisma-116-nd-11-kinal-ntermpi-loberdoy-androylaki-papandreoy |language=el |work=iefimerida |date=18 November 2021}}</ref>
+| 12–17 Nov 2021
+| 3,281
+| {{Party shading/ND}}| '''38.2'''
+| 26.6
+| 11.0
+| 6.0
+| 5.1
+| 4.4
+| 1.2
+| –
+| –
+| 2.4
+| style="background:{{New Democracy (Greece)/meta/color}}; color:white;"| 11.6
 |-
 | Marc/ANT1<ref>{{cite web |title=Δημοσκόπηση Marc: Προβάδισμα 12,5% της ΝΔ -Σκληρή μάχη για την ηγεσία του ΚΙΝΑΛ |url=https://www.iefimerida.gr/politiki/dimoskopisi-marc-probadisma-125-nd-igesia-kinal |language=el |work=iefimerida |date=15 November 2021}}</ref>
 | 8–13 Nov 2021

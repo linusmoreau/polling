@@ -4,7 +4,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 |-
 ! rowspan="2"| Polling firm
 ! class="unsortable" rowspan="2"| Fieldwork date
-! class="unsortable" rowspan="2"| Sample<br>size
+! class="unsortable" rowspan="2"| Sample<br />size
 ! class="unsortable" rowspan="2"| {{H:title|Percentage of decided voters|Dec.}}
 ! class="unsortable" style="width:50px;" | [[Social Democratic Party "Harmony"|S]]
 ! class="unsortable" style="width:50px;" | [[For a Humane Latvia|PCL]]
@@ -37,6 +37,28 @@ The following are opinion polls conducted for the parliamentary election, measur
 ! data-sort-type="number" style="background:{{Law and Order (Latvia)/meta/color}};" |
 ! data-sort-type="number" style="background:{{Latvia First/meta/color}};" |
 ! data-sort-type="number" style="background:#1B4D7D;" |
+|-
+| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1466446546459840515|title=Partiju reitingi novembrī|website=Twitter|language=lv|access-date=2 December 2021|date=2 December 2021}}</ref>
+|{{nobr|1-30 Nov 2021}}
+|866
+| -
+|'''13.4'''
+|0.8
+|'''5.7'''
+|'''13.0'''
+|'''11.8'''
+|'''6.4'''
+| style="background:#A0D78E"|'''17.5'''
+|'''5.1'''
+|3.1
+|'''6.1'''
+|'''5.6'''
+|4.8
+|2.1
+|4.8
+| style="background:{{New Unity/meta/color}};" |4.1
+| {{#expr:17.5+13+11.8+5.7}}
+| {{#expr:13.4+0.8+6.4+5.1+3.1+6.1+5.6+4.8+2.1}}
 |-
 | Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1455584951886360579|title=Partiju reitingi - Oktobris 2021|website=Twitter|language=lv|access-date=2 November 2021|date=2 November 2021}}</ref>
 |{{nobr|1-31 Oct 2021}}
@@ -256,7 +278,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 |-
 ! rowspan="2"| Polling firm
 ! class="unsortable" rowspan="2"| Fieldwork date
-! class="unsortable" rowspan="2"| Sample<br>size
+! class="unsortable" rowspan="2"| Sample<br />size
 ! class="unsortable" rowspan="2"| {{H:title|Percentage of decided voters|Dec.}}
 ! class="unsortable" style="width:50px;" | [[Social Democratic Party "Harmony"|S]]
 ! class="unsortable" style="width:50px;" | [[For a Humane Latvia|KPV LV]]
@@ -516,7 +538,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 |-
 ! rowspan="2"| Polling firm
 ! class="unsortable" rowspan="2"| Fieldwork date
-! class="unsortable" rowspan="2"| Sample<br>size
+! class="unsortable" rowspan="2"| Sample<br />size
 ! class="unsortable" rowspan="2"| {{H:title|Percentage of decided voters|Dec.}}
 ! class="unsortable" style="width:50px;" | [[Social Democratic Party "Harmony"|S]]
 ! class="unsortable" style="width:50px;" | [[For a Humane Latvia|KPV LV]]
@@ -1385,7 +1407,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | style="border-right-style:hidden;"|
 | colspan="18"|'''The [[Kariņš cabinet]] is formed and wins the Saeima confidence vote'''
 |-
-| SKDS<ref>{{Cite web|url=hhttps://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-kpv-lv-zaude-jkp-iegust.a308392/|title=Partiju reitingi: «KPV LV» zaudē, JKP iegūst|first=Odita|last=Krenberga|website=LSM|language=lv|access-date=16 October 2021|date=4 February 2019}}</ref>
+| SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-kpv-lv-zaude-jkp-iegust.a308392/|title=Partiju reitingi: «KPV LV» zaudē, JKP iegūst|first=Odita|last=Krenberga|website=LSM|language=lv|access-date=16 October 2021|date=4 February 2019}}</ref>
 | 11-23 Jan 2019
 | 906
 | 68.4

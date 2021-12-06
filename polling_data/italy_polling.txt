@@ -31,9 +31,151 @@
 ! style="background:{{Action (Italy)/meta/color}};"|
 ! style="background:{{Italia Viva/meta/color}};"|
 ! style="background:{{Coraggio Italia/meta/color}};"|
+|-
+|1-6 Dec
+|[https://tg.la7.it/politica/il-sondaggio-politico-di-lunedì-6-dicembre-2021-06-12-2021-166838 SWG]
+|1,200
+|15.1
+|style="background:#FFD0D7;"|'''21.5'''
+|18.5
+|7.3
+|19.8
+|2.2
+|2.3
+|1.9
+|2.3
+|4.0
+|2.5
+|
+|2.6
+|style="background:#EF1C27; color:white;"|1.7
+|- 
+|5 Dec
+|[https://www.fanpage.it/politica/sondaggi-politici-il-partito-democratico-e-il-primo-partito-oltre-il-20-crolla-la-lega/ Quorum – YouTrend]
+|
+|15.8
+|style="background:#FFD0D7;"|'''20.2'''
+|17.8
+|7.0
+|19.9
+|colspan="2" |4.3
+|2.1
+|2.8
+|2.5
+|2.6
+|
+|5.0
+|style="background:#EF1C27; color:white;"|0.3
+|-
+|4 Dec
+|[https://scenaripolitici.com/2021/12/sondaggio-tecne-4-dicembre-2021.html Tecnè]
+|–
+|15.4
+|style="background:#FFD0D7;"|'''20.4'''
+|18.4
+|8.5
+|style="background:#E5E7FF;" |'''20.4'''
+|1.8
+|2.0
+|1.6
+|1.9
+|3.4
+|2.5
+|
+|3.7
+|Tie
+|-
+|1–2 Dec
+|[https://www.termometropolitico.it/1598793_sondaggi-tp-il-511-degli-italiani-non-ha-paura-della-variante-omicron.html Termometro Politico]
+|3,200
+|15.2
+|20.3
+|19.2
+|7.3
+|style="background:#E5E7FF;" |'''21.2'''
+| colspan="2" |2.8
+|1.5
+|1.7
+|3.4
+|2.6
+|
+|4.8
+|style="background:#03386A; color:white;"|0.9
+|-
+|1 Dec
+|[https://www.iltempo.it/politica/2021/12/02/news/sondaggio-porta-a-porta-giorgia-meloni-fdi-enrico-letta-pd-pari-centrodestra-centrosinistra-29656112/ Noto]
+|1,000
+|15.0
+|style="background:#FFD0D7;"|'''20.5'''
+|17.5
+|7.5
+|style="background:#E5E7FF;" |'''20.5'''
+|1.0
+|1.0
+|0.5
+|1.5
+|4.5
+|2.5
+|1.0
+|5.5
+|Tie
+|-
+|30 Nov
+|[https://scenaripolitici.com/2021/12/sondaggio-emg-different-2-dicembre-2021.html EMG]
+|1,394
+|15.2
+|style="background:#FFD0D7;"|'''19.7'''
+|18.4
+|7.2
+|style="background:#E5E7FF;" |'''19.7'''
+|1.7
+|2.3
+|1.2
+|2.3
+|3.4
+|4.3
+|1.4
+|1.6
+|Tie
+|-
+|29–30 Nov
+|[https://scenaripolitici.com/2021/12/sondaggio-demopolis-30-novembre-2021.html Demopolis]
+|1,800
+|15.8
+|style="background:#FFD0D7;"|'''21.0'''
+|19.2
+|7.4
+|20.3
+|2.0
+|2.1
+|
+|
+|2.8
+|1.9
+|
+|7.5
+|style="background:#EF1C27; color:white;"|0.7
+|-
+|29 Nov
+|[https://scenaripolitici.com/2021/12/sondaggio-emg-different-30-novembre-2021.html EMG]
+|1,575
+|15.3
+|style="background:#FFD0D7;"|'''19.7'''
+|18.5
+|7.2
+|19.6
+|1.7
+|2.3
+|1.2
+|2.4
+|3.4
+|4.2
+|1.4
+|1.6
+|style="background:#EF1C27; color:white;"|0.1
 |- 
 |24–29 Nov
-|[https://twitter.com/swg_research/status/1465402686086418432/photo/1 SWG]
+|[https://tg.la7.it/politica/il-sondaggio-politico-di-luned%C3%AC-29-novembre-2021-29-11-2021-166632 SWG]
 |1,200
 |15.7
 |style="background:#FFD0D7;"|'''21.1'''
@@ -50,9 +192,9 @@
 |2.7
 |style="background:#EF1C27; color:white;"|1.7
 |- 
-|27 Nov
+|26 Nov
 |[https://www.dire.it/27-11-2021/688871-monitor-italia-pd-primo-partito-lega-sempre-dietro-a-fdi-centrodestra-in-vantaggio/ Tecnè]
-|
+|1,000
 |15.9
 |style="background:#FFD0D7;"|'''20.3'''
 |18.3
@@ -68,9 +210,9 @@
 |4.0
 |style="background:#EF1C27; color:white;"|0.4
 |- 
-|25 Nov
+|23–25 Nov
 |[https://scenaripolitici.com/2021/11/sondaggio-ipsos-27-novembre-2021.html Ipsos]
-|–
+|1,000
 |15.5
 |style="background:#FFD0D7;"|'''20.8'''
 |19.1
@@ -85,6 +227,60 @@
 |
 |5.0
 |style="background:#EF1C27; color:white;"|1.0
+|-
+|22–25 Nov
+|[https://sondaggibidimedia.com/sondaggio-bidimedia-30-novembre/ BiDiMedia]
+|5,942
+|15.4
+|style="background:#FFD0D7;"|'''21.4'''
+|18.8
+|7.0
+|19.2
+|1.5
+|2.0
+|1.3
+|1.7
+|3.4
+|1.8
+|0.8
+|5.7
+|style="background:#EF1C27; color:white;"|2.2
+|-
+|24 Nov
+|[https://sondaggibidimedia.com/sondaggio-index-research-25-novembre/ Index]
+|800
+|15.8
+|style="background:#FFD0D7;"|'''20.5'''
+|18.2
+|7.7
+|19.5
+|2.2
+|2.3
+|1.6
+|2.2
+|4.0
+|2.2
+|1.0
+|2.8
+|style="background:#EF1C27; color:white;"|1.0
+|-
+|23 Nov
+|[https://scenaripolitici.com/2021/12/sondaggio-emg-different-25-novembre-2021.html EMG]
+|1,382
+|15.4
+|style="background:#FFD0D7;"|'''19.6'''
+|18.5
+|7.1
+|style="background:#E5E7FF;" |'''19.6'''
+|1.7
+|2.3
+|1.2
+|2.3
+|3.4
+|4.3
+|1.4
+|1.7
+|Tie
 |-
 |17–22 Nov
 |[https://tg.la7.it/politica/il-sondaggio-politico-di-lunedì-22-novembre-2021-22-11-2021-166431/ SWG]

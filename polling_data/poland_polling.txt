@@ -27,6 +27,66 @@
 ! data-sort-type="number" style="height:1px; background:{{Poland 2050/meta/color}};"|
 ! data-sort-type="number" style="height:1px; background:{{AGROunia/meta/color}};"|
 |-
+| [https://wiadomosci.wp.pl/sondaz-parlamentarny-dla-wp-pis-umacnia-sie-na-prowadzeniu-6712147950189280a United Surveys / WP.pl]
+| data-sort-value="2021-12-03" | 3 Dec 2021
+| 1,000
+| style="background:#C0DBFC;" | '''32.1'''
+|
+| 23.7
+| 7.8
+| 5.7
+|
+| 6.7
+| 10.6
+|
+| 13.4
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''8.4'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/576401-nasz-sondaz-krajobraz-partyjny-czyli-wyrazna-stabilizacja Social Changes / wPolityce.pl]
+| data-sort-value="2021-11-29" | 26–29 Nov 2021
+| 1,054
+| style="background:#C0DBFC;" | '''38'''
+| 1
+| 25
+| 9
+| 2
+| 1
+| 10
+| 12
+| 
+| 2
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''13'''
+|-
+| [https://natemat.pl/386545,sondaz-research-partner-ko-ze-sporym-spadkiem-poparcia Research Partner]
+| data-sort-value="2021-11-29" | 26–29 Nov 2021
+| 1,030
+| style="background:#C0DBFC;" | '''37.1'''
+| 0.6
+| 20.6
+| 6.9
+| 3.2
+| 1.1
+| 8.4
+| 10.6
+|
+| 11.5
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''16.5'''
+|-
+| [https://wiadomosci.onet.pl/tylko-w-onecie/sondaz-partyjny-pis-traci-poparcie-niezdecydowani-trzecia-sila/gyeytem IBRiS / Onet]
+| data-sort-value="2021-11-27" | 26–27 Nov 2021
+| 1,100
+| style="background:#C0DBFC;" | '''32.0'''
+| 
+| 22.1
+| 7.0
+| 6.4
+| 
+| 7.1
+| 11.8
+|
+| 13.7
+| style="background:{{Law and Justice/meta/color}}; color:white;"| '''9.9'''
+|-
 | [https://dorzeczy.pl/kraj/231823/najnowszy-sondaz-pis-i-konfederacja-blisko-wiekszosci.html Estymator / DoRzeczy.pl]
 | data-sort-value="2021-11-26" | 25–26 Nov 2021
 | 1,021

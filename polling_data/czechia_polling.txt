@@ -64,6 +64,26 @@
 !'''31.8'''
 !{{No|'''53.0'''}}
 |-
+| [https://www.novinky.cz/volby/do-poslanecke-snemovny/clanek/prvni-prognoza-vysledku-voleb-ano-tesne-vyhralo-komuniste-mimo-snemovnu-40374396 STEM/MARK]
+| Exit Poll 
+|
+|
+|{{Party shading/ANO 2011}}|'''27.8'''
+| colspan="3" |26.4
+| colspan="2" |15.0
+|10.0
+|3.9
+|5.0
+| colspan="2" |2.8
+|1.0
+|{{N/A}}
+|1.3
+|4.7
+|2.9
+|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |1.4
+|'''32.8'''
+|{{No|'''51.4'''}}
+|-
 | style="background:#D0D0D0; color:black" colspan="23" |
 |-
 |[https://echo24.cz/a/SMqmt/stem-spolu-a-pirstan-by-vetsinu-neslozily-do-snemovny-by-se-dostaly-kscm-i-prisaha STEM]

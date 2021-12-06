@@ -1446,7 +1446,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | style="background:#EFEFEF" data-sort-value="2019-10-06"| 6 Oct 2019
 | {{N/A}}
 | style="background:#EFEFEF| 48.6
-| {{Party shading/PS}}| '''36.4'''<br/>{{font|size=75%|font=Verdana|text=108}}
+| {{Party shading/PS}}| '''36.3'''<br/>{{font|size=75%|font=Verdana|text=108}}
 | style="background:#EFEFEF| 27.8<br/>{{font|size=75%|font=Verdana|text=79}}
 | style="background:#EFEFEF| 9.5<br/>{{font|size=75%|font=Verdana|text=19}}
 | style="background:#EFEFEF| 6.3<br/>{{font|size=75%|font=Verdana|text=12}}
@@ -1456,7 +1456,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | style="background:#EFEFEF| 1.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:#EFEFEF| 1.1<br/>{{font|size=75%|font=Verdana|text=1}}
 | style="background:#EFEFEF| 8.8<br/>{{font|size=75%|font=Verdana|text=0}}
-| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;"|'''8.6'''
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;"| '''8.5'''
 |-
 | colspan="15" style="background:#A0A0A0"|
 |}
@@ -1491,9 +1491,9 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! class="sortable" style="background:#00ADEF;"|
 ! class="sortable" style="background:{{LIVRE/meta/color}};"|
 |-
-|[https://cnnportugal.iol.pt/eleicoes-legislativas/rui-rio/sondagem-tvi-cnn-empate-tecnico-entre-ps-e-psd-com-rio-na-lideranca/20261130/619fecca0cf2cc58e7d4e123 Pitagórica]
-|data-sort-value="2019-10-03" | 10–15 Nov 2021
-|625
+| [https://cnnportugal.iol.pt/eleicoes-legislativas/rui-rio/sondagem-tvi-cnn-empate-tecnico-entre-ps-e-psd-com-rio-na-lideranca/20261130/619fecca0cf2cc58e7d4e123 Pitagórica]
+| data-sort-value="2019-10-03" | 10–15 Nov 2021
+| 625
 |?
 | {{Party shading/PS}} |'''39.6'''
 | 23.9
@@ -1505,5 +1505,5 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5.1
 | –
 | 7.4
-| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" |15.7
+| style="background:{{Socialist Party (Portugal)/meta/color}}; color:white;" | 15.7
 |}

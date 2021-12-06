@@ -88,8 +88,7 @@ specs = {
     },
     'Chile': {
         'key': ['date', 'source', 'type',
-                'Artes', 'Boric', 'Enriquez-Om.', 'Provoste', 'Parisi', 'Sichel', 'Kast',
-                'Other', 'end'],
+                'Boric', 'Kast', 'Not voting', 'Not sure', 'end'],
         'include': ['Boric', 'Narvaez', 'Maldonado', 'Provoste', 'Sichel', 'Kast',
                     'Jadue', 'Jiles', 'Briones', 'Desbordes', 'Parisi', 'Lavin', 'Matthei',
                     'Enriquez-Om.', 'Artes'],
@@ -98,11 +97,11 @@ specs = {
                 'Jadue': (178, 34, 34), 'Jiles': (255, 69, 0), 'Briones': (0, 191, 255), 'Desbordes': (2, 78, 154),
                 'Parisi': (24, 22, 68), 'Lavin': (41, 57, 138), 'Matthei': (41, 57, 138),
                 'Enriquez-Om.': (255, 20, 147), 'Artes': (204, 0, 0)},
-        'zeros': ['Other'],
+        'zeros': ['Other', 'Not voting', 'Not sure'],
         'start': -1,
         'end_date': Date(2021, 12, 19),
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_2021_Chilean_presidential_election&action=edit&section=2',
+               'Opinion_polling_for_the_2021_Chilean_presidential_election&action=edit&section=5',
         'old_data': 'polling_data/old_chile_polling.txt',
         'vlines': {Date(2021, 7, 18): 'Official Primaries'}
     },
@@ -523,7 +522,7 @@ specs = {
         'col': {'PC': (153, 153, 255), 'NDP': (244, 164, 96), 'Liberal': (234, 109, 106), 'Green': (153, 201, 85)},
         'start': -2,
         'end_date': Date(2022, 6, 2),
-        'url': 'https://en.wikipedia.org/w/index.php?title=43rd_Ontario_general_election&action=edit&section=9'
+        'url': 'https://en.wikipedia.org/w/index.php?title=2022_Ontario_general_election&action=edit&section=9'
     },
     'Poland': {
         'key': ['firm', 'date', 'sample',

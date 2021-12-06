@@ -25,9 +25,9 @@
 ! style="background:{{Christian Democrats (Sweden)/meta/color}};"|
 ! style="background:{{Sweden Democrats/meta/color}};"|
 |-
-|Ipsos<ref>https://www.dn.se/sverige/magdalena-andersson-har-annu-inte-lyckats-lyfta-s/</ref>
-|Nov 2021
-|{{N/A}}
+|Ipsos<ref>https://www.ipsos.com/sites/default/files/ct/news/documents/2021-11/Vb_rapp_november_EXT_20211123.pdf/</ref>
+|9-22 Nov 2021
+|1,605
 |11
 | style="background:#F9BDC5;" |'''25''' 
 |4

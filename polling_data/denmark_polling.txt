@@ -45,6 +45,56 @@
 ! data-sort-type="number" style="background:{{Social Democrats (Denmark)/meta/color}};"|
 ! data-sort-type="number" style="background:{{Venstre (Denmark)/meta/color}};"|
 |-
+|[https://twitter.com/Annamidtgaard/status/1467779811552763909 Voxmeter]
+|29 Nov–5 Dec 2021
+|1,003
+| style="background:#FACECD;" |'''25.7'''
+|16.4
+|6.6
+|6.4
+|8.4
+|10.3
+|15.1
+|1.1
+|4.9
+|2.4
+| –
+|1.6
+| –
+|0.0
+| –
+|0.0
+|1.1
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |9.3
+| style="background:#FACECD;" |'''51.9'''
+|47.0
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |4.9
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5ling-28-11-2021.pdf Voxmeter]
+|22–28 Nov 2021
+|1,005
+| style="background:#FACECD;" |'''26.0'''
+|17.0
+|6.2
+|5.7
+|7.9
+|9.7
+|15.1
+|0.9
+|5.5
+|3.2
+| –
+|1.1
+| –
+|0.2
+| –
+|0.4
+|1.1
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |9.0
+| style="background:#FACECD;" |'''50.8'''
+|48.1
+| style="background:{{Social Democrats (Denmark)/meta/color}};color:#FFFFFF;" |2.7
+|-
 |[https://twitter.com/Annamidtgaard/status/1462693340269494276 Voxmeter]
 |15–21 Nov 2021
 |1,250

@@ -43,6 +43,50 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{Regionalist Party of Cantabria/meta/color}};"|
 ! style="background:{{Teruel Existe/meta/color}};"|
 |-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (5D): igualdad máxima entre PSOE y PP. Suben Vox y UP |url=https://electomania.es/ep5d21/ |language=es |work=Electomanía |date=5 December 2021}}</ref>
+| 26 Nov–3 Dec 2021
+| 1,132
+|?
+| {{Party shading/PSOE}}| '''25.8'''<br/>{{font|size=75%|font=Verdana|text=102}}
+| {{Party shading/PP}}| '''25.8'''<!-- READ BEFORE EDITING THIS FIGURE: The PP figure for this poll includes FAC, as is done with all other Electomanía polls. Unlike other polls, Electomanía shows a number of 2019 electoral alliances disaggregated (PP-FAC, Más País-Compromís, CC-NC). Per consistency with all other pollsters, results for these are shown together --><br/>{{font|size=75%|font=Verdana|text=105}}
+| 18.1<br/>{{font|size=75%|font=Verdana|text=66}}
+| 11.1<br/>{{font|size=75%|font=Verdana|text=26}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.8<br/>{{font|size=75%|font=Verdana|text=6}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=10}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:gray; color:white;"| Tie
+|-
+| Sigma Dos/El Mundo<ref>{{cite web |title=La crisis interna aleja al PP de la mayoría absoluta con Vox |url=https://www.elmundo.es/espana/encuestas/2021/12/05/61acf54921efa0c9488b4585.html |language=es |work=El Mundo |date=6 December 2021}}</ref><ref>{{cite web |title=ESPAÑA. Encuesta SigmaDos 06/12/2021: UP-ECP-EC 10,1% (24), MÁS PAÍS-EQUO 3,5% (7), PSOE 26,4% (106), Cs 3,5% (1), PP 28,6% (126), VOX 15,0% (47) |url=https://www.electograph.com/2021/12/encuesta-sigmados-211206.html |language=es |work=Electograph |date=6 December 2021}}</ref>
+| 30 Nov–1 Dec 2021
+| 1,633
+|?
+| 26.4<br/>{{font|size=75%|font=Verdana|text=106}}
+| {{Party shading/PP}}| '''28.6'''<br/>{{font|size=75%|font=Verdana|text=126}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=47}}
+| 10.1<br/>{{font|size=75%|font=Verdana|text=24}}
+| 3.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=12}}
+| 3.5<br/>{{font|size=75%|font=Verdana|text=7}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=8}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{People's Party (Spain)/meta/color}}; color:white;"| 2.2
+|-
 | ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (28N): ligero repunte de PSOE y PP a costa de UP y Vox |url=https://electomania.es/ep28n21/ |language=es |work=Electomanía |date=28 November 2021}}</ref>
 | 19–26 Nov 2021
 |?
@@ -195,7 +239,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
 | 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
 | 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
-| style="background:gray;color:white;"| Tie
+| style="background:gray; color:white;"| Tie
 |-
 | IMOP/El Confidencial<ref>{{cite web |title=El PP dilapida en el último mes de crisis interna su ventaja sobre el PSOE |url=https://www.elconfidencial.com/espana/observatorio-electoral/2021-11-24/quiebra-pp-crisis-interna-ciudadanos-congreso_3329246/ |language=es |work=El Confidencial |date=24 November 2021}}</ref>
 | 8–19 Nov 2021

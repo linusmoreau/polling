@@ -40,6 +40,18 @@ Opinion polls conducted prior to the campaign and the announcement of the list o
 |bgcolor={{Party of Growth/meta/color}}|
 |bgcolor={{Civic Platform (Russia)/meta/color}}|
 |-
+|26–28 November 2021
+|[https://media.fom.ru/fom-bd/d47pi2021.pdf FOM]
+|3,000
+|style="background:#B3E0FF" |'''31'''||'''15'''||'''9'''||'''5'''||'''6'''||2||1||1||1||0||0||0||0||0||–||13||14
+|style="background:#0C2C84; color:white;"|16
+|-
+|22–28 November 2021
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20211203 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''28.6'''||'''18.0'''||'''7.8'''||'''6.9'''||'''8.1'''|| || || || || || || || || ||10.2||8.9||9.3
+|style="background:#0C2C84; color:white;"|10.6
+|-
 |19–21 November 2021
 |[https://media.fom.ru/fom-bd/d46pi2021.pdf FOM]
 |3,000

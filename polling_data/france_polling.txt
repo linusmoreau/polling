@@ -1,6 +1,46 @@
 == First round ==
 === 2021 ===
-==== September–present ====
+==== December ====
+{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+|- 
+! rowspan="2"| Polling<br/>firm
+! rowspan="2"| Fieldwork<br/>date
+! rowspan="2"| Sample<br/>size
+! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud]]}}
+! {{vert header|mw=35px|stp=1|[[Philippe Poutou]]}}
+! {{vert header|mw=35px|stp=1|[[Fabien Roussel]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon]]}}
+! {{vert header|mw=35px|stp=1|[[Anne Hidalgo]]}}
+! {{vert header|mw=35px|stp=1|[[Arnaud Montebourg]]}}
+! {{vert header|mw=35px|stp=1|[[Yannick Jadot]]}}
+! {{vert header|mw=35px|stp=1|[[Emmanuel Macron]]}}
+! {{vert header|mw=35px|stp=1|[[Jean Lassalle]]}}
+! {{vert header|mw=35px|stp=1|[[Valérie Pécresse]]}}
+! {{vert header|mw=35px|stp=1|[[Nicolas Dupont-Aignan]]}}
+! {{vert header|mw=35px|stp=1|[[Marine Le Pen]]}}
+! {{vert header|mw=35px|stp=1|[[Florian Philippot]]}}
+! {{vert header|mw=35px|stp=1|[[Éric Zemmour]]}}
+! {{vert header|mw=35px|stp=1|[[François Asselineau]]}}
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|New Anticapitalist Party}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|La France Insoumise}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Miscellaneous left}};"|
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|La République En Marche!}};"|
+! style="background:{{party color|Résistons!}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|Debout la France}};"|
+! style="background:{{party color|National Rally (France)}};"|
+! style="background:{{party color|The Patriots (France)}};"|
+! style="background:{{party color|Reconquête (political party)}};"|
+! style="background:{{party color|Popular Republican Union (2007)}};"|
+|-
+|}
+
+==== September–November ====
 {| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
 |- 
 ! rowspan="2"| Polling<br/>firm
@@ -29,449 +69,454 @@
 ! {{vert header|mw=35px|stp=1|[[Éric Zemmour]]}}
 ! {{vert header|mw=35px|stp=1|[[François Asselineau]]}}
 |-
-! style="background:{{Lutte Ouvrière/meta/color}};"|
-! style="background:{{New Anticapitalist Party/meta/color}};"|
-! style="background:{{French Communist Party/meta/color}};"|
-! style="background:{{La France Insoumise/meta/color}};"|
-! style="background:{{Socialist Party (France)/meta/color}};"|
-! style="background:{{Miscellaneous left/meta/color}};"|
-! style="background:{{Europe Ecology – The Greens/meta/color}};"|
-! style="background:{{La République En Marche!/meta/color}};"|
-! style="background:{{Union of Democrats and Independents/meta/color}};"|
-! style="background:{{Résistons!/meta/color}};"|
-! colspan="6" style="background:{{The Republicans (France)/meta/color}};"|
-! style="background:{{Christian Democratic Party (France)/meta/color}};"|
-! style="background:{{Debout la France/meta/color}};"|
-! style="background:{{National Rally (France)/meta/color}};"|
-! style="background:{{The Patriots (France)/meta/color}};"|
-! style="background:{{Independent (politician)/meta/color}};"|
-! style="background:{{Popular Republican Union (2007)/meta/color}};"|
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|New Anticapitalist Party}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|La France Insoumise}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Miscellaneous left}};"|
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|La République En Marche!}};"|
+! style="background:{{party color|Union of Democrats and Independents}};"|
+! style="background:{{party color|Résistons!}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|Christian Democratic Party (France)}};"|
+! style="background:{{party color|Debout la France}};"|
+! style="background:{{party color|National Rally (France)}};"|
+! style="background:{{party color|The Patriots (France)}};"|
+! style="background:{{party color|Reconquête (political party)}};"|
+! style="background:{{party color|Popular Republican Union (2007)}};"|
 |-
-| rowspan="3" style="background:GreenYellow"|[https://harris-interactive.fr/wp-content/uploads/sites/6/2021/11/HVBTA-X43.pdf Harris-Interactive]
-| rowspan="3" |23-26 Nov 2021
-| rowspan="3" |2601
-|1 %
-|1 %
-|2 %
-|10 %
-|5 %
-|2 %
-|7 %
-|style="background:#FFED99" | '''23%'''
-|–
-|<0.5%
-|–
-|14 %
-|–
-|–
-|–
-|–
-|–
-|2 %
-|style="background:#E0E5F0;" | '''19%'''
-|1 %
-|13 %
-|<0.5%
+| rowspan="3" style="background:GreenYellow"| [https://harris-interactive.fr/wp-content/uploads/sites/6/2021/11/HVBTA-X43.pdf Harris-Interactive]
+| rowspan="3"| 26–29 Nov 2021
+| rowspan="3"| 2,601
+| 1%
+| 1%
+| 2%
+| 10%
+| 5%
+| 2%
+| 7%
+| style="background:#FFED99"| '''23%'''
+| –
+| <0.5%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 2%
+| style="background:#E0E5F0;"| '''19%'''
+| 1%
+| 13%
+| <0.5%
 |-
-|1 %
-|1 %
-|2 %
-|10 %
-|5 %
-|2 %
-|8 %
-|style="background:#FFED99" | '''24%'''
-|–
-|<0.5%
-|–
-|–
-|–
-|–
-|–
-|11 %
-|–
-|2 %
-|style="background:#E0E5F0;" | '''20%'''
-|1 %
-|13 %
-|<0.5%
+| 1%
+| 1%
+| 2%
+| 10%
+| 5%
+| 2%
+| 8%
+| style="background:#FFED99"| '''24%'''
+| –
+| <0.5%
+| –
+| –
+| –
+| –
+| –
+| 11%
+| –
+| 2%
+| style="background:#E0E5F0;"| '''20%'''
+| 1%
+| 13%
+| <0.5%
 |-
-|1 %
-|1 %
-|2 %
-|10 %
-|5 %
-|2 %
-|8 %
-|style="background:#FFED99" | '''24%'''
-|–
-|<0.5%
-|10 %
-|–
-|–
-|–
-|–
-|–
-|–
-|2 %
-|style="background:#E0E5F0;" | '''20%'''
-|2 %
-|13 %
-|<0.5%
+| 1%
+| 1%
+| 2%
+| 10%
+| 5%
+| 2%
+| 8%
+| style="background:#FFED99"| '''24%'''
+| –
+| <0.5%
+| 10%
+| –
+| –
+| –
+| –
+| –
+| –
+| 2%
+| style="background:#E0E5F0;"| '''20%'''
+| 2%
+| 13%
+| <0.5%
 |-
 | rowspan="5" style="background:#FFCCCC"| [https://www.ifop.com/wp-content/uploads/2021/11/117825-Rapport-IV-presid..pdf Ifop-Fiducial]
-| rowspan="5" |23–25 Nov 2021
-| rowspan="5" |1,351
-|0%
-|1%
-|2%
-|7.5%
-|6%
-|2%
-|7%
-|style="background:#FFED99" | '''25%'''
-|–
-|0.5%
-|–
-|13%
-|–
-|–
-|–
-|–
-|–
-|3%
-|style="background:#E0E5F0;" | '''19%'''
-|–
-|14%
-|–
+| rowspan="5"|23–25 Nov 2021
+| rowspan="5"|1,351
+| 0%
+| 1%
+| 2%
+| 7.5%
+| 6%
+| 2%
+| 7%
+| style="background:#FFED99"| '''25%'''
+| –
+| 0.5%
+| –
+| 13%
+| –
+| –
+| –
+| –
+| –
+| 3%
+| style="background:#E0E5F0;"| '''19%'''
+| –
+| 14%
+| –
 |-
-|0.5%
-|1%
-|2%
-|8.5%
-|6%
-|2%
-|6.5%
-|style="background:#FFED99" | '''25%'''
-|–
-|0%
-|–
-|–
-|–
-|–
-|–
-|10%
-|–
-|4%
-|style="background:#E0E5F0;" | '''19.5%'''
-|–
-|15%
-|–
+| 0.5%
+| 1%
+| 2%
+| 8.5%
+| 6%
+| 2%
+| 6.5%
+| style="background:#FFED99"| '''25%'''
+| –
+| 0%
+| –
+| –
+| –
+| –
+| –
+| 10%
+| –
+| 4%
+| style="background:#E0E5F0;"| '''19.5%'''
+| –
+| 15%
+| –
 |-
-|0.5%
-|1%
-|2.5%
-|8.5%
-|6%
-|2%
-|6.5%
-|style="background:#FFED99" | '''25%'''
-|–
-|0.5%
-|10%
-|–
-|–
-|–
-|–
-|–
-|–
-|3.5%
-|style="background:#E0E5F0;" | '''19%'''
-|–
-|15%
-|–
+| 0.5%
+| 1%
+| 2.5%
+| 8.5%
+| 6%
+| 2%
+| 6.5%
+| style="background:#FFED99"| '''25%'''
+| –
+| 0.5%
+| 10%
+| –
+| –
+| –
+| –
+| –
+| –
+| 3.5%
+| style="background:#E0E5F0;"| '''19%'''
+| –
+| 15%
+| –
 |-
-|0.5%
-|1%
-|2%
-|8.5%
-|6%
-|2.5%
-|7%
-|style="background:#FFED99" | '''28%'''
-|–
-|1%
-|–
-|–
-|6%
-|–
-|–
-|–
-|–
-|3.5%
-|style="background:#E0E5F0;" | '''20%'''
-|–
-|14%
-|–
+| 0.5%
+| 1%
+| 2%
+| 8.5%
+| 6%
+| 2.5%
+| 7%
+| style="background:#FFED99"| '''28%'''
+| –
+| 1%
+| –
+| –
+| 6%
+| –
+| –
+| –
+| –
+| 3.5%
+| style="background:#E0E5F0;"| '''20%'''
+| –
+| 14%
+| –
 |-
-|0.5%
-|1%
-|2.5%
-|8%
-|6.5%
-|2.5%
-|7.5%
-|style="background:#FFED99" | '''28%'''
-|–
-|1.5%
-|–
-|–
-|–
-|3%
-|–
-|–
-|–
-|4%
-|style="background:#E0E5F0;" | '''20%'''
-|–
-|15%
-|–
+| 0.5%
+| 1%
+| 2.5%
+| 8%
+| 6.5%
+| 2.5%
+| 7.5%
+| style="background:#FFED99"| '''28%'''
+| –
+| 1.5%
+| –
+| –
+| –
+| 3%
+| –
+| –
+| –
+| 4%
+| style="background:#E0E5F0;"| '''20%'''
+| –
+| 15%
+| –
 |-
-| rowspan="5" style="background:#CAD5F7" |[https://elabe.fr/wp-content/uploads/2021/11/opinion-2022.pdf Elabe]
-| rowspan="5" |23–24 Nov 2021
-| rowspan="5" |1,491
-|1%
-|1%
-|2%
-|9%
-|4%
-|1%
-|8%
-| style="background:#FFED99" | '''25%'''
-|–
-|1%
-|–
-|13%
-|–
-|–
-|–
-|–
-|<1%
-|2%
-| style="background:#E0E5F0;" | '''20%'''
-|1%
-|12%
-|<1%
+| rowspan="5" style="background:#CAD5F7"| [https://elabe.fr/wp-content/uploads/2021/11/opinion-2022.pdf Elabe]
+| rowspan="5"| 23–24 Nov 2021
+| rowspan="5"| 1,491
+| 1%
+| 1%
+| 2%
+| 9%
+| 4%
+| 1%
+| 8%
+| style="background:#FFED99"| '''25%'''
+| –
+| 1%
+| –
+| 13%
+| –
+| –
+| –
+| –
+| <1%
+| 2%
+| style="background:#E0E5F0;"| '''20%'''
+| 1%
+| 12%
+| <1%
 |-
-|1%
-|2%
-|2%
-|9%
-|4%
-|2%
-|8%
-| style="background:#FFED99" | '''25%'''
-|–
-|1%
-|–
-|–
-|–
-|–
-|–
-|9%
-|<1%
-|3%
-| style="background:#E0E5F0;" | '''20%'''
-|<1%
-|13%
-|1%
+| 1%
+| 2%
+| 2%
+| 9%
+| 4%
+| 2%
+| 8%
+| style="background:#FFED99"| '''25%'''
+| –
+| 1%
+| –
+| –
+| –
+| –
+| –
+| 9%
+| <1%
+| 3%
+| style="background:#E0E5F0;"| '''20%'''
+| <1%
+| 13%
+| 1%
 |-
-|1%
-|1%
-|2%
-|9%
-|4%
-|2%
-|8%
-| style="background:#FFED99" | '''25%'''
-|–
-|1%
-|9%
-|–
-|–
-|–
-|–
-|–
-|<1%
-|3%
-| style="background:#E0E5F0;" | '''20%'''
-|1%
-|13%
-|1%
+| 1%
+| 1%
+| 2%
+| 9%
+| 4%
+| 2%
+| 8%
+| style="background:#FFED99"| '''25%'''
+| –
+| 1%
+| 9%
+| –
+| –
+| –
+| –
+| –
+| <1%
+| 3%
+| style="background:#E0E5F0;"| '''20%'''
+| 1%
+| 13%
+| 1%
 |-
-|1%
-|1%
-|2%
-|9%
-|5%
-|3%
-|8%
-| style="background:#FFED99" | '''26%'''
-|–
-|1%
-|–
-|–
-|5%
-|–
-|–
-|–
-|<1%
-|3%
-| style="background:#E0E5F0;" | '''21%'''
-|1%
-|13%
-|1%
+| 1%
+| 1%
+| 2%
+| 9%
+| 5%
+| 3%
+| 8%
+| style="background:#FFED99"| '''26%'''
+| –
+| 1%
+| –
+| –
+| 5%
+| –
+| –
+| –
+| <1%
+| 3%
+| style="background:#E0E5F0;"| '''21%'''
+| 1%
+| 13%
+| 1%
 |-
-|<1%
-|1%
-|2%
-|9%
-|4%
-|2%
-|9%
-| style="background:#FFED99" | '''27%'''
-|–
-|1%
-|–
-|–
-|–
-|3%
-|–
-|–
-|<1%
-|3%
-| style="background:#E0E5F0;" | '''22%'''
-|1%
-|15%
-|1%
+| <1%
+| 1%
+| 2%
+| 9%
+| 4%
+| 2%
+| 9%
+| style="background:#FFED99"| '''27%'''
+| –
+| 1%
+| –
+| –
+| –
+| 3%
+| –
+| –
+| <1%
+| 3%
+| style="background:#E0E5F0;"| '''22%'''
+| 1%
+| 15%
+| 1%
 |-
-| rowspan="5" style="background:GreenYellow" |[https://harris-interactive.fr/wp-content/uploads/sites/6/2021/11/DGTENVF-AX5.pdf Harris-Interactive]
-| rowspan="5" |19–22 Nov 2021
-| rowspan="5" |2,624
-|1%
-|1%
-|2%
-|10%
-|5%
-|1%
-|8%
-|style="background:#FFED99"| '''23%'''
-|–
-|<0.5%
-|–
-|14%
-|–
-|–
-|–
-|–
-|–
-|2%
-|style="background:#E0E5F0;"| '''16%'''
-|1%
-|16%
-|<0.5%
+| rowspan="5" style="background:GreenYellow"| [https://harris-interactive.fr/wp-content/uploads/sites/6/2021/11/DGTENVF-AX5.pdf Harris-Interactive]
+| rowspan="5"| 19–22 Nov 2021
+| rowspan="5"| 2,624
+| 1%
+| 1%
+| 2%
+| 10%
+| 5%
+| 1%
+| 8%
+| style="background:#FFED99"| '''23%'''
+| –
+| <0.5%
+| –
+| 14%
+| –
+| –
+| –
+| –
+| –
+| 2%
+| style="background:#E0E5F0;"| '''16%'''
+| 1%
+| 16%
+| <0.5%
 |-
-|1%
-|1%
-|2%
-|10%
-|5%
-|1%
-|9%
-|style="background:#FFED99"| '''24%'''
-|–
-|<0.5%
-|–
-|–
-|–
-|–
-|–
-|11%
-|–
-|2%
-|style="background:#E0E5F0;"| '''16%'''
-|2%
-|16%
-|<0.5%
+| 1%
+| 1%
+| 2%
+| 10%
+| 5%
+| 1%
+| 9%
+| style="background:#FFED99"| '''24%'''
+| –
+| <0.5%
+| –
+| –
+| –
+| –
+| –
+| 11%
+| –
+| 2%
+| style="background:#E0E5F0;"| '''16%'''
+| 2%
+| 16%
+| <0.5%
 |-
-|1%
-|1%
-|2%
-|10%
-|5%
-|1%
-|9%
-|style="background:#FFED99"| '''24%'''
-|–
-|<0.5%
-|10%
-|–
-|–
-|–
-|–
-|–
-|–
-|2%
-|16%
-|2%
-|style="background:#EEEEEE"| '''17%'''
-|<0.5%
+| 1%
+| 1%
+| 2%
+| 10%
+| 5%
+| 1%
+| 9%
+| style="background:#FFED99"| '''24%'''
+| –
+| <0.5%
+| 10%
+| –
+| –
+| –
+| –
+| –
+| –
+| 2%
+| 16%
+| 2%
+| style="background:#E5E7FF"| '''17%'''
+| <0.5%
 |-
-|1%
-|1%
-|2%
-|10%
-|5%
-|1%
-|9%
-|style="background:#FFED99"| '''29%'''
-|–
-|<0.5%
-|–
-|–
-|5%
-|–
-|–
-|–
-|–
-|2%
-|style="background:#E0E5F0;"| '''17%'''
-|1%
-|style="background:#EEEEEE"| '''17%'''
-|<0.5%
+| 1%
+| 1%
+| 2%
+| 10%
+| 5%
+| 1%
+| 9%
+| style="background:#FFED99"| '''29%'''
+| –
+| <0.5%
+| –
+| –
+| 5%
+| –
+| –
+| –
+| –
+| 2%
+| style="background:#E0E5F0;"| '''17%'''
+| 1%
+| style="background:#E5E7FF"| '''17%'''
+| <0.5%
 |-
-|1%
-|1%
-|2%
-|10%
-|5%
-|1%
-|9%
-|style="background:#FFED99"| '''30%'''
-|–
-|<0.5%
-|–
-|–
-|–
-|4%
-|–
-|–
-|–
-|2%
-|style="background:#E0E5F0;"| '''17%'''
-|1%
-|style="background:#EEEEEE"| '''17%'''
-|<0.5%
+| 1%
+| 1%
+| 2%
+| 10%
+| 5%
+| 1%
+| 9%
+| style="background:#FFED99"| '''30%'''
+| –
+| <0.5%
+| –
+| –
+| –
+| 4%
+| –
+| –
+| –
+| 2%
+| style="background:#E0E5F0;"| '''17%'''
+| 1%
+| style="background:#E5E7FF"| '''17%'''
+| <0.5%
 |-
 | rowspan="3" style="background:#80fcd4;"| [https://www.cnews.fr/france/2021-11-18/presidentielle-emmanuel-macron-reste-en-tete-devant-marine-le-pen-et-xavier OpinionWay]
 | rowspan="3"| 15–17 Nov 2021
@@ -568,7 +613,7 @@
 | 1%
 | 16%
 | 1%
-| style="background:#EEEEEE"| '''17%'''
+| style="background:#E5E7FF"| '''17%'''
 | <0.5%
 |-
 | 1%
@@ -591,7 +636,7 @@
 | 2%
 | 16%
 | 2%
-| style="background:#EEEEEE"| '''17%'''
+| style="background:#E5E7FF"| '''17%'''
 | <0.5%
 |-
 | 1%
@@ -614,126 +659,126 @@
 | 2%
 | 16%
 | 1%
-| style="background:#EEEEEE"| '''18%'''
+| style="background:#E5E7FF"| '''18%'''
 | <0.5% 
 |-
 | rowspan="5" style="background:#CAD5F7"| [https://elabe.fr/presidentielle2022-et-candidats-lr/ Elabe]
 | rowspan="5"| 10–11 Nov 2021
 | rowspan="5"| 1,484
-|1%
-|2%
-|2%
-|8%
-|7%
-|2%
-|5%
-| style="background:#FFED99"|'''25%'''
-|–
-|1%
-|–
-|13%
-|–
-|–
-|–
-|–
-|<0.5%
-|2%
-|style="background:#E0E5F0" |'''17%'''
-|0.5%
-|14%
-|0.5%
+| 1%
+| 2%
+| 2%
+| 8%
+| 7%
+| 2%
+| 5%
+| style="background:#FFED99"| '''25%'''
+| –
+| 1%
+| –
+| 13%
+| –
+| –
+| –
+| –
+| <0.5%
+| 2%
+| style="background:#E0E5F0"| '''17%'''
+| 0.5%
+| 14%
+| 0.5%
 |-
-|1%
-|2%
-|2%
-|8%
-|7%
-|2%
-|5%
-| style="background:#FFED99"|'''27%'''
-|–
-|0.5%
-|–
-|–
-|–
-|–
-|–
-|11%
-|<0.5%
-|2%
-|style="background:#E0E5F0"|'''18%'''
-|0.5%
-|14%
-|<0.5%
+| 1%
+| 2%
+| 2%
+| 8%
+| 7%
+| 2%
+| 5%
+| style="background:#FFED99"| '''27%'''
+| –
+| 0.5%
+| –
+| –
+| –
+| –
+| –
+| 11%
+| <0.5%
+| 2%
+| style="background:#E0E5F0"| '''18%'''
+| 0.5%
+| 14%
+| <0.5%
 |-
-|1%
-|2%
-|2%
-|8%
-|8%
-|2%
-|5%
-| style="background:#FFED99"|'''28%'''
-|–
-|1%
-|9%
-|–
-|–
-|–
-|–
-|–
-|<0.5%
-|2 %
-|style="background:#E0E5F0"| '''18%'''
-|0.5%
-|13%
-|0.5%
+| 1%
+| 2%
+| 2%
+| 8%
+| 8%
+| 2%
+| 5%
+| style="background:#FFED99"| '''28%'''
+| –
+| 1%
+| 9%
+| –
+| –
+| –
+| –
+| –
+| <0.5%
+| 2%
+| style="background:#E0E5F0"| '''18%'''
+| 0.5%
+| 13%
+| 0.5%
 |-
-|1%
-|2%
-|2%
-|8%
-|8%
-|2%
-|5%
-| style="background:#FFED99"|'''30%'''
-|–
-|1%
-|–
-|–
-|5%
-|–
-|–
-|–
-|<0.5%
-|2%
-|style="background:#E0E5F0"|'''17%'''
-|1%
-|15%
-|1%
+| 1%
+| 2%
+| 2%
+| 8%
+| 8%
+| 2%
+| 5%
+| style="background:#FFED99"| '''30%'''
+| –
+| 1%
+| –
+| –
+| 5%
+| –
+| –
+| –
+| <0.5%
+| 2%
+| style="background:#E0E5F0"| '''17%'''
+| 1%
+| 15%
+| 1%
 |-
-|1%
-|1%
-|2%
-|9%
-|8%
-|2%
-|6%
-|style="background:#FFED99"|'''29%'''
-|–
-|1%
-|–
-|–
-|–
-|4%
-|–
-|–
-|<0.5%
-|2%
-|style="background:#E0E5F0"|'''18%'''
-|1%
-|15%
-|1%
+| 1%
+| 1%
+| 2%
+| 9%
+| 8%
+| 2%
+| 6%
+| style="background:#FFED99"| '''29%'''
+| –
+| 1%
+| –
+| –
+| –
+| 4%
+| –
+| –
+| <0.5%
+| 2%
+| style="background:#E0E5F0"| '''18%'''
+| 1%
+| 15%
+| 1%
 |-
 | rowspan="3" style="background:#FFCCFF;"| [http://www.odoxa.fr/sondage/zemmour-recule-macron-domine-les-electeurs-de-gauche-se-sentent-abandonnes/ Odoxa]
 | rowspan="3"| 5–8 Nov 2021
@@ -830,7 +875,7 @@
 | 1%
 | 15%
 | 1%
-| style="background:#EEEEEE"| '''18%'''
+| style="background:#E5E7FF"| '''18%'''
 | <0.5%
 |-
 | 1%
@@ -853,7 +898,7 @@
 | 2%
 | 16%
 | 1%
-| style="background:#EEEEEE"| '''18%'''
+| style="background:#E5E7FF"| '''18%'''
 | <0.5%
 |-
 | 1%
@@ -876,7 +921,7 @@
 | 2%
 | 15%
 | 1%
-| style="background:#EEEEEE"| '''19%'''
+| style="background:#E5E7FF"| '''19%'''
 | <0.5% 
 |-
 | rowspan="5" style="background:#FFCCCC"| [https://www.ifop.com/wp-content/uploads/2021/11/118574_Ifop_Rapport_Baro_Presid.V6..pdf Ifop-Fiducial]
@@ -902,7 +947,7 @@
 | 2.5%
 | 16%
 | –
-| style="background:#EEEEEE"| '''17%'''
+| style="background:#E5E7FF"| '''17%'''
 | –
 |-
 | 0.5%
@@ -948,7 +993,7 @@
 | 4.5%
 | style="background:#E0E5F0"| '''16.5%'''
 | –
-| style="background:#EEEEEE"| '''16.5%'''
+| style="background:#E5E7FF"| '''16.5%'''
 | –
 |-
 | 0.5%
@@ -971,7 +1016,7 @@
 | 4%
 | 17%
 | –
-| style="background:#EEEEEE"| '''18%'''
+| style="background:#E5E7FF"| '''18%'''
 | –
 |-
 | 0.5%
@@ -994,7 +1039,7 @@
 | 4%
 | style="background:#E0E5F0"| '''18%'''
 | –
-| style="background:#EEEEEE"| '''18%'''
+| style="background:#E5E7FF"| '''18%'''
 | <0.5%
 |-
 | rowspan="3" style="background:GreenYellow"| [http://harris-interactive.fr/wp-content/uploads/sites/6/2021/11/Rapport-Harris-Vague-20-Intentions-de-vote-Presidentielle-2022-Challenges.pdf Harris-Interactive]
@@ -1020,7 +1065,7 @@
 | 1%
 | 15%
 | 1%
-| style="background:#EEEEEE"| '''17%'''
+| style="background:#E5E7FF"| '''17%'''
 | <0.5%
 |-
 | 1%
@@ -1043,7 +1088,7 @@
 | 2%
 | 16%
 | 1%
-| style="background:#EEEEEE"| '''17%'''
+| style="background:#E5E7FF"| '''17%'''
 | <0.5%
 |-
 | 1%
@@ -1066,7 +1111,7 @@
 | 2%
 | 16%
 | 1%
-| style="background:#EEEEEE"| '''18%'''
+| style="background:#E5E7FF"| '''18%'''
 | <0.5% 
 |-
 | rowspan="3" style="background:#CAD5F7"| [https://elabe.fr/wp-content/uploads/2021/10/presidentielle-2022.pdf Elabe]
@@ -1164,7 +1209,7 @@
 | 1%
 | 16%
 | <0.5%
-| style="background:#EEEEEE"| '''17%'''
+| style="background:#E5E7FF"| '''17%'''
 | <0.5%
 |-
 | 1%
@@ -1187,7 +1232,7 @@
 | 2%
 | 16%
 | <0.5%
-| style="background:#EEEEEE"| '''17%'''
+| style="background:#E5E7FF"| '''17%'''
 | <0.5%
 |-
 | 1%
@@ -1210,7 +1255,7 @@
 | 2%
 | 16%
 | <0.5%
-| style="background:#EEEEEE"| '''18%'''
+| style="background:#E5E7FF"| '''18%'''
 | <0.5%
 |-
 | rowspan="4" style="background:#80fcd4;"| [https://www.opinion-way.com/fr/component/edocman/opinionway-pour-les-vague-2-octobre-2021/viewdocument/2695.html OpinionWay]
@@ -1331,7 +1376,7 @@
 | 1%
 | 16%
 | <0.5%
-| style="background:#EEEEEE;"| '''17%'''
+| style="background:#E5E7FF;"| '''17%'''
 | <0.5%
 |-
 | 1%
@@ -1354,7 +1399,7 @@
 | 2%
 | 16%
 | <0.5%
-| style="background:#EEEEEE;"| '''17%'''
+| style="background:#E5E7FF;"| '''17%'''
 | <0.5%
 |-
 | 1%
@@ -1377,7 +1422,7 @@
 | 2%
 | 16%
 | <0.5%
-| style="background:#EEEEEE;"| '''18%'''
+| style="background:#E5E7FF;"| '''18%'''
 | <0.5%
 |-
 | rowspan="3" style="background:#FFCCCC|[https://www.ifop.com/wp-content/uploads/2021/10/Presentation-LAZARE-DEF-19.10.2021-18h15.pdf Ifop-Fiducial]
@@ -1426,7 +1471,7 @@
 | 4%
 | style="background:#E0E5F0;"| '''17%'''
 | –
-| style="background:#EEEEEE;"| '''17%'''
+| style="background:#E5E7FF;"| '''17%'''
 | –
 |-
 | 0.5%
@@ -1498,7 +1543,7 @@
 | 2.5%
 | style="background:#E0E5F0;"| '''18%'''
 | –
-| 17 %
+| 17%
 | –
 |-
 | 0.5%
@@ -1547,7 +1592,7 @@
 | 1%
 | 15%
 | <0.5%
-| style="background:#EEEEEE;"| '''17%'''
+| style="background:#E5E7FF;"| '''17%'''
 | <0.5%
 |-
 | 1%
@@ -1570,7 +1615,7 @@
 | 2%
 | 15%
 | <0.5%
-| style="background:#EEEEEE;"| '''17%'''
+| style="background:#E5E7FF;"| '''17%'''
 | <0.5%
 |-
 | 1%
@@ -1593,7 +1638,7 @@
 | 2%
 | 16%
 | <0.5%
-| style="background:#EEEEEE;"| '''18%'''
+| style="background:#E5E7FF;"| '''18%'''
 | <0.5%
 |-
 | 1%
@@ -1613,11 +1658,11 @@
 | –
 | –
 | <0.5%
-| 4 %
+| 4%
 | style="background:#C1CCE1;"| '''26%'''
 | 1%
 | –
-| <0.5 %
+| <0.5%
 |-
 | 1%
 | 1%
@@ -2091,7 +2136,7 @@
 | 2%
 | 15%
 | <0.5%
-| style="background:#EEEEEE;"| '''17%'''
+| style="background:#E5E7FF;"| '''17%'''
 | <0.5%
 |-
 | 1%
@@ -2114,7 +2159,7 @@
 | 2%
 | 15%
 | <0.5%
-| style="background:#EEEEEE;"| '''17%'''
+| style="background:#E5E7FF;"| '''17%'''
 | <0.5%
 |-
 | 1%
@@ -2137,7 +2182,7 @@
 | 2%
 | 16%
 | <0.5%
-| style="background:#EEEEEE;"| '''18%'''
+| style="background:#E5E7FF;"| '''18%'''
 | <0.5%
 |-
 | rowspan="7" style="background:#FFCCCC"| [https://www.commission-des-sondages.fr/notices/files/notices/2021/octobre/9216-p-ifop-le-figaro-v4.pdf Ifop]
@@ -3095,29 +3140,29 @@
 ! {{vert header|mw=35px|stp=1|[[Éric Zemmour]]}}
 ! {{vert header|mw=35px|stp=1|[[François Asselineau]]}}
 |-
-! style="background:{{Lutte Ouvrière/meta/color}};"|
-! style="background:{{New Anticapitalist Party/meta/color}};"|
-! style="background:{{French Communist Party/meta/color}};"|
-! style="background:{{La France Insoumise/meta/color}};"|
-! style="background:{{Socialist Party (France)/meta/color}};"|
-! style="background:{{Socialist Party (France)/meta/color}};"|
-! style="background:{{Miscellaneous left/meta/color}};"|
-! style="background:{{Europe Ecology – The Greens/meta/color}};"|
-! style="background:{{Europe Ecology – The Greens/meta/color}};"|
-! style="background:{{La République En Marche!/meta/color}};"|
-! style="background:{{Union of Democrats and Independents/meta/color}};"|
-! style="background:{{Résistons!/meta/color}};"|
-! style="background:{{Miscellaneous right/meta/color}};"|
-! style="background:{{Soyons libres/meta/color}};"|
-! style="background:{{The Republicans (France)/meta/color}};"|
-! style="background:{{The Republicans (France)/meta/color}};"|
-! style="background:{{The Republicans (France)/meta/color}};"|
-! style="background:{{The Republicans (France)/meta/color}};"|
-! style="background:{{Christian Democratic Party (France)/meta/color}};"|
-! style="background:{{Debout la France/meta/color}};"|
-! style="background:{{National Rally (France)/meta/color}};"|
-! style="background:{{Independent (politician)/meta/color}};"|
-! style="background:{{Popular Republican Union (2007)/meta/color}};"|
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|New Anticapitalist Party}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|La France Insoumise}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Miscellaneous left}};"|
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|La République En Marche!}};"|
+! style="background:{{party color|Union of Democrats and Independents}};"|
+! style="background:{{party color|Résistons!}};"|
+! style="background:{{party color|Miscellaneous right}};"|
+! style="background:{{party color|Soyons libres}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|Christian Democratic Party (France)}};"|
+! style="background:{{party color|Debout la France}};"|
+! style="background:{{party color|National Rally (France)}};"|
+! style="background:{{party color|Independent (politician)}};"|
+! style="background:{{party color|Popular Republican Union (2007)}};"|
 |-
 | rowspan="5" style="background:GreenYellow;"| [http://harris-interactive.fr/wp-content/uploads/sites/6/2021/09/Rapport_Harris_-_Vague_12_Intentions_de_vote_Presidentielle_2022_Challenges.pdf Harris-Interactive]
 | rowspan="5"| 3–6 Sep 2021
@@ -5738,31 +5783,31 @@
 ! {{vert header|mw=35px|stp=1|[[François Asselineau]]}}
 ! {{vert header|mw=35px|stp=1|[[Jacques Cheminade]]}}
 |-
-! style="background:{{Lutte Ouvrière/meta/color}};"|
-! style="background:{{New Anticapitalist Party/meta/color}};"|
-! style="background:{{French Communist Party/meta/color}};"|
-! style="background:{{La France insoumise/meta/color}};"|
-! style="background:{{Génération.s/meta/color}};"|
-! style="background:{{Socialist Party (France)/meta/color}};"|
-! style="background:{{Socialist Party (France)/meta/color}};"|
-! style="background:{{Socialist Party (France)/meta/color}};"|
-! style="background:{{Socialist Party (France)/meta/color}};"|
-! style="background:{{Socialist Party (France)/meta/color}};"|
-! style="background:{{Europe Ecology – The Greens/meta/color}};"|
-! style="background:{{La République En Marche!/meta/color}};"|
-! style="background:{{Union of Democrats and Independents/meta/color}};"|
-! style="background:{{Résistons!/meta/color}};"|
-! style="background:{{Miscellaneous right/meta/color}};"|
-! style="background:{{Soyons libres/meta/color}};"|
-! style="background:{{The Republicans (France)/meta/color}};"|
-! style="background:{{The Republicans (France)/meta/color}};"|
-! style="background:{{The Republicans (France)/meta/color}};"|
-! style="background:{{The Republicans (France)/meta/color}};"|
-! style="background:{{The Republicans (France)/meta/color}};"|
-! style="background:{{Debout la France/meta/color}};"|
-! style="background:{{National Rally (France)/meta/color}};"|
-! style="background:{{Popular Republican Union (2007)/meta/color}};"|
-! style="background:{{Solidarity and Progress/meta/color}};"|
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|New Anticapitalist Party}};"|
+! style="background:{{party color|French Communist Party}};"|
+! style="background:{{party color|La France insoumise}};"|
+! style="background:{{party color|Génération.s}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|La République En Marche!}};"|
+! style="background:{{party color|Union of Democrats and Independents}};"|
+! style="background:{{party color|Résistons!}};"|
+! style="background:{{party color|Miscellaneous right}};"|
+! style="background:{{party color|Soyons libres}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:{{party color|Debout la France}};"|
+! style="background:{{party color|National Rally (France)}};"|
+! style="background:{{party color|Popular Republican Union (2007)}};"|
+! style="background:{{party color|Solidarity and Progress}};"|
 |-
 | rowspan="11" style="background:#FFCCCC"| [https://www.ifop.com/wp-content/uploads/2020/10/117621-Rapport-T1s.pdf Ifop]
 | rowspan="11"| 28 Sep–1 Oct 2020 

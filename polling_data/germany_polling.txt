@@ -23,6 +23,85 @@
 ! style="background:{{The Left (Germany)/meta/color}};"|
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|3|6|Dec|2021|year}}
+| 2,119
+| –
+| {{Party shading/SPD}}| '''26'''
+| 22
+| 15
+| 13.5
+| 11.5
+| 5.5
+| 6.5
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+|-
+|[https://www.wahlkreisprognose.de/2021/12/06/im-bund-spd-mit-bestem-wert-seit-der-bundestagswahl-union-faellt-zurueck-gruene-und-fdp-gestaerkt/ Wahlkreisprognose]
+|1−6 Dec 2021
+|1,002
+|−
+| {{Party shading/SPD}}| '''29'''
+|18
+|16.5
+|13.5
+|11
+|4
+|8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 11
+
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|29|3|Dec|2021|year}}
+| 1,348
+| –
+| {{Party shading/SPD}}| '''26'''
+| 21
+| 15
+| 13
+| 12
+| 5
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| {{opdrts|29|1|Dec|2021|year}}
+| 1,316
+| –
+| {{Party shading/SPD}}| '''25'''
+| 23
+| 17
+| 12
+| 11
+| 5
+| 7
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.spiegel.de/politik/deutschland/corona-politik-der-neuen-ampelkoalition-regiert-uns-jetzt-ein-general-a-54033786-a86a-4830-93fc-373b7f36c280 Civey]
+| {{opdrts|24|1|Dec|2021|year}}
+| 10,078
+| –
+| {{Party shading/SPD}}| '''26'''
+| 24
+| 15
+| 11
+| 11
+| 5
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| {{opdrts|24|30|Nov|2021|year}}
+| 1,425
+| –
+| {{Party shading/SPD}}| '''27'''
+| 20
+| 16
+| 12
+| 11
+| 6
+| 8
+| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|26|29|Nov|2021|year}}
 | 2,129
 | –

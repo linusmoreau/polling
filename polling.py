@@ -221,6 +221,11 @@ def transcribe_table(content, key, choice, begin, start):
                         'Pinera', 'Lavin', 'Matthei', 'Kast', 'Parisi', 'Farkas', 'Siches',
                         'Other', 'end']
                 reset = True
+            elif '==First round==' in line:
+                nkey = ['date', 'source', 'type',
+                        'Artes', 'Boric', 'Enriquez-Om.', 'Provoste', 'Parisi', 'Sichel', 'Kast',
+                        'Other', 'end']
+                reset = True
         elif choice == 'Latvia':
             if 'A new party - [[Law and Order (Latvia)|LuK]] - is established' in line:
                 nkey = ['firm', 'date', 'sample', 'dec',
@@ -572,6 +577,12 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
             for k, entry in enumerate(table):
                 if entry[i] is None:
                     purge.add(k)
+    elif choice == 'Chile':
+        if len(key) <= 8:
+            i = key.index('date')
+            for k, entry in enumerate(table):
+                if entry[i] < date_kit.date_dif(today, Date(2021, 11, 21)):
+                    purge.add(k)
     for j, entry in enumerate(table):
         for i, k in enumerate(key):
             if k in include and entry[i] is not False:
@@ -661,6 +672,11 @@ def interpret_table(table: List[List[Any]], key: List[str], include):
 
 
 def choices_setup():
+    def set_default_colours_blocs():
+        for line in d['blocs'].keys():
+            if line not in d['col']:
+                d['col'][line] = d['col'][d['blocs'][line][0]]
+
     for c, d in specs.items():
         if 'restart' not in d:
             d['restart'] = ['[http']
@@ -671,9 +687,7 @@ def choices_setup():
         if 'blocs' not in d:
             d['blocs'] = None
         elif d['blocs'] is not None and 'col' in d:
-            for line in d['blocs'].keys():
-                if line not in d['col'].keys():
-                    d['col'][line] = d['col'][d['blocs'][line][0]]
+            set_default_colours_blocs()
         if 'gov' not in d:
             d['gov'] = None
         elif d['gov'] is not None and 'col' in d:

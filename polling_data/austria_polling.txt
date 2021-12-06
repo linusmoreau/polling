@@ -12,6 +12,7 @@
 ! class="unsortable" style="width:50px;"| [[Freedom Party of Austria|FPÖ]]
 ! class="unsortable" style="width:50px;"| [[The Greens – The Green Alternative|Grüne]]
 ! class="unsortable" style="width:50px;"| [[NEOS – The New Austria and Liberal Forum|NEOS]]
+! class="unsortable" style="width:50px;"| [[MFG – Austria People – Freedom – Fundamental Rights|MFG]]
 ! class="unsortable" style="width:50px;"| Others
 ! rowspan="2" class="unsortable" style="width:50px;" | Lead
 |-
@@ -20,6 +21,7 @@
 ! style="background:{{Freedom Party of Austria/meta/color}};"|
 ! style="background:{{The Greens – The Green Alternative/meta/color}};"|
 ! style="background:{{NEOS – The New Austria and Liberal Forum/meta/color}};"|
+! style="background:{{MFG – Austria People – Freedom – Fundamental Rights/meta/color}};"|
 ! style="background:{{Independent/meta/color}};"|
 |-
 | [https://twitter.com/EuropeElects/status/1464692259140825089 OGM]
@@ -31,8 +33,48 @@
 | 21
 | 12
 | 12
+| –
 | 6
 | style="background:{{Social Democratic Party of Austria/meta/color}};color:#FFFFFF;"| 3
+|-
+| [https://www.profil.at/oesterreich/umfrage-spoe-liegt-erstmals-wieder-vor-oevp/401812501 Unique Research]
+| data-sort-value="2021-11-18"| 15–18 Nov 2021
+| 800
+| Phone & Online
+| 24
+| style="background:#F4C6C9;"| '''25'''
+| 20
+| 13
+| 10
+| 3
+| 5
+| style="background:{{Social Democratic Party of Austria/meta/color}};color:#FFFFFF;"| 1
+|-
+| [https://www.heute.at/s/polit-beben-spoe-erstmals-seit-aera-kurz-in-umfrage-vorn-100173236 Unique Research]
+| data-sort-value="2021-11-11"| 8–11 Nov 2021
+| 800
+| Phone & Online
+| 24
+| style="background:#F4C6C9;"| '''25'''
+| 18
+| 13
+| 11
+| 6
+| 3
+| style="background:{{Social Democratic Party of Austria/meta/color}};color:#FFFFFF;"| 1
+|-
+| [https://www.wienerzeitung.at/nachrichten/politik/oesterreich/2125642-OeVP-stuerzt-in-Umfrage-ab.html Peter Hajek]
+| data-sort-value="2021-10-21"| 18–21 Oct 2021
+| 800
+| Phone & Online
+| style="background:#D2EDF1;"| '''23'''
+| style="background:#F4C6C9;"| '''23'''
+| 20
+| 16
+| 12
+| 4
+| 2
+| Tie
 |-
 | [https://image.kurier.at/images/cfs_616w/6467664/ogm_umfrage_17._10._online-01.png OGM]
 | data-sort-value="2021-10-15"| 12–15 Oct 2021
@@ -43,6 +85,7 @@
 | 21
 | 12
 | 12
+| –
 | 5
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 2
 |-
@@ -55,20 +98,66 @@
 | 21
 | 11
 | 13
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 2
 |-
-| [https://www.krone.at/2529452 IFDD]
-| data-sort-value="2021-10-11"| 7–11 Oct 2021
-| 1,526
-| Online
+| rowspan="2" | [https://www.profil.at/oesterreich/umfrage-oevp-stuerzt-ab/401771601 Unique Research]
+| rowspan="2" data-sort-value="2021-10-15" | 12–15 Oct 2021
+| rowspan="2" | 800
+| rowspan="2" | Phone & Online
+| style="background:#D2EDF1;"| '''25{{efn|with Alexander Schallenberg as frontrunner}}'''
+| style="background:#F4C6C9;"| '''25'''
+| 19
+| 14
+| 11
+| 3
+| 3
+| Tie
+|-
+| style="background:#D2EDF1;"| '''26{{efn|with Sebastian Kurz as frontrunner}}'''
+| 24
+| 18
+| 14
+| 12
+| 4
+| 2
+| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 2
+|-
+| rowspan=2 |[https://www.krone.at/2529452 IFDD]
+| rowspan=2 data-sort-value="2021-10-11"| 7–11 Oct 2021
+| rowspan=2 |1,526
+| rowspan=2 |Online
 | style="background:#D2EDF1;"| '''26'''
 | 25
 | 21
 | 11
 | 11
+| –
 | 6
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 1
+|-
+| style="background:#D2EDF1;"| '''25'''
+| style="background:#F4C6C9;"| '''25'''
+| 18
+| 11
+| 11
+| 7
+| 3
+| Tie
+|-
+| [https://elelectoral.com/2021/10/elecciones-austria-encuestas-research-comunistas-antivacunas/ Research Affairs]
+| data-sort-value="2021-09-30"| 28–30 Sep 2021
+| 506
+| Online
+| style="background:#D2EDF1;"| '''34'''
+| 22
+| 15
+| 10
+| 9
+| 5
+| 5{{efn|[[KPÖ]] 4%}}
+| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
 |-
 | [https://www.ogm.at/2021/09/12/wahlumfrage-kurier-september-2021/ OGM]
 | data-sort-value="2021-09-09"| 7–9 Sep 2021
@@ -79,6 +168,7 @@
 | 18
 | 12
 | 11
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 10
 |-
@@ -91,6 +181,7 @@
 | 19
 | 10
 | 11
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
 |-
@@ -103,6 +194,7 @@
 | 19
 | 10
 | 12
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
 |-
@@ -115,6 +207,7 @@
 | 19
 | 11
 | 11
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
 |-
@@ -127,6 +220,7 @@
 | 18
 | 10
 | 12
+| –
 | 5
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
 |-
@@ -139,6 +233,7 @@
 | 18
 | 13
 | 11
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 6
 |-
@@ -151,6 +246,7 @@
 | 17
 | 11
 | 12
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 14
 |-
@@ -163,6 +259,7 @@
 | 19
 | 12
 | 11
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 14
 |-
@@ -175,6 +272,7 @@
 | 17
 | 12
 | 12
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
 |-
@@ -187,6 +285,7 @@
 | 18
 | 12
 | 11
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
 |-
@@ -199,6 +298,7 @@
 | 19
 | 11
 | 12
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
 |-
@@ -211,6 +311,7 @@
 | 18
 | 11
 | 12
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
 |-
@@ -223,6 +324,7 @@
 | 17
 | 12
 | 12
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 12
 |-
@@ -235,6 +337,7 @@
 | 17
 | 11
 | 12
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 14
 |-
@@ -247,6 +350,7 @@
 | 18
 | 12
 | 12
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 9
 |-
@@ -259,6 +363,7 @@
 | 17
 | 13
 | 12
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
 |-
@@ -271,6 +376,7 @@
 | 16
 | 11
 | 12
+| –
 | 5
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 12
 |-
@@ -283,6 +389,7 @@
 | 17
 | 13
 | 11
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 5
 |-
@@ -295,6 +402,7 @@
 | 18
 | 11
 | 11
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 8
 |-
@@ -307,6 +415,7 @@
 | 16
 | 12
 | 11
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
 |-
@@ -319,6 +428,7 @@
 | 18
 | 11
 | 12
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
 |-
@@ -331,6 +441,7 @@
 | 15
 | 12
 | 11
+| –
 | 5
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
 |-
@@ -343,6 +454,7 @@
 | 18
 | 11
 | 11
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 5
 |-
@@ -355,6 +467,7 @@
 | 16
 | 13
 | 11
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 5
 |-
@@ -367,6 +480,7 @@
 | 14
 | 12
 | 12
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 12
 |-
@@ -379,6 +493,7 @@
 | 18
 | 13
 | 11
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 10
 |-
@@ -391,6 +506,7 @@
 | 15
 | 11
 | 12
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
 |-
@@ -403,6 +519,7 @@
 | 20
 | 10
 | 11
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 1
 |-
@@ -415,6 +532,7 @@
 | 16
 | 11
 | 12
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
 |-
@@ -425,8 +543,9 @@
 | style="background:#D2EDF1;"| '''34'''
 | 22
 | 17
-|  11
+| 11
 | 12
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 12
 |-
@@ -439,6 +558,7 @@
 | 18
 | 12
 | 11
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 10
 |-
@@ -451,6 +571,7 @@
 | 17
 | 12
 | 11
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
 |-
@@ -463,6 +584,7 @@
 | 18
 | 12
 | 10
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
 |-
@@ -475,6 +597,7 @@
 | 17
 | 12
 | 11
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
 |-
@@ -487,6 +610,7 @@
 | 16
 | 12
 | 12
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 16
 |-
@@ -499,6 +623,7 @@
 | 18
 | 13
 | 9
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 8
 |-
@@ -511,6 +636,7 @@
 | 16
 | 12
 | 11
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
 |-
@@ -523,6 +649,7 @@
 | 19
 | 12
 | 10
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 9
 |-
@@ -535,6 +662,7 @@
 | 17
 | 11
 | 10
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
 |-
@@ -547,6 +675,7 @@
 | 18
 | 9
 | 12
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
 |-
@@ -559,6 +688,7 @@
 | 15
 | 12
 | 10
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 10
 |-
@@ -571,6 +701,7 @@
 | 18
 | 11
 | 11
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
 |-
@@ -583,6 +714,7 @@
 | 17
 | 9
 | 11
+| –
 | 5
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 14
 |-
@@ -595,6 +727,7 @@
 | 16
 | 9
 | 10
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
 |-
@@ -607,6 +740,7 @@
 | 17
 | 10
 | 11
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 10
 |-
@@ -619,6 +753,7 @@
 | 17
 | 9
 | 10
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 14
 |-
@@ -631,6 +766,7 @@
 | 17
 | 10
 | 12
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
 |-
@@ -643,6 +779,7 @@
 | 17
 | 8
 | 10
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
 |-
@@ -655,6 +792,7 @@
 | 14
 | 12
 | 10
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 12
 |-
@@ -667,6 +805,7 @@
 | 17
 | 10
 | 11
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
 |-
@@ -679,6 +818,7 @@
 | 16
 | 9
 | 10
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 14
 |-
@@ -691,6 +831,7 @@
 | 15
 | 9
 | 10
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
 |-
@@ -703,6 +844,7 @@
 | 18
 | 10
 | 11
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
 |-
@@ -715,6 +857,7 @@
 | 16
 | 14
 | 10
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
 |-
@@ -727,6 +870,7 @@
 | 16
 | 13
 | 9
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 17
 |-
@@ -739,11 +883,12 @@
 | 12
 | 11
 | 10
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 19
 |-
 | [https://www.unique-research.at/post/profil-umfrage-wählertrend-november-2020 Unique Research]
-| data-sort-value="2020-11-06"|2–6 Nov 2020
+| data-sort-value="2020-11-06"| 2–6 Nov 2020
 | 804
 | Phone & Online
 | style="background:#D2EDF1;"| '''38'''
@@ -751,6 +896,7 @@
 | 16
 | 12
 | 10
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 17
 |-
@@ -763,6 +909,7 @@
 | 16
 | 16
 | 8
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 19
 |-
@@ -775,6 +922,7 @@
 | 12
 | 12
 | 9
+| –
 | 5
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 23
 |-
@@ -787,6 +935,7 @@
 | 13
 | 14
 | 8
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
 |-
@@ -799,6 +948,7 @@
 | 15
 | 13
 | 8
+| –
 | 5
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 23
 |-
@@ -811,6 +961,7 @@
 | 15
 | 16
 | 9
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 23
 |-
@@ -823,6 +974,7 @@
 | 11
 | 15
 | 8
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 23
 |-
@@ -835,6 +987,7 @@
 | 15
 | 16
 | 8
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
 |-
@@ -847,6 +1000,7 @@
 | 11
 | 15
 | 8
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 21
 |-
@@ -859,6 +1013,7 @@
 | 13
 | 16
 | 8
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 23
 |-
@@ -871,6 +1026,7 @@
 | 14
 | 16
 | 8
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 27
 |-
@@ -883,6 +1039,7 @@
 | 13
 | 15
 | 8
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 23
 |-
@@ -895,6 +1052,7 @@
 | 12
 | 16
 | 7
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 24
 |-
@@ -907,6 +1065,7 @@
 | 12
 | 17
 | 6
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
 |-
@@ -919,6 +1078,7 @@
 | 14
 | 15
 | 6
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 29
 |-
@@ -931,6 +1091,7 @@
 | 11
 | 17
 | 6
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 23
 |-
@@ -943,6 +1104,7 @@
 | 10
 | 18
 | 7
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 24
 |-
@@ -955,6 +1117,7 @@
 | 13
 | 16
 | 6
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 32
 |-
@@ -967,6 +1130,7 @@
 | 11
 | 19
 | 6
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 25
 |-
@@ -979,6 +1143,7 @@
 | 12
 | 18
 | 7
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 27
 |-
@@ -991,6 +1156,7 @@
 | 11
 | 19
 | 7
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 24
 |-
@@ -1003,6 +1169,7 @@
 | 17
 | 16
 | 9
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
 |-
@@ -1015,6 +1182,7 @@
 | 13
 | 17
 | 9
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 20
 |-
@@ -1027,6 +1195,7 @@
 | 16
 | 17
 | 10
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 21
 |-
@@ -1039,6 +1208,7 @@
 | 13
 | 17
 | 9
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 21
 |-
@@ -1051,6 +1221,7 @@
 | 15
 | 17
 | 9
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 20
 |-
@@ -1063,6 +1234,7 @@
 | 13
 | 17
 | 10
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
 |-
@@ -1075,6 +1247,7 @@
 | 13
 | 17
 | 11
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
 |-
@@ -1087,6 +1260,7 @@
 | 13
 | 17
 | 10
+| –
 | 5
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
 |-
@@ -1099,6 +1273,7 @@
 | 15
 | 17
 | 9
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
 |-
@@ -1111,6 +1286,7 @@
 | 16
 | 17
 | 10
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 21
 |-
@@ -1123,6 +1299,7 @@
 | 13
 | 17
 | 9
+| –
 | 5
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
 |-
@@ -1135,6 +1312,7 @@
 | 14
 | 16
 | 10
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 20
 |-
@@ -1147,6 +1325,7 @@
 | 15
 | 16
 | 9
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
 |-
@@ -1159,6 +1338,7 @@
 | 15
 | 17
 | 10
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 21
 |-
@@ -1171,6 +1351,7 @@
 | 14
 | 16
 | 9
+| –
 | 5
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
 |-
@@ -1183,6 +1364,7 @@
 | 14
 | 16
 | 10
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
 |-
@@ -1195,6 +1377,7 @@
 | 15
 | 16
 | 10
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 21
 |-
@@ -1207,6 +1390,7 @@
 | 14
 | 16
 | 10
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 20
 |-
@@ -1219,6 +1403,7 @@
 | 14
 | 16
 | 9
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 18
 |-
@@ -1231,6 +1416,7 @@
 | 17
 | 16
 | 9
+| –
 | 1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 19
 |-
@@ -1243,6 +1429,7 @@
 | 15
 | 16
 | 8
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 18
 |-
@@ -1255,6 +1442,7 @@
 | 15
 | 15
 | 9
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 18
 |-
@@ -1267,6 +1455,7 @@
 | 15
 | 16
 | 9
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 17
 |-
@@ -1279,6 +1468,7 @@
 | 15
 | 16
 | 9
+| –
 | 3
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 19
 |-
@@ -1291,6 +1481,7 @@
 | 15
 | 15
 | 9
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 19
 |-
@@ -1303,6 +1494,7 @@
 | 16
 | 15
 | 9
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 18
 |-
@@ -1315,6 +1507,7 @@
 | 15
 | 15
 | 8
+| –
 | 4
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 18
 |-
@@ -1327,6 +1520,7 @@
 | 17
 | 15
 | 9
+| –
 | 2
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 17
 |- style="background:#E9E9E9;"
@@ -1339,6 +1533,7 @@
 | 16.2
 | 13.9
 | 8.1
+| –
 | 3.1
 | style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 16.3
 |}

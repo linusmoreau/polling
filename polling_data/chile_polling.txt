@@ -1,680 +1,1126 @@
-=== After official registration of candidates ===
-:''Results considering only official candidates (excluding "Other", "Don't know", "Do not vote", etc.) and general voters, excluding polls showing likely voters or non-national samples.''
-{{Graph:Chart |width=900 |height=400 |xAxisTitle=Date |yAxisTitle=Percentage (excl. Others/None) |legend=Presidential candidate |type=line
-|interpolate=bundle
+== Second round ==
+:''Results considering only official candidates (excluding "Other", "Don't know", "Do not vote", etc.) and general voters, excluding polls only with likely voters. Average of polls every 3 days.''
+{{Graph:Chart |width=700|height=300|xAxisTitle=Date |yAxisTitle=Percentage (excl. Others/None)|xAxisAngle=-90
+|type=line
+|interpolate=basis
 |xType=date
 |xAxisMin=1629848400000
-|xAxisMax=1637518400000
+|xAxisMax=1639518400000
 |yGrid=5
-|yAxisMin=0
-|yAxisMax=40
+|yAxisMin=30
+|yAxisMax=70
 |linewidth = 1.8
-|vannotatonslabel=Polling silence, First round election day
-|vannotatonsline=2021/11/06,2021/11/21
+|vannotatonslabel=Polling silence,First round election day,Polling silence,Second round election day
+|vannotatonsline=2021/11/06,2021/11/21,2021/12/04,2021/12/19
 |xAxisFormat=%d-%m
-|x=2021/08/25, 2021/08/25, 2021/08/27, 2021/08/27, 2021/08/31, 2021/09/03, 2021/09/06, 2021/09/10, 2021/09/13, 2021/09/14, 2021/09/16, 2021/09/16, 2021/09/21, 2021/09/24, 2021/10/01, 2021/10/01, 2021/10/04, 2021/10/05, 2021/10/07, 2021/10/08, 2021/10/14, 2021/10/15, 2021/10/22, 2021/10/26, 2021/10/29, 2021/10/29, 2021/10/31, 2021/10/31, 2021/11/2, 2021/11/2, 2021/11/3, 2021/11/4, 2021/11/5, 2021/11/6, 2021/11/12, 2021/11/16, 2021/11/19, 2021/11/20, 2021/11/21
-
+|x=2021/09/05, 2021/09/17, 2021/10/02, 2021/10/08, 2021/10/14, 2021/10/17, 2021/10/26, 2021/10/29, 2021/11/01, 2021/11/04, 2021/11/07, 2021/11/13, 2021/11/16, 2021/11/19, 2021/11/22, 2021/11/28, 2021/12/01, 2021/12/04	
 |y1Title=G. Boric (AD)
-|y1= 25.3, 27.7, 27.0, 29.3, 34.7, 30.7, 34.8, 31.0, 33.7, 35.6, 30.3, 34.2, 31.9, 31.1, 30.6, 30.6, 33.3, 33.3, 30.4, 28.8, 27.4, 31.2, 27.0, 35.3, 25.0, 25.7, 27.6, 33.7, 30.0, 23.6, 26.5, 24.4, 24.7, 24.2, 26, 27, 27, 27, 25.8
-|y2Title=S. Sichel (ChP+)
-|y2= 29.9, 25.4, 27.0, 20.6, 26.4, 25.3, 23.4, 26.8, 20.0, 26.7, 25.8, 23.3, 26.4, 23.0, 16.7, 19.3, 15.7, 19.2, 17.7, 13.7, 9.6, 11.0, 9.5, 10.8, 9.9, 10.8, 10.5, 9.5, 10.0, 10.2, 10.8, 10.3, 11.5, 12.9, 9, 13, 13, 14, 12.8
-|y3Title=Y. Provoste (NPS)
-|y3= 13.8, 16.4, 17.6, 20.2, 16.7, 16.0, 14.8, 14.1, 16.8, 14.9, 10.1, 12.3, 15.4, 13.5, 16.7, 13.3, 14.9, 14.1, 12.7, 17.8, 16.4, 19.2, 16.2, 13.7, 13.6, 14.9, 11.4, 13.7, 11.3, 13.5, 12.0, 11.5, 15.2, 10.2, 12, 11, 11, 11, 11.6
-|y4Title=J.A. Kast (FSC)
-|y4= 17.2, 13.6, 13.5, 11.3, 11.1, 16.0, 14.3, 12.7, 14.7, 11.9, 21.3, 13.7, 17.6, 17.6, 20.8, 21.6, 20.9, 21.8, 24.1, 24.7, 28.8, 23.9, 31.1, 29.4, 31.9, 32.4, 37.9, 28.4, 28.8, 34.2, 30.1, 32.1, 30.3, 30.1, 32, 30, 27, 29, 27.9
-|y5Title=F. Parisi (PDG)
-|y5= 9.2, 9.8, 9.5, 10.9, 8.3, 9.3, 7.2, 11.3, 11.9, 5.0, 7.9, 8.2, 7.7, 6.8, 6.9, 8.8, 6.4, 6.4, 7.6, 8.2, 8.2, 7.3, 8.1, 4.9, 10.5, 9.5, 5.9, 8.4, 10.0, 11.1, 12.0, 12.8, 10.2, 12.6, 13, 12, 12, 12, 12.8
-|y6Title=M. Enríquez-O. (PRO)
-|y6= 3.4, 5.2, 4.1, 6.4, 1.4, 2.7, 3.4, 4.2, , 3.0, 2.2, 6.8, , 5.4, 6.9, 4.2, 4.8, 3.8, 5.1, 5.5, 5.5, 5.0, 6.8, 3.9, 6.9, 5.4, 4.7, 4.2, 7.5, 4.6, 6.0, 6.4, 5.4, 6.9, 7, 6, 9, 5, 7.6
-|y7Title=E. Artés (UPA)
-|y7= 1.1, 1.8, 1.4, 1.3, 1.4, 0.0, 2.0, 0.0, 2.9, 3.0, 2.2, 1.4, 1.1, 2.7, 1.4, 2.2, 4.0, 1.3, 2.5, 1.4, 4.1, 2.3, 1.4, 2.0, 2.3, 1.4, 1.9, 2.1, 2.5, 2.8, 2.4, 2.6, 2.7, 3.1, 1, 1, 1, 2, 1.5
-|colors=#FC415C,#FFD700,#800080,#2A58A6,#00285E,#FF1493,#CC0000
+|y1=66.25, 64.94, 58.05, 56.06, 55.13, 58.43, 46.00, 50.08, 46.80, 47.43, 47.14, 49.98, 51.25, 52.86, 50.00, 56.06, 53.95, 54.55
+|y2Title=J. A. Kast (FSC)
+|y2=33.75, 35.06, 41.95, 43.94, 44.87, 41.57, 54.00, 49.92, 53.20, 52.57, 52.86, 50.02, 48.75, 47.14, 50.00, 43.94, 46.05, 45.45
+|colors=#FC415C,#2A58A6
+| legend=Candidates
 | showSymbols = 0.7
 | symbolsShape = circle
 }}
 
-{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
-|- bgcolor=lightgray
-! rowspan="3"| Fieldwork dates
-! rowspan="3" style="width:125px;" | Polling firm
-! rowspan="3"| Type of poll
-! style="width:60px;" | [[File:Eduardo Artés 2018 (4x3).jpg|60x90px]]
-! style="width:60px;" | [[File:Gabriel Boric Font (2021) (cropped).png|60x90px]]
-! style="width:60px;" | [[File:Marco Enríquez-Ominami 2018 (4x3).jpg|60x90px]]
-! style="width:60px;" | [[File:Yasna Provoste Campillay (cropped).jpg|60x90px]]
-! style="width:60px;" | [[File:Franco Parisi.png|60x90px]]
-! style="width:60px;" | [[File:SEBASTIAN SICHEL 2019 (cropped).jpg|60x90px]]
-! style="width:60px;" | [[File:José Antonio Kast (2019) 4x3 cropped.jpg|60x90px]]
-! rowspan="3"| Others/<br/>None
+
+{| class="wikitable sortable mw-collapsible" style=text-align:center;font-size:90%;line-height:12px
 |-
-| bgcolor={{Patriotic Union (Chile)/meta/color}} |
-| bgcolor={{Apruebo Dignidad/meta/color}} |
-| bgcolor={{Progressive Party (Chile)/meta/color}} |
-| bgcolor={{New Social Pact/meta/color}} |
-| bgcolor={{Party of the People (Chile)/meta/color}} |
-| bgcolor={{Chile Podemos Más/meta/color}} |
-| bgcolor={{Christian Social Front/meta/color}} |
+! rowspan="2"|Date
+! rowspan="2"|Polling firm
+! rowspan="2"|Type of poll
+!width=100px|[[Gabriel Boric|Boric]] ([[Social Convergence|CS]])
+!width=100px|[[José Antonio Kast|J.A. Kast]] ([[Republican Party (Chile, 2019)|PLR]])
+! rowspan="2" width=80px|Not voting
+! rowspan="2" width=80px|Not sure
 |-
-! [[Eduardo Artés|Artés]]<br/><small>[[Patriotic Union (Chile)|UPa]]</small>
-! [[Gabriel Boric|Boric]]<br/><small>[[Apruebo Dignidad|AD]]</small>
-! [[Marco Enríquez-Ominami|M. E-O]]<br/><small>[[Progressive Party (Chile)|PRO]]</small>
-! [[Yasna Provoste|Provoste]]<br/><small>[[New Social Pact|NPS]]</small>
-! [[Franco Parisi|Parisi]]<br/><small>[[Party of the People (Chile)|PDG]]</small>
-! [[Sebastián Sichel|Sichel]]<br/><small>[[Chile Podemos Más|ChP+]]</small>
-! [[José Antonio Kast|Kast]]<br/><small>[[Christian Social Front|FSC]]</small>
+!style=background:{{Social Convergence/meta/color}} |
+!style=background:{{Republican Party (Chile)/meta/color}} |
 |-
-| 20 Nov 2021
-| [https://cadem.cl/wp-content/uploads/2021/11/Plaza-Publica-410-Segunda-vuelta-comienza-en-empate-estadistico-Kast-39-Boric-39.-22-no-sabe-o-no-responde.pdf Cadem]
-| Base 100. Online panel.{{efn|name=silence|Under Chilean law, polls can't be published two weeks before the election. However, some polling firms carried some surveys during the time and published the results internally or after the election.}}
-| 2
-| '''27'''
-| 5
-| 11
-| 13
-| 14
-| bgcolor="#84A0CE" | '''29'''
-| —
-|-
-| 16–19 Nov 2021
-| [https://cadem.cl/wp-content/uploads/2021/11/Plaza-Publica-410-Segunda-vuelta-comienza-en-empate-estadistico-Kast-39-Boric-39.-22-no-sabe-o-no-responde.pdf Cadem]
-| Base 100{{efn|name=silence}}
-| 1
-| '''27'''
-| 9
-| 11
-| 12
-| 13
-| bgcolor="#84A0CE" | '''27'''
-| —
-|-
-| 5–6 Nov 2021
-| [https://cdn.atlasintel.org/8d8d343c-8bfa-4a54-b4f5-300ea7c10e51.pdf AtlasIntel]
+|1-4 Dec 2021
+|[https://cdn.atlasintel.org/16a81493-d71b-4aaa-872a-112294e7af5f.pdf AtlasIntel]
 |
-| 2.8
-| '''21.9'''
-| 6.2
-| 9.2
-| 11.4
-| 11.7
-| bgcolor="#84A0CE" | '''27.2'''
-| 9.7
+| bgcolor="#FED0D6" |'''41.0'''
+|38.7
+|colspan=2|20.3
 |-
-| rowspan="2" | 2–5 Nov 2021
-| rowspan="2" | [https://chile.activasite.com/wp-content/uploads/2021/11/211986_PULSO_CIUDADANO_ELECTORAL_NOVIEMBRE_1106_V1.pdf Activa]
+|30 Nov-4 Dec 2021
+|Activa<ref>{{cite web|url=https://www.24horas.cl/politica/encuesta-pulso-ciudadano-da-ventaja-de-casi-14-puntos-a-boric-sobre-kast-de-cara-a-la-segunda-vuelta-5089574|date=2021-12-04|accessdate=2021-12-05|work=24 Horas|title=Encuesta Pulso Ciudadano da ventaja de casi 14 puntos a Boric sobre Kast de cara a la segunda vuelta}}</ref>
 |
-| 1.9
-| '''17.7'''
-| 3.9
-| 10.9
-| 7.3
-| 8.2
-| bgcolor="#84A0CE" | '''21.7'''
-| 28.4
+| bgcolor="#FED0D6" |'''42.2'''
+|28.3
+|13.5
+|16.0
 |-
-| Likely voter (51.6%)
-| 1.9
-| '''23.7'''
-| 4.5
-| 13.5
-| 9.9
-| 11.3
-| bgcolor="#84A0CE" | '''27.3'''
-| 7.9
-|-
-| 2–4 Nov 2021
-| [https://cadem.cl/wp-content/uploads/2021/11/Track-PP-408-Noviembre-S1-VF.pdf Cadem]
+|30 Nov-2 Dec 2021
+|[https://static1.squarespace.com/static/60aa93aeb7e9621e2f425a6f/t/61aaa3a9b6131934725a9524/1638572971282/Informe+Encuesta+Online+Feedback+Diciembre+2021.pdf Feedback]
 |
-| 2
-| '''19'''
-| 5
-| 9
-| 10
-| 8
-| bgcolor="#84A0CE" | '''25'''
-| 22
+| bgcolor="#FED0D6" |'''45'''
+|39
+|14
+|2
 |-
-| 2–3 Nov 2021
-| [https://pbs.twimg.com/media/FDglmALXIAQDf1e?format=jpg&name=large UDD]
+|30 Nov-2 Dec 2021
+|[https://cadem.cl/wp-content/uploads/2021/12/Track-PP-412-Diciembre-S1-VF.pdf Cadem]
 |
-| 2
-| '''22'''
-| 5
-| 10
-| 10
-| 9
-| bgcolor="#84A0CE" | '''25'''
-| 17
+| bgcolor="#FED0D6" |'''40'''
+|35
+|colspan=2|25
 |-
-| 1–2 Nov 2021
-| [https://cdn.atlasintel.org/ef9b5bf6-ed1b-4cfe-a292-d6e2675021ad.pdf AtlasIntel]
+|26–29 Nov 2021
+|[https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A58890fcc-86b5-36fb-954f-ebbc799eaac2 Studio Público]
 |
-| 2.5
-| '''21.4'''
-| 4.2
-| 12.2
-| 10.1
-| 9.2
-| bgcolor="#84A0CE" | '''31.0'''
-| 9.4
+|45.0
+| bgcolor="#CAD5E9" |'''45.3'''
+|colspan=2|9.7
 |-
-| rowspan="3" | 29 Oct–2 Nov 2021
-| rowspan="3" | [https://www.criteria.cl/descargas/Agenda_Criteria_Octubre_2021-5g23f.pdf Criteria]
+|25–29 Nov 2021
+|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_NOVIEMBRE_2021.pdf Data Influye]
 |
-| 2
-| bgcolor="#FD9FAD" |'''24'''
-| 6
-| 9
-| 8
-| 8
-| '''23'''
-| 19
+| bgcolor="#FED0D6" |'''47'''
+|34
+|12
+|7
 |-
-| Likely voter (51%)
-| 2
-| bgcolor="#FD9FAD"|'''34'''
-| 4
-| 12
-| 8
-| 8
-| '''28'''
-| 4
+|25–29 Nov 2021
+|[https://www.criteria.cl/descargas/Agenda_Criteria_Noviembre_2021-7d84g.pdf Criteria]
+|Base 100
+| bgcolor="#FED0D6" |'''54'''
+|46
+|colspan=2|—
 |-
-| Likely voter (41%)
-| 2
-| bgcolor="#FD9FAD"|'''35'''
-| 4
-| 11
-| 10
-| 6
-| '''29'''
-| 3
-|-
-| 29 Oct–2 Nov 2021
-| [https://www.df.cl/noticias/economia-y-politica/pais/encuesta-feedback-kast-lidera-en-primera-y-segunda-vuelta-pero-lo/2021-11-04/205409.html Feedback]
-| Likely voter (48%)
-| 1
-| '''30'''
-| 2
-| 9
-| 4
-| 11
-| bgcolor="#84A0CE" | '''36'''
-| 7
-|-
-| 26–31 Oct 2021
-| [https://www.dropbox.com/s/u73kfzbaxveonps/Studio%20Publico%20-%2020211031.pdf?dl=0 Studio Público]
-| 
-| 1.9
-| '''27.6'''
-| 4.7
-| 11.4
-| 5.9
-| 10.5
-| bgcolor="#84A0CE" | '''37.9'''
-| —
-|-
-| 29 Oct 2021
-| [https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_OCTUBRE_2021.pdf Tú Influyes]
-| 
-| 2
-| bgcolor="#FD9FAD"|'''32'''
-| 4
-| 13
-| 8
-| 9
-| '''27'''
-| 5
-|-
-| 27–29 Oct 2021
-| [https://cadem.cl/wp-content/uploads/2021/10/Track-PP-406-Octubre-S4-VF.pdf Cadem]
+|26-27 Nov 2021
+|Black & White<ref>{{cite web|access-date=2021-12-05|date=2021-11-28|title=Primeras encuestas de segunda vuelta dan ventaja a Boric frente a Kast (Lea aquí los estudios completos)|url=https://www.ex-ante.cl/primeras-encuestas-de-segunda-vuelta-dan-ventaja-a-boric-frente-a-kast-lea-aqui-los-estudios-completos/|website=Ex-Ante}}</ref>
 |
-| 1
-| '''19'''
-| 4
-| 11
-| 7
-| 8
-| bgcolor="#84A0CE" | '''24'''
-| 26
+| bgcolor="#FED0D6" |'''44'''
+|41
+|4
+|10
 |-
-| rowspan="2" | 25–29 Oct 2021
-| rowspan="2" | [https://chile.activasite.com/wp-content/uploads/2021/11/Pulso_Ciudadano_OCTUBRE_Q2_Informe.pdf Activa]
-| Likely voter (50.8%)
-| 2.6
-| '''25'''
-| 5.1
-| 12.1
-| 10.6
-| 9.1
-| bgcolor="#84A0CE" | '''26.5'''
-| 9
-|-
-| 
-| 1.6
-| '''17.4'''
-| 4.8
-| 9.5
-| 7.3
-| 6.9
-| bgcolor="#84A0CE" | '''22.2'''
-| 30.3
-|-
-| 20–26 Oct 2021
-| [https://www.youtube.com/watch?v=7wbjrH2dHt4 La Cosa Nostra]
-| 
-| 2
-| bgcolor="#FD9FAD" | '''36'''
-| 4
-| 14
-| 5
-| 11
-| '''30'''
-| —
-|-
-| 20–22 Oct 2021
-| [https://cadem.cl/wp-content/uploads/2021/10/Track-PP-406-Octubre-S4-VF.pdf Cadem]
+
+|24-26 Nov 2021
+|[https://cadem.cl/wp-content/uploads/2021/11/Plaza-Publica-411-Boric-39-comienza-la-segunda-vuelta-con-6-puntos-de-ventaja-sobre-Jose-Antonio-Kast-33.-El-28-no-sabe-no-responde-o-no-votaria..pdf Cadem]
 |
-| 1
-| '''20'''
-| 5
-| 12
-| 6
-| 7
-| bgcolor="#84A0CE" | '''23'''
-| 26
+| bgcolor="#FED0D6" |'''39'''
+|33
+| colspan="2" |28
 |-
-| 18–22 Oct 2021
-| [https://www.biobiochile.cl/noticias/nacional/chile/2021/10/24/encuesta-criteria-kast-le-pisa-los-talones-a-boric-y-provoste-relega-al-cuarto-lugar-a-sichel.shtml Criteria]
-| Likely voter
-| 2.0
-| bgcolor="#FD9FAD" | '''30.8 '''
-| 3.5
-| 10.9
-| 7.7
-| 8.1
-| '''27.7'''
-| 9.3
-|-
-| rowspan="2" | 12–15 Oct 2021
-| rowspan="2" | [https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf Activa]
-| Likely voter (50.9%)
-| 2.4
-| bgcolor="#FD9FAD" |'''31.3 '''
-| 3.7
-| 16.5
-| 6.9
-| 8.9
-| '''20.2'''
-| 10.1
+|rowspan=2|23-26 Nov 2021
+|rowspan=2|[https://chile.activasite.com/wp-content/uploads/2021/11/Pulso_Ciudadano_NOVIEMBRE_Q2_Informe.pdf Activa]
+|Likely voter (55.8%)
+| bgcolor="#FED0D6" |'''53.9'''
+|31.2
+|5.1
+|9.8
 |-
 |
-|1.6
-| bgcolor="#FD9FAD"|'''21.3'''
-|3.4
-|13.1
-|5.0
-|7.5
-|'''16.3'''
-| 31.8
+| bgcolor="#FED0D6" |'''40.4'''
+|24.5
+|12.8
+|22.5
 |-
-| 13–14 Oct 2021
-| [https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf Cadem]
+|20 Nov 2021
+|[https://cadem.cl/wp-content/uploads/2021/11/Plaza-Publica-410-Segunda-vuelta-comienza-en-empate-estadistico-Kast-39-Boric-39.-22-no-sabe-o-no-responde.pdf Cadem]
+|Online panel{{efn|name=silence}}
+|style="background:#FED0D6;" |'''39'''
+|bgcolor="#CAD5E9"|'''39'''
+|colspan=2|22
+|-
+|16-19 Nov 2021
+|[https://cadem.cl/wp-content/uploads/2021/11/Plaza-Publica-410-Segunda-vuelta-comienza-en-empate-estadistico-Kast-39-Boric-39.-22-no-sabe-o-no-responde.pdf Cadem]
+|{{efn|name=silence}}
+|style="background:#FED0D6;" |'''37'''
+|33
+|colspan=2|30
+|-
+|9-12 Nov 2021
+|[https://www.msn.com/es-cl/noticias/chile/kast-vs-boric-qu%C3%A9-dicen-las-encuestas-cadem-y-pulso-ciudadano-para-la-segunda-vuelta/ar-AAR0eBC?ocid=ob-tw-escl-670 Activa]
+|{{efn|name=silence}}
+|style="background:#FED0D6;" |'''35.9'''
+|35.0
+|21.9
+|7.2
+|-
+|5–6 Nov 2021
+|[https://cdn.atlasintel.org/8d8d343c-8bfa-4a54-b4f5-300ea7c10e51.pdf AtlasIntel]
 |
-| 3
-| '''20'''
-| 4
-| 12
-| 6
-| 7
-| bgcolor="#84A0CE" | '''21'''
-| 27
+|36.3
+|bgcolor="#CAD5E9"|'''40.7'''
+| colspan="2" |23.0
 |-
-| 6–8 Oct 2021
-| [https://cadem.cl/wp-content/uploads/2021/10/Track-PP-404-Octubre-S2-VF.pdf Cadem]
+|2–4 Nov 2021
+|[https://cadem.cl/wp-content/uploads/2021/11/Track-PP-408-Noviembre-S1-VF.pdf Cadem]
 |
-| 1
-| bgcolor="#FD9FAD" |'''21'''
-| 4
-| 13
-| 6
-| 10
-| '''18'''
-| 27
+|40
+|bgcolor="#CAD5E9"|'''44'''
+|11
+|5
 |-
-| 5–7 Oct 2021
-| [https://pbs.twimg.com/media/FBVs456X0AUPs-M?format=jpg&name=large UDD]
+|3 Nov 2021
+|[https://gobierno.udd.cl/noticias/2021/11/kast-y-boric-lideran-en-primera-vuelta-y-tendrian-cerrada-competencia-en-balotaje/ UDD]
 |
-| 2
-| bgcolor="#FD9FAD" |'''24'''
-| 4
-| 10
-| 6
-| 14
-| '''19'''
-| 21
+|style="background:#FED0D6;" |'''33'''
+|bgcolor="#CAD5E9"|'''33'''
+|colspan=2|34
 |-
-| 1–5 Oct 2021
-| [https://www.criteria.cl/descargas/Agenda_Criteria_Septiembre_2021-4cR9p.pdf Criteria]
-| Open-ended
-| 1
-| bgcolor="#FD9FAD" |'''26'''
-| 3
-| 11
-| 5
-| 15
-| '''17'''
-| 20
-|-
-| 1–4 Oct 2021
-| [https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_SEPTIEMBRE_2021.pdf Tú Influyes]
+|1–2 Nov 2021
+|[https://cdn.atlasintel.org/ef9b5bf6-ed1b-4cfe-a292-d6e2675021ad.pdf AtlasIntel]
 |
-| 3.1
-| bgcolor="#FD9FAD" |'''25.7'''
-| 3.7
-| 11.5
-| 4.9
-| 12.1
-| '''16.1'''
-| 22.9
+|36.7
+|bgcolor="#CAD5E9"|'''42.6'''
+| colspan="2" |20.7
 |-
-| 29 Sept–1 Oct 2021
-| [https://cadem.cl/wp-content/uploads/2021/10/Track-PP-403-Octubre-S1.pdf Cadem]
+|29 Oct–2 Nov 2021
+|[https://www.df.cl/noticias/economia-y-politica/pais/encuesta-feedback-kast-lidera-en-primera-y-segunda-vuelta-pero-lo/2021-11-04/205409.html Feedback]
+|Likely voter (48%)
+|41.2
+|bgcolor="#CAD5E9"|'''48.7'''
+| colspan="2" |10.1
+|-
+|26–31 Oct 2021
+|[https://www.dropbox.com/s/u73kfzbaxveonps/Studio%20Publico%20-%2020211031.pdf?dl=0 Studio Publico]
 |
-| 1
-| bgcolor="#FD9FAD" |'''22'''
-| 5
-| 12
-| 5
-| 12
-| '''15'''
-| 28
+|46.8
+|bgcolor="#CAD5E9"|'''53.2'''
+| colspan="2" |—
 |-
-| rowspan="2" | 27 Sept–1 Oct 2021
-| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf Activa]
-| Likely voter (48.4%)
-| 1.8
-| bgcolor="#FD9FAD" |'''29.7 '''
-| 3.1
-|11.2
-| 7.6
-| 15.3
-| ''' 17.2'''
-| 14.1
+| rowspan="2" |25–29 Oct 2021
+| rowspan="2" |[https://www.scribd.com/document/536249965/Encuesta-Pulso-Ciudadano-31-de-octubre#fullscreen&from_embed Activa]
+|Likely voter
+|style="background:#FED0D6;" |'''42.9'''
+|36.8
+|4.2
+|16.1
 |-
 |
-|1.4
-| bgcolor="#FD9FAD"|'''19.8'''
-|2.7
-|8.6
-|5.7
+|style="background:#FED0D6;" |'''32.9'''
+|32.8
 |12.5
-|'''14.0'''
-|35.3
+|12.1
 |-
-| 23–24 Sept 2021
-| [https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-402-Kast-se-alza-como-ganador-del-debate-y-alcanza-el-13-en-intencion-de-voto-quedando-a-solo-4-puntos-de-Sichel-17.pdf Cadem]
+|20–26 Oct 2021
+|[https://www.youtube.com/watch?v=7wbjrH2dHt4 La Cosa Nostra]
 |
-| 2
-| bgcolor="#FD9FAD" |'''23'''
-| 4
-| 10
-| 5
-| '''17'''
-| 13
-| 26
+| 46
+|bgcolor="#CAD5E9"|'''54'''
+|—
+|—
 |-
-| 20–21 Sept 2021
-|[https://pbs.twimg.com/media/FATyzr1XMAA6rJM?format=png&name=900x900 Black & White]
-|
-| 1
-| bgcolor="#FD9FAD" |'''29'''
-| —
-| 14
-| 7
-| '''24'''
-| 16
-| 9
-|-
-| rowspan="2" | 15–16 Sept 2021
-| rowspan="2" | [https://static1.squarespace.com/static/60aa93aeb7e9621e2f425a6f/t/6149e93740c1c1764ed6345c/1632233787102/Informe+Encuesta+Septiembre+2021+Esp%C3%ADritu+Constituyente.pdf Feedback]
-| Likely voter (56%)
-| 2
-| bgcolor="#FD9FAD" |'''34'''
-| 1
-| 7
-| 4
-| '''27'''
-| 16
-| 9
+| rowspan="2" |12–15 Oct 2021
+| rowspan="2" |[https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf Activa]
+|Likely voter
+| style="background:#FED0D6;" |'''52.6'''
+|30.2
+|11.2
+|6.0
 |-
 |
-| 2
-| bgcolor="#FD9FAD"|'''27'''
-| 2
-| 9
-| 7
-| '''23'''
-| 19
-| 11
+| style="background:#FED0D6;" |'''39.5'''
+|28.1
+|22.7
+|9.7
 |-
-| 14–16 Sept 2021
-| [https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf Cadem]
+|13–14 Oct 2021
+|[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf Cadem]
 |
-| 1
-| bgcolor="#FD9FAD" |'''25'''
-| 5
-| 9
-| 6
-| '''17'''
-| 10
-| 27
+| style="background:#FED0D6;" |'''43'''
+|35
+|16
+|6
 |-
-| 6–14 Sept 2021
-|[https://es.scribd.com/document/526959468/Encuesta-La-Cosa-Nostra-Septiembre La Cosa Nostra]
+|5–7 Oct 2021
+|[https://pbs.twimg.com/media/FBTcdwqXoAMgWCW?format=jpg&name=large UDD]
 |
-| 3
-| bgcolor="#FD9FAD" |'''36'''
-| 3
-| 15
-| 5
-| '''27'''
-| 12
-| —
+|style="background:#FED0D6;"|'''37'''
+|29
+| colspan="2" |34
 |-
-| rowspan="2" | 7–13 Sept 2021
-| rowspan="2" | [https://chile.activasite.com/wp-content/uploads/2021/09/Pulso_Ciudadano__SEPTIEMBRE_Q1_0915_V1_Informe.pdf Activa]
-| Likely voter (54.3%)
-| 2.5
-| bgcolor="#FD9FAD" |'''28.0'''
-| —
-| 11.9
-| 10.9
-| '''17.5'''
-| 14.0
-| 15.2
+| rowspan="2" |27 Sep–1 Oct 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf Activa]
+|Likely voter
+| style="background:#FED0D6;" |'''47.1'''
+|28.3
+|16.5
+|8.1
 |-
 |
-| 1.7
-| bgcolor="#FD9FAD"|'''19.9'''
-| —
-| 9.9
-| 7.0
-| '''11.8'''
-| 8.7
-| 41.0
+| style="background:#FED0D6;" |'''35.7'''
+|25.8
+|26.9
+|11.6
 |-
-| 8–10 Sept 2021
-| [https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-400-Confianza-en-la-Convencion-Constituyente-cae-a-43-6pts-su-nivel-mas-bajo-desde-que-comenzara-su-funcionamiento.pdf Cadem]
+|14–16 Sep 2021
+|[https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf Cadem]
 |
-| 0
-| bgcolor="#FD9FAD" |'''22'''
-| 3
-| 10
-| 8
-| '''19'''
-| 9
-| 29
+| style="background:#FED0D6;" |'''50'''
+|27
+|17
+|6
 |-
-| 3–6 Sept 2021
-|[https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_AGOSTO_2021.pdf Tú Influyes]
-|
-| 1.5
-| bgcolor="#FD9FAD" |'''26.5'''
-| 2.6
-| 11.3
-| 5.5
-| '''17.8'''
-| 10.9
-| 24.0
-|-
-|1–3 Sept 2021
+|1–3 Sep 2021
 |[https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf Cadem]
 |
-| 0
-| bgcolor="#FD9FAD" |'''23'''
-| 2
-| 12
-| 7
-| '''19'''
-| 12
-| 25
-|-
-| 27–31 Aug 2021
-|[https://www.criteria.cl/descargas/Agenda_Criteria_Agosto_2021-9bT8h.pdf Criteria]
-| Open-ended
-| 1
-| bgcolor="#FD9FAD" |'''25'''
-| 1
-| 12
-| 6
-| '''19'''
-| 8
-| 28
-|-
-| 26–27 Aug 2021
-|[https://plazapublica.cl/wp-content/uploads/2021/08/Track-PP-398-Agosto-S4-VF_Baja.pdf Cadem]
-|
-| 1
-| bgcolor="#FD9FAD" |'''20'''
-| 3
-| 13
-| 7
-| bgcolor="#F6E47F" |'''20'''
-| 10
-| 26
-|-
-| rowspan="2" | 24–27 Aug 2021
-| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/08/Pulso_Ciudadano_AGOSTO_Q2_informe.pdf Activa]
-| Likely voter (51.9%){{efn|The poll included the candidacies of [[Diego Ancalao]] and [[Gino Lorenzini]], before being rejected by the Electoral Service. Ancalao obtained 1.5% of the preferences and Lorenzini 5.1%.}}
-| 1.2
-| bgcolor="#FD9FAD" |'''23.4'''
-| 3.6
-| 12.3
-| 8.8
-| '''14.0'''
-| 8.9
-| 27.9
-|-
-|
-|0.7
-| bgcolor="#FD9FAD"|'''16.4'''
-|3.6
-|11.3
-|6.1
-|'''11.5'''
-|6.3
-|44.1
-|-
-| 24–25 Aug 2021
-|[https://ellibero.cl/wp-content/uploads/2021/08/Encuesta-presidenciales-28-agosto-2021-FINAL_1630348913.pdf Black & White]
-|{{efn|The poll included the candidacies of [[Diego Ancalao]] and [[Gino Lorenzini]], before being rejected by the Electoral Service. Ancalao obtained 2% of the preferences and Lorenzini 7%.}}
-| 1
-| '''22'''
-| 3
-| 12
-| 8
-| bgcolor="#F6E47F" |'''26'''
-| 15
-| 13
-|-
-| 24–25 Aug 2021
-|[https://www.litoralpress.cl/paginaconsultas/Servicios_NClip/Get_Imagen_Pagina.aspx?LPKey=AHV7U6ZGM3X6H2CNP4E6GWZTRVEQ44IFISL7SPI6D53SEDHE2ZHA UDD]
-|{{efn|The poll included the candidacies of [[Diego Ancalao]] and [[Gino Lorenzini]], before being rejected by the Electoral Service. Ancalao obtained 1.1% of the preferences and Lorenzini 4.4%.}}
-| 1.4
-| bgcolor="#FD9FAD" |'''21.8'''
-| 4.1
-| 12.9
-| 7.7
-| '''20.0'''
-| 10.7
-| 21.4
+| style="background:#FED0D6;" |'''53'''
+|27
+|15
+|5
 |}
 
-==== Regional polls ====
-{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
-|- bgcolor=lightgray
-! rowspan="3"| Fieldwork dates
-! rowspan="3" style="width:125px;" | Polling firm
-! rowspan="3"| Region
-! style="width:60px;" | [[File:Eduardo Artés 2018 (4x3).jpg|60x90px]]
-! style="width:60px;" | [[File:Gabriel Boric Font (2021) (cropped).png|60x90px]]
-! style="width:60px;" | [[File:Marco Enríquez-Ominami 2018 (4x3).jpg|60x90px]]
-! style="width:60px;" | [[File:Yasna Provoste Campillay (cropped).jpg|60x90px]]
-! style="width:60px;" | [[File:Franco Parisi.png|60x90px]]
-! style="width:60px;" | [[File:SEBASTIAN SICHEL 2019 (cropped).jpg|60x90px]]
-! style="width:60px;" | [[File:José Antonio Kast (2019) 4x3 cropped.jpg|60x90px]]
-! rowspan="3"| Others/<br/>None
+=== Discarded pairings ===
+
+Some polls evaluated a potential second round between candidates that participated in the first round of elections
+
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
 |-
-| bgcolor={{Patriotic Union (Chile)/meta/color}} |
-| bgcolor={{Apruebo Dignidad/meta/color}} |
-| bgcolor={{Progressive Party (Chile)/meta/color}} |
-| bgcolor={{New Social Pact/meta/color}} |
-| bgcolor={{Party of the People (Chile)/meta/color}} |
-| bgcolor={{Chile Podemos Más/meta/color}} |
-| bgcolor={{Christian Social Front/meta/color}} |
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+! rowspan="2" width=80px|Type of poll
+!width=100px|[[Gabriel Boric|Boric]] ([[Social Convergence|CS]])
+!width=100px|[[Sebastián Sichel|Sichel]] ([[Chile Vamos|I-ChV]])
+!rowspan=2 width=80px|Not voting
+!rowspan=2 width=80px|Not sure
 |-
-! [[Eduardo Artés|Artés]]<br/><small>[[Patriotic Union (Chile)|UPa]]</small>
-! [[Gabriel Boric|Boric]]<br/><small>[[Apruebo Dignidad|AD]]</small>
-! [[Marco Enríquez-Ominami|M. E-O]]<br/><small>[[Progressive Party (Chile)|PRO]]</small>
-! [[Yasna Provoste|Provoste]]<br/><small>[[New Social Pact|NPS]]</small>
-! [[Franco Parisi|Parisi]]<br/><small>[[Party of the People (Chile)|PDG]]</small>
-! [[Sebastián Sichel|Sichel]]<br/><small>[[Chile Podemos Más|ChP+]]</small>
-! [[José Antonio Kast|Kast]]<br/><small>[[Christian Social Front|FSC]]</small>
+!style=background:{{Social Convergence/meta/color}} |
+!style=background:{{Chile Podemos Más/meta/color}} |
 |-
-| 1 Oct-4 Nov 2021
-|[https://www.noticias.ucn.cl/wp-content/uploads/2021/11/Informe-Baro%CC%81metro-Regional-Antofagasta-Noviembre-2021-VF-1.pdf IPP UCN]
-| [[Antofagasta Region|Antofagasta]]
-| 0
-| '''11'''
-| 5
-| bgcolor="#f1a8ff"|'''12'''
-| 10
-| 1
-| 9
-| 52
+| rowspan="2" |15 Oct 2021
+| rowspan="2" |[https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf Activa]
+|Likely voter
+| style="background:#FED0D6;" |'''49.4'''
+|28.5
+|14.7
+|7.4
 |-
-| 24-28 Oct 2021
-|[https://mobile.twitter.com/ADPrensa/status/1455972415209721857 Go People]
-| [[Santiago Metropolitan Region|Santiago]]
-| 1.7
-| bgcolor="#FD9FAD"|'''19.1'''
-| 8.8
-| 8.6
-| 3.6
-| 7.2
-| '''17.3'''
-| 33.8
+|
+| style="background:#FED0D6;" |'''37.6'''
+|24.6
+|26.7
+|11.1
 |-
-| 23-24 Sept 2021
-|[https://panelciudadano.cl/wp-content/uploads/2021/09/2021-09-26-postdebate1.png UDD]
-| [[Santiago Metropolitan Region|Santiago]]
-| 3
-| bgcolor="#FD9FAD"|'''26'''
-| 4
-| 9
-| 4
-| '''16'''
-| 12
-| 26
+|14 Oct 2021
+|[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf Cadem]
+|
+| style="background:#FED0D6;" |'''41'''
+|35
+|18
+|6
 |-
+|7 Oct 2021
+|[https://pbs.twimg.com/media/FBTcdwqXoAMgWCW?format=jpg&name=large UDD]
+|
+|style="background:#FED0D6;"|'''37'''
+|26
+| colspan="2" |37
+|-
+| rowspan="2" |1 Oct 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf Activa]
+|Likely voter
+| style="background:#FED0D6;" |'''43.9'''
+|31.2
+|16.3
+|8.6
+|-
+|
+| style="background:#FED0D6;" |'''33.4'''
+|28.0
+|27.0
+|11.6
+|-
+| rowspan="2" |16 Sept 2021
+| rowspan="2" |[https://static1.squarespace.com/static/60aa93aeb7e9621e2f425a6f/t/6149e93740c1c1764ed6345c/1632233787102/Informe+Encuesta+Septiembre+2021+Esp%C3%ADritu+Constituyente.pdf Feedback]
+|Likely voter
+|43
+|style="background:#F6E47F;"|'''44'''
+|10
+|3
+|-
+|
+|37
+|style="background:#F6E47F;"|'''43'''
+|18
+|2
+|-
+|16 Sept 2021
+|[https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf Cadem]
+|
+| style="background:#FED0D6;" |'''44'''
+|36
+|15
+|5
+|-
+|3 Sept 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf Cadem]
+|
+| style="background:#FED0D6;" |'''44'''
+|39
+|13
+|4
+|-
+|25 Aug 2021
+|[https://www.litoralpress.cl/paginaconsultas/Servicios_NClip/Get_Imagen_Pagina.aspx?LPKey=AHV7U6ZGM3X6H2CNP4E6GWZTRVEQ44IFISL7SPI6D53SEDHE2ZHA UDD]
+|
+|style="background:#FED0D6;" |'''31'''
+|30
+|30
+|9
+|-
+| rowspan="2" |30 Jul 2021
+| rowspan="2" |[https://www.aimchile.cl/wp-content/uploads/2021/08/Informe_Encuesta_Julio_2021_Esp%C3%ADritu_Constituyente_VF.pdf Feedback]
+|Likely voter
+|style="background:#FED0D6;" |'''48'''
+|40
+|11
+|1
+|-
+|
+|41
+| style="background:#F6E47F;"|'''44'''
+|13
+|2
+|-
+|23 Jul 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/07/Track-PP-393-Julio-S4.pdf Cadem]
+|
+| style="background:#FED0D6;" |'''46'''
+|42
+|8
+|4
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+! rowspan="2" width=80px|Date
+! rowspan="2" width=80px|Polling firm
+! rowspan="2" width=80px|Type of poll
+!width=100px|[[Gabriel Boric|Boric]] ([[Social Convergence|CS]])
+!width=100px|[[Yasna Provoste|Provoste]] ([[Christian Democratic Party (Chile)|PDC]])
+! rowspan="2" width=80px|Not voting
+! rowspan="2" width=80px|Not sure
+|-
+!style=background:{{Social Convergence/meta/color}} |
+!style=background:{{Christian Democratic Party (Chile)/meta/color}} |
+|-
+| rowspan="2" |15 Oct 2021
+| rowspan="2" |[https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf Activa]
+|Likely voter
+| style="background:#FED0D6;" |'''38.6'''
+|30.8
+|23.0
+|7.6
+|-
+|
+| style="background:#FED0D6;" |'''31.3'''
+|25.8
+|11.4
+|31.4
+|-
+|14 Oct 2021
+|[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf Cadem]
+|
+| style="background:#FED0D6;" |'''39'''
+|35
+|21
+|5
+|-
+| rowspan="2" |1 Oct 2021
+| rowspan="2" |[https://chile.activasite.com/wp-content/uploads/2021/10/Pulso_Ciudadano_SEPTIEMBRE_Q2_Informe.pdf Activa]
+|Likely voter
+| style="background:#FED0D6;" |'''39.6'''
+|26.1
+|25.7
+|8.6
+|-
+|
+| style="background:#FED0D6;" |'''30.9'''
+|22.7
+|33.7
+|12.7
+|-
+| rowspan="2" |16 Sept 2021
+| rowspan="2" |[https://static1.squarespace.com/static/60aa93aeb7e9621e2f425a6f/t/6149e93740c1c1764ed6345c/1632233787102/Informe+Encuesta+Septiembre+2021+Esp%C3%ADritu+Constituyente.pdf Feedback]
+|Likely voter
+|style="background:#FED0D6;" |'''43'''
+|25
+|29
+|2
+|-
+|
+|style="background:#FED0D6;" |'''36'''
+|24
+|38
+|2
+|-
+|16 Sept 2021
+|[https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf Cadem]
+|
+| style="background:#FED0D6;" |'''42'''
+|34
+|18
+|6
+|-
+|3 Sept 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf Cadem]
+|
+| style="background:#FED0D6;" |'''44'''
+|34
+|16
+|6
+|-
+|25 Aug 2021
+|[https://www.litoralpress.cl/paginaconsultas/Servicios_NClip/Get_Imagen_Pagina.aspx?LPKey=AHV7U6ZGM3X6H2CNP4E6GWZTRVEQ44IFISL7SPI6D53SEDHE2ZHA UDD]
+|
+|style="background:#FED0D6;" |'''31.2'''
+|24.0
+|37.9
+|6.9
+|-
+| rowspan="2" |30 Jul 2021
+| rowspan="2" |[https://www.aimchile.cl/wp-content/uploads/2021/08/Informe_Encuesta_Julio_2021_Esp%C3%ADritu_Constituyente_VF.pdf Feedback]
+|Likely voter
+|style="background:#FED0D6;" |'''47'''
+|24
+|28
+|1
+|-
+|
+| style="background:#FED0D6;" |'''41'''
+|24
+|34
+|1
+|-
+|23 Jul 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/07/Track-PP-393-Julio-S4.pdf Cadem]
+|
+| style="background:#FED0D6;" |'''46'''
+|34
+|14
+|6
+|-
+|24 Jun 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/07/Track-PP-393-Julio-S4.pdf Cadem]
+|
+|25
+| style="background:#85C2FF;" |'''40'''
+|30
+|5
+|}
+
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+! rowspan="2" width=80px|Date
+! rowspan="2" width=80px|Polling firm
+! rowspan="2" width=80px|Type of poll
+!width=100px|[[Yasna Provoste|Provoste]] ([[Christian Democratic Party (Chile)|PDC]])
+!width=100px|[[Sebastián Sichel|Sichel]] ([[Chile Vamos|I-ChV]])
+! rowspan="2" width=80px|Not voting
+! rowspan="2" width=80px|Not sure
+|-
+!style=background:{{Christian Democratic Party (Chile)/meta/color}} |
+!style=background:{{Chile Vamos/meta/color}}; |
+|-
+|14 Oct 2021
+|[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf Cadem]
+|
+| style="background:#85C2FF;" |'''40'''
+|35
+|20
+|5
+|-
+| rowspan="2" |16 Sept 2021
+| rowspan="2" |[https://static1.squarespace.com/static/60aa93aeb7e9621e2f425a6f/t/6149e93740c1c1764ed6345c/1632233787102/Informe+Encuesta+Septiembre+2021+Esp%C3%ADritu+Constituyente.pdf Feedback]
+|Likely voter
+|30
+|style="background:#6DA8FF;"|'''44'''
+|24
+|2
+|-
+|
+|29
+|style="background:#6DA8FF;"|'''43'''
+|26
+|2
+|-
+|16 Sept 2021
+|[https://cadem.cl/wp-content/uploads/2021/09/Plaza-Publica-401-Gabriel-Boric-25-3pts-toma-distancia-en-la-carrera-presidencial-y-le-saca-8-puntos-a-Sebastian-Sichel-17-2pts.pdf Cadem]
+|
+| style="background:#85C2FF;" |'''40'''
+|36
+|18
+|6
+|-
+|3 Sept 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/09/Track-PP-399-Septiembre.pdf Cadem]
+|
+|38
+| style="background:#6DA8FF;"|'''42'''
+|16
+|4
+|-
+|25 Aug 2021
+|[https://www.litoralpress.cl/paginaconsultas/Servicios_NClip/Get_Imagen_Pagina.aspx?LPKey=AHV7U6ZGM3X6H2CNP4E6GWZTRVEQ44IFISL7SPI6D53SEDHE2ZHA UDD]
+|
+|27.1
+|style="background:#6DA8FF;"|'''32.8'''
+|33.1
+|7.0
+|-
+| rowspan="2" |30 Jul 2021
+| rowspan="2" |[https://www.aimchile.cl/wp-content/uploads/2021/08/Informe_Encuesta_Julio_2021_Esp%C3%ADritu_Constituyente_VF.pdf Feedback]
+|Likely voter
+|37
+|style="background:#6DA8FF;"|'''41'''
+|21
+|1
+|-
+|
+|30
+| style="background:#6DA8FF;"|'''45'''
+|24
+|1
+|-
+|23 Jul 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/07/Track-PP-393-Julio-S4.pdf Cadem]
+|
+|36
+| style="background:#6DA8FF;"|'''45'''
+|13
+|6
+|-
+|24 Jun 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/06/Especial-Electoral.-Junio-2021.pdf Cadem]
+|
+| style="background:#85C2FF;" |'''39'''
+|32
+|24
+|5
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+! rowspan="2" width=80px|Date
+! rowspan="2" width=80px|Polling firm
+! rowspan="2" width=80px|Type of poll
+!width=100px|[[Yasna Provoste|Provoste]] ([[Christian Democratic Party (Chile)|PDC]])
+!width=100px|[[José Antonio Kast|J.A. Kast]] ([[Republican Party (Chile, 2019)|PLR]])
+! rowspan="2" width=80px|Not voting
+! rowspan="2" width=80px|Not sure
+|-
+!style=background:{{Christian Democratic Party (Chile)/meta/color}} |
+!style=background:{{Republican Party (Chile)/meta/color}}; |
+|-
+|14 Oct 2021
+|[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf Cadem]
+|
+| style="background:#85C2FF;" |'''44'''
+|36
+|15
+|5
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+! rowspan="2" width=80px|Date
+! rowspan="2" width=80px|Polling firm
+! rowspan="2" width=80px|Type of poll
+!width=100px|[[Sebastián Sichel|Sichel]] ([[Chile Vamos|I-ChV]])
+!width=100px|[[José Antonio Kast|J.A. Kast]] ([[Republican Party (Chile, 2019)|PLR]])
+! rowspan="2" width=80px|Not voting
+! rowspan="2" width=80px|Not sure
+|-
+!style=background:{{Chile Vamos/meta/color}}; |
+!style=background:{{Republican Party (Chile)/meta/color}}; |
+|-
+|14 Oct 2021
+|[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf Cadem]
+|
+|30
+| style="background:#3973B9;" |'''34'''
+|28
+|8
+|}
+
+Some polls included candidates that eventually announced they would not run for office.
+
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Daniel Jadue|Jadue]] ([[Communist Party of Chile|PC]])
+!width=100px|[[Felipe Kast|F. Kast]] ([[Political Evolution|EVO]])
+!width=80px rowspan=2|Not voting
+!width=80px rowspan=2|Not sure
+|-
+!style=background:{{Communist Party of Chile/meta/color}} |
+!style=background:{{Political Evolution/meta/color}} |
+|-
+|8 Jan 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/01/Track-PP-365-Enero-S1.pdf Cadem]
+|style="background:#E2BFBF;"|'''31'''
+|24
+|29
+|16
+|-
+|18 Nov 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
+|style="background:#E2BFBF;"|'''35'''
+|24
+|25
+|6
+|-
+|30 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-355-Octubre-S5.pdf Cadem]
+|style="background:#E2BFBF;"|'''32'''
+|26
+|32
+|7
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Pamela Jiles (journalist)|Jiles]] ([[Humanist Party (Chile)|PH]])
+!width=100px|[[Felipe Kast|F. Kast]] ([[Political Evolution|EVO]])
+!rowspan=2 width=80px|Not voting
+!rowspan=2 width=80px|Not sure
+|-
+!style=background:{{Humanist Party (Chile)/meta/color}} |
+!style=background:{{Political Evolution/meta/color}} |
+|-
+|18 Nov 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
+|style="background:#FFD1BF;"|'''40'''
+|22
+|27
+|11
+|-
+|30 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-355-Octubre-S5.pdf Cadem]
+|style="background:#FFD1BF;"|'''46'''
+|24
+|25
+|5
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Daniel Jadue|Jadue]] ([[Communist Party of Chile|PC]])
+!width=100px|[[José Antonio Kast|J.A. Kast]] ([[Republican Party (Chile, 2019)|PLR]])
+!width=80px rowspan=2|Not voting
+!width=80px rowspan=2|Not sure
+|-
+!style=background:{{Communist Party of Chile/meta/color}} |
+!style=background:{{Republican Party (Chile)/meta/color}} |
+|-
+|8 Jan 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/01/Track-PP-365-Enero-S1.pdf Cadem]
+|style="background:#E2BFBF;"|'''31'''
+|21
+|32
+|16
+|-
+|18 Nov 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
+|style="background:#E2BFBF;"|'''36'''
+|23
+|34
+|7
+|-
+|30 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-355-Octubre-S5.pdf Cadem]
+|style="background:#E2BFBF;"|'''33'''
+|20
+|32
+|15
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Pamela Jiles (journalist)|Jiles]] ([[Humanist Party (Chile)|PH]])
+!width=100px|[[José Antonio Kast|J.A.Kast]] ([[Republican Party (Chile, 2019)|PLR]])
+!rowspan=2 width=80px|Not voting
+!rowspan=2 width=80px|Not sure
+|-
+!style=background:{{Humanist Party (Chile)/meta/color}} |
+!style=background:{{Republican Party (Chile)/meta/color}} |
+|-
+|18 Nov 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
+|style="background:#FFD1BF;"|'''42'''
+|20
+|25
+|13
+|-
+|30 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-355-Octubre-S5.pdf Cadem]
+|style="background:#FFD1BF;"|'''47'''
+|21
+|27
+|5
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Daniel Jadue|Jadue]] ([[Communist Party of Chile|PC]])
+!width=100px|[[Joaquín Lavín|Lavín]] ([[Independent Democratic Union|UDI]])
+!rowspan=2 width=80px|Not voting
+!rowspan=2 width=80px|Not sure
+|-
+!style=background:{{Communist Party of Chile/meta/color}} |
+!style=background:{{Independent Democratic Union/meta/color}} |
+|-
+|24 Jun 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/06/Especial-Electoral.-Junio-2021.pdf Cadem]
+|32
+|style="background:#BFBFDF;"|'''39'''
+|23
+|6
+|-
+|20 May 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/06/Especial-Electoral.-Junio-2021.pdf Cadem]
+|35
+|style="background:#BFBFDF;"|'''37'''
+|25
+|3
+|-
+|8 Apr 2021
+|[https://www.cadem.cl/wp-content/uploads/2021/06/Especial-Electoral.-Junio-2021.pdf Cadem]
+|30
+|style="background:#BFBFDF;"|'''46'''
+|19
+|5
+|-
+|18 Mar 2021
+|[https://gobierno.udd.cl/noticias/2021/03/escenario-de-segunda-vuelta-presidencial-entre-lavin-jadue-se-proyecta-como-el-mas-competitivo/ UDD]
+|28.9
+|style="background:#BFBFDF;"|'''32.8'''
+| colspan="2" |38.3
+|-
+|8 Jan 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/01/Track-PP-365-Enero-S1.pdf Cadem]
+|25
+|style="background:#BFBFDF;"|'''37'''
+|26
+|12
+|-
+|18 Nov 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
+|32
+|style="background:#BFBFDF;"|'''36'''
+|26
+|6
+|-
+|30 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-355-Octubre-S5.pdf Cadem]
+|28
+|style="background:#BFBFDF;"|'''33'''
+|26
+|13
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Pamela Jiles (journalist)|Jiles]] ([[Humanist Party (Chile)|PH]])
+!width=100px|[[Joaquín Lavín|Lavín]] ([[Independent Democratic Union|UDI]])
+!rowspan=2 width=80px|Not voting
+!rowspan=2 width=80px|Not sure
+|-
+!style=background:{{Humanist Party (Chile)/meta/color}} |
+!style=background:{{Independent Democratic Union/meta/color}} |
+|-
+|18 Nov 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
+|style="background:#FFD1BF;"|'''35'''
+|style="background:#BFBFDF;"|'''35'''
+|22
+|8
+|-
+|30 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-355-Octubre-S5.pdf Cadem]
+|style="background:#FFD1BF;"|'''36'''
+|style="background:#BFBFDF;"|'''36'''
+|23
+|5
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Heraldo Muñoz|Muñoz]] ([[Party for Democracy (Chile)|PPD]])
+!width=100px|[[Joaquín Lavín|Lavín]] ([[Independent Democratic Union|UDI]])
+!rowspan=2 width=80px|Not voting
+!rowspan=2 width=80px|Not sure
+|-
+!style=background:{{Party for Democracy (Chile)/meta/color}} |
+!style=background:{{Independent Democratic Union/meta/color}} |
+|-
+|18 Nov 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
+|19
+|style="background:#BFBFDF;"|'''35'''
+|38
+|8
+|-
+|30 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-355-Octubre-S5.pdf Cadem]
+|22
+|style="background:#BFBFDF;"|'''32'''
+|31
+|15
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Paula Narváez|Narváez]] ([[Socialist Party of Chile|PS]])
+!width=100px|[[Joaquín Lavín|Lavín]] ([[Independent Democratic Union|UDI]])
+!rowspan=2 width=80px|Not voting
+!rowspan=2 width=80px|Not sure
+|-
+!style=background:{{Socialist Party of Chile/meta/color}} |
+!style=background:{{Independent Democratic Union/meta/color}} |
+|-
+|18 Mar 2021
+|[https://gobierno.udd.cl/noticias/2021/03/escenario-de-segunda-vuelta-presidencial-entre-lavin-jadue-se-proyecta-como-el-mas-competitivo/ UDD]
+|12.4
+|style="background:#BFBFDF;"|'''31.1'''
+| colspan="2" |56.5
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Ximena Rincón|Rincón]] ([[Christian Democratic Party (Chile)|PDC]])
+!width=100px|[[Joaquín Lavín|Lavín]] ([[Independent Democratic Union|UDI]])
+!rowspan=2 width=80px|Not voting
+!rowspan=2 width=80px|Not sure
+|-
+!style=background:{{Christian Democratic Party (Chile)/meta/color}} |
+!style=background:{{Independent Democratic Union/meta/color}} |
+|-
+|18 Nov 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
+|22
+|style="background:#BFBFDF;"|'''35'''
+|36
+|7
+|-
+|30 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-355-Octubre-S5.pdf Cadem]
+|23
+|style="background:#BFBFDF;"|'''33'''
+|31
+|13
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Beatriz Sánchez (journalist)|Sánchez]] (I-[[Broad Front (Chile)|FA]])
+!width=100px|[[Joaquín Lavín|Lavín]] ([[Independent Democratic Union|UDI]])
+!rowspan=2 width=80px|Not voting
+!rowspan=2 width=80px|Not sure
+|-
+!style=background:{{Broad Front (Chile)/meta/color}} |
+!style=background:{{Independent Democratic Union/meta/color}} |
+|-
+|18 Nov 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
+|30
+|style="background:#BFBFDF;"|'''36'''
+|28
+|6
+|-
+|30 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-355-Octubre-S5.pdf Cadem]
+|31
+|style="background:#BFBFDF;"|'''34'''
+|25
+|10
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Francisco Vidal Salinas|Vidal]] ([[Party for Democracy (Chile)|PPD]])
+!width=100px|[[Joaquín Lavín|Lavín]] ([[Independent Democratic Union|UDI]])
+!rowspan=2 width=80px|Not voting
+!rowspan=2 width=80px|Not sure
+|-
+!style=background:{{Party for Democracy (Chile)/meta/color}} |
+!style=background:{{Independent Democratic Union/meta/color}} |
+|-
+|18 Nov 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
+|21
+|style="background:#BFBFDF;"|'''33'''
+|39
+|7
+|-
+|30 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-355-Octubre-S5.pdf Cadem]
+|24
+|style="background:#BFBFDF;"|'''31'''
+|31
+|14
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Daniel Jadue|Jadue]] ([[Communist Party of Chile|PC]])
+!width=100px|[[Evelyn Matthei|Matthei]] ([[Independent Democratic Union|UDI]])
+!rowspan=2 width=80px|Not voting
+!rowspan=2 width=80px|Not sure
+|-
+!style=background:{{Communist Party of Chile/meta/color}} |
+!style=background:{{Independent Democratic Union/meta/color}} |
+|-
+|18 Mar 2021
+|[https://gobierno.udd.cl/noticias/2021/03/escenario-de-segunda-vuelta-presidencial-entre-lavin-jadue-se-proyecta-como-el-mas-competitivo/ UDD]
+|style="background:#E2BFBF;"|'''29.1'''
+|style="background:#BFBFDF;"|'''29.1'''
+| colspan="2" |41.8
+|-
+|8 Jan 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/01/Track-PP-365-Enero-S1.pdf Cadem]
+|27
+|style="background:#BFBFDF;"|'''36'''
+|25
+|12
+|-
+|18 Nov 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
+|style="background:#E2BFBF;"|'''35'''
+|34
+|25
+|6
+|-
+|30 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-355-Octubre-S5.pdf Cadem]
+|29
+|style="background:#BFBFDF;"|'''32'''
+|26
+|13
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Pamela Jiles (journalist)|Jiles]] ([[Humanist Party (Chile)|PH]])
+!width=100px|[[Evelyn Matthei|Matthei]] ([[Independent Democratic Union|UDI]])
+!rowspan=2 width=80px|Not voting
+!rowspan=2 width=80px|Not sure
+|-
+!style=background:{{Humanist Party (Chile)/meta/color}} |
+!style=background:{{Independent Democratic Union/meta/color}} |
+|-
+|18 Nov 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
+|style="background:#FFD1BF;"|'''38'''
+|33
+|20
+|9
+|-
+|30 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-355-Octubre-S5.pdf Cadem]
+|style="background:#FFD1BF;"|'''44'''
+|32
+|23
+|5
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Paula Narváez|Narváez]] ([[Socialist Party of Chile|PS]])
+!width=100px|[[Evelyn Matthei|Matthei]] ([[Independent Democratic Union|UDI]])
+!rowspan=2 width=80px|Not voting
+!rowspan=2 width=80px|Not sure
+|-
+!style=background:{{Socialist Party of Chile/meta/color}} |
+!style=background:{{Independent Democratic Union/meta/color}} |
+|-
+|18 Mar 2021
+|[https://gobierno.udd.cl/noticias/2021/03/escenario-de-segunda-vuelta-presidencial-entre-lavin-jadue-se-proyecta-como-el-mas-competitivo/ UDD]
+|12.7
+|style="background:#BFBFDF;"|'''27.5'''
+| colspan="2" |59.8
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Daniel Jadue|Jadue]] ([[Communist Party of Chile|PC]])
+!width=100px|[[Sebastián Sichel|Sichel]] ([[Chile Vamos|I-ChV]])
+!rowspan=2 width=80px|Not voting
+!rowspan=2 width=80px|Not sure
+|-
+!style=background:{{Communist Party of Chile/meta/color}} |
+!style=background:{{Chile Vamos/meta/color}} |
+|-
+|18 Mar 2021
+|[https://gobierno.udd.cl/noticias/2021/03/escenario-de-segunda-vuelta-presidencial-entre-lavin-jadue-se-proyecta-como-el-mas-competitivo/ UDD]
+|style="background:#E2BFBF;"|'''29'''
+|24.9
+| colspan="2" |46.1
+|-
+|8 Jan 2021
+|[https://plazapublica.cl/wp-content/uploads/2021/01/Track-PP-365-Enero-S1.pdf Cadem]
+|25
+|style="background:#6DA8FF;"|'''30'''
+|27
+|17
+|-
+|18 Nov 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
+|31
+|style="background:#6DA8FF;"|'''35'''
+|27
+|7
+|-
+|30 Oct 2020
+|[https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-355-Octubre-S5.pdf Cadem]
+|style="background:#E2BFBF;"|'''29'''
+|20
+|33
+|18
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+!rowspan=2 width=80px|Date
+!rowspan=2 width=80px|Polling firm
+!width=100px|[[Pamela Jiles (journalist)|Jiles]] ([[Humanist Party (Chile)|PH]])
+!width=100px|[[Sebastián Sichel|Sichel]] ([[Chile Vamos|I-ChV]])
+!rowspan=2 width=80px|Not voting
+!rowspan=2 width=80px|Not sure
+|-
+!style=background:{{Humanist Party (Chile)/meta/color}} |
+!style=background:{{Chile Vamos/meta/color}}; |
+|-
+|18 Nov 2020
+|[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
+|style="background:#FFD1BF;"|'''40'''
+|36
+|19
+|5
+|}
+{| class="wikitable sortable mw-collapsible mw-collapsed" style=text-align:center;font-size:90%;line-height:12px
+|-
+! rowspan="2" width=80px|Date
+! rowspan="2" width=80px|Polling firm
+!width=100px|[[Paula Narváez|Narváez]] ([[Socialist Party of Chile|PS]])
+!width=100px|[[Sebastián Sichel|Sichel]] ([[Chile Vamos|I-ChV]])
+! rowspan="2" width=80px|Not voting
+! rowspan="2" width=80px|Not sure
+|-
+!style=background:{{Socialist Party of Chile/meta/color}} |
+!style=background:{{Chile Vamos/meta/color}}; |
+|-
+|18 Mar 2021
+|[https://gobierno.udd.cl/noticias/2021/03/escenario-de-segunda-vuelta-presidencial-entre-lavin-jadue-se-proyecta-como-el-mas-competitivo/ UDD]
+|15.9
+|style="background:#6DA8FF;"|'''26.3'''
+| colspan="2" |57.8
 |}

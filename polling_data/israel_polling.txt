@@ -41,6 +41,42 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 !style=background:{{United Arab List/meta/color}} |
 !style=background:{{Yesh Atid/meta/color}} |
 |-
+|data-sort-value=2021-12-05 |5 Dec 21
+|iPanel
+|[[Channel 12 (Israel)|Channel 12]]<ref name=Ch12Dec5>{{cite news |title=סקר חדשות 12: רוב הציבור לא מרוצה מהממשלה - ומעדיף שלא תהיה רוטציה |url=https://www.mako.co.il/news-politics/2021_q4/Article-955161088ab8d71026.htm |access-date=6 December 2021 |date=5 December 2021 |work=N12 |lang=he}}</ref>
+|style=background:#BBCDE4 |'''34'''	<!-- Likud		-->
+|19					<!-- Yesh Atid		-->
+|9					<!-- Shas		-->
+|9					<!-- Blue and White	-->
+|6					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|7					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|{{small|(2.4%)}}	<!-- New Hope		-->
+|5					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|57					<!-- Gov		-->
+|-
+|data-sort-value=2021-12-02 |2 Dec 21
+|Smith
+|Galei Israel<ref>{{Cite tweet |author=Galei Israel |user=IsraelGaley |number=1466280280482799616 |date=2 December 2021 |title=שבועיים קשוחים עברו על הקואליציה בכלל, ועל ימינה בפרט: הקלטות בנטסקר של רפי סמית' לאבי רצון בבוקר: |language=he |access-date=3 December 2021}}</ref>
+|style=background:#BBCDE4 |'''34'''	<!-- Likud		-->
+|21					<!-- Yesh Atid		-->
+|9					<!-- Shas		-->
+|7					<!-- Blue and White	-->
+|5					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|7					<!-- Yisrael Beiteinu	-->
+|7					<!-- Religious Zionist	-->
+|7					<!-- Joint List		-->
+|–					<!-- New Hope		-->
+|4					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|56					<!-- Gov		-->
+|-
 |data-sort-value=2021-11-28 |28 Nov 21
 |Direct Polls
 |[[Channel 20 (Israel)|Channel 20]]<ref name=Ch20Nov28>{{cite news |title=סקר ערוץ 14: בנט מתרסק, חמש מפלגות בשוויון |url=https://www.now14.co.il/סקר-ערוץ-14-בנט-מתרסק-חמש-מפלגות-בשוויון/ |access-date=29 November 2021 |date=28 November 2021 |work=Now 14 |lang=he}}</ref>
