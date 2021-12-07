@@ -250,23 +250,32 @@ def transcribe_table(content, key, choice, begin, start):
                         'Other', 'lead', 'red', 'blue', 'lead']
                 reset = True
         elif choice == 'France':
-            if '==== January–September ====' in line:
+            if '==== September–November ====' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'Arthaud', 'Poutou', 'Roussel', 'Melenchon', 'Hidalgo', 'Montebourg', 'Jadot', 'Macron',
+                        'Lagarde',
+                        'Lassalle', 'Barnier', 'Bertrand', 'Ciotti', 'Juvin', 'Payre', 'Pécresse', 'Poisson',
+                        'Dupont-Aignan',
+                        'Le Pen', 'Philippot', 'Zemmour', 'Asselineau',
+                        'end']
+                reset = True
+            elif '==== January–September ====' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Arthaud', 'Poutou', 'Roussel', 'Melenchon', 'Hidalgo', 'Hollande', 'Montebourg', 'Piolle',
-                        'Jadot', 'Macron', 'Lagarde', 'Lassalle', 'Bertrand', 'Pecresse', 'Barnier', 'Baroin',
+                        'Jadot', 'Macron', 'Lagarde', 'Lassalle', 'Bertrand', 'Pécresse', 'Barnier', 'Baroin',
                         'Retailleau', 'Wauquiez', 'Poisson', 'Dupont-Aignan', 'Le Pen', 'Zemmour', 'Asselineau',
                         'end']
                 reset = True
             elif '=== 2017–2020 ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Arthaud', 'Poutou', 'Roussel', 'Melenchon', 'Hamon', 'Cazeneuve', 'Faure', 'Hidalgo',
-                        'Hollande', 'Royal', 'Jadot', 'Macron', 'Lagarde', 'Lassalle', 'Bertrand', 'Pecresse',
+                        'Hollande', 'Royal', 'Jadot', 'Macron', 'Lagarde', 'Lassalle', 'Bertrand', 'Pécresse',
                         'Baroin', 'Dati', 'Fillon', 'Retailleau', 'Wauquiez', 'Dupont-Aignan', 'Le Pen',
                         'Asselineau', 'Cheminade',
                         'end']
                 reset = True
         if reset:
-            tables.append({'table': table[:-1], 'key': key, 'years': years})
+            tables.append({'table': table[:], 'key': key, 'years': years})
             table = []
             years = {0: years[max(years)]}
             row = 0
@@ -531,7 +540,7 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
     for r, entry in enumerate(table):
         count = 0
         for i, k in enumerate(key):
-            if k in include and entry[i] is not None:
+            if k in include and entry[i] is not None and entry[i] != 0 and entry[i] != 1:
                 count += 1
                 if count > 1:
                     break
@@ -573,7 +582,7 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
                 if 'Presidential election' in entry[i]:
                     purge.add(k)
     elif choice == 'France':
-        for p in ['Melenchon', 'Hidalgo', 'Jadot', 'Macron', 'Bertrand', 'Le Pen']:
+        for p in ['Melenchon', 'Hidalgo', 'Jadot', 'Macron', 'Pécresse', 'Le Pen']:
             i = key.index(p)
             for k, entry in enumerate(table):
                 if entry[i] is None:
@@ -927,7 +936,6 @@ class GraphPage:
             with open(choices[self.choice]['old_data'], 'r', encoding='utf-8') as f:
                 content.extend(f.readlines())
         tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
-        # display_tables(tables)
         tables = process_tables(tables, self.choice, self.include, self.zeros)
         tables = filter_tables(tables, self.choice, self.include)
         tables = modify_tables(tables, self.choice, self.include, self.zeros)
@@ -1414,7 +1422,7 @@ def get_today():
 today = get_today()
 
 if __name__ == '__main__':
-    save_loc = 'updated.txt'
+    save_loc = '../updated.txt'
     updated: List
     try:
         with open(save_loc, 'r') as f:

@@ -38,6 +38,25 @@
 ! style="background:{{party color|Reconquête (political party)}};"|
 ! style="background:{{party color|Popular Republican Union (2007)}};"|
 |-
+| style="background:GreenYellow"| [https://harris-interactive.fr/wp-content/uploads/sites/6/2021/12/GJTDKD-021R.pdf Harris-Interactive]
+| 3–6 Dec 2021
+| 2,613
+| 1%
+| 1%
+| 2%
+| 11%
+| 5%
+| 1%
+| 7%
+| style="background:#FFED99"| '''23%'''
+| <0.5%
+| 14%
+| 2%
+| style="background:#E0E5F0;"| '''18%'''
+| 1%
+| 14%
+| <0.5%
+|-
 |}
 
 ==== September–November ====

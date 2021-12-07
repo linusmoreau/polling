@@ -70,7 +70,7 @@
 |style="background:#CCEBFF;"|'''36%'''
 |35%
 |11%
-|3%
+|5%
 |8%
 |{{Hidden|5%|[[Reform UK]] on 3%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{Conservative Party (UK)/meta/color}};color:#FFFFFF;"|1%
