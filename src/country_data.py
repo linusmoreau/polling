@@ -56,7 +56,6 @@ specs = {
         'end_date': Date(2021, 11, 14),
         'toggle_seats': True,
         'url': 'https://en.wikipedia.org/w/index.php?title=2021_Bulgarian_general_election&action=edit&section=10',
-        'old_data': 'polling_data/old_bulgaria_polling.txt',
         'seats': 240,
         'method': 'remainder',
         'threshold': 4,
@@ -83,9 +82,7 @@ specs = {
         'end_date': Date(2025, 9, 20),
         'toggle_seats': True,
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_45th_Canadian_federal_election&action=edit&section=1',
-        'old_data': 'polling_data/old_canada_polling.txt'
-    },
+               'Opinion_polling_for_the_45th_Canadian_federal_election&action=edit&section=1',    },
     'Chile': {
         'key': ['date', 'source', 'type',
                 'Boric', 'Kast', 'Not voting', 'Not sure', 'end'],
@@ -102,7 +99,6 @@ specs = {
         'end_date': Date(2021, 12, 19),
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_2021_Chilean_presidential_election&action=edit&section=5',
-        'old_data': 'polling_data/old_chile_polling.txt',
         'vlines': {Date(2021, 7, 18): 'Official Primaries'}
     },
     'Czechia': {
@@ -150,9 +146,7 @@ specs = {
         'divisor': 2,
         'bar': 0,
         'threshold': 2,
-        'method': 'quotient',
-        'old_data': 'polling_data/old_denmark_polling.txt'
-    },
+        'method': 'quotient',    },
     'Estonia': {
         'key': ['firm', 'date', 'sample',
                 'Reform', 'Centre', 'EKRE', 'Isamaa', 'SDE', 'E200', 'Green',
@@ -166,7 +160,6 @@ specs = {
         'start': 0,
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_next_Estonian_parliamentary_election&action=edit&section=3',
-        'old_data': 'polling_data/old_estonia_polling.txt',
         'end_date': Date(2023, 3, 5),
         'threshold': 5,
         'method': 'quotient',
@@ -251,9 +244,7 @@ specs = {
         'divisor': 2,
         'bar': 0,
         'threshold': 5,
-        'method': 'quotient',
-        'old_data': 'polling_data/old_germany_polling.txt'
-    },
+        'method': 'quotient',    },
     'Greece': {
         'key': ['firm', 'date', 'sample',
                 'ND', 'Syriza', 'KINAL', 'KKE', 'EL', 'MeRA25', 'XA', 'PE', 'ANT', 'EP',
@@ -352,7 +343,6 @@ specs = {
         'restart': ['Cite', 'cite'],
         'vlines': {Date(2020, 2, 8): 'General Election'},
         'end_date': Date(2025, 2, 20),
-        'old_data': 'polling_data/old_ireland_polling.txt',
         'url': 'https://en.wikipedia.org/w/index.php?title=Next_Irish_general_election&action=edit&section=3'
     },
     'Italy': {
@@ -373,7 +363,6 @@ specs = {
                 'Opposition': ['FdI', '+Eu', 'C!', 'A', 'SI', 'CI']},
         'start': -1,
         'end_date': Date(2023, 6, 1),
-        'old_data': 'polling_data/old_italy_polling.txt',
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_next_Italian_general_election&action=edit&section=3'
     },
@@ -392,7 +381,6 @@ specs = {
         'end_date': Date(2021, 10, 31),
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_2021_Japanese_general_election&action=edit&section=9',
-        'old_data': 'polling_data/old_japan_polling.txt',
         'vlines': {Date(2021, 9, 3): "PM Suga announces resignation"}
     },
     'Latvia': {
@@ -463,7 +451,6 @@ specs = {
         'start': 0,
         'vlines': {Date(2021, 3, 17): 'General Election'},
         'url': 'https://en.wikipedia.org/w/index.php?title=Next_Dutch_general_election&action=edit&section=3',
-        'old_data': 'polling_data/old_netherlands_polling.txt',
         'toggle_seats': True,
         'method': 'quotient',
         'bar': 0,
@@ -511,7 +498,6 @@ specs = {
         'bar': 0.4,
         'threshold': 4,
         'method': 'quotient',
-        'old_data': 'polling_data/old_norway_polling.txt',
         'vlines': {Date(2021, 9, 13): "General elections"}
     },
     'Ontario': {
@@ -544,7 +530,6 @@ specs = {
                   'Misc. Right': ['Kukiz\'15', 'Confederation']},
         'start': 0,
         'end_date': Date(2023, 11, 11),
-        'old_data': 'polling_data/old_poland_polling.txt',
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_next_Polish_parliamentary_election&action=edit&section=3',
         'seats': 460,
@@ -605,7 +590,6 @@ specs = {
         'end_date': Date(2026, 9, 20),
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_2026_Russian_legislative_election&action=edit&section=3',
-        'old_data': 'polling_data/old_russia_polling.txt',
         'vlines': {Date(2018, 6, 14): 'Retirement Age Increase Announced',
                    Date(2021, 9, 19): 'Parliamentary elections'},
     },
@@ -721,7 +705,6 @@ specs = {
         'vlines': {Date(2020, 4, 4): 'Starmer becomes Labour leader',
                    Date(2021, 5, 6): 'Local elections'},
         'end_date': Date(2024, 5, 2),
-        'old_data': 'polling_data/old_uk_polling.txt',
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_next_United_Kingdom_general_election&action=edit&section=3'
     }

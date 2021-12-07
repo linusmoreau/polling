@@ -9,6 +9,7 @@ import threading
 import csv
 from country_data import specs
 from bs4 import BeautifulSoup
+from os.path import exists
 
 
 def display_tables(tables, trunc=32):
@@ -695,7 +696,11 @@ def choices_setup():
                 if line not in d['col'].keys():
                     d['col'][line] = d['col'][d['gov'][line][0]]
         if 'file_name' not in d:
-            d['file_name'] = 'polling_data/' + c.lower().replace(' ', '_') + '_polling.txt'
+            d['file_name'] = '../polling_data/' + c.lower().replace(' ', '_') + '_polling.txt'
+        if 'old_data' not in d:
+            path = '../polling_data/old_' + c.lower().replace(' ', '_') + '_polling.txt'
+            if exists(path):
+                d['old_data'] = path
         if 'include' not in d:
             d['include'] = None
         if 'vlines' not in d:
@@ -798,7 +803,7 @@ class GraphPage:
         back_button.callback(menu_page.show)
         img = Image(back_button.rect.center,
                     (back_button.rect.width * 3 / 4, back_button.rect.height * 3 / 4),
-                    "images/arrow.png")
+                    "../images/arrow.png")
         img.surface = pygame.transform.rotate(img.surface, 270)
         back_button.set_tooltip("Return to Menu")
         back_button.components.append(img)
@@ -812,7 +817,7 @@ class GraphPage:
                                    align=CENTER, parent=pinboard, deselectable=False)
         pinboard.select_buttons.append(bloc_button)
         bloc_img = Image(bloc_button.rect.center, (bloc_button.rect.w * 4 / 5, bloc_button.rect.h * 4 / 5),
-                         img_path='images/hierarchy.png')
+                         img_path='../images/hierarchy.png')
         bloc_button.components.append(bloc_img)
         bloc_button.set_tooltip('Blocs')
         bloc_button.callback(functools.partial(self.change_view, 'blocs'))
@@ -824,7 +829,7 @@ class GraphPage:
                                   (unit_size, unit_size),
                                   align=CENTER, parent=pinboard, deselectable=False)
         gov_img = Image(gov_button.rect.center, (gov_button.rect.w * 4 / 5, gov_button.rect.h * 4 / 5),
-                        img_path='images/parliament.png')
+                        img_path='../images/parliament.png')
         gov_button.components.append(gov_img)
         gov_button.set_tooltip('Government/Opposition')
         pinboard.select_buttons.append(gov_button)
@@ -838,7 +843,7 @@ class GraphPage:
                                     align=CENTER, parent=pinboard, deselectable=False)
         pinboard.select_buttons.append(party_button)
         party_img = Image(party_button.rect.center, (party_button.rect.w * 4 / 5, party_button.rect.h * 4 / 5),
-                          img_path='images/ballot.png')
+                          img_path='../images/ballot.png')
         party_button.components.append(party_img)
         party_button.set_tooltip('Parties')
         party_button.callback(functools.partial(self.change_view, 'parties'))
@@ -851,7 +856,7 @@ class GraphPage:
         seats_button.release_callback(functools.partial(self.change_metric, 'percentage'))
         seats_button.set_tooltip('Toggle estimated seat/vote distribution')
         seats_img = Image(seats_button.rect.center, (seats_button.rect.w * 4 / 5, seats_button.rect.h * 4 / 5),
-                          img_path='images/cabinet.png')
+                          img_path='../images/cabinet.png')
         seats_button.components.append(seats_img)
         if not toggle_seats:
             seats_button.disable()
@@ -863,7 +868,7 @@ class GraphPage:
         end_button.release_callback(functools.partial(self.change_toend, False))
         end_button.set_tooltip('Show up to next election')
         end_img = Image(end_button.rect.center, (end_button.rect.w * 4 / 5, end_button.rect.h * 4 / 5),
-                        img_path='images/next.png')
+                        img_path='../images/next.png')
         end_button.components.append(end_img)
         if self.end_date is None:
             end_button.disable()
@@ -880,7 +885,7 @@ class GraphPage:
         self.up_spread.callback(self.change_spread, returns=True)
         img = Image(self.up_spread.rect.center,
                     (self.up_spread.rect.width * 3 / 4, self.up_spread.rect.height * 3 / 4),
-                    "images/arrow.png")
+                    "../images/arrow.png")
         img.surface = pygame.transform.rotate(img.surface, 90)
         self.up_spread.components.append(img)
         self.up_spread.show()
@@ -890,7 +895,7 @@ class GraphPage:
         self.down_spread.callback(self.change_spread, returns=True)
         img = Image(self.down_spread.rect.center,
                     (self.down_spread.rect.width * 3 / 4, self.down_spread.rect.height * 3 / 4),
-                    "images/arrow.png")
+                    "../images/arrow.png")
         img.surface = pygame.transform.rotate(img.surface, 270)
         self.down_spread.components.append(img)
         self.down_spread.show()
@@ -1197,7 +1202,7 @@ class MenuPage:
             b = Button((self.display.contain_rect.left, self.display.contain_rect.top + i * button_size),
                        (self.display.contain_rect.w, button_size), parent=self.display)
             b.callback(functools.partial(GraphPage, entry, to_end_date=True))
-            img_path = 'images/flags/' + entry.lower().replace(' ', '_') + '.png'
+            img_path = '../images/flags/' + entry.lower().replace(' ', '_') + '.png'
             try:
                 img = Image((b.rect.centerx + b.rect.w / 8, b.rect.centery), (b.rect.w * 3 / 8, b.rect.h * 3 / 4),
                             img_path, align=LEFT)
@@ -1236,7 +1241,7 @@ class MenuPage:
         for tag in updated:
             if tag not in self.notices:
                 b = self.display.button_tags[tag]
-                img_path = 'images/exclamation.png'
+                img_path = '../images/exclamation.png'
                 img = Image((b.rect.left, b.rect.centery), (b.rect.h * 2 / 3, b.rect.h / 2),
                             img_path, align=LEFT)
                 self.notices[tag] = img
@@ -1245,7 +1250,7 @@ class MenuPage:
 
 def get_canada_riding_data():
     try:
-        with open('misc_data/ridings.csv', 'r') as f:
+        with open('./misc_data/ridings.csv', 'r') as f:
             doc = csv.reader(f)
             dat: Dict[str, List[Dict[str, Any]]] = {}
             region = None
@@ -1426,7 +1431,7 @@ if __name__ == '__main__':
     surface.fill(whitish)
 
     pygame.display.set_caption('Polling')
-    icon = pygame.transform.scale((pygame.image.load("images/graph.png")), (32, 32))
+    icon = pygame.transform.scale((pygame.image.load("../images/graph.png")), (32, 32))
     icon_surf = pygame.Surface((32, 32))
     icon_surf.fill(white)
     icon_surf.blit(icon, (0, 0), None)
