@@ -16,13 +16,65 @@
 ! class="unsortable" style="width:50px;"| Others
 ! rowspan="2" class="unsortable" style="width:50px;" | Lead
 |-
-! style="background:{{Austrian People's Party (2017)/meta/color}};"|
-! style="background:{{Social Democratic Party of Austria/meta/color}};"|
-! style="background:{{Freedom Party of Austria/meta/color}};"|
-! style="background:{{The Greens – The Green Alternative/meta/color}};"|
-! style="background:{{NEOS – The New Austria and Liberal Forum/meta/color}};"|
-! style="background:{{MFG – Austria People – Freedom – Fundamental Rights/meta/color}};"|
-! style="background:{{Independent/meta/color}};"|
+! style="background:{{party color|Austrian People's Party (2017)}};"|
+! style="background:{{party color|Social Democratic Party of Austria}};"|
+! style="background:{{party color|Freedom Party of Austria}};"|
+! style="background:{{party color|The Greens – The Green Alternative}};"|
+! style="background:{{party color|NEOS – The New Austria and Liberal Forum}};"|
+! style="background:{{party color|MFG – Austria People – Freedom – Fundamental Rights}};"|
+! style="background:{{party color|Independent}};"|
+|-
+| [https://www.sn.at/panorama/oesterreich/umfrage-trend-oevp-hat-sich-unter-nehammer-stabilisiert-114234496 Peter Hajek]
+| data-sort-value="2021-12-16"| 13–16 Dec 2021
+| 800
+| Phone & Online
+| style="background:#D2EDF1;"| '''27'''
+| 25
+| 17
+| 14
+| 10
+| 4
+| 3
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 2
+|-
+| [https://www.profil.at/oesterreich/oevp-stabilisiert-gleichauf-mit-spoe-mfg-bundesweit-bei-6/401836309 Unique Research]
+| data-sort-value="2021-12-09"| 6–9 Dec 2021
+| 800
+| Phone & Online
+| style="background:#D2EDF1;"| '''27'''
+| style="background:#F4C6C9;"| '''27'''
+| 17
+| 11
+| 9
+| 6
+| 3
+| Tie
+|-
+| [https://www.derstandard.de/story/2000130401834/oevp-krise-staerkt-fpoe-und-neos Market]
+| data-sort-value="2021-12-09"| 6–9 Dec 2021
+| 800
+| Online & CAPI
+| 24
+| style="background:#F4C6C9;"| '''26'''
+| 22
+| 12
+| 11
+| 4
+| 1
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 2
+|-
+| [https://www.puls24.at/news/politik/die-puls-24-sonntagsfrage-spoe-vorne-nehammer-oevp-mit-schwierigem-start/251235 IFDD]
+| data-sort-value="2021-12-09"| 6–9 Dec 2021
+| 552
+| Online
+| 23
+| style="background:#F4C6C9;"| '''26'''
+| 20
+| 12
+| 12
+| –
+| 7
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 3
 |-
 | [https://twitter.com/EuropeElects/status/1464692259140825089 OGM]
 | data-sort-value="2021-11-25"| 23–25 Nov 2021
@@ -35,7 +87,7 @@
 | 12
 | –
 | 6
-| style="background:{{Social Democratic Party of Austria/meta/color}};color:#FFFFFF;"| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 3
 |-
 | [https://www.profil.at/oesterreich/umfrage-spoe-liegt-erstmals-wieder-vor-oevp/401812501 Unique Research]
 | data-sort-value="2021-11-18"| 15–18 Nov 2021
@@ -48,7 +100,7 @@
 | 10
 | 3
 | 5
-| style="background:{{Social Democratic Party of Austria/meta/color}};color:#FFFFFF;"| 1
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 1
 |-
 | [https://www.heute.at/s/polit-beben-spoe-erstmals-seit-aera-kurz-in-umfrage-vorn-100173236 Unique Research]
 | data-sort-value="2021-11-11"| 8–11 Nov 2021
@@ -61,7 +113,7 @@
 | 11
 | 6
 | 3
-| style="background:{{Social Democratic Party of Austria/meta/color}};color:#FFFFFF;"| 1
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 1
 |-
 | [https://www.wienerzeitung.at/nachrichten/politik/oesterreich/2125642-OeVP-stuerzt-in-Umfrage-ab.html Peter Hajek]
 | data-sort-value="2021-10-21"| 18–21 Oct 2021
@@ -87,7 +139,7 @@
 | 12
 | –
 | 5
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 2
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 2
 |-
 | [https://www.derstandard.de/story/2000130401834/oevp-krise-staerkt-fpoe-und-neos Market]
 | data-sort-value="2021-10-11"| 11–12 Oct 2021
@@ -100,7 +152,7 @@
 | 13
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 2
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 2
 |-
 | rowspan="2" | [https://www.profil.at/oesterreich/umfrage-oevp-stuerzt-ab/401771601 Unique Research]
 | rowspan="2" data-sort-value="2021-10-15" | 12–15 Oct 2021
@@ -122,7 +174,7 @@
 | 12
 | 4
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 2
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 2
 |-
 | rowspan=2 |[https://www.krone.at/2529452 IFDD]
 | rowspan=2 data-sort-value="2021-10-11"| 7–11 Oct 2021
@@ -135,7 +187,7 @@
 | 11
 | –
 | 6
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 1
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 1
 |-
 | style="background:#D2EDF1;"| '''25'''
 | style="background:#F4C6C9;"| '''25'''
@@ -157,7 +209,7 @@
 | 9
 | 5
 | 5{{efn|[[KPÖ]] 4%}}
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
 | [https://www.ogm.at/2021/09/12/wahlumfrage-kurier-september-2021/ OGM]
 | data-sort-value="2021-09-09"| 7–9 Sep 2021
@@ -170,7 +222,7 @@
 | 11
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 10
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 10
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-09-01"| 30 Aug – 1 Sep 2021
@@ -183,7 +235,7 @@
 | 11
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-08-26"| 24–26 Aug 2021
@@ -196,7 +248,7 @@
 | 12
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-08-19"| 17–19 Aug 2021
@@ -209,7 +261,7 @@
 | 11
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-08-12"| 10–12 Aug 2021
@@ -222,7 +274,7 @@
 | 12
 | –
 | 5
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
 | [https://www.derstandard.at/story/2000128927929/mehrheit-bezweifelt-dass-regierung-probleme-im-griff-hat Market]
 | data-sort-value="2021-08-11"| 6–11 Aug 2021
@@ -235,7 +287,7 @@
 | 11
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 6
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 6
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-08-05"| 3–5 Aug 2021
@@ -248,7 +300,7 @@
 | 12
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 14
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 14
 |-
 | [https://www.profil.at/oesterreich/umfrage-fpoe-rueckt-an-spoe-heran-oevp-tief-scheint-ueberwunden/401465338 Unique Research]
 | data-sort-value="2021-08-05"| 2–5 Aug 2021
@@ -261,7 +313,7 @@
 | 11
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 14
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 14
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-07-29"| 27–29 Jul 2021
@@ -274,7 +326,7 @@
 | 12
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-07-22"| 20–22 Jul 2021
@@ -287,7 +339,7 @@
 | 11
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
 | [https://www.puls24.at/news/politik/sonntagsfrage-oevp-deutlich-voran-spoe-sinkt-ab/240130 IFDD]
 | data-sort-value="2021-07-21"| 15–21 Jul 2021
@@ -300,7 +352,7 @@
 | 12
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-07-15"| 13–15 Jul 2021
@@ -313,7 +365,7 @@
 | 12
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
 | [https://www.profil.at/oesterreich/umfrage-oevp-stabilisiert-oppositionsparteien-spoe-und-fpoe-schwaecheln/401439283 Unique Research]
 | data-sort-value="2021-07-08"| 5–8 Jul 2021
@@ -326,7 +378,7 @@
 | 12
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 12
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 12
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-07-08"| 5–8 Jul 2021
@@ -339,7 +391,7 @@
 | 12
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 14
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 14
 |-
 | [https://www.puls24.at/news/politik/sonntagsfrage-oevp-stabil-voran-keine-mehrheit-fuer-rot-gruen-pink/238508 IFDD]
 | data-sort-value="2021-07-02"| 28 Jun – 2 Jul 2021
@@ -352,7 +404,7 @@
 | 12
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 9
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 9
 |-
 | [https://epaper.heute.at/#/documents/210702_HEU/4 Unique Research]
 | data-sort-value="2021-07-01"| 28 Jun – 1 Jul 2021
@@ -365,7 +417,7 @@
 | 12
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-07-01"| 28 Jun – 1 Jul 2021
@@ -378,7 +430,7 @@
 | 12
 | –
 | 5
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 12
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 12
 |-
 | [https://www.derstandard.at/story/2000127892913/parteitagsschlappe-beschaedigte-das-image-der-spoe Market]
 | data-sort-value="2021-06-30"| 29–30 Jun 2021
@@ -391,7 +443,7 @@
 | 11
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 5
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 5
 |-
 | [https://image.kurier.at/images/cfs_616w/6146649/ogm_umfrage_27._6._online-01.png OGM]
 | data-sort-value="2021-06-24"| 22–24 Jun 2021
@@ -404,7 +456,7 @@
 | 11
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 8
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 8
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-06-24"| 22–24 Jun 2021
@@ -417,7 +469,7 @@
 | 11
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
 | [https://www.krone.at/2446923 Peter Hajek]
 | data-sort-value="2021-06-24"| 21–24 Jun 2021
@@ -430,7 +482,7 @@
 | 12
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-06-17"| 15–17 Jun 2021
@@ -443,7 +495,7 @@
 | 11
 | –
 | 5
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
 | [https://www.ots.at/presseaussendung/OTS_20210616_OTS0215/die-puls-24-sonntagsfrage-spoe-mit-27-prozent-im-hoehenflug-oevp-kommt-aktuell-auf-nur-mehr-32-prozent IFDD]
 | data-sort-value="2021-06-15"| 10–15 Jun 2021
@@ -456,7 +508,7 @@
 | 11
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 5
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 5
 |-
 | [https://www.derstandard.at/story/2000127329480/market-umfrage-zeigt-tuerkises-tief-und-gruenes-zwischenhoch Market]
 | data-sort-value="2021-06-10"| 8–10 Jun 2021
@@ -469,7 +521,7 @@
 | 11
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 5
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 5
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-06-10"| 8–10 Jun 2021
@@ -482,7 +534,7 @@
 | 12
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 12
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 12
 |-
 | [https://www.profil.at/oesterreich/umfrage-oevp-verliert-leicht-gruene-und-neos-im-plus/401410155 Unique Research]
 | data-sort-value="2021-06-10"| 7–10 Jun 2021
@@ -495,7 +547,7 @@
 | 11
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 10
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 10
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-06-02"| 31 May – 2 Jun 2021
@@ -508,7 +560,7 @@
 | 12
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
 | [https://www.market.at/newsroom/sonntagsfrage-spoe-kommt-der-oevp-immer-naeher/ Market]
 | data-sort-value="2021-05-30"| 24–30 May 2021{{Efn|Fieldwork presented in survey as "KW21" (Kalenderwoche 21 - Week 21)}}
@@ -521,7 +573,7 @@
 | 11
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 1
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 1
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-05-27"| 25–27 May 2021
@@ -534,7 +586,7 @@
 | 12
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-05-20"| 18–20 May 2021
@@ -547,7 +599,7 @@
 | 12
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 12
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 12
 |-
 | [https://www.ots.at/presseaussendung/OTS_20210520_OTS0030/zur-sache-umfrage-mehrheit-fuer-verbleib-des-kanzlers-bei-anklage-wegen-falschaussage Demox Research]
 | data-sort-value="2021-05-14"| 14 May 2021
@@ -560,7 +612,7 @@
 | 11
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 10
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 10
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-05-13"| 11–13 May 2021
@@ -573,7 +625,7 @@
 | 11
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
 | [https://www.profil.at/oesterreich/umfrage-mehrheit-haelt-u-ausschuesse-fuer-nuetzlich/401381978 Unique Research]
 | data-sort-value="2021-05-12"| 10–12 May 2021
@@ -586,7 +638,7 @@
 | 10
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-05-06"| 4–6 May 2021
@@ -599,7 +651,7 @@
 | 11
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-04-29"| 27–29 Apr 2021
@@ -612,7 +664,7 @@
 | 12
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 16
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 16
 |-
 | [https://www.vienna.at/73-prozent-der-oesterreicher-wuerden-sich-nicht-mit-astrazeneca-impfen-lassen/6977130 Peter Hajek]
 | 26–29 April 2021
@@ -625,7 +677,7 @@
 | 9
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 8
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 8
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-04-22"| 20–22 Apr 2021
@@ -638,7 +690,7 @@
 | 11
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
 | [https://www.unique-research.at/post/profil-umfrage-w%C3%A4hlertrend-april-2021 Unique Research]
 | data-sort-value="2021-04-08"| 5–8 Apr 2021
@@ -651,7 +703,7 @@
 | 10
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 9
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 9
 |-
 | [https://www.ogm.at/2021/04/03/sonntagsfrage-kurier-april/ OGM]
 | data-sort-value="2021-04-01"| 30 Mar – 1 Apr 2021
@@ -664,7 +716,7 @@
 | 10
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-04-01"| 30 Mar – 1 Apr 2021
@@ -677,7 +729,7 @@
 | 12
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
 | [https://www.derstandard.at/story/2000125587095/tuerkis-gruene-koalition-hat-laut-umfrage-ihre-mehrheit-verloren Market]
 | data-sort-value="2021-03-30"| 26–30 Mar 2021
@@ -690,7 +742,7 @@
 | 10
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 10
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 10
 |-
 | [https://www.heute.at/s/kurz-in-krise-vorn-so-wuerde-oesterreich-heute-waehlen-100134572 Unique Research]
 | data-sort-value="2021-03-25"| 23–25 Mar 2021
@@ -703,7 +755,7 @@
 | 11
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-03-25"| 23–25 Mar 2021
@@ -716,7 +768,7 @@
 | 11
 | –
 | 5
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 14
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 14
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-03-17"| 15–17 Mar 2021
@@ -729,7 +781,7 @@
 | 10
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
 | [https://www.tt.com/artikel/30784772/umfrage-nur-42-prozent-mit-arbeit-der-regierung-zufrieden Peter Hajek]
 | data-sort-value="2021-03-11"| 8–11 Mar 2021
@@ -742,7 +794,7 @@
 | 11
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 10
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 10
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-03-04"| 2–4 Mar 2021
@@ -755,7 +807,7 @@
 | 10
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 14
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 14
 |-
 | [https://www.profil.at/oesterreich/umfrage-regierung-verliert-an-zustimmung/401209453 Unique Research]
 | data-sort-value="2021-03-04"| 1–4 Mar 2021
@@ -768,7 +820,7 @@
 | 12
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-02-18"| 15–18 Feb 2021
@@ -781,7 +833,7 @@
 | 10
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
 | [https://www.derstandard.at/story/2000124319631/unzufriedenheit-mit-corona-management-der-regierung-steigt Market]
 | data-sort-value="2021-02-17"| 15–17 Feb 2021
@@ -794,7 +846,7 @@
 | 10
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 12
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 12
 |-
 | [https://www.profil.at/oesterreich/umfrage-oevp-leicht-ruecklaeufig-gruene-sacken-stark-ab/401187187 Unique Research]
 | data-sort-value="2021-02-11"| 8–11 Feb 2021
@@ -807,7 +859,7 @@
 | 11
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 13
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-02-11"| 8–11 Feb 2021
@@ -820,7 +872,7 @@
 | 10
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 14
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 14
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-02-04"| 1–4 Feb 2021
@@ -833,7 +885,7 @@
 | 10
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
 | [https://www.krone.at/2336301 IFDD]
 | data-sort-value="2021-02-01"| 25 Jan – 1 Feb 2021
@@ -846,7 +898,7 @@
 | 11
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 11
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
 | [https://www.profil.at/oesterreich/sonntagsfrage-oevp-verliert-spoe-gruene-und-fpoe-legen-zu/401158095 Unique Research]
 | data-sort-value="2021-01-14"| 11–14 Jan 2021
@@ -859,7 +911,7 @@
 | 10
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 15
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
 | [https://www.atv.at/oesterreichtrend/ Peter Hajek]
 | data-sort-value="2020-12-12"| 8–12 Dec 2020
@@ -872,7 +924,7 @@
 | 9
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 17
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 17
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2020-11-12"| 9–12 Nov 2020
@@ -885,7 +937,7 @@
 | 10
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 19
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 19
 |-
 | [https://www.unique-research.at/post/profil-umfrage-wählertrend-november-2020 Unique Research]
 | data-sort-value="2020-11-06"| 2–6 Nov 2020
@@ -898,7 +950,7 @@
 | 10
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 17
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 17
 |-
 | [https://twitter.com/EuropeElects/status/1307238366652567554 Unique Research]
 | data-sort-value="2020-09-18"| 14–18 Sep 2020
@@ -911,7 +963,7 @@
 | 8
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 19
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 19
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2020-09-16"| 14–16 Sep 2020
@@ -924,7 +976,7 @@
 | 9
 | –
 | 5
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 23
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 23
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2020-08-27"| 25–27 Aug 2020
@@ -937,7 +989,7 @@
 | 8
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2020-08-20"| 17–20 Aug 2020
@@ -950,7 +1002,7 @@
 | 8
 | –
 | 5
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 23
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 23
 |-
 | [https://twitter.com/EuropeElects/status/1294624354265964550 Unique Research]
 | data-sort-value="2020-08-13"| 10–13 Aug 2020
@@ -963,7 +1015,7 @@
 | 9
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 23
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 23
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2020-07-22"| 20–22 Jul 2020
@@ -976,7 +1028,7 @@
 | 8
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 23
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 23
 |-
 | [https://www.profil.at/oesterreich/umfrage-regierung-buesst-an-zustimmung-ein/400975088 Unique Research]
 | data-sort-value="2020-07-16"| 13–16 Jul 2020
@@ -989,7 +1041,7 @@
 | 8
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2020-07-09"| 6–9 Jul 2020
@@ -1002,7 +1054,7 @@
 | 8
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 21
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 21
 |-
 | [https://www.ogm.at/sonntagsfrage/ogm-sonntagsfrage-nationalratswahl-2020/ OGM]
 | data-sort-value="2020-06-25"| 23–25 Jun 2020
@@ -1015,7 +1067,7 @@
 | 8
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 23
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 23
 |-
 | [https://www.profil.at/oesterreich/umfrage-der-hoehenflug-der-oevp-ist-vorbei/400939163 Unique Research]
 | data-sort-value="2020-06-12"| 9–12 Jun 2020
@@ -1028,7 +1080,7 @@
 | 8
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 27
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 27
 |-
 | [https://www.puls24.at/news/politik/kanzler-sebastian-kurz-im-sommergespraech-bei-milborn/206531 Karmasin Research & Identity]
 | data-sort-value="2020-06-09"| 5–9 Jun 2020
@@ -1041,7 +1093,7 @@
 | 8
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 23
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 23
 |-
 | [https://apps.derstandard.at/privacywall/story/2000117812844/bevoelkerung-ueberstand-corona-krise-bisher-ueberwiegend-gluecklich Market]
 | data-sort-value="2020-05-26"| 21–26 May 2020
@@ -1054,7 +1106,7 @@
 | 7
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 24
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 24
 |-
 | [https://www.derstandard.at/story/2000117614965/weniger-persoenliche-sorgen-weniger-zustimmung-zu-kurz Market]
 | data-sort-value="2020-05-19"| 18–19 May 2020
@@ -1067,7 +1119,7 @@
 | 6
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
 | [https://kurier.at/politik/inland/profil-umfrage-oevp-und-sebastian-kurz-sinken-auf-hohem-niveau/400843790 Unique Research]
 | data-sort-value="2020-05-14"| 11–14 May 2020
@@ -1080,7 +1132,7 @@
 | 6
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 29
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 29
 |-
 | [https://www.derstandard.at/story/2000117493669/oevp-bleibt-weit-vorn-spoe-sichert-zweiten-platz-ab Market]
 | data-sort-value="2020-05-13"| 11–13 May 2020
@@ -1093,7 +1145,7 @@
 | 6
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 23
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 23
 |-
 | [https://www.derstandard.at/story/2000117068886/umfrage-virus-besser-im-griff-zustimmung-zu-regierung-sinkt Market]
 | data-sort-value="2020-04-22"| 20–22 Apr 2020
@@ -1106,7 +1158,7 @@
 | 7
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 24
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 24
 |-
 | [https://www.profil.at/oesterreich/umfrage-oevp-corona-11452832 Unique Research]
 | data-sort-value="2020-04-16"| 13–16 Apr 2020
@@ -1119,7 +1171,7 @@
 | 6
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 32
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 32
 |-
 | [https://www.derstandard.at/story/2000116755429/nach-100-tagen-ist-die-tuerkis-gruene-regierung-im-umfragehoch Market]
 | data-sort-value="2020-04-07"| 3–7 Apr 2020
@@ -1132,7 +1184,7 @@
 | 6
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 25
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 25
 |-
 | [https://kurier.at/politik/inland/in-der-corona-krise-oevp-auf-45-prozent-spoe-hinter-gruenen/400802834 OGM]
 | data-sort-value="2020-04-02"| 31 Mar–2 Apr 2020
@@ -1145,7 +1197,7 @@
 | 7
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 27
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 27
 |-
 | [https://www.derstandard.at/story/2000116462666/oevp-und-gruene-legen-bei-der-sonntagsfrage-deutlich-zu Market]
 | data-sort-value="2020-03-31"| 24–31 Mar 2020
@@ -1158,7 +1210,7 @@
 | 7
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 24
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 24
 |-
 | [https://www.unique-research.at/post/profil-umfrage-w%C3%A4hlertrend-m%C3%A4rz-2020 Unique Research]
 | data-sort-value="2020-03-13"| 9–13 Mar 2020
@@ -1171,7 +1223,7 @@
 | 9
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
 | [https://www.derstandard.at/story/2000115709451/73-prozent-halten-massnahmen-gegen-coronavirus-fuer-gerechtfertigt Market]
 | data-sort-value="2020-03-12"| 11–12 Mar 2020
@@ -1184,7 +1236,7 @@
 | 9
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 20
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 20
 |-
 | [https://www.unique-research.at/post/profil-umfrage-w%C3%A4hlertrend-februar-2020 Unique Research]
 | data-sort-value="2020-02-14"| 10–14 Feb 2020
@@ -1197,7 +1249,7 @@
 | 10
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 21
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 21
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2020-02-12"| 7–12 Feb 2020
@@ -1210,7 +1262,7 @@
 | 9
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 21
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 21
 |-
 | [https://www.derstandard.at/story/2000114340647/stimmung-fuer-die-regierung-gut-aber-erste-kratzer-am-image?ref=rss Market]
 | data-sort-value="2020-02-06"| 4–6 Feb 2020
@@ -1223,7 +1275,7 @@
 | 9
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 20
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 20
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2020-01-31"| 28–31 Jan 2020
@@ -1236,7 +1288,7 @@
 | 10
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2020-01-23"| 17–23 Jan 2020
@@ -1249,7 +1301,7 @@
 | 11
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2020-01-16"| 10–16 Jan 2020
@@ -1262,7 +1314,7 @@
 | 10
 | –
 | 5
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
 | [https://twitter.com/puls24news/status/1217760974205325313 Karmasin Research & Identity]
 | data-sort-value="2020-01-15"| 10–15 Jan 2020
@@ -1275,7 +1327,7 @@
 | 9
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
 | [https://www.profil.at/oesterreich/umfrage-oevp-gruene-11303467 Unique Research]
 | data-sort-value="2020-01-10"| 6–10 Jan 2020
@@ -1288,7 +1340,7 @@
 | 10
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 21
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 21
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2020-01-09"| 3–9 Jan 2020
@@ -1301,7 +1353,7 @@
 | 9
 | –
 | 5
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
 | [https://www.derstandard.at/story/2000112674560/starke-umfragewerte-fuer-oevp-und-gruene-schlechte-fuer-fpoe-und?ref=rss Market]
 | data-sort-value="2019-12-04"| 16–19 Dec 2019
@@ -1314,7 +1366,7 @@
 | 10
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 20
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 20
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2019-12-19"| 12–19 Dec 2019
@@ -1327,7 +1379,7 @@
 | 9
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
 | [https://www.profil.at/oesterreich/umfrage-fpoe-gruene-11275273 Unique Research]
 | data-sort-value="2019-12-13"| 9–13 Dec 2019
@@ -1340,7 +1392,7 @@
 | 10
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 21
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 21
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2019-12-12"| 6–12 Dec 2019
@@ -1353,7 +1405,7 @@
 | 9
 | –
 | 5
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2019-12-05"| 29 Nov–5 Dec 2019
@@ -1366,7 +1418,7 @@
 | 10
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 22
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
 | [https://www.derstandard.at/story/2000111975024/massiver-sympathieschub-fuer-die-gruenen-spoe-mit-18-prozent-in Market]
 | data-sort-value="2019-12-04"| 29 Nov–4 Dec 2019
@@ -1379,7 +1431,7 @@
 | 10
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 21
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 21
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2019-11-28"| 22–28 Nov 2019
@@ -1392,7 +1444,7 @@
 | 10
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 20
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 20
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2019-11-21"| 15–21 Nov 2019
@@ -1405,7 +1457,7 @@
 | 9
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 18
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 18
 |-
 | [https://www.profil.at/oesterreich/umfrage-tuerkis-gruen-11219737 Unique Research]
 | data-sort-value="2019-11-15"| 11–15 Nov 2019
@@ -1418,7 +1470,7 @@
 | 9
 | –
 | 1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 19
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 19
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2019-11-14"| 8–14 Nov 2019
@@ -1431,7 +1483,7 @@
 | 8
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 18
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 18
 |-
 | [https://twitter.com/thomas_mohr/status/1197142449719775232 Karmasin Research & Identity]
 | data-sort-value="2019-11-13"| 8–13 Nov 2019
@@ -1444,7 +1496,7 @@
 | 9
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 18
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 18
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2019-11-07"| 2–7 Nov 2019
@@ -1457,7 +1509,7 @@
 | 9
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 17
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 17
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2019-10-31"| 26–31 Oct 2019
@@ -1470,7 +1522,7 @@
 | 9
 | –
 | 3
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 19
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 19
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2019-10-25"| 22–25 Oct 2019
@@ -1483,7 +1535,7 @@
 | 9
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 19
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 19
 |-
 | [https://twitter.com/EuropeElects/status/1186794710226079745 Market]
 | data-sort-value="2019-10-17"| 15–17 Oct 2019
@@ -1496,7 +1548,7 @@
 | 9
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 18
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 18
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2019-10-16"| 10–16 Oct 2019
@@ -1509,7 +1561,7 @@
 | 8
 | –
 | 4
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 18
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 18
 |-
 | [https://www.profil.at/oesterreich/umfrage-mehrheit-regierung-weihnachten-11168447 Unique Research]
 | data-sort-value="2019-10-11"| 7–11 Oct 2019
@@ -1522,7 +1574,7 @@
 | 9
 | –
 | 2
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 17
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 17
 |- style="background:#E9E9E9;"
 | [[2019 Austrian legislative election|2019 legislative election]]
 | data-sort-value="2019-09-29"| 29 Sep 2019
@@ -1535,7 +1587,7 @@
 | 8.1
 | –
 | 3.1
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 16.3
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 16.3
 |}
 
 === By state ===
@@ -1554,12 +1606,12 @@
 ! class="unsortable" style="width:50px;"| Others
 ! rowspan="2" class="unsortable" style="width:50px;" | Lead
 |-
-! style="background:{{Social Democratic Party of Austria/meta/color}};"|
-! style="background:{{Austrian People's Party (2017)/meta/color}};"|
-! style="background:{{The Greens – The Green Alternative/meta/color}};"|
-! style="background:{{Freedom Party of Austria/meta/color}};"|
-! style="background:{{NEOS – The New Austria and Liberal Forum/meta/color}};"|
-! style="background:{{Independent/meta/color}};"|
+! style="background:{{party color|Social Democratic Party of Austria}};"|
+! style="background:{{party color|Austrian People's Party (2017)}};"|
+! style="background:{{party color|The Greens – The Green Alternative}};"|
+! style="background:{{party color|Freedom Party of Austria}};"|
+! style="background:{{party color|NEOS – The New Austria and Liberal Forum}};"|
+! style="background:{{party color|Independent}};"|
 |-
 | [https://www.ots.at/presseaussendung/OTS_20210831_OTS0100/politik-herbst-2021-klare-mehrheiten-in-wien-zu-aktuellen-themen-anhang Triple M Matzka]
 | 19-27 Aug 2021
@@ -1571,7 +1623,7 @@
 | 14
 | 14
 | 3
-| style="background:{{Social Democratic Party of Austria/meta/color}};color:#FFFFFF;"| 8
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 8
 |- style="background:#E9E9E9;"
 | [[2019 Austrian legislative election|2019 legislative election]]
 | 29 Sep 2019
@@ -1583,7 +1635,7 @@
 | 12.8
 | 9.9
 | 4.9
-| style="background:{{Social Democratic Party of Austria/meta/color}};color:#FFFFFF;"| 2.5
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 2.5
 |}
 
 '''Tyrol'''
@@ -1601,12 +1653,12 @@
 ! class="unsortable" style="width:50px;"| Others
 ! rowspan="2" class="unsortable" style="width:50px;" | Lead
 |-
-! style="background:{{Austrian People's Party (2017)/meta/color}};"|
-! style="background:{{The Greens – The Green Alternative/meta/color}};"|
-! style="background:{{Freedom Party of Austria/meta/color}};"|
-! style="background:{{Social Democratic Party of Austria/meta/color}};"|
-! style="background:{{NEOS – The New Austria and Liberal Forum/meta/color}};"|
-! style="background:{{Independent/meta/color}};"|
+! style="background:{{party color|Austrian People's Party (2017)}};"|
+! style="background:{{party color|The Greens – The Green Alternative}};"|
+! style="background:{{party color|Freedom Party of Austria}};"|
+! style="background:{{party color|Social Democratic Party of Austria}};"|
+! style="background:{{party color|NEOS – The New Austria and Liberal Forum}};"|
+! style="background:{{party color|Independent}};"|
 |-
 | [https://www.krone.at/2054894 IMAD]
 | 11–15 Nov 2019
@@ -1618,7 +1670,7 @@
 | 11
 | 10
 | 7
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 23
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 23
 |- style="background:#E9E9E9;"
 | [[2019 Austrian legislative election|2019 legislative election]]
 | 29 Sep 2019
@@ -1630,5 +1682,5 @@
 | 13.0
 | 8.9
 | 2.9
-| style="background:{{Austrian People's Party (2017)/meta/color}};color:#FFFFFF;"| 31.1
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 31.1
 |}

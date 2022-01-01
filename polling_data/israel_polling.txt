@@ -26,24 +26,60 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 !style=background:#eeb |[[United Arab List|Ra'am]]
 !style=background:#eeb |[[Thirty-sixth government of Israel|''Gov.'']]
 |-
-!style=background:{{Likud/meta/color}} |
-!style=background:{{Yesh Atid/meta/color}} |
-!style=background:{{Shas/meta/color}} |
-!style=background:{{Blue and White (political alliance)/meta/color}} |
-!style=background:{{Yamina/meta/color}} |
-!style=background:{{Israeli Labor Party/meta/color}} |
-!style=background:{{United Torah Judaism/meta/color}} |
-!style=background:{{Yisrael Beiteinu/meta/color}} |
+!style=background:{{party color|Likud}} |
+!style=background:{{party color|Yesh Atid}} |
+!style=background:{{party color|Shas}} |
+!style=background:{{party color|Blue and White (political alliance)}} |
+!style=background:{{party color|Yamina}} |
+!style=background:{{party color|Israeli Labor Party}} |
+!style=background:{{party color|United Torah Judaism}} |
+!style=background:{{party color|Yisrael Beiteinu}} |
 !style=background:#0071AD |
-!style=background:{{Joint List/meta/color}} |
+!style=background:{{party color|Joint List}} |
 !style=background:#0081B2 |
-!style=background:{{Meretz/meta/color}} |
-!style=background:{{United Arab List/meta/color}} |
-!style=background:{{Yesh Atid/meta/color}} |
+!style=background:{{party color|Meretz}} |
+!style=background:{{party color|United Arab List}} |
+!style=background:{{party color|Yesh Atid}} |
+|-
+|data-sort-value=2021-12-21 |21 Dec 21
+|Camil Fuchs
+|[[Channel 13 (Israel)|Channel 13]]<ref>{{cite news |title= חצי שנה להקמת הממשלה: רמת האמון הציבורית בבנט בירידה |url=https://13tv.co.il/item/news/politics/politics/survey-bennett-partys-902772849/ |access-date=25 Dec 2021 |date=21 Dec 2021 |work=[[Channel 13 (Israel)|Channel 13]] |language=he}}</ref>
+|style=background:#BBCDE4 |'''33'''	<!-- Likud		-->
+|19					<!-- Yesh Atid	-->
+|8					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|9					<!-- Yamina		-->
+|6					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|7					<!-- Religious Zionist	-->
+|5					<!-- Joint List	-->
+|4					<!-- New Hope	-->
+|4					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|60					<!-- Gov		-->
+|-
+|data-sort-value=2021-12-16 |15–16 Dec 21
+|Panels Politics
+|103fm<ref name=103Dec16>{{cite news |author=Golan Yokhpaz & Anat Davidov |title=הליכוד בראשות ברקת - ניצחון סוחף לימין בבחירות |url=https://103fm.maariv.co.il/programs/media.aspx?ZrqvnVq=IIJHGL&c41t4nzVQ=GJL |access-date=20 December 2021 |date=19 December 2021 |work=103fm |language=he}}</ref>
+|style=background:#BBCDE4 |'''33'''	<!-- Likud		-->
+|19					<!-- Yesh Atid		-->
+|8					<!-- Shas		-->
+|9					<!-- Blue and White	-->
+|6					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|8					<!-- Religious Zionist	-->
+|7					<!-- Joint List		-->
+|{{small|(2.9%)}}	<!-- New Hope		-->
+|5					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|57					<!-- Gov		-->
 |-
 |data-sort-value=2021-12-05 |5 Dec 21
-|iPanel
-|[[Channel 12 (Israel)|Channel 12]]<ref name=Ch12Dec5>{{cite news |title=סקר חדשות 12: רוב הציבור לא מרוצה מהממשלה - ומעדיף שלא תהיה רוטציה |url=https://www.mako.co.il/news-politics/2021_q4/Article-955161088ab8d71026.htm |access-date=6 December 2021 |date=5 December 2021 |work=N12 |lang=he}}</ref>
+|Midgam
+|[[HaHadashot 12]]<ref name=Ch12Dec5>{{cite news |author=Amit Segal & Daphna Liel |title=סקר חדשות 12: רוב הציבור לא מרוצה מהממשלה - ומעדיף שלא תהיה רוטציה |url=https://www.mako.co.il/news-politics/2021_q4/Article-955161088ab8d71026.htm |access-date=6 December 2021 |date=5 December 2021 |work=N12 |language=he}}</ref>
 |style=background:#BBCDE4 |'''34'''	<!-- Likud		-->
 |19					<!-- Yesh Atid		-->
 |9					<!-- Shas		-->
@@ -79,7 +115,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-11-28 |28 Nov 21
 |Direct Polls
-|[[Channel 20 (Israel)|Channel 20]]<ref name=Ch20Nov28>{{cite news |title=סקר ערוץ 14: בנט מתרסק, חמש מפלגות בשוויון |url=https://www.now14.co.il/סקר-ערוץ-14-בנט-מתרסק-חמש-מפלגות-בשוויון/ |access-date=29 November 2021 |date=28 November 2021 |work=Now 14 |lang=he}}</ref>
+|[[Channel 14 (Israel)|Channel 14]]<ref name=Ch20Nov28>{{cite news |title=סקר ערוץ 14: בנט מתרסק, חמש מפלגות בשוויון |url=https://www.now14.co.il/סקר-ערוץ-14-בנט-מתרסק-חמש-מפלגות-בשוויון/ |access-date=29 November 2021 |date=28 November 2021 |work=Now 14 |language=he}}</ref>
 |style=background:#BBCDE4 |'''35'''	<!-- Likud		-->
 |19					<!-- Yesh Atid	-->
 |9					<!-- Shas		-->
@@ -97,7 +133,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-11-22 |22 Nov 21
 |Maagar Mohot
-|[[Channel 20 (Israel)|Channel 20]]<ref name=Ch20Nov22>{{cite news |author=Moti Castel & Dor Azrad |title=סקר ערוץ 20: הליכוד מזנק, תקווה חדשה לא עוברת את אחוז החסימה |url=https://www.now14.co.il/סקר-ערוץ-20-הליכוד-מזנק-תקווה-חדשה-לא-עוב/ |access-date=22 November 2021 |date=22 November 2021 |work=Channel 20 |lang=he}}</ref>
+|[[Channel 14 (Israel)|Channel 14]]<ref name=Ch20Nov22>{{cite news |author=Moti Castel & Dor Azrad |title=סקר ערוץ 20: הליכוד מזנק, תקווה חדשה לא עוברת את אחוז החסימה |url=https://www.now14.co.il/סקר-ערוץ-20-הליכוד-מזנק-תקווה-חדשה-לא-עוב/ |access-date=22 November 2021 |date=22 November 2021 |work=Channel 14 |language=he}}</ref>
 |style=background:#BBCDE4 |'''33'''	<!-- Likud		-->
 |18					<!-- Yesh Atid	-->
 |8					<!-- Shas		-->
@@ -115,7 +151,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-11-01 |1 Nov 21
 |Smith
-|Galei Israel<ref name=GI3Nov>{{cite news |url=https://www.srugim.co.il/613619-סקר-מנדטים-נתניהו-פותח-פער-בנט-מתאושש |title=סקר מנדטים: נתניהו פותח פער; בנט מתאושש |lang=he |work=Srugim |author=Staff |date=3 November 2021 |access-date=3 Nov 2021}}</ref>
+|Galei Israel<ref name=GI3Nov>{{cite news |url=https://www.srugim.co.il/613619-סקר-מנדטים-נתניהו-פותח-פער-בנט-מתאושש |title=סקר מנדטים: נתניהו פותח פער; בנט מתאושש |language=he |work=Srugim |author=Staff |date=3 November 2021 |access-date=3 Nov 2021}}</ref>
 |style=background:#BBCDE4 |'''34'''	<!-- Likud		-->
 |20					<!-- Yesh Atid		-->
 |8					<!-- Shas		-->
@@ -133,7 +169,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-11-01 |1 Nov 21
 |Camil Fuchs
-|[[Channel 13 (Israel)|Channel 13]]<ref>{{cite news |title= סקר חדשות 13: הליכוד עם 36 מנדטים, בנט וגם סמוטריץ' עם 6 מנדטים 7 |url=https://www.inn.co.il/news/530332 |access-date=1 Nov 2021 |date=1 Nov 2021 |work=[[Arutz Sheva]] |lang=he}}</ref>
+|[[Channel 13 (Israel)|Channel 13]]<ref>{{cite news |title= סקר חדשות 13: הליכוד עם 36 מנדטים, בנט וגם סמוטריץ' עם 6 מנדטים 7 |url=https://www.inn.co.il/news/530332 |access-date=1 Nov 2021 |date=1 Nov 2021 |work=[[Arutz Sheva]] |language=he}}</ref>
 |style=background:#BBCDE4 |'''36'''	<!-- Likud		-->
 |20					<!-- Yesh Atid	-->
 |7					<!-- Shas		-->
@@ -169,7 +205,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-10-12 |12 Oct 21
 |Midgam
-|[[HaHadashot 12]]<ref name=Ch12Oct>{{cite news |title=סקר מנדטים: הליכוד בראשות אדלשטיין מתרסקת ל-20 מנדטים {{!}} מה מרוויח סמוטריץ'? |url=https://www.kipa.co.il/חדשות/פוליטי/1118325-סקר-מנדטים-הליכוד-בראשות-אדלשטיין-מתרסקת-ל-20-מנדטים--מה-מ/ |access-date=12 October 2021 |date=12 October 2021 |work=Kipa |lang=he}}</ref>
+|[[HaHadashot 12]]<ref name=Ch12Oct>{{cite news |title=סקר מנדטים: הליכוד בראשות אדלשטיין מתרסקת ל-20 מנדטים {{!}} מה מרוויח סמוטריץ'? |url=https://www.kipa.co.il/חדשות/פוליטי/1118325-סקר-מנדטים-הליכוד-בראשות-אדלשטיין-מתרסקת-ל-20-מנדטים--מה-מ/ |access-date=12 October 2021 |date=12 October 2021 |work=Kipa |language=he}}</ref>
 |style=background:#BBCDE4 |'''34'''	<!-- Likud		-->
 |18					<!-- Yesh Atid	-->
 |9					<!-- Shas		-->
@@ -187,7 +223,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-10-06 |6 Oct 21
 |Smith
-|Galei Israel<ref name=GI6Oct>{{cite news |url=https://www.bhol.co.il/news/1283155 |title=סקר: הפער בין נתניהו לשאר הטוענים לכתר |lang=he |work=BeHadrei Haredim |author=Meir Gilboa |date=6 October 2021 |access-date=6 Oct 2021}}</ref>
+|Galei Israel<ref name=GI6Oct>{{cite news |url=https://www.bhol.co.il/news/1283155 |title=סקר: הפער בין נתניהו לשאר הטוענים לכתר |language=he |work=BeHadrei Haredim |author=Meir Gilboa |date=6 October 2021 |access-date=6 Oct 2021}}</ref>
 |style=background:#BBCDE4 |'''33'''	<!-- Likud		-->
 |21					<!-- Yesh Atid		-->
 |8					<!-- Shas		-->
@@ -205,7 +241,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-10-04 |4 Oct 21
 |Camil Fuchs
-|[[Channel 13 (Israel)|Channel 13]]<ref>{{cite news |title=סקר חדשות 13: הליכוד התחזק ל-34 מנדטים, לפיד עם 22 ובנט - 7 |url=https://13news.co.il/item/news/politics/state-policy/election-poll-1371594/ |access-date=6 Oct 2021 |date=4 Oct 2021 |work=Channel 13 |lang=he}}</ref>
+|[[Channel 13 (Israel)|Channel 13]]<ref>{{cite news |title=סקר חדשות 13: הליכוד התחזק ל-34 מנדטים, לפיד עם 22 ובנט - 7 |url=https://13news.co.il/item/news/politics/state-policy/election-poll-1371594/ |access-date=6 Oct 2021 |date=4 Oct 2021 |work=Channel 13 |language=he}}</ref>
 |style=background:#BBCDE4 |'''34'''	<!-- Likud		-->
 |22					<!-- Yesh Atid	-->
 |6					<!-- Shas		-->
@@ -223,7 +259,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-10-03 |3 Oct 21
 |Direct Polls
-|Arutz Sheva<ref>{{cite news |url=https://www.inn.co.il/news/527425 |title= סקר דיירקט פולס: 35 מנדטים לליכוד, 4 מנדטים למפלגת ימינה |lang=he |work=[[Arutz Sheva]] |date=4 October 2021 |access-date=5 Oct 2021}}</ref>
+|Arutz Sheva<ref>{{cite news |url=https://www.inn.co.il/news/527425 |title= סקר דיירקט פולס: 35 מנדטים לליכוד, 4 מנדטים למפלגת ימינה |language=he |work=[[Arutz Sheva]] |date=4 October 2021 |access-date=5 Oct 2021}}</ref>
 |style=background:#BBCDE4 |'''35'''	<!-- Likud		-->
 |19					<!-- Yesh Atid	-->
 |9					<!-- Shas		-->
@@ -259,7 +295,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-09-01 |1 Sep 21
 |Smith
-|Galei Israel<ref>{{cite news |title=סקר: סער לא עובר • 62 לגוש הימין עם בנט |url=https://www.kikar.co.il/400459.html |author=Yoni Gabay |access-date=2 Sep 2021 |date=2 Sep 2021 |work=Kikar HaShabbat |lang=he}}</ref>
+|Galei Israel<ref>{{cite news |title=סקר: סער לא עובר • 62 לגוש הימין עם בנט |url=https://www.kikar.co.il/400459.html |author=Yoni Gabay |access-date=2 Sep 2021 |date=2 Sep 2021 |work=Kikar HaShabbat |language=he}}</ref>
 |style=background:#BBCDE4 |'''33'''	<!-- Likud		-->
 |18					<!-- Yesh Atid		-->
 |9					<!-- Shas		-->
@@ -277,7 +313,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-08-20 |20 Aug 21
 |Midgam
-|[[HaHadashot 12]]<ref name=Ch12Aug>{{cite news |title=סקר מיוחד: איזה ציונים מקבלים שרי הממשלה על התפקוד שלהם בקורונה? |url=https://www.mako.co.il/news-politics/2021_q3/Article-f5a6e7a49546b71026.htm |access-date=20 August 2021 |date=20 August 2021 |work=N12 |author=Amit Segal |lang=he}}</ref>
+|[[HaHadashot 12]]<ref name=Ch12Aug>{{cite news |title=סקר מיוחד: איזה ציונים מקבלים שרי הממשלה על התפקוד שלהם בקורונה? |url=https://www.mako.co.il/news-politics/2021_q3/Article-f5a6e7a49546b71026.htm |access-date=20 August 2021 |date=20 August 2021 |work=N12 |author=Amit Segal |language=he}}</ref>
 |style=background:#BBCDE4 |'''32'''	<!-- Likud		-->
 |20					<!-- Yesh Atid	-->
 |9					<!-- Shas		-->
@@ -295,7 +331,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-08-18 |18 Aug 21
 |Maagar Mohot
-|[[Channel 20 (Israel)|Channel 20]]<ref name=Ch20Aug18>{{cite news |title=סקר ערוץ 20: סער נמחק – הציבור לא מרוצה מהטיפול במגפה |url=https://www.20il.co.il/סקר-ערוץ-20-סער-נמחק-הציבור-לא-מרוצה-מהטי/ |access-date=18 August 2021 |date=18 August 2021 |work=Channel 20 |lang=he}}</ref>
+|[[Channel 14 (Israel)|Channel 14]]<ref name=Ch20Aug18>{{cite news |title=סקר ערוץ 20: סער נמחק – הציבור לא מרוצה מהטיפול במגפה |url=https://www.20il.co.il/סקר-ערוץ-20-סער-נמחק-הציבור-לא-מרוצה-מהטי/ |access-date=18 August 2021 |date=18 August 2021 |work=Channel 14 |language=he}}</ref>
 |style=background:#BBCDE4 |'''32'''	<!-- Likud		-->
 |18					<!-- Yesh Atid	-->
 |8					<!-- Shas		-->
@@ -313,7 +349,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-08-12 |11–12 Aug 21
 |Maagar Mohot
-|''[[Israel Hayom]]''<ref name=IH13Aug>{{cite news |title=סקר: הליכוד בנסיקה – תקווה חדשה נמחקת |url=https://www.20il.co.il/סקר-הליכוד-בנסיקה-תקווה-חדשה-נמחקת/ |access-date=13 August 2021 |date=13 August 2021 |work=Channel 20 |lang=he}}</ref>
+|''[[Israel Hayom]]''<ref name=IH13Aug>{{cite news |title=סקר: הליכוד בנסיקה – תקווה חדשה נמחקת |url=https://www.20il.co.il/סקר-הליכוד-בנסיקה-תקווה-חדשה-נמחקת/ |access-date=13 August 2021 |date=13 August 2021 |work=Channel 14 |language=he}}</ref>
 |style=background:#BBCDE4 |'''32'''	<!-- Likud		-->
 |18					<!-- Yesh Atid	-->
 |8					<!-- Shas		-->
@@ -331,7 +367,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-07-15 |14–15 Jul 21
 |Maagar Mohot
-|''[[Israel Hayom]]''<ref name=IH15Jul>{{cite news |title=סקר: 58% חושבים שהממשלה היא שמאל-מרכז, סער לא עובר את אחוז החסימה |url=https://www.israelhayom.co.il/news/politics/article/3430022 |author=Mati Tuchfeld |access-date=16 July 2021 |date=15 July 2021 |work=Israel Hayom |lang=he}}</ref>
+|''[[Israel Hayom]]''<ref name=IH15Jul>{{cite news |title=סקר: 58% חושבים שהממשלה היא שמאל-מרכז, סער לא עובר את אחוז החסימה |url=https://www.israelhayom.co.il/news/politics/article/3430022 |author=Mati Tuchfeld |access-date=16 July 2021 |date=15 July 2021 |work=Israel Hayom |language=he}}</ref>
 |style=background:#BBCDE4 |'''29'''	<!-- Likud		-->
 |21					<!-- Yesh Atid	-->
 |9					<!-- Shas		-->
@@ -349,7 +385,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-07-12 |12 Jul 21
 |Midgam
-|[[HaHadashot 12]]<ref name=Ch12Jul>{{cite news |title=סקר חדשות 12: ימינה מתחזקת, הציונות הדתית יורדת |url=https://www.ice.co.il/research/news/article/825430 |access-date=12 July 2021 |date=12 July 2021 |work=ice |lang=he}}</ref>
+|[[HaHadashot 12]]<ref name=Ch12Jul>{{cite news |title=סקר חדשות 12: ימינה מתחזקת, הציונות הדתית יורדת |url=https://www.ice.co.il/research/news/article/825430 |access-date=12 July 2021 |date=12 July 2021 |work=ice |language=he}}</ref>
 |style=background:#BBCDE4 |'''30'''	<!-- Likud		-->
 |19					<!-- Yesh Atid	-->
 |9					<!-- Shas		-->
@@ -367,7 +403,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-06-22 |22 Jun 21
 |Maagar Mohot
-|[[Channel 20 (Israel)|Channel 20]]<ref name=Ch20Jun22>{{cite news |title=סקר ערוץ 20: גוש הימין יורד, נתניהו עולה |url=https://www.20il.co.il/סקר-ערוץ-20-גוש-הימין-יורד-נתניהו-עולה-צפ/ |author=רועי שושה |access-date=23 June 2021 |date=22 June 2021 |work=Channel 20 |lang=he}}</ref>
+|[[Channel 14 (Israel)|Channel 14]]<ref name=Ch20Jun22>{{cite news |title=סקר ערוץ 20: גוש הימין יורד, נתניהו עולה |url=https://www.20il.co.il/סקר-ערוץ-20-גוש-הימין-יורד-נתניהו-עולה-צפ/ |author=רועי שושה |access-date=23 June 2021 |date=22 June 2021 |work=Channel 14 |language=he}}</ref>
 |style=background:#BBCDE4 |'''29'''	<!-- Likud		-->
 |22					<!-- Yesh Atid		-->
 |9					<!-- Shas		-->
@@ -385,7 +421,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-06-13 |13 Jun 21
 |Camil Fuchs
-|[[Channel 13 (Israel)|Channel 13]]<ref name=Ch13Jun13>{{cite news |title=כנסו: סקר ראשון לאחר השבעת הממשלה |url=https://www.bhol.co.il/news/1235816 |author=Aharon Miller |access-date=13 June 2021 |date=13 June 2021 |work=bhol.co.il |lang=he}}</ref>
+|[[Channel 13 (Israel)|Channel 13]]<ref name=Ch13Jun13>{{cite news |title=כנסו: סקר ראשון לאחר השבעת הממשלה |url=https://www.bhol.co.il/news/1235816 |author=Aharon Miller |access-date=13 June 2021 |date=13 June 2021 |work=bhol.co.il |language=he}}</ref>
 |style=background:#BBCDE4 |'''27'''	<!-- Likud		-->
 |23					<!-- Yesh Atid		-->
 |7					<!-- Shas		-->
@@ -403,7 +439,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-06-13 |13 Jun 21
 |Smith
-|''[[Kikar HaShabbat (website)|Kikar HaShabbat]]''<ref>{{cite news |title=סקר 'כיכר' חושף: בנט מאבד מנדטים; לפיד מזנק • הנתונים |url=https://www.kikar.co.il/amp/394126 |author=Yishai Cohen |access-date=13 June 2021 |date=13 June 2021 |work=Kikar HaShabbat |lang=he}}</ref>
+|''[[Kikar HaShabbat (website)|Kikar HaShabbat]]''<ref>{{cite news |title=סקר 'כיכר' חושף: בנט מאבד מנדטים; לפיד מזנק • הנתונים |url=https://www.kikar.co.il/amp/394126 |author=Yishai Cohen |access-date=13 June 2021 |date=13 June 2021 |work=Kikar HaShabbat |language=he}}</ref>
 |style=background:#BBCDE4 |'''31'''	<!-- Likud		-->
 |23					<!-- Yesh Atid		-->
 |9					<!-- Shas		-->
@@ -424,7 +460,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-06-10 |10 Jun 21
 |Maagar Mohot
-|[[Channel 20 (Israel)|Channel 20]]<ref>{{cite news |title=Poll: Yesh Atid soars, Yamina barely clears electoral threshold |url=https://www.israelnationalnews.com/News/News.aspx/307871|author=David Rosenberg |access-date=10 June 2021 |date=10 June 2021 |work=[[Arutz Sheva]]}}</ref>
+|[[Channel 14 (Israel)|Channel 14]]<ref>{{cite news |title=Poll: Yesh Atid soars, Yamina barely clears electoral threshold |url=https://www.israelnationalnews.com/News/News.aspx/307871|author=David Rosenberg |access-date=10 June 2021 |date=10 June 2021 |work=[[Arutz Sheva]]}}</ref>
 |style=background:#BBCDE4 |'''30'''	<!-- Likud		-->
 |23					<!-- Yesh Atid		-->
 |9					<!-- Shas		-->
@@ -442,7 +478,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-05-23 |23 May 21
 |Midgam
-|[[HaHadashot 12]]<ref name="23 May">{{cite news |title=סקר: הליכוד שומר על כוחו, גנץ מזנק ובנט נחלש |url=https://www.israelhayom.co.il/news/politics/article/1338814/ |access-date=24 May 2021 |date=23 May 2021 |work=[[Israel Hayom]] |lang=he}}</ref>
+|[[HaHadashot 12]]<ref name="23 May">{{cite news |title=סקר: הליכוד שומר על כוחו, גנץ מזנק ובנט נחלש |url=https://www.israelhayom.co.il/news/politics/article/1338814/ |access-date=24 May 2021 |date=23 May 2021 |work=[[Israel Hayom]] |language=he}}</ref>
 |style=background:#BBCDE4 |'''30'''	<!-- Likud		-->
 |21					<!-- Yesh Atid		-->
 |9					<!-- Shas		-->
@@ -476,7 +512,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-05-13 |13 May 21
 |Direct Polls
-|–<ref name=DPMay13>{{cite news |url=https://www.20il.co.il/סקר-מנדטים-ימינה-בשפל-חסר-תקדים/ |title=סקר מנדטים: ימינה בשפל חסר תקדים |lang=he |work=[[Channel 20 (Israel)|Channel 20]] |date=14 May 2021 |access-date=15 May 2021}}</ref>
+|–<ref name=DPMay13>{{cite news |url=https://www.20il.co.il/סקר-מנדטים-ימינה-בשפל-חסר-תקדים/ |title=סקר מנדטים: ימינה בשפל חסר תקדים |language=he |work=[[Channel 14 (Israel)|Channel 14]] |date=14 May 2021 |access-date=15 May 2021}}</ref>
 |style=background:#BBCDE4 |'''33'''	<!-- Likud		-->
 |19					<!-- Yesh Atid		-->
 |9					<!-- Shas		-->
@@ -493,7 +529,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-05-04 |4 May 21
 |Camil Fuchs
-|[[Channel 13 (Israel)|Channel 13]]<ref name=Ch13May4>{{cite news |url=https://13news.co.il/item/news/politics/state-policy/survey-bennet-lapid-1246076/ |title=סקר: 43% בעד ממשלת שינוי; רק רבע ממצביעי ימינה תומכים במהלך |lang=he |author=[[Raviv Drucker]] |work=Channel 13 |date=4 May 2021 |access-date=5 May 2021}}</ref>
+|[[Channel 13 (Israel)|Channel 13]]<ref name=Ch13May4>{{cite news |url=https://13news.co.il/item/news/politics/state-policy/survey-bennet-lapid-1246076/ |title=סקר: 43% בעד ממשלת שינוי; רק רבע ממצביעי ימינה תומכים במהלך |language=he |author=[[Raviv Drucker]] |work=Channel 13 |date=4 May 2021 |access-date=5 May 2021}}</ref>
 |style=background:#BBCDE4 |'''28'''	<!-- Likud		-->
 |21					<!-- Yesh Atid		-->
 |7					<!-- Shas		-->
@@ -510,7 +546,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-04-22 |22 Apr 21
 |Midgam
-|[[HaHadashot 12]]<ref>{{cite web |url=https://www.mako.co.il/news-politics/2021_q2/Article-de74d1d97140971027.htm |title=מה מעדיף הציבור: בחירות חמישיות - או ממשלה בתמיכה או הימנעות של רע"ם? {{!}} סקר מנדטים |lang=he |author=Rina Matzliah |work=N12 |date=24 April 2021 |access-date=25 April 2021}}</ref>
+|[[HaHadashot 12]]<ref>{{cite web |url=https://www.mako.co.il/news-politics/2021_q2/Article-de74d1d97140971027.htm |title=מה מעדיף הציבור: בחירות חמישיות - או ממשלה בתמיכה או הימנעות של רע"ם? {{!}} סקר מנדטים |language=he |author=Rina Matzliah |work=N12 |date=24 April 2021 |access-date=25 April 2021}}</ref>
 |style=background:#BBCDE4 |'''30'''	<!-- Likud		-->
 |19					<!-- Yesh Atid		-->
 |9					<!-- Shas		-->
@@ -527,7 +563,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-04-22 |22 Apr 21
 |Maagar Mohot
-|103fm<ref>{{cite web |url=https://103fm.maariv.co.il/programs/media.aspx?ZrqvnVq=IGDJGJ&c41t4nzVQ=EL |title=סקר 103fm: גוש נתניהו וימינה זוכה ל-61 |lang=he |author=Nissim Mish'al |work=103fm |date=23 April 2021 |access-date=27 April 2021}}</ref>
+|103fm<ref>{{cite web |url=https://103fm.maariv.co.il/programs/media.aspx?ZrqvnVq=IGDJGJ&c41t4nzVQ=EL |title=סקר 103fm: גוש נתניהו וימינה זוכה ל-61 |language=he |author=Nissim Mish'al |work=103fm |date=23 April 2021 |access-date=27 April 2021}}</ref>
 |style=background:#BBCDE4 |'''30'''	<!-- Likud		-->
 |20					<!-- Yesh Atid		-->
 |8					<!-- Shas		-->
@@ -561,7 +597,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |- style=background:silver
 |data-sort-value=2021-03-21 |23 Mar 21
-|colspan=2 |'''[[2021 Israeli legislative election|Election results]]'''<ref>{{Cite news |date=26 March 2021 |first1=Tal |last1=Shalev |first2=Daniel |last2=Dolev |title=תוצאות בחירות 2021: גוש נתניהו מגיע ל-52 מנדטים, רע"ם נכנסה לכנסת |url=https://elections.walla.co.il/item/3425478 |access-date=26 March 2021 |website=[[Walla!]] |lang=he}}</ref>
+|colspan=2 |'''[[2021 Israeli legislative election|Election results]]'''<ref>{{Cite news |date=26 March 2021 |first1=Tal |last1=Shalev |first2=Daniel |last2=Dolev |title=תוצאות בחירות 2021: גוש נתניהו מגיע ל-52 מנדטים, רע"ם נכנסה לכנסת |url=https://elections.walla.co.il/item/3425478 |access-date=26 March 2021 |website=[[Walla!]] |language=he}}</ref>
 |style=background:#BBCDE4 |'''30'''	<!-- Likud -->
 |17					<!-- Yesh Atid -->
 |9					<!-- Shas -->

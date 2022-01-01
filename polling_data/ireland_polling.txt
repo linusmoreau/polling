@@ -16,16 +16,43 @@
 ! class="unsortable" style="width:50px;"| [[Aontú|Aon]]
 ! class="unsortable" style="width:50px;" rowspan="2"| {{abbr|O/I|Others/Independents}}<ref group="nb" name="remainder">The figure for 'Others/Independents' is the remainder when all others are removed. As with all such calculations, the figure shown may be slightly inaccurate due to [[rounding]] effects.</ref>
 |-
-! style="background:{{Sinn Féin/meta/color}};"|
-! style="background:{{Fianna Fáil/meta/color}};"|
-! style="background:{{Fine Gael/meta/color}};"|
-! style="background:{{Green Party (Ireland)/meta/color}};"|
-! style="background:{{Labour Party (Ireland)/meta/color}};"|
-! style="background:{{Social Democrats (Ireland)/meta/color}};"|
-! style="background:{{Solidarity–People Before Profit/meta/color}};"|
-! style="background:{{Aontú/meta/color}};"|<!--
+! style="background:{{party color|Sinn Féin}};"|
+! style="background:{{party color|Fianna Fáil}};"|
+! style="background:{{party color|Fine Gael}};"|
+! style="background:{{party color|Green Party (Ireland)}};"|
+! style="background:{{party color|Labour Party (Ireland)}};"|
+! style="background:{{party color|Social Democrats (Ireland)}};"|
+! style="background:{{party color|Solidarity–People Before Profit}};"|
+! style="background:{{party color|Aontú}};"|<!--
 
 PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological order - latest first - but users can sort the table. In order to preserve the ability to sort by polling date, please include an entry for data-sort-value in front of the polling date. In order to preserve the ability to sort by the polling company, please increment the relevant data-sort-value by one each time you add a new poll. So a new Behaviour & Attitudes poll would become "B&A14" if the last one was "B&A13". Please also wikilink the most recent poll (link goes to the publishing media outlet, piped to show the commissioning publisher and polling company) and please also unlink the prior poll from that company. If the above doesn't make sense to you, please do not make major changes. -->
+
+|-
+|data-sort-value="2021-12-08"|8 December 2021
+|data-sort-value="B&A13"|[[The Times, Ireland edition|Behaviour and Attitudes/The Sunday Times]]<ref group="p">{{Cite web|url=https://www.thetimes.co.uk/article/sinn-fein-retains-massive-poll-lead-over-rival-parties-dl2bh86xt|title=December 2021 Opinion Poll|last=O'Brien|first=Stephen|publisher=The Sunday Times, Ireland edition|date=12 December 2021|access-date=12 December 2021}}</ref>
+|933
+|style="background:#D7ECEA"|'''34'''
+|23
+|20
+|5
+|5
+|2
+|1
+|0
+|9
+|-
+|data-sort-value="2021-12-08"|8 December 2021
+|data-sort-value="Ipsos6"|[[The Irish Times|Ipsos MRBI/Irish Times]]<ref group="p">{{cite news |last=Leahy |first=Pat |date=10 December 2021 |title=Poll: Irish Times/Ipsos MRBI opinion poll Support for Sinn Féin reaches new record |url= https://www.irishtimes.com/news/politics/irish-times-ipsos-mrbi-opinion-poll-support-for-sinn-féin-reaches-new-record-1.4751548?mode=sample&auth-failed=1&pw-origin=https%3A%2F%2F|work=[[Irish Times]] |location= |access-date=10 December 2021}}</ref><ref group="p">{{Cite tweet |author=IrelandElects |user=ToghannEire |number=1469263915813154820 |title=@IpsosMRBI/@IrishTimes Poll}}</ref>
+|1,200
+|style="background:#D7ECEA"|'''35'''
+|20
+|20
+|5
+|4
+|2
+|2
+|1
+|10
 |-
 |data-sort-value="2021-11-25"|25 November 2021
 |data-sort-value="RedC13"|[[Business Post|Red C/Business Post]]<ref group="p">{{Cite tweet |author=Ireland Elects |user=ToghannEire |number=1464705833514713090  |title=Red C / Sunday Business Post }}</ref><ref>{{cite news|url=https://www.businesspost.ie/ireland/exclusive-red-cbusiness-post-poll-sinn-fein-shores-up-support-while-fine-gael-slips-further-back-d923fc3c|title=Sinn Féin shores up support while Fine Gael slips further back|last=Brennan|first=Michael|publisher=Business Post|date=27 November 2021|access-date=30 November 2021}}</ref>
@@ -54,7 +81,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |7
 |-
 |data-sort-value="2021-11-09"|9 November 2021
-|data-sort-value="B&A12"|[[The Times, Ireland edition|Behaviour and Attitudes/The Sunday Times]]<ref group="p">{{Cite web|url=https://www.thetimes.co.uk/article/sinn-fein-surges-in-new-poll-5lmblv5px|title=November 2021 Opinion Poll|last=O'Brien|first=Stephen|publisher=The Sunday Times, Ireland edition|date=14 November 2021|access-date=14 November 2021}}</ref>
+|data-sort-value="B&A12"|Behaviour and Attitudes/The Sunday Times<ref group="p">{{Cite web|url=https://www.thetimes.co.uk/article/sinn-fein-surges-in-new-poll-5lmblv5px|title=November 2021 Opinion Poll|last=O'Brien|first=Stephen|publisher=The Sunday Times, Ireland edition|date=14 November 2021|access-date=14 November 2021}}</ref>
 |912
 |style="background:#D7ECEA"|'''37'''
 |20
@@ -106,7 +133,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |8
 |-
 |data-sort-value="2021-10-5"|5 October 2021
-|data-sort-value="Ipsos5"|[[The Irish Times|Ipsos MRBI/Irish Times]]<ref group="p">{{cite news |last=Leahy |first=Pat |date=6 October 2021 |title=Poll: Sinn Féin opens up 10-point lead as most popular party among voters |url=https://www.irishtimes.com/news/politics/poll-sinn-f%C3%A9in-opens-up-10-point-lead-as-most-popular-party-among-voters-1.4693054 |work=[[Irish Times]] |location= |access-date=6 October 2021}}</ref><ref group="p">{{Cite tweet |author=IrelandElects |user=ToghannEire |number=1445826603959787521 |title=@IpsosMRBI/@IrishTimes Poll}}</ref>
+|data-sort-value="Ipsos5"|Ipsos MRBI/Irish Times<ref group="p">{{cite news |last=Leahy |first=Pat |date=6 October 2021 |title=Poll: Sinn Féin opens up 10-point lead as most popular party among voters |url=https://www.irishtimes.com/news/politics/poll-sinn-f%C3%A9in-opens-up-10-point-lead-as-most-popular-party-among-voters-1.4693054 |work=[[Irish Times]] |location= |access-date=6 October 2021}}</ref><ref group="p">{{Cite tweet |author=IrelandElects |user=ToghannEire |number=1445826603959787521 |title=@IpsosMRBI/@IrishTimes Poll}}</ref>
 |1,200
 |style="background:#D7ECEA"|'''32'''
 |20

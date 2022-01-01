@@ -13,17 +13,16 @@
 |vannotatonslabel=Polling silence,First round election day,Polling silence,Second round election day
 |vannotatonsline=2021/11/06,2021/11/21,2021/12/04,2021/12/19
 |xAxisFormat=%d-%m
-|x=2021/09/05, 2021/09/17, 2021/10/02, 2021/10/08, 2021/10/14, 2021/10/17, 2021/10/26, 2021/10/29, 2021/11/01, 2021/11/04, 2021/11/07, 2021/11/13, 2021/11/16, 2021/11/19, 2021/11/22, 2021/11/28, 2021/12/01, 2021/12/04	
+|x=2021/09/05, 2021/09/17, 2021/10/02, 2021/10/08, 2021/10/14, 2021/10/17, 2021/10/26, 2021/10/29, 2021/11/01, 2021/11/04, 2021/11/07, 2021/11/13, 2021/11/16, 2021/11/19, 2021/11/22, 2021/11/28, 2021/12/01, 2021/12/04, 2021/12/16, 2021/12/16, 2021/12/19,	
 |y1Title=G. Boric (AD)
-|y1=66.25, 64.94, 58.05, 56.06, 55.13, 58.43, 46.00, 50.08, 46.80, 47.43, 47.14, 49.98, 51.25, 52.86, 50.00, 56.06, 53.95, 54.55
+|y1=66.25, 64.94, 58.05, 56.06, 55.13, 58.43, 46.00, 50.08, 46.80, 47.43, 47.14, 49.98, 51.25, 52.86, 50.00, 56.06, 53.95, 54.55, 50, 55, 56,
 |y2Title=J. A. Kast (FSC)
-|y2=33.75, 35.06, 41.95, 43.94, 44.87, 41.57, 54.00, 49.92, 53.20, 52.57, 52.86, 50.02, 48.75, 47.14, 50.00, 43.94, 46.05, 45.45
+|y2=33.75, 35.06, 41.95, 43.94, 44.87, 41.57, 54.00, 49.92, 53.20, 52.57, 52.86, 50.02, 48.75, 47.14, 50.00, 43.94, 46.05, 45.45, 50, 45, 44,
 |colors=#FC415C,#2A58A6
 | legend=Candidates
 | showSymbols = 0.7
 | symbolsShape = circle
 }}
-
 
 {| class="wikitable sortable mw-collapsible" style=text-align:center;font-size:90%;line-height:12px
 |-
@@ -35,8 +34,22 @@
 ! rowspan="2" width=80px|Not voting
 ! rowspan="2" width=80px|Not sure
 |-
-!style=background:{{Social Convergence/meta/color}} |
-!style=background:{{Republican Party (Chile)/meta/color}} |
+!style=background:{{party color|Social Convergence}} |
+!style=background:{{party color|Republican Party (Chile)}} |
+|-
+|15-16 Dec 2021
+|[https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:cd886bd6-0a62-4398-a980-f6ac4f1369bc Cadem]
+|Base 100
+|bgcolor="#FED0D6"    |'''55'''    
+| 45
+|
+|-
+|14-16 Dec 2021
+|[https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A9f152c65-87f8-3290-b5a2-1b1b3b9cfd2c&s=09#pageNum=6 AtlasIntel]
+|
+| bgcolor="#FED0D6" |'''50'''
+|bgcolor="#CAD5E9" |'''50'''
+|colspan=2| —
 |-
 |1-4 Dec 2021
 |[https://cdn.atlasintel.org/16a81493-d71b-4aaa-872a-112294e7af5f.pdf AtlasIntel]
@@ -281,8 +294,8 @@ Some polls evaluated a potential second round between candidates that participat
 !rowspan=2 width=80px|Not voting
 !rowspan=2 width=80px|Not sure
 |-
-!style=background:{{Social Convergence/meta/color}} |
-!style=background:{{Chile Podemos Más/meta/color}} |
+!style=background:{{party color|Social Convergence}} |
+!style=background:{{party color|Chile Podemos Más}} |
 |-
 | rowspan="2" |15 Oct 2021
 | rowspan="2" |[https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf Activa]
@@ -397,8 +410,8 @@ Some polls evaluated a potential second round between candidates that participat
 ! rowspan="2" width=80px|Not voting
 ! rowspan="2" width=80px|Not sure
 |-
-!style=background:{{Social Convergence/meta/color}} |
-!style=background:{{Christian Democratic Party (Chile)/meta/color}} |
+!style=background:{{party color|Social Convergence}} |
+!style=background:{{party color|Christian Democratic Party (Chile)}} |
 |-
 | rowspan="2" |15 Oct 2021
 | rowspan="2" |[https://media.elmostrador.cl/2021/10/210626_Pulso_Ciudadano_OCTUBRE_Q1_1018_V2.pdf Activa]
@@ -515,8 +528,8 @@ Some polls evaluated a potential second round between candidates that participat
 ! rowspan="2" width=80px|Not voting
 ! rowspan="2" width=80px|Not sure
 |-
-!style=background:{{Christian Democratic Party (Chile)/meta/color}} |
-!style=background:{{Chile Vamos/meta/color}}; |
+!style=background:{{party color|Christian Democratic Party (Chile)}} |
+!style=background:{{party color|Chile Vamos}}; |
 |-
 |14 Oct 2021
 |[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf Cadem]
@@ -604,8 +617,8 @@ Some polls evaluated a potential second round between candidates that participat
 ! rowspan="2" width=80px|Not voting
 ! rowspan="2" width=80px|Not sure
 |-
-!style=background:{{Christian Democratic Party (Chile)/meta/color}} |
-!style=background:{{Republican Party (Chile)/meta/color}}; |
+!style=background:{{party color|Christian Democratic Party (Chile)}} |
+!style=background:{{party color|Republican Party (Chile)}}; |
 |-
 |14 Oct 2021
 |[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf Cadem]
@@ -625,8 +638,8 @@ Some polls evaluated a potential second round between candidates that participat
 ! rowspan="2" width=80px|Not voting
 ! rowspan="2" width=80px|Not sure
 |-
-!style=background:{{Chile Vamos/meta/color}}; |
-!style=background:{{Republican Party (Chile)/meta/color}}; |
+!style=background:{{party color|Chile Vamos}}; |
+!style=background:{{party color|Republican Party (Chile)}}; |
 |-
 |14 Oct 2021
 |[https://cadem.cl/wp-content/uploads/2021/10/Track-PP-405-Octubre-S3-VF.pdf Cadem]
@@ -648,8 +661,8 @@ Some polls included candidates that eventually announced they would not run for 
 !width=80px rowspan=2|Not voting
 !width=80px rowspan=2|Not sure
 |-
-!style=background:{{Communist Party of Chile/meta/color}} |
-!style=background:{{Political Evolution/meta/color}} |
+!style=background:{{party color|Communist Party of Chile}} |
+!style=background:{{party color|Political Evolution}} |
 |-
 |8 Jan 2021
 |[https://plazapublica.cl/wp-content/uploads/2021/01/Track-PP-365-Enero-S1.pdf Cadem]
@@ -681,8 +694,8 @@ Some polls included candidates that eventually announced they would not run for 
 !rowspan=2 width=80px|Not voting
 !rowspan=2 width=80px|Not sure
 |-
-!style=background:{{Humanist Party (Chile)/meta/color}} |
-!style=background:{{Political Evolution/meta/color}} |
+!style=background:{{party color|Humanist Party (Chile)}} |
+!style=background:{{party color|Political Evolution}} |
 |-
 |18 Nov 2020
 |[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
@@ -707,8 +720,8 @@ Some polls included candidates that eventually announced they would not run for 
 !width=80px rowspan=2|Not voting
 !width=80px rowspan=2|Not sure
 |-
-!style=background:{{Communist Party of Chile/meta/color}} |
-!style=background:{{Republican Party (Chile)/meta/color}} |
+!style=background:{{party color|Communist Party of Chile}} |
+!style=background:{{party color|Republican Party (Chile)}} |
 |-
 |8 Jan 2021
 |[https://plazapublica.cl/wp-content/uploads/2021/01/Track-PP-365-Enero-S1.pdf Cadem]
@@ -740,8 +753,8 @@ Some polls included candidates that eventually announced they would not run for 
 !rowspan=2 width=80px|Not voting
 !rowspan=2 width=80px|Not sure
 |-
-!style=background:{{Humanist Party (Chile)/meta/color}} |
-!style=background:{{Republican Party (Chile)/meta/color}} |
+!style=background:{{party color|Humanist Party (Chile)}} |
+!style=background:{{party color|Republican Party (Chile)}} |
 |-
 |18 Nov 2020
 |[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
@@ -766,8 +779,8 @@ Some polls included candidates that eventually announced they would not run for 
 !rowspan=2 width=80px|Not voting
 !rowspan=2 width=80px|Not sure
 |-
-!style=background:{{Communist Party of Chile/meta/color}} |
-!style=background:{{Independent Democratic Union/meta/color}} |
+!style=background:{{party color|Communist Party of Chile}} |
+!style=background:{{party color|Independent Democratic Union}} |
 |-
 |24 Jun 2021
 |[https://www.cadem.cl/wp-content/uploads/2021/06/Especial-Electoral.-Junio-2021.pdf Cadem]
@@ -826,8 +839,8 @@ Some polls included candidates that eventually announced they would not run for 
 !rowspan=2 width=80px|Not voting
 !rowspan=2 width=80px|Not sure
 |-
-!style=background:{{Humanist Party (Chile)/meta/color}} |
-!style=background:{{Independent Democratic Union/meta/color}} |
+!style=background:{{party color|Humanist Party (Chile)}} |
+!style=background:{{party color|Independent Democratic Union}} |
 |-
 |18 Nov 2020
 |[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
@@ -852,8 +865,8 @@ Some polls included candidates that eventually announced they would not run for 
 !rowspan=2 width=80px|Not voting
 !rowspan=2 width=80px|Not sure
 |-
-!style=background:{{Party for Democracy (Chile)/meta/color}} |
-!style=background:{{Independent Democratic Union/meta/color}} |
+!style=background:{{party color|Party for Democracy (Chile)}} |
+!style=background:{{party color|Independent Democratic Union}} |
 |-
 |18 Nov 2020
 |[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
@@ -878,8 +891,8 @@ Some polls included candidates that eventually announced they would not run for 
 !rowspan=2 width=80px|Not voting
 !rowspan=2 width=80px|Not sure
 |-
-!style=background:{{Socialist Party of Chile/meta/color}} |
-!style=background:{{Independent Democratic Union/meta/color}} |
+!style=background:{{party color|Socialist Party of Chile}} |
+!style=background:{{party color|Independent Democratic Union}} |
 |-
 |18 Mar 2021
 |[https://gobierno.udd.cl/noticias/2021/03/escenario-de-segunda-vuelta-presidencial-entre-lavin-jadue-se-proyecta-como-el-mas-competitivo/ UDD]
@@ -896,8 +909,8 @@ Some polls included candidates that eventually announced they would not run for 
 !rowspan=2 width=80px|Not voting
 !rowspan=2 width=80px|Not sure
 |-
-!style=background:{{Christian Democratic Party (Chile)/meta/color}} |
-!style=background:{{Independent Democratic Union/meta/color}} |
+!style=background:{{party color|Christian Democratic Party (Chile)}} |
+!style=background:{{party color|Independent Democratic Union}} |
 |-
 |18 Nov 2020
 |[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
@@ -922,8 +935,8 @@ Some polls included candidates that eventually announced they would not run for 
 !rowspan=2 width=80px|Not voting
 !rowspan=2 width=80px|Not sure
 |-
-!style=background:{{Broad Front (Chile)/meta/color}} |
-!style=background:{{Independent Democratic Union/meta/color}} |
+!style=background:{{party color|Broad Front (Chile)}} |
+!style=background:{{party color|Independent Democratic Union}} |
 |-
 |18 Nov 2020
 |[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
@@ -948,8 +961,8 @@ Some polls included candidates that eventually announced they would not run for 
 !rowspan=2 width=80px|Not voting
 !rowspan=2 width=80px|Not sure
 |-
-!style=background:{{Party for Democracy (Chile)/meta/color}} |
-!style=background:{{Independent Democratic Union/meta/color}} |
+!style=background:{{party color|Party for Democracy (Chile)}} |
+!style=background:{{party color|Independent Democratic Union}} |
 |-
 |18 Nov 2020
 |[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
@@ -974,8 +987,8 @@ Some polls included candidates that eventually announced they would not run for 
 !rowspan=2 width=80px|Not voting
 !rowspan=2 width=80px|Not sure
 |-
-!style=background:{{Communist Party of Chile/meta/color}} |
-!style=background:{{Independent Democratic Union/meta/color}} |
+!style=background:{{party color|Communist Party of Chile}} |
+!style=background:{{party color|Independent Democratic Union}} |
 |-
 |18 Mar 2021
 |[https://gobierno.udd.cl/noticias/2021/03/escenario-de-segunda-vuelta-presidencial-entre-lavin-jadue-se-proyecta-como-el-mas-competitivo/ UDD]
@@ -1013,8 +1026,8 @@ Some polls included candidates that eventually announced they would not run for 
 !rowspan=2 width=80px|Not voting
 !rowspan=2 width=80px|Not sure
 |-
-!style=background:{{Humanist Party (Chile)/meta/color}} |
-!style=background:{{Independent Democratic Union/meta/color}} |
+!style=background:{{party color|Humanist Party (Chile)}} |
+!style=background:{{party color|Independent Democratic Union}} |
 |-
 |18 Nov 2020
 |[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
@@ -1039,8 +1052,8 @@ Some polls included candidates that eventually announced they would not run for 
 !rowspan=2 width=80px|Not voting
 !rowspan=2 width=80px|Not sure
 |-
-!style=background:{{Socialist Party of Chile/meta/color}} |
-!style=background:{{Independent Democratic Union/meta/color}} |
+!style=background:{{party color|Socialist Party of Chile}} |
+!style=background:{{party color|Independent Democratic Union}} |
 |-
 |18 Mar 2021
 |[https://gobierno.udd.cl/noticias/2021/03/escenario-de-segunda-vuelta-presidencial-entre-lavin-jadue-se-proyecta-como-el-mas-competitivo/ UDD]
@@ -1057,8 +1070,8 @@ Some polls included candidates that eventually announced they would not run for 
 !rowspan=2 width=80px|Not voting
 !rowspan=2 width=80px|Not sure
 |-
-!style=background:{{Communist Party of Chile/meta/color}} |
-!style=background:{{Chile Vamos/meta/color}} |
+!style=background:{{party color|Communist Party of Chile}} |
+!style=background:{{party color|Chile Vamos}} |
 |-
 |18 Mar 2021
 |[https://gobierno.udd.cl/noticias/2021/03/escenario-de-segunda-vuelta-presidencial-entre-lavin-jadue-se-proyecta-como-el-mas-competitivo/ UDD]
@@ -1096,8 +1109,8 @@ Some polls included candidates that eventually announced they would not run for 
 !rowspan=2 width=80px|Not voting
 !rowspan=2 width=80px|Not sure
 |-
-!style=background:{{Humanist Party (Chile)/meta/color}} |
-!style=background:{{Chile Vamos/meta/color}}; |
+!style=background:{{party color|Humanist Party (Chile)}} |
+!style=background:{{party color|Chile Vamos}}; |
 |-
 |18 Nov 2020
 |[https://www.cadem.cl/wp-content/uploads/2020/11/Especial-A-un-a%C3%B1o-de-Presidenciales-2021.pdf Cadem]
@@ -1115,8 +1128,8 @@ Some polls included candidates that eventually announced they would not run for 
 ! rowspan="2" width=80px|Not voting
 ! rowspan="2" width=80px|Not sure
 |-
-!style=background:{{Socialist Party of Chile/meta/color}} |
-!style=background:{{Chile Vamos/meta/color}}; |
+!style=background:{{party color|Socialist Party of Chile}} |
+!style=background:{{party color|Chile Vamos}}; |
 |-
 |18 Mar 2021
 |[https://gobierno.udd.cl/noticias/2021/03/escenario-de-segunda-vuelta-presidencial-entre-lavin-jadue-se-proyecta-como-el-mas-competitivo/ UDD]

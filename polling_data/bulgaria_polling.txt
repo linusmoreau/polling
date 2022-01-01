@@ -65,15 +65,15 @@ The opinion poll results below were recalculated from the original data and excl
 ! rowspan="2" class="unsortable" style="width:50px;" |[[None of the above]]
 ! rowspan="2" |Lead
 |-
-! class="unsortable" style="background:{{There_Are_Such_People/meta/color}};" |
-! class="unsortable" style="background:{{GERB/meta/color}};" |
-! class="unsortable" style="background:{{BSP for Bulgaria/meta/color}};" |
-! class="unsortable" style="background:#A1C619;" |
-! class="unsortable" style="background:#800080;" |
-! class="unsortable" style="background:{{Stand Up! Mafia, Get Out!/meta/color}};;" |
-! class="unsortable" style="background:{{IMRO – Bulgarian National Movement/meta/color}};"|
-! class="unsortable" style="background:{{Revival (Bulgarian political party)/meta/color}}" |
-! class="unsortable" style="background:#ffd966" |
+! class="unsortable" style="background:{{party color|There Is Such A People}};" |
+! class="unsortable" style="background:{{party color|GERB}};" |
+! class="unsortable" style="background:{{party color|BSP for Bulgaria}};" |
+! class="unsortable" style="background:{{party color|Democratic Bulgaria}}" |
+! class="unsortable" style="background:{{party color|Movement for Rights and Freedoms}};" |
+! class="unsortable" style="background:{{party color|Stand Up! Mafia, Get Out!}};;" |
+! class="unsortable" style="background:{{party color|IMRO – Bulgarian National Movement}};"|
+! class="unsortable" style="background:{{party color|Revival (Bulgarian political party)}}" |
+! class="unsortable" style="background:{{party color|We Continue the Change}}" |
 |- style="background:#D5D5D5;"
 |November 2021 election
 |14 November 2021
@@ -145,7 +145,7 @@ The opinion poll results below were recalculated from the original data and excl
 |16.5%
 |6.1%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |7.6%
+| style="background:{{party color|GERB}}; color:white;" |7.6%
 |-
 |[https://blitz.bg/izbori-2021/barometr-popari-zhestoko-kharvardtsite-s-novo-goreshcho-prouchvane-za-izborite-2-v-1-grafiki_news850941.html Barometar]
 | data-sort-value="2021-11-09" |4−9 Nov 2021
@@ -163,7 +163,7 @@ The opinion poll results below were recalculated from the original data and excl
 |11.2%
 |5.5%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |10.6%
+| style="background:{{party color|GERB}}; color:white;" |10.6%
 |-
 |[https://www.gallup-international.bg/45151/electoral-snapshot-days-before-the-election/ Gallup]
 | data-sort-value="2021-11-09" |1−9 Nov 2021
@@ -181,7 +181,7 @@ The opinion poll results below were recalculated from the original data and excl
 |15.5%
 |4.5%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |8%
+| style="background:{{party color|GERB}}; color:white;" |8%
 |-
 |style="letter-spacing:-1px;"|[https://www.dnes.bg/izbori-2021/2021/11/11/pp-povede-s-blizo-2-na-bsp-bezsporniiat-pobeditel-shte-e-gerb.509992,4 Centre for Analysis and Marketing]
 | data-sort-value="2021-11-08" |4−8 Nov 2021
@@ -199,7 +199,7 @@ The opinion poll results below were recalculated from the original data and excl
 |16.2%
 |8%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |7.3%
+| style="background:{{party color|GERB}}; color:white;" |7.3%
 |-
 |[http://www.mediana.bg/download-analysis/PRESS_112021.doc Mediana]
 | data-sort-value="2021-11-08" |4–8 Nov 2021
@@ -217,7 +217,7 @@ The opinion poll results below were recalculated from the original data and excl
 |17.3%
 |1.9%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |8.1%
+| style="background:{{party color|GERB}}; color:white;" |8.1%
 |-
 |[https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%81%d0%bf%d1%80%d1%8f%d0%bc%d0%be-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%8f-8/ Trend]
 | data-sort-value="2021-11-07" |1–7 Nov 2021
@@ -235,7 +235,7 @@ The opinion poll results below were recalculated from the original data and excl
 |14.8%
 |5.9%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |7.8%
+| style="background:{{party color|GERB}}; color:white;" |7.8%
 |-
 |[https://www.marketlinks.bg/storage/INFOGRAPHIC%20NRS%20Politics%2011.2021.pdf Market Links]
 | data-sort-value="2021-11-07" |2−7 Nov 2021
@@ -253,7 +253,7 @@ The opinion poll results below were recalculated from the original data and excl
 |16.3%
 |1.2%
 |8.9%
-| style="background:{{GERB/meta/color}}; color:white;" |6.7%
+| style="background:{{party color|GERB}}; color:white;" |6.7%
 |-
 |[http://exacta.bg/?page_id=42 Exacta]
 | data-sort-value="2021-11-05" |29 Oct−5 Nov 2021
@@ -271,7 +271,7 @@ The opinion poll results below were recalculated from the original data and excl
 |15.5%
 |3.7%
 |1.8%
-| style="background:{{GERB/meta/color}}; color:white;" |8.3%
+| style="background:{{party color|GERB}}; color:white;" |8.3%
 |-
 |[https://sovaharris.com/%d0%b5%d0%bb%d0%b5%d0%ba%d1%82%d0%be%d1%80%d0%b0%d0%bb%d0%bd%d0%b8-%d0%b8-%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%b2-%d0%b1-4/ Sova Harris]
 | data-sort-value="2021-11-02" |27 Oct−2 Nov 2021
@@ -289,7 +289,7 @@ The opinion poll results below were recalculated from the original data and excl
 |15.6%
 |1.9%
 |1.1%
-| style="background:{{GERB/meta/color}}; color:white;" |7.1%
+| style="background:{{party color|GERB}}; color:white;" |7.1%
 |-
 |style="letter-spacing:-1px;"|[https://frognews.bg/novini/sociology-web-researcher-gerb-22-1procenta-itn-19-3procenta-bsp-16-6procenta.html Sociology Web Researcher]
 | data-sort-value="2021-10-01" |{{nowrap|1 Oct−1 Nov 2021}}
@@ -307,7 +307,7 @@ The opinion poll results below were recalculated from the original data and excl
 |10.1%
 |4.8%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |2.8%
+| style="background:{{party color|GERB}}; color:white;" |2.8%
 |-
 |[https://www.gallup-international.bg/45115/electoral-snapshot-end-of-october/ Gallup]
 | data-sort-value="2021-10-31" |23−31 Oct 2021
@@ -340,7 +340,7 @@ The opinion poll results below were recalculated from the original data and excl
 |13.7%
 |5.5%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |6.1%-<br>8.5%
+| style="background:{{party color|GERB}}; color:white;" |6.1%-<br>8.5%
 |-
 |[https://trud.bg/%D0%BF%D1%80%D0%BE%D1%83%D1%87%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%B5%D1%81%D1%82%D0%B0%D1%82-%D0%B3%D0%B5%D1%80%D0%B1-241-%D0%B1%D1%81%D0%BF-181-%D0%B8%D1%82%D0%BD-152-%D0%BF%D0%BF-143/ Estat]
 | data-sort-value="2021-10-31" |23−31 Oct 2021
@@ -358,7 +358,7 @@ The opinion poll results below were recalculated from the original data and excl
 |14.3%
 |2.8%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |6%
+| style="background:{{party color|GERB}}; color:white;" |6%
 |-
 |style="letter-spacing:-1px;"|[https://dir.bg/dnes/politika/tsentarat-za-analizi-i-marketing-22-3-za-gerb-15-8-za-prodalzhavame-promyanata-15-1-za-bsp Centre for Analysis and Marketing]
 | data-sort-value="2021-10-26" |22−26 Oct 2021
@@ -376,7 +376,7 @@ The opinion poll results below were recalculated from the original data and excl
 |15.8%
 |3%
 |0.3%
-| style="background:{{GERB/meta/color}}; color:white;" |6.5%
+| style="background:{{party color|GERB}}; color:white;" |6.5%
 |-
 |[https://trud.bg/%D0%B1%D0%B0%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D1%8A%D1%80-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-%D0%B3%D0%B5%D1%80%D0%B1-%D1%81%D0%B4%D1%81-262-%D0%B1%D1%81%D0%BF-149/ Barometar]
 | data-sort-value="2021-10-18" |13−18 Oct 2021
@@ -394,7 +394,7 @@ The opinion poll results below were recalculated from the original data and excl
 |10.5%
 |5.5%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |11.3%
+| style="background:{{party color|GERB}}; color:white;" |11.3%
 |-
 |[https://www.gallup-international.bg/45050/electoral-attitudes-snapshot-3/ Gallup]
 | data-sort-value="2021-10-17" |10−17 Oct 2021
@@ -412,7 +412,7 @@ The opinion poll results below were recalculated from the original data and excl
 |13.4%
 |5.9%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |7.4%
+| style="background:{{party color|GERB}}; color:white;" |7.4%
 |-
 |[http://exacta.bg/?page_id=48 Exacta]
 | data-sort-value="2021-10-12" |6−12 Oct 2021
@@ -430,7 +430,7 @@ The opinion poll results below were recalculated from the original data and excl
 |15.5%
 |4.2%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |8%
+| style="background:{{party color|GERB}}; color:white;" |8%
 |-
 |[https://sovaharris.com/%d0%b5%d0%bb%d0%b5%d0%ba%d1%82%d0%be%d1%80%d0%b0%d0%bb%d0%bd%d0%b8-%d0%b8-%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%b2-%d0%b1-3/ Sova Harris]
 | data-sort-value="2021-10-12" |5−12 Oct 2021
@@ -448,7 +448,7 @@ The opinion poll results below were recalculated from the original data and excl
 |14.6%
 |0.4%
 |1.7%
-| style="background:{{GERB/meta/color}}; color:white;" |5.1%
+| style="background:{{party color|GERB}}; color:white;" |5.1%
 |-
 |style="letter-spacing:-1px;"|[https://www.flagman.bg/article/251540 Centre for Analysis and Marketing]
 | data-sort-value="2021-10-10" |6−10 Oct 2021
@@ -466,7 +466,7 @@ The opinion poll results below were recalculated from the original data and excl
 |12.8%
 |3.7%
 |0.7%
-| style="background:{{GERB/meta/color}}; color:white;" |8.4%
+| style="background:{{party color|GERB}}; color:white;" |8.4%
 |-
 |[https://alpharesearch.bg/post/984-obshtestveni-naglasi-na-starta-na-kampaniata-za-izbori-dve-v-edno.html Alpha Research]
 | data-sort-value="2021-10-10" |4−10 Oct 2021
@@ -484,7 +484,7 @@ The opinion poll results below were recalculated from the original data and excl
 |15.9%
 |5.4%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |6.3%
+| style="background:{{party color|GERB}}; color:white;" |6.3%
 |-
 |style="letter-spacing:-1px;"|[https://www.facebook.com/permalink.php?story_fbid=102300478896421&id=100803539046115 Sociology Web Researcher]
 | data-sort-value="2021-10-01" |{{nowrap|1 Sep−1 Oct 2021}}
@@ -502,7 +502,7 @@ The opinion poll results below were recalculated from the original data and excl
 |7.8%
 |4.4%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |1.4%
+| style="background:{{party color|GERB}}; color:white;" |1.4%
 |-
 |[https://www.gallup-international.bg/45033/current-electoral-snapshot-4/ Gallup]
 | data-sort-value="2021-09-26" |{{nowrap|21−26 Sep 2021}}
@@ -520,7 +520,7 @@ The opinion poll results below were recalculated from the original data and excl
 |15.2%
 |4.6%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |6.2%
+| style="background:{{party color|GERB}}; color:white;" |6.2%
 |-
 |[https://www.marketlinks.bg/storage/INFOGRAPHIC%20NRS%20Politics%2009.2021.pdf Market Links]
 | data-sort-value="2021-09-20" |14−20 Sep 2021
@@ -538,7 +538,7 @@ The opinion poll results below were recalculated from the original data and excl
 |11.9%
 |1.1%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |9%
+| style="background:{{party color|GERB}}; color:white;" |9%
 |-
 |[https://www.actualno.com/society/spored-barometyr-borisov-e-pryv-trifonov-izostava-mnogo-news_1644435.html Barometar]
 | data-sort-value="2021-09-16" |12−16 Sep 2021
@@ -556,7 +556,7 @@ The opinion poll results below were recalculated from the original data and excl
 | —
 |15%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |10.5%
+| style="background:{{party color|GERB}}; color:white;" |10.5%
 |-
 |[https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%81%d0%bf%d1%80%d1%8f%d0%bc%d0%be-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%b8%d1%82-7/ Trend]
 | data-sort-value="2021-09-15" |8–15 Sep 2021
@@ -574,7 +574,7 @@ The opinion poll results below were recalculated from the original data and excl
 |9.1%
 |5.7%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |6.9%
+| style="background:{{party color|GERB}}; color:white;" |6.9%
 |-
 |{{nowrap|Alpha Research}}
 | data-sort-value="2021-09-15" |8−15 Sep 2021
@@ -592,7 +592,7 @@ The opinion poll results below were recalculated from the original data and excl
 | —
 |6.8%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |4.6%
+| style="background:{{party color|GERB}}; color:white;" |4.6%
 |-
 |[https://www.gallup-international.bg/44980/current-electoral-snapshot-3/ Gallup]
 | data-sort-value="2021-09-10" |2−10 Sep 2021
@@ -610,7 +610,7 @@ The opinion poll results below were recalculated from the original data and excl
 | —
 |7.9%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |6.4%
+| style="background:{{party color|GERB}}; color:white;" |6.4%
 |-
 |[https://www.marketlinks.bg/storage/INFOGRAPHIC%20NRS%20Politics%2008.2021.pdf Market Links]
 | data-sort-value="2021-08-22" |13−22 Aug 2021
@@ -628,7 +628,7 @@ The opinion poll results below were recalculated from the original data and excl
 | —
 |2.2%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |5.6%
+| style="background:{{party color|GERB}}; color:white;" |5.6%
 |-
 |[https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%81%d0%bf%d1%80%d1%8f%d0%bc%d0%be-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%b8%d1%82-6/ Trend]
 | data-sort-value="2021-07-30" |23–30 Jul 2021
@@ -646,7 +646,7 @@ The opinion poll results below were recalculated from the original data and excl
 | —
 |8%
 | —
-| style="background:{{GERB/meta/color}}; color:white;" |0.8%
+| style="background:{{party color|GERB}}; color:white;" |0.8%
 |-
 |[https://www.marketlinks.bg/storage/INFOGRAPHIC%20NRS%20Politics%2007.2021.pdf Market Links]
 | data-sort-value="2021-07-28" |21–28 Jul 2021
@@ -664,7 +664,7 @@ The opinion poll results below were recalculated from the original data and excl
 | —
 |1.4%
 | —
-| style="background:{{There_Are_Such_People/meta/color}}; color:white;" |2.8%
+| style="background:{{party color|There_Are_Such_People}}; color:white;" |2.8%
 |- style="background:#D5D5D5;"
 |{{nowrap|[[July 2021 Bulgarian parliamentary election|July 2021 election]]}}
 | data-sort-value="2021-07-11" |11 July 2021
@@ -682,5 +682,5 @@ The opinion poll results below were recalculated from the original data and excl
 | —
 |4.4%
 |1.3%
-| style="background:{{There_Are_Such_People/meta/color}}; color:white;" |0.6%
+| style="background:{{party color|There_Are_Such_People}}; color:white;" |0.6%
 |}

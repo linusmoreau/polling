@@ -25,9 +25,13 @@
 ! style="background:{{Canadian party colour|CA|Green}}" data-sort-type="number"|
 |- style="background:#ffd;"
 |-
+| [[Léger (company)|Leger]] || {{dts|December 5, 2021}} || [https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Legers-North-American-Tracker-December-6th-2021_v2.pdf PDF] || 29 || {{Party shading/Liberal}}| '''36''' || 19 || 7 || 5 || 3 || 1 || ±2.49 pp || 1,547 || online || {{Party shading/Liberal}}|'''7'''
+|-
 | [[Mainstreet Research]] || {{dts|November 30, 2021}} || [https://ipolitics.ca/wp-content/uploads/2021/12/Mainsteet-Dec-2.pdf PDF] || 30.3 || {{Party shading/Liberal}}| '''33.5''' || 15.7 || 5.5 || 10.0 || 3.2 || 1.9 || ±2.36 pp || 1,719 || IVR || {{Party shading/Liberal}}|'''3.2'''
 |-
 | [[Abacus Data]] || {{dts|November 30, 2021}} || [https://abacusdata.ca/throne-speech-canadian-politics-poll/ HTML] || 30 || {{Party shading/Liberal}}| '''32''' || 20 || 8 || 6 || 3 || 1 || ±2.2 pp || 2,025 || online || {{Party shading/Liberal}}| '''2''' 
+|-
+| [[Angus Reid]] || {{dts|November 29, 2021}} || [https://angusreid.org/otoole-favourability-federal-politics-december/ HTML] || 29 || {{Party shading/Liberal}}| '''35''' || 20 || 7 || 5 || 2 || 1 || ±2 pp || 2,005 || online || {{Party shading/Liberal}}|'''6'''
 |-
 | [[Ekos Research Associates|EKOS]] ||  {{dts|November 21, 2021}} || [https://www.ekospolitics.com/index.php/2021/11/three-way-federal-horserace-frozen/ HTML ]|| 26.6 || {{Party shading/Liberal}}|'''30.4''' || 19.1 || 5.9 || 11.4 || 5.2 || 1 || ±3.1 pp || 1,006 || IVR || {{Party shading/Liberal}}|'''3.8''' 
 |-
@@ -43,7 +47,7 @@
 |-
 ! colspan="14" |
 |- style="background:#ffd;"
-| ''[[2021 Canadian federal election|2021 election]]'' || {{dts|September 20, 2021}} || [https://www.elections.ca/enr/help/national_e.htm HTML] ||{{Party shading/Conservative (Canada)}}| '''''33.7''''' || ''32.6'' || ''17.8'' || ''7.6'' || ''4.9'' || ''2.3'' || ''1.1'' ||{{n/a}} || ''17,042,591'' ||{{n/a}} || {{Party shading/Conservative (Canada)}} | '''''1.1'''''
+| [[2021 Canadian federal election|2021 election]] || {{dts|September 20, 2021}} || [https://www.elections.ca/enr/help/national_e.htm HTML] ||{{Party shading/Conservative (Canada)}}| '''33.7''' || 32.6 || 17.8 || 7.6 || 4.9 || 2.3 || 1.1 ||{{n/a}} || 17,042,591 ||{{n/a}} || {{Party shading/Conservative (Canada)}} | '''1.1'''
 |-
 ! style="width:105px" rowspan="2"| Polling firm
 ! style="width:105px" rowspan="2"| Last date<br>of polling{{efn|name=order}}

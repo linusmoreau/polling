@@ -28,21 +28,21 @@
 ! class="unsortable" style="width:40px;" |[[Svobodní|S]]
 ! class="unsortable" style="width:40px;" |[[Tricolour Citizens' Movement|T]]
 |-
-! class="unsortable" style="background:{{ANO 2011/meta/color}};" |
-! class="unsortable" style="background:{{Civic Democratic Party (Czech Republic)/meta/color}};" |
-! class="unsortable" style="background:{{Christian and Democratic Union – Czechoslovak People's Party/meta/color}};" |
-! class="unsortable" style="background:{{TOP 09/meta/color}};" |
-! class="unsortable" style="background:{{Czech Pirate Party/meta/color}};" |
-! class="unsortable" style="background:{{Mayors and Independents/meta/color}};" |
-! class="unsortable" style="background:{{Freedom and Direct Democracy/meta/color}};" |
-! class="unsortable" style="background:{{Communist Party of Bohemia and Moravia/meta/color}};" |
-! class="unsortable" style="background:{{Czech Social Democratic Party/meta/color}};" |
-! class="unsortable" style="background:{{Party of Free Citizens/meta/color}};" |
-! class="unsortable" style="background:{{Tricolour Citizens' Movement/meta/color}};" |
-! class="unsortable" style="background:{{Green Party (Czech Republic)/meta/color}};" |
-! class="unsortable" style="background:{{Alliance for the Future (Czech Republic)/meta/color}};" |
-! class="unsortable" style="background:{{Free Bloc/meta/color}} |
-! class="unsortable" style="background:{{Přísaha/meta/color}};" |
+! class="unsortable" style="background:{{party color|ANO 2011}};" |
+! class="unsortable" style="background:{{party color|Civic Democratic Party (Czech Republic)}};" |
+! class="unsortable" style="background:{{party color|Christian and Democratic Union – Czechoslovak People's Party}};" |
+! class="unsortable" style="background:{{party color|TOP 09}};" |
+! class="unsortable" style="background:{{party color|Czech Pirate Party}};" |
+! class="unsortable" style="background:{{party color|Mayors and Independents}};" |
+! class="unsortable" style="background:{{party color|Freedom and Direct Democracy}};" |
+! class="unsortable" style="background:{{party color|Communist Party of Bohemia and Moravia}};" |
+! class="unsortable" style="background:{{party color|Czech Social Democratic Party}};" |
+! class="unsortable" style="background:{{party color|Party of Free Citizens}};" |
+! class="unsortable" style="background:{{party color|Tricolour Citizens' Movement}};" |
+! class="unsortable" style="background:{{party color|Green Party (Czech Republic)}};" |
+! class="unsortable" style="background:{{party color|Alliance for the Future (Czech Republic)}};" |
+! class="unsortable" style="background:{{party color|Free Bloc}} |
+! class="unsortable" style="background:{{party color|Přísaha}};" |
 |-
 ! 8–9 Oct
 ! [[2021 Czech legislative election|2021 legislative election]]
@@ -60,7 +60,7 @@
 ! 1.3
 ! 4.7
 ! 1.6
-!style="background:{{Civic Democratic Party (Czech Republic)/meta/color}};color:#FFFFFF;" |0.7
+!style="background:{{party color|Civic Democratic Party (Czech Republic)}};color:#FFFFFF;" |0.7
 !'''31.8'''
 !{{No|'''53.0'''}}
 |-
@@ -80,7 +80,7 @@
 |1.3
 |4.7
 |2.9
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |1.4
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |1.4
 |'''32.8'''
 |{{No|'''51.4'''}}
 |-
@@ -102,7 +102,7 @@
 |{{N/A}}
 |5.7
 |1.7
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |5.9
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |5.9
 |'''31.7'''
 |{{No|'''57.6'''}}
 |-
@@ -122,7 +122,7 @@
 |2.5
 |4.0
 |0.4
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |5.4
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |5.4
 |'''32.2'''
 |{{No|'''54.3'''}}
 |-
@@ -142,7 +142,7 @@
 |2.2
 |5.1
 |3.1
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |1.2
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |1.2
 |'''30.2'''
 |{{No|'''54.3'''}}
 |-
@@ -162,7 +162,7 @@
 |1.6
 |3.9
 |2.3
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |4.2
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |4.2
 |'''30.8'''
 |{{No|'''54.8'''}}
 |-
@@ -182,7 +182,7 @@
 |2.0
 |4.0
 |2.5
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |1.5
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |1.5
 |'''30.0'''
 |{{No|'''60.0'''}}
 |-
@@ -202,7 +202,7 @@
 |1.4
 |3.6
 |0.5
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |7.7
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |7.7
 |'''34.3'''
 |{{No|'''56.6'''}}
 |-
@@ -222,7 +222,7 @@
 |{{N/A}}
 |5.5
 |2.0
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |2.7
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |2.7
 |'''31.5'''
 |{{No|'''55.7'''}}
 |-
@@ -242,7 +242,7 @@
 |{{N/A}}
 |6.0
 |7.5
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |8.3
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |8.3
 |'''31.4'''
 |{{No|'''47.5'''}}
 |-
@@ -262,7 +262,7 @@
 |2.4
 |4.9
 |1.0
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |5.7
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |5.7
 |'''31.6'''
 |{{No|'''53.1'''}}
 |-
@@ -282,7 +282,7 @@
 |{{N/A}}
 |4.0
 |0.0
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |7.1
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |7.1
 |'''33.7'''
 |{{No|'''55.7'''}}
 |-
@@ -302,7 +302,7 @@
 |1.3
 |2.2
 |1.1
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |12.4
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |12.4
 |'''36.8'''
 |{{No|'''55.2'''}}
 |-
@@ -322,7 +322,7 @@
 |{{N/A}}
 |4.5
 |5.5
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |3.0
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |3.0
 |'''29.0'''
 |{{No|'''57.5'''}}
 |-
@@ -342,7 +342,7 @@
 |<1.0
 |4.0
 |<2.5
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |6.0
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |6.0
 |'''30.5'''
 |{{No|'''54.5'''}}
 |-
@@ -362,7 +362,7 @@
 |0.9
 |4.9
 |0.4{{efn|[[Koruna Česká (party)|KČ]] 0.2%}}
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |5.3
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |5.3
 |'''32.7'''
 |{{No|'''55.8'''}}
 |-
@@ -385,7 +385,7 @@
 |2.0
 |5.5
 |2.5
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |14.5
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |14.5
 |'''30.0'''
 |{{No|'''70.0'''}}
 |-
@@ -401,7 +401,7 @@
 |2.0
 |6.0
 |2.0
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |6.5
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |6.5
 |'''31.0'''
 |{{No|'''69.0'''}}
 |-
@@ -421,7 +421,7 @@
 |{{N/A}}
 |3.3
 |0.4
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |9.4
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |9.4
 |'''34.7'''
 |{{No|'''57.4'''}}
 |-
@@ -441,7 +441,7 @@
 |{{N/A}}
 |6.0
 |2.6
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |6.4
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |6.4
 |'''29.5'''
 |{{No|'''51.7'''}}
 |-
@@ -461,7 +461,7 @@
 |{{N/A}}
 |6.5
 |3.0
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |4.5
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |4.5
 |'''30.5'''
 |{{No|'''54.5'''}}
 |-
@@ -481,7 +481,7 @@
 |{{N/A}}
 |4.9
 |1.0
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |0.2
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |0.2
 |'''28.7'''
 |{{No|'''58.5'''}}
 |-
@@ -501,7 +501,7 @@
 |{{N/A}}
 |3.0
 |3.0
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |2.0
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |2.0
 |'''30.0'''
 |{{No|'''57.0'''}}
 |-
@@ -521,7 +521,7 @@
 |{{N/A}}
 |5.3
 |3.5
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |1.3
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |1.3
 |'''27.4'''
 |{{No|'''53.8'''}}
 |-
@@ -541,7 +541,7 @@
 |{{N/A}}
 |6.0
 |2.5
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |4.5
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |4.5
 |'''31.0'''
 |{{No|'''61.0'''}}
 |-
@@ -565,7 +565,7 @@
 |{{N/A}}
 |5.0
 |0.6
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |11.5
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |11.5
 |'''32.4'''
 |{{No|'''67.0'''}}
 |-
@@ -581,7 +581,7 @@
 |{{N/A}}
 |5.1
 |0.6
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |2.6
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |2.6
 |'''32.2'''
 |{{No|'''67.2'''}}
 |-
@@ -605,7 +605,7 @@
 |{{N/A}}
 |6.0
 |5.5
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |6.0
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |6.0
 |'''23.5'''
 |{{No|'''71.0'''}}
 |-
@@ -662,7 +662,7 @@
 |{{N/A}}
 |2.5
 |1.5
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |2.0
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |2.0
 |'''32.0'''
 |{{No|'''57.5'''}}
 |-
@@ -685,7 +685,7 @@
 |{{N/A}}
 |4.0
 |5.0
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |3.5
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |3.5
 |'''24.5'''
 |{{No|'''63.0'''}}
 |-
@@ -742,7 +742,7 @@
 |{{N/A}}
 |5.6
 |1.0
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |0.4
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |0.4
 |'''28.2'''
 |{{No|'''59.8'''}}
 |-
@@ -786,7 +786,7 @@
 |{{N/A}}
 |4.5
 |4.0
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |2.5
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |2.5
 |'''27.0'''
 |{{No|'''60.0'''}}
 |-
@@ -827,7 +827,7 @@
 |{{No|'''57.0'''}}
 |-
 |rowspan="2" |[https://www.datacollect.cz/wp-content/uploads/2021/05/Vyzkum-volebniho-modelu-a-otazky-na-aktualni-temata.pdf Data Collect]
-|rowspan="2" |3-7 & 17-21 May
+|rowspan="2" |3-7 & 17–21 May
 |rowspan="2" |875
 |rowspan="2" |74.0
 |{{Party shading/ANO 2011}}|'''18.2'''
@@ -846,7 +846,7 @@
 |{{N/A}}
 |3.7
 |6.3
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |0.9
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |0.9
 |'''27.1'''
 |{{No|'''63.0'''}}
 |-
@@ -946,7 +946,7 @@
 |{{N/A}}
 |2.0
 |5.0
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |1.0
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |1.0
 |'''23.5'''
 |{{No|'''67.5'''}}
 |-
@@ -1010,7 +1010,7 @@
 |{{N/A}}
 |2.4
 |0.5
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |5.2
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |5.2
 |'''35.5'''
 |{{No|'''58.8'''}}
 |-
@@ -1091,7 +1091,7 @@
 | {{N/A}}
 | {{N/A}}
 |6.1
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |3.6
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |3.6
 |'''26.5'''
 |{{No|'''55.0'''}}
 |-
@@ -1133,7 +1133,7 @@
 | {{N/A}}
 |2.0
 |6.5
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |2.0
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |2.0
 |'''30.0'''
 |{{No|'''63.0'''}}
 |-
@@ -1195,7 +1195,7 @@
 | {{N/A}}
 | {{N/A}}
 |3.8
-|style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |0.1
+|style="background:{{party color|ANO 2011}};color:#FFFFFF;" |0.1
 |'''37.8'''
 |{{no|'''58.4'''}}
 |-
@@ -1237,7 +1237,7 @@
 | {{N/A}}
 | {{N/A}}
 | 3.3
-| style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |0.2
+| style="background:{{party color|ANO 2011}};color:#FFFFFF;" |0.2
 | '''34.3'''
 | {{No|'''52.8'''}}
 |-
@@ -1265,7 +1265,7 @@
 | {{N/A}}
 | {{N/A}}
 |5.0
-|style="background:{{Czech Pirate Party/meta/color}};color:#FFFFFF;" |1.5
+|style="background:{{party color|Czech Pirate Party}};color:#FFFFFF;" |1.5
 |'''30.0'''
 |{{No|'''65.0'''}}
 |-
@@ -1303,7 +1303,7 @@
 | {{N/A}}
 | {{N/A}}
 | 3.5
-| style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |1.5
+| style="background:{{party color|ANO 2011}};color:#FFFFFF;" |1.5
 | '''39.0'''
 |{{No|'''53.5'''}}
 |-
@@ -1324,7 +1324,7 @@
 | {{N/A}}
 | {{N/A}}
 | 5.3
-| style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |1.9
+| style="background:{{party color|ANO 2011}};color:#FFFFFF;" |1.9
 | '''38.0'''
 |{{No|'''52.9'''}}
 |-
@@ -1345,7 +1345,7 @@
 | {{N/A}}
 | {{N/A}}
 | 2.7
-| style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |0.5
+| style="background:{{party color|ANO 2011}};color:#FFFFFF;" |0.5
 | '''35.7'''
 |{{No|'''54.8'''}}
 |-
@@ -1366,7 +1366,7 @@
 | {{N/A}}
 | {{N/A}}
 | 4.4
-| style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |4.1
+| style="background:{{party color|ANO 2011}};color:#FFFFFF;" |4.1
 | '''30.2'''
 |{{No|'''49.9'''}}
 |-
@@ -1390,7 +1390,7 @@
 | {{N/A}}
 | {{N/A}}
 | 5.0
-| style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |5.0
+| style="background:{{party color|ANO 2011}};color:#FFFFFF;" |5.0
 | '''34.5'''
 |{{No|'''60.5'''}}
 |-
@@ -1431,7 +1431,7 @@
 | {{N/A}}
 | {{N/A}}
 | 3.0
-| style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |5.5
+| style="background:{{party color|ANO 2011}};color:#FFFFFF;" |5.5
 | '''33.5'''
 |{{No|'''62.0'''}}
 |-
@@ -1452,7 +1452,7 @@
 | {{N/A}}
 | {{N/A}}
 | 3.5
-| style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |1.5
+| style="background:{{party color|ANO 2011}};color:#FFFFFF;" |1.5
 | '''40.5'''
 |{{No|'''52.5'''}}
 |-
@@ -1473,7 +1473,7 @@
 | {{N/A}}
 | {{N/A}}
 | 7.7
-| style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |3.5
+| style="background:{{party color|ANO 2011}};color:#FFFFFF;" |3.5
 | '''38.3'''
 |{{No|'''50.7'''}}
 |-
@@ -1494,7 +1494,7 @@
 | {{N/A}}
 | {{N/A}}
 | 0.8
-| style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |4.0
+| style="background:{{party color|ANO 2011}};color:#FFFFFF;" |4.0
 | '''39.0'''
 |{{No|'''53.3'''}}
 |-
@@ -1515,7 +1515,7 @@
 | {{N/A}}
 | {{N/A}}
 | 12.3
-| style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" |5.2
+| style="background:{{party color|ANO 2011}};color:#FFFFFF;" |5.2
 | '''35.2'''
 |{{No|'''48.6'''}}
 |- style="background:#E9E9E9;"
@@ -1539,7 +1539,7 @@
 | 0.1
 | {{N/A}}
 | 3.2
-| style="background:{{ANO 2011/meta/color}};color:#FFFFFF;" | 18.3
+| style="background:{{party color|ANO 2011}};color:#FFFFFF;" | 18.3
 |44.7
 | {{No2|'''49.0'''}}
 |}

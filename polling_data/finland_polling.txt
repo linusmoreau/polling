@@ -18,15 +18,32 @@
 ! class="unsortable" style="width:20px;" rowspan="2"| {{H:title|Government coalition (SDP, KESK, VIHR, VAS, SFP)|Gov.}}
 ! class="unsortable" style="width:20px;" rowspan="2"| {{H:title|Opposition parties (PS, KOK, KD, LIIK)|Opp.}}
 |-
-! data-sort-type="number" style="background:{{Social Democratic Party of Finland/meta/color}};" |
-! data-sort-type="number" style="background:{{Finns Party/meta/color}};" |
-! data-sort-type="number" style="background:{{National Coalition Party/meta/color}};" |
-! data-sort-type="number" style="background:{{Centre Party (Finland)/meta/color}};" |
-! data-sort-type="number" style="background:{{Green League/meta/color}};" |
-! data-sort-type="number" style="background:{{Left Alliance (Finland)/meta/color}};" |
-! data-sort-type="number" style="background:{{Swedish People's Party of Finland/meta/color}};" |
-! data-sort-type="number" style="background:{{Christian Democrats (Finland)/meta/color}};" |
-! data-sort-type="number" style="background:{{Movement Now/meta/color}};" |
+! data-sort-type="number" style="background:{{party color|Social Democratic Party of Finland}};" |
+! data-sort-type="number" style="background:{{party color|Finns Party}};" |
+! data-sort-type="number" style="background:{{party color|National Coalition Party}};" |
+! data-sort-type="number" style="background:{{party color|Centre Party (Finland)}};" |
+! data-sort-type="number" style="background:{{party color|Green League}};" |
+! data-sort-type="number" style="background:{{party color|Left Alliance (Finland)}};" |
+! data-sort-type="number" style="background:{{party color|Swedish People's Party of Finland}};" |
+! data-sort-type="number" style="background:{{party color|Christian Democrats (Finland)}};" |
+! data-sort-type="number" style="background:{{party color|Movement Now}};" |
+|-
+| Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000008454399.html|title=Kokoomus jatkaa suurimpana puolueena, perussuomalaisten kannatus laski puoli prosenttiyksikköä|first=Jarmo|last=Huhtanen|website=Helsingin Sanomat |date=16 December 2021|access-date=16 December 2021}}</ref>
+| data-sort-value="2021-12-10"| 16 Nov–10 Dec 2021
+| 2,384
+| 19.3
+| 17.5
+| style="background:#D9E9F4"|'''21.4'''
+| 11.9
+| 9.8
+| 8.0
+| 4.5
+| 3.3
+| 2.3
+| 2.0
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-2.1"| 2.1
+| {{#expr:19.3+11.9+9.8+8.0+4.5}}
+| {{#expr:17.5+21.4+3.3+2.3}}
 |-
 | Taloustutkimus<ref>{{Cite web|url=https://yle.fi/uutiset/3-12211311|title=Ylen kannatusmittaus: Perussuomalaiset ohitti SDP:n, vihreät vajosi lähelle 10 prosentin rajaa|first=Antti|last=Pilke|website=Yle Uutiset|language=fi|access-date=2 December 2021|date=2 December 2021}}</ref>
 | data-sort-value="2021-11-30"| 3 Nov–30 Nov 2021
@@ -41,7 +58,7 @@
 | 2.9
 | 1.6
 | 1.3
-| style="background:{{National Coalition Party/meta/color}};color:#FFFFFF;" data-sort-value="-3.1"| 3.1
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-3.1"| 3.1
 | {{#expr:18.3+12.5+10.1+8.2+4.6}}
 | {{#expr:18.7+21.8+2.9+1.6}}
 |-
@@ -58,7 +75,7 @@
 | 3.3
 | 2.1
 | 1.8
-| style="background:{{National Coalition Party/meta/color}};color:#FFFFFF;" data-sort-value="-1.7"| 1.7
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-1.7"| 1.7
 | {{#expr:19.4+11.9+10.5+7.6+4.3}}
 | {{#expr:18.0+21.1+3.3+2.1}}
 |-
@@ -75,7 +92,7 @@
 | 2.6
 | 1.7
 | 1.7
-| style="background:{{National Coalition Party/meta/color}};color:#FFFFFF;" data-sort-value="-2.8"| 2.8
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-2.8"| 2.8
 | {{#expr:18.1+11.9+11.4+8.6+5.2}}
 | {{#expr:17.9+20.9+2.6+1.7}}
 |-
@@ -92,7 +109,7 @@
 | 3.6
 | 2.2
 | 1.9
-| style="background:{{National Coalition Party/meta/color}};color:#FFFFFF;" data-sort-value="-2.7"| 2.7
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-2.7"| 2.7
 | {{#expr:18.5+12.5+10.1+7.7+4.5}}
 | {{#expr:17.8+21.2+3.6+2.2}}
 |-
@@ -109,7 +126,7 @@
 | 3.2
 | 1.7
 | 1.5
-| style="background:{{National Coalition Party/meta/color}};color:#FFFFFF;" data-sort-value="-1.6"| 1.6
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-1.6"| 1.6
 | {{#expr:19.3+12.6+10.4+8.6+4.1}}
 | {{#expr:17.7+20.9+3.2+1.7}}
 |-
@@ -126,7 +143,7 @@
 | 3.6
 | 2.2
 | 1.9
-| style="background:{{National Coalition Party/meta/color}};color:#FFFFFF;" data-sort-value="-2.4"| 2.4
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-2.4"| 2.4
 | {{#expr:18.4+12.9+10.5+7.8+4.5}}
 | {{#expr:17.4+20.8+3.6+2.2}}
 |-
@@ -143,7 +160,7 @@
 | 3.3
 | 2.5
 | 1.0
-| style="background:{{National Coalition Party/meta/color}};color:#FFFFFF;" data-sort-value="-2.6"| 2.6
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-2.6"| 2.6
 | {{#expr:18.7+12.2+11.4+7.6+4.4}}
 | {{#expr:17.6+21.3+3.3+2.5}}
 |-
@@ -160,7 +177,7 @@
 | 3.6
 | 2.3
 | 1.9
-| style="background:{{National Coalition Party/meta/color}};color:#FFFFFF;" data-sort-value="-0.6"| 0.6
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-0.6"| 0.6
 | {{#expr:19.2+12.9+10.8+7.9+4.4}}
 | {{#expr:17.2+19.8+3.6+2.3}}
 |-
@@ -177,11 +194,11 @@
 | 3.4
 | 1.8
 | 1.3
-| style="background:{{National Coalition Party/meta/color}};color:#FFFFFF;" data-sort-value="-1.5"| 1.5
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-1.5"| 1.5
 | {{#expr:19.0+12.3+10.9+8.6+4.3}}
 | {{#expr:17.9+20.5+3.4+1.8}}
 |-
-| Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000008077546.html|title=Kokoomus on suosituin puolue, perussuomalaisten kannatus notkahti lähes neljä prosenttiyksikköä – tutkija: ”Uskon, että voidaan mennä vielä alemmaskin”|first=Anni|last=Keski-Heikkilä|website=Helsingin Sanomat |date=27 July 2021|access-date=27 July 2021}}</ref>
+| Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000008077546.html|title=Kokoomus on suosituin puolue, perussuomalaisten kannatus notkahti lähes neljä prosenttiyksikköä – tutkija: "Uskon, että voidaan mennä vielä alemmaskin"|first=Anni|last=Keski-Heikkilä|website=Helsingin Sanomat |date=27 July 2021|access-date=27 July 2021}}</ref>
 | data-sort-value="2021-7-20"| 21 Jun–20 Jul 2021
 | 2,512
 | 19.2
@@ -194,7 +211,7 @@
 | 3.7
 | 2.0
 | 2.0
-| style="background:{{National Coalition Party/meta/color}};color:#FFFFFF;" data-sort-value="-0.7"| 0.7
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-0.7"| 0.7
 | {{#expr:19.2+12.6+10.2+8.2+4.4}}
 | {{#expr:17.8+19.9+3.7+2.0}}
 |-
@@ -211,11 +228,28 @@
 | 3.3
 | 1.9
 | 1.2
-| style="background:{{National Coalition Party/meta/color}};color:#FFFFFF;" data-sort-value="-0.2"| 0.2
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-0.2"| 0.2
 | {{#expr:19.6+13.5+10.4+8.0+4.5}}
 | {{#expr:17.8+19.8+3.3+1.9}}
+|- style="background:#EFEFEF"
+| [[2021 Finnish municipal elections|Local elections]]
+| 13 Jun 2021
+| -
+| 17.7
+| 14.5
+| style="background:#D9E9F4"|'''21.4'''
+| 14.9
+| 10.6
+| 7.9
+| 5.0
+| 3.6
+| 1.6
+| 2.8
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-3.4"| 3.4
+| {{#expr:17.7+14.9+10.6+7.9+5.0}}
+| {{#expr:14.5+21.4+3.6+1.6}}
 |-
-| Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000007975313.html|title=Perussuomalaiset yhä suosituin puolue: ”Lähtökohdat kuntavaalimenestykselle ovat ehkä puolueen historian parhaat”|first=Marjukka|last=Liiten|website=Helsingin Sanomat |date=14 May 2021|access-date=17 May 2021}}</ref>
+| Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000007975313.html|title=Perussuomalaiset yhä suosituin puolue: "Lähtökohdat kuntavaalimenestykselle ovat ehkä puolueen historian parhaat"|first=Marjukka|last=Liiten|website=Helsingin Sanomat |date=14 May 2021|access-date=17 May 2021}}</ref>
 | data-sort-value="2021-5-7"| 12 Apr–7 May 2021
 | 2,456
 | 19.0
@@ -228,7 +262,7 @@
 | 3.8
 | 2.6
 | 2.4
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-2.6"| 2.6
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-2.6"| 2.6
 | {{#expr:8.1+19.0+10.0+4.4+11.1}}
 | {{#expr:2.6+17.0+3.8+21.6}}
 |-
@@ -245,11 +279,11 @@
 | 3.8
 | 2.5
 | 2.7
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-1.9"| 1.9
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-1.9"| 1.9
 | {{#expr:7.8+19.7+10.0+4.3+11.4}}
 | {{#expr:2.5+16.2+3.8+21.6}}
 |-
-| Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000007866626.html|title=Perussuomalaiset kasvatti kaulaa Sdp:hen: Puolueella on ”historiansa paras lähtökohta kuntavaaleihin”, sanoo tutkija|first=Minna|last=Nalbantoglu|website=Helsingin Sanomat |date=18 March 2021|access-date=18 March 2021}}</ref>
+| Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000007866626.html|title=Perussuomalaiset kasvatti kaulaa Sdp:hen: Puolueella on "historiansa paras lähtökohta kuntavaaleihin", sanoo tutkija|first=Minna|last=Nalbantoglu|website=Helsingin Sanomat |date=18 March 2021|access-date=18 March 2021}}</ref>
 | data-sort-value="2021-3-12"| 15 Feb–12 Mar 2021
 | 2,462
 | 20.5
@@ -262,7 +296,7 @@
 | 3.7
 | 2.6
 | 2.4
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-1.0"| 1.0
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-1.0"| 1.0
 | {{#expr:7.3+20.5+9.8+4.4+11.8}}
 | {{#expr:2.6+16.0+3.7+21.5}}
 |-
@@ -279,7 +313,7 @@
 | 3.7
 | 2.4
 | 2.7
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-0.1"| 0.1
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-0.1"| 0.1
 | {{#expr:7.6+21.0+9.9+4.2+11.0}}
 | {{#expr:2.4+16.4+3.7+21.1}}
 |-
@@ -296,7 +330,7 @@
 | 3.7
 | 2.4
 | 2.5
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-0.2"| 0.2
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-0.2"| 0.2
 | {{#expr:7.7+20.8+10.6+4.3+10.8}}
 | {{#expr:2.4+16.2+3.7+21.0}}
 |-
@@ -313,7 +347,7 @@
 | 2.8
 | 1.3
 | 1.4
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-0.5"| 0.5
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-0.5"| 0.5
 | {{#expr:7.6+21.4+11.4+4.3+11.7}}
 | {{#expr:1.3+16.2+2.8+21.9}}
 |-
@@ -330,7 +364,7 @@
 | 3.8
 | 2.3
 | 2.4
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-0.8"| 0.8
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-0.8"| 0.8
 | {{#expr:7.7+21.4+9.9+4.3+11.4}}
 | {{#expr:2.3+16.2+3.8+20.6}}
 |-
@@ -347,7 +381,7 @@
 | 3.0
 | 2.2
 | 2.1
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-0.3"| 0.3
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-0.3"| 0.3
 | {{#expr:7.2+20.6+11.6+4.4+12.1}}
 | {{#expr:2.2+15.9+3.0+20.9}}
 |-
@@ -364,7 +398,7 @@
 | 3.7
 | 2.2
 | 2.2
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-0.9"| 0.9
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-0.9"| 0.9
 | {{#expr:7.5+20.8+11.1+4.4+11.7}}
 | {{#expr:2.2+16.5+3.7+19.9}}
 |-
@@ -381,7 +415,7 @@
 | 4.0
 | 1.6
 | 1.9
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-1.7"| 1.7
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-1.7"| 1.7
 | {{#expr:7.7+21.2+10.8+4.3+12.4}}
 | {{#expr:1.6+16.6+4.0+19.5}}
 |-
@@ -398,7 +432,7 @@
 | 3.8
 | 2.1
 | 2.1
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-1.0"| 1.0
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-1.0"| 1.0
 | {{#expr:7.8+20.9+11.0+4.4+11.2}}
 | {{#expr:2.1+16.8+3.8+19.9}}
 |-
@@ -415,11 +449,11 @@
 | 3.3
 | 1.8
 | 1.6
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-2.8"| 2.8
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-2.8"| 2.8
 | {{#expr:7.9+21.8+10.9+4.5+11.5}}
 | {{#expr:1.8+17.7+3.3+19.0}}
 |-
-| Kantar TNS<ref>{{cite news |author=Anu-Elina Ervasti |title=Sdp:n ja kokoomuksen talouskiistat eivät näy kummankaan kannatuksessa – Samana pysyvät gallupluvut voivat olla ”tyyntä myrskyn edellä” |url=https://www.hs.fi/politiikka/art-2000006636965.html |newspaper=Helsingin Sanomat |date=16 September 2020 |access-date=16 September 2020 |language=fi}}</ref>
+| Kantar TNS<ref>{{cite news |author=Anu-Elina Ervasti |title=Sdp:n ja kokoomuksen talouskiistat eivät näy kummankaan kannatuksessa – Samana pysyvät gallupluvut voivat olla "tyyntä myrskyn edellä" |url=https://www.hs.fi/politiikka/art-2000006636965.html |newspaper=Helsingin Sanomat |date=16 September 2020 |access-date=16 September 2020 |language=fi}}</ref>
 | data-sort-value="2020-09-12"|17 Aug–12 Sep 2020
 | 2,486
 | style="background:#FCCFCF;" |'''21.0'''
@@ -432,7 +466,7 @@
 | 3.7
 | 2.0
 | 2.3
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-1.5"| 1.5
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-1.5"| 1.5
 | {{#expr:7.6+21.0+11.8+4.3+10.8}}
 | {{#expr:2.0+17.0+3.7+19.5}}
 |-
@@ -449,7 +483,7 @@
 | 3.0
 | 1.3
 | 2.1
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-2.6"| 2.6
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-2.6"| 2.6
 | {{#expr:8.0+21.4+11.7+4.1+11.3}}
 | {{#expr:1.3+18.3+3.0+18.8}}
 |-
@@ -466,7 +500,7 @@
 | 3.9
 | 1.7
 | 2.2
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-2.0"| 2.0
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-2.0"| 2.0
 | {{#expr:7.5+21.0+12.1+4.4+11.3}}
 | {{#expr:1.7+16.9+3.9+19.0}}
 |-
@@ -483,11 +517,11 @@
 | 3.6
 | 1.2
 | 1.4
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-4.5"| 4.5
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-4.5"| 4.5
 | {{#expr:8.1+23.4+11.6+4.0+10.5}}
 | {{#expr:1.2+17.3+3.6+18.9}}
 |-
-| Kantar TNS<ref>{{cite news |author=Laura Kukkonen |title=Sdp:n kannatus jatkaa tasaantumistaan, myös keskustan suosio laski – ”Siellä on kaksi taisteluparia” |url=https://www.hs.fi/politiikka/art-2000006572077.html |newspaper=Helsingin Sanomat |date=15 July 2020 |access-date=15 July 2020 |language=fi}}</ref>
+| Kantar TNS<ref>{{cite news |author=Laura Kukkonen |title=Sdp:n kannatus jatkaa tasaantumistaan, myös keskustan suosio laski – "Siellä on kaksi taisteluparia" |url=https://www.hs.fi/politiikka/art-2000006572077.html |newspaper=Helsingin Sanomat |date=15 July 2020 |access-date=15 July 2020 |language=fi}}</ref>
 | data-sort-value="2020-07-10"|15 Jun–10 Jul 2020
 | 2,168
 | style="background:#FCCFCF;" |'''21.2'''
@@ -500,7 +534,7 @@
 | 3.9
 | 1.8
 | 2.0
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-3.3"| 3.3
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-3.3"| 3.3
 | {{#expr:8.2+21.2+11.3+4.4+11.6}}
 | {{#expr:1.8+17.7+3.9+17.9}}
 |-
@@ -517,7 +551,7 @@
 | 3.4
 | 1.8
 | 1.6
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-3.8"| 3.8
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-3.8"| 3.8
 | {{#expr:8.7+21.9+10.9+4.3+11.4}}
 | {{#expr:1.8+17.9+3.4+18.1}}
 |-
@@ -534,7 +568,7 @@
 | 4.0
 | 1.8
 | 2.3
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-4.3"| 4.3
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-4.3"| 4.3
 | {{#expr:7.4+21.9+10.8+4.4+12.4}}
 | {{#expr:1.8+17.4+4.0+17.6}}
 |-
@@ -551,7 +585,7 @@
 | 3.5
 | 2.3
 | 1.1
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-5.1"| 5.1
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-5.1"| 5.1
 | {{#expr:7.8+23.2+11.9+3.9+10.7}}
 | {{#expr:2.3+17.5+3.5+18.1}}
 |-
@@ -568,7 +602,7 @@
 | 3.7
 | 1.9
 | 1.9
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-4.0"| 4.0
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-4.0"| 4.0
 | {{#expr:7.6+22.1+11.2+4.2+12.3}}
 | {{#expr:1.9+17.0+3.7+18.1}}
 |-
@@ -585,11 +619,11 @@
 | 3.7
 | 1.5
 | 1.2
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-3.9"| 3.9
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-3.9"| 3.9
 | {{#expr:7.7+22.1+11.4+4.1+12.2}}
 | {{#expr:1.5+18.2+3.7+17.9}}
 |-
-| Tietoykkönen<ref>{{cite news |author=Tommi Parkkonen |title=Alman kysely: SDP:n kannatus jo yli 24 %, perussuomalaisten laskenut – ”Mediahuomio keskittyy pääministeriin”|url=https://www.iltalehti.fi/politiikka/a/6c38044e-74c1-4fa2-970d-65450a0021cd|newspaper=Iltalehti (in Finnish)|date=1 May 2020 |access-date=4 May 2020 |language=fi}}</ref>
+| Tietoykkönen<ref>{{cite news |author=Tommi Parkkonen |title=Alman kysely: SDP:n kannatus jo yli 24 %, perussuomalaisten laskenut – "Mediahuomio keskittyy pääministeriin"|url=https://www.iltalehti.fi/politiikka/a/6c38044e-74c1-4fa2-970d-65450a0021cd|newspaper=Iltalehti (in Finnish)|date=1 May 2020 |access-date=4 May 2020 |language=fi}}</ref>
 | data-sort-value="2020-04-29"|14–29 Apr 2020
 | 1,500
 | style="background:#FCCFCF;" |'''24.1'''
@@ -602,7 +636,7 @@
 | 3.2
 | 1.4
 | 2.4
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-5.3"| 5.3
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-5.3"| 5.3
 | {{#expr:7.3+24.1+9.7+4.0+12.9}}
 | {{#expr:1.4+16.2+3.2+18.8}}
 |-
@@ -619,7 +653,7 @@
 | 3.5
 | 2.0
 | 1.7
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="-0.2"| 0.2
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="-0.2"| 0.2
 | {{#expr:7.4+20.4+11.2+4.2+12.6}}
 | {{#expr:2.0+16.8+3.5+20.2}}
 |-
@@ -636,7 +670,7 @@
 | 3.9
 | 1.3
 | 1.2
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-0.4"| 0.4
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-0.4"| 0.4
 | {{#expr:7.9+19.6+12.0+4.1+12.4}}
 | {{#expr:1.3+17.6+3.9+20.0}}
 |-
@@ -653,7 +687,7 @@
 | 2.9
 | 1.3
 | 2.8
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;" data-sort-value="1.0"| 1.0
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;" data-sort-value="1.0"| 1.0
 | {{#expr:7.8+21.1+10.7+4.6+11.9}}
 | {{#expr:1.3+16.8+2.9+20.1}}
 |-
@@ -670,7 +704,7 @@
 | 3.7
 | 1.9
 | 2.0
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-4.5"| 4.5
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-4.5"| 4.5
 | {{#expr:8.0+17.1+12.4+4.4+12.0}}
 | {{#expr:1.9+16.9+3.7+21.6}}
 |-
@@ -687,7 +721,7 @@
 | 2.9
 | 1.7
 | 2.0
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-4.4"| 4.4
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-4.4"| 4.4
 | {{#expr:16.6+12.4+12.5+7.4+4.1}}
 | {{#expr:22.4+18.0+2.9+1.7}}
 |-
@@ -704,7 +738,7 @@
 | 3.6
 | 1.9
 | 2.3
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-5.1"| 5.1
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-5.1"| 5.1
 | {{#expr:7.7+16.3+12.3+4.2+12.0}}
 | {{#expr:1.9+17.3+3.6+22.4}}
 |-
@@ -721,7 +755,7 @@
 | 3.5
 | 1.4
 | 2.7
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-4.2"| 4.2
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-4.2"| 4.2
 | {{#expr:7.6+16.7+12.6+4.3+12.0}}
 | {{#expr:1.4+17.5+3.5+21.7}}
 |-
@@ -738,7 +772,7 @@
 | 3.0
 | 1.3
 | 2.1
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-5.8"| 5.8
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-5.8"| 5.8
 | {{#expr:16.0+10.8+13.3+8.3+4.4}}
 | {{#expr:23.3+17.5+3.0+1.3}}
 |-
@@ -755,7 +789,7 @@
 | 3.9
 | 1.7
 | 2.1
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-5.3"| 5.3
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-5.3"| 5.3
 | {{#expr:15.1+11.5+12.8+8.3+4.3}}
 | {{#expr:22.8+17.5+3.9+1.7}}
 |-
@@ -772,7 +806,7 @@
 | 2.2
 | 1.4
 | 1.9
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-5.0"| 5.0
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-5.0"| 5.0
 | {{#expr:14.9+12.0+12.0+8.1+3.9}}
 | {{#expr:24.3+19.3+2.2+1.4}}
 |-
@@ -789,7 +823,7 @@
 | 4.0
 | 1.7
 | 2.8
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-5.5"| 5.5
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-5.5"| 5.5
 | {{#expr:15.1+11.1+12.5+8.4+4.5}}
 | {{#expr:22.7+17.2+4.0+1.7}}
 |-
@@ -806,7 +840,7 @@
 | 3.9
 | 1.2
 | 2.0
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-5.7"| 5.7
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-5.7"| 5.7
 | {{#expr:13.2+10.6+13.9+8.4+3.9}}
 | {{#expr:24.3+18.6+3.9+1.2}}
 |-
@@ -823,7 +857,7 @@
 | 3.8
 | 1.6
 | 2.7
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-5.1"| 5.1
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-5.1"| 5.1
 | 52.2
 | 45.1
 |-
@@ -840,7 +874,7 @@
 | 3.2
 | 1.6
 | 1.6
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-5.7"| 5.7
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-5.7"| 5.7
 | {{#expr:13.9+12.9+14.2+7.9+4.3}}
 | {{#expr:23.0+17.3+3.2+1.6}}
 |-
@@ -857,7 +891,7 @@
 | 3.3
 | 1.3
 | 2.3
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-3.5"| 3.5
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-3.5"| 3.5
 | 55.6 || 42.1
 |-
 | Tietoykkönen<ref>{{cite news|author=Minna Karkkola|title=Alma-kysely: Perussuomalaiset jyrää – kokoomus kärsii oppositio-ongelmasta|url=https://www.iltalehti.fi/politiikka/a/6ab1895c-2007-4938-9961-4c10d408c471|publisher=Iltalehti|date=10 October 2019|accessdate=10 October 2019}}</ref>
@@ -873,7 +907,7 @@
 | 3.2
 | 1.6
 | 2.8
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-3.2"| 3.2
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-3.2"| 3.2
 | 54.8 || 42.4
 |-
 | Taloustutkimus<ref>{{cite news|author=Pekka Kinnunen|title=Ylen mittaus: Perussuomalaiset repi etumatkaa, SDP sukelsi ja keskusta elpyi|url=https://yle.fi/uutiset/3-11000815|publisher=Yle|date=3 October 2019|accessdate=3 October 2019}}</ref>
@@ -889,7 +923,7 @@
 | 3.7
 | 1.6
 | 2.0
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-3.8"| 3.8
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-3.8"| 3.8
 | 54.7 || 43.3
 |-
 | Kantar TNS<ref>{{cite news|author=Teemu Luukka|title=Keskustan puheenjohtajan vaihto ei näy puolueen kannatuksessa, perussuomalaiset pysynyt suosituimpana puolueena|url=https://www.hs.fi/politiikka/art-2000006248789.html|newspaper=Helsingin Sanomat|date=24 September 2019|accessdate=24 September 2019}}</ref>
@@ -905,7 +939,7 @@
 | 3.4
 | 1.5
 | 2.0
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-2.5"| 2.5
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-2.5"| 2.5
 | 56 || 42
 |-
 | Taloustutkimus<ref>{{cite news|author=Pekka Kinnunen|title=Perussuomalaisten kannatus pomppasi yli 20 prosentin – keskusta vajosi alle 12 prosentin|url=https://yle.fi/uutiset/3-10954150|publisher=Yle|date=5 September 2019|accessdate=5 September 2019}}</ref>
@@ -921,7 +955,7 @@
 | 3.4
 | 1.4
 | 2.2
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-3.2"| 3.2
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-3.2"| 3.2
 | 55 || 42.8
 |-
 | Kantar TNS<ref>{{cite news|author=Ines Sirén|title=Perussuomalaisten kannatus nitkahti alaspäin|url=https://www.hs.fi/politiikka/art-2000006218638.html|newspaper=Helsingin Sanomat|date=28 August 2019|accessdate=28 August 2019}}</ref>
@@ -937,7 +971,7 @@
 | 3.8
 | 1.0
 | 2.1
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-2.6"| 2.6
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-2.6"| 2.6
 | 55.7 || 42.2
 |-
 | Taloustutkimus<ref>{{cite news|author=Antti Pilke|title=Ylen mittaus: Hallituspuolueiden suosio nousi ensi kertaa, keskusta pääsi aallonpohjasta|url=https://yle.fi/uutiset/3-10911921|publisher=Yle|date=8 August 2019|accessdate=8 August 2019}}</ref>
@@ -953,7 +987,7 @@
 | 3.5
 | 1.2
 | 1.9
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-2.8"| 2.8
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-2.8"| 2.8
 | 57 || 41.1
 |-
 | Kantar TNS<ref>{{cite news|author=Anton Rinta-Jouppi|title=Perussuomalaisten kannatus kasvoi jälleen: "Vastaavaa ei ole viime aikoina nähty", arvioi tutkija|url=https://www.hs.fi/politiikka/art-2000006188541.html|newspaper=Helsingin Sanomat|date=30 July 2019|accessdate=30 July 2019}}</ref>
@@ -969,7 +1003,7 @@
 | 3.9
 | 1.1
 | 2.3
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-4.0"| 4.0
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-4.0"| 4.0
 | 55.3 || 42.4
 |-
 | Taloustutkimus<ref>{{cite news|author=Matti Koivisto|title=Ylen mittaus: Keskustan kannatus painui ennätyksellisen alas – perussuomalaiset jatkaa selvästi suurimpana puolueena|url=https://yle.fi/uutiset/3-10859955|publisher=Yle|date=4 July 2019|accessdate=4 July 2019}}</ref>
@@ -985,7 +1019,7 @@
 | 3.8
 | 1.7
 | 2.5
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-2.9"| 2.9
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-2.9"| 2.9
 | 55.5 || 42
 |-
 | Kantar TNS<ref>{{cite news|author=Elli-Alina Hiilamo|title=Perussuomalaisten suosio jatkaa kasvuaan, myös vihreiden kannatus nousussa|url=https://www.hs.fi/politiikka/art-2000006159743.html|newspaper=Helsingin Sanomat|date=1 July 2019|accessdate=1 July 2019}}</ref>
@@ -1001,7 +1035,7 @@
 | 3.7
 | 1.4
 | 2.3
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-1.7"| 1.7
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-1.7"| 1.7
 | 56.1 || 41.6
 |-
 | Tietoykkönen<ref>{{cite news|author=Markku Huusko|title=Alman mittaus: Perussuomalaiset karkasi kilpailijoilta - kannatus kasvanut yhä kokoomukseen ja SDP:hen verrattuna|url=https://www.iltalehti.fi/politiikka/a/6012eca6-ad26-43e1-9176-0a9f96523bca|newspaper=Iltalehti|date=19 June 2019|accessdate=19 June 2019}}</ref>
@@ -1017,7 +1051,7 @@
 | 3.0
 | –
 | 3.9
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-2.9"| 2.9
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-2.9"| 2.9
 | 55.8 || 40.3
 |-
 | Taloustutkimus<ref>{{cite news|author=Jyrki Hara|title=Ylen kannatusmittaus: Perussuomalaisten etumatka kasvaa – hallitukseen lähtenyt keskusta vajoaa lisää|url=https://yle.fi/uutiset/3-10816424|publisher=Yle|date=7 June 2019|accessdate=7 June 2019}}</ref>
@@ -1033,7 +1067,7 @@
 | 3.6
 | 1.7
 | 2.5
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-2.1"| 2.1
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-2.1"| 2.1
 | – || –
 |-
 | Kantar TNS<ref>{{cite news|author=Teemu Muhonen|title=Sdp:n kannatus kääntyi nousuun, perussuomalaiset yhä suurin puolue|url=https://www.hs.fi/politiikka/art-2000006095506.html|newspaper=Helsingin Sanomat|date=5 June 2019|accessdate=5 June 2019}}</ref>
@@ -1049,7 +1083,23 @@
 | 3.9
 | 2.1
 | 2.4
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-0.7"| 0.7
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-0.7"| 0.7
+| – || –
+|- style="background:#EFEFEF"
+| [[2019 European Parliament election in Finland|EP election]]
+| 26 May 2019
+| -
+| 14.6
+| 12.8
+| style="background:#D9E9F4"|'''20.8'''
+| 13.5
+| 16.0
+| 6.9
+| 6.3
+| 4.9
+| –
+| 3.1
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-4.8"| 4.8
 | – || –
 |-
 | Tietoykkönen<ref>{{cite news|author=Ossi Kurki-Suonio|title=Alma-gallup: Perussuomalaisilla hurja kannatusloikka kärkeen – SDP kovassa luisussa|url=https://www.iltalehti.fi/politiikka/a/2e5cc508-17df-4e84-a53b-c581c59d8f0c|newspaper=Iltalehti|date=16 May 2019|accessdate=16 May 2019}}</ref>
@@ -1065,7 +1115,7 @@
 | 3.5
 | –
 | 3.4
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-1.3"| 1.3
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-1.3"| 1.3
 | – || –
 |-
 | Taloustutkimus<ref>{{cite news|author=Antti Pilke|title=Ylen kannatusmittaus: Perussuomalaiset nousi kärkeen, vihreät kiri keskustan kiinni|url=https://yle.fi/uutiset/3-10774915|publisher=Yle|date=10 May 2019|accessdate=10 May 2019}}</ref>
@@ -1081,7 +1131,7 @@
 | 3.7
 | 1.7
 | 2.5
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-1.0"| 1.0
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-1.0"| 1.0
 | – || –
 |-
 | Kantar TNS<ref>{{cite news|author=Teija Sutinen|title=Perussuomalaiset nousi suurimmaksi puolueeksi – Hallitusta kokoava Sdp on nyt kolmantena|url=https://www.hs.fi/politiikka/art-2000006095506.html|newspaper=Helsingin Sanomat|date=6 May 2019|accessdate=6 May 2019}}</ref>
@@ -1097,7 +1147,7 @@
 | 4.1
 | 2.5
 | 2.0{{efn|[[Blue Reform|SIN]] with 0.5%}}
-| style="background:{{Finns Party/meta/color}};color:#000000;" data-sort-value="-1.6"| 1.6
+| style="background:{{party color|Finns Party}};color:#000000;" data-sort-value="-1.6"| 1.6
 | – || –
 |- style="background:#E9E9E9;"
 | [[2019 Finnish parliamentary election|2019 election]]
@@ -1113,6 +1163,6 @@
 | 3.9
 | 2.3
 | 3.7
-| style="background:{{Social Democratic Party of Finland/meta/color}};color:#FFFFFF;"| 0.2
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;"| 0.2
 | – || –
 |}

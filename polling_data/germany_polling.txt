@@ -15,12 +15,220 @@
 ! class="unsortable" style="width:30px;" rowspan="2"| Others
 ! style="width:30px;" rowspan="2"| Lead
 |-
-! style="background:{{Social Democratic Party of Germany/meta/color}};"|
-! style="background:{{CDU/CSU/meta/color}};"|
-! style="background:{{Alliance 90/The Greens/meta/color}};"|
-! style="background:{{Free Democratic Party (Germany)/meta/color}};"|
-! style="background:{{Alternative for Germany/meta/color}};"|
-! style="background:{{The Left (Germany)/meta/color}};"|
+! style="background:{{party color|Social Democratic Party of Germany}};"|
+! style="background:{{party color|CDU/CSU}};"|
+! style="background:{{party color|Alliance 90/The Greens}};"|
+! style="background:{{party color|Free Democratic Party (Germany)}};"|
+! style="background:{{party color|Alternative for Germany}};"|
+! style="background:{{party color|The Left (Germany)}};"|
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|20|23|Dec|2021|year}}
+| 1,195
+| –
+| {{Party shading/SPD}}| '''28'''
+| 23
+| 15
+| 11
+| 11
+| 5
+| 7
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|17|20|Dec|2021|year}}
+| 2,075
+| –
+| {{Party shading/SPD}}| '''27.5'''
+| 21.5
+| 14.5
+| 13
+| 11.5
+| 5.5
+| 6.5
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 6
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| {{opdrts|14|20|Dec|2021|year}}
+| 2,501
+| –
+| {{Party shading/SPD}}| '''26'''
+| 24
+| 16
+| 10
+| 9
+| 5
+| 10
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlkreisprognose.de/2021/12/19/im-bund-spd-bei-30-prozent-union-nach-merz-wahl-erholt/ Wahlkreisprognose]
+| {{opdrts|18|19|Dec|2021|year}}
+| 1,120
+|−
+| {{Party shading/SPD}}| '''30'''
+| 21.5
+| 14.5
+| 11.5
+| 10
+| 4
+| 8,5
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 8.5
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|13|18|Dec|2021|year}}
+| 1,501
+| –
+| {{Party shading/SPD}}| '''27'''
+| 23
+| 14
+| 12
+| 12
+| 5
+| 7
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| {{opdrts|14|16|Dec|2021|year}}
+| 1,436
+| –
+| {{Party shading/SPD}}| '''27'''
+| 22
+| 16
+| 11
+| 11
+| 5
+| 8
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
+| {{opdrts|1|15|Dec|2021|year}}
+| 1,069
+| –
+| {{Party shading/SPD}}| '''26'''
+| 24
+| 15
+| 13
+| 10.5
+| 5
+| 6.5
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 2
+|-
+| [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
+| {{opdrts|10|14|Dec|2021|year}}
+| 1,715
+| –
+| {{Party shading/SPD}}| '''27'''
+| 23
+| 16
+| 10
+| 11
+| 6
+| 8
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| {{opdrts|8|14|Dec|2021|year}}
+| 1,440
+| –
+| {{Party shading/SPD}}| '''27'''
+| 22
+| 16
+| 11
+| 10
+| 5
+| 9
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|10|13|Dec|2021|year}}
+|  2,221
+| –
+| {{Party shading/SPD}}| '''27'''
+| 22
+| 14.5
+| 13
+| 11.5
+| 5.5
+| 6.5
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| {{opdrts|7|13|Dec|2021|year}}
+| 2,509
+| –
+| {{Party shading/SPD}}| '''26'''
+| 23
+| 15
+| 11
+| 10
+| 5
+| 10
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 3
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|6|10|Dec|2021|year}}
+| 1,480
+| –
+| {{Party shading/SPD}}| '''26'''
+| 22
+| 15
+| 13
+| 11
+| 5
+| 8
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| {{opdrts|7|9|Dec|2021|year}}
+| 1,303
+| 21
+| {{Party shading/SPD}}| '''28'''
+| 21
+| 17
+| 12
+| 10
+| 5
+| 7
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 7
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| {{opdrts|7|8|Dec|2021|year}}
+| 1,266
+| –
+| {{Party shading/SPD}}| '''26'''
+| 23
+| 16
+| 12
+| 11
+| 5
+| 7
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 3
+|-
+| [https://www.spiegel.de/politik/deutschland/olaf-scholz-was-fuer-ein-kanzler-wird-nummer-9-a-f25cb49e-ac82-4ab7-9ee9-19b7a4e7b8d6 Civey]
+| {{opdrts|1|8|Dec|2021|year}}
+| 10,043
+| –
+| {{Party shading/SPD}}| '''27'''
+| 23
+| 15
+| 11
+| 11
+| 5
+| 8
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| {{opdrts|1|7|Dec|2021|year}}
+| 1,439
+| –
+| {{Party shading/SPD}}| '''28'''
+| 21
+| 15
+| 11
+| 11
+| 5
+| 9
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 7
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|3|6|Dec|2021|year}}
@@ -33,21 +241,33 @@
 | 11.5
 | 5.5
 | 6.5
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
 |-
-|[https://www.wahlkreisprognose.de/2021/12/06/im-bund-spd-mit-bestem-wert-seit-der-bundestagswahl-union-faellt-zurueck-gruene-und-fdp-gestaerkt/ Wahlkreisprognose]
-|1−6 Dec 2021
-|1,002
-|−
+| [https://www.wahlkreisprognose.de/2021/12/06/im-bund-spd-mit-bestem-wert-seit-der-bundestagswahl-union-faellt-zurueck-gruene-und-fdp-gestaerkt/ Wahlkreisprognose]
+| {{opdrts|1|6|Dec|2021|year}}
+| 1,002
+| −
 | {{Party shading/SPD}}| '''29'''
-|18
-|16.5
-|13.5
-|11
-|4
-|8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 11
-
+| 18
+| 16.5
+| 13.5
+| 11
+| 4
+| 8
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 11
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| {{opdrts|30|6|Dec|2021|year}}
+| 2,503
+| –
+| {{Party shading/SPD}}| '''25'''
+| 22
+| 17
+| 11
+| 10
+| 5
+| 10
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 3
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|29|3|Dec|2021|year}}
@@ -60,7 +280,7 @@
 | 12
 | 5
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 5
 |-
 | [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
 | {{opdrts|29|1|Dec|2021|year}}
@@ -73,7 +293,7 @@
 | 11
 | 5
 | 7
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 2
 |-
 | [https://www.spiegel.de/politik/deutschland/corona-politik-der-neuen-ampelkoalition-regiert-uns-jetzt-ein-general-a-54033786-a86a-4830-93fc-373b7f36c280 Civey]
 | {{opdrts|24|1|Dec|2021|year}}
@@ -86,7 +306,7 @@
 | 11
 | 5
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 2
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
 | {{opdrts|24|30|Nov|2021|year}}
@@ -99,7 +319,7 @@
 | 11
 | 6
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 7
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|26|29|Nov|2021|year}}
@@ -112,7 +332,7 @@
 | 11
 | 5.5
 | 7.5
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
 | {{opdrts|23|29|Nov|2021|year}}
@@ -125,7 +345,7 @@
 | 10
 | 5
 | 10
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 2
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|22|26|Nov|2021|year}}
@@ -138,7 +358,7 @@
 | 12
 | 6
 | 7
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 5
 |-
 | [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
 | {{opdrts|23|25|Nov|2021|year}}
@@ -151,7 +371,7 @@
 | 11
 | 5
 | 7
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 9
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 9
 |-
 | [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
 | {{opdrts|23|24|Nov|2021|year}}
@@ -164,7 +384,7 @@
 | 11
 | 5
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlkreisprognose.de/2021/11/24/bund-rot-gruene-mehrheit-in-impfhochburgen-i-unionsparteien-und-linke-mit-zulauf-fdp-verliert/ Wahlkreisprognose]
 | {{opdrts|22|24|Nov|2021|year}}
@@ -177,7 +397,7 @@
 | 10
 | 5
 | 8.5
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4.5
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4.5
 |-
 | [https://www.spiegel.de/politik/deutschland/ampelkoalition-startet-wer-ueberrascht-mit-welchem-ministerium-a-c7358db4-550d-438d-8d0e-e7c1e0df04ae Civey]
 | {{opdrts|17|24|Nov|2021|year}}
@@ -190,7 +410,7 @@
 | 11
 | 5
 | 9
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 1
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 1
 |-
 | [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
 | {{opdrts|19|23|Nov|2021|year}}
@@ -203,7 +423,7 @@
 | 12
 | 6
 | 7
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 2
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
 | {{opdrts|17|23|Nov|2021|year}}
@@ -216,7 +436,7 @@
 | 11
 | 6
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 2
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|19|22|Nov|2021|year}}
@@ -229,7 +449,7 @@
 | 11
 | 5.5
 | 7.5
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
 | {{opdrts|16|22|Nov|2021|year}}
@@ -242,7 +462,7 @@
 | 10
 | 5
 | 10
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 2
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|15|19|Nov|2021|year}}
@@ -255,7 +475,7 @@
 | 12
 | 5
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 5
 |-
 | [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-merz-unter-unionsanhaengern-favorit-fuer-cdu-vorsitz-a-78ebebc9-602b-4cef-ab9c-648b479f659f Civey]
 | {{opdrts|10|17|Nov|2021|year}}
@@ -268,7 +488,7 @@
 | 11
 | 5
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 3
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 3
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
 | {{opdrts|10|16|Nov|2021|year}}
@@ -281,7 +501,7 @@
 | 11
 | 6
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 3
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 3
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|12|15|Nov|2021|year}}
@@ -294,7 +514,7 @@
 | 11.5
 | 5.5
 | 7
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 6
 |-
 | [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
 | {{opdrts|9|15|Nov|2021|year}}
@@ -307,7 +527,7 @@
 | 10
 | 5
 | 10
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 2
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 2
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|8|12|Nov|2021|year}}
@@ -320,7 +540,7 @@
 | 11
 | 5
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
 | {{opdrts|9|11|Nov|2021|year}}
@@ -333,7 +553,7 @@
 | 11
 | 5
 | 7
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 8
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 8
 |-
 | [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
 | {{opdrts|29|11|Nov|2021|year}}
@@ -346,7 +566,7 @@
 | 9.5
 | 5.5
 | 6
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
 |-
 | [https://www.spiegel.de/politik/deutschland/koalitionsverhandlungen-deutsche-setzen-auf-kernkompetenzen-der-ampelparteien-a-b52e4b95-de0f-4ece-8242-7e79bc2df8b7 Civey]
 | {{opdrts|3|10|Nov|2021|year}}
@@ -359,7 +579,7 @@
 | 11
 | 5
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
 | {{opdrts|3|9|Nov|2021|year}}
@@ -372,7 +592,7 @@
 | 10
 | 6
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|5|8|Nov|2021|year}}
@@ -385,7 +605,7 @@
 | 10.5
 | 5.5
 | 7.7
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 6
 |-
 | [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
 | {{opdrts|2|8|Nov|2021|year}}
@@ -398,7 +618,7 @@
 | 9
 | 5
 | 9
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 3
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 3
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|1|5|Nov|2021|year}}
@@ -411,7 +631,7 @@
 | 11
 | 5
 | 7
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 6
 |-
 | [https://www.wahlkreisprognose.de/2021/11/07/im-bund-zuwachs-fuer-spd-und-union-gruene-verlieren/ Wahlkreisprognose]
 | {{opdrts|31|5|Nov|2021|year}}
@@ -424,7 +644,7 @@
 | 10.5
 | 4
 | 7.5
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7.5
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 7.5
 |-
 | [https://www.wahlrecht.de/umfragen/gms.htm GMS]
 | {{opdrts|1|4|Nov|2021|year}}
@@ -437,7 +657,7 @@
 | 10
 | 4
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 5
 |-
 | [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
 | {{opdrts|2|3|Nov|2021|year}}
@@ -450,7 +670,7 @@
 | 10
 | 5
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 6
 |-
 | [https://www.spiegel.de/politik/deutschland/friedrich-merz-oder-norbert-roettgen-unionsanhaenger-gespalten-spiegel-umfrage-a-7a3fc20c-0f75-481a-9e9d-c803001f192c Civey]
 | {{opdrts|27|3|Nov|2021|year}}
@@ -463,7 +683,7 @@
 | 11
 | 5
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
 | {{opdrts|27|2|Nov|2021|year}}
@@ -476,7 +696,7 @@
 | 10
 | 5
 | 9
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 3
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 3
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|29|1|Nov|2021|year}}
@@ -489,7 +709,7 @@
 | 11.5
 | 5
 | 7
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 7
 |-
 | [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
 | {{opdrts|26|1|Nov|2021|year}}
@@ -502,7 +722,7 @@
 | 9
 | 5
 | 9
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|25|29|Oct|2021|year}}
@@ -515,7 +735,7 @@
 | 11
 | 5
 | 7
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 6
 |-
 | [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
 | {{opdrts|26|28|Oct|2021|year}}
@@ -528,7 +748,7 @@
 | 11
 | 5
 | 7
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 7
 |-
 | [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
 | {{opdrts|26|27|Oct|2021|year}}
@@ -541,7 +761,7 @@
 | 10
 | 4
 | 9
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
 |-
 | [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-zu-ampel-gespraechen-mehrheit-traut-fdp-groesste-verhandlungsmacht-zu-a-d10bf27a-b505-44d3-87e1-6e81d205d128 Civey]
 | {{opdrts|20|27|Oct|2021|year}}
@@ -554,7 +774,7 @@
 | 12
 | 5
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
 | {{opdrts|19|26|Oct|2021|year}}
@@ -567,7 +787,7 @@
 | 11
 | 5
 | 7
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|22|25|Oct|2021|year}}
@@ -580,7 +800,7 @@
 | 11
 | 5
 | 6
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 8
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 8
 |-
 | [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
 | {{opdrts|19|25|Oct|2021|year}}
@@ -593,7 +813,7 @@
 | 9
 | 5
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 5
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|18|22|Oct|2021|year}}
@@ -606,7 +826,7 @@
 | 11
 | 4
 | 7
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 7
 |-
 | [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-mehrheit-wuenscht-sich-steinmeiers-wiederwahl-als-bundespraesident-a-106857de-de60-419b-bf6d-7a107c30b415 Civey]
 | {{opdrts|13|20|Oct|2021|year}}
@@ -619,7 +839,7 @@
 | 11
 | 6
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 5
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 5
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
 | {{opdrts|13|19|Oct|2021|year}}
@@ -632,7 +852,7 @@
 | 11
 | 5
 | 9
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 4
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|15|18|Oct|2021|year}}
@@ -645,7 +865,7 @@
 | 11.5
 | 5
 | 6
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 9.5
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 9.5
 |-
 | [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
 | {{opdrts|12|18|Oct|2021|year}}
@@ -658,7 +878,7 @@
 | 9
 | 5
 | 9
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 6
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|11|15|Oct|2021|year}}
@@ -671,7 +891,7 @@
 | 11
 | 4
 | 9
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 9
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 9
 |-
 | [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
 | {{opdrts|12|14|Oct|2021|year}}
@@ -684,7 +904,7 @@
 | 11
 | 5
 | 7
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 9
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 9
 |-
 | [https://www.wahlrecht.de/umfragen/allensbach.htm Allensbach]
 | {{opdrts|1|14|Oct|2021|year}}
@@ -697,7 +917,7 @@
 | 9.5
 | 5
 | 7.5
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 7
 |-
 | [https://www.spiegel.de/politik/deutschland/ampel-koalition-mehrheit-der-deutschen-befuerwortet-buendnis-von-spd-gruenen-und-fdp-a-bb119e31-7e5e-443d-ab13-60e15614bff4 Civey]
 | {{opdrts|6|13|Oct|2021|year}}
@@ -710,7 +930,7 @@
 | 11
 | 6
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 6
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
 | {{opdrts|6|12|Oct|2021|year}}
@@ -723,7 +943,7 @@
 | 10
 | 5
 | 9
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 7
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|8|11|Oct|2021|year}}
@@ -736,7 +956,7 @@
 | 11
 | 4
 | 6.5
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 9
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 9
 |-
 | [https://web.archive.org/web/20211018174506/http://web.archive.org/screenshot/https://www.wahlkreisprognose.de/trends-im-bund/ Wahlkreisprognose]
 | {{opdrts|7|10|Oct|2021|year}}
@@ -749,7 +969,7 @@
 | 10
 | 4
 | 8.5
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 8
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 8
 |-
 | [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
 | {{opdrts|5|11|Oct|2021|year}}
@@ -762,7 +982,7 @@
 | 9
 | 5
 | 10
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 6
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|4|8|Oct|2021|year}}
@@ -775,7 +995,7 @@
 | 10
 | 5
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 8
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 8
 |-
 | [https://www.spiegel.de/politik/deutschland/armin-laschet-unionsparteien-im-sinkflug-spiegel-umfrage-a-ed6422a7-378f-43c2-8205-eb7431d921ae Civey]
 | {{opdrts|29|6|Oct|2021|year}}
@@ -788,7 +1008,7 @@
 | 11
 | 6
 | 7
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 9
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 9
 |-
 | [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
 | {{opdrts|28|5|Oct|2021|year}}
@@ -801,7 +1021,7 @@
 | 10
 | 5
 | 9
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 6
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|1|4|Oct|2021|year}}
@@ -814,7 +1034,7 @@
 | 10
 | 4.5
 | 7.5
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 7
 |-
 | [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
 | {{opdrts|27|4|Oct|2021|year}}
@@ -827,7 +1047,7 @@
 | 9
 | 5
 | 10
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 6
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 6
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|27|1|Oct|2021|year}}
@@ -840,7 +1060,7 @@
 | 10
 | 5
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 7
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 7
 |-
 | [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
 | {{opdrts|28|30|Sep|2021|year}}
@@ -853,7 +1073,7 @@
 | 10
 | 5
 | 8
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 8
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 8
 |- style="background:#E9E9E9;"
 | [[2021 German federal election|2021 federal election]]
 | {{opdrts||26|Sep|2021|year}}
@@ -866,5 +1086,5 @@
 | 10.3
 | 4.9
 | 8.7<ref name=FW>[[Free Voters|FW]]: 2.4</ref>
-| style="background:{{Social Democratic Party of Germany/meta/color}};color:#FFFFFF;"| 1.6
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 1.6
 |}

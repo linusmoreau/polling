@@ -172,12 +172,6 @@ def transcribe_table(content, key, choice, begin, start):
                         'United Right', 'Civic Coalition', 'The Left', 'Polish Coalition', 'Confederation',
                         'Other', 'lead', 'end']
                 reset = True
-            elif 'Dismissal of Deputy Prime Minister [[Jarosław Gowin]] and several deputy ministers' in line:
-                nkey = ['firm', 'date', 'sample',
-                        'United Right', 'Civic Coalition', 'The Left', 'Polish Coalition', 'Kukiz\'15', 'Confederation',
-                        'Poland 2050',
-                        'Other', 'lead', 'end']
-                reset = True
         elif choice == 'Austria':
             if '=== By state ===' in line:
                 break

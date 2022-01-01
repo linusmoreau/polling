@@ -9,7 +9,7 @@ Results are published that include only the answers of respondents who would vot
 ! rowspan="2" |Polling<br>firm
 ! rowspan="2" |Fieldwork<br>date
 ! rowspan="2" |Sample<br>size
-![[OĽaNO]]
+![[Ordinary People and Independent Personalities|OĽaNO]]
 ![[Direction – Slovak Social Democracy|SMER<br>–SSD]]
 ![[We Are Family (Slovakia)|SR]]
 ![[People's Party Our Slovakia|ĽSNS]]
@@ -17,7 +17,7 @@ Results are published that include only the answers of respondents who would vot
 ![[Freedom and Solidarity|SaS]]
 ![[For the People (Slovakia)|ZĽ]]
 ![[Christian Democratic Movement|KDH]]
-![[Alliance (Slovakia)|ALI]]
+![[Alliance (Slovak political party)|ALI]]
 ![[Voice – Social Democracy|HLAS<br>–SD]]
 ![[Republic (Slovakia)|REP]]
 ! rowspan="2" |Others
@@ -31,13 +31,47 @@ Results are published that include only the answers of respondents who would vot
 !style="background:#a7cf35;"|
 !style="background:#fdbb12;"|
 !style="background:#173a70;"|
-!style="background:#403f3b;"|
+!style="background:#F48B24;"|
 !style="background:#f90311;"|
 !style="background:#e30512;"|
 |-
+|Polis{{Ref|https://spravy.pravda.sk/domace/clanok/611384-prieskum-polisu-o-preferenciach-smer-sa-posunul-uz-na-druhe-miesto/}}
+|17–22<br>Dec 2021
+|1,000
+|6.1%<br>{{font|size=80%|font=Arial|text=11}}
+|16.8%<br>{{font|size=80%|font=Arial|text=29}}
+|6.1%<br>{{font|size=80%|font=Arial|text=11}}
+|5.2%<br>{{font|size=80%|font=Arial|text=9}}
+|6.0%<br>{{font|size=80%|font=Arial|text=10}}
+|8.8%<br>{{font|size=80%|font=Arial|text=15}}
+|3.6%<br>{{font|size=80%|font=Arial|text=0}}
+|5.9%<br>{{font|size=80%|font=Arial|text=10}}
+|5.5%<br>{{font|size=80%|font=Arial|text=10}}
+| style="background:#f9acb1;" | '''19.9%'''<br>{{font|size=80%|font=Arial|text=35}}
+|5.8%<br>{{font|size=80%|font=Arial|text=10}}
+|7.1%
+| style="background:#f90311;" | 3.1%
+|-
+|AKO{{Ref|https://www.aktuality.sk/clanok/s0kjcj6/prieskum-smer-dobieha-druhu-sas-s-hlasom-by-mali-sestdesiat-poslancov/}}
+|7–12<br>Dec 2021
+|1,000
+|9.0%<br>{{font|size=80%|font=Arial|text=16}}
+|13.7%<br>{{font|size=80%|font=Arial|text=25}}
+|6.5%<br>{{font|size=80%|font=Arial|text=12}}
+|3.4%<br>{{font|size=80%|font=Arial|text=0}}
+|8.6%<br>{{font|size=80%|font=Arial|text=15}}
+|13.9%<br>{{font|size=80%|font=Arial|text=25}}
+|2.4%<br>{{font|size=80%|font=Arial|text=0}}
+|6.0%<br>{{font|size=80%|font=Arial|text=11}}
+|3.7%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''19.0%'''<br>{{font|size=80%|font=Arial|text=35}}
+|5.9%<br>{{font|size=80%|font=Arial|text=11}}
+|7.9%
+| style="background:#f90311;" | 5.1%
+|-
 |Focus{{Ref|1=https://dennikn.sk/2627916/focus-hlas-so-smerom-by-volila-tretina-ludi-sas-je-tretia-republika-mierne-posilnila/?ref=tit}}
 |16–23<br>Nov 2021
-|1,000
+|1,005
 |7.9%<br>{{font|size=80%|font=Arial|text=15}}
 |15.0%<br>{{font|size=80%|font=Arial|text=28}}
 |6.1%<br>{{font|size=80%|font=Arial|text=11}}

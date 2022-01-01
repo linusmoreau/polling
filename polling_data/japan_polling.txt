@@ -16,15 +16,15 @@
 ! rowspan="2" class="unsortable" width="38px" | {{abbr|Und.|Undecided}}/<br />{{abbr|no ans.|no answer}}
 ! rowspan="2" class="unsortable" width="38px" | Lead
 |-
-| style="background-color: {{Liberal Democratic Party (Japan)/meta/color}}" |
-| style="background-color: {{Constitutional Democratic Party of Japan/meta/color}}" |
-| style="background-color: {{New Komeito Party/meta/color}}" |
-| style="background-color: {{Japanese Communist Party/meta/color}}" |
-| style="background-color: {{Nippon Ishin no Kai/meta/color}}" |
-| style="background-color: {{Democratic Party for the People/meta/color}}" |
-| style="background-color: {{Social Democratic Party (Japan)/meta/color}}" |
-| style="background-color: {{Reiwa Shinsengumi/meta/color}}" |
-| style="background-color: {{The Party to Protect the People from NHK/meta/color}}" |
+| style="background-color: {{party color|Liberal Democratic Party (Japan)}}" |
+| style="background-color: {{party color|Constitutional Democratic Party of Japan}}" |
+| style="background-color: {{party color|New Komeito Party}}" |
+| style="background-color: {{party color|Japanese Communist Party}}" |
+| style="background-color: {{party color|Nippon Ishin no Kai}}" |
+| style="background-color: {{party color|Democratic Party for the People}}" |
+| style="background-color: {{party color|Social Democratic Party (Japan)}}" |
+| style="background-color: {{party color|Reiwa Shinsengumi}}" |
+| style="background-color: {{party color|The Party to Protect the People from NHK}}" |
 |-
 |style="background:#E9E9E9;" data-sort-value="2021-10-31"|31 Oct 2021
 |style="background:#E9E9E9;"|[[2021 Japanese general election|2021 general election]]
@@ -39,7 +39,7 @@
 |style="background:#E9E9E9;"|?
 |style="background:#E9E9E9;"|1.7
 |style="background:#E9E9E9;" {{n/a}}
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''14.7'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''14.7'''
 |-
 |23–24 Oct
 |[https://www.youtube.com/watch?v=Lz8rVExPVbM&t=910s go2senkyo]
@@ -54,7 +54,7 @@
 |0.9
 |0.8
 |11.3
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''10.7'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''10.7'''
 |-
 |23–24 Oct
 |[https://nordot.app/824941511469023232?c=39546741839462401 Kyodo News]
@@ -69,7 +69,7 @@
 |
 |
 |
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white"|'''18.3'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white"|'''18.3'''
 |-
 |19–20 Oct
 |[https://www.asahi.com/articles/ASPBN7HHWPBLUZPS001.html Asahi Shimbun]
@@ -84,7 +84,7 @@
 |1
 |2
 |23
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white"|'''25'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white"|'''25'''
 |-
 |16–17 Oct
 |[https://www.nikkei.com/article/DGXZQOUA172OG0X11C21A0000000/ Kyodo News]
@@ -99,7 +99,7 @@
 |0.1
 |
 |39.4
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''19.9'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''19.9'''
 |-
 |16–17 Oct
 |[https://www.youtube.com/watch?v=jo8TgUuOVO4 go2senkyo]{{Efn|name="int_ex"}}
@@ -114,7 +114,7 @@
 |0.5
 |2.1
 |14.3
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''12.1'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''12.1'''
 |-
 |14–15 Oct
 |[https://www.yomiuri.co.jp/election/yoron-chosa/20211015-OYT1T50206/ Yomiuri Shimbun]
@@ -129,7 +129,7 @@
 |0
 |0
 |24
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''32'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''32'''
 |-
 |8–11 Oct
 |[https://news.yahoo.co.jp/articles/4532fa512165c3d8a2f0dd7ee742dc05cc01bc8a Jiji Press]
@@ -144,7 +144,7 @@
 |0.4
 |
 |28.3
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''31.8'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''31.8'''
 |-
 |9–10 Oct
 |[https://www.minyu-net.com/release/prwire/N202110131511.php Green Ship]
@@ -159,7 +159,7 @@
 |1
 |1
 |16.9
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''17.3'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''17.3'''
 |-
 |9–10 Oct
 |[https://www.fnn.jp/articles/-/251702 FNN-Sankei]
@@ -174,7 +174,7 @@
 |0.1
 |4.1
 |35.0
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''29.6'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''29.6'''
 |-
 |9–10 Oct
 |[https://news.tbs.co.jp/newsi_sp/yoron/backnumber/20211009/q1-1.html JNN]
@@ -189,7 +189,7 @@
 |0.1
 |3.8
 |33.7
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''28.5'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''28.5'''
 |-
 |4–5 Oct
 |[https://www.asahi.com/articles/ASPB57D2BPB4UZPS001.html?iref=pc_extlink Asahi Shimbun]
@@ -204,7 +204,7 @@
 |1
 |2
 |24
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''28'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''28'''
 |-
 |4–5 Oct
 |[https://www.yomiuri.co.jp/election/yoron-chosa/20211005-OYT1T50235/ Yomiuri Shimbun]
@@ -219,7 +219,7 @@
 |0
 |1
 |24
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''35'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''35'''
 |-
 |4–5 Oct
 |[https://www.sankei.com/article/20211005-K7DZPXGIZNKRDKVWJAEILATZHQ/ Kyodo News]
@@ -234,7 +234,7 @@
 |
 |
 |
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''29.7'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''29.7'''
 |-
 |4–5 Oct
 |[https://vdata.nikkei.com/newsgraphics/cabinet-approval-rating/ Nikkei]
@@ -249,7 +249,7 @@
 |
 |
 |20
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''42'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''42'''
 |-
 ! 4 Oct
 ! colspan="13" | [[Fumio Kishida]] assumes office as the Prime Minister and President of the [[Liberal Democratic Party (Japan)|LDP]].
@@ -267,7 +267,7 @@
 |
 |
 |20
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''42'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''42'''
 |-
 |18–19 Sep
 |[https://www.tv-asahi.co.jp/hst/poll/202109/ ANN]
@@ -282,7 +282,7 @@
 |0
 |3.3
 |32.7
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''32.8'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''32.8'''
 |-
 |18–19 Sep
 |[https://www.fnn.jp/articles/-/241489 FNN-Sankei]
@@ -297,7 +297,7 @@
 |0.1
 |4.4
 |30.9
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''35.5'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''35.5'''
 |-
 |18 Sep
 |[https://mainichi.jp/articles/20210918/k00/00m/010/138000c.amp?__twitter_impression=true Mainichi Shimbun]
@@ -312,7 +312,7 @@
 |
 |
 |28
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''21'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''21'''
 |-
 |10–13 Sep
 |[https://www.jiji.com/jc/article?k=2021091700736&g=pol Jiji Press]
@@ -327,7 +327,7 @@
 |
 |
 |22.5
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''39.1'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''39.1'''
 |-
 |11–12 Sep
 |[https://www.asahi.com/articles/ASP9F4GB2P9DUZPS001.html Asahi Shimbun]
@@ -342,7 +342,7 @@
 |0
 |2
 |22
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''32'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''32'''
 |-
 |9-11 Sep
 |[https://vdata.nikkei.com/newsgraphics/cabinet-approval-rating/# Nikkei]
@@ -357,7 +357,7 @@
 |0
 |0
 |22
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''41'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''41'''
 |-
 |4–5 Sep
 |[https://www.green-ship.co.jp/survey/%E5%86%85%E9%96%A3%E6%94%AF%E6%8C%81%E7%8E%87%E8%AA%BF%E6%9F%BB%E3%80%802021-9/ Green Ship]
@@ -372,7 +372,7 @@
 |0.2
 |1.1
 |38.8
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''29.7'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''29.7'''
 |-
 |4–5 Sep
 |[https://www.yomiuri.co.jp/election/yoron-chosa/20210906-OYT1T50066/ Yomiuri Shimbun]
@@ -387,7 +387,7 @@
 |0
 |0
 |31
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''31'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''31'''
 |-
 ! 3 Sep
 ! colspan="13" | [[Yoshihide Suga]] announces he will not seek re-election as President of the [[Liberal Democratic Party (Japan)|LDP]].
@@ -405,7 +405,7 @@
 |1
 |0
 |25
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''29'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''29'''
 |-
 |28 Aug
 |[https://mainichi.jp/articles/20210828/k00/00m/010/251000c Mainichi Shimbun]
@@ -420,7 +420,7 @@
 |
 |
 |37
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''10'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''10'''
 |-
 |21–22 Aug
 |[https://www.tv-asahi.co.jp/hst/poll/202108/ ANN]
@@ -435,7 +435,7 @@
 |0.1
 |3.6
 |43.1
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''24.1'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''24.1'''
 |-
 |21–22 Aug
 |[https://www.fnn.jp/articles/-/228023 FNN-Sankei]
@@ -450,7 +450,7 @@
 |0.5
 |4.5
 |35.0
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''25.8'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''25.8'''
 |-
 |14–15 Aug
 |[https://www.youtube.com/watch?v=mJ1uPDa1tCo go2senkyo]{{Efn|name="int_ex"}}
@@ -465,7 +465,7 @@
 |0.4
 |
 |23.4
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''11.3'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''11.3'''
 |-
 |7–9 Aug
 |[https://www.yomiuri.co.jp/election/yoron-chosa/20210809-OYT1T50140/ Yomiuri-NNN]
@@ -480,7 +480,7 @@
 |0
 |0
 |31
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''25'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''25'''
 |-
 |7–8 Aug
 |[https://www.asahi.com/articles/ASP8873TTP86UZPS004.html Asahi Shimbun]
@@ -495,7 +495,7 @@
 |1
 |1
 |26
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''20'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''20'''
 |-
 |17–18 Jul
 |[https://www.fnn.jp/articles/-/212369 FNN-Sankei]
@@ -510,7 +510,7 @@
 |0.0
 |8.6
 |35.6
-| style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''21.5'''
+| style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''21.5'''
 |-
 |10–11 Jul
 |[https://www.youtube.com/watch?v=5aEHWylUt7I go2senkyo]{{Efn|name="int_ex"}}
@@ -525,7 +525,7 @@
 |0.2
 |
 |21.7
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''10.4'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''10.4'''
 |-
 |9-11 Jul
 |[https://www.yomiuri.co.jp/election/yoron-chosa/20210712-OYT1T50194/ Yomiuri-NNN]
@@ -540,7 +540,7 @@
 |0
 |0
 |28
-|style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''29'''
+|style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''29'''
 |-
 |25–27 Jun
 |[https://vdata.nikkei.com/newsgraphics/cabinet-approval-rating/ Nikkei]
@@ -555,7 +555,7 @@
 |{{n/a}}
 |{{n/a}}
 |27
-| style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''27'''
+| style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''27'''
 |-
 |19–20 Jun
 |[https://www.fnn.jp/articles/-/198922 FNN-Sankei]
@@ -570,7 +570,7 @@
 |0.3
 |2.8
 |34.6
-| style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''23.9'''
+| style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''23.9'''
 |-
 |19–20 Jun
 |[https://www.asahi.com/articles/ASP6N5RHMP6LUZPS008.html Asahi]
@@ -585,7 +585,7 @@
 |0
 |3
 |23
-| style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''21'''
+| style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''21'''
 |-
 |12–13 Jun
 |[https://go2senkyo.com/articles/2021/06/16/59633.html go2senkyo]{{Efn|name="int_ex"}}
@@ -600,7 +600,7 @@
 |0.3
 |{{n/a}}
 |22.6
-| style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" |'''8'''
+| style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''8'''
 |-
 |15–16 May 
 |[https://go2senkyo.com/articles/2021/05/20/58902.html go2senkyo]{{Efn|name="int_ex"}}
@@ -615,7 +615,7 @@
 |0.6
 |{{n/a}}
 |21.1
-| style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''9.8'''
+| style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''9.8'''
 |-
 | 15–16 May
 | [https://www.fnn.jp/articles/-/183238 FNN-Sankei]
@@ -630,7 +630,7 @@
 |0.5
 |2.2
 |40.4
-| style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''22.4'''
+| style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''22.4'''
 |-
 | 15–16 May
 | [https://www.asahi.com/articles/ASP5J7H1RP5JUZPS003.html Asahi Shimbun]
@@ -646,7 +646,7 @@
 |2
 
 |22
-| style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''18'''
+| style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''18'''
 |-
 | 3 Mar – 12 Apr
 | [https://www.asahi.com/politics/yoron/shuinsen2021/ Asahi Shimbun]
@@ -661,7 +661,7 @@
 |1
 |2
 |20
-| style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''30'''
+| style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''30'''
 |-
 | 10–11 Apr
 | [https://www.asahi.com/articles/ASP4F43DFP4CUZPS004.html Asahi Shimbun]
@@ -676,7 +676,7 @@
 |0
 |2
 |19
-| style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''26'''
+| style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''26'''
 |-
 | 2–4 April
 | [https://www.yomiuri.co.jp/election/yoron-chosa/20210404-OYT1T50211/ Yomiuri-NNN]
@@ -691,7 +691,7 @@
 |1
 |0
 |25
-| style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''31'''
+| style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''31'''
 |-
 | 20–21 Mar
 | [https://www.asahi.com/articles/ASP3P7JHVP3MUZPS008.html Asahi Shimbun]
@@ -706,7 +706,7 @@
 |0
 |2
 |20
-| style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''27'''
+| style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''27'''
 |-
 | 13–14 Feb
 | [https://www.asahi.com/articles/ASP2J4RKFP2HUZPS007.html Asahi Shimbun]
@@ -721,7 +721,7 @@
 |1
 |2
 |18
-| style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''21'''
+| style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''21'''
 |-
 | 5–7 Feb
 | [https://www.yomiuri.co.jp/election/yoron-chosa/20210207-OYT1T50123/ Yomiuri-NNN]
@@ -736,7 +736,7 @@
 |1
 |0
 |28
-| style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''29'''
+| style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''29'''
 |-
 | 15–17 Jan
 | [https://www.yomiuri.co.jp/election/yoron-chosa/20210117-OYT1T50112/ Yomiuri-NNN]
@@ -751,5 +751,5 @@
 |1
 |1
 |28
-| style="background:{{Liberal Democratic Party (Japan)/meta/color}}; color:white" | '''27'''
+| style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''27'''
 |}

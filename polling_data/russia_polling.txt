@@ -3,146 +3,209 @@ Opinion polls conducted prior to the campaign and the announcement of the list o
 
 ===2021===
 {|class=wikitable style="font-size:95%; line-height:14px; text-align:center"
-!style=width:200px; rowspan=2|Fieldwork date
-!style=width:150px; rowspan=2|Polling firm
+!style=width:160px; rowspan=2|Fieldwork date
+!style=width:120px; rowspan=2|Polling firm
 !style=width:40px; rowspan=2|Sample<br />size
-! style="width:60px;"| [[United Russia|UR]]
-! style="width:60px;"| [[Communist Party of the Russian Federation|CPRF]]
-! style="width:60px;"| [[Liberal Democratic Party of Russia|LDPR]]
-! style="width:60px;"| [[A Just Russia — For Truth|SRZP]]
-! style="width:60px;"| [[New People (political party)|NP]]
-! style="width:60px;"| [[Russian Party of Pensioners for Social Justice|RPPSJ]]
-! style="width:60px;"| [[Yabloko]]
-! style="width:60px;"| [[Communists of Russia|CR]]
-! style="width:60px;"| [[Russian Ecological Party "The Greens"|Greens]]
-! style="width:60px;"| [[Rodina (political party)|Rodina]]
-! style="width:60px;"| [[Russian Party of Freedom and Justice|RPFJ]]
-! style="width:60px;"| [[Green Alternative (Russia)|GA]]
-! style="width:60px;"| [[Party of Growth|PG]]
-! style="width:60px;"| [[Civic Platform (Russia)|CP]]
-!style="width:60px;" rowspan=2|Others
-!style="width:60px;" rowspan=2|Undecided
-!style="width:60px;" rowspan=2|Abstention
-!style="width:60px;" rowspan="2"|Lead
+!style="width:50px;"| [[United Russia|UR]]
+!style="width:50px;"| [[Communist Party of the Russian Federation|CPRF]]
+!style="width:50px;"| [[Liberal Democratic Party of Russia|LDPR]]
+!style="width:50px;"| [[A Just Russia — For Truth|SRZP]]
+!style="width:50px;"| [[New People (political party)|NP]]
+!style="width:50px;"| [[Russian Party of Pensioners for Social Justice|RPPSJ]]
+!style="width:50px;"| [[Yabloko]]
+!style="width:50px;"| [[Communists of Russia|CR]]
+!style="width:50px;"| [[Russian Ecological Party "The Greens"|Greens]]
+!style="width:50px;"| [[Rodina (political party)|Rodina]]
+!style="width:50px;"| [[Russian Party of Freedom and Justice|RPFJ]]
+!style="width:50px;"| [[Green Alternative (Russia)|GA]]
+!style="width:50px;"| [[Party of Growth|PG]]
+!style="width:50px;"| [[Civic Platform (Russia)|CP]]
+!style="width:50px;" rowspan=2|Others
+!style="width:50px;" rowspan=2|Undecided
+!style="width:50px;" rowspan=2|Abstention
+!style="width:50px;" rowspan="2"|Lead
 |-
-|bgcolor={{United Russia/meta/color}}|
-|bgcolor={{Communist Party of the Russian Federation/meta/color}}|
-|bgcolor={{Liberal Democratic Party of Russia/meta/color}}|
-|bgcolor={{A Just Russia/meta/color}}|
-|bgcolor={{New People (political party)/meta/color}}|
-|bgcolor={{Russian Party of Pensioners for Social Justice/meta/color}}|
-|bgcolor={{Yabloko/meta/color}}|
-|bgcolor={{Communists of Russia/meta/color}}|
-|bgcolor={{Russian Ecological Party "The Greens"/meta/color}}|
-|bgcolor={{Rodina (political party)/meta/color}}|
-|bgcolor={{Russian Party of Freedom and Justice/meta/color}}|
-|bgcolor={{Green Alternative (Russia)/meta/color}}|
-|bgcolor={{Party of Growth/meta/color}}|
-|bgcolor={{Civic Platform (Russia)/meta/color}}|
+|bgcolor={{party color|United Russia}}|
+|bgcolor={{party color|Communist Party of the Russian Federation}}|
+|bgcolor={{party color|Liberal Democratic Party of Russia}}|
+|bgcolor={{party color|A Just Russia}}|
+|bgcolor={{party color|New People (political party)}}|
+|bgcolor={{party color|Russian Party of Pensioners for Social Justice}}|
+|bgcolor={{party color|Yabloko}}|
+|bgcolor={{party color|Communists of Russia}}|
+|bgcolor={{party color|Russian Ecological Party "The Greens"}}|
+|bgcolor={{party color|Rodina (political party)}}|
+|bgcolor={{party color|Russian Party of Freedom and Justice}}|
+|bgcolor={{party color|Green Alternative (Russia)}}|
+|bgcolor={{party color|Party of Growth}}|
+|bgcolor={{party color|Civic Platform (Russia)}}|
 |-
-|26–28 November 2021
+|24–26 Dec 2021
+|[https://media.fom.ru/fom-bd/d51pi2021.pdf FOM]
+|3,000
+|style="background:#B3E0FF" |'''30'''||'''15'''||'''7'''||'''5'''||'''5'''||2||1||1||1||0||0||0||0||0||–||12||17
+|style="background:#0C2C84; color:white;"|15
+|-
+|16–22 Dec 2021
+|[https://www.levada.ru/2021/12/23/odobrenie-institutov-polozhenie-del-v-strane-rejtingi-politikov-i-partij/ Levada Center]
+|1,640
+|style="background:#B3E0FF" |'''27'''||'''15'''||'''8'''||'''5'''||'''5'''||1||1||0||1||0||1||colspan=4|0||colspan=2|36
+|style="background:#0C2C84; color:white;"|12
+|-
+|17–19 Dec 2021
+|[https://media.fom.ru/fom-bd/d50pi2021.pdf FOM]
+|3,000
+|style="background:#B3E0FF" |'''31'''||'''15'''||'''7'''||'''5'''||'''5'''||1||1||1||1||0||0||1||0||0||–||12||18
+|style="background:#0C2C84; color:white;"|16
+|-
+|13–19 Dec 2021
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/bolshaja-press-konferencija-prezidenta-rf-2021-i-reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-2021-12-24 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''29.5'''||'''17.9'''||'''7.1'''||'''6.7'''||'''7.7'''||colspan=10|9.8||9.6||9.9
+|style="background:#0C2C84; color:white;"|11.6
+|-
+|10–12 Dec 2021
+|[https://media.fom.ru/fom-bd/d49pi2021.pdf FOM]
+|3,000
+|style="background:#B3E0FF" |'''32'''||'''15'''||'''8'''||'''5'''||'''6'''||1||1||1||1||1||0||0||0||0||–||13||14
+|style="background:#0C2C84; color:white;"|17
+|-
+|6–12 Dec 2021
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20211217 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''27.7'''||'''18.1'''||'''7.4'''||'''6.5'''||'''7.9'''||colspan=10|10.6||9.5||10.4
+|style="background:#0C2C84; color:white;"|9.6
+|-
+|3–5 Dec 2021
+|[https://media.fom.ru/fom-bd/d48pi2021.pdf FOM]
+|3,000
+|style="background:#B3E0FF" |'''32'''||'''16'''||'''9'''||'''5'''||'''6'''||1||1||1||1||0||0||0||0||0||–||14||11
+|style="background:#0C2C84; color:white;"|16
+|-
+|29 Nov–5 Dec 2021
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20211210 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''28.3'''||'''18.2'''||'''7.7'''||'''6.9'''||'''8.6'''||colspan=10|10.1||8.7||9.8
+|style="background:#0C2C84; color:white;"|10.1
+|-
+|4 Dec 2021
+| colspan="20" |'''[[Dmitry Medvedev]] is re-elected as the leader of the [[United Russia]]<ref>{{Cite web|title=Дмитрий Медведев переизбран председателем "Единой России"|url=https://rg.ru/2021/12/06/dmitrij-medvedev-pereizbran-predsedatelem-edinoj-rossii.html|access-date=2021-12-10|website=RG.RU}}</ref>'''
+|-
+|25 Nov–1 Dec 2021
+|[https://www.levada.ru/2021/12/09/elektoralnye-rejtingi-partij-i-prezidenta/ Levada Center]
+|1,600
+|style="background:#B3E0FF" |'''26'''||'''13'''||'''8'''||4||'''5'''||1||1||0||1||0||1||colspan=4|0||9||28
+|style="background:#0C2C84; color:white;"|13
+|-
+|26–28 Nov 2021
 |[https://media.fom.ru/fom-bd/d47pi2021.pdf FOM]
 |3,000
 |style="background:#B3E0FF" |'''31'''||'''15'''||'''9'''||'''5'''||'''6'''||2||1||1||1||0||0||0||0||0||–||13||14
 |style="background:#0C2C84; color:white;"|16
 |-
-|22–28 November 2021
+|22–28 Nov 2021
 |[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20211203 WCIOM]
 |11,200
-|style="background:#B3E0FF" |'''28.6'''||'''18.0'''||'''7.8'''||'''6.9'''||'''8.1'''|| || || || || || || || || ||10.2||8.9||9.3
+|style="background:#B3E0FF" |'''28.6'''||'''18.0'''||'''7.8'''||'''6.9'''||'''8.1'''||colspan=10|10.2||8.9||9.3
 |style="background:#0C2C84; color:white;"|10.6
 |-
-|19–21 November 2021
+|19–21 Nov 2021
 |[https://media.fom.ru/fom-bd/d46pi2021.pdf FOM]
 |3,000
 |style="background:#B3E0FF" |'''30'''||'''15'''||'''8'''||'''5'''||'''6'''||1||1||1||1||0||0||0||0||0||–||12||16
 |style="background:#0C2C84; color:white;"|15
 |-
-|15–21 November 2021
+|15–21 Nov 2021
 |[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20211126 WCIOM]
 |11,200
-|style="background:#B3E0FF" |'''29.2'''||'''18.6'''||'''7.6'''||'''6.9'''||'''8.2'''|| || || || || || || || || ||10.1||8.7||8.8
+|style="background:#B3E0FF" |'''29.2'''||'''18.6'''||'''7.6'''||'''6.9'''||'''8.2'''||colspan=10|10.1||8.7||8.8
 |style="background:#0C2C84; color:white;"|10.6
 |-
-|12–14 November 2021
+|12–14 Nov 2021
 |[https://media.fom.ru/fom-bd/d45pi2021.pdf FOM]
 |3,000
 |style="background:#B3E0FF" |'''30'''||'''15'''||'''9'''||'''5'''||'''6'''||1||2||1||1||1||0||0||0||0||–||12||14
 |style="background:#0C2C84; color:white;"|15
 |-
-|8–14 November 2021
+|8–14 Nov 2021
 |[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20211119 WCIOM]
 |11,200
-|style="background:#B3E0FF" |'''28.9'''||'''18.7'''||'''7.9'''||'''6.5'''||'''8.1'''|| || || || || || || || || ||10.8||8.5||9.3
+|style="background:#B3E0FF" |'''28.9'''||'''18.7'''||'''7.9'''||'''6.5'''||'''8.1'''||colspan=10|10.8||8.5||9.3
 |style="background:#0C2C84; color:white;"|10.2
 |-
-|5–7 November 2021
+|5–7 Nov 2021
 |[https://media.fom.ru/fom-bd/d44pi2021.pdf FOM]
 |3,000
 |style="background:#B3E0FF" |'''31'''||'''15'''||'''10'''||'''6'''||'''7'''||2||2||1||1||1||1||1||0||0||–||13||11
 |style="background:#0C2C84; color:white;"|16
 |-
-|1–7 November 2021
+|1–7 Nov 2021
 |[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-12-11-2021 WCIOM]
 |11,200
-|style="background:#B3E0FF" |'''30.2'''||'''17.7'''||'''7.4'''||'''6.6'''||'''7.8'''|| || || || || || || || || ||10.7||8.9||9.1
+|style="background:#B3E0FF" |'''30.2'''||'''17.7'''||'''7.4'''||'''6.6'''||'''7.8'''||colspan=10|10.7||8.9||9.1
 |style="background:#0C2C84; color:white;"|12.5
 |-
-|29–31 October 2021
+|29–31 Oct 2021
 |[https://media.fom.ru/fom-bd/d43pi2021.pdf FOM]
 |3,000
 |style="background:#B3E0FF" |'''31'''||'''16'''||'''9'''||'''6'''||'''6'''||2||1||1||1||0||0||1||0||0||–||12||13
 |style="background:#0C2C84; color:white;"|15
 |-
-|25–31 October 2021
+|25–31 Oct 2021
 |[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-12-11-2021 WCIOM]
 |11,200
-|style="background:#B3E0FF" |'''28.6'''||'''19.4'''||'''8.1'''||'''7.1'''||'''8.7'''|| || || || || || || || || ||9.9||8.0||8.7
+|style="background:#B3E0FF" |'''28.6'''||'''19.4'''||'''8.1'''||'''7.1'''||'''8.7'''||colspan=10|9.9||8.0||8.7
 |style="background:#0C2C84; color:white;"|9.2
 |-
-|22–24 October 2021
+|21–27 Oct 2021
+|[https://www.levada.ru/2021/10/28/odobrenie-institutov-polozhenie-del-v-strane-doverie-politikam-i-elektoralnye-rejtingi-partij/ Levada Center]
+|1,636
+|style="background:#B3E0FF" |'''29'''||'''14'''||'''8'''||'''5'''||'''5'''||1||1||0||1||1||colspan=5|2||7||23
+|style="background:#0C2C84; color:white;"|15
+|-
+|22–24 Oct 2021
 |[https://media.fom.ru/fom-bd/d42pi2021.pdf FOM]
 |3,000
 |style="background:#B3E0FF" |'''29'''||'''17'''||'''8'''||'''6'''||'''6'''||2||1||1||1||0||0||0||0||0||–||11||16
 |style="background:#0C2C84; color:white;"|12
 |-
-|18–24 October 2021
+|18–24 Oct 2021
 |[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-29102021 WCIOM]
 |11,200
-|style="background:#B3E0FF" |'''29.8'''||'''19.4'''||'''7.3'''||'''6.9'''||'''8.5'''|| || || || || || || || || ||11.1||7.9||7.7
+|style="background:#B3E0FF" |'''29.8'''||'''19.4'''||'''7.3'''||'''6.9'''||'''8.5'''||colspan=10|11.1||7.9||7.7
 |style="background:#0C2C84; color:white;"|10.4
 |-
-|15–17 October 2021
+|15–17 Oct 2021
 |[https://media.fom.ru/fom-bd/d41pi2021.pdf FOM]
 |3,000
 |style="background:#B3E0FF" |'''30'''||'''18'''||'''9'''||'''6'''||'''6'''||1||1||1||2||0||0||0||0||0||–||12||13
 |style="background:#0C2C84; color:white;"|12
 |-
-|11–17 October 2021
+|11–17 Oct 2021
 |[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-22102021 WCIOM]
 |11,200
-|style="background:#B3E0FF" |'''30.1'''||'''19.8'''||'''7.7'''||'''6.0'''||'''8.6'''|| || || || || || || || || ||10.4||7.7||8.5
+|style="background:#B3E0FF" |'''30.1'''||'''19.8'''||'''7.7'''||'''6.0'''||'''8.6'''||colspan=10|10.4||7.7||8.5
 |style="background:#0C2C84; color:white;"|10.3
 |-
-|4–10 October 2021
+|4–10 Oct 2021
 |[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-15102021 WCIOM]
 |11,200
-|style="background:#B3E0FF" |'''29.8'''||'''20.2'''||'''7.5'''||'''6.3'''||'''8.6'''|| || || || || || || || || ||11.1||6.9||8.1
+|style="background:#B3E0FF" |'''29.8'''||'''20.2'''||'''7.5'''||'''6.3'''||'''8.6'''||colspan=10|11.1||6.9||8.1
 |style="background:#0C2C84; color:white;"|9.6
 |-
-|27 September–3 October 2021
+|27 Sep–3 Oct 2021
 |[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-08102021 WCIOM]
 |11,200
-|style="background:#B3E0FF" |'''29.8'''||'''20.2'''||'''7.3'''||'''6.1'''||'''8.4'''|| || || || || || || || || ||11.0||7.7||8.1
+|style="background:#B3E0FF" |'''29.8'''||'''20.2'''||'''7.3'''||'''6.1'''||'''8.4'''|| colspan=10|11.0||7.7||8.1
 |style="background:#0C2C84; color:white;"|9.6
 |-
-|20–26 September 2021
+|20–26 Sep 2021
 |[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20211001 WCIOM]
 |11,200
-|style="background:#B3E0FF" |'''29.5'''||'''23.3'''||'''7.6'''||'''6.4'''||'''8.4'''|| || || || || || || || || ||9.8||6.9||6.9
+|style="background:#B3E0FF" |'''29.5'''||'''23.3'''||'''7.6'''||'''6.4'''||'''8.4'''||colspan=10|9.8||6.9||6.9
 |style="background:#0C2C84; color:white;"|6.2
 |-
-|style="background:#D5D5D5"|{{nowrap|''17–19 September 2021''}}
+|style="background:#D5D5D5"|{{nowrap|''17–19 Sep 2021''}}
 |style="background:#D5D5D5"|{{nowrap|''[[2021 Russian legislative election|Election result]]''}}
 |style="background:#D5D5D5"|
 |style="background:#B3E0FF"|'''''49.82'''''||style="background:#D5D5D5"|'''''18.93'''''||style="background:#D5D5D5"|'''''7.55'''''||style="background:#D5D5D5"|'''''7.46'''''||style="background:#D5D5D5"|'''''5.32'''''||style="background:#D5D5D5"|''2.45''||style="background:#D5D5D5"|''1.34''||style="background:#D5D5D5"|''1.27''||style="background:#D5D5D5"|''0.91''||style="background:#D5D5D5"|''0.80''||style="background:#D5D5D5"|''0.77''||style="background:#D5D5D5"|''0.64''||style="background:#D5D5D5"|''0.52''||style="background:#D5D5D5"|''0.15''||style="background:#D5D5D5"| ||style="background:#D5D5D5"| ||style="background:#D5D5D5"|
