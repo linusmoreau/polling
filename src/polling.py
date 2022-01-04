@@ -879,7 +879,8 @@ class GraphPage:
             end_button.select()
         end_button.show()
 
-        self.spread_txt = Text(str(self.spread), (back_button.rect.centerx, back_button.rect.bottom + 8), align=TOP)
+        self.spread_txt = Text(str(self.spread), (back_button.rect.centerx, back_button.rect.bottom + 8), align=TOP,
+                               background_colour=background_colour, colour=whitish if dark_mode else black)
         self.spread_txt.show()
 
         area = (self.spread_txt.rect.h, self.spread_txt.rect.h)
@@ -1112,7 +1113,7 @@ class GraphPage:
             graph = GraphDisplay(screen_center, (screen_width, screen_height), dat, x_title=None,
                                  y_title=y_title, title=title, step=1, align=CENTER, colours=self.col,
                                  initial_date=today, leader=True, y_min=0, y_max=y_max, x_max=x_max, x_min=x_min,
-                                 dat_points=points, vlines=self.vlines, intg=intg)
+                                 dat_points=points, vlines=self.vlines, intg=intg, background_colour=background_colour)
             with lock:
                 if self.graph is not None:
                     self.graph.hide()
@@ -1414,6 +1415,8 @@ def get_today():
 
 
 today = get_today()
+background_colour = darkest_grey
+dark_mode = is_dark(background_colour)
 
 if __name__ == '__main__':
     save_loc = '../updated.txt'
@@ -1430,7 +1433,7 @@ if __name__ == '__main__':
     order = sort_choices(choices)
     menu_page = MenuPage(order)
     surface = pygame.Surface((screen_width, screen_height))
-    surface.fill(whitish)
+    surface.fill(background_colour)
 
     pygame.display.set_caption('Polling')
     icon = pygame.transform.scale((pygame.image.load("../images/graph.png")), (32, 32))
@@ -1438,4 +1441,5 @@ if __name__ == '__main__':
     icon_surf.fill(white)
     icon_surf.blit(icon, (0, 0), None)
     pygame.display.set_icon(icon_surf)
+
     run_loop(lock, background=surface, escape=False)
