@@ -429,3 +429,61 @@ Parliamentary election poll results are listed in the table below in reverse chr
 ! <!-- Freedom and Justice --> |2.06
 ! style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |7.7
 |}
+;Scenarios
+{| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+! style="width:100px;" rowspan=2 | Polling Firm
+! style="width:150px;" rowspan=2 | Fieldwork Dates
+! style="width:75px;" rowspan=2 |Sample Size
+! class="unsortable" |[[Homeland Union|TS-LKD]]
+! class="unsortable" |[[Lithuanian Farmers and Greens Union|LVŽS]]
+! class="unsortable" |[[Labour Party (Lithuania)|DP]]  
+! class="unsortable" |[[Social Democratic Party of Lithuania|LSDP]]
+! class="unsortable" |[[Freedom Party (Lithuania)|LP]]
+! class="unsortable" |[[Liberal Movement (Lithuania)|LRLS]]
+! class="unsortable" |[[Electoral Action of Poles in Lithuania – Christian Families Alliance|LLRA]]
+! class="unsortable" |[[Lithuanian Centre Party|LCP]]
+! class="unsortable" |[[National Alliance (Lithuania)|NS]]
+! class="unsortable" |[[Freedom and Justice|LT]]
+! class="unsortable" |[[Lithuanian Green Party|LŽP]]
+! class="unsortable" |[[Democrats ‘For Lithuania’|DSVL]]
+! class="unsortable" |[[United Lithuania|VL]]
+! class="unsortable" |[[Second Lithuania|AL]]
+! class="unsortable" |[[Lithuanian Family Movement|LŠS]]
+! class="unsortable" rowspan=2 | Lead
+|-
+| style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}" <!-- TS-KD -->|
+| style="background:{{party color|Lithuanian Farmers and Greens Union}}" <!-- Lithuanian Farmers and Greens Union -->|
+| style="background:{{party color|Labour Party (Lithuania)}}" <!-- Labour Party --> |
+| style="background:{{party color|Social Democratic Party of Lithuania}}" <!-- Social Democratic Party of Lithuania --> |
+| style="background:#E3006B;" <!-- Laisves --> |
+| style="background:{{party color|Liberal Movement (Lithuania)}}" <!-- LRLS--> |
+| style="background:{{party color|Electoral Action of Poles in Lithuania}}" <!-- Electoral Action of Poles in Lithuania --> |
+| style="background:#009C3D" <!-- Centre Party -->|
+| style="background-color: #BB2025;" <!-- National Alliance --> |
+| style="background:{{party color|Freedom and Justice}}" <!-- Freedom and Justice --> |
+| style="background-color: {{party color|Lithuanian Green Party}}" <!--Lithuanian Green Party--> |
+| style="background-color: #000080;" <!-- Democrats ‘For Lithuania’ --> |
+| <!-- United Lithuania --> |
+| <!-- Second Lithuania --> |
+| style="background-color: #03562a;" <!-- Lithuanian Family Movement --> |
+|-
+|[https://www.15min.lt/naujiena/aktualu/lietuva/apklausa-s-skvernelio-partija-gali-isokti-i-populiariausiuju-trejetuka-56-1620682 Open Agency/Norstat]
+|November 2021
+|1,002
+| style="background:#AAE1DE" <!-- TS-KD --> |'''24.6'''
+| Lithuanian Farmers and Greens Union -- > |8.9
+| <!-- Labour Party --> |7.5
+|<!-- Social Democratic Party of Lithuania --> |17.8
+|<!-- Laisves--> |4.6
+|<!-- LRLS--> |9.8
+|<!-- Electoral Action of Poles in Lithuania--> |2.4
+|<!-- Lithuanian Centre Party--> |0.9
+|<!-- National Alliance--> |1.7
+|<!-- Freedom and Justice --> |4.9
+|<!-- Lithuanian Green Party -->|0.9
+|<!-- Democrats ‘For Lithuania’ --> |10.5
+|<!-- United Lithuania --> |2.9
+|<!-- Second Lithuania --> |1.3
+|<!-- Lithuanian Family Movement --> |1.3
+|style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''6.8'''
+|}

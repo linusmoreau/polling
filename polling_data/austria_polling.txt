@@ -24,6 +24,19 @@
 ! style="background:{{party color|MFG – Austria People – Freedom – Fundamental Rights}};"|
 ! style="background:{{party color|Independent}};"|
 |-
+| [https://www.derstandard.at/story/2000132261460/mehrheit-der-oesterreicher-rechnet-mit-notwendigkeit-einer-vierten-impfung Market]
+| data-sort-value="2021-12-28"| 23–28 Dec 2021
+| 800
+| Online & CAPI
+| 24
+| style="background:#F4C6C9;"| '''26'''
+| 21
+| 12
+| 11
+| 4
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 2
+|-
 | [https://www.sn.at/panorama/oesterreich/umfrage-trend-oevp-hat-sich-unter-nehammer-stabilisiert-114234496 Peter Hajek]
 | data-sort-value="2021-12-16"| 13–16 Dec 2021
 | 800

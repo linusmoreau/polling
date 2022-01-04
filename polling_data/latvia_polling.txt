@@ -60,27 +60,27 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:13.6+11.5+7.8+6}}
 | {{#expr:19.3+11.7+3.9+4.7+6.5+5.2+4.5+2.4}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1466446546459840515|title=Partiju reitingi novembrī|website=Twitter|language=lv|access-date=2 December 2021|date=2 December 2021}}</ref>
+| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1466446546459840515|title=Partiju reitingi novembrī|website=Twitter|language=lv|access-date=2 December 2021|date=2 December 2021}}</ref><ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1477657076889534465|title=KĻŪDAS LABOJUMS|website=Twitter|language=lv|access-date=2 January 2022|date=2 January 2022}}</ref>
 |{{nobr|1-30 Nov 2021}}
 |866
 | -
-|'''13.4'''
-|0.8
-|'''5.7'''
 |'''13.0'''
-|'''11.8'''
-|'''6.4'''
-| style="background:#A0D78E"|'''17.5'''
-|'''5.1'''
-|3.1
-|'''6.1'''
-|'''5.6'''
-|4.8
-|2.1
-|4.8
-| style="background:{{party color|New Unity}};" |4.1
-| {{#expr:17.5+13+11.8+5.7}}
-| {{#expr:13.4+0.8+6.4+5.1+3.1+6.1+5.6+4.8+2.1}}
+|0.8
+|'''5.5'''
+|'''12.6'''
+|'''11.4'''
+|'''9.4'''
+| style="background:#A0D78E"|'''16.9'''
+|4.9
+|3.0
+|'''5.9'''
+|'''5.4'''
+|4.6
+|2.0
+|4.7
+| style="background:{{party color|New Unity}};" |3.9
+| {{#expr:16.9+12.6+11.4+5.5}}
+| {{#expr:13+0.8+9.4+4.9+3+5.9+5.4+4.6+2}}
 |-
 |SKDS<ref>{{Cite web|title=Novembrī reitings krities "Saskaņai" un partijai "Likums un kārtība"|url=https://www.lsm.lv/raksts/zinas/latvija/novembri-reitings-krities-saskanai-un-partijai-likums-un-kartiba.a433994/|first=Māris|last=Klūga|website=LSM|language=lv|access-date=10 December 2021|date=10 December 2021}}</ref>
 |8-29 Nov 2021

@@ -491,7 +491,7 @@ specs = {
         'end_date': Date(2025, 9, 13),
         'toggle_seats': True,
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_2025_Norwegian_parliamentary_election&action=edit&section=3',
+               'Opinion_polling_for_the_2025_Norwegian_parliamentary_election&action=edit&section=1',
         'seats': 169,
         'divisor': 2,
         'bar': 0.4,

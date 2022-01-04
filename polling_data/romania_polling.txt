@@ -16,11 +16,84 @@
 
 {{see also if exists|2020 in Romania|2021 in Romania|2022 in Romania|2023 in Romania|2024 in Romania}}
 
+=== 2022 ===
 {| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
 |- style="background:lightgrey;"
-! rowspan="2" style="width:90px;"| Date
-! rowspan="2" style="width:40px;"| Poll source
-! class="unsortable" rowspan="2" style="width:20px;"| Sample size
+! rowspan="2" style="width:90px;" | Date
+! rowspan="2" style="width:40px;" | Poll source
+! rowspan="2" class="unsortable" style="width:20px;" | Sample size
+! class="unsortable" style="width:30px;" | [[Social Democratic Party (Romania)|PSD]]
+! class="unsortable" style="width:15px;" | [[National Liberal Party (Romania)|PNL]]
+! class="unsortable" style="width:30px;" | [[Save Romania Union|USR]] 
+! class="unsortable" style="width:30px;" | [[Alliance for the Union of Romanians|AUR]]
+! class="unsortable" style="width:30px;" | [[Democratic Alliance of Hungarians in Romania|UDMR]]
+! class="unsortable" style="width:30px;" | [[People's Movement Party|PMP]]
+! class="unsortable" style="width:30px;" | [[PRO Romania|PRO]] 
+! class="unsortable" style="width:30px;letter-spacing:-1px;" | [[Alliance of Liberals and Democrats (Romania)|ALDE]]
+! class="unsortable" style="width:30px;letter-spacing:-1px;" | [[Humanist Power Party|PPU-SL]]
+! class="unsortable" style="width:30px" | [[Ecologist Party of Romania|PER]]
+! class="unsortable" style="width:30px;" | [[Alliance for the Fatherland|APP]]
+! class="unsortable" style="width:15px;" | [[Force of the Right|FD]]
+! rowspan="2" style="width:45px;" | [[List of political parties in Romania|Others]]
+! rowspan="2" style="width:45px;" | Lead
+|-
+! data-sort-type="number" style="background:{{party color|Social Democratic Party (Romania)}};" |
+! data-sort-type="number" style="background:{{party color|National Liberal Party (Romania)}};" |
+! data-sort-type="number" style="background:{{party color|USR PLUS}};" |
+! data-sort-type="number" style="background:{{party color|Alliance for the Union of Romanians}};" |
+! data-sort-type="number" style="background:{{party color|Democratic Alliance of Hungarians in Romania}};" |
+! data-sort-type="number" style="background:{{party color|People's Movement Party}};" |
+! data-sort-type="number" style="background:{{party color|PRO Romania}};" |
+! data-sort-type="number" style="background:{{party color|Alliance of Liberals and Democrats (Romania)}};" |
+! data-sort-type="number" style="background:{{party color|Conservative Party (Romania)}}" |
+! data-sort-type="number" style="background:{{party color|Ecologist Party of Romania}}" |
+! data-sort-type="number" style="background:{{party color|Alliance for the Fatherland}};" |
+! data-sort-type="number" style="background:#08510A;" |
+|-
+| colspan="17" style="background:#A0A0A0" |
+|-
+! rowspan="2" data-sort-value="2020-12-06" | 6 December 2020
+! [[2020 Romanian legislative election|2020 Chamber election]]
+! {{N/A}}
+! style="background:#F9C8CA;" | 28.90
+!25.18
+! 15.37
+! 9.08
+! 5.74
+! 4.82
+! colspan="2" | 4.09
+! 1.19
+! 1.12
+! {{n/a}}
+! {{n/a}}
+! 6.82
+! style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 3.72
+|-
+! [[2020 Romanian legislative election|2020 Senate election]]
+! {{N/A}}
+! style="background:#F9C8CA;" | 29.32
+!25.58
+! 15.86
+! 9.17
+! 5.89
+! 4.93
+! colspan="2" | 4.13
+! 1.01
+! 1.33
+! {{n/a}}
+! {{n/a}}
+! 5.12
+! style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 3.74
+|}
+
+<references group="lower-alpha" />
+
+=== 2021 ===
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center;font-size:95%;line-height:14px;"
+|- style="background:lightgrey;"
+! rowspan="2" style="width:90px;" | Date
+! rowspan="2" style="width:40px;" | Poll source
+! rowspan="2" class="unsortable" style="width:20px;" | Sample size
 ! class="unsortable" style="width:30px;" | [[Social Democratic Party (Romania)|PSD]]
 ! class="unsortable" style="width:15px;" | [[National Liberal Party (Romania)|PNL]]
 ! class="unsortable" style="width:15px;" | [[Force of the Right|FD]]
@@ -33,26 +106,26 @@
 ! class="unsortable" style="width:30px;letter-spacing:-1px;" | [[Humanist Power Party|PPU-SL]]
 ! class="unsortable" style="width:30px" | [[Ecologist Party of Romania|PER]]
 ! class="unsortable" style="width:30px;" | [[Alliance for the Fatherland|APP]]
-! rowspan="2" style="width:30px;" style="width:45px;"| [[List of political parties in Romania|Others]]
-! rowspan="2" style="width:30px;" style="width:45px;"| Lead
+! rowspan="2" style="width:45px;" | [[List of political parties in Romania|Others]]
+! rowspan="2" style="width:45px;" | Lead
 |-
-!data-sort-type="number" style="background:{{party color|Social Democratic Party (Romania)}};"|
-!data-sort-type="number" style="background:{{party color|National Liberal Party (Romania)}};"|
-!data-sort-type="number" style="background:#08510A;" |
-!data-sort-type="number" style="background:{{party color|USR PLUS}};" |
-!data-sort-type="number" style="background:{{party color|Alliance for the Union of Romanians}};" |
-!data-sort-type="number" style="background:{{party color|Democratic Alliance of Hungarians in Romania}};" |
-!data-sort-type="number" style="background:{{party color|People's Movement Party}};" |
-!data-sort-type="number" style="background:{{party color|PRO Romania}};" |
-!data-sort-type="number" style="background:{{party color|Alliance of Liberals and Democrats (Romania)}};" |
-!data-sort-type="number" style="background:{{party color|Conservative Party (Romania)}}" |
-!data-sort-type="number" style="background:{{party color|Ecologist Party of Romania}}" |
-!data-sort-type="number" style="background:{{party color|Alliance for the Fatherland}};" |
+! data-sort-type="number" style="background:{{party color|Social Democratic Party (Romania)}};" |
+! data-sort-type="number" style="background:{{party color|National Liberal Party (Romania)}};" |
+! data-sort-type="number" style="background:#08510A;" |
+! data-sort-type="number" style="background:{{party color|USR PLUS}};" |
+! data-sort-type="number" style="background:{{party color|Alliance for the Union of Romanians}};" |
+! data-sort-type="number" style="background:{{party color|Democratic Alliance of Hungarians in Romania}};" |
+! data-sort-type="number" style="background:{{party color|People's Movement Party}};" |
+! data-sort-type="number" style="background:{{party color|PRO Romania}};" |
+! data-sort-type="number" style="background:{{party color|Alliance of Liberals and Democrats (Romania)}};" |
+! data-sort-type="number" style="background:{{party color|Conservative Party (Romania)}}" |
+! data-sort-type="number" style="background:{{party color|Ecologist Party of Romania}}" |
+! data-sort-type="number" style="background:{{party color|Alliance for the Fatherland}};" |
 |-
 |15–23 Dec 2021
 |[https://www.g4media.ro/sondaj-avangarde-psd-si-usr-scad-usor-pnl-ia-un-procent-iar-aur-creste-de-la-15-la-17.html Avangarde]
 |907
-| style="background:#F9C8CA"|'''39.0'''
+| style="background:#F9C8CA" |'''39.0'''
 |18.0
 |{{n/a}}
 |10.0
@@ -70,7 +143,7 @@
 |17–22 Dec 2021
 | [https://www.romaniatv.net/sondaj-sociopol-aur-a-depasit-20-pnl-se-apropie-de-usr-iar-psd-e-lider-cu-33_6108848.html Sociopol]
 |1,001
-| style="background:#F9C8CA"| '''33.0'''
+| style="background:#F9C8CA" | '''33.0'''
 |15.0
 |3.0
 |12.0
@@ -88,7 +161,7 @@
 | 13–17 Dec 2021
 | [https://www.aktual24.ro/curs-buble-loveste-cu-un-nou-sondaj-ciolacu-este-cel-mai-de-incredere-politician-din-romania/ CURS]
 | 1,100
-| style="background:#F9C8CA"| '''38.0'''
+| style="background:#F9C8CA" | '''38.0'''
 |19.0
 |{{n/a}}
 |11.0
@@ -109,7 +182,7 @@
 | data-sort-value="2021-11-24" |16–24 Nov 2021
 |[https://www.digi24.ro/stiri/actualitate/politica/sondaj-psd-40-pnl-17-aur-15-peste-80-dintre-romani-considera-ca-romania-merge-intr-o-directie-gresita-1760889 Avangarde]
 |906
-| style="background:#F9C8CA"| '''40.0'''
+| style="background:#F9C8CA" | '''40.0'''
 |17.0
 |{{N/A}}
 |11.0
@@ -127,7 +200,7 @@
 | data-sort-value="2021-11-22" |17–22 Nov 2021
 |[https://www.g4media.ro/sondaj-curs-realizat-la-comanda-psd-partidul-lui-ciolacu-a-ajuns-la-38-pnl-a-scazut-la-18-35-il-indica-pe-klaus-iohannis-drept-principalul-vinovat-pentru-criza-politica.html CURS]
 |1,100
-| style="background:#F9C8CA"| '''38.0'''
+| style="background:#F9C8CA" | '''38.0'''
 |18.0
 |{{N/A}}
 |11.0
@@ -143,8 +216,8 @@
 | style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 20.0
 |-
 | rowspan="3" data-sort-value="2021-11-13" | 6–13 Nov 2021
-| rowspan="3"| [http://roispap.simplesite.com/450876497 ISPAP]
-| rowspan="3"| 1,130
+| rowspan="3" | [http://roispap.simplesite.com/450876497 ISPAP]
+| rowspan="3" | 1,130
 | colspan="2" style="background:#F9C8CA;" |  '''38.0'''
 |7.5
 |14.0
@@ -183,7 +256,7 @@
 |2.0<ref>PRM 0.5%; PV 0.5%</ref>
 | style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 15.0
 |-
-|data-sort-value="2021-11-12"|9–12 Nov 2021
+| data-sort-value="2021-11-12" |9–12 Nov 2021
 |[https://www.gazetacivica.ro/politica/gazeta-civica-va-prezinta-sondajul-cu-cele-mai-corecte-cifre-ale-momentului/ PPU]
 |1,023
 | style="background:#F9C8CA;" |  '''30.5''' 
@@ -201,7 +274,7 @@
 |1.0
 | style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 7.5
 |-
-|data-sort-value="2021-11-02"|before 3 Nov 2021
+| data-sort-value="2021-11-02" |before 3 Nov 2021
 |[https://www.gazetacivica.ro/politica/sondaj-de-opinie-pentru-partide-dupa-oficializarea-aliantei-psd-pnl/ FL]
 |1,217
 | colspan="2" style="background:#F9C8CA;" |  '''34.0'''
@@ -221,7 +294,7 @@
 | data-sort-value="2021-10-30" |25–30 Oct 2021
 | [https://www.stiripesurse.ro/sondaj-curs-intentia-de-vot-pentru-partide_2072784.html CURS]
 |1,100
-| style="background:#F9C8CA"| '''39.0'''
+| style="background:#F9C8CA" | '''39.0'''
 |19.0
 |{{N/A}}
 |11.0
@@ -239,7 +312,7 @@
 | data-sort-value="2021-10-26" |17–26 Oct 2021
 |[https://www.news.ro/politic-intern/sondaj-avangarde-cota-popularitate-presedintelui-iohannis-florin-citu-s-injumatatit-octombrie-comparativ-luna-precedenta-psd-crescut-3-intentiile-vot-iar-pnl-pierdut-3-procente-1922401827362021101320444735 Avangarde]
 |900
-| style="background:#F9C8CA"| '''40.0'''
+| style="background:#F9C8CA" | '''40.0'''
 |17.0
 |{{N/A}}
 |13.0
@@ -257,7 +330,7 @@
 | data-sort-value="2021-10-25" |15–25 Oct 2021
 |[https://www.stiripesurse.ro/sondaj-pnl-are-peste-10-procente-sub-psd-in-timp-ce-aur-depaseste-usr-gabriela-firea-este-prima-la_2104905.html INSCOP]
 |1,100
-| style="background:#F9C8CA"| '''35.5'''
+| style="background:#F9C8CA" | '''35.5'''
 |21.9
 |{{N/A}}
 |12.4
@@ -323,7 +396,7 @@
 |11.0
 | style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 18.0
 |-
-|data-sort-value="2021-10-17"|12–17 Oct 2021
+| data-sort-value="2021-10-17" |12–17 Oct 2021
 |[https://www.gazetacivica.ro/politica/sondaj-de-opinie-in-care-pentru-prima-data-la-pnl-este-masurata-aripa-orban-si-aripa-citu/ APP]
 |1,122
 | style="background:#F9C8CA;" | '''30.0'''

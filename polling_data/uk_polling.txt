@@ -22,4 +22,18 @@
 ! data-sort-type="number" style="background:{{party color|Green Party of England and Wales}};"|
 ! data-sort-type="number" style="background:{{party color|Reform UK}};"|
 |-
+|{{opdrts||3|Jan|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-3-january-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|35%
+|style="background:#FFCCD9;"|'''38%'''
+|10%
+|5%
+|5%
+|4%
+|{{Hidden|2%|[[Plaid Cymru]] on 0%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-3%"|3%
+|-
 |}

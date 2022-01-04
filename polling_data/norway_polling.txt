@@ -1,3 +1,11 @@
+== Poll results ==
+=== Graphical summary ===
+There are several websites tracking party support ahead of the election, using somewhat different methods.<ref>{{cite web|url=http://www.pollofpolls.no/?cmd=Stortinget|title=Stortingsvalg: Hele landet|website=Poll of Polls|language=no|accessdate=13 September 2021}}</ref> Below is a plot of the 30-day moving average of relevant opinion polls.
+[[File:Norwegian Opinion Polling, 30 Day Moving Average, 2021-2025.svg]]
+
+=== 2022 ===
+''For events during the year, see [[2022 in Norway]]''.
+
 === 2021 ===
 {{for|events during the year|2021 in Norway}}
 {| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"

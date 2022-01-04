@@ -1,5 +1,6 @@
 ===First round===
-Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=Brasil terá eleições livres em 2022 e com instituições funcionando, diz Barroso |url=https://g1.globo.com/politica/noticia/2021/10/04/brasil-tera-eleicoes-livres-em-2022-e-com-instituicoes-funcionando-diz-barroso.ghtml|website=[[G1 (website)|G1]] |date=4 October 2021}}</ref>
+The first round is scheduled to take place on October 2, 2022.<ref name="dates">{{cite news |title=Brasil terá eleições livres em 2022 e com instituições funcionando, diz Barroso |url=https://g1.globo.com/politica/noticia/2021/10/04/brasil-tera-eleicoes-livres-em-2022-e-com-instituicoes-funcionando-diz-barroso.ghtml|website=[[G1 (website)|G1]] |date=4 October 2021}}</ref>
+
 ====2021====
 {| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
 ! rowspan="2"| Pollster/client(s)
@@ -18,9 +19,9 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! rowspan="2" data-sort-type="number" style="width:50px" | Lead
 |-
 ! data-sort-type="number" class="sortable" style="background:#3F4196;"|
-! data-sort-type="number" class="sortable" style="background:#CC0000;"|
+! data-sort-type="number" class="sortable" style="background:#E20E28;"|
 ! data-sort-type="number" class="sortable" style="background:#2DA933;"|
-! data-sort-type="number" class="sortable" style="background:#EE161F;"|
+! data-sort-type="number" class="sortable" style="background:#FF0000;"|
 ! data-sort-type="number" class="sortable" style="background:#0080FF;"|
 ! data-sort-type="number" class="sortable" style="background:#254AA5;"|
 ! data-sort-type="number" class="sortable" style="background:#FFA500;"|
@@ -39,7 +40,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |1%
 |3%
 |11%
-|style="background:#cc0000;color:#ffffff;"| 10%
+|style="background:#E20E28;color:#ffffff;"| 10%
 |-
 |rowspan="2"|[https://www.poder360.com.br/pesquisas/ipespe-lula-tem-44-das-intencoes-de-voto-bolsonaro-pontua-24/ ''Ipespe'']
 |rowspan="2"|14–16 Dec
@@ -54,7 +55,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |1%
 |12%
-|style="background:#cc0000;color:#ffffff;"| 20%
+|style="background:#E20E28;color:#ffffff;"| 20%
 |-
 |23%
 |style="background:#ffb7b7;"| '''43%'''
@@ -66,7 +67,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |1%
 |2%
 |9%
-|style="background:#cc0000;color:#ffffff;"| 20%
+|style="background:#E20E28;color:#ffffff;"| 20%
 |-
 |[https://g1.globo.com/politica/noticia/2021/12/16/datafolha-lula-tem-48percent-no-primeiro-turno-contra-22percent-de-bolsonaro-9percent-de-moro-7percent-de-ciro-e-4percent-de-doria.ghtml ''Datafolha'']
 |13–16 Dec
@@ -81,7 +82,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |10%
-|style="background:#cc0000;color:#ffffff;"| 26%
+|style="background:#E20E28;color:#ffffff;"| 26%
 |-
 |rowspan="2"|[https://g1.globo.com/politica/noticia/2021/12/14/lula-tem-48percent-das-intencoes-de-voto-para-presidente-bolsonaro-tem-21percent-diz-ipec.ghtml ''Ipec'']
 |rowspan="2"|9–13 Dec
@@ -96,7 +97,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |13%
-|style="background:#cc0000;color:#ffffff;"| 27%
+|style="background:#E20E28;color:#ffffff;"| 27%
 |-
 |21%
 |style="background:#ffb7b7;"| '''48%'''
@@ -108,7 +109,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |1%
 |3%
 |14%
-|style="background:#cc0000;color:#ffffff;"| 27%
+|style="background:#E20E28;color:#ffffff;"| 27%
 |-
 |[https://exame.com/brasil/moro-passa-ciro-e-se-consolida-em-terceiro-lugar-na-corrida-eleitoral/ ''Exame/Ideia'']
 |6–9 Dec
@@ -123,7 +124,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |2%
 |10%
-|style="background:#cc0000;color:#ffffff;"| 10%
+|style="background:#E20E28;color:#ffffff;"| 10%
 |}
 
 {| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
@@ -143,9 +144,9 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! rowspan="2" data-sort-type="number" style="width:50px" | Lead
 |-
 ! data-sort-type="number" class="sortable" style="background:#3F4196;"|
-! data-sort-type="number" class="sortable" style="background:#CC0000;"|
+! data-sort-type="number" class="sortable" style="background:#E20E28;"|
 ! data-sort-type="number" class="sortable" style="background:#2DA933;"|
-! data-sort-type="number" class="sortable" style="background:#EE161F;"|
+! data-sort-type="number" class="sortable" style="background:#FF0000;"|
 ! data-sort-type="number" class="sortable" colspan="2" style="background:#0080FF;"|
 ! data-sort-type="number" class="sortable" style="background:#254AA5;"|
 ! data-sort-type="number" class="sortable" style="background:#FFA500;"|
@@ -168,7 +169,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |1%
 |1%
 |11%
-|style="background:#cc0000;color:#ffffff;"| 23%
+|style="background:#E20E28;color:#ffffff;"| 23%
 |-
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" |
@@ -188,7 +189,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |0.9%
 |0.1%
 |3.2%
-|style="background:#cc0000;color:#ffffff;"| 11.3%
+|style="background:#E20E28;color:#ffffff;"| 11.3%
 |-
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" |
@@ -208,7 +209,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |1%
 |1%
 |3%
-|style="background:#cc0000;color:#ffffff;"| 17%
+|style="background:#E20E28;color:#ffffff;"| 17%
 |-
 |24%
 |style="background:#ffb7b7;"| '''42%'''
@@ -220,7 +221,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |2%
 |1%
 |8%
-|style="background:#cc0000;color:#ffffff;"| 18%
+|style="background:#E20E28;color:#ffffff;"| 18%
 |-
 |rowspan="2"|[https://www.poder360.com.br/poderdata/lula-pontua-de-34-a-36-e-bolsonaro-tem-de-27-a-29-diz-poderdata/ ''PoderData'']
 |rowspan="2"|22–24 Nov
@@ -235,7 +236,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |4%
 |9%
-|style="background:#cc0000;color:#ffffff;"| 5%
+|style="background:#E20E28;color:#ffffff;"| 5%
 |-
 |27%
 |style="background:#ffb7b7;"| '''36%'''
@@ -247,7 +248,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |3%
 |8%
-|style="background:#cc0000;color:#ffffff;"| 9%
+|style="background:#E20E28;color:#ffffff;"| 9%
 |-
 |[https://www.oantagonista.com/brasil/com-lula-e-bolsonaro-estagnados-moro-dispara-e-ciro-some/ ''Futura/ModalMais'']
 |16–20 Nov
@@ -262,7 +263,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |2.1%
 |7.1%
-|style="background:#cc0000;color:#ffffff;"| 6.2%
+|style="background:#E20E28;color:#ffffff;"| 6.2%
 |-
 |rowspan="2"|[https://veja.abril.com.br/blog/maquiavel/com-107-das-intencoes-de-voto-moro-vira-maior-rival-de-lula-e-bolsonaro/ ''Paraná Pesquisas'']
 |rowspan="2"|16–19 Nov
@@ -277,7 +278,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |0.4%
 |1.6%
 |13.4%
-|style="background:#cc0000;color:#ffffff;"| 5.7%
+|style="background:#E20E28;color:#ffffff;"| 5.7%
 |-
 |29.8%
 |style="background:#ffb7b7;"| '''35.1%'''
@@ -289,7 +290,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |0.6%
 |1.2%
 |13.6%
-|style="background:#cc0000;color:#ffffff;"| 5.3%
+|style="background:#E20E28;color:#ffffff;"| 5.3%
 |-
 |rowspan="2"|[https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2021/11/19/lula-lidera-para-2022-e-moro-atinge-18percent-sem-bolsonaro-na-disputa-diz-pesquisa.ghtml ''Ponteio Política'']
 |rowspan="2"|16–18 Nov
@@ -304,7 +305,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |31%
-|style="background:#cc0000;color:#ffffff;"| 19%
+|style="background:#E20E28;color:#ffffff;"| 19%
 |-
 |24%
 |style="background:#ffb7b7;"| '''37%'''
@@ -316,7 +317,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |17%
-|style="background:#cc0000;color:#ffffff;"| 13%
+|style="background:#E20E28;color:#ffffff;"| 13%
 |-
 |[https://exame.com/brasil/ciro-e-moro-sao-os-nomes-mais-fortes-para-a-terceira-via-diz-exame-ideia/ ''Exame/Ideia'']
 |9–11 Nov
@@ -331,7 +332,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |1%
 |2%
 |20%
-|style="background:#cc0000;color:#ffffff;"| 10%
+|style="background:#E20E28;color:#ffffff;"| 10%
 |-
 |rowspan="2"|[https://www.cnnbrasil.com.br/politica/lula-tem-48-das-intencoes-de-voto-e-bolsonaro-21-diz-pesquisa-genial-quaest/ ''Quaest/Genial'']
 |rowspan="2"|3–6 Nov
@@ -346,7 +347,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |1%
 |–
 |14%
-|style="background:#cc0000;color:#ffffff;"| 27%
+|style="background:#E20E28;color:#ffffff;"| 27%
 |-
 |21%
 |style="background:#ffb7b7;"| '''47%'''
@@ -358,7 +359,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |1%
 |–
 |14%
-|style="background:#cc0000;color:#ffffff;"| 26%
+|style="background:#E20E28;color:#ffffff;"| 26%
 |-
 |rowspan="2"|[https://www.cartacapital.com.br/politica/intencao-de-voto-em-lula-chega-a-45-e-bolsonaro-fica-com-21-diz-vox-populi/ ''Vox Populi'']
 |rowspan="2"|30 Oct–4 Nov
@@ -373,7 +374,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |3%
 |22%
-|style="background:#cc0000;color:#ffffff;"| 23%
+|style="background:#E20E28;color:#ffffff;"| 23%
 |-
 |21%
 |style="background:#ffb7b7;"| '''45%'''
@@ -385,7 +386,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |3%
 |21%
-|style="background:#cc0000;color:#ffffff;"| 24%
+|style="background:#E20E28;color:#ffffff;"| 24%
 |-
 |rowspan="2"|[https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2021/11/03/lula-lidera-disputa-presidencial-mas-para-de-crescer-mostra-pesquisa-xpipespe.ghtml ''XP/Ipespe'']
 |rowspan="2"|25–28 Oct
@@ -400,7 +401,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |2%
 |–
 |10%
-|style="background:#cc0000;color:#ffffff;"| 14%
+|style="background:#E20E28;color:#ffffff;"| 14%
 |-
 |25%
 |style="background:#ffb7b7;"| '''41%'''
@@ -412,7 +413,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |2%
 |4%
 |5%
-|style="background:#cc0000;color:#ffffff;"| 16%
+|style="background:#E20E28;color:#ffffff;"| 16%
 |-
 |rowspan="2"|[https://www.poder360.com.br/poderdata/poderdata-moro-volta-pontua-de-7-a-8-e-desidrata-nomes-da-3a-via/ ''PoderData'']
 |rowspan="2"|25–27 Oct
@@ -427,7 +428,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |1%
 |6%
 |9%
-|style="background:#cc0000;color:#ffffff;"| 7%
+|style="background:#E20E28;color:#ffffff;"| 7%
 |-
 |30%
 |style="background:#ffb7b7;"| '''34%'''
@@ -439,7 +440,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |1%
 |7%
 |7%
-|style="background:#cc0000;color:#ffffff;"| 4%
+|style="background:#E20E28;color:#ffffff;"| 4%
 |-
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" |
@@ -464,7 +465,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |11%
 |12%
-|style="background:#cc0000;color:#ffffff;"| 19%
+|style="background:#E20E28;color:#ffffff;"| 19%
 |-
 |24%
 |style="background:#ffb7b7;"| '''44%'''
@@ -476,7 +477,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |12%
-|style="background:#cc0000;color:#ffffff;"| 20%
+|style="background:#E20E28;color:#ffffff;"| 20%
 |-
 |26%
 |style="background:#ffb7b7;"| '''45%'''
@@ -488,7 +489,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |13%
-|style="background:#cc0000;color:#ffffff;"| 19%
+|style="background:#E20E28;color:#ffffff;"| 19%
 |-
 |rowspan="2"|[https://www.poder360.com.br/poderdata/poderdata-lula-segue-a-frente-e-tem-40-no-1o-turno-bolsonaro-vai-a-30/ ''PoderData'']
 |rowspan="2"|27–29 Sept
@@ -503,7 +504,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |2%
 |6%
 |11%
-|style="background:#cc0000;color:#ffffff;"| 10%
+|style="background:#E20E28;color:#ffffff;"| 10%
 |-
 |28%
 |style="background:#ffb7b7;"| '''43%'''
@@ -515,7 +516,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |1%
 |4%
 |11%
-|style="background:#cc0000;color:#ffffff;"| 15%
+|style="background:#E20E28;color:#ffffff;"| 15%
 |-
 |rowspan="2"|[https://www.cartacapital.com.br/cartaexpressa/ipespe-lula-lidera-todos-os-cenarios-de-1o-turno-e-venceria-qualquer-adversario-no-2o/ ''Ipespe'']
 |rowspan="2"|22–24 Sept
@@ -530,7 +531,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |2%
 |–
 |7%
-|style="background:#cc0000;color:#ffffff;"| 15%
+|style="background:#E20E28;color:#ffffff;"| 15%
 |-
 |25%
 |style="background:#ffb7b7;"| '''42%'''
@@ -542,7 +543,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |1%
 |4%
 |6%
-|style="background:#cc0000;color:#ffffff;"| 17%
+|style="background:#E20E28;color:#ffffff;"| 17%
 |-
 |rowspan="2"|[https://www.cnnbrasil.com.br/politica/lula-lidera-corrida-presidencial-com-48-das-intencoes-de-votos-diz-ipec/ ''Ipec'']
 |rowspan="2"|16–20 Sept
@@ -557,7 +558,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |14%
-|style="background:#cc0000;color:#ffffff;"| 25%
+|style="background:#E20E28;color:#ffffff;"| 25%
 |-
 |22%
 |style="background:#ffb7b7;"| '''45%'''
@@ -569,7 +570,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |1%
 |3%
 |14%
-|style="background:#cc0000;color:#ffffff;"| 23%
+|style="background:#E20E28;color:#ffffff;"| 23%
 |-
 |[https://www.otempo.com.br/politica/datatempo/pesquisa-datatempo-lula-tem-36-e-bolsonaro-soma-22-1.2543629 ''Datatempo'']
 | 9–15 Sept
@@ -584,7 +585,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |13.4%
 |14.2%
-|style="background:#cc0000;color:#ffffff;"| 14%
+|style="background:#E20E28;color:#ffffff;"| 14%
 |-
 |rowspan="4"|[https://g1.globo.com/politica/noticia/2021/09/17/datafolha-lula-segue-a-frente-de-bolsonaro-e-no-2o-turno-tem-56percent-contra-31percent.ghtml ''Datafolha'']
 |rowspan="4"| 13–15 Sept
@@ -599,7 +600,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |12%
-|style="background:#cc0000;color:#ffffff;"| 18%
+|style="background:#E20E28;color:#ffffff;"| 18%
 |-
 |25%
 |style="background:#ffb7b7;"| '''42%'''
@@ -611,7 +612,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |13%
-|style="background:#cc0000;color:#ffffff;"| 17%
+|style="background:#E20E28;color:#ffffff;"| 17%
 |-
 |25%
 |style="background:#ffb7b7;"| '''44%'''
@@ -623,7 +624,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |12%
-|style="background:#cc0000;color:#ffffff;"| 19%
+|style="background:#E20E28;color:#ffffff;"| 19%
 |-
 |24%
 |style="background:#ffb7b7;"| '''42%'''
@@ -635,7 +636,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |1%
 |7%
 |12%
-|style="background:#cc0000;color:#ffffff;"| 18%
+|style="background:#E20E28;color:#ffffff;"| 18%
 |-
 |[https://veja.abril.com.br/blog/maquiavel/pesquisa-para-o-psdb-vacina-ajuda-e-doria-empata-tecnicamente-com-ciro/ ''Paraná Pesquisas'']
 | 1–5 Sept
@@ -650,7 +651,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |16.5%
-|style="background:#cc0000;color:#ffffff;"| 4.6%
+|style="background:#E20E28;color:#ffffff;"| 4.6%
 |-
 |[https://www.poder360.com.br/poderdata/lula-tem-37-contra-28-de-bolsonaro-no-1o-turno-diz-poderdata/ ''PoderData'']
 |30 Aug–1 Sept
@@ -665,7 +666,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |4%
 |3%
 |11%
-|style="background:#cc0000;color:#ffffff;"| 9%
+|style="background:#E20E28;color:#ffffff;"| 9%
 |-
 |[https://www.em.com.br/app/noticia/politica/2021/09/01/interna_politica,1301410/lula-amplia-vantagem-e-venceria-bolsonaro-no-2-turno-diz-pesquisa-genial.shtml ''Quaest/Genial'']
 |26–29 Aug
@@ -680,7 +681,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |13%
-|style="background:#cc0000;color:#ffffff;"| 21%
+|style="background:#E20E28;color:#ffffff;"| 21%
 |-
 |rowspan="2"|[https://www.opovo.com.br/noticias/politica/2021/08/17/xp-ipespe-lula-aumenta-vantagem-sobre-bolsonaro-em-segundo-turno-e-mantem-crescimento.html ''XP/Ipespe'']
 |rowspan="2"|11–14 Aug
@@ -695,7 +696,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |9%
-|style="background:#cc0000;color:#ffffff;"| 16%
+|style="background:#E20E28;color:#ffffff;"| 16%
 |-
 |28%
 |style="background:#ffb7b7;"| '''37%'''
@@ -707,7 +708,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |1%
 |5%
 |13%
-|style="background:#cc0000;color:#ffffff;"| 9%
+|style="background:#E20E28;color:#ffffff;"| 9%
 |-
 |[https://www.poder360.com.br/poderdata/poderdata-lula-lidera-corrida-para-2022-com-39-bolsonaro-tem-25/ ''PoderData'']
 |2–4 Aug
@@ -722,7 +723,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |7%
 |11%
-|style="background:#cc0000;color:#ffffff;"| 14%
+|style="background:#E20E28;color:#ffffff;"| 14%
 |-
 |rowspan="2"|[https://valor.globo.com/politica/noticia/2021/08/04/lula-tem-46-pontos-percentuais-contra-29-para-bolsonaro-e-12-para-ciro-mostra-pesquisa-genialquaest.ghtml ''Quaest/Genial'']
 |rowspan="2"|29 July–1 Aug
@@ -737,7 +738,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |13%
-|style="background:#cc0000;color:#ffffff;"| 17%
+|style="background:#E20E28;color:#ffffff;"| 17%
 |-
 |27%
 |style="background:#ffb7b7;"| '''44%'''
@@ -749,7 +750,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |10%
 |10%
-|style="background:#cc0000;color:#ffffff;"| 17%
+|style="background:#E20E28;color:#ffffff;"| 17%
 |-
 |[https://www.paranapesquisas.com.br/wp-content/uploads/2021/07/BR_Jul21-Midia.pdf ''Paraná Pesquisas'']
 |24–28 July
@@ -764,7 +765,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |0.8%
 |7.7%
 |12.7%
-|style="background:#cc0000;color:#ffffff;"| 1%
+|style="background:#E20E28;color:#ffffff;"| 1%
 |-
 |[https://g1.globo.com/politica/noticia/2021/07/09/lula-tem-46percent-e-bolsonaro-25percent-no-1o-turno-aponta-pesquisa-datafolha-para-a-eleicao-de-2022.ghtml ''Datafolha'']
 |7–8 July
@@ -779,7 +780,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |12%
-|style="background:#cc0000;color:#ffffff;"| 21%
+|style="background:#E20E28;color:#ffffff;"| 21%
 |-
 |rowspan="2"|[https://www.gazetadopovo.com.br/republica/pesquisa-eleitoral-mostra-lula-na-frente-de-bolsonaro-julho-2021 ''XP/Ipespe'']
 |rowspan="2"|5–7 July
@@ -794,7 +795,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |3%
 |13%
-|style="background:#cc0000;color:#ffffff;"| 12%
+|style="background:#E20E28;color:#ffffff;"| 12%
 |-
 |27%
 |style="background:#ffb7b7;"| '''35%'''
@@ -806,7 +807,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |6%
 |13%
-|style="background:#cc0000;color:#ffffff;"| 8%
+|style="background:#E20E28;color:#ffffff;"| 8%
 |}
 
 {| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
@@ -828,9 +829,9 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! rowspan="2" data-sort-type="number"| Lead
 |-
 ! data-sort-type="number" class="sortable" style="background:#0067BC;"|
-! data-sort-type="number" class="sortable" colspan="2" style="background:#CC0000;"|
+! data-sort-type="number" class="sortable" colspan="2" style="background:#E20E28;"|
 ! data-sort-type="number" class="sortable" style="background:#A30000;"|
-! data-sort-type="number" class="sortable" style="background:#EE161F;"|
+! data-sort-type="number" class="sortable" style="background:#FF0000;"|
 ! data-sort-type="number" class="sortable" style="background:#A30000;"|
 ! data-sort-type="number" class="sortable" style="background:#0080FF;"|
 ! data-sort-type="number" class="sortable" style="background:#F0762A;"|
@@ -852,7 +853,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |8%
-|style="background:#cc0000;color:#ffffff;"| 8%
+|style="background:#E20E28;color:#ffffff;"| 8%
 |-
 |[https://www.ipec-inteligencia.com.br/ ''Instituto Ipec'']
 |17–21 June
@@ -869,7 +870,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |3%
 |13%
-|style="background:#cc0000;color:#ffffff;"| 26%
+|style="background:#E20E28;color:#ffffff;"| 26%
 |-
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;"|
@@ -891,7 +892,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |4.5%
 |2.7%
 |13.5%
-|style="background:#cc0000;color:#ffffff;"| 10%
+|style="background:#E20E28;color:#ffffff;"| 10%
 |-
 |[https://www.metropoles.com/brasil/pesquisa-vox-populi-lula-vence-bolsonaro-no-primeiro-turno-da-eleicao ''Vox Populi'']
 |12–16 May
@@ -908,7 +909,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |8%
 |–
 |14%
-|style="background:#cc0000;color:#ffffff;"| 19%
+|style="background:#E20E28;color:#ffffff;"| 19%
 |-
 |[https://www1.folha.uol.com.br/poder/2021/05/datafolha-lula-lidera-corrida-eleitoral-de-2022-e-marca-55-contra-32-de-bolsonaro-no-2o-turno.shtml ''Datafolha'']
 |11–12 May
@@ -925,7 +926,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |4%
 |2%{{efn|[[Luiz Henrique Mandetta]] (DEM) with 2%}}
 |13%
-|style="background:#cc0000;color:#ffffff;"| 18%
+|style="background:#E20E28;color:#ffffff;"| 18%
 |-
 |[https://exame.com/brasil/exame-ideia-pela-primeira-vez-lula-vence-bolsonaro-em-2022/ ''Exame/Ideia'']
 |19–22 Apr
@@ -942,7 +943,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |6%
 |5%{{efn|Luiz Henrique Mandetta (DEM) with 3%; [[Danilo Gentili]] with 2%}}
 |9%
-|style="background:#cc0000;color:#ffffff;"| 1%
+|style="background:#E20E28;color:#ffffff;"| 1%
 |-
 |[https://www.poder360.com.br/poderdata/lula-amplia-vantagem-sobre-bolsonaro-no-2o-turno-e-venceria-por-52-a-34/ ''PoderData'']
 |12–14 Apr
@@ -959,7 +960,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |6%
 |2%{{efn|Luiz Henrique Mandetta (DEM) with 2%}}
 |9%
-|style="background:#cc0000;color:#ffffff;"| 3%
+|style="background:#E20E28;color:#ffffff;"| 3%
 |-
 |[https://conteudos.xpi.com.br/wp-content/uploads/2021/04/Pesquisa-XP_-2021_04.pdf ''XP/Ipespe'']
 |29–31 Mar
@@ -976,7 +977,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |5%
 |3%{{efn|Luiz Henrique Mandetta (DEM) with 3%}}
 |12%
-|style="background:#cc0000;color:#ffffff;"| 1%
+|style="background:#E20E28;color:#ffffff;"| 1%
 |-
 |[https://www.poder360.com.br/poderdata/lula-e-ciro-venceriam-bolsonaro-no-2o-turno-diz-poderdata/ ''PoderData'']
 |15–17 Mar
@@ -993,7 +994,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |4%
 |2%{{efn|Luiz Henrique Mandetta (DEM) with 2%}}
 |13%
-|style="background:#cc0000;color:#ffffff;"| 4%
+|style="background:#E20E28;color:#ffffff;"| 4%
 |-
 | rowspan="3" |[https://revistaforum.com.br/pesquisaforum/pesquisa-forum-lula-dobra-em-intencao-de-votos-e-venceria-bolsonaro-se-eleicao-fosse-hoje/ ''Revista Fórum/Offerwise'']
 | rowspan="3" |11–15 Mar
@@ -1010,7 +1011,7 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 |–
 |–
 |24.3%
-|style="background:#cc0000;color:#ffffff;"| 0.5%
+|style="background:#E20E28;color:#ffffff;"| 0.5%
 |-
 |style="background:#b2d1ea;" |'''29.2%'''
 |27.1%
@@ -1390,9 +1391,9 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! rowspan="2" data-sort-type="number"| Lead
 |-
 ! data-sort-type="number" class="sortable" style="background:#0067bc;"|
-! data-sort-type="number" class="sortable" colspan="2" style="background:#cc0000;"|
+! data-sort-type="number" class="sortable" colspan="2" style="background:#E20E28;"|
 ! data-sort-type="number" class="sortable" style="background:#a30000;"|
-! data-sort-type="number" class="sortable" style="background:#ee161f;"|
+! data-sort-type="number" class="sortable" style="background:#FF0000;"|
 ! data-sort-type="number" class="sortable" style="background:#a30000;"|
 ! data-sort-type="number" class="sortable" style="background:#0080FF;"|
 ! data-sort-type="number" class="sortable" style="background:#F0762A;"|
@@ -1892,8 +1893,8 @@ Scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=B
 ! rowspan="2" data-sort-type="number"| Lead
 |-
 ! data-sort-type="number" class="sortable" style="background:#0067bc;"|
-! data-sort-type="number" class="sortable" colspan="2" style="background:#cc0000;"|
-! data-sort-type="number" class="sortable" style="background:#ee161f;"|
+! data-sort-type="number" class="sortable" colspan="2" style="background:#E20E28;"|
+! data-sort-type="number" class="sortable" style="background:#FF0000;"|
 ! data-sort-type="number" class="sortable" style="background:#0080FF;"|
 ! data-sort-type="number" class="sortable" style="background:#f0762a;"|
 ! data-sort-type="number" class="sortable" style="background:#2DA933;"|
