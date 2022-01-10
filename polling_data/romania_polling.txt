@@ -238,7 +238,7 @@
 |4.0
 | colspan="3" |3.0
 | colspan="2" |5.0
-|5.5<ref>[[Green Party (Romania)|PV]] 1.0%; [[Greater Romania Party|PRM]] 0.5%; [[The Right Alternative|AD]] 0.5%</ref>
+|5.5{{efn|[[Green Party (Romania)|PV]] 1.0%; [[Greater Romania Party|PRM]] 0.5%; [[The Right Alternative|AD]] 0.5%}}
 | style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 15.5
 |-
 | style="background:#F9C8CA;" |  '''35.0'''  
@@ -253,7 +253,7 @@
 |1.5
 |0.5
 |4.0
-|2.0<ref>PRM 0.5%; PV 0.5%</ref>
+|2.0{{efn|PRM 0.5%; PV 0.5%}}
 | style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 15.0
 |-
 | data-sort-value="2021-11-12" |9–12 Nov 2021

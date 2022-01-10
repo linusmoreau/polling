@@ -41,6 +41,44 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 !style=background:{{party color|United Arab List}} |
 !style=background:{{party color|Yesh Atid}} |
 |-
+|data-sort-value=2022-01-06 |6 Jan 22
+|Direct Polls
+|Channel 14<ref name=Ch14Jan6>{{cite news |title=Dramatic poll: The Likud is getting stronger, Yamina near the Electoral-threshold |url=https://www.now14.co.il/סקר-מנדטים-דרמטי-הליכוד-מתחזקת-ימינה-ע/ |work=Now 14 |date=6 January 2022 |language=he-IL}}</ref>
+|style=background:#BBCDE4 |'''35'''	<!-- Likud		-->
+|19					<!-- Yesh Atid	-->
+|9					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|4					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|7					<!-- Yisrael Beiteinu	-->
+|7					<!-- Religious Zionist	-->
+|7					<!-- Joint List	-->
+|{{small|(2.9%)}}	<!-- New Hope	-->
+|4					<!-- Meretz		-->
+|6					<!-- Ra'am		-->
+|55					<!-- Gov		-->
+|-
+|data-sort-value=2022-01-06 |6 Jan 22
+|Smith
+|Galei Israel<ref>{{cite news |title=New poll: Likud - 33, Yamina - 6 |url=https://www.israelnationalnews.com/news/319986 |work=Israel National News |date=6 January 2022 |language=en}}</ref>
+|style=background:#BBCDE4 |'''33'''	<!-- Likud		-->
+|20					<!-- Yesh Atid	-->
+|8					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|6					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|7					<!-- Yisrael Beiteinu	-->
+|8					<!-- Religious Zionist	-->
+|6					<!-- Joint List	-->
+|–					<!-- New Hope	-->
+|5					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|58					<!-- Gov		-->
+|-
+|colspan=17 |'''2022'''
+|-
 |data-sort-value=2021-12-21 |21 Dec 21
 |Camil Fuchs
 |[[Channel 13 (Israel)|Channel 13]]<ref>{{cite news |title= חצי שנה להקמת הממשלה: רמת האמון הציבורית בבנט בירידה |url=https://13tv.co.il/item/news/politics/politics/survey-bennett-partys-902772849/ |access-date=25 Dec 2021 |date=21 Dec 2021 |work=[[Channel 13 (Israel)|Channel 13]] |language=he}}</ref>

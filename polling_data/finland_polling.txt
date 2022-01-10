@@ -28,6 +28,23 @@
 ! data-sort-type="number" style="background:{{party color|Christian Democrats (Finland)}};" |
 ! data-sort-type="number" style="background:{{party color|Movement Now}};" |
 |-
+| Taloustutkimus<ref>{{Cite web|url=https://yle.fi/uutiset/3-12259416|title=Ylen kannatusmittaus: Kokoomus jatkaa kärjessä, SDP kiilasi perussuomalaisten ohi – vihreiden kannatus ei piristynyt|first=Anne|last=Orjala|website=Yle Uutiset|language=fi|access-date=7 January 2022|date=7 January 2022}}</ref>
+| data-sort-value="2022-01-07"| 1 Dec 2021–4 Jan 2022
+| 2,245
+| 18.9
+| 18.3
+| style="background:#D9E9F4"|'''20.6'''
+| 12.5
+| 10.0
+| 8.0
+| 3.8
+| 3.2
+| 2.1
+| 2.6
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-1.7"| 1.7
+| {{#expr:18.9+12.5+10.0+8.0+3.8}}
+| {{#expr:18.3+20.6+3.2+2.1}}
+|-
 | Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000008454399.html|title=Kokoomus jatkaa suurimpana puolueena, perussuomalaisten kannatus laski puoli prosenttiyksikköä|first=Jarmo|last=Huhtanen|website=Helsingin Sanomat |date=16 December 2021|access-date=16 December 2021}}</ref>
 | data-sort-value="2021-12-10"| 16 Nov–10 Dec 2021
 | 2,384

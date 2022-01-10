@@ -23,6 +23,45 @@
 ! style="background:{{party color|The Left (Germany)}};"|
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|7|10|Jan|2022|year}}
+| 2,107
+| –
+| {{Party shading/SPD}}| '''26.5'''
+| 23
+| 15
+| 12
+| 12
+| 5
+| 6.5
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 3.5
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|3|7|Jan|2022|year}}
+| 1,504
+| –
+| {{Party shading/SPD}}| '''27'''
+| 23
+| 16
+| 12
+| 11
+| 5
+| 6
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/dimap.htm Infratest dimap]
+| {{opdrts|3|5|Jan|2022|year}}
+| 1,325
+| –
+| {{Party shading/SPD}}| '''26'''
+| 23
+| 16
+| 11
+| 11
+| 5
+| 8
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 3
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|30|3|Jan|2022|year}}
 | 2,060
 | –
@@ -34,6 +73,19 @@
 | 6
 | 6.5
 | style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 3.5
+|-
+| [https://www.wahlrecht.de/umfragen/gms.htm GMS]
+| {{opdrts|29|3|Jan|2022|year}}
+| 1,003
+| –
+| {{Party shading/SPD}}| '''26'''
+| 24
+| 16
+| 12
+| 11
+| 4
+| 7
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 2
 |- style="background:#E9E9E9;"
 | [[2021 German federal election|2021 federal election]]
 | {{opdrts||26|Sep|2021|year}}

@@ -25,6 +25,21 @@
 ! style="background:{{party color|Christian Democrats (Sweden)}};"|
 ! style="background:{{party color|Sweden Democrats}};"|
 |-
+|Novus<ref>{{Cite web|title=Svt Väljarbarometern 20220105| language=sv|url=
+https://www.svt.se/special/valjarbarometern/|access-date=2022-01-06}}</ref>
+|6 Dec 2021-2 Jan 2022
+|2,017
+|10.5
+| style="background:#F9BDC5;"  |'''31.3'''
+|3.4
+|6.7
+|2.2
+|18.7
+|5.6
+|20.1
+|1.6
+|style="background:{{party color|Swedish Social Democratic Party}};color:white;"| 11.2
+|-
 |Sifo<ref>{{Cite web| title=Väljarbarometer Rapport 20211217| language=sv|url= https://www.kantarsifo.se/sites/default/files/reports/documents/vb_dec_2021_sifo.pdf|access-date=2021-12-19}}</ref>
 |6–16 Dec 2021
 |6,157
@@ -123,7 +138,7 @@
 |1.8
 |style="background:{{party color|Swedish Social Democratic Party}};color:white;" |7.9
 |-
-|Demoskop<ref>https://www.aftonbladet.se/nyheter/a/z79XKb/sverigedemokraterna-rasar-i-ny-undersokning {{Bare URL inline|date=December 2021}}</ref>
+|Demoskop<ref>{{cite web| url = https://www.aftonbladet.se/nyheter/a/z79XKb/sverigedemokraterna-rasar-i-ny-undersokning| title = SD tappar väljare till M enligt Aftonbladet/Demoskop}} </ref>
 |5–11 Nov 2021
 |2,359
 |8.1
@@ -207,7 +222,7 @@
 |1.6
 |style="background:{{party color|Swedish Social Democratic Party}};color:white;" |4.7
 |-
-|Demoskop<ref>https://www.aftonbladet.se/nyheter/a/7dm2AV/aftonbladet-demoskop-lagsta-stodet-for-miljopartiet-pa-16-ar {{Bare URL inline|date=December 2021}}</ref>
+|Demoskop<ref>{{cite web| url = https://www.aftonbladet.se/nyheter/a/7dm2AV/aftonbladet-demoskop-lagsta-stodet-for-miljopartiet-pa-16-ar| title = Miljöpartiet backar i Aftonbladet/Demoskop – lägst stöd på 16 år}} </ref>
 |29 Sep–6 Oct 2021
 |2,417
 |8.6
@@ -249,7 +264,7 @@
 |–{{efn|[[Feminist Initiative (Sweden)|FI]]: 0.9 [[Alternative for Sweden|AfS]]: 0.8 [[Citizens' Coalition|MED]]: 0.1 [[Pirate Party (Sweden)|PP]]: 0.7}}
 |style="background:{{party color|Swedish Social Democratic Party}};color:white;" |1.7
 |-
-|Ipsos<ref>https://www.aftonbladet.se/nyheter/a/dnkLQA/dn-ipsos-tre-partier-nara-riksdagssparren {{Bare URL inline|date=December 2021}}</ref>
+|Ipsos<ref>{{cite web| url = https://www.aftonbladet.se/nyheter/a/dnkLQA/dn-ipsos-tre-partier-nara-riksdagssparren| title = DN/Ipsos: Tre partier nära riksdagsspärren}} </ref>
 |14–26 Sep 2021
 |1,533
 |11

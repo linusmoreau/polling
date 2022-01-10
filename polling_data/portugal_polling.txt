@@ -9,7 +9,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! style="width:145px;" rowspan="2"| Fieldwork date
 ! class="unsortable" style="width:50px;" rowspan="2"| Sample size
 ! class="unsortable" style="width:45px;" rowspan="2"| Turnout
-! class="sortable" style="width:35px;"| [[File:PS Logo (Text version).png|33px|link=Socialist Party (Portugal)|PS]]
+! class="sortable" style="width:35px;"| [[Socialist Party (Portugal)|PS]]
 ! class="sortable" style="width:35px;"| [[File:Partido Social Democrata Logo.svg|32x32px|link=Social Democratic Party (Portugal)|PSD]]
 ! class="sortable" style="width:35px;"| [[File:LeftBloc.svg|25px|link=Left Bloc (Portugal)|BE]]
 ! class="sortable" style="width:35px;"| [[File:Logo of the Unitary Democratic Coalition.svg|31px|link=Unitary Democratic Coalition|CDU]]
@@ -30,6 +30,22 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! class="sortable" style="background:#202056;"|
 ! class="sortable" style="background:#00ADEF;"|
 ! class="sortable" style="background:{{party color|LIVRE}};"|
+|-
+|[https://www.rtp.pt/noticias/eleicoes-legislativas-2022/legislativas-2022-sondagem-aponta-para-vitoria-socialista-com-38-dos-votos_n1375305 CESOP–UCP]
+| data-sort-value="2019-10-03" | 28 Dec 2021–5 Jan 2022
+| 1,238
+|?
+| {{Party shading/PS}} |'''38'''
+| 32
+| 6
+| 6
+| 2
+| 2
+| 5
+| 5
+| 1
+| 3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |6
 |-
 |[https://sicnoticias.pt/especiais/eleicoes-legislativas/2021-12-29-Sondagem-SIC-Expresso-PS-vence-eleicoes-com-38-mas-reduz-vantagem-sobre-o-PSD-b7690e29 ICS/ISCTE]
 | data-sort-value="2019-10-03" | 10–20 Dec 2021
@@ -1533,7 +1549,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! style="width:145px;" rowspan="2"| Fieldwork date
 ! class="unsortable" style="width:50px;" rowspan="2"| Sample size
 ! class="unsortable" style="width:45px;" rowspan="2"| Turnout
-! class="sortable" style="width:35px;"| [[File:PS Logo (Text version).png|33px|link=Socialist Party (Portugal)|PS]]
+! class="sortable" style="width:35px;"| [[Socialist Party (Portugal)|PS]]
 ! class="sortable" style="width:35px;"| [[File:MERCOSUL - Representação Brasileira no Parlamento do Mercosul (22371092998) (cropped).jpg|35px|link=Paulo Rangel|PSD (Paulo Rangel)]]
 ! class="sortable" style="width:35px;"| [[File:LeftBloc.svg|25px|link=Left Bloc (Portugal)|BE]]
 ! class="sortable" style="width:35px;"| [[File:Logo of the Unitary Democratic Coalition.svg|31px|link=Unitary Democratic Coalition|CDU]]

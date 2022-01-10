@@ -244,9 +244,16 @@ def transcribe_table(content, key, choice, begin, start):
                         'Other', 'lead', 'red', 'blue', 'lead']
                 reset = True
         elif choice == 'France':
+            if '=== 2021 ===' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Thouy', 'Taubira', 'Hidalgo', 'Montebourg',
+                        'Jadot', 'Macron', 'Lassalle', 'Pécresse', 'Dupont-Aignan', 'Le Pen', 'Philippot', 'Zemmour',
+                        'Asselineau',
+                        'end']
+                reset = True
             if '==== September–November ====' in line:
                 nkey = ['firm', 'date', 'sample',
-                        'Arthaud', 'Poutou', 'Roussel', 'Melenchon', 'Hidalgo', 'Montebourg', 'Jadot', 'Macron',
+                        'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Hidalgo', 'Montebourg', 'Jadot', 'Macron',
                         'Lagarde',
                         'Lassalle', 'Barnier', 'Bertrand', 'Ciotti', 'Juvin', 'Payre', 'Pécresse', 'Poisson',
                         'Dupont-Aignan',
@@ -255,18 +262,27 @@ def transcribe_table(content, key, choice, begin, start):
                 reset = True
             elif '==== January–September ====' in line:
                 nkey = ['firm', 'date', 'sample',
-                        'Arthaud', 'Poutou', 'Roussel', 'Melenchon', 'Hidalgo', 'Hollande', 'Montebourg', 'Piolle',
+                        'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Hidalgo', 'Hollande', 'Montebourg', 'Piolle',
                         'Jadot', 'Macron', 'Lagarde', 'Lassalle', 'Bertrand', 'Pécresse', 'Barnier', 'Baroin',
                         'Retailleau', 'Wauquiez', 'Poisson', 'Dupont-Aignan', 'Le Pen', 'Zemmour', 'Asselineau',
                         'end']
                 reset = True
             elif '=== 2017–2020 ===' in line:
                 nkey = ['firm', 'date', 'sample',
-                        'Arthaud', 'Poutou', 'Roussel', 'Melenchon', 'Hamon', 'Cazeneuve', 'Faure', 'Hidalgo',
+                        'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Hamon', 'Cazeneuve', 'Faure', 'Hidalgo',
                         'Hollande', 'Royal', 'Jadot', 'Macron', 'Lagarde', 'Lassalle', 'Bertrand', 'Pécresse',
                         'Baroin', 'Dati', 'Fillon', 'Retailleau', 'Wauquiez', 'Dupont-Aignan', 'Le Pen',
                         'Asselineau', 'Cheminade',
                         'end']
+                reset = True
+        elif choice == 'Portugal':
+            if '====Hypothetical scenarios====' in line:
+                break
+        elif choice == 'Spain':
+            if '===2020===' in line:
+                nkey = ['firm', 'date', 'sample', 'turnout',
+                        'PSOE', 'PP', 'VOX', 'UP', 'Cs', 'ERC', 'MP', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG', 'NA+',
+                        'PRC', 'TE', 'lead', 'end']
                 reset = True
         if reset:
             tables.append({'table': table[:], 'key': key, 'years': years})
@@ -283,7 +299,7 @@ def transcribe_table(content, key, choice, begin, start):
             cont = True
         if '==' in line:
             yline = line[line.find('=='):]
-            yline = yline[:yline.find('==', 3)].strip('= \n')
+            yline = yline.strip('= \n')[:4]
             try:
                 int(yline)
             except ValueError:
@@ -576,7 +592,7 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
                 if 'Presidential election' in entry[i]:
                     purge.add(k)
     elif choice == 'France':
-        for p in ['Melenchon', 'Hidalgo', 'Jadot', 'Macron', 'Pécresse', 'Le Pen']:
+        for p in ['Mélenchon', 'Hidalgo', 'Jadot', 'Macron', 'Pécresse', 'Le Pen']:
             i = key.index(p)
             for k, entry in enumerate(table):
                 if entry[i] is None:

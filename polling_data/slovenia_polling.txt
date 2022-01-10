@@ -353,7 +353,7 @@ Poll results are listed in the table in reverse chronological order, showing the
 |1.9
 |2.4
 |3.7
-|9.²
+|9.2
 |19.2
 |4.0
 |style="background:{{party color|Slovenian Democratic Party}}"|5.2
@@ -3826,6 +3826,79 @@ Parsifal: Javnomnenjska anketa - SDS bi volilo toliko volivcev kot vse štiri st
 
 ===Scenario Polls===
 ;Robert Golob founds a party
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:16px"
+|- 
+! rowspan="2" style="width:120px;"|Fieldwork date
+! rowspan="2"|Polling firm
+! rowspan="2"|Publisher(s)ni
+! rowspan="2" style="width:50px;" class="unsortable"|Sample size
+! style="width:35px;" class="unsortable"| [[Slovenian Democratic Party|SDS]]
+! style="width:35px;" class="unsortable"| [[List of Marjan Šarec|LMŠ]]
+! style="width:35px;" class="unsortable"| [[Social Democrats (Slovenia)|SD]]
+! style="width:35px;" class="unsortable"| [[Concretely|K]]
+! style="width:35px;" class="unsortable"| [[The Left (Slovenia)|The Left]]
+! style="width:35px;" class="unsortable"| [[New Slovenia|NSi]]
+! style="width:35px;" class="unsortable"| [[Party of Alenka Bratušek|SAB]]
+! style="width:35px;" class="unsortable"| [[Democratic Party of Pensioners of Slovenia|DeSUS]]
+! style="width:35px;" class="unsortable"| [[Slovenian National Party|SNS]]
+! style="width:35px;" class="unsortable"| [[Let's Connect Slovenia|PoS]]
+! style="width:35px;" class="unsortable"| [[Pirate Party (Slovenia)|PPS]]
+! style="width:35px;" class="unsortable"| [[Good State (Slovenia)|DD]]
+! style="width:35px;" class="unsortable"| Golob
+! style="width:35px;" class="unsortable"| [[Our Country (Slovenia)|ND]]
+! style="width:35px;" class="unsortable"| [[Green Actions|Z.DEJ]]
+! style="width:35px;" class="unsortable"| [[Spring – Green Party|Vesna]]
+! rowspan="2" style="width:35px;" class="unsortable"| Others
+! rowspan="2" style="width:35px;" class="unsortable"| None
+! rowspan="2" style="width:35px;" class="unsortable"| Und.
+! rowspan="2" style="width:35px;" class="unsortable"| Abst.
+! rowspan="2" style="width:35px;" class="unsortable"| Lead
+! class="unsortable" rowspan="2"| Source
+|-
+! class="unsortable" style="background:{{party color|Slovenian Democratic Party}}; width:30px;" |
+! class="unsortable" style="background:{{party color|List of Marjan Šarec}}; width:30px"|
+! class="unsortable" style="background:{{party color|Social Democrats (Slovenia)}}; width:30px;"|
+! class="unsortable" style="background:{{party color|Modern Centre Party}}; width:30px;"|
+! class="unsortable" style="background:{{party color|United Left (Slovenia)}}; width:30px;"|
+! class="unsortable" style="background:{{party color|New Slovenia}}; width:30px;"|
+! class="unsortable" style="background:{{party color|Alliance of Alenka Bratušek}}; width:30px"|
+! class="unsortable" style="background:{{party color|Democratic Party of Pensioners of Slovenia}}; width:30px;"|
+! class="unsortable" style="background:{{party color|Slovenian National Party}}; width:30px"|
+! class="unsortable" style="background: #fed36c; width:30px;"|
+! class="unsortable" style="background: #D2691E; width:30px"|
+! class="unsortable" style="background: {{party color|Good State (Slovenia)}}; width:30px"|
+!
+! class="unsortable" style="background: {{party color|Our Country (Slovenia)}}; width:30px"|
+! class="unsortable" style="background: {{party color|Green Actions}}; width:30px"|
+! class="unsortable" style="background: #7fc241; width:30px"|
+|-
+|4–6 Jan 2022
+|Parsifal
+|[[Nova24TV]]
+|734
+|style="background:#FFFFBF" |'''20.7'''
+|3.3
+|7.8
+|0.4
+|5.9
+|5.7
+|1.5
+|2.2
+|1.8
+|2.7
+|1.5
+|1.1
+|8.2
+|1.4
+|0.3
+|0.7
+|1.7
+|3.8
+|20.6
+|9.0
+|style="background:{{party color|Slovenian Democratic Party}}" |12.5
+|<ref>{{Cite web|date=2022-01-09|title=Preobrat: zaradi Goloba Bratuškova izven parlamenta, Šarec na robu|url=https://siol.net/novice/slovenija/preobrat-zaradi-goloba-bratuskova-izven-parlamenta-sarec-na-robu-570126|access-date=2022-01-09|language=sl-SI}}</ref>
+|}
 {| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:16px"
 |- 
 ! rowspan="2" style="width:120px;"|Fieldwork date

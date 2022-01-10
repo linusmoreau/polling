@@ -44,8 +44,8 @@
 ! class="unsortable" style="background:{{party color|Free Bloc}} |
 ! class="unsortable" style="background:{{party color|Přísaha}};" |
 |-
-! 8–9 Oct
 ! [[2021 Czech legislative election|2021 legislative election]]
+! 8–9 Oct
 !
 !
 ! 27.1

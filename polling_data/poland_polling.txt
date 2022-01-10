@@ -24,4 +24,32 @@
 ! data-sort-type="number" style="height:1px; background:{{party color|Kukiz'15}};" |
 ! data-sort-type="number" style="height:1px; background:{{party color|Confederation Liberty and Independence}};" |
 ! data-sort-type="number" style="height:1px; background:{{party color|Poland 2050}};"|
+|-
+| [https://wiadomosci.wp.pl/polski-lad-wstrzasnal-pis-najnowszy-sondaz-dla-wp-6724618266061664a United Surveys / WP.pl]
+| data-sort-value="2022-01-07" | 6–7 Jan
+| 1,000
+| style="background:#C0DBFC;" | '''33.0'''
+| 
+| 25.1
+| 8.2
+| 7.6
+| 
+| 8.0
+| 11.0
+| 7.2
+| style="background:{{party color|Law and Justice}}; color:white;"| '''7.1'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/579172-sondaz-notowania-partii-oraz-barometr-optymizmu-spolecznego Social Changes / wPolityce.pl]
+| data-sort-value="2022-01-02" | 31 Dec–2 Jan
+| 1,069
+| style="background:#C0DBFC;" | '''38'''
+| 1
+| 24
+| 7
+| 2
+| 2
+| 12
+| 13
+| 1
+| style="background:{{party color|Law and Justice}}; color:white;"| '''14'''
 |}

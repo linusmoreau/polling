@@ -4,6 +4,7 @@ The following graphical summary represents the polling numbers of the following 
 
 * [[Fabien Roussel]] ([[French Communist Party]])
 * [[Jean-Luc Mélenchon]] ([[La France Insoumise]])
+*[[Christiane Taubira]] ([[Radical Party of the Left]])
 * [[Anne Hidalgo]] ([[French Socialist Party|Socialist Party]])
 * [[Arnaud Montebourg]] (L'Engagement)
 * [[Yannick Jadot]] ([[Europe Ecology – The Greens|Europe Écologie]])
@@ -15,7 +16,6 @@ The following graphical summary represents the polling numbers of the following 
 
 {{wide image|Opinion polls France 2022.svg|1000px|[[Local regression]] of polls conducted since 2021}}
 
-<!--
 === 2022 ===
 ==== January ====
 {| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
@@ -26,6 +26,7 @@ The following graphical summary represents the polling numbers of the following 
 ! {{vert header|mw=35px|stp=1|[[Nathalie Arthaud]]}}
 ! {{vert header|mw=35px|stp=1|[[Philippe Poutou]]}}
 ! {{vert header|mw=35px|stp=1|[[Fabien Roussel]]}}
+! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon]]}}
 ! {{vert header|mw=35px|stp=1|[[Christiane Taubira]]}}
 ! {{vert header|mw=35px|stp=1|[[Anne Hidalgo]]}}
 ! {{vert header|mw=35px|stp=1|[[Arnaud Montebourg]]}}
@@ -38,12 +39,12 @@ The following graphical summary represents the polling numbers of the following 
 ! {{vert header|mw=35px|stp=1|[[Florian Philippot]]}}
 ! {{vert header|mw=35px|stp=1|[[Éric Zemmour]]}}
 ! {{vert header|mw=35px|stp=1|[[François Asselineau]]}}
-! {{vert header|mw=35px|stp=1|Others}}
 |-
 ! style="background:{{party color|Lutte Ouvrière}};"|
 ! style="background:{{party color|New Anticapitalist Party}};"|
 ! style="background:{{party color|French Communist Party}};"|
 ! style="background:{{party color|La France Insoumise}};"|
+! style="background:{{party color|Radical Party of the Left}};"|
 ! style="background:{{party color|Socialist Party (France)}};"|
 ! style="background:{{party color|Miscellaneous left}};"|
 ! style="background:{{party color|Europe Ecology – The Greens}};"|
@@ -53,15 +54,160 @@ The following graphical summary represents the polling numbers of the following 
 ! style="background:{{party color|Debout la France}};"|
 ! style="background:{{party color|National Rally (France)}};"|
 ! style="background:{{party color|The Patriots (France)}};"|
-! style="background:#0B0A68;"|
+! style="background:{{party color|Reconquête (political party)}};"|
 ! style="background:{{party color|Popular Republican Union (2007)}};"|
-! style="background:{{party color|Independent}};"|
 |-
-| style="background:#80fcd4;"| [https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/politique/presidentielle-2022/2022.html OpinionWay]
-|
-|
+| style="background:#80fcd4;" |[https://www.opinion-way.com/fr/barometre-opinionway-kea-partners OpinionWay]
+|5–7 Jan 2022
+|1,561
+|1%
+|1%
+|3%
+|9%
+|–
+|4%
+|1%
+|7%
+| style="background:#FFED99;" |'''25%'''
+|1%
+| style="background:#DFEEFF;" |'''17%'''
+|2%
+| style="background:#E0E5F0;" |'''17%'''
+|–
+|12%
+|–
+|-
+| rowspan="2" style="background:#04FBF4;" |[https://www.ipsos.com/sites/default/files/ct/news/documents/2022-01/Ipsos%20-%20Le%20Parisien-France%20Info%20-%20IV%202022%20-%20Janvier2022.pdf Ipsos]
+| rowspan="2" |5–6 Jan 2022
+| rowspan="2" |1,500
+|1%
+|1%
+|2%
+|9%
+|3%
+|3%
+|1%
+|7%
+| style="background:#FFED99;" |'''25.5%'''
+|1%
+|16%
+|1.5%
+| style="background:#E0E5F0;" |'''17%'''
+|–
+|12%
+|–
+|-
+|1%
+|1%
+|2%
+|9%
+|–
+|4.5%
+|1%
+|8%
+| style="background:#FFED99;" |'''26%'''
+|1%
+|16%
+|1.5%
+| style="background:#E0E5F0;" |'''17%'''
+|–
+|12%
+|–
+|-
+| style="background:#FFDFCC;"|[https://presidentielle2022.bva-group.com/wp-content/uploads/2022/01/BVA-RTL-Orange-Presidentielle-2022-Vague4-IV-Janvier-2022.pdf BVA]
+|5–6 Jan 2022
+|1,510
+|0.5%
+|1%
+|1.5%
+|10%
+|–
+|3.5%
+|1.5%
+|8%
+| style="background:#FFED99;" |'''25%'''
+|1.5%
+|16%
+|2%
+| style="background:#E0E5F0;" |'''17%'''
+|–
+|12%
+|0.5%
+|-
+| rowspan="3" style="background:#FFCCCC"|[https://www.ifop.com/wp-content/uploads/2022/01/118727_Ifop_Rapport_Baro_Presid.V8..pdf Ifop-Fiducial]
+| rowspan="3" |3–5 Jan 2022
+| rowspan="3" |1,332
+|0.5%
+|1%
+|2.5%
+|8.5%
+|5%
+|–
+|–
+|6.5%
+| style="background:#FFED99;" |'''26.5%'''
+|1%
+| style="background:#DFEEFF;" |'''16.5%'''
+|2.5%
+| style="background:#E0E5F0;" |'''16.5%'''
+|–
+|13%
+|–
+|-
+|0.5%
+|1%
+|2.5%
+|8.5%
+|2.5%
+|3%
+|1%
+|6.5%
+| style="background:#FFED99;" |'''25.5%'''
+|1%
+|16%
+|2.5%
+| style="background:#E0E5F0;" |'''16.5%'''
+|–
+|13%
+|–
+|-
+|0.5%
+|1%
+|2.5%
+|8.5%
+|–
+|3.5%
+|1%
+|7%
+| style="background:#FFED99;" |'''27%'''
+|1%
+| style="background:#DFEEFF;" |'''16%'''
+|2.5%
+| style="background:#E0E5F0;" |'''16%'''
+|–
+|13.5%
+|–
+|-
+| style="background:#80fcd4;" style="background:#04FBF4;" | [https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/politique/presidentielle-2022/2022.html OpinionWay]
+|2–4 Jan 2022
+|1,568
+|1%
+|1%
+|3%
+|9%
+|–
+|4%
+|1%
+|7%
+| style="background:#FFED99;" |'''25%'''
+|1%
+| style="background:#DFEEFF;" |'''17%'''
+|2%
+|16%
+|–
+|13%
+|–
 |}
--->
 
 === 2021 ===
 ==== December ====
@@ -103,8 +249,104 @@ The following graphical summary represents the polling numbers of the following 
 ! style="background:{{party color|Debout la France}};"|
 ! style="background:{{party color|National Rally (France)}};"|
 ! style="background:{{party color|The Patriots (France)}};"|
-! style="background:#0B0A68;"|
+! style="background:{{party color|Reconquête (political party)}};"|
 ! style="background:{{party color|Popular Republican Union (2007)}};"|
+|-
+| rowspan="4" style="background:GreenYellow" | [http://harris-interactive.fr/wp-content/uploads/sites/6/2022/01/FKHFSKFNT-9.pdf Harris-Interactive]
+| rowspan="4" | 28–31 Dec 2021
+| rowspan="4" | 2,550
+| <0.5%
+| 1%
+| 4%
+| 12%
+| –
+| –
+| 7%
+| –
+| –
+| style="background:#FFED99;"| '''26%'''
+| <0.5%
+| style="background:#DFEEFF;"| '''16%'''
+| 2%
+| style="background:#E0E5F0;"| '''16%'''
+| <0.5%
+| style="background:#E5E7FF;"| '''16%'''
+| <0.5%
+|-
+|1%
+|1%
+|3%
+|11%
+|–
+|8%
+|–
+|–
+|–
+| style="background:#FFED99;"|'''25%'''
+|<0.5%
+| style="background:#DFEEFF;"|'''17%'''
+|2%
+|16%
+|<0.5%
+|16%
+|<0.5%
+|-
+|1%
+|1%
+|3%
+|10%
+|–
+|–
+|–
+|–
+|9%
+| style="background:#FFED99;"|'''25%'''
+|<0.5%
+| style="background:#DFEEFF;"|'''17%'''
+|2%
+|16%
+|<0.5%
+|16%
+|<0.5%
+|-
+|<0.5%
+|1%
+|3%
+|10%
+|–
+|–
+|4%
+|1%
+|7%
+| style="background:#FFED99;"|'''24%'''
+|<0.5%
+| style="background:#DFEEFF;"|'''16%'''
+|2%
+| style="background:#E0E5F0;"|'''16%'''
+|<0.5%
+| style="background:#E5E7FF;"|'''16%'''
+|<0.5%
+|-
+| style="background:#d9fff6;"|[https://cluster17.com/wp-content/uploads/2022/01/notice_fin_2022.pdf Cluster17]
+|27–31 Dec 2021
+|2,252
+|0.5%
+|1%
+|1.5%
+|13%
+|–
+|4.5%
+|2%
+|1.5%
+|4%
+|style="background:#FFED99;"|'''23%'''
+|1%
+| style="background:#DFEEFF;"|'''15%'''
+|1.5%
+|14.5%
+|1%
+| style="background:#E5E7FF;"|'''15%'''
+|1%
 |-
 | style="background:#80fcd4;"| [https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/politique/presidentielle-2022/2022.html OpinionWay]
 | 21–22 Dec 2021
@@ -442,7 +684,6 @@ The following graphical summary represents the polling numbers of the following 
 | 14%
 | <0.5%
 |}
-
 
 ==== September–November ====
 {| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"

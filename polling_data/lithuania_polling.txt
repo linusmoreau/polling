@@ -11,6 +11,7 @@
  {{Legend-line|{{party color|Lithuanian Regions Party}} solid 5px|[[Lithuanian Regions Party|LRP]]}}
  {{Legend-line|{{party color|Lithuanian Centre Party}} solid 5px|[[Lithuanian Centre Party|TTS (CT)]]}}
  {{Legend-line|{{party color|Freedom and Justice}} solid 5px|[[Freedom and Justice|LT]]}}
+ {{Legend-line|{{party color|Democrats ‘For Lithuania’}} solid 5px|[[Democrats ‘For Lithuania’|LT]]}}
 }}]]
 Parliamentary election poll results are listed in the table below in reverse chronological order. The highest percentage figure in each poll is displayed in bold, and its background is shaded in the leading party's colour. The "Lead" column shows the [[percentage point]] difference between the two parties with the highest figures.
 {| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
@@ -27,6 +28,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 ! class="unsortable" |[[Lithuanian Regions Party|LRP]]
 ! class="unsortable" |[[Lithuanian Centre Party|LCP]]
 ! class="unsortable" |[[Freedom and Justice|LT]]
+! class="unsortable" |[[Democrats ‘For Lithuania’|DSVL]]
 ! class="unsortable" rowspan=2 | Lead
 |-
 | style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}" <!-- TS-KD -->|
@@ -39,6 +41,23 @@ Parliamentary election poll results are listed in the table below in reverse chr
 | style="background:{{party color|Lithuanian Regions Party}}" <!-- LRP --> |
 | style="background:#009C3D" <!-- Centre Party -->|
 | style="background:{{party color|Freedom and Justice}}" <!-- Freedom and Justice --> |
+| style="background-color: #000080;" <!-- Democrats ‘For Lithuania’ --> |
+|-
+|[https://www.delfi.lt/news/daily/lithuania/naujausia-apklausa-pirmieji-skvernelio-kurinio-reitingai-ir-skausmingas-kirtis-vyriausybei.d?id=89144161 Spinter tyrimai]
+|13-25 December 2021
+|1,012
+| <!-- TS-KD --> |17.0
+| Lithuanian Farmers and Greens Union -- > |10.6
+| <!-- Labour Party --> |6.6
+| style="background:#F5ABB0" <!-- Social Democratic Party of Lithuania --> |'''17.2'''
+|<!-- Laisves--> |7.4
+|<!-- LRLS--> |11.3
+|<!-- Electoral Action of Poles in Lithuania--> |-
+|<!-- LSDDP--> |-
+|<!-- Lithuanian Centre Party--> |-
+|<!-- Freedom and Justice --> |5.7
+|<!-- Democrats ‘For Lithuania’ --> |11.3
+| style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''0.2'''
 |-
 |[https://www.lrytas.lt/lietuvosdiena/aktualijos/2021/12/28/news/sventine-nuotaika-cia-nekvepia-i-simonytes-vyriausybe-nepopuliariausia-nuo-a-kubiliaus-laiku-21873930 Vilmorus]
 |10-18 December 2021
@@ -53,6 +72,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |5.5
 |<!-- Lithuanian Centre Party--> |-
 |<!-- Freedom and Justice --> |-
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''14.5'''
 |-
 |[https://m.delfi.lt/lietuvoje/article.php?id=88984331 Baltijos tyrimai]
@@ -68,6 +88,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |2.6
 |<!-- Lithuanian Centre Party--> |2.6
 |<!-- Freedom and Justice --> |10.1
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''10.2'''
 |-
 |[https://www.delfi.lt/news/daily/lithuania/naujausiuose-reitinguose-tyla-pries-audra-rezultatas-gali-buti-netiketas.d?id=88922353 Spinter tyrimai]
@@ -83,6 +104,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |3.0
 |<!-- Lithuanian Centre Party--> |-
 |<!-- Freedom and Justice --> |5.0
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''2.9'''
 |-
 |[https://www.delfi.lt/news/daily/lithuania/partiju-reitingas-pirmauja-socdemai-bet-gali-buti-kad-tai-nebeilgam.d?id=88860775 Vilmorus]
@@ -98,6 +120,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |4.5
 |<!-- Lithuanian Centre Party--> |-
 |<!-- Freedom and Justice --> |-
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''8.0'''
 |-
 |[https://m.delfi.lt/lietuvoje/article.php?id=88756295 Baltijos tyrimai]
@@ -113,6 +136,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |2.0
 |<!-- Lithuanian Centre Party--> |2.3
 |<!-- Freedom and Justice --> |10.4
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''12.7'''
 |-
 |[https://www.delfi.lt/news/daily/lithuania/naujausi-reitingai-skvernelis-jau-telkia-rinkejus.d?id=88658739 Spinter tyrimai]
@@ -128,6 +152,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |-
 |<!-- Lithuanian Centre Party--> |–
 |<!-- Freedom and Justice --> |4.4
+|<!-- Democrats ‘For Lithuania’ --> |-
 |style="background:{{party color|Social Democratic Party of Lithuania}}; color:white" |'''2.1'''
 |-
 |[https://www.delfi.lt/news/daily/lithuania/naujausi-partiju-reitingai-tarp-geriausiai-vertinamu-vel-socialdemokratai.d?id=88563939 Vilmorus]
@@ -143,6 +168,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |5.2
 |<!-- Lithuanian Centre Party--> |–
 |<!-- Freedom and Justice --> |–
+|<!-- Democrats ‘For Lithuania’ --> |-
 |style="background:{{party color|Social Democratic Party of Lithuania}}; color:white" |'''12.2'''
 |-
 |[https://m.delfi.lt/lietuvoje/article.php?id=88494695&amp=1&id=88494695&__twitter_impression=true Baltijos tyrimai]
@@ -158,6 +184,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |2.7
 |<!-- Lithuanian Centre Party--> |2.7
 |<!-- Freedom and Justice --> |10.2
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''10.2'''
 |-
 |[https://www.delfi.lt/news/daily/lithuania/naujausiu-reitingu-sarasuose-aiski-tendencija-lvzs-ir-socialdemokratai-keicia-pozicijas.d?id=88380093 Spinter tyrimai]
@@ -173,6 +200,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |3.0
 |<!-- Lithuanian Centre Party--> |–
 |<!-- Freedom and Justice --> |–
+|<!-- Democrats ‘For Lithuania’ --> |-
 |style="background:{{party color|Social Democratic Party of Lithuania}}; color:white" |'''2.6'''
 |-
 |[https://www.delfi.lt/news/daily/lithuania/blogos-zinios-valstieciams-po-skvernelio-isejimo-populiarumas-smuko-zemyn.d?id=88278433 Vilmorus]
@@ -188,6 +216,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |2.5
 |<!-- Lithuanian Centre Party--> |–
 |<!-- Freedom and Justice --> |–
+|<!-- Democrats ‘For Lithuania’ --> |-
 |style="background:{{party color|Social Democratic Party of Lithuania}}; color:white" |'''8.0'''
 |-
 |[https://www.delfi.lt/news/daily/lithuania/triju-partiju-reitingai-susilygino-radikalizuojasi-vyriausybes-vertinimas.d?id=88192685 Spinter tyrimai]
@@ -203,6 +232,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |4.5
 |<!-- Lithuanian Centre Party--> |–
 |<!-- Freedom and Justice --> |–
+|<!-- Democrats ‘For Lithuania’ --> |-
 |style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''0.3'''
 |-
 |[https://www.lrytas.lt/lietuvosdiena/aktualijos/2021/09/22/news/naujausiuose-reitinguose-neiprastas-valdanciuju-ir-opoziciniu-partiju-palaikymas-eksperte-gyvename-nenormaliais-laikais-20835215 Baltijos tyrimai]
@@ -218,6 +248,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |2.5
 |<!-- Lithuanian Centre Party--> |–
 |<!-- Freedom and Justice --> |8.6
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Social Democratic Party of Lithuania}}; color:white" |'''8.6'''
 |-
 |[https://archive.today/bQ0S2 Vilmorus]
@@ -233,6 +264,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |4.0
 |<!-- Lithuanian Centre Party--> |–
 |<!-- Freedom and Justice --> |–
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Social Democratic Party of Lithuania}}; color:white" |'''0.4'''
 |-
 |[https://www.delfi.lt/news/daily/lithuania/naujausi-reitingai-tam-tikra-prasme-gera-zinia-valdantiesiems.d?id=87711605 Spinter tyrimai]
@@ -248,6 +280,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |-
 |<!-- Lithuanian Centre Party--> |–
 |<!-- Freedom and Justice --> |–
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Lithuanian Farmers and Greens Union}}; color:white" |'''2.0'''
 |-
 |[https://www.lrytas.lt/lietuvosdiena/aktualijos/2021/06/26/news/reitinguose-audros-konservatoriai-nubloksti-socialdemokratai-pakyleti-prastos-zinios-ir-i-simonytei-19876804/ Vilmorus]
@@ -263,6 +296,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |3.4
 |<!-- Lithuanian Centre Party--> |–
 |<!-- Freedom and Justice --> |–
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Lithuanian Farmers and Greens Union}}; color:white" |'''5.7'''
 |-
 |[https://kauno.diena.lt/naujienos/lietuva/politika/partiju-reitinguose-permainos-konservatoriai-uzleido-lyderiu-pozicijas-ekspertai-izvelgia-rizikas-1032835/ Baltijos tyrimai]
@@ -278,6 +312,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |–
 |<!-- Lithuanian Centre Party--> |–
 |<!-- Freedom and Justice --> |5.1
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Lithuanian Farmers and Greens Union}}; color:white" |'''2.0'''
 |-
 |[https://twitter.com/EuropeElects/status/1405917462051405826?s=20 Spinter tyrimai]
@@ -293,6 +328,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |–
 |–
 |<!-- Freedom and Justice --> |–
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''1.0'''
 |-
 |[https://twitter.com/EuropeElects/status/1399327914982887425?s=20/ Vilmorus]
@@ -308,6 +344,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |5.1
 |<!-- Lithuanian Centre Party--> |–
 |<!-- Freedom and Justice --> |–
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Lithuanian Farmers and Greens Union}}; color:white" |'''2.3'''
 |-
 |[https://twitter.com/EuropeElects/status/1391991009031118850?s=20 Spinter tyrimai]
@@ -323,6 +360,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |–
 |–
 |<!-- Freedom and Justice --> |–
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''0.6'''
 |-
 |[https://www.lrytas.lt/lietuvosdiena/aktualijos/2021/04/24/news/reitingai-ryskus-g-nausedos-krytis-ir-rinkeju-signalai-ministru-kabinetui-19128393/ Vilmorus]
@@ -338,6 +376,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |<!-- LSDDP--> |7.0
 |<!-- Lithuanian Centre Party--> |–
 |<!-- Freedom and Justice --> |–
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''2.7'''
 |-
 |[https://twitter.com/EuropeElects/status/1382312752446910465 Spinter tyrimai]
@@ -353,6 +392,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |–
 |–
 |<!-- Freedom and Justice --> |3.0
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''2.4'''
 |-
 |[https://www.delfi.lt/news/daily/lithuania/naujausi-reitingai-uz-karantina-baudzia-simonyte-intriga-kelia-skvernelio-pozicija.d?id=86680545 Spinter tyrimai]
@@ -368,6 +408,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |–
 |–
 |<!-- Freedom and Justice --> |4.3
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''7.3'''
 |-
 |[https://www.delfi.lt/news/daily/lithuania/naujausi-reitingai-siuncia-signalus-visoms-partijoms-dideja-atotrukis-tarp-valstieciu-ir-konservatoriu.d?id=86436355 Spinter tyrimai]
@@ -383,6 +424,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 ||–
 ||–
 |<!-- Freedom and Justice --> |2.4
+|<!-- Democrats ‘For Lithuania’ --> |-
 | style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''11.1'''
 |-
 |[https://www.delfi.lt/news/daily/lithuania/naujausi-reitingai-ispudingas-pasitikejimas-simonyte-ir-laisves-partijos-suolis.d?id=86186429 Spinter tyrimai]
@@ -398,6 +440,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 ||–
 ||–
 ||–
+|<!-- Democrats ‘For Lithuania’ --> |-
 |style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''3.6'''
 |-
 |[https://www.delfi.lt/news/daily/lithuania/pirmieji-partiniai-reitingai-po-seimo-rinkimu-ts-lkd-startavo-kaip-ir-2008-m-vadovaujant-kubiliui.d?id=85986993 Baltijos tyrimai]
@@ -413,6 +456,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 | <!-- LSDDP--> |1.9
 | <!-- Lithuanian Centre Party--> |2.5
 | <!-- Freedom and Justice --> |4.2
+|<!-- Democrats ‘For Lithuania’ --> |-
 |style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''3.7'''
 |-
 ! colspan="2" |[[2020 Lithuanian parliamentary election|2020 parliamentary election]]
@@ -427,6 +471,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 ! <!-- LSDDP--> |3.28
 ! <!-- Lithuanian Centre Party--> |2.36
 ! <!-- Freedom and Justice --> |2.06
+! <!-- Democrats ‘For Lithuania’ --> |-
 ! style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |7.7
 |}
 ;Scenarios

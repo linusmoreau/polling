@@ -26,17 +26,32 @@
 ! data-sort-type="number" style="background:Red;"|
 |-
 |[https://reitingud.ee/reitingud/ Norstat]
+|27 Dec-4 Jan
+|≥1,000
+| style="background:#FEF4AE" | '''27.4'''
+|21.2
+|20.5
+|6.9
+|6.4
+|15.0
+|1.9
+|0.7
+| style="background:{{party color|Estonian Reform Party}};" |6.2
+|48.6
+| {{no|51.4}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
 |14-20 Dec
 |≥1,000
-| style="background:#FEF4AE"| '''24.2'''
+| style="background:#FEF4AE" | '''24.2'''
 |22.1
 |19.9
 |7.8
 |5.8
 |16.7
 |1.6
-|1,9
-| style="background:{{party color|Estonian Reform Party}};"|2,1
+|1.9
+| style="background:{{party color|Estonian Reform Party}};" |2.1
 |46.3
 | {{no|53.7}}
 |-

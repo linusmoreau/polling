@@ -47,18 +47,19 @@
  | symbolsShape = dot
 }}
 
-{|class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:85%;line-height:14px"
-! rowspan="2" style="width:150px;"|Polling organisation
-! rowspan="2" style="width:100px;"|Last date of polling
-! rowspan="2" style="width:50px;"|Source
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px"
+|- style="height:40px;"
+! style="width:105px" rowspan="2"| Polling firm
+! style="width:105px" rowspan="2"| Last date<br>of polling
+! style="width:50px;" rowspan="2"| Source
 ! style="width:60px;" class="unsortable"| [[Progressive Conservative Party of Ontario|PC]]
 ! style="width:60px;" class="unsortable"| [[Ontario New Democratic Party|NDP]]
-! style="width:60px;" align="center"; class="unsortable"| [[Ontario Liberal Party|Liberal]]
-! style="width:60px;" align="center"; class="unsortable"| [[Green Party of Ontario|Green]]
-! style="width:60px;" align="center"; class="unsortable"| Other
+! style="width:60px;" class="unsortable"| [[Ontario Liberal Party|Liberal]]
+! style="width:60px;" class="unsortable"| [[Green Party of Ontario|Green]]
+! style="width:60px;" class="unsortable"| Other
+! rowspan="2" style="width:50px;" |Margin of error
+! rowspan="2" style="width:50px;" |Sample size
 ! rowspan="2" style="width:50px;"|Polling type
-! rowspan="2" style="width:50px;"|Sample size
-! rowspan="2" style="width:50px;"|Margin of error
 ! rowspan="2" style="width:25px;" data-sort-type="number" |Lead
 |-
 !style="background:{{Canadian party colour|ON|PC}};"|
@@ -67,896 +68,901 @@
 !style="background:{{Canadian party colour|ON|Green}};"|
 !style="background:{{Canadian party colour|ON|Independent}};"|
 |-
-|Leger
-|December 13, 2021
-|[https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/DEC_2021Ontario-Politics-OmniDec-16.pdf PDF]
-|{{Party shading/Conservative (Canada)}}|'''38'''
-|28
-|25
-|5
-|5
-|Online
-|1,000
-|±3.1%
-|{{Party shading/Conservative (Canada)}}|'''10'''
+| Leger
+| December 13, 2021
+| <ref group="p">{{cite web |url=https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/DEC_2021Ontario-Politics-OmniDec-16.pdf |title={{title case|PROVINCIAL POLITICS IN ONTARIO}} |date=December 2021}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''38'''
+| 28
+| 25
+| 5
+| 5
+| ±3.1%
+| 1,000
+| Online
+| {{Party shading/Conservative (Canada)}}|'''10'''
 |-
-|EKOS
-|November 25, 2021
-|[https://www.ekospolitics.com/index.php/2021/11/three-way-federal-horserace-frozen/ HTML]
-|{{Party shading/Conservative (Canada)}}|'''32.8'''
-|23.1
-|28.3
-|5.2
-|10.5
-|IVR
-|569
-|±4.1%
-|{{Party shading/Conservative (Canada)}}|'''4.5'''
+| EKOS
+| November 25, 2021
+| <ref group="p">{{Cite web|url=https://www.ekospolitics.com/index.php/2021/11/three-way-federal-horserace-frozen/|title=Three-Way Federal Horserace Frozen|date=November 27, 2021|website=EKOS Politics}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''32.8'''
+| 23.1
+| 28.3
+| 5.2
+| 10.5
+| ±4.1%
+| 569
+| IVR
+| {{Party shading/Conservative (Canada)}}|'''4.5'''
 |-
-|Innovative Research Group
-|November 17, 2021
-|[https://innovativeresearch.ca/wp-content/uploads/2021/12/OEN-Presentation-Release-Deck-2021-12-08_UPDATED.pdf#page=10 PDF]
-|{{Party shading/Conservative (Canada)}}|'''34.8'''
-|27
-|32.6
-|3.4
-|2.2
-|Online
-|1000
-|N/A
-|{{Party shading/Conservative (Canada)}}|'''2.2'''
+| Innovative Research Group
+| November 17, 2021
+| <ref group="p">https://innovativeresearch.ca/wp-content/uploads/2021/12/OEN-Presentation-Release-Deck-2021-12-08_UPDATED.pdf#page=10</ref>
+| {{Party shading/Conservative (Canada)}}|'''34.8'''
+| 27
+| 32.6
+| 3.4
+| 2.2
+| N/A
+| 1000
+| Online
+| {{Party shading/Conservative (Canada)}}|'''2.2'''
 |-
-|Leger
-|November 14, 2021
-|[https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/NOV_2021Ontario-Politics-Omni.pdf PDF]
-|{{Party shading/Conservative (Canada)}}|'''34'''
-|26
-|31
-|6
-|3
-|Online
-|1,001
-|±3.1%
-|{{Party shading/Conservative (Canada)}}|'''3'''
+| Leger
+| November 14, 2021
+| <ref group="p">https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/NOV_2021Ontario-Politics-Omni.pdf</ref>
+| {{Party shading/Conservative (Canada)}}|'''34'''
+| 26
+| 31
+| 6
+| 3
+| ±3.1%
+| 1,001
+| Online
+| {{Party shading/Conservative (Canada)}}|'''3'''
 |-
-|Leger
-|October 10, 2021
-|[https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/OCT_2021Ontario-Politics-Omni.pdf PDF]
-|{{Party shading/Conservative (Canada)}}|'''35'''
-|25
-|30
-|5
-|5
-|Online
-|1,003
-|±3.1%
-|{{Party shading/Conservative (Canada)}}| '''5'''
+| Leger
+| October 10, 2021
+| <ref group="p">https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/OCT_2021Ontario-Politics-Omni.pdf</ref>
+| {{Party shading/Conservative (Canada)}}|'''35'''
+| 25
+| 30
+| 5
+| 5
+| ±3.1%
+| 1,003
+| Online
+| {{Party shading/Conservative (Canada)}}| '''5'''
 |-
-|Angus Reid
-|October 3, 2021
-|[https://angusreid.org/wp-content/uploads/2021/10/2021.10.27_Provincial_Spotlight.pdf PDF]
-|{{Party shading/Conservative (Canada)}}| '''34'''
-|32
-|25
-|4
-|5
-|Online
-|910
-|N/A
-|{{Party shading/Conservative (Canada)}}| '''2'''
+| Angus Reid
+| October 3, 2021
+| <ref group="p">https://angusreid.org/wp-content/uploads/2021/10/2021.10.27_Provincial_Spotlight.pdf</ref>
+| {{Party shading/Conservative (Canada)}}| '''34'''
+| 32
+| 25
+| 4
+| 5
+| N/A
+| 910
+| Online
+| {{Party shading/Conservative (Canada)}}| '''2'''
 |-
-|Angus Reid
-|June 7, 2021
-|[https://angusreid.org/premier-approval-june2021/ HTML]
-|{{Party shading/Conservative (Canada)}}|'''37'''
-|33
-|22
-|6
-|3
-|Online
-|791
-|±2%
-|{{Party shading/Conservative (Canada)}}|'''4'''
+| Angus Reid
+| June 7, 2021
+| <ref group="p">{{Cite web|url=https://angusreid.org/premier-approval-june2021/|title=Premiers' Performance: Ford and Kenney's popularity & political fortunes bear brunt of pandemic management|date=June 9, 2021}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''37'''
+| 33
+| 22
+| 6
+| 3
+| ±2%
+| 791
+| Online
+| {{Party shading/Conservative (Canada)}}|'''4'''
 |-
-|[[Léger (company)|Leger]]
-|May 23, 2021
-|[https://nationalpost.com/news/politics/doug-ford-loses-ground-in-ontarios-third-wave-but-opposition-popularity-is-down-too-poll HTML]
-|{{Party shading/Conservative (Canada)}}|'''34'''
-|25
-|26
-|9
-|n/a
-|Online
-|1,001
-|±3.1%
-|{{Party shading/Conservative (Canada)}}|'''8'''
+| [[Léger (company)|Leger]]
+| May 23, 2021
+| <ref group="p">{{Cite news|url=https://nationalpost.com/news/politics/doug-ford-loses-ground-in-ontarios-third-wave-but-opposition-popularity-is-down-too-poll|title=Doug Ford loses ground in Ontario's third wave, but opposition popularity is down too: poll|first=Joseph|last=Brean|newspaper=National Post|date=May 30, 2021}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''34'''
+| 25
+| 26
+| 9
+| n/a
+| ±3.1%
+| 1,001
+| Online
+| {{Party shading/Conservative (Canada)}}|'''8'''
 |-
-|Mainstreet Research
-|May 16, 2021
-|[https://qc125.com/proj/2021-05-19-ms-on.pdf PDF]
-|{{Party shading/Conservative (Canada)}}|'''33'''
-|28
-|27
-|6
-|6
-|Online
-|958
-|±3%
-|{{Party shading/Conservative (Canada)}}|'''5'''
+| Mainstreet Research
+| May 16, 2021
+| <ref group="p">https://qc125.com/proj/2021-05-19-ms-on.pdf</ref>
+| {{Party shading/Conservative (Canada)}}|'''33'''
+| 28
+| 27
+| 6
+| 6
+| ±3%
+| 958
+| Online
+| {{Party shading/Conservative (Canada)}}|'''5'''
 |-
-|Campaign Research
-|May 8, 2021
-|[https://drive.google.com/file/d/1349VtKag1vSEXqYbi8lOKgI0rzUXTLvX/view HTML]
-|{{Party shading/Conservative (Canada)}}|'''36'''
-|25
-|28
-|7
-|4
-|Online
-|2,009
-|±2%
-|{{Party shading/Conservative (Canada)}}|'''8'''
+| Campaign Research
+| May 8, 2021
+| <ref group="p">{{Cite web|url=https://drive.google.com/file/d/1349VtKag1vSEXqYbi8lOKgI0rzUXTLvX/view?usp=embed_facebook|title=2021 05 10 May Omnibus Toronto Sun.pdf|website=Google Docs}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''36'''
+| 25
+| 28
+| 7
+| 4
+| ±2%
+| 2,009
+| Online
+| {{Party shading/Conservative (Canada)}}|'''8'''
 |-
-|Innovative Research Group
-|May 4, 2021
-|[https://innovativeresearch.ca/wp-content/uploads/2021/05/CTM2104-W5-Ontario-Report-Release-Deck.pdf PDF]
-|32
-|22
-|{{Party shading/Liberal}}|'''36'''
-|8
-|2
-|Online
-|481
-|N/A
-|{{Party shading/Liberal}}|'''4'''
+| Innovative Research Group
+| May 4, 2021
+| <ref group="p">https://innovativeresearch.ca/wp-content/uploads/2021/05/CTM2104-W5-Ontario-Report-Release-Deck.pdf</ref>
+| 32
+| 22
+| {{Party shading/Liberal}}|'''36'''
+| 8
+| 2
+| N/A
+| 481
+| Online
+| {{Party shading/Liberal}}|'''4'''
 |-
-|[[Abacus Data]]
-|April 21, 2021
-|[https://abacusdata.ca/ontario-politics-ford-april-negatives-rise-polling/ HTML]
-|34
-|23
-|{{Party shading/Liberal}}|'''35'''
-|5
-|2
-|Online
-|1,007
-|±3.1%
-|{{Party shading/Liberal}}|'''1'''
+| [[Abacus Data]]
+| April 21, 2021
+| <ref group="p">{{Cite web|url=https://abacusdata.ca/ontario-politics-ford-april-negatives-rise-polling/|title=Abacus Data &#124; Doug Ford's negatives rise 9-points in a week as public responds to new restrictions|website=abacusdata.ca}}</ref>
+| 34
+| 23
+| {{Party shading/Liberal}}|'''35'''
+| 5
+| 2
+| ±3.1%
+| 1,007
+| Online
+| {{Party shading/Liberal}}|'''1'''
 |-
-|Innovative Research Group
-|April 20, 2021
-|[https://innovativeresearch.ca/wp-content/uploads/2021/04/CTM2104-W3-Ontario-Report-Release-Deck-FINAL.pdf PDF]
-|30
-|26
-|{{Party shading/Liberal}}|'''35'''
-|8
-|1
-|Online
-|800
-|N/A
-|{{Party shading/Liberal}}|'''5'''
+| Innovative Research Group
+| April 20, 2021
+| <ref group="p">https://innovativeresearch.ca/wp-content/uploads/2021/04/CTM2104-W3-Ontario-Report-Release-Deck-FINAL.pdf</ref>
+| 30
+| 26
+| {{Party shading/Liberal}}|'''35'''
+| 8
+| 1
+| N/A
+| 800
+| Online
+| {{Party shading/Liberal}}|'''5'''
 |-
-|[[Abacus Data]]
-|April 14, 2021
-|[https://abacusdata.ca/ontario-politics-doug-ford-covid/ HTML]
-|{{Party shading/Conservative (Canada)}}|'''34'''
-|23
-|{{Party shading/Liberal}}|'''34'''
-|5
-|4
-|Online
-|817
-|±3.5%
+| [[Abacus Data]]
+| April 14, 2021
+| <ref group="p">{{Cite web|url=https://abacusdata.ca/ontario-politics-doug-ford-covid/|title=Abacus Data &#124; Ontario PCs and Liberals tied as frustration over vaccine rollout and 3rd wave rises|website=abacusdata.ca}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''34'''
+| 23
+| {{Party shading/Liberal}}|'''34'''
+| 5
+| 4
+| ±3.5%
+| 817
+| Online
 |'''0'''
 |-
-|Innovative Research Group
-|April 13, 2021
-|[https://innovativeresearch.ca/wp-content/uploads/2021/04/CTM2104-Ontario-Report-Release-Deck.pdf PDF]
-|32
-|24
-|{{Party shading/Liberal}}|'''33'''
-|8
-|2
-|Online
-|704
-|N/A
-|{{Party shading/Liberal}}|'''1'''
+| Innovative Research Group
+| April 13, 2021
+| <ref group="p">https://innovativeresearch.ca/wp-content/uploads/2021/04/CTM2104-Ontario-Report-Release-Deck.pdf</ref>
+| 32
+| 24
+| {{Party shading/Liberal}}|'''33'''
+| 8
+| 2
+| N/A
+| 704
+| Online
+| {{Party shading/Liberal}}|'''1'''
 |-
-|EKOS
-|{{dts|April 12, 2021}}
-|[https://twitter.com/VoiceOfFranky/status/1383218916814516226?s=20 HTML]
-|{{Party shading/Conservative (Canada)}}|'''34.6'''
-|23.5
-|29.9
-|8.9
-|3
-|IVR
-|1204
-|±2.8%
-|{{Party shading/Conservative (Canada)}}|'''4.7'''
+| EKOS
+| {{dts|April 12, 2021}}
+| <ref group="p">{{cite tweet |user=VoiceOfFranky |number=1383218916814516226 |title=That comfortable lead has been eroding progressively as the pandemic evolves ...}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''34.6'''
+| 23.5
+| 29.9
+| 8.9
+| 3
+| ±2.8%
+| 1204
+| IVR
+| {{Party shading/Conservative (Canada)}}|'''4.7'''
 |-
-|Campaign Research
-|April 6, 2021
-|[https://drive.google.com/file/d/15b-s20GtYVWI5s_JR1QNgGvsjhfkApX1/view HTML]
-|{{Party shading/Conservative (Canada)}}|'''41'''
-|22
-|24
-|10
-|2
-|Online
-|1,886
-|±2.3%
-|{{Party shading/Conservative (Canada)}}|'''17'''
+| Campaign Research
+| April 6, 2021
+| <ref group="p">{{Cite web|url=https://drive.google.com/file/d/15b-s20GtYVWI5s_JR1QNgGvsjhfkApX1/view?usp=embed_facebook|title=2021 04 06 April Omnibus Toronto Star.pdf|website=Google Docs}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''41'''
+| 22
+| 24
+| 10
+| 2
+| ±2.3%
+| 1,886
+| Online
+| {{Party shading/Conservative (Canada)}}|'''17'''
 |-
-|[[Léger (company)|Leger]]
-|March 22, 2021
-|[https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Provincial-politics-ONT-March-24-2021.pdf PDF]
-|{{Party shading/Conservative (Canada)}}|'''38'''
-|28
-|23
-|8
-|3
-|Online
-|1,002
-|±3.1%
-|{{Party shading/Conservative (Canada)}}|'''10'''
+| [[Léger (company)|Leger]]
+| March 22, 2021
+| <ref group="p">https://2g2ckk18vixp3neolz4b6605-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Provincial-politics-ONT-March-24-2021.pdf</ref>
+| {{Party shading/Conservative (Canada)}}|'''38'''
+| 28
+| 23
+| 8
+| 3
+| ±3.1%
+| 1,002
+| Online
+| {{Party shading/Conservative (Canada)}}|'''10'''
 |-
-|Campaign Research
-|March 11, 2021
-|[https://drive.google.com/file/d/1qGe_ujGOCtmpiqVADeyb1bLVzWEOqnhw/view HTML]
-|{{Party shading/Conservative (Canada)}}|'''43'''
-|25
-|20
-|9
-|3
-|Online
-|1,344
-|±2.7%
-|{{Party shading/Conservative (Canada)}}|'''18'''
+| Campaign Research
+| March 11, 2021
+| <ref group="p">{{Cite web|url=https://drive.google.com/file/d/1qGe_ujGOCtmpiqVADeyb1bLVzWEOqnhw/view?usp=embed_facebook|title=2021 03 12 Toronto Star Ontario Omnibus.pdf|website=Google Docs}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''43'''
+| 25
+| 20
+| 9
+| 3
+| ±2.7%
+| 1,344
+| Online
+| {{Party shading/Conservative (Canada)}}|'''18'''
 |-
-|Mainstreet Research
-|February 16, 2021
-|[https://www.qpbriefing.com/2021/02/19/nearly-half-of-voters-say-ford-has-done-a-good-job-at-managing-the-pandemic-poll/ HTML]
-|{{Party shading/Conservative (Canada)}}|'''43'''
-|22
-|25
-|6
-|4
-|IVR
-|1,011
-|±3.08%
-|{{Party shading/Conservative (Canada)}}|'''18'''
+| Mainstreet Research
+| February 16, 2021
+| <ref group="p">{{Cite web|url=https://www.qpbriefing.com/2021/02/19/nearly-half-of-voters-say-ford-has-done-a-good-job-at-managing-the-pandemic-poll/|title=Nearly half of voters say Ford has done a 'good job' at managing the pandemic: Poll|first=Jessica Smith|last=Cross|date=February 19, 2021}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''43'''
+| 22
+| 25
+| 6
+| 4
+| ±3.08%
+| 1,011
+| IVR
+| {{Party shading/Conservative (Canada)}}|'''18'''
 |-
-|Campaign Research
-|January 31, 2021
-|[https://drive.google.com/file/d/1eDSLPWqL8fxJy2GLoDKGRwe9-PYaHHO_/view HTML]
-|{{Party shading/Conservative (Canada)}}|'''44'''
-|25
-|21
-|8
-|3
-|Online
-|1,427
-|±2.6%
-|{{Party shading/Conservative (Canada)}}|'''19'''
+| Campaign Research
+| January 31, 2021
+| <ref group="p">{{Cite web|url=https://drive.google.com/file/d/1eDSLPWqL8fxJy2GLoDKGRwe9-PYaHHO_/view?usp=embed_facebook|title=2021 02 01 Toronto Star Ontario Omnibus.pdf|website=Google Docs}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''44'''
+| 25
+| 21
+| 8
+| 3
+| ±2.6%
+| 1,427
+| Online
+| {{Party shading/Conservative (Canada)}}|'''19'''
 |-
-|[[Abacus Data]]
-|January 12, 2021
-|[https://abacusdata.ca/ontario-politics-poll-ford-abacus/ HTML]
-|{{Party shading/Conservative (Canada)}}|'''34'''
-|25
-|29
-|8
-|3
-|Online
-|793
-|±3.48%
-|{{Party shading/Conservative (Canada)}}|'''5'''
+| [[Abacus Data]]
+| January 12, 2021
+| <ref group="p">{{Cite web|url=https://abacusdata.ca/ontario-politics-poll-ford-abacus/|title=Abacus Data &#124; A New Year Brings Old Politics to Ontario|website=abacusdata.ca}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''34'''
+| 25
+| 29
+| 8
+| 3
+| ±3.48%
+| 793
+| Online
+| {{Party shading/Conservative (Canada)}}|'''5'''
 |-
-|Mainstreet Research
-|December 5, 2020
-|[https://qc125.com/proj/2020-12-10-Ontario-338Canada.pdf PDF]
-|{{Party shading/Conservative (Canada)}}|'''46.2'''
-|23.4
-|19.9
-|6.2
-|4.3
-|IVR
-|1,014
-|±2.94%
-|{{Party shading/Conservative (Canada)}}|'''22.8'''
+| Mainstreet Research
+| December 5, 2020
+| <ref group="p">https://qc125.com/proj/2020-12-10-Ontario-338Canada.pdf</ref>
+| {{Party shading/Conservative (Canada)}}|'''46.2'''
+| 23.4
+| 19.9
+| 6.2
+| 4.3
+| ±2.94%
+| 1,014
+| IVR
+| {{Party shading/Conservative (Canada)}}|'''22.8'''
 |-
-|Campaign Research
-|December 3, 2020
-|[https://drive.google.com/file/d/1wTwIef8cuqOtWF5i-QLa43GY15gnUsYj/view PDF]
-|{{Party shading/Conservative (Canada)}}|'''45'''
-|20
-|24
-|8
-|5
-|Online
-|1,001
-|±3%
-|{{Party shading/Conservative (Canada)}}|'''21'''
+| Campaign Research
+| December 3, 2020
+| <ref group="p">{{Cite web|url=https://drive.google.com/file/d/1wTwIef8cuqOtWF5i-QLa43GY15gnUsYj/view?usp=embed_facebook|title=2020 12 04 December Omnibus Toronto Star Part 1.pdf|website=Google Docs}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''45'''
+| 20
+| 24
+| 8
+| 5
+| ±3%
+| 1,001
+| Online
+| {{Party shading/Conservative (Canada)}}|'''21'''
 |-
-|Angus Reid
-|November 30, 2020
-|[http://angusreid.org/wp-content/uploads/2020/12/2020.12.07_Province-Spotlight.pdf HTML]
-|{{Party shading/Conservative (Canada)}}|'''42'''
-|28
-|22
-|5
-|3
-|Online
-|1,049
-|N/A
-|{{Party shading/Conservative (Canada)}}|'''14'''
+| Angus Reid
+| November 30, 2020
+| <ref group="p">{{cite web |url=http://angusreid.org/wp-content/uploads/2020/12/2020.12.07_Province-Spotlight.pdf |title=Provincial Spotlight: As pandemic wears on, governments losing support on economic, COVID-19 management |date=December 2020}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''42'''
+| 28
+| 22
+| 5
+| 3
+| N/A
+| 1,049
+| Online
+| {{Party shading/Conservative (Canada)}}|'''14'''
 |-
-|Campaign Research
-|November 2, 2020
-|[https://www.campaignresearch.com/single-post/november-omnibus-2020-ontario-study HTML]
-|{{Party shading/Conservative (Canada)}}|'''48'''
-|21
-|23
-|7
-|1
-|Online
-|1,118
-|±3%
-|{{Party shading/Conservative (Canada)}}|'''25'''
+| Campaign Research
+| November 2, 2020
+| <ref group="p">{{Cite web|url=https://www.campaignresearch.com//single-post/november-omnibus-2020-ontario-study|title=November Omnibus 2020 - Ontario Study|first=Nick|last=Kouvalis|date=November 3, 2020|website=campaignresearch}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''48'''
+| 21
+| 23
+| 7
+| 1
+| ±3%
+| 1,118
+| Online
+| {{Party shading/Conservative (Canada)}}|'''25'''
 |-
-|[[Abacus Data]]
-|October 30, 2020
-|[https://abacusdata.ca/ontario-pcs-ford-approval-vote-budget/ HTML]
-|{{Party shading/Conservative (Canada)}}|'''36'''
-|25
-|29
-|7
-|3
-|Online
-|1,000
-|±3.1%
-|{{Party shading/Conservative (Canada)}}|'''7'''
+| [[Abacus Data]]
+| October 30, 2020
+| <ref group="p">{{Cite web|url=https://abacusdata.ca/ontario-pcs-ford-approval-vote-budget/|title=Abacus Data &#124; Ontario PCs lead by 7 as budget set to drop|website=abacusdata.ca}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''36'''
+| 25
+| 29
+| 7
+| 3
+| ±3.1%
+| 1,000
+| Online
+| {{Party shading/Conservative (Canada)}}|'''7'''
 |-
-|[[Abacus Data]]
-|October 12, 2020
-|[https://abacusdata.ca/ontario-pcs-ford-approval-vote/ HTML]
-|{{Party shading/Conservative (Canada)}}|'''36'''
-|29
-|26
-|6
-|2
-|Online
-|1,000
-|±3.1%
-|{{Party shading/Conservative (Canada)}}|'''7'''
+| [[Abacus Data]]
+| October 12, 2020
+| <ref group="p">{{Cite web|url=https://abacusdata.ca/ontario-pcs-ford-approval-vote/|title=Abacus Data &#124; Ontario PCs lead by 7 even as Ford Government approval drops 8 points|website=abacusdata.ca}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''36'''
+| 29
+| 26
+| 6
+| 2
+| ±3.1%
+| 1,000
+| Online
+| {{Party shading/Conservative (Canada)}}|'''7'''
 |-
-|Campaign Research
-|October 2, 2020
-|[https://www.campaignresearch.com/single-post/2020/10/09/october-omnibus-2020-ontario-study HTML]
-|{{Party shading/Conservative (Canada)}}|'''46'''
-|24
-|20
-|9
-|2
-|Online
-|1,017
-|±3%
-|{{Party shading/Conservative (Canada)}}|'''22'''
+| Campaign Research
+| October 2, 2020
+| <ref group="p">{{Cite web|url=https://www.campaignresearch.com//single-post/2020/10/09/october-omnibus-2020-ontario-study|title=October Omnibus 2020 - Ontario Study|first=Nick|last=Kouvalis|date=October 9, 2020|website=campaignresearch}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''46'''
+| 24
+| 20
+| 9
+| 2
+| ±3%
+| 1,017
+| Online
+| {{Party shading/Conservative (Canada)}}|'''22'''
 |-
-|Campaign Research
-|September 3, 2020
-|[https://www.campaignresearch.com/single-post/Toronto-Star-Ontario-Study---September-2020 HTML]
-|{{Party shading/Conservative (Canada)}}|'''48'''
-|22
-|24
-|6
-|2
-|Online
-|1,129
-|±3%
-|{{Party shading/Conservative (Canada)}}|'''24'''
+| Campaign Research
+| September 3, 2020
+| <ref group="p">{{Cite web|url=https://www.campaignresearch.com//single-post/toronto-star-ontario-study-september-2020|title=Toronto Star Ontario Study - September 2020|first=Nick|last=Kouvalis|date=September 4, 2020|website=campaignresearch}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''48'''
+| 22
+| 24
+| 6
+| 2
+| ±3%
+| 1,129
+| Online
+| {{Party shading/Conservative (Canada)}}|'''24'''
 |-
-|Angus Reid
-|September 1, 2020
-|[http://angusreid.org/wp-content/uploads/2020/09/2020.09.17_Ontario_Spotlight.pdf PDF]
-|{{Party shading/Conservative (Canada)}}|'''45'''
-|28
-|22
-|4
-|1
-|Online
-|1,026
-|±3%
-|{{Party shading/Conservative (Canada)}}|'''17'''
+| Angus Reid
+| September 1, 2020
+| <ref group="p">{{cite web |url=http://angusreid.org/wp-content/uploads/2020/09/2020.09.17_Ontario_Spotlight.pdf |title=Ontario Spotlight: As COVID-19 cases climb, can the Ford government maintain the political goodwill it’s earned? |date=September 2020}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''45'''
+| 28
+| 22
+| 4
+| 1
+| ±3%
+| 1,026
+| Online
+| {{Party shading/Conservative (Canada)}}|'''17'''
 |-
-|Campaign Research
-|August 13, 2020
-|[https://www.campaignresearch.com/single-post/Ontario-Study-and-Leadership-Approval-Ratings-August-2020 HTML]
-|{{Party shading/Conservative (Canada)}}|'''41'''
-|23
-|26
-|8
-|3
-|Online
-|2,013
-|±2%
-|{{Party shading/Conservative (Canada)}}|'''15'''
+| Campaign Research
+| August 13, 2020
+| <ref group="p">{{Cite web|url=https://www.campaignresearch.com//single-post/ontario-study-and-leadership-approval-ratings-august-2020|title=Ontario Study and Leadership Approval Ratings - August 2020|first=Nick|last=Kouvalis|date=August 17, 2020|website=campaignresearch}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''41'''
+| 23
+| 26
+| 8
+| 3
+| ±2%
+| 2,013
+| Online
+| {{Party shading/Conservative (Canada)}}|'''15'''
 |-
-|Innovative Research Group
-|July 20, 2020
-|[https://innovativeresearch.ca/wp-content/uploads/2020/07/CTM2007-Ontario-Release.pdf PDF]
-|36
-|18
-|{{Party shading/Liberal}}|'''37'''
-|8
-|1
-|Online
-|974
-|N/A
-|{{Party shading/Liberal}}|'''1'''
+| Innovative Research Group
+| July 20, 2020
+| <ref group="p">https://innovativeresearch.ca/wp-content/uploads/2020/07/CTM2007-Ontario-Release.pdf</ref>
+| 36
+| 18
+| {{Party shading/Liberal}}|'''37'''
+| 8
+| 1
+| N/A
+| 974
+| Online
+| {{Party shading/Liberal}}|'''1'''
 |-
-|Campaign Research
-|July 10, 2020
-|[https://www.campaignresearch.com/single-post/Ontario-Monthly-Omnibus HTML]
-|{{Party shading/Conservative (Canada)}}|'''45'''
-|20
-|27
-|7
-|1
-|Online
-|1,395
-|±3%
-|{{Party shading/Conservative (Canada)}}|'''18'''
+| Campaign Research
+| July 10, 2020
+| <ref group="p">{{Cite web|url=https://www.campaignresearch.com//single-post/ontario-monthly-omnibus|title=Ontario Monthly Omnibus|first=Nick|last=Kouvalis|date=July 10, 2020|website=campaignresearch}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''45'''
+| 20
+| 27
+| 7
+| 1
+| ±3%
+| 1,395
+| Online
+| {{Party shading/Conservative (Canada)}}|'''18'''
 |-
-|Innovative Research Group
-|June 23, 2020
-|[https://innovativeresearch.ca/wp-content/uploads/2020/06/CTM-June-2020-Federal-and-Provincial-Politics-Overview-20200626.pdf PDF]
-|31
-|21
-|{{Party shading/Liberal}}|'''39'''
-|9
-|1
-|Online
-|838
-|N/A
-|{{Party shading/Liberal}}|'''8'''
+| Innovative Research Group
+| June 23, 2020
+| <ref group="p">https://innovativeresearch.ca/wp-content/uploads/2020/06/CTM-June-2020-Federal-and-Provincial-Politics-Overview-20200626.pdf</ref>
+| 31
+| 21
+| {{Party shading/Liberal}}|'''39'''
+| 9
+| 1
+| N/A
+| 838
+| Online
+| {{Party shading/Liberal}}|'''8'''
 |-
-|Mainstreet Research
-|June 7, 2020
-|[https://www.mainstreetresearch.ca/ontario-pcs-have-fourteen-point-lead-ford-approval-rating-improves/ HTML]
-|{{Party shading/Conservative (Canada)}}|'''41.8'''
-|23.0
-|27.7
-|5.5
-|2.0
-|IVR
-|1,068
-|±3%
-|{{Party shading/Conservative (Canada)}}|'''14.1'''
+| Mainstreet Research
+| June 7, 2020
+| <ref group="p">{{Cite web |title=Ontario PCs Have Fourteen Point Lead, Ford Approval Rating Improves |work=Mainstreet Research |date=June 2020 |access-date=9 January 2022 |url=https://www.mainstreetresearch.ca/poll/ontario-pcs-have-fourteen-point-lead-ford-approval-rating-improves/}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''41.8'''
+| 23.0
+| 27.7
+| 5.5
+| 2.0
+| ±3%
+| 1,068
+| IVR
+| {{Party shading/Conservative (Canada)}}|'''14.1'''
 |-
-|Campaign Research
-|June 2, 2020
-|[https://drive.google.com/file/d/1CI7HKj-cyx8IYbBF0WZ1Snt-urvpdOdF/view PDF]
-|{{Party shading/Conservative (Canada)}}|'''44'''
-|22
-|27
-|6
-|2
-|Online
-|1,512
-|±2.5%
-|{{Party shading/Conservative (Canada)}}|'''17'''
+| Campaign Research
+| June 2, 2020
+| <ref group="p">{{Cite web|url=https://drive.google.com/file/d/1CI7HKj-cyx8IYbBF0WZ1Snt-urvpdOdF/view?usp=embed_facebook|title=Ontario Omnibus for June 2020.pdf|website=Google Docs}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''44'''
+| 22
+| 27
+| 6
+| 2
+| ±2.5%
+| 1,512
+| Online
+| {{Party shading/Conservative (Canada)}}|'''17'''
 |-
-|Innovative Research Group
-|June 1, 2020
-|[https://innovativeresearch.ca/wp-content/uploads/2020/06/IRG.38-Wave-8-Political-Overview-Release-Deck.pdf PDF]
-|33
-|20
-|{{Party shading/Liberal}}|'''38'''
-|9
-|0
-|Online
-|698
-|N/A
-|{{Party shading/Liberal}}|'''5'''
+| Innovative Research Group
+| June 1, 2020
+| <ref group="p">https://innovativeresearch.ca/wp-content/uploads/2020/06/IRG.38-Wave-8-Political-Overview-Release-Deck.pdf</ref>
+| 33
+| 20
+| {{Party shading/Liberal}}|'''38'''
+| 9
+| 0
+| N/A
+| 698
+| Online
+| {{Party shading/Liberal}}|'''5'''
 |-
-|Angus Reid
-|May 24, 2020
-|[http://angusreid.org/provincial-outlook-june2020/ HTML]
-|{{Party shading/Conservative (Canada)}}|'''43'''
-|26
-|25
-|6
-|1
-|Online
-|1,061
-|N/A
-|{{Party shading/Conservative (Canada)}}|'''17'''
+| Angus Reid
+| May 24, 2020
+| <ref group="p">{{Cite web|url=https://angusreid.org/provincial-outlook-june2020/|title=Provincial Spotlight: COVID-19 creates comfort zone for incumbent governments coast to coast|date=June 8, 2020}}</ref>
+| {{Party shading/Conservative (Canada)}}|'''43'''
+| 26
+| 25
+| 6
+| 1
+| N/A
+| 1,061
+| Online
+| {{Party shading/Conservative (Canada)}}|'''17'''
 |-
-|[[Abacus Data]]
-|May 22, 2020
-|[https://abacusdata.ca/ontario-political-update-doug-ford-image-may2020/ HTML]
-|36
-|19
-|{{Party shading/Liberal}}|'''38'''
-|5
-|2
-|Online
-|597
-|±4.1%
-|{{Party shading/Liberal}}|'''2'''
+| [[Abacus Data]]
+| May 22, 2020
+| <ref group="p">{{Cite web|url=https://abacusdata.ca/ontario-political-update-doug-ford-image-may2020/|title=Abacus Data &#124; Doug Ford's image goes from very bad to impressive in less than three months.|website=abacusdata.ca}}</ref>
+| 36
+| 19
+| {{Party shading/Liberal}}|'''38'''
+| 5
+| 2
+| ±4.1%
+| 597
+| Online
+| {{Party shading/Liberal}}|'''2'''
 |-
-|Innovative Research Group
-|May 5, 2020
-|[https://innovativeresearch.ca/wp-content/uploads/2020/05/INNOVATIVE-Federal-and-Provincial-Politics-Update-20200506.pdf PDF]
-|34
-|18
-|{{Party shading/Liberal}}|'''39'''
-|7
-|1
-|Online
-|791
-|N/A
-|{{Party shading/Liberal}}|'''5'''
+| Innovative Research Group
+| May 5, 2020
+| <ref group="p">https://innovativeresearch.ca/wp-content/uploads/2020/05/INNOVATIVE-Federal-and-Provincial-Politics-Update-20200506.pdf</ref>
+| 34
+| 18
+| {{Party shading/Liberal}}|'''39'''
+| 7
+| 1
+| N/A
+| 791
+| Online
+| {{Party shading/Liberal}}|'''5'''
 |-
-|EKOS
-|{{dts|March 26, 2020}}
-|[http://www.ekospolitics.com/index.php/2020/03/covid-19-produces-pervasive-and-strong-anxiety/ HTML]
-|31.5
-|17.9
-|{{Party shading/Liberal}}|'''40.4'''
-|7.1
-|3.1
-|IVR
-|774
-|±3.5%
-|{{Party shading/Liberal}}|'''8.9'''
+| EKOS
+| {{dts|March 26, 2020}}
+| <ref group="p">{{Cite web|url=https://www.ekospolitics.com/index.php/2020/03/covid-19-produces-pervasive-and-strong-anxiety/|title=COVID-19 Produces Pervasive and Strong Anxiety|first=Daniel|last=Nixey|date=March 27, 2020|website=EKOS Politics}}</ref>
+| 31.5
+| 17.9
+| {{Party shading/Liberal}}|'''40.4'''
+| 7.1
+| 3.1
+| ±3.5%
+| 774
+| IVR
+| {{Party shading/Liberal}}|'''8.9'''
 |-
-|[[Mainstreet Research]]
-|March 20, 2020
-|[https://www.mainstreetresearch.ca/march-2020-ontario-poll-pc-33-liberal-33-23-green-7/ HTML]
-|{{Party shading/Conservative (Canada)}}|'''33.1'''
-|23.2
-|33.0
-|6.9
-|3.8
-|IVR
-|1,017
-|±2.73%
-|{{Party shading/Conservative (Canada)}}|'''0.1'''
+| [[Mainstreet Research]]
+| March 20, 2020
+| <ref group="p">{{Cite web |title=March 2020 Ontario Poll: PC 33%, Liberal 33%, 23%, Green 7% |work=Mainstreet Research |date=2020 |access-date=9 January 2022 |url= https://www.mainstreetresearch.ca/poll/march-2020-ontario-poll-pc-33-liberal-33-23-green-7/ }}
+</ref>
+| {{Party shading/Conservative (Canada)}}|'''33.1'''
+| 23.2
+| 33.0
+| 6.9
+| 3.8
+| ±2.73%
+| 1,017
+| IVR
+| {{Party shading/Conservative (Canada)}}|'''0.1'''
 |-
-|{{sort|2020-03-07|7 March 2020}} || colspan="11" |'''[[Steven Del Duca]] is elected as leader of the [[Ontario Liberal Party]]'''
+| {{sort|2020-03-07|7 March 2020}} || colspan="11" |'''[[Steven Del Duca]] is elected as leader of the [[Ontario Liberal Party]]'''
 |-
-|Campaign Research
-|{{dts|March 5, 2020}}
-|[https://drive.google.com/file/d/1AzVPFtm_Xo3lB67nUf40X1oEWKxwpEP6/view PDF]
-|{{Party shading/Conservative (Canada)}} |'''32'''
-|28
-|28
-|10
-|2
-|Online
-|1,144
-|±2.9%
-|{{Party shading/Conservative (Canada)}}|'''4'''
+| Campaign Research
+| {{dts|March 5, 2020}}
+| <ref group="p">{{Cite web|url=https://drive.google.com/file/d/1AzVPFtm_Xo3lB67nUf40X1oEWKxwpEP6/view?usp=embed_facebook|title=20200306 Ontario Teacher Press Release.pdf|website=Google Docs}}</ref>
+| {{Party shading/Conservative (Canada)}} |'''32'''
+| 28
+| 28
+| 10
+| 2
+| ±2.9%
+| 1,144
+| Online
+| {{Party shading/Conservative (Canada)}}|'''4'''
 |-
-|[[Angus Reid (market research)#The%20Angus%20Reid%20Institute|Angus Reid]]
-|February 28, 2020
-|[http://angusreid.org/wp-content/uploads/2020/03/2020.03.012_provincial_outlook.pdf PDF]
-|{{Party shading/Conservative (Canada)}} |'''36'''
-|31
-|24
-|8
-|1
-|Online
-|1,051
-|±3.0%
-|{{Party shading/Conservative (Canada)}}|'''5'''
+| [[Angus Reid (market research)#The Angus Reid Institute|Angus Reid]]
+| February 28, 2020
+| <ref group="p">{{cite web |url=http://angusreid.org/wp-content/uploads/2020/03/2020.03.012_provincial_outlook.pdf |title=Provincial Spotlight: A cross-country breakdown of what issues matter most and government performance ratings |date=March 2020}}</ref>
+| {{Party shading/Conservative (Canada)}} |'''36'''
+| 31
+| 24
+| 8
+| 1
+| ±3.0%
+| 1,051
+| Online
+| {{Party shading/Conservative (Canada)}}|'''5'''
 |-
-|Campaign Research
-|February 26, 2020
-|[https://drive.google.com/file/d/13x6xJIkNuPyg0soO8IDs3VUt547Duw79/view PDF]
-|{{Party shading/Conservative (Canada)}} |'''32'''
-|28
-|29
-|9
-|3
-|Online
-|1,003
-|±3.1%
-|{{Party shading/Conservative (Canada)}}|'''3'''
+| Campaign Research
+| February 26, 2020
+| <ref group="p">{{Cite web|url=https://drive.google.com/file/d/13x6xJIkNuPyg0soO8IDs3VUt547Duw79/view?usp=embed_facebook|title=20200228 Ontario Teacher Dispute|website=Google Docs}}</ref>
+| {{Party shading/Conservative (Canada)}} |'''32'''
+| 28
+| 29
+| 9
+| 3
+| ±3.1%
+| 1,003
+| Online
+| {{Party shading/Conservative (Canada)}}|'''3'''
 |-
-|Campaign Research 
-|February 9, 2020
-|[https://drive.google.com/file/d/1s8g6nxP48dgUgYs3y9WaGUmcIYyOgUsf/view PDF]
-|{{Party shading/Conservative (Canada)}} |'''30'''
-|26
-|{{Party shading/Liberal}}|'''30'''
-|11
-|3
-|Online
-|1,536
-|±2.5%
+| Campaign Research 
+| February 9, 2020
+| <ref group="p">{{Cite web|url=https://drive.google.com/file/d/1s8g6nxP48dgUgYs3y9WaGUmcIYyOgUsf/view?usp=embed_facebook|title=20200211 Press Release.pdf|website=Google Docs}}</ref>
+| {{Party shading/Conservative (Canada)}} |'''30'''
+| 26
+| {{Party shading/Liberal}}|'''30'''
+| 11
+| 3
+| ±2.5%
+| 1,536
+| Online
 |'''0'''
 |-
-|[[Ekos Research Associates|EKOS]]
-|January 19, 2020
-|[https://www.ekospolitics.com/index.php/2020/01/ontarians-side-with-teacher-unions/ HTML]
-|31.1
-|21.2
-|{{Party shading/Liberal}}|'''36.2'''
-|9.1
-|2.3
-|IVR
-|634
-|±3.9%
-|{{Party shading/Liberal}}|'''5.1'''
+| [[Ekos Research Associates|EKOS]]
+| January 19, 2020
+| <ref group="p">{{Cite web|url=https://www.ekospolitics.com/index.php/2020/01/ontarians-side-with-teacher-unions/|title=Ontarians Side with Teacher Unions|date=January 23, 2020|website=EKOS Politics}}</ref>
+| 31.1
+| 21.2
+| {{Party shading/Liberal}}|'''36.2'''
+| 9.1
+| 2.3
+| ±3.9%
+| 634
+| IVR
+| {{Party shading/Liberal}}|'''5.1'''
 |-
-|[[Pollara]]
-|January 11, 2020
-|[https://www.pollara.com/wp-content/uploads/2020/01/PollaraONpoli_Jan2020Data_DemoReg.pdf PDF]
-|29
-|27
-|{{Party shading/Liberal}}|'''33'''
-|9
-|2
-|Online
-|2,198
-|±2.1%
-|{{Party shading/Liberal}}|'''4'''
+| [[Pollara]]
+| January 11, 2020
+| <ref group="p">https://www.pollara.com/wp-content/uploads/2020/01/PollaraONpoli_Jan2020Data_DemoReg.pdf</ref>
+| 29
+| 27
+| {{Party shading/Liberal}}|'''33'''
+| 9
+| 2
+| ±2.1%
+| 2,198
+| Online
+| {{Party shading/Liberal}}|'''4'''
 |-
-|[[Ekos Research Associates|EKOS]]
-|December 10, 2019
-|[https://www.ekospolitics.com/wp-content/uploads/full_report_december_12_2019.pdf PDF]
-|29.9
-|24.4
-|{{Party shading/Liberal}}|'''32.4'''
-|9.4
-|3.9
-|IVR
-|811
+| [[Ekos Research Associates|EKOS]]
+| December 10, 2019
+| <ref group="p">https://www.ekospolitics.com/wp-content/uploads/full_report_december_12_2019.pdf</ref>
+| 29.9
+| 24.4
+| {{Party shading/Liberal}}|'''32.4'''
+| 9.4
+| 3.9
 | ±3.4%
-|{{Party shading/Liberal}}|'''2.5'''
+| 811
+| IVR
+| {{Party shading/Liberal}}|'''2.5'''
 |-
-|Campaign Research 
-|September 9, 2019
-|[https://drive.google.com/file/d/1D2fwTQ29yA4r29WTuks8aCL6V_qZKoDJ/view PDF]
-|{{Party shading/Conservative (Canada)}} |'''32'''
-|27
-|28
-|11
-|2
-|Online
-|957
+| Campaign Research 
+| September 9, 2019
+| <ref group="p">{{Cite web|url=https://drive.google.com/file/d/1D2fwTQ29yA4r29WTuks8aCL6V_qZKoDJ/view?usp=embed_facebook|title=Ontario Press Release Tables.pdf|website=Google Docs}}</ref>
+| {{Party shading/Conservative (Canada)}} |'''32'''
+| 27
+| 28
+| 11
+| 2
 | ±3.17%
-|{{Party shading/Conservative (Canada)}}|'''4'''
+| 957
+| Online
+| {{Party shading/Conservative (Canada)}}|'''4'''
 |-
-|Corbett Communications 
-|August 16, 2019
-|[https://drive.google.com/file/d/12E8dKPqrRHrpXZgkx1Xyv6ZAX2lIoLzU/view PDF]
-|{{Party shading/Conservative (Canada)}} |'''30'''
-|28
-|{{Party shading/Liberal}}|'''30'''
-|11
-|2
-|Online
-|1,099
+| Corbett Communications 
+| August 16, 2019
+| <ref group="p">{{Cite web|url=https://drive.google.com/file/d/12E8dKPqrRHrpXZgkx1Xyv6ZAX2lIoLzU/view?usp=embed_facebook|title=CorComm release - ON vote (16-08-2019).pdf|website=Google Docs}}</ref>
+| {{Party shading/Conservative (Canada)}} |'''30'''
+| 28
+| {{Party shading/Liberal}}|'''30'''
+| 11
+| 2
 | ±3.0%
+| 1,099
+| Online
 | '''0'''
 |-
-|Corbett Communications 
-|July 10, 2019
-|[https://drive.google.com/file/d/1QCT9IU40LyG8JLNyLTNiqs04h47iJ5oJ/view PDF]
-|{{Party shading/Conservative (Canada)}} |'''28'''
-|26
-|{{Party shading/Liberal}}|'''28'''
-|15
-|3
-|Online
-|936
+| Corbett Communications 
+| July 10, 2019
+| <ref group="p">{{Cite web|url=https://drive.google.com/file/d/1QCT9IU40LyG8JLNyLTNiqs04h47iJ5oJ/view?usp=embed_facebook|title=CorComm ON release - ON vote (13-07-2019).pdf|website=Google Docs}}</ref>
+| {{Party shading/Conservative (Canada)}} |'''28'''
+| 26
+| {{Party shading/Liberal}}|'''28'''
+| 15
+| 3
 | ±3.0%
+| 936
+| Online
 | '''0'''
 |-
-|Corbett Communications 
-|June 6, 2019
-|[https://drive.google.com/file/d/1kI5i6eQ05qEdQeoPrqTNAEgyRCLtEz2C/view PDF]
-|{{Party shading/Conservative (Canada)}} |'''32'''
-|27
-|26
-|13
-|1
-|Online
-|1,555
+| Corbett Communications 
+| June 6, 2019
+| <ref group="p">{{Cite web|url=https://drive.google.com/file/d/1kI5i6eQ05qEdQeoPrqTNAEgyRCLtEz2C/view?usp=embed_facebook|title=CorComm ON release 06-06-19.pdf|website=Google Docs}}</ref>
+| {{Party shading/Conservative (Canada)}} |'''32'''
+| 27
+| 26
+| 13
+| 1
 | ±3.0%
+| 1,555
+| Online
 | {{Party shading/Conservative (Canada)}} |'''5'''
 |-
-|[[Mainstreet Research]]
-|May 22, 2019
-|[https://www.mainstreetresearch.ca/ford-pc-support-collapses-while-liberal-voters-prefer-tory-as-their-leader/ HTML]
+| [[Mainstreet Research]]
+| May 22, 2019
+| <ref group="p">{{Cite web |title=Ford PC Support Collapses, While Liberal Voters Prefer Tory As Their Leader |work=Mainstreet Research |date=May 2019 |access-date=9 January 2022 |url= https://www.mainstreetresearch.ca/poll/ford-pc-support-collapses-while-liberal-voters-prefer-tory-as-their-leader/}}</ref>
 | 22.4
 | 24.2
-|{{Party shading/Liberal}}|'''39.9'''
+| {{Party shading/Liberal}}|'''39.9'''
 | 11.7
 | 1.8
-| IVR
-| 996
 | ±3.1%
-|{{Party shading/Liberal}}|'''15.7'''
+| 996
+| IVR
+| {{Party shading/Liberal}}|'''15.7'''
 |-
-|[[Ipsos]]
-|May 21, 2019
-|[https://www.ipsos.com/en-ca/news-polls/Ontario-Premier-Fords-Honeymoon-in-Rearview-Mirror-Liberals-PCs-NDP-Three-Way-Tie HTML]
+| [[Ipsos]]
+| May 21, 2019
+| <ref group="p">{{cite web| url = https://www.ipsos.com/en-ca/news-polls/Ontario-Premier-Fords-Honeymoon-in-Rearview-Mirror-Liberals-PCs-NDP-Three-Way-Tie| url-status = dead| archive-url = https://web.archive.org/web/20190526200846/https://www.ipsos.com/en-ca/news-polls/Ontario-Premier-Fords-Honeymoon-in-Rearview-Mirror-Liberals-PCs-NDP-Three-Way-Tie| archive-date = 2019-05-26| title = Ontario Premier Ford’s Honeymoon in Rearview Mirror as Liberals (32%), PCs (30%) and NDP (29%) Locked in a Three-Way Tie}} </ref>
 | 30
 | 29
-|{{Party shading/Liberal}}|'''32'''
-|colspan="2"|10{{efn|Includes the Ontario Green Party.}}
-| Online
-| 1,000
+| {{Party shading/Liberal}}|'''32'''
+| colspan="2"|10{{efn|Includes the Ontario Green Party.}}
 | ±3.5%
-|{{Party shading/Liberal}}|'''2'''
+| 1,000
+| Online
+| {{Party shading/Liberal}}|'''2'''
 |-
-|Corbett Communications 
-|May 3, 2019
-|[https://drive.google.com/file/d/0B8OHMdCIaxU0aEN1NDBqb1RGbERBbHczQzNUM000dlZra2Nr/view PDF]
-|{{Party shading/Conservative (Canada)}} |'''35'''
-|25
-|27
-|12
-|1
-|Online
-|1,836
+| Corbett Communications 
+| May 3, 2019
+| <ref group="p">{{Cite web|url=https://drive.google.com/file/d/0B8OHMdCIaxU0aEN1NDBqb1RGbERBbHczQzNUM000dlZra2Nr/view|title = Meet Google Drive – One place for all your files}}</ref>
+| {{Party shading/Conservative (Canada)}} |'''35'''
+| 25
+| 27
+| 12
+| 1
 | ±2.4%
+| 1,836
+| Online
 | {{Party shading/Conservative (Canada)}} |'''8'''
 |-
-|[[Pollara]]
-|May 1, 2019
-|[https://www.pollara.com/wp-content/uploads/2017/12/Pollara_ONpoli_May2019_Rpt.pdf PDF]
-|30
-|{{Party shading/NDP (Canada)}} |'''31'''
-|26
-|11
-|1
-|Online
-|1,527
-|±2.5%
-|{{Party shading/NDP (Canada)}} |'''1'''
+| [[Pollara]]
+| May 1, 2019
+| <ref group="p">https://www.pollara.com/wp-content/uploads/2017/12/Pollara_ONpoli_May2019_Rpt.pdf</ref>
+| 30
+| {{Party shading/NDP (Canada)}} |'''31'''
+| 26
+| 11
+| 1
+| ±2.5%
+| 1,527
+| Online
+| {{Party shading/NDP (Canada)}} |'''1'''
 |-
-|[[Mainstreet Research]]
-|{{dts|March 22, 2019}}
-|[https://www.mainstreetresearch.ca/ontarians-disapprove-of-ford-cuts/ HTML]
-|{{Party shading/Conservative (Canada)}} |'''34.4'''
+| [[Mainstreet Research]]
+| {{dts|March 22, 2019}}
+| <ref group="p">{{Cite web |title=Ontarians Disapprove of Ford Cuts |work=Mainstreet Research |date=March 2019 |access-date=9 January 2022 |url= https://www.mainstreetresearch.ca/poll/ontarians-disapprove-of-ford-cuts/}}</ref>
+| {{Party shading/Conservative (Canada)}} |'''34.4'''
 | 26.6
 | 26.0
 | 9.4
 | 3.6
-| IVR
-| 1,290
 | ±2.73%
+| 1,290
+| IVR
 | {{Party shading/Conservative (Canada)}} |'''7.8'''
 |-
-|Innovative Research Group
-|{{dts|January 24, 2019}}
-|[https://innovativeresearch.ca/wp-content/uploads/2019/02/No-Margin-for-Error-PAAC-Forum-Presentation.pdf PDF]
+| Innovative Research Group
+| {{dts|January 24, 2019}}
+| <ref group="p" name="InnovativeResearch201902">https://innovativeresearch.ca/wp-content/uploads/2019/02/No-Margin-for-Error-PAAC-Forum-Presentation.pdf</ref>
 | 33
 | 23
 | {{Party shading/Liberal}} |'''36'''
 | 7
 | 1
-| Online
-| 751
 |
+| 751
+| Online
 | {{Party shading/Liberal}} |'''3'''
 |-
-|[[Mainstreet Research]]
-|{{dts|January 17, 2019}}
-|[https://www.mainstreetresearch.ca/a-majority-of-ontarians-disapprove-of-doug-ford/ HTML]
-|{{Party shading/Conservative (Canada)}} |'''41.4'''
+| [[Mainstreet Research]]
+| {{dts|January 17, 2019}}
+| <ref group="p">{{Cite web |title=A Majority of Ontarians Disapprove of Doug Ford - Mainstreet Research |work=Mainstreet Research |date=January 2019 |access-date=9 January 2022 |url= https://www.mainstreetresearch.ca/poll/a-majority-of-ontarians-disapprove-of-doug-ford/}}
+
+</ref>
+| {{Party shading/Conservative (Canada)}} |'''41.4'''
 | 27.0
 | 22.6
 | 7.0
 | 2.2
-| IVR
-| 1,127
 | ±2.92%
+| 1,127
+| IVR
 | {{Party shading/Conservative (Canada)}} |'''14.4'''
 |-
-|[[Ekos Research Associates|EKOS]]
-|{{dts|December 3, 2018}}
-|[http://www.ekospolitics.com/wp-content/uploads/full_report_december_6_2018.pdf PDF]
-|{{Party shading/Conservative (Canada)}} |'''34.3'''
+| [[Ekos Research Associates|EKOS]]
+| {{dts|December 3, 2018}}
+| <ref group="p">{{cite web |url=http://www.ekospolitics.com/wp-content/uploads/full_report_december_6_2018.pdf |title={{title case|OSHAWA PLANT CLOSURE LANDS WITH A LOUD BANG: UNHAPPINESS WITH FORD HANDLING}} |date=December 2018}}</ref>
+| {{Party shading/Conservative (Canada)}} |'''34.3'''
 | 26.1
 | 28.0
 | 9.4
 | 2.3
-| IVR
-| 1,025
 | ±3.1%
+| 1,025
+| IVR
 | {{Party shading/Conservative (Canada)}} |'''6.3'''
 |-
-|Campaign Research
-|{{dts|November 9, 2018}}
-|[https://www.campaignresearch.ca/single-post/2018/11/13/Doug-Ford-PCs-with-slim-lead-as-NDP-support-shifts-back-to-Liberals-as-shadow-of-Kathleen-Wynne-recedes/ HTML]
-|{{Party shading/Conservative (Canada)}} |'''34'''
+| Campaign Research
+| {{dts|November 9, 2018}}
+| <ref group="p">{{Cite web|url=https://www.campaignresearch.com//single-post/2018/11/13/doug-ford-pcs-with-slim-lead-as-ndp-support-shifts-back-to-liberals-as-shadow-of-kathleen|title=Doug Ford PC's with slim lead as NDP support shifts back to Liberals|first=Eli|last=Yufest|date=November 13, 2018|website=campaignresearch}}</ref>
+| {{Party shading/Conservative (Canada)}} |'''34'''
 | 25
 | 32
 | 7
 | 2
-| Online
-| 1,830
 | ±2.3%
-|{{Party shading/Conservative (Canada)}} |'''2'''
+| 1,830
+| Online
+| {{Party shading/Conservative (Canada)}} |'''2'''
 |-
-|[[Mainstreet Research]]
-|{{dts|November 7, 2018}}
-|[https://www.mainstreetresearch.ca/pcs-maintain-lead-as-ontarians-are-unsure-about-key-ford-measures/ HTML]
-|{{Party shading/Conservative (Canada)}} |'''42.2'''
+| [[Mainstreet Research]]
+| {{dts|November 7, 2018}}
+| <ref group="p">{{Cite web |title=PCs Maintain Lead As Ontarians Are Unsure About Key Ford Measures - Mainstreet Research |work=Mainstreet Research |date=November 2018 |access-date=9 January 2022 |url= https://www.mainstreetresearch.ca/poll/pcs-maintain-lead-as-ontarians-are-unsure-about-key-ford-measures-2/}}</ref>
+| {{Party shading/Conservative (Canada)}} |'''42.2'''
 | 26.5
 | 21.3
 | 6.4
 | 3.5
-| IVR
-| 1,229
 | ±2.79%
+| 1,229
+| IVR
 | {{Party shading/Conservative (Canada)}} |'''15.7'''
 |-
-|Innovative Research Group
-|{{dts|October 28, 2018}}
-|[https://innovativeresearch.ca/wp-content/uploads/2018/10/OEA-2018-Presentation.pdf PDF]
-|{{Party shading/Conservative (Canada)}} |'''35'''
+| Innovative Research Group
+| {{dts|October 28, 2018}}
+| <ref group="p">https://innovativeresearch.ca/wp-content/uploads/2018/10/OEA-2018-Presentation.pdf</ref>
+| {{Party shading/Conservative (Canada)}} |'''35'''
 | 25
 | 32
 | 7
 | 1
-| Online
-| 1,628
 |
+| 1,628
+| Online
 | {{Party shading/Conservative (Canada)}} |'''3'''
 |-
-|[[Abacus Data]]
-|{{dts|October 1, 2018}}
-|[http://abacusdata.ca/ontario-pcs-lead-amidst-slight-liberal-recovery-and-ndp-slide/ HTML]
-|{{Party shading/Conservative (Canada)}} |'''36'''
+| [[Abacus Data]]
+| {{dts|October 1, 2018}}
+| <ref group="p">{{Cite web|url=https://abacusdata.ca/ontario-pcs-lead-amidst-slight-liberal-recovery-and-ndp-slide/|title=Abacus Data &#124; Ontario PCs lead amidst slight Liberal recovery and NDP slide|website=abacusdata.ca}}</ref>
+| {{Party shading/Conservative (Canada)}} |'''36'''
 | 29
 | 24
 | 8
 | 3
-| Online
+|
 | 1,500
-| 
+| Online
 | {{Party shading/Conservative (Canada)}} |'''7'''
 |-
-|[[Mainstreet Research]]
-|{{dts|July 17, 2018}}
-|[https://www.mainstreetresearch.ca/ontarians-like-ford-but-dont-agree-with-scrapping-both-sex-ed-curriculum-and-cap-and-trade-program/ HTML]
-|{{Party shading/Conservative (Canada)}} |'''41.7'''
+| [[Mainstreet Research]]
+| {{dts|July 17, 2018}}
+| <ref group="p">{{Cite web |title=Ontarians Like Ford But Don't Agree With Scrapping Both Sex-Ed Curriculum and Cap and Trade Program |work=Mainstreet Research |date=July 2018 |access-date=9 January 2022 |url=https://www.mainstreetresearch.ca/poll/ontarians-like-ford-but-dont-agree-with-scrapping-both-sex-ed-curriculum-and-cap-and-trade-program/}}</ref>
+| {{Party shading/Conservative (Canada)}} |'''41.7'''
 | 27.8
 | 21.3
 | 6.7
 | 2.5
-| IVR
-| 1,861
 | ±2.27%
-|{{Party shading/Conservative (Canada)}} |'''13.9'''
+| 1,861
+| IVR
+| {{Party shading/Conservative (Canada)}} |'''13.9'''
 |-
-|{{sort|2018-06-29|29 June 2018}} || colspan="11" |'''[[Doug Ford]]''' '''is sworn in as Premier of Ontario'''
+| {{sort|2018-06-29|29 June 2018}} || colspan="11" |'''[[Doug Ford]]''' '''is sworn in as Premier of Ontario'''
 |-
-|Innovative Research Group
-|{{dts|June 21, 2018}}
-|[https://innovativeresearch.ca/wp-content/uploads/2019/02/No-Margin-for-Error-PAAC-Forum-Presentation.pdf PDF]
-|{{Party shading/Conservative (Canada)}} |'''37'''
+| Innovative Research Group
+| {{dts|June 21, 2018}}
+| <ref group="p" name="InnovativeResearch201902"/>
+| {{Party shading/Conservative (Canada)}} |'''37'''
 | 36
 | 19
 | 7
 | 2
-| Telephone
-| 607
 | ±4.0%
+| 607
+| Telephone
 | {{Party shading/Conservative (Canada)}} |'''1'''
 |-
-|{{sort|2018-06-14|14 June 2018}} || colspan="11" |'''[[John Fraser (Ontario MPP)|John Fraser]] becomes interim leader of the [[Ontario Liberal Party]]'''
+| {{sort|2018-06-14|14 June 2018}} || colspan="11" |'''[[John Fraser (Ontario MPP)|John Fraser]] becomes interim leader of the [[Ontario Liberal Party]]'''
 |-
-|{{sort|2018-06-07|7 June 2018}} || colspan="11" |'''[[Kathleen Wynne]] resigns as leader of the [[Ontario Liberal Party]]'''
+| {{sort|2018-06-07|7 June 2018}} || colspan="11" |'''[[Kathleen Wynne]] resigns as leader of the [[Ontario Liberal Party]]'''
+|-
+! colspan="12" |
 |-
 | style="background:#ffd;"|''[[2018 Ontario general election|2018 election]]''
 | style="background:#ffd;"|{{dts|2018-06-07}}
@@ -967,7 +973,26 @@
 | style="background:#ffd;"|4.60
 | style="background:#ffd;"|1.75
 | {{N/A}}
-| style="background:#ffd;"|5,744,860
+| style="background:#ffd;" |5,744,860
 | {{N/A}}
 | {{Party shading/Conservative (Canada)}}|6.94
+|-
+! style="width:105px" rowspan="2"| Polling firm
+! style="width:105px" rowspan="2"| Last date<br>of polling
+! style="width:50px;" rowspan="2"| Source
+!style="background:{{Canadian party colour|ON|PC}};"|
+!style="background:{{Canadian party colour|ON|NDP}};"|
+!style="background:{{Canadian party colour|ON|Liberal}};"|
+!style="background:{{Canadian party colour|ON|Green}};"|
+!style="background:{{Canadian party colour|ON|Independent}};"|
+! rowspan="2" style="width:50px;" |Margin of error
+! rowspan="2" style="width:50px;" |Sample size
+! rowspan="2" style="width:50px;"|Polling type
+! rowspan="2" style="width:25px;" data-sort-type="number" |Lead
+|-
+! style="width:60px;" class="unsortable"| [[Progressive Conservative Party of Ontario|PC]]
+! style="width:60px;" class="unsortable"| [[Ontario New Democratic Party|NDP]]
+! style="width:60px;" class="unsortable"| [[Ontario Liberal Party|Liberal]]
+! style="width:60px;" class="unsortable"| [[Green Party of Ontario|Green]]
+! style="width:60px;" class="unsortable"| Other
 |}
