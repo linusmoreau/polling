@@ -207,8 +207,8 @@ specs = {
                 'Lagarde': (53, 162, 239), 'Lassalle': (3, 78, 161), 'Asselineau': (5, 124, 133),
                 'Taubira': (240, 194, 0)},
         'blocs': {'Left': ['Mélenchon', 'Hidalgo', 'Montebourg', 'Jadot', 'Arthaud', 'Poutou', 'Roussel', 'Taubira'],
-                  'Centre': ['Macron', 'Pécresse', 'Lagarde', 'Lassalle'],
-                  'Right': ['Le Pen', 'Zemmour', 'Dupont-Aignan', 'Asselineau']},
+                  'Centre': ['Macron', 'Lagarde', 'Lassalle'],
+                  'Right': ['Le Pen', 'Zemmour', 'Dupont-Aignan', 'Asselineau', 'Pécresse']},
         'start': 0,
         'end_date': Date(2022, 4, 10),
         'url': 'https://en.wikipedia.org/w/index.php?title='
