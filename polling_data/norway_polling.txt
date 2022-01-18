@@ -4,7 +4,131 @@ There are several websites tracking party support ahead of the election, using s
 [[File:Norwegian Opinion Polling, 30 Day Moving Average, 2021-2025.svg]]
 
 === 2022 ===
-''For events during the year, see [[2022 in Norway]]''.
+{{for|events during the year|2022 in Norway}}
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="2"|Polling firm
+! rowspan="2"|Fieldwork date
+! rowspan="2"|Sample<br />size
+! rowspan="2"|{{abbr|Resp.|Response rate}}
+! class="unsortable" style="width:30px;"|[[Red Party (Norway)|R]]
+! class="unsortable" style="width:30px;"|[[Socialist Left Party (Norway)|SV]]
+! class="unsortable" style="width:30px;"|[[Green Party (Norway)|MDG]]
+! class="unsortable" style="width:30px;"|[[Labour Party (Norway)|Ap]]
+! class="unsortable" style="width:30px;"|[[Centre Party (Norway)|Sp]]
+! class="unsortable" style="width:30px;"|[[Liberal Party (Norway)|V]]
+! class="unsortable" style="width:30px;"|[[Christian Democratic Party (Norway)|KrF]]
+! class="unsortable" style="width:30px;"|[[Conservative Party (Norway)|H]]
+! class="unsortable" style="width:30px;"|[[Progress Party (Norway)|FrP]]
+! class="unsortable" style="width:30px;" rowspan="2"| Others
+! rowspan="2"| Lead
+|-
+! style="background:{{party color|Red Party (Norway)}};"|
+! style="background:{{party color|Socialist Left Party (Norway)}};"|
+! style="background:{{party color|Green Party (Norway)}};"|
+! style="background:{{party color|Labour Party (Norway)}};"|
+! style="background:{{party color|Centre Party (Norway)}};"|
+! style="background:{{party color|Liberal Party (Norway)}};"|
+! style="background:{{party color|Christian Democratic Party (Norway)}};"|
+! style="background:{{party color|Conservative Party of Norway (2020)}};"|
+! style="background:{{party color|Progress Party (Norway)}};"|
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4569 Respons Analyse]
+|{{opdrts|5|10|Jan|2022}}
+|1,000
+|–
+|6.6
+|9.4
+|4.3
+|23.5
+|9.8
+|4.4
+|2.7
+| style="background:#B5D5FF;" |'''25.6'''
+|10.6
+|3.1
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |2.1
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4570 Opinion]
+|{{opdrts|4|9|Jan|2022}}
+|970
+|75.0
+|7.8
+|9.7
+|4.8
+|18.9
+|9.4
+|4.2
+|2.8
+| style="background:#B5D5FF;" |'''26.6'''
+|12.8
+|2.9
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |7.7
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4568 Kantar]
+|{{opdrts|3|7|Jan|2022}}
+|972
+|–
+|6.2
+|9.1
+|4.6
+|21.7
+|10.7
+|5.1
+|2.9
+| style="background:#B5D5FF;" |'''23.7'''
+|11.4
+|4.8
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |2.0
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4567 Norfakta]
+|{{opdrts|4|5|Jan|2022}}
+|1,001
+|–
+|7.1
+|8.4
+|3.6
+|24.3
+|9.9
+|4.4
+|3.7
+| style="background:#B5D5FF;" |'''24.9'''
+|10.9
+|2.9
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |0.6
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4566 Norstat]
+|{{opdrts|27|3|Dec|2021}}
+|943
+|–
+|6.2
+|9.4
+|3.3
+|21.1
+|9.8
+|4.9
+|3.2
+| style="background:#B5D5FF;" |'''24.7'''
+|13.9
+|3.6
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |3.6
+|- style="background:#E9E9E9;"
+|[[2021 Norwegian parliamentary election|2021 election]]
+|{{opdrts||13|Sep|2021}}
+|{{N/A}}
+|77.1
+|4.7
+|7.6
+|3.9
+|style="background:#F7BDC5;" |'''26.3'''
+|13.5
+|4.6
+|3.8
+|20.4
+|11.6
+|3.6
+|style="background:{{party color|Labour Party (Norway)}};color:#FFFFFF;"|5.9
+|}
 
 === 2021 ===
 {{for|events during the year|2021 in Norway}}
@@ -68,7 +192,7 @@ There are several websites tracking party support ahead of the election, using s
 |3.4
 | style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |0.6
 |-
-|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4561 Ipsos MMI]
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4561 Ipsos]
 |{{opdrts|13|15|Dec|2021}}
 |947
 |84.0
@@ -116,7 +240,7 @@ There are several websites tracking party support ahead of the election, using s
 |3.8
 |style="background:{{party color|Labour Party (Norway)}};color:#FFFFFF;"|2.0
 |-
-|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4557 Opinion Perduco]
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4557 Opinion]
 |{{opdrts||9|Dec|2021}}
 |–
 |–
@@ -148,7 +272,7 @@ There are several websites tracking party support ahead of the election, using s
 |3.2
 |style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;"|3.0
 |-
-|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4555 Kantar TNS]
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4555 Kantar]
 |{{opdrts||7|Dec|2021}}
 |–
 |–
@@ -180,7 +304,7 @@ There are several websites tracking party support ahead of the election, using s
 |3.3
 |style="background:{{party color|Labour Party (Norway)}};color:#FFFFFF;"|2.9
 |-
-|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4553 Ipsos MMI]
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4553 Ipsos]
 |{{opdrts|22|24|Nov|2021}}
 |941
 |–
@@ -244,7 +368,7 @@ There are several websites tracking party support ahead of the election, using s
 |3.3
 |style="background:{{party color|Labour Party (Norway)}};color:#FFFFFF;"|3.8
 |-
-|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4545 Opinion Perduco]
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4545 Opinion]
 |{{opdrts|2|8|Nov|2021}}
 |962
 |–
@@ -276,7 +400,7 @@ There are several websites tracking party support ahead of the election, using s
 |2.8
 |style="background:{{party color|Labour Party (Norway)}};color:#FFFFFF;"|6.5
 |-
-|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4542 Kantar TNS]
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4542 Kantar]
 |{{opdrts||2|Nov|2021}}
 |–
 |–
@@ -292,7 +416,7 @@ There are several websites tracking party support ahead of the election, using s
 |3.2
 |style="background:{{party color|Labour Party (Norway)}};color:#FFFFFF;"|5.4
 |-
-|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4552 Ipsos MMI]
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4552 Ipsos]
 |31 Oct
 |–
 |–
@@ -373,7 +497,7 @@ There are several websites tracking party support ahead of the election, using s
 |2.8
 |style="background:{{party color|Labour Party (Norway)}};color:#FFFFFF;"|5.5
 |-
-|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4537 Opinion Perduco]
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4537 Opinion]
 |{{opdrts|5|11|Oct|2021}}
 |977
 |–
@@ -421,7 +545,7 @@ There are several websites tracking party support ahead of the election, using s
 |3.4
 |style="background:{{party color|Labour Party (Norway)}};color:#FFFFFF;"|5.1
 |-
-|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4534 Kantar TNS]
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4534 Kantar]
 |{{opdrts|27|1|Oct|2021}}
 |978
 |–

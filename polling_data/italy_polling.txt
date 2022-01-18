@@ -11,8 +11,8 @@
 ! style="width:35px;"|[[Brothers of Italy|FdI]]
 ! style="width:35px;"|[[Article One (political party)|Art.1]]
 ! style="width:35px;"|[[Italian Left|SI]]
-! style="width:35px;"|[[More Europe|+Eu]]
 ! style="width:35px;"|[[Green Europe|EV]]
+! style="width:35px;"|[[More Europe|+Eu]]
 ! style="width:35px;"|[[Action (Italy)|Az]]
 ! style="width:35px;"|[[Italia Viva|IV]]
 ! style="width:35px;"|[[Coraggio Italia|CI]]
@@ -26,10 +26,150 @@
 ! style="background:{{party color|Brothers of Italy}};"|
 ! style="background:{{party color|Article One (political party)}};"|
 ! style="background:{{party color|Italian Left}};"|
-! style="background:{{party color|More Europe}};"|
 ! style="background:{{party color|Green Europe}};"|
+! style="background:{{party color|More Europe}};"|
 ! style="background:{{party color|Action (Italy)}};"|
 ! style="background:{{party color|Italia Viva}};"|
 ! style="background:{{party color|Coraggio Italia}};"|
+|-  
+|12–17 Jan
+|[https://tg.la7.it/sondaggi/il-sondaggio-politico-di-luned%C3%AC-17-gennaio-2022-17-01-2022-167995 SWG]
+|1,200
+|13.7
+|style="background:#FFD0D7;"|'''21.6'''
+|18.8
+|7.4
+|20.0
+|2.3
+|2.6
+|2.6
+| colspan="2" |4.8
+|2.4
+|
+|3.8
+|style="background:#EF1C27; color:white;"|1.6
+|-
+|15 Jan
+|[https://www.dire.it/15-01-2022/699159-sondaggio-dire-tecne-pd-primo-partito-ma-in-forte-calo-cresce-il-centrodestra/ Tecnè]
+|
+|14.3
+|style="background:#FFD0D7;"|'''20.7'''
+|18.3
+|9.2
+|20.5
+|1.5
+|2.3
+|2.1
+| colspan="2" |4.8
+|2.2
+|
+|5.6
+|style="background:#EF1C27; color:white;"|0.2
+|-
+|12–15 Jan
+|[https://sondaggibidimedia.com/sondaggio-bidimedia-17-gennaio-22/ BiDiMedia]
+|2,675
+|14.2
+|style="background:#FFD0D7;"|'''21.6'''
+|19.0
+|6.9
+|18.5
+|1.4
+|1.9
+|1.7
+| colspan="2" |5.4
+|1.7
+|0.8
+|6.9
+|style="background:#EF1C27; color:white;"|2.6
+|-
+|12–13 Jan
+|[https://www.termometropolitico.it/1599416_sondaggi-tp-futuro-draghi-il-391-degli-italiani-non-lo-vuole-ne-a-palazzo-chigi-ne-al-quirinale.html Termometro Politico]
+|3,400
+|15.2
+|20.4
+|18.8
+|7.3
+|style="background:#E5E7FF;" |'''21.1'''
+| colspan="2" |2.9
+|1.6
+|1.7
+|3.4
+|2.5
+|
+|5.1
+|style="background:#03386A; color:white;"|0.7
+|-
+|12 Jan
+|[https://scenaripolitici.com/2022/01/sondaggio-noto-12-gennaio-2022.html Noto]
+|–
+|14.0
+|19.5
+|18.0
+|8.5
+|style="background:#E5E7FF;" |'''20.0'''
+|1.0
+|1.0
+|1.0
+|1.0
+|3.0
+|2.5
+|2.0
+|8.5
+|style="background:#03386A; color:white;"|0.5
+|-
+|12 Jan
+|[https://twitter.com/EuropeElects/status/1481930543021309952?cxt=HHwWgICy6cX-75ApAAAA Index]
+|800
+|14.4
+|style="background:#FFD0D7;"|'''22.1'''
+|18.6
+|7.8
+|19.5
+|2.2
+|2.4
+|2.3
+|1.5
+|4.0
+|2.4
+|0.9
+|1.9
+|style="background:#EF1C27; color:white;"|2.6
+|-  
+|8–10 Jan
+|[https://scenaripolitici.com/2022/01/sondaggio-euromedia-research-11-gennaio-2022.html Euromedia]
+|1,000
+|14.8
+|style="background:#FFD0D7;"|'''21.5'''
+|18.9
+|8.8
+|18.5
+|2.3
+|1.5
+|1.7
+|2.0
+|4.3
+|2.2
+|
+|3.5
+|style="background:#EF1C27; color:white;"|2.6
+|-  
+|5–10 Jan
+|[https://www.la7.it/tgla7/video/ultimi-sondaggi-pd-resta-il-primo-partito-lega-in-calo-06-10-01-2022-416978 SWG]
+|1,200
+|14.0
+|style="background:#FFD0D7;"|'''22.2'''
+|19.0
+|7.8
+|19.9
+|2.4
+|2.3
+|2.4
+|1.6
+|4.1
+|2.1
+|
+|2.2
+|style="background:#EF1C27; color:white;"|2.3
 |-
 |}

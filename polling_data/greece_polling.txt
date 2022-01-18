@@ -29,6 +29,21 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{party color|Antarsya}};"|
 ! style="background:{{party color|Greeks for the Fatherland}};"|
 |-
+| Interview/Politic.gr<ref>{{Cite web|date=2022-01-13|title=Δημοσκόπηση: Στις 10,9 μονάδες η διαφορά ΝΔ με ΣΥΡΙΖΑ - Στο 12,3% το ΚΙΝΑΛ|url=https://www.protothema.gr/politics/article/1200537/dimoskopisi-stis-109-monades-i-diafora-nd-me-suriza-sto-123-to-kinal/|access-date=2022-01-13|website=ProtoThema|language=el}}</ref>
+| 10–12 Jan 2022
+| 1,000
+| {{Party shading/ND}}| '''37.9'''
+| 25.5
+| 14.0
+| 5.3
+| 5.1
+| 3.7
+| –
+| –
+| –
+| 1.7
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.4
+|-
 | Alco/Open<ref>{{cite web |title=ΟPEN ΕΡΕΥΝΑ ΔΕΚΕΜΒΡΙΟΣ 2021 |url=http://www.alcopolls.gr/portfolio/%CE%BFpen-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%B4%CE%B5%CE%BA%CE%B5%CE%BC%CE%B2%CF%81%CE%B9%CE%BF%CF%83-2021 |language=el |work=Alco |date=20 December 2021}}</ref>
 | 13–18 Dec 2021
 | 1,000
@@ -145,7 +160,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.7
 | –
 | –
-| –
+| 1.2
 | 2.3
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.3
 |-

@@ -11,7 +11,7 @@
  {{Legend-line|{{party color|Lithuanian Regions Party}} solid 5px|[[Lithuanian Regions Party|LRP]]}}
  {{Legend-line|{{party color|Lithuanian Centre Party}} solid 5px|[[Lithuanian Centre Party|TTS (CT)]]}}
  {{Legend-line|{{party color|Freedom and Justice}} solid 5px|[[Freedom and Justice|LT]]}}
- {{Legend-line|{{party color|Democrats ‘For Lithuania’}} solid 5px|[[Democrats ‘For Lithuania’|LT]]}}
+ {{Legend-line|{{party color|Democrats ‘For Lithuania’}} solid 5px|[[Democrats ‘For Lithuania’|DSVL]]}}
 }}]]
 Parliamentary election poll results are listed in the table below in reverse chronological order. The highest percentage figure in each poll is displayed in bold, and its background is shaded in the leading party's colour. The "Lead" column shows the [[percentage point]] difference between the two parties with the highest figures.
 {| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"

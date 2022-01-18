@@ -28,9 +28,9 @@
 PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological order - latest first - but users can sort the table. In order to preserve the ability to sort by polling date, please include an entry for data-sort-value in front of the polling date. In order to preserve the ability to sort by the polling company, please increment the relevant data-sort-value by one each time you add a new poll. So a new Behaviour & Attitudes poll would become "B&A14" if the last one was "B&A13". Please also wikilink the most recent poll (link goes to the publishing media outlet, piped to show the commissioning publisher and polling company) and please also unlink the prior poll from that company. If the above doesn't make sense to you, please do not make major changes. -->
 
 |-
-|data-sort-value="2022-01-09"|9 January 2022
-|data-sort-value="ITMos17"|[[Irish Daily Mail|Ireland Thinks/Irish Mail on Sunday]]<ref group="p">{{Cite web|url=https://www.independent.ie/irish-news/politics/sinn-fein-surges-to-33pc-support-but-coalition-of-fianna-failfine-gaelgreens-still-preferred-option-poll-reveals-41221790.html|title=Sinn Féin surges to 33pc support but coalition of Fianna Fáil/Fine Gael/Greens still preferred option, poll reveals|last=Corcoran|first=Jody|publisher=Irish Independent|date=9 January 2022|access-date=10 January 2022}}</ref>
-|?
+|data-sort-value="2022-01-08"|8 January 2022
+|data-sort-value="ITSI1"|[[Sunday Independent (Ireland)|Ireland Thinks/Sunday Independent]]<ref group="p">{{Cite web|url=https://www.independent.ie/irish-news/politics/sinn-fein-surges-to-33pc-support-but-coalition-of-fianna-failfine-gaelgreens-still-preferred-option-poll-reveals-41221790.html|title=Sinn Féin surges to 33pc support but coalition of Fianna Fáil/Fine Gael/Greens still preferred option, poll reveals|last=Corcoran|first=Jody|publisher=Irish Independent|date=9 January 2022|access-date=10 January 2022}}</ref>
+|1,369
 |style="background:#D7ECEA"|'''33'''
 |19
 |23
@@ -42,7 +42,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |9
 |-
 |data-sort-value="2021-12-12"|12 December 2021
-|data-sort-value="ITMos17"|Ireland Thinks/Irish Mail on Sunday<ref group="p">{{Cite tweet|author=Next Irish General Election|user=NextIrishGE|number=1469972104372236290|title=Ireland Thinks / Mail on Sunday 12 Dec 2021}}</ref>
+|data-sort-value="ITMos17"|[[Irish Daily Mail|Ireland Thinks/Irish Mail on Sunday]]<ref group="p">{{Cite tweet|author=Next Irish General Election|user=NextIrishGE|number=1469972104372236290|title=Ireland Thinks / Mail on Sunday 12 Dec 2021}}</ref>
 |?
 |style="background:#D7ECEA"|'''31'''
 |17

@@ -8,7 +8,7 @@ Poll results are listed in the table in reverse chronological order, showing the
 |- 
 ! rowspan="2" style="width:120px;"|Fieldwork date
 ! rowspan="2"|Polling firm
-! rowspan="2"|Publisher(s)ni
+! rowspan="2"|Publisher(s)
 ! rowspan="2" style="width:50px;" class="unsortable"|Sample size
 ! style="width:35px;" class="unsortable"| [[Slovenian Democratic Party|SDS]]
 ! style="width:35px;" class="unsortable"| [[List of Marjan Šarec|LMŠ]]
@@ -299,7 +299,7 @@ Poll results are listed in the table in reverse chronological order, showing the
 |- 
 ! rowspan="2" style="width:120px;"|Fieldwork date
 ! rowspan="2"|Polling firm
-! rowspan="2"|Publisher(s)ni
+! rowspan="2"|Publisher(s)
 ! rowspan="2" style="width:50px;" class="unsortable"|Sample size
 ! style="width:35px;" class="unsortable"| [[Slovenian Democratic Party|SDS]]
 ! style="width:35px;" class="unsortable"| [[List of Marjan Šarec|LMŠ]]
@@ -3828,123 +3828,141 @@ Parsifal: Javnomnenjska anketa - SDS bi volilo toliko volivcev kot vse štiri st
 ;Robert Golob founds a party
 {| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:16px"
 |- 
-! rowspan="2" style="width:120px;"|Fieldwork date
-! rowspan="2"|Polling firm
-! rowspan="2"|Publisher(s)ni
-! rowspan="2" style="width:50px;" class="unsortable"|Sample size
-! style="width:35px;" class="unsortable"| [[Slovenian Democratic Party|SDS]]
-! style="width:35px;" class="unsortable"| [[List of Marjan Šarec|LMŠ]]
-! style="width:35px;" class="unsortable"| [[Social Democrats (Slovenia)|SD]]
+! rowspan="3" style="width:120px;"|Fieldwork date
+! rowspan="3"|Polling firm
+! rowspan="3"|Publisher(s)
+! rowspan="3" style="width:50px;" class="unsortable"|Sample size
+! rowspan="2" style="width:35px;" class="unsortable"| [[Slovenian Democratic Party|SDS]]
+! colspan="3" style="width:35px;" class="unsortable"| [[Let's Connect Slovenia|PoS]]
+! rowspan="2" style="width:35px;" class="unsortable"| [[List of Marjan Šarec|LMŠ]]
+! rowspan="2" style="width:35px;" class="unsortable"| [[Social Democrats (Slovenia)|SD]]
+! rowspan="2" style="width:35px;" class="unsortable"| [[The Left (Slovenia)|The Left]]
+! rowspan="2" style="width:35px;" class="unsortable"| [[New Slovenia|NSi]]
+! rowspan="2" style="width:35px;" class="unsortable"| [[Party of Alenka Bratušek|SAB]]
+! rowspan="2" style="width:35px;" class="unsortable"| [[Democratic Party of Pensioners of Slovenia|DeSUS]]
+! rowspan="2" style="width:35px;" class="unsortable"| [[Slovenian National Party|SNS]]
+! rowspan="2" style="width:35px;" class="unsortable"| [[Pirate Party (Slovenia)|PPS]]
+! rowspan="2" style="width:35px;" class="unsortable"| [[Good State (Slovenia)|DD]]
+! rowspan="2" style="width:35px;" class="unsortable"| Golob
+! rowspan="2" style="width:35px;" class="unsortable"| [[Our Country (Slovenia)|ND]]
+! rowspan="2" style="width:35px;" class="unsortable"| [[Green Actions|Z.DEJ]]
+! rowspan="2" style="width:35px;" class="unsortable"| [[Spring – Green Party|Vesna]]
+! rowspan="2" style="width:35px;" class="unsortable"| [[Resni.ca|RESNI.CA]]
+! rowspan="3" style="width:35px;" class="unsortable"| Others
+! rowspan="3" style="width:35px;" class="unsortable"| None
+! rowspan="3" style="width:35px;" class="unsortable"| Und.
+! rowspan="3" style="width:35px;" class="unsortable"| Abst.
+! rowspan="3" style="width:35px;" class="unsortable"| Lead
+! rowspan="3" class="unsortable" | Source
+|-
 ! style="width:35px;" class="unsortable"| [[Concretely|K]]
-! style="width:35px;" class="unsortable"| [[The Left (Slovenia)|The Left]]
-! style="width:35px;" class="unsortable"| [[New Slovenia|NSi]]
-! style="width:35px;" class="unsortable"| [[Party of Alenka Bratušek|SAB]]
-! style="width:35px;" class="unsortable"| [[Democratic Party of Pensioners of Slovenia|DeSUS]]
-! style="width:35px;" class="unsortable"| [[Slovenian National Party|SNS]]
-! style="width:35px;" class="unsortable"| [[Let's Connect Slovenia|PoS]]
-! style="width:35px;" class="unsortable"| [[Pirate Party (Slovenia)|PPS]]
-! style="width:35px;" class="unsortable"| [[Good State (Slovenia)|DD]]
-! style="width:35px;" class="unsortable"| Golob
-! style="width:35px;" class="unsortable"| [[Our Country (Slovenia)|ND]]
-! style="width:35px;" class="unsortable"| [[Green Actions|Z.DEJ]]
-! style="width:35px;" class="unsortable"| [[Spring – Green Party|Vesna]]
-! rowspan="2" style="width:35px;" class="unsortable"| Others
-! rowspan="2" style="width:35px;" class="unsortable"| None
-! rowspan="2" style="width:35px;" class="unsortable"| Und.
-! rowspan="2" style="width:35px;" class="unsortable"| Abst.
-! rowspan="2" style="width:35px;" class="unsortable"| Lead
-! class="unsortable" rowspan="2"| Source
+! style="width:35px;" class="unsortable"| [[Slovenian People's Party|SLS]]
+! style="width:35px;" class="unsortable"| [[Andrej Čuš and Greens of Slovenia|AČZS]]
 |-
 ! class="unsortable" style="background:{{party color|Slovenian Democratic Party}}; width:30px;" |
+! class="unsortable" style="background:{{party color|Modern Centre Party}}; width:30px;"|
+! class="unsortable" style="background:{{party color|Slovenian People's Party}}; width:30px;"|
+! class="unsortable" style="background: #6ab32e; width:30px"|
 ! class="unsortable" style="background:{{party color|List of Marjan Šarec}}; width:30px"|
 ! class="unsortable" style="background:{{party color|Social Democrats (Slovenia)}}; width:30px;"|
-! class="unsortable" style="background:{{party color|Modern Centre Party}}; width:30px;"|
 ! class="unsortable" style="background:{{party color|United Left (Slovenia)}}; width:30px;"|
 ! class="unsortable" style="background:{{party color|New Slovenia}}; width:30px;"|
 ! class="unsortable" style="background:{{party color|Alliance of Alenka Bratušek}}; width:30px"|
 ! class="unsortable" style="background:{{party color|Democratic Party of Pensioners of Slovenia}}; width:30px;"|
 ! class="unsortable" style="background:{{party color|Slovenian National Party}}; width:30px"|
-! class="unsortable" style="background: #fed36c; width:30px;"|
 ! class="unsortable" style="background: #D2691E; width:30px"|
 ! class="unsortable" style="background: {{party color|Good State (Slovenia)}}; width:30px"|
-!
+! class="unsortable"|
 ! class="unsortable" style="background: {{party color|Our Country (Slovenia)}}; width:30px"|
 ! class="unsortable" style="background: {{party color|Green Actions}}; width:30px"|
 ! class="unsortable" style="background: #7fc241; width:30px"|
+! class="unsortable" style="background: {{party color|Resni.ca}}; width:30px"|
+|-
+|rowspan="2" data-sort-value="2022-01-13"|11–13 Jan 2022
+|rowspan="2"|Ninamedia
+|rowspan="2"|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|1,050
+|style="background:#FFFFBF" |'''15.5'''
+|2.8
+|1.0
+|1.6
+|4.3
+|10.3
+|5.9
+|4.5
+|3.1
+|0.9
+|0.7
+|0.7
+|1.1
+|15.4
+|2.9
+|{{N/A}}
+|1.9
+|{{N/A}}
+|{{N/A}}
+|colspan="3"|24.6
+|style="background:{{party color|Slovenian Democratic Party}}" |0.1
+|rowspan="2"|<ref>{{Cite web|date=2022-01-17|title=Anketa: Majhna razlika med SDS-om in morebitno stranko Roberta Goloba|url=https://www.rtvslo.si/slovenija/anketa-majhna-razlika-med-sds-om-in-morebitno-stranko-roberta-goloba/608941|access-date=2022-01-17|language=sl-SI}}</ref>
+|-
+|700
+|style="background:#FFFFBF" |'''18.1'''
+|{{N/A}}
+|0.2
+|{{N/A}}
+|5.1
+|13.6
+|7.8
+|5.3
+|4.0
+|0.9
+|0.4
+|1.2
+|{{N/A}}
+|2.4
+|1.4
+|{{N/A}}
+|{{N/A}}
+|1.3
+|{{N/A}}
+|colspan="2"|31.1
+|5.4
+|style="background:{{party color|Slovenian Democratic Party}}" |4.5
 |-
 |4–6 Jan 2022
 |Parsifal
 |[[Nova24TV]]
 |734
 |style="background:#FFFFBF" |'''20.7'''
+|0.4
+|colspan="2"|2.7
 |3.3
 |7.8
-|0.4
 |5.9
 |5.7
 |1.5
 |2.2
 |1.8
-|2.7
 |1.5
 |1.1
 |8.2
 |1.4
 |0.3
 |0.7
+|{{N/A}}
 |1.7
 |3.8
 |20.6
 |9.0
 |style="background:{{party color|Slovenian Democratic Party}}" |12.5
 |<ref>{{Cite web|date=2022-01-09|title=Preobrat: zaradi Goloba Bratuškova izven parlamenta, Šarec na robu|url=https://siol.net/novice/slovenija/preobrat-zaradi-goloba-bratuskova-izven-parlamenta-sarec-na-robu-570126|access-date=2022-01-09|language=sl-SI}}</ref>
-|}
-{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:16px"
-|- 
-! rowspan="2" style="width:120px;"|Fieldwork date
-! rowspan="2"|Polling firm
-! rowspan="2"|Publisher(s)ni
-! rowspan="2" style="width:50px;" class="unsortable"|Sample size
-! style="width:35px;" class="unsortable"| [[Slovenian Democratic Party|SDS]]
-! style="width:35px;" class="unsortable"| [[Let's Connect Slovenia|PoS]]+[[Concretely|K]]
-! style="width:35px;" class="unsortable"| [[List of Marjan Šarec|LMŠ]]
-! style="width:35px;" class="unsortable"| [[Social Democrats (Slovenia)|SD]]
-! style="width:35px;" class="unsortable"| [[The Left (Slovenia)|The Left]]
-! style="width:35px;" class="unsortable"| [[New Slovenia|NSi]]
-! style="width:35px;" class="unsortable"| [[Party of Alenka Bratušek|SAB]]
-! style="width:35px;" class="unsortable"| [[Democratic Party of Pensioners of Slovenia|DeSUS]]
-! style="width:35px;" class="unsortable"| [[Slovenian National Party|SNS]]
-! style="width:35px;" class="unsortable"| [[Pirate Party (Slovenia)|PPS]]
-! style="width:35px;" class="unsortable"| [[Good State (Slovenia)|DD]]
-! style="width:35px;" class="unsortable"| Golob
-! style="width:35px;" class="unsortable"| [[Our Country (Slovenia)|ND]]
-! rowspan="2" style="width:35px;" class="unsortable"| Others
-! rowspan="2" style="width:35px;" class="unsortable"| None
-! rowspan="2" style="width:35px;" class="unsortable"| Und.
-! rowspan="2" style="width:35px;" class="unsortable"| Abst.
-! rowspan="2" style="width:35px;" class="unsortable"| Lead
-! class="unsortable" rowspan="2"| Source
-|-
-! class="unsortable" style="background:{{party color|Slovenian Democratic Party}}; width:30px;" |
-! class="unsortable" style="background: #fed36c; width:30px;"|
-! class="unsortable" style="background:{{party color|List of Marjan Šarec}}; width:30px"|
-! class="unsortable" style="background:{{party color|Social Democrats (Slovenia)}}; width:30px;"|
-! class="unsortable" style="background:{{party color|United Left (Slovenia)}}; width:30px;"|
-! class="unsortable" style="background:{{party color|New Slovenia}}; width:30px;"|
-! class="unsortable" style="background:{{party color|Alliance of Alenka Bratušek}}; width:30px"|
-! class="unsortable" style="background:{{party color|Democratic Party of Pensioners of Slovenia}}; width:30px;"|
-! class="unsortable" style="background:{{party color|Slovenian National Party}}; width:30px"|
-! class="unsortable" style="background: #D2691E; width:30px"|
-! class="unsortable" style="background: {{party color|Good State (Slovenia)}}; width:30px"|
-!
-! class="unsortable" style="background: {{party color|Our Country (Slovenia)}}; width:30px"|
 |-
 |data-sort-value="2021-12-07"|2–7 Dec 2021
 |Ninamedia
 |[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
 |1,002
 |style="background:#FFFFBF" |'''15.2'''
-|3.3
+|colspan="3"|3.3
 |8.0
 |13.3
 |7.5
@@ -3956,6 +3974,9 @@ Parsifal: Javnomnenjska anketa - SDS bi volilo toliko volivcev kot vse štiri st
 |1.3
 |9.0
 |2.1
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
 |1.0
 |colspan="3"|26.4
 |style="background:{{party color|Slovenian Democratic Party}}" |1.9
@@ -3967,7 +3988,7 @@ Parsifal: Javnomnenjska anketa - SDS bi volilo toliko volivcev kot vse štiri st
 |- 
 ! rowspan="2" style="width:120px;"|Fieldwork date
 ! rowspan="2"|Polling firm
-! rowspan="2"|Publisher(s)ni
+! rowspan="2"|Publisher(s)
 ! rowspan="2" style="width:50px;" class="unsortable"|Sample size
 ! style="width:35px;" class="unsortable"| [[Slovenian Democratic Party|SDS]]
 ! style="width:35px;" class="unsortable"| [[Let's Connect Slovenia|PoS]]
@@ -4004,12 +4025,12 @@ Parsifal: Javnomnenjska anketa - SDS bi volilo toliko volivcev kot vse štiri st
 ! class="unsortable" style="background:{{party color|Slovenian National Party}}; width:30px"|
 ! class="unsortable" style="background: #D2691E; width:30px"|
 ! class="unsortable" style="background: {{party color|Good State (Slovenia)}}; width:30px"|
-!
+! class="unsortable"|
 ! class="unsortable" style="background: {{party color|Our Country (Slovenia)}}; width:30px"|
 ! class="unsortable" style="background: {{party color|Green Actions}}; width:30px"|
 ! class="unsortable" style="background: #7fc241; width:30px"|
-!
-!
+! class="unsortable"|
+! class="unsortable"|
 |-
 |27–29 Dec 2021
 |Mediana

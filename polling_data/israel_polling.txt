@@ -41,6 +41,24 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 !style=background:{{party color|United Arab List}} |
 !style=background:{{party color|Yesh Atid}} |
 |-
+|data-sort-value=2022-01-10 |10 Jan 22
+|Maagar Mohot
+|Srugim<ref name=SrugimJan10>{{cite news |title=Srugim poll: Barkat-led Likud with 62 coalition - and without Bennett |url=https://www.srugim.co.il/635862-סקר-דרמטי-הליכוד-עם-קואליציית-62-בלי-בנט |work=srugim.co.il |date=10 January 2022 |language=he}}</ref>
+|style=background:#BBCDE4 |'''33'''	<!-- Likud		-->
+|18					<!-- Yesh Atid	-->
+|9					<!-- Shas		-->
+|11					<!-- Blue and White	-->
+|6					<!-- Yamina		-->
+|8					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|8					<!-- Religious Zionist	-->
+|5					<!-- Joint List	-->
+|{{small|(2%)}}		<!-- New Hope	-->
+|5					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|58					<!-- Gov		-->
+|-
 |data-sort-value=2022-01-06 |6 Jan 22
 |Direct Polls
 |Channel 14<ref name=Ch14Jan6>{{cite news |title=Dramatic poll: The Likud is getting stronger, Yamina near the Electoral-threshold |url=https://www.now14.co.il/סקר-מנדטים-דרמטי-הליכוד-מתחזקת-ימינה-ע/ |work=Now 14 |date=6 January 2022 |language=he-IL}}</ref>

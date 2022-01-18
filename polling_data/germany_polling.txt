@@ -23,6 +23,58 @@
 ! style="background:{{party color|The Left (Germany)}};"|
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|14|17|Jan|2022|year}}
+| 2,130
+| –
+| {{Party shading/SPD}}| '''26'''
+| 22.5
+| 15.5
+| 12
+| 12
+| 6
+| 6
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 3.5
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|10|14|Jan|2022|year}}
+| 1,504
+| –
+| {{Party shading/SPD}}| '''27'''
+| 23
+| 16
+| 11
+| 12
+| 5
+| 6
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
+|-
+| [https://www.wahlrecht.de/umfragen/politbarometer.htm Forschungsgruppe Wahlen]
+| {{opdrts|11|13|Jan|2022|year}}
+| 1,128
+| 21
+| {{Party shading/SPD}}| '''27'''
+| 22
+| 16
+| 11
+| 10
+| 6
+| 8
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 5
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| {{opdrts|5|11|Jan|2022|year}}
+| 1,426
+| –
+| {{Party shading/SPD}}| '''26'''
+| 23
+| 17
+| 10
+| 10
+| 6
+| 8
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 3
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|7|10|Jan|2022|year}}
 | 2,107
 | –
@@ -34,6 +86,32 @@
 | 5
 | 6.5
 | style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 3.5
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| {{opdrts|3|10|Jan|2022|year}}
+| 3,003
+| 22
+| {{Party shading/SPD}}| '''25'''
+| {{Party shading/CDU}}| '''25'''
+| 17
+| 10
+| 9
+| 5
+| 9
+| Tie
+|-
+| [https://www.wahlrecht.de/umfragen/ipsos.htm Ipsos]
+| {{opdrts|6|9|Jan|2022|year}}
+| 929
+| –
+| {{Party shading/SPD}}| '''25'''
+| 21
+| 15
+| 11
+| 12
+| 6
+| 10
+| style="background:{{party color|Social Democratic Party of Germany}};color:#FFFFFF;"| 4
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|3|7|Jan|2022|year}}

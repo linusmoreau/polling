@@ -1,6 +1,63 @@
 ===First round===
 The first round is scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=Brasil terá eleições livres em 2022 e com instituições funcionando, diz Barroso |url=https://g1.globo.com/politica/noticia/2021/10/04/brasil-tera-eleicoes-livres-em-2022-e-com-instituicoes-funcionando-diz-barroso.ghtml|website=[[G1 (website)|G1]] |date=4 October 2021}}</ref>
 
+====2022====
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+! rowspan="2"| Pollster/client(s)
+! rowspan="2"| Fieldwork<br>date(s)
+! rowspan="2" data-sort-type="number"| Sample<br>size
+! class="unsortable" style="width:50px;"|[[Jair Bolsonaro|Bolsonaro]]<br>{{small|[[Liberal Party (Brazil, 2006)|PL]]}}
+! class="unsortable" style="width:50px;"|[[Luiz Inácio Lula da Silva|Lula]]<br>{{small|[[Workers' Party (Brazil)|PT]]}}
+! class="unsortable" style="width:50px;"|[[Sérgio Moro|Moro]]<br>{{small|[[Podemos (Brazil)|PODE]]}}
+! class="unsortable" style="width:50px;"|[[Ciro Gomes|Gomes]]<br>{{small|[[Democratic Labour Party (Brazil)|PDT]]}}
+! class="unsortable" style="width:50px;"|[[João Doria|Doria]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
+! rowspan="2" class="unsortable" style="width:50px" | Others<br>{{Efn|name=fn2|group=|This column presents the sum of candidates who do not reach 3%.}}
+! rowspan="2" class="unsortable" style="width:50px" | Abst.<br>Undec.
+! rowspan="2" data-sort-type="number" style="width:50px" | Lead
+|-
+! data-sort-type="number" class="sortable" style="background:#3F4196;"|
+! data-sort-type="number" class="sortable" style="background:#E20E28;"|
+! data-sort-type="number" class="sortable" style="background:#2DA933;"|
+! data-sort-type="number" class="sortable" style="background:#FF0000;"|
+! data-sort-type="number" class="sortable" style="background:#0080FF;"|
+|-
+|[https://exame.com/brasil/exame-ideia-lula-tem-41-no-1o-turno-contra-24-de-bolsonaro ''Exame/Ideia'']
+|9–13 Jan
+|1,500
+|24%
+|style="background:#ffb7b7;"| '''41%'''
+|11%
+|7%
+|4%
+|1%
+|11%
+|style="background:#E20E28;color:#ffffff;"| 17%
+|-
+|[https://www.poder360.com.br/pesquisas/ipespe-lula-tem-44-dos-votos-e-bolsonaro-24-no-1o-turno/ ''XP/Ipespe'']
+|10–12 Jan
+|1,000
+|24%
+|style="background:#ffb7b7;"| '''44%'''
+|9%
+|7%
+|2%
+|3%
+|13%
+|style="background:#E20E28;color:#ffffff;"| 20%
+|-
+|[https://www.cnnbrasil.com.br/politica/pesquisa-quaest-genial-lula-tem-45-bolsonaro-23-e-moro-9 ''Quaest/Genial'']
+|6–9 Jan
+|2,000
+|23%
+|style="background:#ffb7b7;"| '''45%'''
+|9%
+|5%
+|3%
+|1%
+|12%
+|style="background:#E20E28;color:#ffffff;"| 22%
+|}
+
 ====2021====
 {| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
 ! rowspan="2"| Pollster/client(s)

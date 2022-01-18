@@ -246,9 +246,9 @@ def transcribe_table(content, key, choice, begin, start):
         elif choice == 'France':
             if '=== 2021 ===' in line:
                 nkey = ['firm', 'date', 'sample',
-                        'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Thouy', 'Taubira', 'Hidalgo', 'Montebourg',
-                        'Jadot', 'Macron', 'Lassalle', 'Pécresse', 'Dupont-Aignan', 'Le Pen', 'Philippot', 'Zemmour',
-                        'Asselineau',
+                        'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Taubira', 'Hidalgo', 'Montebourg',
+                        'Jadot', 'Thouy', 'Macron', 'Lassalle', 'Pécresse', 'Dupont-Aignan', 'Le Pen', 'Philippot',
+                        'Zemmour', 'Asselineau',
                         'end']
                 reset = True
             if '==== September–November ====' in line:
@@ -284,6 +284,14 @@ def transcribe_table(content, key, choice, begin, start):
                         'PSOE', 'PP', 'VOX', 'UP', 'Cs', 'ERC', 'MP', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG', 'NA+',
                         'PRC', 'TE', 'lead', 'end']
                 reset = True
+        elif choice == 'Slovenia':
+            if '===Parties which ran in 2018===' in line:
+                nkey = ['date', 'firm', 'publisher', 'sample',
+                        'SDS', 'LMS', 'SD', 'SMC', 'Left', 'NSi', 'SAB', 'DeSUS', 'SNS', 'SLS', 'PPS', 'DD', 'ACZS',
+                        'Other', 'None', 'Undecided', 'Abstain', 'lead', 'source', 'end']
+                reset = True
+            elif '===Scenario Polls===' in line:
+                break
         if reset:
             tables.append({'table': table[:], 'key': key, 'years': years})
             table = []
@@ -741,7 +749,7 @@ def choice_setting(c):
     col = dat.get('col', None)
     blocs = dat['blocs']
     gov = dat['gov']
-    start = dat.get('start', None)
+    start = dat.get('start', 0)
     restart = dat['restart']
     date = dat['date']
     end_date = dat['end_date']
@@ -1269,7 +1277,7 @@ class MenuPage:
 
 def get_canada_riding_data():
     try:
-        with open('./misc_data/ridings.csv', 'r') as f:
+        with open('../misc_data/ridings.csv', 'r') as f:
             doc = csv.reader(f)
             dat: Dict[str, List[Dict[str, Any]]] = {}
             region = None

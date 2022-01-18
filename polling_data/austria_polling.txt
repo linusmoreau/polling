@@ -24,6 +24,19 @@
 ! style="background:{{party color|MFG – Austria People – Freedom – Fundamental Rights}};"|
 ! style="background:{{party color|Independent}};"|
 |-
+| [https://www.profil.at/oesterreich/umfrage-oevp-und-spoe-gleichauf-fpoe-legt-zu/401871764 Unique Research]
+| data-sort-value="2022-01-13"| 10–13 Jan 2022
+| 500
+| Online
+| style="background:#D2EDF1;"| '''25'''
+| style="background:#F4C6C9;"| '''25'''
+| 20
+| 11
+| 11
+| 6
+| 2
+| Tie
+|-
 | [https://www.derstandard.at/story/2000132261460/mehrheit-der-oesterreicher-rechnet-mit-notwendigkeit-einer-vierten-impfung Market]
 | data-sort-value="2021-12-28"| 23–28 Dec 2021
 | 800

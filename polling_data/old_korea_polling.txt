@@ -1,0 +1,503 @@
+==== 2021 ====
+{| class="wikitable sortable mw-collapsible" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! rowspan="2" colspan="2" class="unsortable" | Polling firm / Client
+! rowspan="2" class="unsortable" | Fieldwork <br /> date
+! rowspan="2" class="unsortable" | Sample <br /> size
+! rowspan="2" class="unsortable" | Margin of <br /> error
+! {{vert header|mw=35px|stp=1|[[Lee Jae-myung]]}}
+! {{vert header|mw=35px|stp=1|[[Yoon Seok-youl]]}}
+! {{vert header|mw=35px|stp=1|[[Sim Sang-jung]]}}
+! {{vert header|mw=35px|stp=1|[[Ahn Cheol-soo]]}}
+! {{vert header|mw=35px|stp=1|[[Kim Dong-yeon]]}}
+! {{vert header|mw=35px|stp=1|[[Huh Kyung-young]]}}
+! rowspan="2" | Others/<br />Undecided
+! rowspan="2" | Lead
+|-
+! class="unsortable" style="background-color: {{party color|Democratic Party of Korea}}" |
+! class="unsortable" style="background-color: {{party color|People Power Party (South Korea)}}" |
+! class="unsortable" style="background-color: {{party color|Justice Party (South Korea)}}" |
+! class="unsortable" style="background-color: {{party color|People Party (South Korea)}}" |
+! class="unsortable" style="background-color: #12D77B" |
+! class="unsortable" style="background-color: #8B0000" |
+|-
+| [https://news.sbs.co.kr/news/endPage.do?newsId=N1006589868&plink=ORI&cooper=NAVER&plink=ORI&cooper=NAVER NR]
+| SBS
+| 30-31 Dec
+| 1,003
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''34.9%'''
+| 26.0%
+| 2.6%
+| 7.8%
+| rowspan="2" {{N/A}}
+| rowspan="4" {{N/A}}
+| 28.7%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 8.9%
+|-
+| [https://imnews.imbc.com/news/2022/politics/article/6329085_35666.html KRI]
+| MBC
+| 29-31 Dec
+| 1,007
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''38.5%'''
+| 28.4%
+| 4.0%
+| 8.4%
+| 20.7%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 10.1%
+|-
+| [https://news.kbs.co.kr/news/view.do?ncd=5362493&ref=A Korea research]
+| KBS
+| 29-31 Dec
+| 1,000
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''39.3%'''
+| 27.3%
+| 3.2%
+| 8.1%
+| 0.5%
+| 21.6%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 12.0%
+|-
+| [https://hankookilbo.com/News/Read/A2021123116370000589 Korea research]
+| Hankookilbo
+| 29-30 Dec
+| 1,005
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''34.3%'''
+| 28.7%
+| 4.5%
+| 9.0%
+| rowspan="5" {{N/A}}
+| 23.5%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 5.6%
+|-
+| [http://www.sportsseoul.com/news/read/1087668?ref/ ARC]
+| Sportsseoul
+| 29 Dec
+| 1,001
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''41.5%'''
+| 38.8%
+| 2.0%
+| 6.7%
+| 3.9%
+| 7.0%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 2.7%
+|-
+| [http://segye.com/view/20211231508935 R&R]
+| The Segye Times
+| 27-29 Dec
+| 1,013
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''35.5%'''
+| 30.9%
+| 4.1%
+| 10.3%
+| rowspan="8" {{N/A}}
+| 19.2%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 4.6%
+|-
+| [https://www.seoul.co.kr/news/newsView.php?id=20211230001001 Gallup]
+| The Seoul Shinmun
+| 27-28 Dec
+| 1,008
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''36.8%'''
+| 30.8%
+| 6.6%
+| 9.3%
+| 10.3%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 6.0%
+|-
+| [http://news.heraldcorp.com/view.php?ud=20211230000109&md=20211230093127_BL KSOI]
+| Harold Economy
+| 27-28 Dec
+| 1,002
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''42.9%'''
+| 37.8%
+| 3.3%
+| 4.4%
+| 11.5%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 5.1%
+|-
+| [https://www.newstomato.com/readNews.aspx?no=1096437/ Mediatomato]
+| Newstomato
+| 25-26 Dec
+| 1,014
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''40.1%'''
+| 33.9%
+| 4.5%
+| 6.6%
+| 1.2%
+| 13.8%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 6.2%
+|-
+| [https://www.dailian.co.kr/news/view/1067454/ The poll gongjung]
+| Dailian
+| 24-25 Dec
+| 1,000
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''39.1%'''
+| 37.5%
+| 2.1%
+| 6.5%
+| 1.2%
+| 13.5%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 1.6%
+|-
+| [https://www.newdaily.co.kr/site/data/html/2021/12/05/2021120500027.html PNR]
+| [[New Daily]]
+| 24-25 Dec
+| 1,000
+| ±3.1%p
+| 40.4%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''41.1%'''
+| 2.8%
+| 5.7%
+| {{N/A}}
+| 10.1%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 0.7%
+|-
+| [http://tbs.seoul.kr/news/newsView.do?typ_800=9&idx_800=3458345&seq_800=20450947/ KSOI]
+| TBS
+| 24-25 Dec
+| 1,000
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''37.6%'''
+| 35.8%
+| 3.5%
+| 7.3%
+| 1.5%
+| 14.3%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 1.8%
+|-
+| [https://biz.chosun.com/policy/politics/election2022/2021/12/26/MUNKSR6II5DETLLYOIW3WBOLBI/ SP]
+| Chosun
+| 24-25 Dec
+| 1,010
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''36.6%'''
+| 27.7%
+| 3.9%
+| 4.1%
+| rowspan="2" {{N/A}}
+| 24.7%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 8.9%
+|-
+| [http://www.obsnews.co.kr/news/articleView.html?idxno=1338813/ Media research]
+| Obsnews
+| 23-24 Dec
+| 1,006
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''42.8%'''
+| 35.5%
+| 3.3%
+| 5.7%
+| 4.0%
+| 8.7%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 7.3%
+|-
+| [https://biz.chosun.com/policy/politics/election2022/2021/12/26/MUNKSR6II5DETLLYOIW3WBOLBI/ KED]
+| Chosun
+| 23-24 Dec
+| 1,004
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''37.8%'''
+| 37.5%
+| 5.1%
+| 8.4%
+| 1.0%
+| rowspan="3" {{N/A}}
+| 10.2%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 0.3%
+|-
+| [https://www.ytn.co.kr/_ln/0101_202112220616186840/ Realmeter]
+| YTN
+| 20-21 Dec
+| 1,027
+| ±3.1%p
+| 37.0%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''40.1%'''
+| 3.6%
+| 4.2%
+| 1.7%
+| 13.4%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 3.1%
+|-
+| [https://www.hani.co.kr/arti/politics/politics_general/1023956.html KSOI]
+| Hani
+| 20 Dec
+| 1,008
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''40.3%'''
+| 37.4%
+| 4.2%
+| 4.6%
+| 1.3%
+| 12.1%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 2.9%
+|-
+! colspan="5" |20 December 2021
+! colspan="14" | Yoon Seok-youl recruits Shin Ji-ye and other feminists to the campaign team.
+|-
+| [http://www.ohmynews.com/NWS_Web/Event/Special/opinion_poll_2019/at_pg.aspx?CNTN_CD=A0002797920&CMPT_CD=P0010 Realmeter]
+| Ohmynews
+| 19-24 Dec
+| 3,090
+| ±1.8%p
+| 39.7%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''40.4%'''
+| 2.9%
+| 5.6%
+| {{N/A}}
+| {{N/A}}
+| 11.4%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 0.7%
+|-
+| [http://www.newscj.com/news/articleView.html?idxno=932944 NewsSCJ]
+| KIR
+| 14 Dec
+| 1,022
+| ±3.1%p
+| 35.2%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''44.9%'''
+| 4.4%
+| 3.9%
+| 1.2%
+| 4.5%
+| 5.9%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 9.7%
+|-
+| [https://imnews.imbc.com/news/2021/politics/article/6323515_34866.html IMNews]
+| MBC
+| 14 Dec
+| 1,007
+| ±3.1%p
+| 34.5%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''38.7%'''
+| 4.5%
+| 5.9%
+| {{N/A}}
+| {{N/A}}
+| 16.4%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 4.2%
+|-
+| [https://www.thewatch.news/news/articleView.html?idxno=9218 Realmeter]
+| The Watch
+| 7-8 Dec
+| 1,028
+| ±3.1%p
+| 35.5%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''37.4%'''
+| 6.7%
+| 4.1%
+| 1.9%
+| 4.6%
+| 6.2%{{efn|[[Independent (politician)|Independent]], [[Son Hak-gyu]] 1.3%.<br /> [[Progressive Party (South Korea, 2017)|Progressive Party]], [[Kim Jae-yeon]] 0.9%.<br /> [[Our Republican Party (2020)|Our Republican Party]], [[Cho Won-jin]], 0.7% <br /> [[National Revolutionary Party (South Korea, 2021)|National Revolutionary Party]], Kim Gyeong-jae, 0.4%.}}
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 1.9%
+|-
+| [https://m.mt.co.kr/renew/view.html?no=2021120813512545377&NFM#_enliple Gallup]
+| MoneyToday
+| 6-7 Dec
+| 1,006
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''35.5%'''
+| {{party shading/People Power Party (South Korea)}} align="center" | '''36.4%'''
+| 3.5%
+| 6.5%
+| 1.0%
+| {{N/A}}
+| 16.4%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 0.1%
+|-
+| [https://www.newdaily.co.kr/site/data/html/2021/12/05/2021120500027.html PNR]
+| [[New Daily]]
+| 3-4 Dec
+| 1,004
+| ±3.1%p
+| 38.5%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''42.6%'''
+| 3.8%
+| 2.9%
+| 0.8%
+| 4.4%
+| 6.9%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 4.1%
+|-
+| [http://m.tbs.seoul.kr/news/newsView.do?typ_800=9&idx_800=3456571&seq_800=20449158 KSOI]
+| [[Traffic Broadcasting System|TBS]]
+| 2-3 Dec
+| 1,007
+| ±3.1%p
+| 37.9%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''41.2%'''
+| 4.1%
+| 3.2%
+| 1.7%
+| rowspan="5" {{N/A}}
+| 12.0%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 4.3%
+|-
+| [http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000275865 R&R ]
+| ChannelA
+| 1 Dec
+| 1,008
+| ±3.1%p
+| {{party shading/Democratic Party of Korea}} align="center" | '''35.5%'''
+| 34.6%
+| 4.9%
+| 6.0%
+| 1.6%
+| 17.4%
+| style="background:{{party color|Democratic Party of Korea}}; color:white" | 0.9%
+|-
+| [https://www.hani.co.kr/arti/politics/politics_general/1021195.html RealMeter]
+| Hani
+| 29 Nov
+| 1,000
+| ±3.1%p
+| 35.1%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''43.7%'''
+| 3.0%
+| 4.3%
+| 1.1%
+| 12.6%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 8.6%
+|-
+| [https://m.khan.co.kr/politics/election/article/202111250700011#c2b PNR]
+| Khan
+| 23-24 Nov
+| 1,011
+| ±3.1%p
+| 37.1%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''43.9%'''
+| 3.8%
+| 3.8%
+| 0.4%
+| 5.7%{{efn|[[Progressive Party (South Korea, 2017)|Progressive Party]], [[Kim Jae-yeon]] 0.3%.<br /> [[Our Republican Party (2020)|Our Republican Party]], [[Cho Won-jin]], 1.4%<br />}}
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 6.8%
+|-
+| [https://www.hani.co.kr/arti/politics/assembly/1020232.html Hani]
+| KSOI
+| 24 Nov
+| 1,000
+| ±3.1%p
+| 39.5%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''40.0%'''
+| 4.5%
+| 4.0%
+| 1.1%
+| 10.8%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 0.5%
+|-
+| [https://www.getnews.co.kr/news/articleView.html?idxno=561139 GET]
+| R&Search
+| 23 Nov
+| 1,008
+| ±3.1%p
+| 36.1%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''44.5%'''
+| 3.5%
+| 3.5%
+| 0.5%
+| 3.1%
+| 8.8%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 8.4%
+|-
+| [https://m.mt.co.kr/renew/view.html?no=2021112322171989804&NFM#_enliple Gallup]
+| Money Today
+| 22-23 Nov
+| 1,011
+| ±3.1%p
+| 37.1%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''38.4%'''
+| 3.0%
+| 5.5%
+| 1.0%
+| rowspan="3" {{N/A}}
+| 15.0%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 1.3%
+|-
+| [https://www.newdaily.co.kr/site/data/html/2021/11/22/2021112200093.html PNR]
+| [[New Daily]]
+| 19-20 Nov
+| 1,007
+| ±3.1%p
+| 36.7%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''46.5%'''
+| 3.0%
+| 2.6%
+| 1.0%
+| 10.1%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 9.8%
+|-
+| [https://www.chosun.com/politics/politics_general/2021/11/19/7E7JV3KE5JGYTFBYSXCLU2UZ44/ Gallup]
+| Chosun Ilbo
+| 16-18 Nov
+| 1,000
+| ±3.1%p
+| 31.0%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''42.0%'''
+| 5.0%
+| 7.0%
+| rowspan="2" {{N/A}}
+| 15.0%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 11.0%
+|-
+| [http://www.breaknews.com/847025 ARC]
+| ARC
+| 10-11 Nov
+| 1,006
+| ±3.1%p
+| 34.6%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''47.4%'''
+| 2.1%
+| 3.7%
+| 2.9%
+| 9.5%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 12.8%
+|-
+| [http://www.joongboo.com/news/articleView.html?idxno=363511168 Realmeter]
+| JoongBoo Daily
+| 9-10 Nov
+| 810
+| ±3.4%p
+| 35.4%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''45.0%'''
+| 4.4%
+| 5.7%
+| 1.8%
+| rowspan="4" {{N/A}}
+| 7.7%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 9.6%
+|-
+| [https://www.newdaily.co.kr/site/data/html/2021/11/06/2021110600028.html PNR]
+| [[New Daily]]
+| 5-6 Nov
+| 1,009
+| ±3.1%p
+| 31.2%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''43.0%'''
+| 3.7%
+| 4.7%
+| 1.4%
+| 15.9%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 11.8%
+|-
+| [http://m.tbs.seoul.kr/news/newsView.do?typ_800=9&idx_800=3454020&seq_800=20446597 KSOI]
+| [[Traffic Broadcasting System|TBS]]
+| 5-6 Nov
+| 1,005
+| ±3.1%p
+| 30.3%
+| {{party shading/People Power Party (South Korea)}} align="center" | '''45.8%'''
+| 3.2%
+| 4.7%
+| 0.9%
+| 15.0%
+| style="background:{{party color|People Power Party (South Korea)}}; color:white" | 15.5%
+|}

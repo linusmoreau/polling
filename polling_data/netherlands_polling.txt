@@ -46,6 +46,29 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 ! data-sort-type="number" style="background:{{party color|Farmer–Citizen Movement}};"|
 ! data-sort-type="number" style="background:{{party color|BIJ1}};"|
 |-
+|[https://maurice.nl/peilingen/2022/01/stemming-16-1-2022-vvd-op-laagste-score-sinds-maart-2020/ Peil.nl]
+|16 Jan 2022
+|3,000+
+|style="background:#CED7FD;"|'''25'''
+|19
+|18
+|7
+|8
+|9
+|9
+|7
+|9
+|6
+|8
+|9
+|3
+|3
+|1
+|7
+|1
+|1{{efn|[[Belang van Nederland]] with 1 seat|name="CO1"|group=}}
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|6
+|-
 |[https://maurice.nl/peilingen/2021/12/26/ Peil.nl]
 |data-sort-value="2021-12-26"|26 Dec 2021
 |3,000+

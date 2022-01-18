@@ -25,6 +25,62 @@
 ! data-sort-type="number" style="height:1px; background:{{party color|Confederation Liberty and Independence}};" |
 ! data-sort-type="number" style="height:1px; background:{{party color|Poland 2050}};"|
 |-
+| [https://www.onet.pl/informacje/onetwiadomosci/sondaz-ibris-dla-onetu-pis-w-dolku-tak-zle-nie-bylo-od-miesiecy/ej9b0rl,79cfc278 IBRiS / Onet ]
+| data-sort-value="2022-01-13" | 13 Jan
+| 1,100
+| style="background:#C0DBFC;" | '''30.1'''
+|
+| 20.2
+| 7.3
+| 6.0
+|
+| 8.6
+| 12.1
+| 15.7
+| style="background:{{party color|Law and Justice}}; color:white;"| '''9.9'''
+|-
+| [https://www.se.pl/wiadomosci/polityka/najnowszy-sondaz-partyjny-pis-traci-poparcie-to-przez-polski-lad-aa-GHAF-XtXx-MmNc.html Pollster / SE.pl]
+| data-sort-value="2022-01-13" | 12–13 Jan
+| 1,044
+| style="background:#C0DBFC;" | '''32.81'''
+| 0.30
+| 24.50
+| 7.06
+| 6.44
+| 1.25
+| 10.11
+| 17.08
+| 0.45
+| style="background:{{party color|Law and Justice}}; color:white;"| '''8.31'''
+|-
+| [https://twitter.com/CBOS_Info/status/1482004917350981640 CBOS]
+| data-sort-value="2022-01-13" | 3–13 Jan
+| 1,135
+| style="background:#C0DBFC;" | '''29.4'''
+| 1
+| 17.8
+| 3
+| 3
+| 1
+| 5.2
+| 11.8
+| 27
+| style="background:{{party color|Law and Justice}}; color:white;"| '''11.6'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/581448-nasz-sondaz-pis-lekko-traci-ko-bez-zmian-zyskuje-lewica Social Changes / wPolityce.pl]
+| data-sort-value="2022-01-10" | 7–10 Jan
+| 1,071
+| style="background:#C0DBFC;" | '''36'''
+| 1
+| 24
+| 9
+| 2
+| 2
+| 10
+| 14
+| 2
+| style="background:{{party color|Law and Justice}}; color:white;"| '''12'''
+|-
 | [https://wiadomosci.wp.pl/polski-lad-wstrzasnal-pis-najnowszy-sondaz-dla-wp-6724618266061664a United Surveys / WP.pl]
 | data-sort-value="2022-01-07" | 6–7 Jan
 | 1,000
@@ -37,7 +93,7 @@
 | 8.0
 | 11.0
 | 7.2
-| style="background:{{party color|Law and Justice}}; color:white;"| '''7.1'''
+| style="background:{{party color|Law and Justice}}; color:white;"| '''7.9'''
 |-
 | style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/579172-sondaz-notowania-partii-oraz-barometr-optymizmu-spolecznego Social Changes / wPolityce.pl]
 | data-sort-value="2022-01-02" | 31 Dec–2 Jan

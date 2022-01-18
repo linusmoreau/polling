@@ -6,7 +6,7 @@ The following graphical summary represents the polling numbers of the following 
 * [[Jean-Luc Mélenchon]] ([[La France Insoumise]])
 *[[Christiane Taubira]] ([[Radical Party of the Left]])
 * [[Anne Hidalgo]] ([[French Socialist Party|Socialist Party]])
-* [[Arnaud Montebourg]] (L'Engagement)
+* [[Arnaud Montebourg]] ([[Miscellaneous left|L'Engagement]])
 * [[Yannick Jadot]] ([[Europe Ecology – The Greens|Europe Écologie]])
 * [[Emmanuel Macron]] ([[La République En Marche!|La République en Marche!]])
 * [[Valérie Pécresse]] ([[The Republicans (France)|Les Républicains]])
@@ -31,6 +31,7 @@ The following graphical summary represents the polling numbers of the following 
 ! {{vert header|mw=35px|stp=1|[[Anne Hidalgo]]}}
 ! {{vert header|mw=35px|stp=1|[[Arnaud Montebourg]]}}
 ! {{vert header|mw=35px|stp=1|[[Yannick Jadot]]}}
+! {{vert header|mw=35px|stp=1|[[:fr:Hélène Thouy|Hélène Thouy]]}}
 ! {{vert header|mw=35px|stp=1|[[Emmanuel Macron]]}}
 ! {{vert header|mw=35px|stp=1|[[Jean Lassalle]]}}
 ! {{vert header|mw=35px|stp=1|[[Valérie Pécresse]]}}
@@ -48,6 +49,7 @@ The following graphical summary represents the polling numbers of the following 
 ! style="background:{{party color|Socialist Party (France)}};"|
 ! style="background:{{party color|Miscellaneous left}};"|
 ! style="background:{{party color|Europe Ecology – The Greens}};"|
+! style="background:{{party color|Animalist Party}};"|
 ! style="background:{{party color|La République En Marche!}};"|
 ! style="background:{{party color|Résistons!}};"|
 ! style="background:{{party color|The Republicans (France)}};"|
@@ -58,7 +60,430 @@ The following graphical summary represents the polling numbers of the following 
 ! style="background:{{party color|Popular Republican Union (2007)}};"|
 |-
 | style="background:#80fcd4;" |[https://www.opinion-way.com/fr/barometre-opinionway-kea-partners OpinionWay]
-|5–7 Jan 2022
+|15–17 Jan 2022
+|1,039
+|<1%
+|1%
+|3%
+|10%
+|4%
+|3%
+|1%
+|5%
+|–
+| style="background:#FFED99;" |'''24%'''
+|1%
+| style="background:#DFEEFF;" |'''18%'''
+|1%
+| style="background:#E0E5F0;" |'''18%'''
+|–
+|11%
+|–
+|-
+| style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2022/01/ROL22_2022.01.17.pdf Ifop-Fiducial]
+|13–17 Jan 2022
+|1,517
+|0.5%
+|1%
+|2%
+|9%
+|4%
+|3%
+|1%
+|5.5%
+|0.5%
+| style="background:#FFED99;" |'''24.5%'''
+|1.5%
+|16.5%
+|1.5%
+| style="background:#E0E5F0;" |'''17%'''
+|–
+|12.5%
+|–
+|-
+| style="background:#80fcd4;" |[http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9295-rpw-ow-kea-partners-les-echos-radio-classique-14-janvier.pdf OpinionWay]
+|11–14 Jan 2022
+|1,577
+|<1%
+|1%
+|3%
+|10%
+|–
+|4%
+|1%
+|6%
+|–
+| style="background:#FFED99;" |'''24%'''
+|1%
+| style="background:#DFEEFF;" |'''18%'''
+|2%
+| style="background:#E0E5F0;" |'''18%'''
+|–
+|12%
+|–
+|-
+| rowspan="2" style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2022/01/ROL22_2022.01.14.pdf Ifop-Fiducial]
+| rowspan="2" |11–14 Jan 2022
+| rowspan="2" |1,511
+|0.5%
+|0.5%
+|2%
+|8.5%
+|4.5%
+|3.5%
+|0.5%
+|6%
+|0%
+| style="background:#FFED99;" |'''25%'''
+|1%
+| style="background:#DFEEFF;" |'''16.5%'''
+|1.5%
+|16%
+|–
+|14%
+|–
+|-
+|0.5%
+|0.5%
+|2.5%
+|9%
+|–
+|3.5%
+|1%
+|7%
+|0%
+| style="background:#FFED99;" |'''26%'''
+|1%
+| style="background:#DFEEFF;" |'''17%'''
+|1.5%
+| style="background:#E0E5F0;" |'''17%'''
+|–
+|13.5%
+|–
+|-
+| style="background:#80fcd4;" |[http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9293-opinionway-kea-les-echos.pdf OpinionWay]
+|10–13 Jan 2022
+|1,575
+|<1%
+|1%
+|2%
+|9%
+|–
+|4%
+|1%
+|7%
+|–
+| style="background:#FFED99;" |'''25%'''
+|1%
+|17%
+|2%
+| style="background:#E0E5F0;" |'''18%'''
+|–
+|13%
+|–
+|-
+| rowspan="2" style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2022/01/ROL22_2022.01.13.pdf Ifop-Fiducial]
+| rowspan="2" |10–13 Jan 2022
+| rowspan="2" |1,509
+|0.5%
+|0%
+|2%
+|9%
+|4%
+|3.5%
+|0.5%
+|6%
+|0%
+| style="background:#FFED99;" |'''25%'''
+|1%
+| style="background:#DFEEFF;" |'''17%'''
+|1.5%
+|16%
+|–
+|14%
+|–
+|-
+|0.5%
+|0.5%
+|2%
+|9.5%
+|–
+|3.5%
+|0.5%
+|6.5%
+|0.5%
+| style="background:#FFED99;" |'''26.5%'''
+|1%
+| style="background:#DFEEFF;" |'''17%'''
+|2%
+|16.5%
+|–
+|13.5%
+|–
+|-
+| style="background:#80fcd4;" |[http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9291-rpw-ow-kea-les-echos-radio-classique.pdf OpinionWay]
+|9–12 Jan 2022
+|1,604
+|1%
+|1%
+|2%
+|9%
+|–
+|4%
+|1%
+|7%
+|–
+| style="background:#FFED99;" |'''25%'''
+|2%
+|16%
+|2%
+| style="background:#E0E5F0;" |'''18%'''
+|–
+|12%
+|–
+|-
+| rowspan="2" style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2022/01/ROL22_2022.01.12.pdf Ifop-Fiducial]
+| rowspan="2" |8–12 Jan 2022
+| rowspan="2" |1,505
+|0.5%
+|0%
+|2%
+|9%
+|4%
+|3.5%
+|0.5%
+|5.5%
+|0%
+| style="background:#FFED99;" |'''25.5%'''
+|1%
+|16%
+|2%
+| style="background:#E0E5F0;" |'''16.5%'''
+|–
+|14%
+|–
+|-
+|0.5%
+|0.5%
+|2%
+|9.5%
+|–
+|3.5%
+|0.5%
+|6.5%
+|0.5%
+| style="background:#FFED99;" |'''27%'''
+|1%
+| style="background:#DFEEFF;" |'''16.5%'''
+|2%
+| style="background:#E0E5F0;" |'''16.5%'''
+|–
+|13.5%
+|–
+|-
+| rowspan="2" style="background:#CAD5F7"|[https://elabe.fr/wp-content/uploads/2022/01/presidentielle-2022.pdf Elabe]
+| rowspan="2" |10–11 Jan 2022
+| rowspan="2" |1,465
+|1%
+|1.5%
+|1.5%
+|10%
+|4%
+|2.5%
+|1%
+|6%
+|0.5%
+| style="background:#FFED99;" |'''22.5%'''
+|2%
+|16%
+|2%
+| style="background:#E0E5F0;" |'''16.5%'''
+|1%
+|12.5%
+|0.5%
+|-
+|1%
+|1.5%
+|1.5%
+|9.5%
+|–
+|3.5%
+|1%
+|7%
+|0.5%
+| style="background:#FFED99;" |'''23%'''
+|2%
+| style="background:#DFEEFF;" |'''17%'''
+|1.5%
+| style="background:#E0E5F0;" |'''17%'''
+|1%
+|13%
+|0%
+|-
+| style="background:#80fcd4;" |[http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9287-rpw-opinionway-les-echos.pdf OpinionWay]
+|8–11 Jan 2022
+|1,613
+|1%
+|1%
+|2%
+|9%
+|–
+|4%
+|1%
+|8%
+|–
+| style="background:#FFED99;" |'''25%'''
+|2%
+|16%
+|2%
+| style="background:#E0E5F0;" |'''17%'''
+|–
+|12%
+|–
+|-
+| rowspan="2" style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2022/01/ROL22_2022.01.11.pdf Ifop-Fiducial]
+| rowspan="2" |7–11 Jan 2022
+| rowspan="2" |1,504
+|0.5%
+|1%
+|2%
+|8.5%
+|3.5%
+|3%
+|0.5%
+|6%
+|0.5%
+| style="background:#FFED99;" |'''26%'''
+|1%
+|16%
+|2%
+| style="background:#E0E5F0;" |'''17%'''
+|–
+|12.5%
+|–
+|-
+|0.5%
+|1%
+|2%
+|9%
+|–
+|4%
+|0.5%
+|6.5%
+|0.5%
+| style="background:#FFED99;" |'''27%'''
+|1%
+|16.5%
+|2%
+| style="background:#E0E5F0;" |'''17%'''
+|–
+|12.5%
+|–
+|-
+| style="background:greenyellow;" | [http://harris-interactive.fr/wp-content/uploads/sites/6/2022/01/ZGEGEOSRGA-37.pdf Harris-Interactive]
+|7–10 Jan 2022
+|2,600
+|<0,5%
+|1%
+|2%
+|11%
+|–
+|4% 
+|1%
+|7%
+|– 
+| style="background:#FFED99;" |'''25%'''
+|<0,5%
+| style="background:#DFEEFF;" |'''16%'''
+|2%
+| style="background:#E0E5F0;" |'''16%'''
+|<0,5%
+|15%
+|<0,5%
+|-
+| style="background:#80fcd4;" |[http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9283-rpw-ow-kea-les-echos-radio-classique-notice-a-la-commission-des-sondages-10-janvier.pdf OpinionWay]
+|7–10 Jan 2022
+|1,644
+|1%
+|1%
+|2%
+|9%
+|–
+|4%
+|1%
+|8%
+|–
+| style="background:#FFED99;" |'''25%'''
+|2%
+|16%
+|2%
+| style="background:#E0E5F0;" |'''17%'''
+|–
+|12%
+|–
+|-
+| rowspan="2" style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2022/01/ROL22_2022.01.10.pdf Ifop-Fiducial]
+| rowspan="2" |6–10 Jan 2022
+| rowspan="2" |1,502
+|0.5%
+|1%
+|2%
+|8.5%
+|3.5%
+|3.5%
+|0.5%
+|5.5%
+|0.5%
+| style="background:#FFED99;" |'''26%'''
+|1%
+|16%
+|2%
+| style="background:#E0E5F0;" |'''17%'''
+|–
+|12.5%
+|–
+|-
+|0.5%
+|1%
+|2.5%
+|9.5%
+|–
+|4%
+|0.5%
+|6%
+|0.5%
+| style="background:#FFED99;" |'''27%'''
+|1%
+|15.5%
+|2%
+| style="background:#E0E5F0;" |'''17.5%'''
+|–
+|12.5%
+|–
+|-
+| style="background:#d9fff6;" |[https://cluster17.com/wp-content/uploads/2022/01/notice_technique_S1.pdf Cluster17]
+|4–8 Jan 2022
+|2,291
+|0.5%
+|1.5%
+|2%
+|12.5%
+|5.5%
+|2%
+|0.5%
+|4.5%
+|–
+| style="background:#FFED99;" |'''23%'''
+|1%
+|14%
+|2%
+| style="background:#E0E5F0;" |'''15%'''
+|1.5%
+|13,5%
+|1%
+|-
+| style="background:#80fcd4;" |[http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9281-rpw-op-kea-les-echos.pdf OpinionWay]
+|4–7 Jan 2022
 |1,561
 |1%
 |1%
@@ -68,6 +493,7 @@ The following graphical summary represents the polling numbers of the following 
 |4%
 |1%
 |7%
+|–
 | style="background:#FFED99;" |'''25%'''
 |1%
 | style="background:#DFEEFF;" |'''17%'''
@@ -88,6 +514,7 @@ The following graphical summary represents the polling numbers of the following 
 |3%
 |1%
 |7%
+|–
 | style="background:#FFED99;" |'''25.5%'''
 |1%
 |16%
@@ -105,6 +532,7 @@ The following graphical summary represents the polling numbers of the following 
 |4.5%
 |1%
 |8%
+|–
 | style="background:#FFED99;" |'''26%'''
 |1%
 |16%
@@ -114,7 +542,7 @@ The following graphical summary represents the polling numbers of the following 
 |12%
 |–
 |-
-| style="background:#FFDFCC;"|[https://presidentielle2022.bva-group.com/wp-content/uploads/2022/01/BVA-RTL-Orange-Presidentielle-2022-Vague4-IV-Janvier-2022.pdf BVA]
+| style="background:#FFDFCC;" |[https://presidentielle2022.bva-group.com/wp-content/uploads/2022/01/BVA-RTL-Orange-Presidentielle-2022-Vague4-IV-Janvier-2022.pdf BVA]
 |5–6 Jan 2022
 |1,510
 |0.5%
@@ -125,6 +553,7 @@ The following graphical summary represents the polling numbers of the following 
 |3.5%
 |1.5%
 |8%
+|–
 | style="background:#FFED99;" |'''25%'''
 |1.5%
 |16%
@@ -134,7 +563,28 @@ The following graphical summary represents the polling numbers of the following 
 |12%
 |0.5%
 |-
-| rowspan="3" style="background:#FFCCCC"|[https://www.ifop.com/wp-content/uploads/2022/01/118727_Ifop_Rapport_Baro_Presid.V8..pdf Ifop-Fiducial]
+| style="background:#80fcd4;" |[http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9278-rpw-ow-kea-les-echos.pdf OpinionWay]
+|3–6 Jan 2022
+|1,534
+|1%
+|1%
+|3%
+|9%
+|–
+|4%
+|1%
+|7%
+|–
+| style="background:#FFED99;" |'''25%'''
+|1%
+| style="background:#DFEEFF;" |'''17%'''
+|2%
+| style="background:#E0E5F0;" |'''17%'''
+|–
+|12%
+|–
+|-
+| rowspan="3" style="background:#FFCCCC" |[https://www.ifop.com/wp-content/uploads/2022/01/118727_Ifop_Rapport_Baro_Presid.V8..pdf Ifop-Fiducial]
 | rowspan="3" |3–5 Jan 2022
 | rowspan="3" |1,332
 |0.5%
@@ -145,6 +595,7 @@ The following graphical summary represents the polling numbers of the following 
 |–
 |–
 |6.5%
+|–
 | style="background:#FFED99;" |'''26.5%'''
 |1%
 | style="background:#DFEEFF;" |'''16.5%'''
@@ -162,6 +613,7 @@ The following graphical summary represents the polling numbers of the following 
 |3%
 |1%
 |6.5%
+|–
 | style="background:#FFED99;" |'''25.5%'''
 |1%
 |16%
@@ -179,6 +631,7 @@ The following graphical summary represents the polling numbers of the following 
 |3.5%
 |1%
 |7%
+|–
 | style="background:#FFED99;" |'''27%'''
 |1%
 | style="background:#DFEEFF;" |'''16%'''
@@ -188,7 +641,28 @@ The following graphical summary represents the polling numbers of the following 
 |13.5%
 |–
 |-
-| style="background:#80fcd4;" style="background:#04FBF4;" | [https://www.opinion-way.com/fr/sondage-d-opinion/sondages-publies/politique/presidentielle-2022/2022.html OpinionWay]
+| style="background:#80fcd4;" |[http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9277-rpw-opinion-way-kea-les-echos-5-janvier.pdf OpinionWay]
+|2–5 Jan 2022
+|1,501
+|1%
+|1%
+|3%
+|9%
+|–
+|4%
+|1%
+|7%
+|–
+| style="background:#FFED99;" |'''25%'''
+|1%
+| style="background:#DFEEFF;" |'''17%'''
+|2%
+|16%
+|–
+|13%
+|–
+|-
+| style="background:#80fcd4;" | [http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9274-rpw-baro-ow-kea-v2-les-echos.pdf OpinionWay]
 |2–4 Jan 2022
 |1,568
 |1%
@@ -199,11 +673,33 @@ The following graphical summary represents the polling numbers of the following 
 |4%
 |1%
 |7%
+|–
 | style="background:#FFED99;" |'''25%'''
 |1%
 | style="background:#DFEEFF;" |'''17%'''
 |2%
 |16%
+|–
+|13%
+|–
+|-
+| style="background:#80fcd4;" |[http://www.commission-des-sondages.fr/notices/files/notices/2022/janvier/9273-p-baro-ow-kea-v1-les-echos-radio-classique.pdf OpinionWay]
+|2–3 Jan 2022
+|1,059
+|1%
+|1%
+|3%
+|9%
+|–
+|4%
+|1%
+|7%
+|–
+| style="background:#FFED99;" |'''26%'''
+|1%
+| style="background:#DFEEFF;" |'''16%'''
+|2%
+| style="background:#E0E5F0;" |'''16%'''
 |–
 |13%
 |–
@@ -220,11 +716,11 @@ The following graphical summary represents the polling numbers of the following 
 ! {{vert header|mw=35px|stp=1|[[Philippe Poutou]]}}
 ! {{vert header|mw=35px|stp=1|[[Fabien Roussel]]}}
 ! {{vert header|mw=35px|stp=1|[[Jean-Luc Mélenchon]]}}
-! {{vert header|mw=35px|stp=1|Hélène Thouy}}
 ! {{vert header|mw=35px|stp=1|[[Christiane Taubira]]}}
 ! {{vert header|mw=35px|stp=1|[[Anne Hidalgo]]}}
 ! {{vert header|mw=35px|stp=1|[[Arnaud Montebourg]]}}
 ! {{vert header|mw=35px|stp=1|[[Yannick Jadot]]}}
+! {{vert header|mw=35px|stp=1|[[:fr:Hélène Thouy|Hélène Thouy]]}}
 ! {{vert header|mw=35px|stp=1|[[Emmanuel Macron]]}}
 ! {{vert header|mw=35px|stp=1|[[Jean Lassalle]]}}
 ! {{vert header|mw=35px|stp=1|[[Valérie Pécresse]]}}
@@ -238,11 +734,11 @@ The following graphical summary represents the polling numbers of the following 
 ! style="background:{{party color|New Anticapitalist Party}};"|
 ! style="background:{{party color|French Communist Party}};"|
 ! style="background:{{party color|La France Insoumise}};"|
+! style="background:{{party color|Radical Party of the Left}};" |
+! style="background:{{party color|Socialist Party (France)}};" |
+! style="background:{{party color|Miscellaneous left}};" |
+! style="background:{{party color|Europe Ecology – The Greens}};" |
 ! style="background:{{party color|Animalist Party}};"|
-! style="background:{{party color|Radical Party of the Left}};"|
-! style="background:{{party color|Socialist Party (France)}};"|
-! style="background:{{party color|Miscellaneous left}};"|
-! style="background:{{party color|Europe Ecology – The Greens}};"|
 ! style="background:{{party color|La République En Marche!}};"|
 ! style="background:{{party color|Résistons!}};"|
 ! style="background:{{party color|The Republicans (France)}};"|
@@ -260,8 +756,8 @@ The following graphical summary represents the polling numbers of the following 
 | 4%
 | 12%
 | –
-| –
 | 7%
+| –
 | –
 | –
 | style="background:#FFED99;"| '''26%'''
@@ -277,11 +773,11 @@ The following graphical summary represents the polling numbers of the following 
 |1%
 |3%
 |11%
-|–
 |8%
 |–
 |–
 |–
+|–
 | style="background:#FFED99;"|'''25%'''
 |<0.5%
 | style="background:#DFEEFF;"|'''17%'''
@@ -295,11 +791,11 @@ The following graphical summary represents the polling numbers of the following 
 |1%
 |3%
 |10%
-|–
 |–
 |–
 |–
 |9%
+|–
 | style="background:#FFED99;"|'''25%'''
 |<0.5%
 | style="background:#DFEEFF;"|'''17%'''
@@ -314,10 +810,10 @@ The following graphical summary represents the polling numbers of the following 
 |3%
 |10%
 |–
-|–
 |4%
 |1%
 |7%
+|–
 | style="background:#FFED99;"|'''24%'''
 |<0.5%
 | style="background:#DFEEFF;"|'''16%'''
@@ -334,11 +830,11 @@ The following graphical summary represents the polling numbers of the following 
 |1%
 |1.5%
 |13%
-|–
 |4.5%
 |2%
 |1.5%
 |4%
+|–
 |style="background:#FFED99;"|'''23%'''
 |1%
 | style="background:#DFEEFF;"|'''15%'''
@@ -355,11 +851,11 @@ The following graphical summary represents the polling numbers of the following 
 | 1%
 | 2%
 | 8%
-|–
 | 3%
 | 4%
 | 1%
 | 6%
+|–
 | style="background:#FFED99;"| '''26%'''
 | 1%
 | style="background:#DFEEFF;"| '''18%'''
@@ -376,11 +872,11 @@ The following graphical summary represents the polling numbers of the following 
 |1.5%
 |1.5%
 |12%
-|–
 |7%
 |2%
 |1.5%
 |5%
+|–
 | style="background:#FFED99;"|'''20%'''
 |1%
 | style="background:#DFEEFF;"|'''16%'''
@@ -397,11 +893,11 @@ The following graphical summary represents the polling numbers of the following 
 |1%
 |1%
 |11%
-|<1%
 |–
 |3%
 |2%
 |5%
+|<1%
 | style="background:#FFED99;"|'''26%'''
 |1%
 | style="background:#DFEEFF;"|'''17%'''
@@ -419,10 +915,10 @@ The following graphical summary represents the polling numbers of the following 
 |3%
 |9.5%
 |–
-|–
 |4.5%
 |1%
 |7.5%
+|–
 | style="background:#FFED99;"|'''25.5%'''
 |0.5%
 | style="background:#DFEEFF;"|'''18%'''
@@ -440,10 +936,10 @@ The following graphical summary represents the polling numbers of the following 
 | 3%
 | 9%
 | –
-| –
 | 4%
 | 2%
 | 8%
+| –
 | style="background:#FFED99;"| '''24%'''
 | 1%
 | style="background:#DFEEFF;"| '''17%'''
@@ -461,10 +957,10 @@ The following graphical summary represents the polling numbers of the following 
 |2%
 |13%
 |–
-|–
 |3%
 |1%
 |5%
+|–
 | style="background:#FFED99;"|'''22%'''
 |1%
 | style="background:#DFEEFF;"|'''18%'''
@@ -482,10 +978,10 @@ The following graphical summary represents the polling numbers of the following 
 | 2%
 | 11%
 | –
-| –
 | 4%
 | 1%
 | 7%
+| –
 | style="background:#FFED99;"| '''24%'''
 | <0.5%
 | style="background:#DFEEFF;"| '''17%'''
@@ -502,11 +998,11 @@ The following graphical summary represents the polling numbers of the following 
 | 1.5%
 | 2%
 | 8.5%
-| –
 |–
 | 4.5%
 | 1.5%
 | 8.5%
+| –
 | style="background:#FFED99;"| '''24%'''
 | 1%
 | style="background:#DFEEFF;"| '''17%'''
@@ -523,11 +1019,11 @@ The following graphical summary represents the polling numbers of the following 
 | 2%
 | 2%
 | 8%
-|–
 | 2%
 | 5%
 | 1%
 | 8%
+|–
 | style="background:#FFED99;"| '''25%'''
 | –
 | style="background:#DFEEFF;"| '''17%'''
@@ -545,10 +1041,10 @@ The following graphical summary represents the polling numbers of the following 
 | 2%
 | 10%
 | –
-| –
 | 3%
 | 1%
 | 6%
+| –
 | style="background:#FFED99;"| '''24%'''
 | 1%
 | style="background:#DFEEFF;"| '''19%'''
@@ -566,10 +1062,10 @@ The following graphical summary represents the polling numbers of the following 
 | 2.5%
 | 9%
 | –
-| –
 | 5%
 | 1%
 | 7%
+| –
 | style="background:#FFED99;"| '''24%'''
 | 1%
 | style="background:#DFEEFF;"| '''17%'''
@@ -587,10 +1083,10 @@ The following graphical summary represents the polling numbers of the following 
 | 2%
 | 8%
 | –
-| –
 | 5%
 | 2.5%
 | 7%
+| –
 | style="background:#FFED99;"| '''25%'''
 | 1%
 | style="background:#DFEEFF;"| '''16%'''
@@ -608,10 +1104,10 @@ The following graphical summary represents the polling numbers of the following 
 |2%
 |13%
 |–
-|–
 |3%
 |1%
 |5%
+|–
 | style="background:#FFED99;"|'''23%'''
 |1%
 | style="background:#DFEEFF;"|'''16%'''
@@ -628,11 +1124,11 @@ The following graphical summary represents the polling numbers of the following 
 | 2%
 | 1%
 | 8%
-| <1%
 | –
 | 3%
 | 2%
 | 7%
+| <1%
 | style="background:#FFED99;"| '''23%'''
 | 2%
 | style="background:#DFEEFF;"| '''20%'''
@@ -650,10 +1146,10 @@ The following graphical summary represents the polling numbers of the following 
 | 2.5%
 | 9%
 | –
-| –
 | 5%
 | 1.5%
 | 6%
+| –
 | style="background:#FFED99;"| '''25%'''
 | 0.5%
 | style="background:#DFEEFF;"| '''17%'''
@@ -671,10 +1167,10 @@ The following graphical summary represents the polling numbers of the following 
 | 2%
 | 11%
 | –
-| –
 | 5%
 | 1%
 | 7%
+| –
 | style="background:#FFED99;"| '''23%'''
 | <0.5%
 | 14%
