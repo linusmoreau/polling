@@ -118,20 +118,21 @@ def transcribe_table(content, key, choice, begin, start):
                         'Other', 'Undecided', 'lead', 'end']
                 reset = True
         elif choice == 'Italy':
-            a = 'https://www.youtrend.it/2021/05/25/draghi-cento-giorni/ Quorum – YouTrend'
-            b = 'style="background:{{Power to the People (Italy)/meta/color}}'
-            if a not in found and a in line:
+            if '=== 2021 ===' in line:
+                nkey = ['date', 'firm', 'sample',
+                        'M5S', 'PD', 'Lega', 'FI', 'FdI', 'Art.1', 'SI', '+Eu', 'EV', 'A', 'IV', 'CI',
+                        'Other', 'lead', 'end']
+                reset = True
+            elif 'Polling program mark: May 2021' in line:
                 nkey = ['date', 'firm', 'sample',
                         'M5S', 'PD', 'Lega', 'FI', 'FdI', 'LeU', '+Eu', 'EV', 'C!', 'A', 'IV',
                         'Other', 'lead', 'end']
                 reset = True
-                found.add(a)
-            elif b not in found and b in line:
+            elif 'Polling program mark: April 2019' in line:
                 nkey = ['date', 'firm', 'sample',
                         'M5S', 'PD', 'Lega', 'FI', 'FdI', 'LeU', '+Eu', 'NcI', 'PaP',
                         'Other', 'lead', 'end']
                 reset = True
-                found.add(b)
         elif choice == 'Germany':
             if 'Old Germany' in line:
                 nkey = ['firm', 'date', 'sample', 'abs',

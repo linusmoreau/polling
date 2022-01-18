@@ -349,7 +349,7 @@ specs = {
     },
     'Italy': {
         'key': ['date', 'firm', 'sample',
-                'M5S', 'PD', 'Lega', 'FI', 'FdI', 'Art.1', 'SI', '+Eu', 'EV', 'A', 'IV', 'CI',
+                'M5S', 'PD', 'Lega', 'FI', 'FdI', 'Art.1', 'SI', 'EV', '+Eu', 'A', 'IV', 'CI',
                 'Other', 'lead', 'end'],
         'include': ['M5S', 'PD', 'Lega', 'FI', 'FdI', 'Art.1', 'SI', '+Eu', 'EV', 'A', 'IV', 'CI', 'PaP', 'NcI',
                     'LeU', 'C!'],
