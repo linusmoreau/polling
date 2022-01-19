@@ -102,6 +102,23 @@ specs = {
                'Opinion_polling_for_the_2021_Chilean_presidential_election&action=edit&section=5',
         'vlines': {Date(2021, 7, 18): 'Official Primaries'}
     },
+    'Costa Rica': {
+        'key': ['date', 'firm',
+                'López', 'Ramos', 'Rivera', 'Araya', 'Campos', 'Villalta', 'Moya', 'Muñoz', 'Quesada', 'Figueres',
+                'Feinzaig', 'Cordero', 'Jiménez', 'Piza', 'Mena', 'Alvarado', 'Chaves', 'Chinchilla', 'Hernández',
+                'Cruickshank', 'Vega', 'Saborio', 'Díaz', 'Morales', 'Malavassi',
+                'Other', 'end'],
+        'include': ['Villalta', 'Ramos', 'Figueres', 'Alvarado', 'Chaves', 'Feinzaig', 'Saborio', 'Araya'],
+        'col': {'Ramos': (255, 215, 0), 'Villalta': (255, 239, 0), 'Figueres': (0, 128, 36),
+                'Alvarado': (135, 206, 250), 'Chaves': (54, 212, 44), 'Feinzaig': (255, 115, 0),
+                'Saborio': (4, 84, 163), 'Araya': (2, 178, 227)},
+        'zeros': ['Other'],
+        'restart': ['http'],
+        'start': -1,
+        'end_date': Date(2022, 2, 6),
+        'url': 'https://en.wikipedia.org/w/index.php?title='
+               'Opinion_polling_for_the_2022_Costa_Rican_general_election&action=edit&section=3'
+    },
     'Czechia': {
         'key': ['firm', 'date', 'size', 'turnout',
                 'ANO', 'SPOLU', 'SPOLU', 'SPOLU', 'PaS', 'PaS', 'SPD', 'KSCM', 'CSSD', 'T-S',

@@ -1,0 +1,758 @@
+=== Table of values ===
+'''{{legend|ffd800|First position in poll}}'''
+{{legend|c0c0c0|Second position in poll}}
+
+<div style="width:1024px; overflow:auto;">
+{| class="wikitable" style="font-size:60%"
+!rowspan=2|Fieldwork dates
+!rowspan=2|Polling firm
+![[File:Bandera Partido Accesibilidad sin Exclusión Costa Rica.svg|border|40px|link=Accessibility without Exclusion]]<br/><span style="font-size:x-small">[[Accessibility without Exclusion|PASE]]</span><br/><span style="font-size:xx-small">[[Óscar López (politician)|López]]</span>
+![[File:Bandera Partido Acción Ciudadana Costa Rica.svg|border|40px|link=Citizens' Action Party (Costa Rica)]]<br/><span style="font-size:x-small">[[Citizens' Action Party (Costa Rica)|PAC]]</span><br/><span style="font-size:xx-small">[[Welmer Ramos González|Ramos]]</span>
+![[File:Bandera Partido Alianza Demócrata Cristiana Costa Rica.svg|border|40px|link=Christian Democratic Alliance (Costa Rica)]]<br/><span style="font-size:x-small">[[Christian Democratic Alliance (Costa Rica)|ADC]]</span><br/><span style="font-size:xx-small">Rivera</span>
+![[File:Bandera Partido Costa Rica Justa.svg|border|40px|link=A Just Costa Rica]]<br/><span style="font-size:x-small">[[A Just Costa Rica|CRJ]]</span><br/><span style="font-size:xx-small">[[Rolando Araya Monge|Araya]]</span>
+![[File:Bandera Partido Encuentro Nacional.svg|border|40px|link=]]<br/><span style="font-size:x-small">PEN</span><br/><span style="font-size:xx-small">Campos</span>
+![[File:Bandera Partido Frente Amplio Costa Rica.svg|border|40px|link=Broad Front (Costa Rica)]]<br/><span style="font-size:x-small">[[Broad Front (Costa Rica)|FA]]</span><br/><span style="font-size:xx-small">[[José María Villalta Florez-Estrada|Villalta]]</span>
+![[File:Bandera Partido Fuerza Nacional Costa Rica.svg|border|40px|link=]]<br/><span style="font-size:x-small">PFN</span><br/><span style="font-size:xx-small">Moya</span>
+![[File:Bandera Partido Integración Nacional Costa Rica.svg|border|40px|link=National Integration Party (Costa Rica)]]<br/><span style="font-size:x-small">[[National Integration Party (Costa Rica)|PIN]]</span><br/><span style="font-size:xx-small">Muñoz</span>
+![[File:Bandera Partido Justicia Social Costarricense Costa Rica.svg|border|40px|link=]]<br/><span style="font-size:x-small">JSC</span><br/><span style="font-size:xx-small">[[Carmen Quesada Santamaría|Quesada]]</span>
+![[File:Bandera de Partido Liberación Nacional.svg|border|40px|link=National Liberation Party (Costa Rica)]]<br/><span style="font-size:x-small">[[National Liberation Party (Costa Rica)|PLN]]</span><br/><span style="font-size:xx-small">[[José María Figueres|Figueres]]</span>
+![[File:Bandera Partido Liberal Progresista Plus Costa Rica.svg|border|40px|link=Liberal Progressive Party (Costa Rica, 2016)]]<br/><span style="font-size:x-small">[[Liberal Progressive Party (Costa Rica, 2016)|PLP]]</span><br/><span style="font-size:xx-small">Feinzaig</span>
+![[File:Bandera del Movimiento Libertario.svg|border|40px|link=Libertarian Movement (Costa Rica)]]<br/><span style="font-size:x-small">[[Libertarian Movement (Costa Rica)|ML]]</span><br/><span style="font-size:xx-small">Cordero</span>
+![[File:Bandera Partido Movimiento Social Demócrata Costarricense.svg|border|40px|link=]]<br/><span style="font-size:x-small">MSDC</span><br/><span style="font-size:xx-small">Jiménez</span>
+![[File:Bandera Partido Nuestro Pueblo Costa Rica.svg|border|40px|link=]]<br/><span style="font-size:x-small">PNP</span><br/><span style="font-size:xx-small">[[Rodolfo Piza Rocafort|Piza]]</span>
+![[File:Bandera Partido Nueva Generación Costa Rica.svg|border|40px|link=New Generation Party (Costa Rica)]]<br/><span style="font-size:x-small">[[New Generation Party (Costa Rica)|PNG]]</span><br/><span style="font-size:xx-small">Mena</span>
+![[File:Bandera Partido Nueva República Costa Rica.svg|border|40px|link=New Republic Party (Costa Rica)]]<br/><span style="font-size:x-small">[[New Republic Party (Costa Rica)|PNR]]</span><br/><span style="font-size:xx-small">[[Fabricio Alvarado Muñoz|Alvarado]]</span>
+![[File:Bandera Partido Progreso Social Democrático Costa Rica.svg|border|40px|link=]]<br/><span style="font-size:x-small">[[Social Democratic Progress Party|PPSD]]</span><br/><span style="font-size:xx-small">Chaves</span>
+![[File:Bandera Pueblo Unido Costa Rica.svg|border|40px|link=United People (Costa Rica)]]<br/><span style="font-size:x-small">[[United People (Costa Rica)|PU]]</span><br/><span style="font-size:xx-small">Chinchilla</span>
+![[File:Bandera Partido Republicano Social Cristiano Costa Rica.svg|border|40px|link=Social Christian Republican Party]]<br/><span style="font-size:x-small">[[Social Christian Republican Party|PRSC]]</span><br/><span style="font-size:xx-small">Hernández</span>
+![[File:Bandera Partido Restauración Nacional Costa Rica 2022.svg|border|40px|link=National Restoration Party (Costa Rica)]]<br/><span style="font-size:x-small">[[National Restoration Party (Costa Rica)|PRN]]</span><br/><span style="font-size:xx-small">Cruickshank</span>
+![[File:Bandera Partido de los Trabajadores Costa Rica.svg|border|40px|link=Workers' Party (Costa Rica)]]<br/><span style="font-size:x-small">[[Workers' Party (Costa Rica)|PT]]</span><br/><span style="font-size:xx-small">Vega</span>
+![[File:Bandera del Partido Unidad Social Cristiana.svg|border|40px|link=Social Christian Unity Party]]<br/><span style="font-size:x-small">[[Social Christian Unity Party|PUSC]]</span><br/><span style="font-size:xx-small">[[Lineth Saborío Chaverri|Saborío]]</span>
+![[File:Bandera Partido Unidos Podemos Costa Rica.svg|border|40px|link=United We Can]]<br/><span style="font-size:x-small">[[United We Can|UP]]</span><br/><span style="font-size:xx-small">Díaz</span>
+![[File:Bandera Partido Unión Costarricense Democrática.svg|border|40px|link=]]<br/><span style="font-size:x-small">PUCD</span><br/><span style="font-size:xx-small">Morales</span>
+![[File:Bandera Partido Unión Liberal Costa Rica.svg|border|40px|link=]]<br/><span style="font-size:x-small">UL</span><br/><span style="font-size:xx-small">Malavassi</span>
+!rowspan=2 style="background-color:#000000;color:#ffffff"|Blank, null, others, undecided.
+|-
+!style="background-color:#4682B4|
+!style="background-color:#FFD700|
+!style="background-color:#483D8B|
+!style="background-color:#02b2e3|
+!style="background-color:#ff1e44|
+!style="background-color:#FFEF00|
+!style="background-color:#361f67|
+!style="background-color:#122562|
+!style="background-color:#009600|
+!style="background-color:#008024|
+!style="background-color:#FF7300|
+!style="background-color:#DC143C|
+!style="background-color:#000030|
+!style="background-color:#9428bc|
+!style="background-color:#0070B8|
+!style="background-color:#87CEFA|
+!style="background-color:#36d42c|
+!style="background-color:#ce0000|
+!style="background-color:#BC141A|
+!style="background-color:#0059CF|
+!style="background-color:#ce0000|
+!style="background-color:#0454A3|
+!style="background-color:#8806CE|
+!style="background-color:#97989a|
+!style="background-color:#00008B|
+|-
+|{{nowrap|12-14 Jan 2022}}
+|CIEP-UCR<ref>{{cite news |last1=Juan |first1=Córdoba |title=Encuesta del CIEP: Candidatos se mueven poco y los indecisos suben a 43% |url=https://www.nacion.com/el-pais/politica/encuesta-del-ciep-candidatos-se-mueven-poco-y-los/EYOBSKGJHZGBNPIHNYRZHJNREQ/story/ |access-date=19 January 2022 |agency=La Nación |date=18 January 2022}}</ref>
+|
+|style="text-align:right"|{{formatnum:1}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:6}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:17}}'''
+|
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:9}}
+|style="text-align:right"|{{formatnum:5}}
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:13}}
+|style="text-align:right"|{{formatnum:0.1}}
+|
+|
+|style="text-align:right"|{{formatnum:43}}
+|-
+|{{nowrap|Jan 2022}}
+|Índice<ref>{{Cita web|url=https://www.elmundo.cr/elecciones-2022/encuesta-indice-empate-entre-tres-aspirantes-a-tres-semanas-de-elecciones/|título=Encuesta Índice: Empate entre tres aspirantes a tres semanas de elecciones|apellido=Gutiérrez|nombre=María José|fecha=2022-01-18|sitioweb=El Mundo CR|idioma=es}}</ref>
+|
+|
+|
+|style="text-align:right"|{{formatnum:2}}
+|
+|style="text-align:right"|{{formatnum:8}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:23}}'''
+|
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:23}}
+|style="text-align:right"|{{formatnum:3}}
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:22}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:8}}
+|-
+|{{nowrap|12-14 Jan 2022}}
+|OPol<ref>{{Cita web|url=https://www.elmundo.cr/costa-rica/encuesta-figueres-y-fabricio-alvarado-a-la-cabeza-en-intencion-de-voto-a-tres-semanas-de-elecciones/|título=ENCUESTA: Figueres y Fabricio Alvarado a la cabeza en intención de voto a tres semanas de elecciones|fechaacceso=2022-01-16|apellido=Gutiérrez|nombre=María José|fecha=2022-01-16|sitioweb=El Mundo CR|idioma=es}}</ref>
+|style="text-align:right"|{{formatnum:0.9}}
+|style="text-align:right"|{{formatnum:1.1}}
+|style="text-align:right"|{{formatnum:0.2}}
+|style="text-align:right"|{{formatnum:1.9}}
+|style="text-align:right"|{{formatnum:0.3}}
+|style="text-align:right"|{{formatnum:4.9}}
+|style="text-align:right"|{{formatnum:1.3}}
+|style="text-align:right"|{{formatnum:0.2}}
+|style="text-align:right"|{{formatnum:0.4}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:18.2}}'''
+|style="text-align:right"|{{formatnum:1.1}}
+|style="text-align:right"|{{formatnum:0.2}}
+|
+|style="text-align:right"|{{formatnum:0.5}}
+|style="text-align:right"|{{formatnum:0.3}}
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:18.1}}
+|style="text-align:right"|{{formatnum:4.5}}
+|
+|style="text-align:right"|{{formatnum:1.1}}
+|style="text-align:right"|{{formatnum:1.0}}
+|style="text-align:right"|{{formatnum:0.1}}
+|style="text-align:right"|{{formatnum:15.8}}
+|style="text-align:right"|{{formatnum:0.9}}
+|style="text-align:right"|{{formatnum:0.5}}
+|style="text-align:right"|{{formatnum:0.2}}
+|style="text-align:right"|{{formatnum:21.4}}
+|-
+|{{nowrap|10-14 Jan 2022}}
+|Demoscopía<ref>{{Cita web|url=https://amprensa.com/2022/01/ultima-encuesta-fabricio-alvarado-se-desploma-y-rodrigo-chaves-lo-iguala-en-intencion-de-voto/|título=Última encuesta: Fabricio Alvarado se desploma y Rodrigo Chaves lo iguala en intención de voto|fechaacceso=2022-01-17|apellido=Aguilar|nombre=Ana Yancy|fecha=2022-01-17|sitioweb=AMPrensa.com|idioma=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:1}}
+|
+|style="text-align:right"|{{formatnum:1.2}}
+|
+|style="text-align:right"|{{formatnum:5.8}}
+|style="text-align:right"|{{formatnum:1.2}}
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:19.8}}'''
+|style="text-align:right"|{{formatnum:1.6}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:11.9}}
+|style="text-align:right"|{{formatnum:11}}
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:15.4}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:25.6}}
+|-
+|{{nowrap|16-19 Dec 2021}}
+|Opol<ref>{{Cita web|url=https://www.elmundo.cr/elecciones-2022/triple-empate-entre-figueres-alvarado-y-saborio-de-cara-a-las-elecciones-2022/|título=Triple empate entre Figueres, Alvarado y Saborío de cara a las elecciones 2022|fechaacceso=2021-12-21|apellido=Gutiérrez|nombre=María José|fecha=2021-12-21|sitioweb=El Mundo CR|idioma=es}}</ref>
+|style="text-align:right"|{{formatnum:0.1}}
+|style="text-align:right"|{{formatnum:0.5}}
+|
+|style="text-align:right"|{{formatnum:1.2}}
+|style="text-align:right"|{{formatnum:0.1}}
+|style="text-align:right"|{{formatnum:6.8}}
+|style="text-align:right"|{{formatnum:0.4}}
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:17.2}}'''
+|style="text-align:right"|{{formatnum:1.7}}
+|style="text-align:right"|{{formatnum:0.1}}
+|
+|style="text-align:right"|{{formatnum:0.2}}
+|style="text-align:right"|{{formatnum:0.2}}
+|style="text-align:right"|{{formatnum:6.9}}
+|style="text-align:right"|{{formatnum:6.2}}
+|
+|style="text-align:right"|{{formatnum:0.3}}
+|style="text-align:right"|{{formatnum:0.3}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:15.1}}
+|style="text-align:right"|{{formatnum:0.1}}
+|
+|style="text-align:right"|{{formatnum:0.3}}
+|style="text-align:right"|{{formatnum:42.3}}
+|-
+|{{nowrap|6-10 Dec 2021}}
+|CIEP-UCR<ref>{{cite web|url=https://ciep.ucr.ac.cr/wp-content/uploads/2021/12/INFORME-DE-RESULTADOS-DE-LA-ENCUESTA-CIEP-UCR-DICIEMBRE-2021.html |title=INFORME DE RESULTADOS DE LA ENCUESTA CIEP-UCR |accessdate=14 December 2021|date=14 December 2021|work=CIEP|language=es}}</ref>
+|style="text-align:right"|{{formatnum:0.1}}
+|style="text-align:right"|{{formatnum:0.5}}
+|
+|style="text-align:right"|{{formatnum:1.2}}
+|style="text-align:right"|{{formatnum:0.1}}
+|style="text-align:right"|{{formatnum:6.8}}
+|style="text-align:right"|{{formatnum:0.4}}
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:17.2}}'''
+|style="text-align:right"|{{formatnum:1.7}}
+|style="text-align:right"|{{formatnum:0.1}}
+|
+|style="text-align:right"|{{formatnum:0.2}}
+|style="text-align:right"|{{formatnum:0.2}}
+|style="text-align:right"|{{formatnum:6.9}}
+|style="text-align:right"|{{formatnum:6.2}}
+|
+|style="text-align:right"|{{formatnum:0.3}}
+|style="text-align:right"|{{formatnum:0.3}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:15.1}}
+|style="text-align:right"|{{formatnum:0.1}}
+|
+|style="text-align:right"|{{formatnum:0.3}}
+|style="text-align:right"|{{formatnum:42.3}}
+|-
+|{{nowrap|3-9 Dec 2021}}
+|Enfoques<ref>{{cite news|url=https://www.vozyvoto.org/nota/empate-tecnico-candidatos-pln-pusc-nueva-republica-encuesta-costa-rica |title=Empate técnico entre candidatos del PLN, PUSC y Nueva República en nueva encuesta|accessdate=13 December 2021|date=13 December 2021|work=AmeliaRuida.com VozYVoto.org|last1=Fallas M.|first1=Gustavo|language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:1.2}}
+|
+|style="text-align:right"|{{formatnum:2.2}}
+|
+|style="text-align:right"|{{formatnum:10.0}}
+|style="text-align:right"|{{formatnum:4.0}}
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:17.0}}'''
+|style="text-align:right"|{{formatnum:2.2}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:13.0}}
+|style="text-align:right"|{{formatnum:4.0}}
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:16.0}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:52.0}}
+|-
+|{{nowrap|3-7 Dec 2021}}
+|Demoscopia<ref>{{cite news|url=https://observador.cr/encuesta-figueres-lineth-y-fabricio-en-empate-tecnico-a-2-meses-de-las-elecciones/|title=Encuesta Figueres, Lineth y Fabricio en empate técnico a 2 meses de las elecciones|accessdate=12 December 2021|date=12 December 2021|work=El Observador|first1=Paula|last1=Ruiz|language=es}}</ref>
+|
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:7.3}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:18.2}}'''
+|
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:13.3}}
+|style="text-align:right"|{{formatnum:9.0}}
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:16.5}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:30.2}}
+|-
+|{{nowrap|1-20 Nov 2021}}
+|Idespo-UNA<ref>{{cite web|url=https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2021/12/INFORME-Migracion-cultura-politica-e-intencion-de-voto-2022.pdf|title=Migración, Cultura Política e Intención de voto en las elecciones nacionales 2022|accessdate=10 December 2021|website=www.unacomunica.una.ac.cr|language=es}}</ref>
+|style="text-align:right"|{{formatnum:0.1}}
+|style="text-align:right"|{{formatnum:0.9}}
+|style="text-align:right"|{{formatnum:0.1}}
+|style="text-align:right"|{{formatnum:2.8}}
+|
+|style="text-align:right"|{{formatnum:3.8}}
+|style="text-align:right"|{{formatnum:0.2}}
+|style="text-align:right"|{{formatnum:0.1}}
+|style="text-align:right"|{{formatnum:0.1}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:18.8}}'''
+|style="text-align:right"|{{formatnum:1.0}}
+|style="text-align:right"|{{formatnum:0.1}}
+|
+|style="text-align:right"|{{formatnum:0.1}}
+|style="text-align:right"|{{formatnum:0.1}}
+|style="text-align:right"|{{formatnum:6.8}}
+|style="text-align:right"|{{formatnum:3.2}}
+|style="text-align:right"|{{formatnum:0.1}}
+|
+|style="text-align:right"|{{formatnum:0.3}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:7.5}}
+|style="text-align:right"|{{formatnum:0.1}}
+|style="text-align:right"|{{formatnum:0.1}}
+|
+|style="text-align:right"|{{formatnum:2.1}}
+|-
+|{{nowrap|17-19 Nov 2021}}
+|CIEP-UCR<ref>{{cite web|url=https://ciep.ucr.ac.cr/estudio-de-opinion-publica-noviembre-2021/|title=ESTUDIO DE OPINIÓN 24 November 2021|accessdate=24 November 2021|website=ciep.ucr.ac.cr|language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:1.0}}
+|
+|style="text-align:right"|{{formatnum:1.0}}
+|
+|style="text-align:right"|{{formatnum:6.0}}
+|style="text-align:right"|{{formatnum:0.3}}
+|
+|style="text-align:right"|{{formatnum:0.2}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:13.0}}'''
+|style="text-align:right"|{{formatnum:1.0}}
+|
+|
+|style="text-align:right"|{{formatnum:0.0}}
+|
+|style="text-align:right"|{{formatnum:4.0}}
+|style="text-align:right"|{{formatnum:4.0}}
+|
+|style="text-align:right"|{{formatnum:0.6}}
+|style="text-align:right"|{{formatnum:0.4}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:10.0}}
+|style="text-align:right"|{{formatnum:0.0}}
+|style="text-align:right"|{{formatnum:0.2}}
+|style="text-align:right"|{{formatnum:0.2}}
+|style="text-align:right"|{{formatnum:58.0}}
+|-
+|{{nowrap|3-10 Nov 2021}}
+|Demoscopia<ref name="obs" />
+|
+|style="text-align:right"|{{formatnum:2.0}}
+|
+|style="text-align:right"|{{formatnum:4.2}}
+|
+|style="text-align:right"|{{formatnum:9.4}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:22.0}}'''
+|style="text-align:right"|{{formatnum:2.6}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:9.2}}
+|style="text-align:right"|{{formatnum:4.2}}
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:10.2}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:33.2}}
+|-
+|{{nowrap|21 Oct-2 Nov 2021}}
+|CIEP-UCR<ref>{{cite web|url=https://ciep.ucr.ac.cr/estudio-de-opinion-publica-octubre-2021/|title=ESTUDIO DE OPINIÓN 3 November 2021|accessdate=3 November 2021|website=ciep.ucr.ac.cr|language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:2.0}}
+|style="text-align:right"|{{formatnum:0.2}}
+|style="text-align:right"|{{formatnum:2.0}}
+|
+|style="text-align:right"|{{formatnum:4.0}}
+|style="text-align:right"|{{formatnum:0.6}}
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:19.0}}'''
+|style="text-align:right"|{{formatnum:1.0}}
+|style="text-align:right"|{{formatnum:0.2}}
+|
+|style="text-align:right"|{{formatnum:0.0}}
+|style="text-align:right"|{{formatnum:0.5}}
+|style="text-align:right"|{{formatnum:5.0}}
+|style="text-align:right"|{{formatnum:3.0}}
+|
+|style="text-align:right"|{{formatnum:0.7}}
+|style="text-align:right"|{{formatnum:0.5}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:8.0}}
+|style="text-align:right"|{{formatnum:0.2}}
+|
+|style="text-align:right"|{{formatnum:0.7}}
+|style="text-align:right"|{{formatnum:51.0}}
+|-
+|{{nowrap|28 Sep-1 Oct 2021}}
+|OPol<ref>{{cite web|url=https://www.larepublica.net/news/fabricio-alvarado-jose-maria-figueres-rolando-araya-y-lineth-saborio-parten-como-favoritos-en-carrera-presidencial|title=Fabricio Alvarado, José María Figueres, Rolando Araya y Lineth Saborío parten como favoritos|accessdate=6 October 2021|website=www.larepublica.net|language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:0.9}}
+|
+|style="text-align:right"|{{formatnum:15.3}}
+|
+|style="text-align:right"|{{formatnum:3.9}}
+|style="text-align:right"|{{formatnum:2.0}}
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:16.2}}
+|style="text-align:right"|{{formatnum:0.7}}
+|
+|
+|style="text-align:right"|{{formatnum:1.9}}
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:18.3}}'''
+|style="text-align:right"|{{formatnum:2.5}}
+|
+|style="text-align:right"|{{formatnum:1.9}}
+|
+|
+|style="text-align:right"|{{formatnum:10.3}}
+|style="text-align:right"|{{formatnum:0.6}}
+|
+|
+|style="text-align:right"|{{formatnum:22.8}}
+|-
+|{{nowrap|17-24 Sep 2021}}
+|Demoscopia<ref>{{cite news|last1=Gómez|first1=Tomás|title=Encuesta Figueres arranca campaña como el candidato favorito con un 26,8% y a la vez el más rechazado|url=https://observador.cr/encuesta-figueres-arranca-campana-como-el-candidato-favorito-con-un-268-y-a-la-vez-el-mas-rechazado/|accessdate=4 October 2021|work=Observador|date=3 October 2021|language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:6.7}}
+|
+|style="text-align:right"|{{formatnum:4.4}}
+|
+|style="text-align:right"|{{formatnum:4.4}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:26.8}}'''
+|style="text-align:right"|{{formatnum:1.8}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:7.1}}
+|style="text-align:right"|{{formatnum:2.5}}
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:7.5}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:38.0}}
+|-
+|{{nowrap|1-4 Sep 2021}}
+|OPol<ref>{{cite news|title=Fabricio Alvarado y José María Figueres irían a la segunda ronda|url=https://www.larepublica.net/news/fabricio-alvarado-y-jose-maria-figueres-irian-a-la-segunda-ronda|accessdate=7 September 2021|work=Republica|date=7 September 2021|language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:1.0}}
+|
+|style="text-align:right"|{{formatnum:13.3}}
+|
+|style="text-align:right"|{{formatnum:5.0}}
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:18.3}}
+|style="text-align:right"|{{formatnum:0.0}}
+|
+|
+|style="text-align:right"|{{formatnum:2.1}}
+|style="text-align:right"|{{formatnum:0.0}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:19.1}}'''
+|style="text-align:right"|{{formatnum:2.1}}
+|
+|style="text-align:right"|{{formatnum:2.3}}
+|style="text-align:right"|{{formatnum:0.0}}
+|
+|style="text-align:right"|{{formatnum:11.0}}
+|style="text-align:right"|{{formatnum:1.5}}
+|
+|style="text-align:right"|{{formatnum:0.0}}
+|style="text-align:right"|{{formatnum:20.4}}
+|-
+|{{nowrap|23-27 Aug 2021}}
+|CIEP-UCR<ref>{{cite news|title=Encuesta CIEP-UCR: Competencia electoral hacia 2022 arranca con más indecisos que nunca|url=https://semanariouniversidad.com/pais/encuesta-ciep-ucr-competencia-electoral-hacia-2022-arranca-con-mas-indecisos-que-nunca/|accessdate=1 September 2021|work=Semanario|date=2021|language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:4.0}}
+|
+|style="text-align:right"|{{formatnum:2.0}}
+|
+|style="text-align:right"|{{formatnum:2.0}}
+|style="text-align:right"|{{formatnum:1.0}}
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:17.0}}'''
+|style="text-align:right"|{{formatnum:1.0}}
+|style="text-align:right"|{{formatnum:0.3}}
+|
+|style="text-align:right"|{{formatnum:0.3}}
+|style="text-align:right"|{{formatnum:0.3}}
+|style="text-align:right"|{{formatnum:4.0}}
+|style="text-align:right"|{{formatnum:2.0}}
+|
+|style="text-align:right"|{{formatnum:0.3}}
+|style="text-align:right"|{{formatnum:0.3}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:6.0}}
+|
+|
+|style="text-align:right"|{{formatnum:0.3}}
+|style="text-align:right"|{{formatnum:57.0}}
+|-
+|{{nowrap|31 Jul-2 Aug 2021}}
+|OPol<ref>https://www.diarioextra.com/news/detalle/456488/fabricio-araya-y-figueres-lideran-intenci-n-de-voto</ref>
+|
+|style="text-align:right"|{{formatnum:0.4}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:18.7}}
+|
+|style="text-align:right"|{{formatnum:8.8}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:17.9}}
+|style="text-align:right"|{{formatnum:0.2}}
+|
+|
+|style="text-align:right"|{{formatnum:2.1}}
+|style="text-align:right"|{{formatnum:0.9}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:20.0}}'''
+|
+|
+|style="text-align:right"|{{formatnum:6.2}}
+|style="text-align:right"|{{formatnum:1.3}}
+|
+|style="text-align:right"|{{formatnum:13.8}}
+|style="text-align:right"|{{formatnum:2.8}}
+|
+|style="text-align:right"|{{formatnum:1.6}}
+|
+|-
+|{{nowrap|28-31 Jul 2021}}
+|Demoscopia<ref name="obs">{{cite news|last1=Solano|first1=Hermes|title=Figueres, Lineth, Villalta y Fabricio lideran intención de voto a tres meses de elecciones|url=https://observador.cr/encuesta-figueres-lineth-villalta-y-fabricio-lideran-intencion-de-voto-a-tres-meses-de-elecciones/|accessdate=17 November 2021|work=Observador|date=3 November 2021|language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:8.8}}
+|
+|style="text-align:right"|{{formatnum:3.8}}
+|
+|style="text-align:right"|{{formatnum:11.6}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:22.2}}'''
+|
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:11.6}}
+|
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:14.0}}
+|
+|
+|
+|
+|-
+|{{nowrap|10-15 Jul 2021}}
+|Enfoques<ref>{{cite news|title=ENCUESTA: Fabricio Alvarado y Rolando Araya encabezan intención de voto 2022|url=https://www.elmundo.cr/elecciones-2022/encuesta-fabricio-alvarado-y-rolando-araya-encabezan-intencion-de-voto-2022/|accessdate=21 July 2021|work=Mundo|language=es}}</ref><ref name=enf>{{cite news|title=Anticuerpos contra Figueres siguen en aumento y preferencia PLN disminuye según estudio|url=https://www.culturacr.net/anticuerpos-contra-figueres-siguen-en-aumento-y-preferencia-pln-disminuye-segun-estudio/|accessdate=21 July 2021|work=CulturaCR|language=es}}</ref>
+|
+|
+|
+|style="text-align:right"|{{formatnum:10.0}}
+|
+|style="text-align:right"|{{formatnum:8.0}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:11.0}}
+|style="text-align:right"|{{formatnum:1.0}}
+|
+|
+|style="text-align:right"|{{formatnum:5.0}}
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:14.0}}'''
+|style="text-align:right"|{{formatnum:2.0}}
+|
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:13.0}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:1.0}}
+|-
+|{{nowrap|1-4 Jul 2021}}
+|OPol<ref>{{cite news|title=Fabricio Alvarado, José María Figueres y Lineth Saborío lideran intención de voto|url=https://www.larepublica.net/news/fabricio-alvarado-jose-maria-figueres-y-lineth-saborio-lideran-intencion-de-voto|accessdate=21 July 2021|work=La República|language=es}}</ref><ref>{{cite news|title=ENCUESTA: Alvarado, Figueres, Saborío y Araya encabezan intención de voto hacia el 2022|url=https://www.elmundo.cr/elecciones-2022/encuesta-alvarado-figueres-saborio-y-araya-encabezan-intencion-de-voto-hacia-el-2022/|accessdate=21 July 2021|work=Mundo|language=es}}</ref>
+|
+|
+|
+|style="text-align:right"|{{formatnum:10.1}}
+|
+|style="text-align:right"|{{formatnum:12.2}}
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:15.3}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:1.0}}
+|style="text-align:right"|{{formatnum:0.1}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:16.1}}'''
+|style="text-align:right"|{{formatnum:1.2}}
+|
+|
+|style="text-align:right"|{{formatnum:0.1}}
+|
+|style="text-align:right"|{{formatnum:0.1}}
+|
+|
+|
+|
+|-
+|{{nowrap|Jun 2021}}
+|Enfoques<ref name=enf />
+|
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:7.0}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:16.0}}'''
+|style="text-align:right"|{{formatnum:1.0}}
+|
+|
+|style="text-align:right"|{{formatnum:4.0}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:14.0}}
+|style="text-align:right"|{{formatnum:2.0}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:5.0}}
+|
+|
+|style="text-align:right"|{{formatnum:2.0}}
+|style="text-align:right"|{{formatnum:3.0}}
+|-
+|{{nowrap|May 2021}}
+|Enfoques<ref name=enf />
+|
+|
+|
+|style="text-align:right"|{{formatnum:8.0}}
+|
+|style="text-align:right"|{{formatnum:9.0}}
+|
+|
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:14.0}}'''
+|style="text-align:right"|{{formatnum:0.0}}
+|
+|
+|style="text-align:right"|{{formatnum:5.0}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:13.0}}
+|style="text-align:right"|{{formatnum:1.0}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:5.0}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:2.0}}
+|-
+|{{nowrap|Apr 2021}}
+|Enfoques<ref name=enf />
+|
+|
+|
+|style="text-align:right"|{{formatnum:13.0}}
+|
+|style="text-align:right"|{{formatnum:10.0}}
+|
+|
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:15.0}}
+|style="text-align:right"|{{formatnum:1.0}}
+|
+|
+|style="text-align:right"|{{formatnum:6.0}}
+|
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:17.0}}'''
+|style="text-align:right"|{{formatnum:1.0}}
+|
+|
+|
+|
+|style="text-align:right"|{{formatnum:7.0}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:3.0}}
+|-
+|{{nowrap|10-13 Mar 2021}}
+|OPol<ref>{{cite news|last1=Quirós Navarro|first1=Bharley|title=Ticos con opinión positiva de mayoría de candidatos|url=https://www.diarioextra.com/news/detalle/444639/ticos-con-opini-n-positiva-de-mayor-a-de-candidatos|accessdate=22 March 2021|work=Diario Extra|date=15 March 2021|language=es}}</ref>
+|
+|style="text-align:right"|{{formatnum:1.5}}
+|
+|style="background-color:#c0c0c0;text-align:right"|{{formatnum:16.5}}
+|
+|style="text-align:right"|{{formatnum:9.7}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:12.7}}
+|style="text-align:right"|{{formatnum:1.7}}
+|
+|
+|
+|style="text-align:right"|{{formatnum:1.8}}
+|style="background-color:#ffd800;text-align:right"|'''{{formatnum:23.0}}'''
+|
+|
+|
+|style="text-align:right"|{{formatnum:2.1}}
+|
+|style="text-align:right"|{{formatnum:5.1}}
+|style="text-align:right"|{{formatnum:2.4}}
+|
+|
+|
+|}
+</div>

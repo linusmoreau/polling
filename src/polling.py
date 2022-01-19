@@ -483,6 +483,8 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
                 temp = temp[:temp.find('<!--')]
         elif choice == 'Japan':
             temp = temp.split(' ')[-1]
+        elif choice == 'Costa Rica':
+            temp = temp.split(":")[-1]
         temp = temp.split('|')[-1].strip()
         temp = temp.replace(',', '.')
         if temp in ['â€“', '-', '', '–', '—'] or "small" in temp:
@@ -492,7 +494,7 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
                 share = None
         else:
             try:
-                share = float(temp.strip().strip("'%!\""))
+                share = float(temp.strip().strip("'%!\"}"))
                 if choice == 'Netherlands':
                     share *= 2 / 3
                 elif choice == 'Israel':
