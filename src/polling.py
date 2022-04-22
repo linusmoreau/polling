@@ -73,7 +73,6 @@ def transcribe_table(content, key, choice, begin, start):
     ncontent.append(content[-1])
     content = ncontent
 
-    found = set()
     while i < len(content):
         line = content[i].strip('| \n')
         reset = False
@@ -115,6 +114,12 @@ def transcribe_table(content, key, choice, begin, start):
                 nkey = ['firm', 'date', 'sample',
                         'Bolsanaro (APB)', 'Lula (PT)', 'Haddad (PT)', 'Gomes (PDT)', 'Doria (PSDB)', 'Amoedo (NOVO)',
                         'Moro (PODE)', 'Huck',
+                        'Other', 'Undecided', 'lead', 'end']
+                reset = True
+            elif '====2021====' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'Bolsanaro (APB)', 'Lula (PT)', 'Moro (PODE)', 'Gomes (PDT)', 'Doria (PSDB)',
+                        'Leite (PSDB)', 'Mandetta (DEM)', 'Pancheco (DEM)',
                         'Other', 'Undecided', 'lead', 'end']
                 reset = True
         elif choice == 'Italy':
@@ -236,7 +241,7 @@ def transcribe_table(content, key, choice, begin, start):
         elif choice == 'Denmark':
             if '=== 2020 ===' in line:
                 nkey = ['firm', 'date', 'sample',
-                        'A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G', 'Q',
+                        'A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G',
                         'Other', 'lead', 'red', 'blue', 'lead']
                 reset = True
             elif '=== 2019 ===' in line:
@@ -245,34 +250,48 @@ def transcribe_table(content, key, choice, begin, start):
                         'Other', 'lead', 'red', 'blue', 'lead']
                 reset = True
         elif choice == 'France':
-            if '=== 2021 ===' in line:
+            if '=== March ===' in line:
                 nkey = ['firm', 'date', 'sample',
-                        'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Taubira', 'Hidalgo', 'Montebourg',
-                        'Jadot', 'Thouy', 'Macron', 'Lassalle', 'Pécresse', 'Dupont-Aignan', 'Le Pen', 'Philippot',
-                        'Zemmour', 'Asselineau',
+                        'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Taubira', 'Hidalgo', 'Jadot', 'Thouy',
+                        'Macron', 'Lassalle', 'Pécresse', 'Dupont-Aignan', 'Le Pen', 'Zemmour', 'Asselineau',
                         'end']
                 reset = True
-            if '==== September–November ====' in line:
+            elif '=== February ===' in line:
                 nkey = ['firm', 'date', 'sample',
-                        'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Hidalgo', 'Montebourg', 'Jadot', 'Macron',
+                        'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Taubira', 'Hidalgo', 'Jadot', 'Thouy',
+                        'Macron', 'Pécresse', 'Lassalle', 'Dupont-Aignan', 'Le Pen', 'Philippot', 'Zemmour',
+                        'Asselineau',
+                        'end']
+                reset = True
+            elif '==== January ====' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Taubira', 'Montebourg', 'Hidalgo', 'Thouy',
+                        'Jadot', 'Macron', 'Pécresse', 'Dupont-Aignan', 'Lassalle', 'Le Pen', 'Philippot', 'Zemmour',
+                        'Asselineau',
+                        'end']
+                reset = True
+            elif '==== September–November ====' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Montebourg', 'Hidalgo', 'Jadot', 'Macron',
                         'Lagarde',
-                        'Lassalle', 'Barnier', 'Bertrand', 'Ciotti', 'Juvin', 'Payre', 'Pécresse', 'Poisson',
-                        'Dupont-Aignan',
+                        'Barnier', 'Bertrand', 'Ciotti', 'Juvin', 'Payre', 'Pécresse', 'Poisson',
+                        'Dupont-Aignan', 'Lassalle',
                         'Le Pen', 'Philippot', 'Zemmour', 'Asselineau',
                         'end']
                 reset = True
             elif '==== January–September ====' in line:
                 nkey = ['firm', 'date', 'sample',
-                        'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Hidalgo', 'Hollande', 'Montebourg', 'Piolle',
-                        'Jadot', 'Macron', 'Lagarde', 'Lassalle', 'Bertrand', 'Pécresse', 'Barnier', 'Baroin',
-                        'Retailleau', 'Wauquiez', 'Poisson', 'Dupont-Aignan', 'Le Pen', 'Zemmour', 'Asselineau',
+                        'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Montebourg', 'Hidalgo', 'Hollande', 'Piolle',
+                        'Jadot', 'Macron', 'Lagarde', 'Bertrand', 'Pécresse', 'Barnier', 'Baroin',
+                        'Retailleau', 'Wauquiez', 'Poisson', 'Dupont-Aignan', 'Lassalle', 'Le Pen', 'Zemmour',
+                        'Asselineau',
                         'end']
                 reset = True
             elif '=== 2017–2020 ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Hamon', 'Cazeneuve', 'Faure', 'Hidalgo',
-                        'Hollande', 'Royal', 'Jadot', 'Macron', 'Lagarde', 'Lassalle', 'Bertrand', 'Pécresse',
-                        'Baroin', 'Dati', 'Fillon', 'Retailleau', 'Wauquiez', 'Dupont-Aignan', 'Le Pen',
+                        'Hollande', 'Royal', 'Jadot', 'Macron', 'Lagarde', 'Bertrand', 'Pécresse',
+                        'Baroin', 'Dati', 'Fillon', 'Retailleau', 'Wauquiez', 'Dupont-Aignan', 'Lassalle', 'Le Pen',
                         'Asselineau', 'Cheminade',
                         'end']
                 reset = True
@@ -286,13 +305,23 @@ def transcribe_table(content, key, choice, begin, start):
                         'PRC', 'TE', 'lead', 'end']
                 reset = True
         elif choice == 'Slovenia':
-            if '===Parties which ran in 2018===' in line:
+            if 'Parties which ran in 2018' in line:
                 nkey = ['date', 'firm', 'publisher', 'sample',
-                        'SDS', 'LMS', 'SD', 'SMC', 'Left', 'NSi', 'SAB', 'DeSUS', 'SNS', 'SLS', 'PPS', 'DD', 'ACZS',
+                        'SDS', 'LMS', 'SD', 'K', 'Left', 'NSi', 'SAB', 'DeSUS', 'SNS', 'SLS', 'PPS', 'DD', 'ACZS',
                         'Other', 'None', 'Undecided', 'Abstain', 'lead', 'source', 'end']
                 reset = True
             elif '===Scenario Polls===' in line:
                 break
+        elif choice == 'Romania':
+            if '=== 2021 ===' in line:
+                nkey = ['date', 'source', 'sample',
+                        'PSD', 'PNL', 'FD', 'USR', 'AUR', 'UDMR', 'PMP', 'PRO', 'ALDE', 'PPU-SL', 'PER', 'APP',
+                        'Other', 'lead', 'end']
+                reset = True
+        elif choice == 'Costa Rica':
+            if 'Second round' in line:
+                nkey = ['date', 'firm', 'Chaves', 'Figueres', 'Other', 'end']
+                reset = True
         if reset:
             tables.append({'table': table[:], 'key': key, 'years': years})
             table = []
@@ -371,7 +400,7 @@ def transcribe_table(content, key, choice, begin, start):
                         table[row][col + a] = False
             elif 'rowspan' in line:
                 temp: str = line[line.find('rowspan') + len('rowspan'):]
-                num = int(temp.strip('|= ').split()[0].split('|')[0].strip('" '))
+                num = int(temp.strip('|= ').split()[0].split('|')[0].strip('"{}N/A ').split('"')[0])
                 if len(table) <= row + num:
                     placeholder = [True for _ in range(len(key))]
                     table.extend([placeholder.copy() for _ in range(row + num - len(table) + 1)])
@@ -591,7 +620,7 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
     elif choice == 'Slovenia':
         i = key.index('Other')
         for k, entry in enumerate(table):
-            for fig in entry[i:i + 4]:
+            for fig in entry[i:i + 3]:
                 if fig is not None:
                     break
             else:
@@ -1068,21 +1097,22 @@ class GraphPage:
         for b, ps in relev.items():
             dat[b] = {}
             for p in ps:
-                for x, ys in idat[p].items():
-                    if x in dat[b].keys():
-                        for i, y in enumerate(ys):
-                            if y is None:
-                                continue
-                            else:
-                                try:
-                                    if dat[b][x][i] is None:
-                                        dat[b][x][i] = y
-                                    else:
-                                        dat[b][x][i] += y
-                                except IndexError:
-                                    dat[b][x].append(y)
-                    else:
-                        dat[b][x] = ys.copy()
+                if p in idat:
+                    for x, ys in idat[p].items():
+                        if x in dat[b].keys():
+                            for i, y in enumerate(ys):
+                                if y is None:
+                                    continue
+                                else:
+                                    try:
+                                        if dat[b][x][i] is None:
+                                            dat[b][x][i] = y
+                                        else:
+                                            dat[b][x][i] += y
+                                    except IndexError:
+                                        dat[b][x].append(y)
+                        else:
+                            dat[b][x] = ys.copy()
         return dat
 
     def init_graph_data(self, dat, resratio=7):

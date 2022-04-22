@@ -1,50 +1,1050 @@
 == Poll results ==
-{{For|the events during these years|2018 in Slovenia|2019 in Slovenia|2020 in Slovenia|2021 in Slovenia}}
+{{For|the events during these years|2018 in Slovenia|2019 in Slovenia|2020 in Slovenia|2021 in Slovenia|2022 in Slovenia}}
 
 Poll results are listed in the table in reverse chronological order, showing the most recent first. The highest figure in each survey is displayed in bold, and the background shaded in the leading party's colour. In the case of a tie, no figure is shaded. When available, seat projections for 88 out of 90 seats (without seats reserved for minorities) are displayed below the percentages in a smaller font. 46 seats are required for an [[absolute majority]] in the [[National Assembly (Slovenia)|National Assembly]]. The dates of when the poll was conducted are given when available, otherwise, the date of publication is listed.
 
-===New Parties===
-{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:16px"
+;New parties and coalitions
+{| class="wikitable sortable" style="text-align:center;font-size:80%;line-height:16px"
 |- 
 ! rowspan="2" style="width:120px;"|Fieldwork date
 ! rowspan="2"|Polling firm
 ! rowspan="2"|Publisher(s)
 ! rowspan="2" style="width:50px;" class="unsortable"|Sample size
-! style="width:35px;" class="unsortable"| [[Slovenian Democratic Party|SDS]]
-! style="width:35px;" class="unsortable"| [[List of Marjan Šarec|LMŠ]]
-! style="width:35px;" class="unsortable"| [[Social Democrats (Slovenia)|SD]]
-! style="width:35px;" class="unsortable"| [[Modern Centre Party|SMC]] / [[Concretely|K]]
-! style="width:35px;" class="unsortable"| [[The Left (Slovenia)|The Left]]
-! style="width:35px;" class="unsortable"| [[New Slovenia|NSi]]
-! style="width:35px;" class="unsortable"| [[Party of Alenka Bratušek|SAB]]
-! style="width:35px;" class="unsortable"| [[Democratic Party of Pensioners of Slovenia|DeSUS]]
-! style="width:35px;" class="unsortable"| [[Slovenian National Party|SNS]]
+! style="width:35px;" class="unsortable"| [[File:SDS logotype.svg|30px|link=Slovenian Democratic Party|SDS]]
+! style="width:35px;" class="unsortable"| [[File:LMŠ logo.png|30px|link=List of Marjan Šarec|LMŠ]]
+! style="width:35px;" class="unsortable"| [[File:Socialni demokrati Logo.svg|30px|link=Social Democrats (Slovenia)|SD]]
+! style="width:35px;" class="unsortable"| [[File:StrankaMiraCerarjalogo.png|30px|link=Modern Centre Party|SMC]]/<br/>[[File:Konkretno logo1.png|30px|link=Concretely|K]]
 ! style="width:35px;" class="unsortable"| [[Let's Connect Slovenia|PoS]]
-! style="width:35px;" class="unsortable"| [[Pirate Party (Slovenia)|PPS]]
-! style="width:35px;" class="unsortable"| [[Good State (Slovenia)|DD]]
+! style="width:35px;" class="unsortable"| [[File:Logo of The Left (Slovenia).svg|30px|link=The Left (Slovenia)|Levica]]
+! style="width:35px;" class="unsortable"| [[File:Nova Slovenija Logo.svg|30px|link=New Slovenia|NSi]]
+! style="width:35px;" class="unsortable"| [[File:SAB-logo.png|30px|link=Party of Alenka Bratušek|SAB]]
+! style="width:35px;" class="unsortable"| [[Democratic Party of Pensioners of Slovenia|DeSUS]]
+! style="width:35px;" class="unsortable"| [[File:Logo of the Slovenian National Party.svg|30px|link=Slovenian National Party|SNS]]
+! style="width:35px;" class="unsortable"| [[File:Piratska stranka slovenije 1.png|30px|link=Pirate Party (Slovenia)|PPS]]
+! style="width:35px;" class="unsortable"| [[Our Future (party)|NP]]–[[Good State (Slovenia)|DD]]
 ! style="width:35px;" class="unsortable"| [[Our Country (Slovenia)|ND]]
-! style="width:35px;" class="unsortable"| [[Green Actions|Z.DEJ]]
+! style="width:35px;" class="unsortable"| [[Freedom Movement (Slovenia)|Z.DEJ]]
+! style="width:35px;" class="unsortable"| [[File:Gibanje Svoboda logo.svg|30px|link=Freedom Movement (Slovenia)|GS]]
+! style="width:35px;" class="unsortable"| [[Spring – Green Party|Vesna]]
+! style="width:35px;" class="unsortable"| [[Resni.ca|Res.]]
+! style="width:35px;" class="unsortable"| [[File:Logo of the Liberal Democrats (Slovenia).svg|30px|link=Liberal Democrats (Slovenia)|LIDE]]
 ! rowspan="2" style="width:35px;" class="unsortable"| Others
 ! rowspan="2" style="width:35px;" class="unsortable"| None
 ! rowspan="2" style="width:35px;" class="unsortable"| Und.
 ! rowspan="2" style="width:35px;" class="unsortable"| Abst.
 ! rowspan="2" style="width:35px;" class="unsortable"| Lead
-! class="unsortable" rowspan="2"| Source
+! rowspan="2" class="unsortable" | Source
 |-
 ! class="unsortable" style="background:{{party color|Slovenian Democratic Party}}; width:30px;" |
 ! class="unsortable" style="background:{{party color|List of Marjan Šarec}}; width:30px"|
 ! class="unsortable" style="background:{{party color|Social Democrats (Slovenia)}}; width:30px;"|
 ! class="unsortable" style="background:{{party color|Modern Centre Party}}; width:30px;"|
+! class="unsortable" style="background: #fed36c; width:30px;"|
 ! class="unsortable" style="background:{{party color|United Left (Slovenia)}}; width:30px;"|
 ! class="unsortable" style="background:{{party color|New Slovenia}}; width:30px;"|
 ! class="unsortable" style="background:{{party color|Alliance of Alenka Bratušek}}; width:30px"|
 ! class="unsortable" style="background:{{party color|Democratic Party of Pensioners of Slovenia}}; width:30px;"|
 ! class="unsortable" style="background:{{party color|Slovenian National Party}}; width:30px"|
-! class="unsortable" style="background: #fed36c; width:30px;"|
 ! class="unsortable" style="background: #D2691E; width:30px"|
 ! class="unsortable" style="background: {{party color|Good State (Slovenia)}}; width:30px"|
 ! class="unsortable" style="background: {{party color|Our Country (Slovenia)}}; width:30px"|
 ! class="unsortable" style="background: {{party color|Green Actions}}; width:30px"|
+! class="unsortable" style="background: {{party color|Freedom Movement (Slovenia)}}; width:30px"|
+! class="unsortable" style="background: #00A65E; width:30px"|
+! class="unsortable" style="background: {{party color|Resni.ca}}; width:30px"|
+! class="unsortable" style="background: #383F78; width:30px"|
+|-
+|14–15 & 19 Apr 2022
+|Parsifal
+|[[Nova24TV]]
+|714
+|style="background:#FFFFBF" |'''21.7'''
+|3.7
+|5.5
+| colspan="2" |3.7
+|2.7
+|4.9
+|1.8
+|0.9
+|1.0
+|1.1
+|0.5
+|2.0
+| colspan="2" |21.1
+|1.3
+|1.4
+| -
+|0.9{{efn|Healthy Society Movement 0.3%, For the People of Slovenia 0.1%, [[Alliance Let us Liberate Slovenia]] 0.1%, List of [[Boris Popovič]] 0.1%}}
+|2.1
+|19.4
+|4.3
+|style="background:{{party color|Slovenian Democratic Party}}" |0.6
+|<ref>{{Cite web |date=2022-04-20 |title=Janša znova na vrhu, Levica še zunaj DZ|url=https://siol.net/novice/volitve-2022/jansa-znova-na-vrhu-levica-se-zunaj-dz-577678 |access-date=2022-04-20 |language=sl-SI}}</ref>
+|-
+|13–15 Apr 2022
+|Parsifal
+|[[Nova24TV]]
+|658
+|19.4
+|3.4
+|6.5
+| colspan="2" |3.0
+|3.4
+|5.4
+|1.0
+|1.2
+|1.1
+|1.7
+|0.9
+|2.3
+|colspan=2 style="background:#b6cee2" color:white;"|'''20.0'''
+|1.1
+|2.0
+| –
+|0.5{{efn|[[Homeland League]] 0.1%}}
+|2.7
+|19.2
+|5.3
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|0.6
+|<ref>{{Cite web |date=2022-04-17 |title=(JAVNOMNENJSKA ANKETA) Zadnji teden pred volitvami Janša in Golob v tesnemu boju za zmago. Odločal bo vsak glas! |url=https://demokracija.si/fokus/javnomnenjska-anketa-zadnji-teden-pred-volitvami-jansa-in-golob-v-tesnemu-boju-za-zmago-odlocal-bo-vsak-glas/ |access-date=2022-04-20 |language=sl-SI}}</ref>
+|-
+| data-sort-value="2022-04-15"|13–15 Apr 2022
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|600
+|23.1
+|3.6
+|7.9
+|colspan=2|3.2
+|8.0
+|6.7
+|3.3
+|0.2
+|0.6
+|0.4
+|0.2
+|1.5
+|colspan=2 style="background:#b6cee2" color:white;"|'''24.5'''
+|1.4
+|1.9
+|–
+|1.8{{efn|Healthy Society Movement 0.8%, For the People of Slovenia 0.3%, [[Alliance Let us Liberate Slovenia]] 0.1%, [[Homeland League]] 0.4%, List of [[Boris Popovič]] 0.2%}}
+|1.5
+|10.1
+|–
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|1.4
+|<ref name="Tracking"/>
+|-
+|data-sort-value="2022-04-14"|{{nowrap|14 Apr 2022}}{{efn|name=date|Publication date}}
+|Odmev
+|{{n/a}}
+|700
+|style="background:#FFFFBF" |'''15.86'''
+|3.00
+|8.86
+|colspan=2|2.99
+|5.14
+|7.14
+|2.14
+|0.86
+|2.99
+|1.57
+|–
+|1.29
+|colspan=2|14.57
+|–
+|2.00
+|–
+|2.43
+|–
+|–
+|29.05
+|style="background:{{party color|Slovenian Democratic Party}}" |1.29
+|<ref>{{Cite web|date=2022-04-14|title=Volilna napoved VK 3. teden|url=https://volilna-napoved.si/vkljucene-raziskave|access-date=2022-04-20|language=sl-SI}}</ref>
+|-
+| data-sort-value="2022-04-14"|12–14 Apr 2022
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|450
+|22.2
+|3.6
+|8.2
+|colspan=2|3.2
+|8.2
+|6.6
+|2.9
+|0.4
+|1.5
+|1.2
+|0.6
+|1.5
+|colspan=2 style="background:#b6cee2" color:white;"|'''24.2'''
+|1.3
+|2.7
+|–
+|2.6{{efn|Healthy Society Movement 0.9%, For the People of Slovenia 0.7%, [[Alliance Let us Liberate Slovenia]] 0.1%, [[Homeland League]] 0.6%, List of [[Boris Popovič]] 0.3%}}
+|1.0
+|8.1
+|–
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|2.0
+|<ref name="Tracking"/>
+|-
+|12-14 Apr 2022
+|Parsifal
+|[[Nova24TV]]
+|793
+|style="background:#FFFFBF" |'''18.0'''
+|3.7
+|6.9
+| colspan="2" |3.1
+|5.3
+|5.3
+|1.3
+|1.7
+|1.6
+|1.8
+|1.1
+|2.3
+| colspan="2" |17.1
+|1.2
+|2.9
+| -
+|0.3
+|2.2
+|18.3
+|5.8
+|style="background:{{party color|Slovenian Democratic Party}}" |0.9
+|<ref>{{Cite web |date=2022-04-16 |title=[Javnomnenjska anketa] Stranke KUL padajo, Bratuškovi ni več pomoči {{!}} Nova24TV |url=https://nova24tv.si/slovenija/politika/javnomnenjska-anketa-stranke-kul-v-padcu-bratuskovi-ni-vec-pomoci/ |access-date=2022-04-17 |language=sl-SI}}</ref>
+|-
+| data-sort-value="2022-04-13"|11–13 Apr 2022
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|450
+|22.3
+|3.9
+|8.7
+|colspan=2|3.7
+|8.8
+|6.6
+|2.8
+|0.4
+|1.4
+|1.4
+|0.7
+|1.3
+|colspan=2 style="background:#b6cee2" color:white;"|'''24.4'''
+|1.1
+|1.8
+|–
+|1.4{{efn|Healthy Society Movement 0.9%, For the People of Slovenia 0.5%, [[Alliance Let us Liberate Slovenia]] 0.2%, [[Homeland League]] 0.5%, List of [[Boris Popovič]] 0.2%}}
+|0.8
+|7.6
+|–
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|2.1
+|<ref name="Tracking">{{Cite web|date=2022-04-19|title=Državnozborske volitve 2022 – tracking poll|url=http://ninamedia.si/arhivi/912|access-date=2022-04-20|language=sl-SI}}</ref>
+|-
+|11-13 Apr 2022
+|Parsifal
+|[[Nova24TV]]
+|936
+|style="background:#FFFFBF" |'''19.1'''
+|2.4
+|8.0
+| colspan="2" |4.2
+|5.8
+|5.7
+|1.9
+|1.5
+|1.8
+|1.3
+|0.7
+|2.3
+| colspan="2" |15.7
+|1.0
+|3.3
+| -
+|0.7
+|1.5
+|17.0
+|6.0
+|style="background:{{party color|Slovenian Democratic Party}}" |3.4
+|<ref>{{Cite web |date=2022-04-14 |title=[Javnomnenjska anketa] Nova Slovenija v naglem vzponu {{!}} Nova24TV |url=https://nova24tv.si/slovenija/politika/javnomnenjska-anketa-nova-slovenija-v-naglem-vzponu/ |access-date=2022-04-17 |language=sl-SI}}</ref>
+|-
+| data-sort-value="2022-04-07"|4–7 Apr 2022
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|1,050
+|18.1
+|4.8
+|8.3
+|colspan=2|2.8
+|10.1
+|3.9
+|3.2
+|0.3
+|1.2
+|1.0
+|0.8
+|1.5
+|colspan=2 style="background:#b6cee2" color:white;"|'''23.0'''
+|1.1
+|2.2
+|–
+|2.1{{efn|Healthy Society Movement 1.1%, For the People of Slovenia 0.5%, [[Alliance Let us Liberate Slovenia]] 0.2%, [[Homeland League]] 0.2%, List of [[Boris Popovič]] 0,1%}}
+|0.5
+|15.0
+|–
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|4.9
+|<ref>{{Cite web|date=2022-04-09|title=Gibanje Svoboda vodi, a na volitvah mogoča presenečenja|url=https://www.primorske.si/slovenija/gibanje-svoboda-vodi-a-na-volitvah-mogoca-presenec|access-date=2022-04-09|language=sl-SI}}</ref>
+|-
+| data-sort-value="2022-04-07"|4–7 Apr 2022
+|Mediana
+|[[Delo (newspaper)|''Delo'']], [[Pop (Slovenian TV channel)|POPTV]]
+|1,027
+|18.6
+|4.6
+|7.9
+|colspan=2|2.8
+|5.8
+|5.5
+|2.9
+|0.9
+|2.3
+|2.4
+|1.2
+|2.4
+|colspan=2 style="background:#b6cee2" color:white;"|'''19.8'''
+|0.9
+|1.7
+|–
+|1.1{{efn|[[Alliance Let us Liberate Slovenia]] 0.2%, [[Homeland League]] 0.1%}}
+|4.8
+|11.7
+|2.9
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|1.3
+|<ref>{{Cite web|date=2022-04-11|title=Anketa: Gibanje Svoboda pred SDS. Kam seže SD in kdo parlamentarnega praga ne bi prestopil, če bi bile zdaj volitve?|url=https://www.vecer.com/slovenija/anketa-gibanje-svoboda-pred-sds-kam-seze-sd-in-kdo-parlamentarnega-praga-ne-bi-prestopil-ce-bi-bile-zdaj-volitve-10278483|access-date=2022-04-11|language=sl-SI}}</ref><ref>{{Cite web|date=2022-04-10|title=Golobovo Gibanje Svoboda in SDS blizu skupaj in daleč pred drugimi|url=https://www.delo.si/novice/slovenija/golobovo-gibanje-svoboda-in-sds-dalec-od-drugih/|access-date=2022-04-12|language=sl-SI}}</ref>
+|-
+| data-sort-value="2022-04-06"|4–6 Apr 2022
+|Parsifal
+|[[Nova24TV]]
+|532
+|style="background:#FFFFBF" |'''20.1'''
+|2.9
+|8.0
+|colspan=2|3.3
+|3.4
+|4.7
+|2.4
+|0.7
+|1.8
+|1.0
+|1.3
+|2.0
+|colspan=2|18.6
+|0.7
+|2.2
+|–
+|0.5
+|2.1
+|17.9
+|6.2
+|style="background:{{party color|Slovenian Democratic Party}}" |1.5
+|<ref>{{Cite web|date=2022-04-07|title=Dnevna meritev moči strank: bo Šarcu uspelo, Bratuškovi pa ne?|url=https://siol.net/novice/volitve-2022/dnevna-meritev-moci-strank-bo-sarcu-uspelo-bratuskovi-pa-ne-576784|access-date=2022-04-07|language=sl-SI}}</ref>
+|-
+| data-sort-value="2022-04-01"|30 Mar–1 Apr 2022
+|Parsifal
+|[[Nova24TV]]
+|556
+|style="background:#FFFFBF" |'''34.4'''
+|2.2
+|8.8
+|colspan=2|6.0
+|6.0
+|4.9
+|3.8
+|2.8
+|1.4
+|2.0
+|0.4
+|3.1
+|colspan=2|21.3
+|0.7
+|1.5
+|–
+|{{N/A}}
+|–
+|–
+|–
+|style="background:{{party color|Slovenian Democratic Party}}" |13.1
+|<ref>{{Cite web|date=2022-04-03|title=[Javnomnenjska anketa] Z LMŠ in SAB zunaj parlamenta je konec z levo koalicijo|url=https://nova24tv.si/slovenija/politika/javnomnenjska-anketa-z-lms-in-sab-zunaj-parlamenta-je-konec-z-levo-koalicijo/|access-date=2022-04-04|language=sl-SI}}</ref>
+|-
+|data-sort-value="2022-03-31"|{{nowrap|30–31 Mar 2022}}
+|Mediana
+|[[Radiotelevizija Slovenija|RTVSLO]]
+|1,025
+|18.7
+|3.3
+|8.2
+|colspan=2|3.7
+|6.4
+|5.0
+|2.8
+|1.1
+|3.3
+|1.3
+|1.1
+|1.9
+|colspan=2 style="background:#b6cee2" color:white;"|'''19.7'''
+|1.0
+|1.7
+|–
+|0.5{{efn|[[Alliance Let us Liberate Slovenia]] 0.4%, [[Homeland League]] 0.1%}}
+|6.9
+|10.6
+|–
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|1.0
+|<ref>{{Cite web|date=2022-04-03|title=Gibanje Svoboda z vrha znova izrinilo SDS, več strank na robu parlamentarnega praga|url=https://www.rtvslo.si/slovenija/parlamentarne-volitve-2022/gibanje-svoboda-z-vrha-znova-izrinilo-sds-vec-strank-na-robu-parlamentarnega-praga/618117|access-date=2022-04-04|language=sl-SI}}</ref>
+|-
+|data-sort-value="2022-03-31"|{{nowrap|28–31 Mar 2022}}
+|Odmev
+|{{n/a}}
+|661
+|style="background:#FFFFBF" |'''17.10'''<br />{{font|size=75%|font=Verdana|text=25}}
+|3.48<br />{{font|size=75%|font=Verdana|text=5}}
+|10.29<br />{{font|size=75%|font=Verdana|text=15}}
+|colspan=2|3.78<br />{{font|size=75%|font=Verdana|text=5}}
+|6.05<br />{{font|size=75%|font=Verdana|text=9}}
+|6.66<br />{{font|size=75%|font=Verdana|text=9}}
+|2.42<br />{{font|size=75%|font=Verdana|text=0}}
+|1.21<br />{{font|size=75%|font=Verdana|text=0}}
+|1.06<br />{{font|size=75%|font=Verdana|text=0}}
+|0.61<br />{{font|size=75%|font=Verdana|text=0}}
+|–
+|1.36<br />{{font|size=75%|font=Verdana|text=0}}
+|colspan=2|13.77<br />{{font|size=75%|font=Verdana|text=20}}
+|0.45<br />{{font|size=75%|font=Verdana|text=0}}
+|2.27<br />{{font|size=75%|font=Verdana|text=0}}
+|0.30<br />{{font|size=75%|font=Verdana|text=0}}
+|2.27
+|–
+|–
+|26.93
+|style="background:{{party color|Slovenian Democratic Party}}" |2.24
+|<ref>{{Cite web|date=2022-04-07|title=Volilna vročica narašča, NSi prehitela Levico|url=https://www.zurnal24.si/uporabno/volilna-vrocica-narasca-nsi-prehitela-levico-384232|access-date=2022-04-09|language=sl-SI}}</ref><ref>{{Cite web|date=2022-03-31|title=Volilna napoved VK 1. teden|url=https://volilna-napoved.si/vkljucene-raziskave|access-date=2022-04-12|language=sl-SI}}</ref>
+|-
+|21–24 Mar 2022
+|Mediana
+|[[Pop (Slovenian TV channel)|POPTV]]
+|716
+|style="background:#FFFFBF" |'''16.8'''
+|3.8
+|9.4
+|colspan="2"|1.9
+|7.2
+|5.0
+|2.7
+|2.8
+|1.9
+|2.4
+|0.1
+|1.9
+|colspan=2|16.7
+|0.9
+|2.3
+|–
+|2.4{{efn|[[Alliance Let us Liberate Slovenia]] 0.6%, [[Homeland League]] 0.5%}}
+|4.7
+|13.1
+|4.2
+|style="background:{{party color|Slovenian Democratic Party}}" |0.1
+|<ref>{{Cite web|title=Slab mesec pred volitvami SDS in Gibanje Svoboda glavna favorita za zmago |url=https://www.24ur.com/novice/slovenija/slab-mesec-pred-volitvami-sds-in-gibanje-svoboda-glavna-favorita-za-zmago.html|website=www.24ur.com|language=sl}}</ref>
+|-
+| data-sort-value="2022-03-24"|21–24 Mar 2022
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|1,050
+|19.5<br />{{font|size=75%|font=Verdana|text=23}}
+|4.9<br />{{font|size=75%|font=Verdana|text=6}}
+|8.6<br />{{font|size=75%|font=Verdana|text=10}}
+|colspan=2|3.3<br />{{font|size=75%|font=Verdana|text=4}}
+|7.9<br />{{font|size=75%|font=Verdana|text=10}}
+|5.1<br />{{font|size=75%|font=Verdana|text=6}}
+|3.0<br />{{font|size=75%|font=Verdana|text=4}}
+|0.5<br />{{font|size=75%|font=Verdana|text=0}}
+|0.6<br />{{font|size=75%|font=Verdana|text=0}}
+|1.0<br />{{font|size=75%|font=Verdana|text=0}}
+|0.0<br />{{font|size=75%|font=Verdana|text=0}}
+|1.3<br />{{font|size=75%|font=Verdana|text=0}}
+|colspan=2 style="background:#b6cee2" color:white;"|'''20.7'''<br />{{font|size=75%|font=Verdana|text=25}}
+|0.8<br />{{font|size=75%|font=Verdana|text=0}}
+|1.9<br />{{font|size=75%|font=Verdana|text=0}}
+|–
+|1.3{{efn|[[Alliance Let us Liberate Slovenia]] 0.4%}}
+|0.7
+|18.9
+|–
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|1.2
+|<ref>{{Cite web|date=2022-03-30|title=Volitve 2022 – marec (02)|url=http://ninamedia.si/arhivi/899|access-date=2022-03-30|language=sl-SI}}</ref>
+|-
+| data-sort-value="2022-03-23"|21–23 Mar 2022
+|Parsifal
+|[[Nova24TV]]
+|532
+|style="background:#FFFFBF" |'''25.0'''
+|2.7
+|7.8
+|colspan=2|3.5
+|4.3
+|4.1
+|2.8
+|2.0
+|0.8
+|0.9
+|0.6{{efn|DD 0.2%, Our Future 0.4%}}
+|1.0
+|colspan=2|16.2
+|0.4
+|0.4
+|–
+|0.5
+|2.3
+|18.7
+|6.1
+|style="background:{{party color|Slovenian Democratic Party}}" |8.8
+|<ref>{{Cite web|date=2022-03-25|title=SDS z znatno prednostjo na prvem mestu, kar dve stranki KUL koalicije bi ostali pred vrati parlamenta, sodeč po dnevnih meritvah javnega mnenja|url=http://novice.najdi.si/predogled/novica/c942921c27e82752723fd18c2c09afe6/Demokracija/Slovenija/SDS-z-znatno-prednostjo-na-prvem-mestu-kar-dve-stranki-KUL-koalicije-bi-ostali-pred-vrati-parlamenta-sode%C4%8D-po-dnevnih-meritvah-javnega-mnenja|access-date=2022-03-25|language=sl-SI}}</ref>
+|-
+| data-sort-value="2022-03-17"|14–17 Mar 2022
+|Parsifal
+|[[Nova24TV]]
+|712
+|style="background:#FFFFBF" |'''22.0'''
+|3.0
+|7.2
+|colspan=2|5.1
+|2.7
+|3.0
+|1.7
+|0.5
+|0.8
+|1.1
+|0.1
+|1.6
+|colspan=2|18.3
+|0.3
+|2.1
+|–
+|1.4
+|4.9
+|18.4
+|5.8
+|style="background:{{party color|Slovenian Democratic Party}}" |2.7
+|<ref>{{Cite web|date=2022-03-18|title=[Javnomnenjska anketa] SDS zanesljivo na vrhu; stranke KUL klavrno padle po lestvici|url=https://nova24tv.si/slovenija/politika/javnomnenjska-anketa-sds-zanesljivo-na-vrhu-golob-se-v-glasove-zajeda-stranki-sd-ki-je-klavrno-padla-po-lestvici/|access-date=2022-03-20|language=sl-SI}}</ref><ref>{{Cite tweet |author=Europe Elects |author-link=Europe Elects |user=EuropeElects |number=1505642879452123142 |date=2022-03-20 |title=Slovenia, Parsifal poll: |language=en-US |access-date=2022-03-20}}</ref>
+|-
+| data-sort-value="2022-03-10"|7–10 Mar 2022
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|1,050
+|20.2
+|5.4
+|10.1
+|colspan=2|3.3
+|7.5
+|4.9
+|3.4
+|0.4
+|0.8
+|0.9
+|0.4
+|1.4
+|colspan=2 style="background:#b6cee2" color:white;"|'''21.0'''
+|1.3
+|1.4
+|–
+|0.3{{efn|[[Alliance Let us Liberate Slovenia]] 0.0%}}
+|0.5
+|16.8
+|–
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|0.8
+|<ref>{{Cite web|date=2022-03-16|title=Volitve 2022 – marec (01)|url=http://ninamedia.si/arhivi/890|access-date=2022-03-17|language=sl-SI}}</ref>
+|-
+| data-sort-value="2022-03-10"|7–10 Mar 2022
+|Mediana
+| [[Delo (newspaper)|''Delo'']]
+|700
+|17.2
+|3.8
+|8.8
+|colspan="2"|3.6
+|7.6
+|4.8
+|3.7
+|1.0
+|1.4
+|1.6
+|0.7
+|1.6
+|colspan=2 style="background:#b6cee2" color:white;"|'''18.8'''
+|0.5
+|2.7
+|–
+|2.1
+|2.5
+|12.5
+|{{N/A}}
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|1.6
+|<ref>{{Cite web|title=Anketa Dela: Gibanje Svoboda pred SDS-om, manj neopredeljenih|url=https://www.rtvslo.si/slovenija/preberite-tudi/anketa-dela-gibanje-svoboda-pred-sds-om-manj-neopredeljenih/615693|website=www.rtvslo.si|language=sl}}</ref>
+|-
+|5 Mar 2022{{efn|name=date|Publication date}}
+|Odmev
+|–
+|867
+|style="background:#FFFFBF" |'''17.3'''
+|3.8
+|10.7
+|colspan=2|2.8
+|6.1
+|6.0
+|2.0
+|0.6
+|0.9
+|0.8
+|–
+|1.4
+|colspan=2|13.6
+|0.1
+|1.6
+|0.2
+|1.8
+|colspan=3|30.2
+|style="background:{{party color|Slovenian Democratic Party}}" |3.7
+|<ref>{{Cite web|date=2022-03-05|title=Marec 2022 Volilna napoved|url=https://volilna-napoved.si/vkljucene-raziskave|access-date=2022-03-30|language=sl-SI}}</ref>
+|-
+|data-sort-value="2022-03-03"|{{nowrap|28 Feb–3 Mar 2022}}
+|Mediana
+|[[Radiotelevizija Slovenija|RTVSLO]]
+|1,031
+|style="background:#FFFFBF" |'''18.3'''
+|5.7
+|7.7
+|colspan=2|2.0
+|5.6
+|5.5
+|4.0
+|0.9
+|1.7
+|1.0
+|0.4
+|2.2
+|colspan=2|18.0
+|2.3
+|2.5
+|0.0
+|1.2
+|6.1
+|11.8
+|3.2
+|style="background:{{party color|Slovenian Democratic Party}}" |0.3
+|<ref>{{Cite web|date=2022-03-06|title=SDS za las pred Gibanjem Svoboda, najpopularnejši znova Pahor|url=https://www.rtvslo.si/slovenija/sds-za-las-pred-gibanjem-svoboda-najpopularnejsi-znova-pahor/614739|access-date=2022-03-06|language=sl-SI}}</ref>
+|-
+| data-sort-value="2022-02-25"|23–25 Feb 2022
+|Parsifal
+|[[Nova24TV]]
+|657
+|style="background:#FFFFBF" |'''21.0'''
+|4.9
+|6.3
+|colspan=2|4.0
+|5.2
+|3.5
+|2.0
+|0.8
+|0.8
+|1.7
+|0.9
+|2.1
+|colspan=2|12.0
+|0.9
+|1.7
+|–
+|0.5
+|6.7
+|17.9
+|7.2
+|style="background:{{party color|Slovenian Democratic Party}}" |9.0
+|<ref>{{Cite web|date=2022-02-28|title=[Javnomnenjska anketa] SDS solidno pred Gibanjem Svoboda; zakaj utegne podpora Golobu v prihodnje pasti?|url=https://demokracija.si/fokus/javnomnenjska-anketa-stranka-sds-prepricljivo-vodi-kdo-je-prikrajsal-stranke-kul/|access-date=2022-03-01|language=sl-SI}}</ref><ref>{{Cite tweet |author=Europe Elects |author-link=Europe Elects |user=EuropeElects |number=1498667857529475081 |date=2022-03-01 |title=Slovenia, Parsifal poll: |language=en-US |access-date=2022-03-01}}</ref>
+|-
+|21–24 Feb 2022
+|Mediana
+|[[Pop (Slovenian TV channel)|POPTV]]
+|715
+|16.4
+|4.3
+|8.6
+|colspan="2"|4.8
+|6.1
+|4.5
+|3.2
+|1.0
+|1.1
+|2.1
+|0.3
+|2.5
+|colspan=2 style="background:#b6cee2" color:white;"|'''17.4'''
+|0.6
+|2.1
+|0.4
+|0.6
+|7.6
+|9.1
+|7.3
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|1.0
+|<ref>{{Cite web|title=Anketa POP TV: Med strankami na vrhu Gibanje Svoboda, sledi SDS|url=https://www.rtvslo.si/slovenija/preberite-tudi/anketa-pop-tv-med-strankami-na-vrhu-gibanje-svoboda-sledi-sds/613942|website=www.rtvslo.si|language=sl}}</ref>
+|-
+| data-sort-value="2022-02-23"|21–23 Feb 2022
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|1,050
+|19.1
+|5.5
+|9.9
+|colspan=2|3.1
+|7.9
+|4.2
+|3.5
+|0.6
+|1.0
+|1.5
+|0.4
+|2.6
+|colspan=2 style="background:#b6cee2" color:white;"|'''21.2'''
+|0.9
+|2.4
+|1.1
+|0.2{{efn|[[Alliance Let us Liberate Slovenia]] 0.2%}}
+|colspan="3"|14.9
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|2.1
+|<ref>{{Cite web|date=2022-02-27|title=Anketa Volitve 2022 za več medijev: Zmagalo bi Gibanje Svoboda, SDS drugi|url=https://www.rtvslo.si/slovenija/preberite-tudi/anketa-volitve-2022-za-vec-medijev-zmagalo-bi-gibanje-svoboda-sds-drugi/613851|access-date=2022-02-27|language=sl-SI}}</ref>
+|-
+|19 Feb 2022{{efn|name=date|Publication date}}
+|Parsifal
+|[[Nova24TV]]
+|416
+|style="background:#FFFFBF" |'''29.2'''
+|3.4
+|9.5
+|colspan=2|3.6
+|7.5
+|3.8
+|0.7
+|–
+|1.6
+|2.0
+|0.9
+|2.8
+|colspan=2|16.7
+|1.0
+|2.1
+|–
+|0.4
+|colspan=3|15.0
+|style="background:{{party color|Slovenian Democratic Party}}" |12.5
+|<ref>{{Cite web|date=2022-02-19|title=Februar 2022 Parsifal Nova 24 TV|url=https://volilna-napoved.si/vkljucene-raziskave|access-date=2022-03-30|language=sl-SI}}</ref>
+|-
+| data-sort-value="2022-02-16"|14–16 Feb 2022
+|Parsifal
+|[[Nova24TV]]
+|712
+|style="background:#FFFFBF" |'''22.9'''
+|4.5
+|7.6
+|colspan=2|3.3
+|6.3
+|2.9
+|1.3
+|0.5
+|1.7
+|1.6
+|0.8
+|2.8
+|colspan=2|13.2
+|1.7
+|2.4
+|–
+|0.2
+|2.8
+|16.0
+|7.4
+|style="background:{{party color|Slovenian Democratic Party}}" |9.7
+|<ref>{{Cite web|date=2022-02-19|title=[Javnomnenjska anketa] SDS solidno pred Gibanjem Svoboda; zakaj utegne podpora Golobu v prihodnje pasti?|url=https://nova24tv.si/slovenija/politika/javnomnenjska-anketa-sds-solidno-pred-gibanjem-svoboda-zakaj-utegne-podpora-golobu-v-prihodnje-pasti/|access-date=2022-02-19|language=sl-SI}}</ref><ref>{{Cite web|date=2022-02-19|title=Janša daleč spredaj, Golob hudo zbil Fajonovo in Kul|url=https://siol.net/novice/slovenija/jansa-dalec-spredaj-golob-hudo-zbil-fajonovo-in-kul-573313|access-date=2022-02-19|language=sl-SI}}</ref>
+|-
+| data-sort-value="2022-02-10"|7–10 Feb 2022
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|1,050
+|21.2
+|6.7
+|8.0
+|colspan=2|3.4
+|7.5
+|4.9
+|3.4
+|0.9
+|0.8
+|0.7
+|0.9
+|2.1
+|colspan=2 style="background:#b6cee2" color:white;"|'''23.9'''
+|0.9
+|1.0
+|1.4
+|0.2
+|0.4
+|11.8
+|–
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|2.7
+|<ref>{{Cite web|date=2022-02-15|title=Volitve 2022 – februar (01)|url=http://ninamedia.si/arhivi/882|access-date=2022-02-15|language=sl-SI}}</ref>
+|-
+|7–10 Feb 2022
+|Mediana
+| [[Delo (newspaper)|''Delo'']]
+|710
+|15.0
+|3.7
+|7.0
+|colspan=2|3.7
+|c. 5.1
+|c. 5.1
+|2.7
+|0.9
+|1.9
+|2.4
+|0.9
+|3.5
+|colspan=2 style="background:#b6cee2" color:white;"|'''19.9'''
+|1.9
+|2.0
+|0.8
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|4.4
+|<ref name="Delo Feb"/>
+|-
+|9 Feb 2022{{efn|name=date|Publication date}}
+|Odmev
+|–
+|891
+|style="background:#FFFFBF" |'''17.62'''
+|4.49
+|11.56
+|colspan=2|2.02
+|6.62
+|6.17
+|2.69
+|0.67
+|1.12
+|0.56
+|–
+|1.68
+|colspan=2|10.55
+|0.22
+|–
+|0.67
+|0.67
+|colspan=3|31.65
+|style="background:{{party color|Slovenian Democratic Party}}" |6.06
+|<ref>{{Cite web|date=2022-02-09|title=Februar 2022 Volilna napoved|url=https://volilna-napoved.si/vkljucene-raziskave|access-date=2022-03-30|language=sl-SI}}</ref>
+|-
+|{{nowrap|31 Jan–3 Feb 2022}}
+|Mediana
+|[[Radiotelevizija Slovenija|RTVSLO]]
+|1,030
+|15.0
+|5.2
+|6.6
+|colspan=2|2.3
+|7.0
+|4.9
+|3.2
+|0.5
+|2.5
+|2.0
+|1.3
+|4.2
+|colspan=2 style="background:#b6cee2" color:white;"|'''20.2'''
+|–
+|–
+|1.4
+|3.4
+|5.5
+|11.2
+|3.6
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|5.2
+|<ref name="med rtv feb">{{Cite web|date=2022-01-06|title=Robert Golob najbolje ocenjen politik, Gibanje Svoboda z več kot petinsko podporo vprašanih|url=https://www.rtvslo.si/slovenija/robert-golob-najbolje-ocenjen-politik-gibanje-svoboda-z-vec-kot-petinsko-podporo-vprasanih/611377|access-date=2022-02-07|language=sl-SI}}</ref>
+|-
+| data-sort-value="2022-01-28"|26–28 Jan 2022
+|Parsifal
+|Planet TV
+|720
+|style="background:#FFFFBF" |'''18.4'''
+|3.1
+|6.6
+|colspan=2|3.9
+|4.7
+|4.4
+|2.0
+|1.1
+|2.3
+|1.1
+|1.0
+|2.3
+|colspan=2|13.2
+|1.0
+|–
+|–
+|–
+|colspan="3"|34.9
+|style="background:{{party color|Slovenian Democratic Party}}" |5.2
+|<ref>{{Cite web|date=2022-01-30|title=Robert Golob zbil celoten KUL #video|url=https://siol.net/novice/slovenija/robert-golob-zbil-celoten-kul-video-571639|access-date=2022-02-02|language=sl-SI}}</ref>
+|-
+| data-sort-value="2022-01-27"|25–27 Jan 2022
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|1,050
+|style="background:#FFFFBF" |'''18.5'''
+|3.9
+|9.9
+|colspan=2|2.6
+|6.1
+|4.5
+|3.2
+|1.0
+|0.2
+|0.5
+|0.2
+|1.9
+|colspan=2|16.2
+|0.5
+|0.2
+|1.8
+|–
+|colspan="3"|28.9
+|style="background:{{party color|Slovenian Democratic Party}}" |2.3
+|<ref name="Nina Jan">{{Cite web|date=2022-01-27|title=Golobovo Gibanje Svoboda takoj za stranko premierja Janeza Janše|url=https://novice.svet24.si/clanek/novice/slovenija/61f50a20a0f66/golobovo-gibanje-svoboda-takoj-za-stranko-premierja-janeza-janse|access-date=2022-02-01|language=sl-SI}}</ref>
+|-
+|16 Jan 2022{{efn|name=date|Publication date}}
+|Parsifal
+|[[Nova24TV]]
+|725
+|style="background:#FFFFBF" |'''19.9'''
+|4.4
+|6.5
+|0.6
+|3.4
+|6.6
+|2.8
+|2.6
+|1.2
+|2.3
+|1.1
+|0.2
+|0.9
+|0.1
+|10.4
+|0.8
+|–
+|–
+|0.9
+|2.9
+|23.9
+|8.7
+|style="background:{{party color|Slovenian Democratic Party}}" |9.5
+|<ref>{{Cite web|date=2022-01-16|title=[Javnomnenjska anketa] SDS med opredeljenimi volivci z višjo podporo kot zasledovalki lista Roberta Goloba in Levica skupaj|url=https://nova24tv.si/slovenija/politika/raziskava-agencije-parsifal-sds-med-opredeljenimi-volivci-z-visjo-podporo-312-odstotka-kot-zasledovalki-lista-roberta-goloba-in-levica-skupaj/|access-date=2022-01-16|language=sl-SI}}</ref>
+|-
+|data-sort-value="2022-01-13"|11–13 Jan 2022
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|1,050
+|style="background:#FFFFBF" |'''15.5'''
+|4.3
+|10.3
+|2.8
+|2.6{{efn|SLS 1.0%, AČZS 1.6%}}
+|5.9
+|4.5
+|3.1
+|0.9
+|0.7
+|0.7
+|1.1
+|2.9
+|–
+|15.4
+|1.9
+|–
+|–
+|–
+|colspan="3"|24.6
+|style="background:{{party color|Slovenian Democratic Party}}" |0.1
+|<ref name="Nina">{{Cite web|date=2022-01-17|title=Anketa: Majhna razlika med SDS-om in morebitno stranko Roberta Goloba|url=https://www.rtvslo.si/slovenija/anketa-majhna-razlika-med-sds-om-in-morebitno-stranko-roberta-goloba/608941|access-date=2022-01-17|language=sl-SI}}</ref>
+|-
+|4–6 Jan 2022
+|Parsifal
+|[[Nova24TV]]
+|734
+|style="background:#FFFFBF" |'''20.7'''
+|3.3
+|7.8
+|0.4
+|2.7
+|5.9
+|5.7
+|1.5
+|2.2
+|1.8
+|1.5
+|1.1
+|1.4
+|0.3
+|8.2
+|0.7
+|–
+|–
+|1.7
+|3.8
+|20.6
+|9.0
+|style="background:{{party color|Slovenian Democratic Party}}" |12.5
+|<ref>{{Cite web|date=2022-01-09|title=Preobrat: zaradi Goloba Bratuškova izven parlamenta, Šarec na robu|url=https://siol.net/novice/slovenija/preobrat-zaradi-goloba-bratuskova-izven-parlamenta-sarec-na-robu-570126|access-date=2022-01-09|language=sl-SI}}</ref>
+|-
+|27–29 Dec 2021
+|Mediana
+|[[Radiotelevizija Slovenija|RTVSLO]]
+|1021
+|12.0
+|4.0
+|6.2
+|colspan=2|3.9
+|4.4
+|3.4
+|3.7
+|0.8
+|1.7
+|3.5
+|1.1
+|5.7
+|–
+| style="background:#b6cee2" color:white;"|'''15.3'''
+|1.8
+|–
+|1.4
+|5.6{{efn|Tomaž Vesel's party 1.0%}}
+|5.8
+|14.9
+|4.6
+| style="background:{{party color|Freedom Movement (Slovenia)}}; color:white;"|1.4
+|<ref name="med rtv"/>
 |-
 |13–16 Dec 2021
 |Parsifal
@@ -54,22 +1054,52 @@ Poll results are listed in the table in reverse chronological order, showing the
 |6.1
 |14.0
 |0.8
+|3.2
 |6.6
 |5.1
 |2.5
 |0.8
 |1.3
-|3.2
 |1.4
 |0.4
 |1.8
 |0.6
+|–
+|–
+|–
+|–
 |1.7
 |7.5
 |19.3
 |7.0
 |style="background:{{party color|Slovenian Democratic Party}}" |6.0
 |<ref>{{Cite web|date=2021-12-18|title=[Javnomnenjska anketa] SDS ima stabilno podporo, medtem ko so leve stranke odvisne od vsakega večjega kašlja iz Murgel!|url=https://nova24tv.si/slovenija/politika/javnomnenjska-anketa-sds-ima-stabilno-podporo-medtem-ko-so-leve-stranke-odvisne-od-vsakega-vecjega-kaslja-iz-murgel/|access-date=2021-12-26|language=sl-SI}}</ref>
+|-
+|data-sort-value="2021-12-07"|2–7 Dec 2021
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|1,002
+|style="background:#FFFFBF" |'''15.2'''
+|8.0
+|13.3
+|colspan=2|3.3
+|7.5
+|5.2
+|4.3
+|0.7
+|0.8
+|2.0
+|1.3
+|2.1
+|–
+|9.0
+|–
+|–
+|–
+|1.0
+|colspan="3"|26.4
+|style="background:{{party color|Slovenian Democratic Party}}" |1.9
+|<ref>{{Cite tweet |author= Matej Klarič |user=Matej_Klaric |number=1469615718924795907 |date=11 December 2021 |title=Ninamedia je danes naredila anketo, ki kaže podobne trende kot Mediana. Janša si je z odstavitvijo Goloba nakopal prav enake težave kot z odstavitvijo Jankovića. Golobu merijo, da bi bil lahko tretja največja stranka, čeprav stranka nima še niti programa niti imena. 1 |language=sl |access-date=11 December 2021 |link=https://twitter.com/Matej_Klaric/status/1469615718924795907}}</ref>
 |-
 |29 Nov–2 Dec 2021
 |Mediana
@@ -78,17 +1108,20 @@ Poll results are listed in the table in reverse chronological order, showing the
 | style="background:#FFFFBF" |'''10.7'''
 |6.3
 |9.8
-|{{efn|with PoS}}
+|colspan=2|6.6
 |8.6
 |4.3
 |5.2
 |1.8
 |1.2
-|6.6
 |3.7
 |2.3
 |5.5
 |4.5
+|–
+|–
+|–
+|–
 |2.1
 |7.5
 |17.9
@@ -104,16 +1137,20 @@ Poll results are listed in the table in reverse chronological order, showing the
 |6.5
 |13.3
 |0.6
+|4.0
 |5.2
 |5.4
 |4.0
 |1.8
 |1.1
-|4.0
 |2.5
 |0.7
 |1.8
 |0.7
+|–
+|–
+|–
+|–
 |0.6
 |4.0
 |16.1
@@ -124,21 +1161,25 @@ Poll results are listed in the table in reverse chronological order, showing the
 |20 Sep–4 Nov 2021
 |Parsifal
 |[[Nova24TV]]
-|{{N/A}}
+|N/A
 |style="background:#FFFFBF" |'''25.4'''
 |7.3
 |15.4
 |1.0
+|5.0
 |6.7
 |5.1
 |4.3
 |2.8
 |1.6
-|5.0
 |1.6
 |1.0
 |1.2
 |0.3
+|–
+|–
+|–
+|–
 |1,0
 |4.0
 |16.1
@@ -154,16 +1195,20 @@ Poll results are listed in the table in reverse chronological order, showing the
 |6.3
 |10.7
 |0.9
+|3.1
 |6.3
 |3.1
 |3.3
 |3.0
 |2.7
-|3.1
 |0.9
 |0.5
 |1.7
 |1.0
+|–
+|–
+|–
+|–
 |2.6
 |6.7
 |17.3
@@ -178,16 +1223,20 @@ Poll results are listed in the table in reverse chronological order, showing the
 |7.3
 |11.8
 |0.9
+|3.1
 |4.3
 |2.9
 |3.0
 |1.6
 |2.0
-|3.1
 |1.8
 |0.7
 |1.4
 |0.5
+|–
+|–
+|–
+|–
 |1.1
 |7.3
 |20.3
@@ -203,16 +1252,20 @@ Poll results are listed in the table in reverse chronological order, showing the
 |7.7
 |10.8
 |1.1
+|4.6
 |8.5
 |2.7
 |4.1
 |2.7
 |3.3
-|4.6
 |1.5
 |0.8
 |2.3
 |0.6
+|–
+|–
+|–
+|–
 |2.1
 |11.5
 |13.9
@@ -227,16 +1280,20 @@ Poll results are listed in the table in reverse chronological order, showing the
 |11.6
 |10.8
 |0.9
+|0.8
 |5.3
 |3.7
 |1.7
 |3.8
 |1.5
-|0.8
 |1.9
 |1.6
 |1.5
 |0.4
+|–
+|–
+|–
+|–
 |2.7
 |10.9
 |13.9
@@ -251,16 +1308,20 @@ Poll results are listed in the table in reverse chronological order, showing the
 |20
 |17
 |–
+|2
 |10
 |10
 |5
 |<1
 |<1
-|2
 |3
 |2
 |2
 |1
+|–
+|–
+|–
+|–
 |1
 |–
 |5
@@ -275,26 +1336,29 @@ Poll results are listed in the table in reverse chronological order, showing the
 |9.4
 |8.9
 |1.0
+|1.7
 |4.8
 |4.7
 |1.5
 |2.3
 |1.8
-|1.7
 |1.5
 |0.2
 |1.7
 |0.7
+|–
+|–
+|–
+|–
 |1.5
 |8.8
 |19.4
 |12.4
 | style="background:{{party color|Slovenian Democratic Party}}" |8.6
 |<ref>{{Cite web|title=Planet TV: LMŠ pred SD, v DZ tudi Aleksandra Pivec|url=https://siol.net/novice/slovenija/planet-tv-lms-pred-sd-v-dz-tudi-aleksandra-pivec-553402|access-date=2021-05-31|website=www.siol.net}}</ref>
-|-
-|}
+|}{{notelist}}
 
-===Parties which ran in 2018===
+;Parties which ran in 2018
 {| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:16px"
 |- 
 ! rowspan="2" style="width:120px;"|Fieldwork date
@@ -304,8 +1368,8 @@ Poll results are listed in the table in reverse chronological order, showing the
 ! style="width:35px;" class="unsortable"| [[Slovenian Democratic Party|SDS]]
 ! style="width:35px;" class="unsortable"| [[List of Marjan Šarec|LMŠ]]
 ! style="width:35px;" class="unsortable"| [[Social Democrats (Slovenia)|SD]]
-! style="width:35px;" class="unsortable"| [[Modern Centre Party|SMC]] /<br />[[Concretely|K]]
-! style="width:35px;" class="unsortable"| [[The Left (Slovenia)|The Left]]
+! style="width:35px;" class="unsortable"| [[Modern Centre Party|SMC]] / [[Concretely|K]]
+! style="width:35px;" class="unsortable"| [[The Left (Slovenia)|Levica]]
 ! style="width:35px;" class="unsortable"| [[New Slovenia|NSi]]
 ! style="width:35px;" class="unsortable"| [[Party of Alenka Bratušek|SAB]]
 ! style="width:35px;" class="unsortable"| [[Democratic Party of Pensioners of Slovenia|DeSUS]]
@@ -334,6 +1398,101 @@ Poll results are listed in the table in reverse chronological order, showing the
 ! class="unsortable" style="background: #D2691E; width:30px"|
 ! class="unsortable" style="background: {{party color|Good State (Slovenia)}}; width:30px"|
 ! class="unsortable" style="background: #6ab32e; width:30px"|
+|-
+|7–10 Feb 2022
+|Mediana
+| [[Delo (newspaper)|''Delo'']]
+|710
+| style="background:#FFFFBF" " |'''18.2'''
+|4.8
+|10.0
+|1.4
+|7.4
+|5.4
+|3.5
+|0.8
+|1.5
+|1.2
+|2.8
+|1.4
+|1.4
+|{{N/A}}
+|8.1
+|17.5
+|{{N/A}}
+| style="background:{{party color|Slovenian Democratic Party}}" |0.7
+|<ref name="Delo Feb">{{Cite web|title=Anketa: Gibanje Svoboda bi na volitvah zmagalo|url=https://www.rtvslo.si/slovenija/anketa-gibanje-svoboda-bi-na-volitvah-zmagalo/612406|website=www.rtvslo.si|language=sl}}</ref>
+|-
+|31 Jan–3 Feb 2021
+|Mediana
+|[[Radiotelevizija Slovenija|RTVSLO]]
+|1,030
+| style="background:#FFFFBF" |'''18.5'''
+|6.0
+|9.1
+|1.0
+|8.0
+|4.5
+|3.1
+|1.4
+|1.5
+|1.2
+|1.9
+|1.3
+|1.8
+|10.1
+|7.8
+|17.8
+|5.3
+|style="background:{{party color|Slovenian Democratic Party}}"|9.4
+|<ref name="med rtv feb"/>
+|-
+|16–19 Jan 2022
+|Mediana
+|[[Pop (Slovenian TV channel)|POPTV]]
+|658
+| style="background:#FFFFBF" |'''16.3'''
+|6.3
+|11.3
+|0.2
+|7.6
+|4.6
+|4.3
+|1.2
+|3.6
+|{{N/A}}
+|1.6
+|1.0
+|{{N/A}}
+|{{N/A}}
+|9.1
+|22.7
+|2.2
+|style="background:{{party color|Slovenian Democratic Party}}"|5.0
+|<ref>{{Cite web|title=Iz 24UR: Katero stranko bi volili?|url=https://www.24ur.com/video?video=62678539|access-date=2021-01-26|website=www.24ur.com|language=sl}}</ref>
+|-
+|data-sort-value="2022-01-13"|11–13 Jan 2022
+|Ninamedia
+|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
+|700
+|style="background:#FFFFBF" |'''18.1'''
+|5.1
+|13.6
+|{{N/A}}
+|7.8
+|5.3
+|4.0
+|0.9
+|0.4
+|0.2
+|1.2
+|{{N/A}}
+|{{N/A}}
+|4.1{{efn|[[Open-ended question]]; Golob 2.4%, Our Country 1.4%, RESNI.CA 1.3%}}
+|colspan="2"|31.1
+|5.4
+|style="background:{{party color|Slovenian Democratic Party}}" |4.5
+|<ref name="Nina"/>
 |-
 |27–29 Dec 2021
 |Mediana
@@ -3822,242 +4981,4 @@ Parsifal: Javnomnenjska anketa - SDS bi volilo toliko volivcev kot vse štiri st
 !–
 !–
 ! colspan="5" |–
-|}
-
-===Scenario Polls===
-;Robert Golob founds a party
-{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:16px"
-|- 
-! rowspan="3" style="width:120px;"|Fieldwork date
-! rowspan="3"|Polling firm
-! rowspan="3"|Publisher(s)
-! rowspan="3" style="width:50px;" class="unsortable"|Sample size
-! rowspan="2" style="width:35px;" class="unsortable"| [[Slovenian Democratic Party|SDS]]
-! colspan="3" style="width:35px;" class="unsortable"| [[Let's Connect Slovenia|PoS]]
-! rowspan="2" style="width:35px;" class="unsortable"| [[List of Marjan Šarec|LMŠ]]
-! rowspan="2" style="width:35px;" class="unsortable"| [[Social Democrats (Slovenia)|SD]]
-! rowspan="2" style="width:35px;" class="unsortable"| [[The Left (Slovenia)|The Left]]
-! rowspan="2" style="width:35px;" class="unsortable"| [[New Slovenia|NSi]]
-! rowspan="2" style="width:35px;" class="unsortable"| [[Party of Alenka Bratušek|SAB]]
-! rowspan="2" style="width:35px;" class="unsortable"| [[Democratic Party of Pensioners of Slovenia|DeSUS]]
-! rowspan="2" style="width:35px;" class="unsortable"| [[Slovenian National Party|SNS]]
-! rowspan="2" style="width:35px;" class="unsortable"| [[Pirate Party (Slovenia)|PPS]]
-! rowspan="2" style="width:35px;" class="unsortable"| [[Good State (Slovenia)|DD]]
-! rowspan="2" style="width:35px;" class="unsortable"| Golob
-! rowspan="2" style="width:35px;" class="unsortable"| [[Our Country (Slovenia)|ND]]
-! rowspan="2" style="width:35px;" class="unsortable"| [[Green Actions|Z.DEJ]]
-! rowspan="2" style="width:35px;" class="unsortable"| [[Spring – Green Party|Vesna]]
-! rowspan="2" style="width:35px;" class="unsortable"| [[Resni.ca|RESNI.CA]]
-! rowspan="3" style="width:35px;" class="unsortable"| Others
-! rowspan="3" style="width:35px;" class="unsortable"| None
-! rowspan="3" style="width:35px;" class="unsortable"| Und.
-! rowspan="3" style="width:35px;" class="unsortable"| Abst.
-! rowspan="3" style="width:35px;" class="unsortable"| Lead
-! rowspan="3" class="unsortable" | Source
-|-
-! style="width:35px;" class="unsortable"| [[Concretely|K]]
-! style="width:35px;" class="unsortable"| [[Slovenian People's Party|SLS]]
-! style="width:35px;" class="unsortable"| [[Andrej Čuš and Greens of Slovenia|AČZS]]
-|-
-! class="unsortable" style="background:{{party color|Slovenian Democratic Party}}; width:30px;" |
-! class="unsortable" style="background:{{party color|Modern Centre Party}}; width:30px;"|
-! class="unsortable" style="background:{{party color|Slovenian People's Party}}; width:30px;"|
-! class="unsortable" style="background: #6ab32e; width:30px"|
-! class="unsortable" style="background:{{party color|List of Marjan Šarec}}; width:30px"|
-! class="unsortable" style="background:{{party color|Social Democrats (Slovenia)}}; width:30px;"|
-! class="unsortable" style="background:{{party color|United Left (Slovenia)}}; width:30px;"|
-! class="unsortable" style="background:{{party color|New Slovenia}}; width:30px;"|
-! class="unsortable" style="background:{{party color|Alliance of Alenka Bratušek}}; width:30px"|
-! class="unsortable" style="background:{{party color|Democratic Party of Pensioners of Slovenia}}; width:30px;"|
-! class="unsortable" style="background:{{party color|Slovenian National Party}}; width:30px"|
-! class="unsortable" style="background: #D2691E; width:30px"|
-! class="unsortable" style="background: {{party color|Good State (Slovenia)}}; width:30px"|
-! class="unsortable"|
-! class="unsortable" style="background: {{party color|Our Country (Slovenia)}}; width:30px"|
-! class="unsortable" style="background: {{party color|Green Actions}}; width:30px"|
-! class="unsortable" style="background: #7fc241; width:30px"|
-! class="unsortable" style="background: {{party color|Resni.ca}}; width:30px"|
-|-
-|rowspan="2" data-sort-value="2022-01-13"|11–13 Jan 2022
-|rowspan="2"|Ninamedia
-|rowspan="2"|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
-|1,050
-|style="background:#FFFFBF" |'''15.5'''
-|2.8
-|1.0
-|1.6
-|4.3
-|10.3
-|5.9
-|4.5
-|3.1
-|0.9
-|0.7
-|0.7
-|1.1
-|15.4
-|2.9
-|{{N/A}}
-|1.9
-|{{N/A}}
-|{{N/A}}
-|colspan="3"|24.6
-|style="background:{{party color|Slovenian Democratic Party}}" |0.1
-|rowspan="2"|<ref>{{Cite web|date=2022-01-17|title=Anketa: Majhna razlika med SDS-om in morebitno stranko Roberta Goloba|url=https://www.rtvslo.si/slovenija/anketa-majhna-razlika-med-sds-om-in-morebitno-stranko-roberta-goloba/608941|access-date=2022-01-17|language=sl-SI}}</ref>
-|-
-|700
-|style="background:#FFFFBF" |'''18.1'''
-|{{N/A}}
-|0.2
-|{{N/A}}
-|5.1
-|13.6
-|7.8
-|5.3
-|4.0
-|0.9
-|0.4
-|1.2
-|{{N/A}}
-|2.4
-|1.4
-|{{N/A}}
-|{{N/A}}
-|1.3
-|{{N/A}}
-|colspan="2"|31.1
-|5.4
-|style="background:{{party color|Slovenian Democratic Party}}" |4.5
-|-
-|4–6 Jan 2022
-|Parsifal
-|[[Nova24TV]]
-|734
-|style="background:#FFFFBF" |'''20.7'''
-|0.4
-|colspan="2"|2.7
-|3.3
-|7.8
-|5.9
-|5.7
-|1.5
-|2.2
-|1.8
-|1.5
-|1.1
-|8.2
-|1.4
-|0.3
-|0.7
-|{{N/A}}
-|1.7
-|3.8
-|20.6
-|9.0
-|style="background:{{party color|Slovenian Democratic Party}}" |12.5
-|<ref>{{Cite web|date=2022-01-09|title=Preobrat: zaradi Goloba Bratuškova izven parlamenta, Šarec na robu|url=https://siol.net/novice/slovenija/preobrat-zaradi-goloba-bratuskova-izven-parlamenta-sarec-na-robu-570126|access-date=2022-01-09|language=sl-SI}}</ref>
-|-
-|data-sort-value="2021-12-07"|2–7 Dec 2021
-|Ninamedia
-|[[Dnevnik (Slovenia)|''Dnevnik'']], [[Večer (Slovenia)|''Večer'']]
-|1,002
-|style="background:#FFFFBF" |'''15.2'''
-|colspan="3"|3.3
-|8.0
-|13.3
-|7.5
-|5.2
-|4.3
-|0.7
-|0.8
-|2.0
-|1.3
-|9.0
-|2.1
-|{{N/A}}
-|{{N/A}}
-|{{N/A}}
-|1.0
-|colspan="3"|26.4
-|style="background:{{party color|Slovenian Democratic Party}}" |1.9
-|<ref>{{Cite tweet |author= Matej Klarič |user=Matej_Klaric |number=1469615718924795907 |date=11 December 2021 |title=Ninamedia je danes naredila anketo, ki kaže podobne trende kot Mediana. Janša si je z odstavitvijo Goloba nakopal prav enake težave kot z odstavitvijo Jankovića. Golobu merijo, da bi bil lahko tretja največja stranka, čeprav stranka nima še niti programa niti imena. 1 |language=sl |access-date=11 December 2021 |link=https://twitter.com/Matej_Klaric/status/1469615718924795907}}</ref>
-|}
-
-;Robert Golob and Tomaž Vesel found new parties
-{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:16px"
-|- 
-! rowspan="2" style="width:120px;"|Fieldwork date
-! rowspan="2"|Polling firm
-! rowspan="2"|Publisher(s)
-! rowspan="2" style="width:50px;" class="unsortable"|Sample size
-! style="width:35px;" class="unsortable"| [[Slovenian Democratic Party|SDS]]
-! style="width:35px;" class="unsortable"| [[Let's Connect Slovenia|PoS]]
-! style="width:35px;" class="unsortable"| [[List of Marjan Šarec|LMŠ]]
-! style="width:35px;" class="unsortable"| [[Social Democrats (Slovenia)|SD]]
-! style="width:35px;" class="unsortable"| [[The Left (Slovenia)|The Left]]
-! style="width:35px;" class="unsortable"| [[New Slovenia|NSi]]
-! style="width:35px;" class="unsortable"| [[Party of Alenka Bratušek|SAB]]
-! style="width:35px;" class="unsortable"| [[Democratic Party of Pensioners of Slovenia|DeSUS]]
-! style="width:35px;" class="unsortable"| [[Slovenian National Party|SNS]]
-! style="width:35px;" class="unsortable"| [[Pirate Party (Slovenia)|PPS]]
-! style="width:35px;" class="unsortable"| [[Good State (Slovenia)|DD]]
-! style="width:35px;" class="unsortable"| Golob
-! style="width:35px;" class="unsortable"| [[Our Country (Slovenia)|ND]]
-! style="width:35px;" class="unsortable"| [[Green Actions|Z.DEJ]]
-! style="width:35px;" class="unsortable"| [[Spring – Green Party|Vesna]]
-! style="width:35px;" class="unsortable"| [[Liberal Democrats (Slovenia)|LIDE]]
-! style="width:35px;" class="unsortable"| Vesel
-! rowspan="2" style="width:35px;" class="unsortable"| Others
-! rowspan="2" style="width:35px;" class="unsortable"| None
-! rowspan="2" style="width:35px;" class="unsortable"| Und.
-! rowspan="2" style="width:35px;" class="unsortable"| Abst.
-! rowspan="2" style="width:35px;" class="unsortable"| Lead
-! class="unsortable" rowspan="2"| Source
-|-
-! class="unsortable" style="background:{{party color|Slovenian Democratic Party}}; width:30px;" |
-! class="unsortable" style="background: #fed36c; width:30px;"|
-! class="unsortable" style="background:{{party color|List of Marjan Šarec}}; width:30px"|
-! class="unsortable" style="background:{{party color|Social Democrats (Slovenia)}}; width:30px;"|
-! class="unsortable" style="background:{{party color|United Left (Slovenia)}}; width:30px;"|
-! class="unsortable" style="background:{{party color|New Slovenia}}; width:30px;"|
-! class="unsortable" style="background:{{party color|Alliance of Alenka Bratušek}}; width:30px"|
-! class="unsortable" style="background:{{party color|Democratic Party of Pensioners of Slovenia}}; width:30px;"|
-! class="unsortable" style="background:{{party color|Slovenian National Party}}; width:30px"|
-! class="unsortable" style="background: #D2691E; width:30px"|
-! class="unsortable" style="background: {{party color|Good State (Slovenia)}}; width:30px"|
-! class="unsortable"|
-! class="unsortable" style="background: {{party color|Our Country (Slovenia)}}; width:30px"|
-! class="unsortable" style="background: {{party color|Green Actions}}; width:30px"|
-! class="unsortable" style="background: #7fc241; width:30px"|
-! class="unsortable"|
-! class="unsortable"|
-|-
-|27–29 Dec 2021
-|Mediana
-|[[Radiotelevizija Slovenija|RTVSLO]]
-|1021
-|12.0
-|3.9
-|4.0
-|6.2
-|4.4
-|3.4
-|3.7
-|0.8
-|1.7
-|3.5
-|1.1
-|'''13.4'''
-|5.7
-|1.9
-|1.8
-|1.4
-|1.0
-|4.6
-|5.8
-|14.9
-|4.6
-|1.4
-|<ref name="med rtv"/>
-|}
-{{notelist}}
+|}{{notelist}}

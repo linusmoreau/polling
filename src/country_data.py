@@ -25,7 +25,6 @@ specs = {
     'Brazil': {
         'key': ['firm', 'date', 'sample',
                 'Bolsanaro (APB)', 'Lula (PT)', 'Moro (PODE)', 'Gomes (PDT)', 'Doria (PSDB)',
-                'Leite (PSDB)', 'Mandetta (DEM)', 'Pancheco (DEM)',
                 'Other', 'Undecided', 'lead', 'end'],
         'include': ['Bolsanaro (APB)', 'Lula (PT)', 'Gomes (PDT)', 'Doria (PSDB)', 'Moro (PODE)'],
         'zeros': ['Undecided'],
@@ -83,7 +82,7 @@ specs = {
         'toggle_seats': True,
         'restart': ['https'],
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_45th_Canadian_federal_election&action=edit&section=1'},
+               'Opinion_polling_for_the_45th_Canadian_federal_election&action=edit&section=2'},
     'Chile': {
         'key': ['date', 'source', 'type',
                 'Boric', 'Kast', 'Not voting', 'Not sure'],
@@ -115,9 +114,9 @@ specs = {
         'zeros': ['Other'],
         'restart': ['http'],
         'start': -1,
-        'end_date': Date(2022, 2, 6),
+        'end_date': Date(2022, 4, 3),
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_2022_Costa_Rican_general_election&action=edit&section=3'
+               'Opinion_polling_for_the_2022_Costa_Rican_general_election&action=edit&section=1'
     },
     'Czechia': {
         'key': ['firm', 'date', 'size', 'turnout',
@@ -147,14 +146,15 @@ specs = {
         'key': ['firm', 'date', 'sample',
                 'A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G', 'M', 'Q',
                 'Other', 'lead', 'red', 'blue', 'lead', 'end'],
-        'include': ['A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G'],
+        'include': ['A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G', 'M', 'Q'],
         'col': {'A': (240, 77, 70), 'V': (0, 40, 131), 'O': (252, 208, 59), 'B': (229, 0, 125), 'F': (191, 3, 26),
                 '\u00d8': (208, 0, 77), 'C': (0, 73, 49), '\u00c5': (0, 255, 0), 'D': (0, 80, 91),
                 'I': (63, 178, 190),
                 'P': (1, 152, 225), 'K': (255, 165, 0), 'E': (0, 66, 36), 'G': (128, 165, 26),
+                'M': (91, 195, 245), 'Q': (231, 215, 237),
                 'Red': (240, 77, 70), 'Blue': (0, 40, 131)},
-        'blocs': {'Red': ['A', 'B', 'F', '\u00d8', '\u00c5', 'G'],
-                  'Blue': ['V', 'O', 'C', 'D', 'I', 'P', 'K', 'E']},
+        'blocs': {'Red': ['A', 'B', 'F', '\u00d8', '\u00c5', 'G', 'Q'],
+                  'Blue': ['V', 'O', 'C', 'D', 'I', 'P', 'K', 'E', 'M']},
         'start': 0,
         'end_date': Date(2023, 6, 4),
         'toggle_seats': True,
@@ -210,8 +210,8 @@ specs = {
     },
     'France': {
         'key': ['firm', 'date', 'sample',
-                'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Taubira', 'Hidalgo', 'Montebourg', 'Jadot', 'Thouy',
-                'Macron', 'Lassalle', 'Pécresse', 'Dupont-Aignan', 'Le Pen', 'Philippot', 'Zemmour', 'Asselineau',
+                'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Hidalgo', 'Jadot',
+                'Macron', 'Pécresse', 'Lassalle', 'Dupont-Aignan', 'Le Pen', 'Zemmour',
                 'end'],
         'include': ['Mélenchon', 'Hidalgo', 'Montebourg', 'Jadot', 'Macron', 'Pécresse', 'Dupont-Aignan',
                     'Le Pen', 'Zemmour', 'Taubira',
@@ -291,7 +291,7 @@ specs = {
         'blocs': {'Fidesz': ['Fidesz'], 'United Opposition': ['Jobbik', 'MSZP', 'Dialogue', 'DK', 'LMP', 'MM']},
         'date': 0,
         'start': -1,
-        'end_date': Date(2022, 4, 8),
+        'end_date': Date(2022, 4, 4),
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_2022_Hungarian_parliamentary_election&action=edit&section=4'
     },
@@ -366,7 +366,7 @@ specs = {
     },
     'Italy': {
         'key': ['date', 'firm', 'sample',
-                'M5S', 'PD', 'Lega', 'FI', 'FdI', 'Art.1', 'SI', 'EV', '+Eu', 'A', 'IV', 'CI',
+                'M5S', 'PD', 'Lega', 'FI', 'FdI', 'Art.1', 'SI', 'EV', '+Eu', 'A', 'IV',
                 'Other', 'lead', 'end'],
         'include': ['M5S', 'PD', 'Lega', 'FI', 'FdI', 'Art.1', 'SI', '+Eu', 'EV', 'A', 'IV', 'CI', 'PaP', 'NcI',
                     'LeU', 'C!'],
@@ -412,7 +412,7 @@ specs = {
                 'Ahn Cheol-soo': (234, 85, 4)},
         'end_date': Date(2022, 3, 9),
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               '2022_South_Korean_presidential_election&action=edit&section=30'
+               '2022_South_Korean_presidential_election&action=edit&section=34'
     },
     'Latvia': {
         'key': ['firm', 'date', 'sample', 'dec',
@@ -442,17 +442,17 @@ specs = {
         'restart': ['Cite web', 'cite web']
     },
     'Lithuania': {
-        'include': ['TS-LKD', 'LVZS', 'DP', 'LSDP', 'Laisves', 'LRLS', 'LLRA', 'LRP', 'LCP', 'LT'],
+        'include': ['TS-LKD', 'LVZS', 'DP', 'LSDP', 'Laisves', 'LRLS', 'LLRA', 'LRP', 'LCP', 'LT', 'DSVL'],
         'key': ['firm', 'date', 'sample',
-                'TS-LKD', 'LVZS', 'DP', 'LSDP', 'Laisves', 'LRLS', 'LLRA', 'LRP', 'LCP', 'LT',
+                'TS-LKD', 'LVZS', 'DP', 'LSDP', 'Laisves', 'LRLS', 'LLRA', 'LRP', 'LCP', 'LT', 'DSVL',
                 'lead', 'end'],
         'col': {'TS-LKD': (0, 165, 155), 'LVZS': (0, 144, 53), 'DP': (29, 87, 140), 'LSDP': (225, 5, 20),
                 'Laisves': (227, 0, 107), 'LRLS': (244, 129, 0), 'LLRA': (120, 19, 35), 'LRP': (193, 39, 45),
-                'LCP': (0, 156, 61), 'LT': (251, 186, 0)},
+                'LCP': (0, 156, 61), 'LT': (251, 186, 0), 'DSVL': (10, 17, 114)},
         'gov': {'Government': ['TS-LKD', 'Laisves', 'LRLS'],
-                'Opposition': ['LVZS', 'DP', 'LSDP', 'LLRA', 'LRP', 'LCP', 'LT']},
-        'blocs': {'Conservative': ['TS-LKD', 'LVZS', 'LCP', 'LLRA'], 'Liberal': ['LRLS', 'DP', 'Laisves', 'LT'],
-                  'Socialist': ['LSDP', 'LRP']},
+                'Opposition': ['LVZS', 'DP', 'LSDP', 'LLRA', 'LRP', 'LCP', 'LT', 'DSVL']},
+        'blocs': {'Conservative': ['TS-LKD', 'LLRA'], 'Liberal': ['LRLS', 'Laisves', 'LT'],
+                  'Left': ['LSDP', 'LRP'], 'Centre': ['DP', 'LVZS', 'DSVL', 'LCP']},
         'start': 0,
         'end_date': Date(2024, 10, 6),
         'url': 'https://en.wikipedia.org/w/index.php?title='
@@ -481,7 +481,8 @@ specs = {
                   'Pensioners': ['50+']},
         'start': 0,
         'vlines': {Date(2021, 3, 17): 'General Election'},
-        'url': 'https://en.wikipedia.org/w/index.php?title=Next_Dutch_general_election&action=edit&section=3',
+        'url': 'https://en.wikipedia.org/w/index.php?title=Opinion_polling_for_the_Next_Dutch_general_election&action='
+               'edit&section=3',
         'toggle_seats': True,
         'method': 'quotient',
         'bar': 0,
@@ -540,7 +541,7 @@ specs = {
         'start': -2,
         'end_date': Date(2022, 6, 2),
         'restart': ['https'],
-        'url': 'https://en.wikipedia.org/w/index.php?title=2022_Ontario_general_election&action=edit&section=10'
+        'url': 'https://en.wikipedia.org/w/index.php?title=2022_Ontario_general_election&action=edit&section=14'
     },
     'Poland': {
         'key': ['firm', 'date', 'sample',
@@ -594,7 +595,7 @@ specs = {
     },
     'Romania': {
         'key': ['date', 'source', 'sample',
-                'PSD', 'PNL', 'FD', 'USR', 'AUR', 'UDMR', 'PMP', 'PRO', 'ALDE', 'PPU-SL', 'PER', 'APP',
+                'PSD', 'PNL', 'USR', 'AUR', 'UDMR', 'PMP', 'PRO', 'ALDE', 'PPU-SL', 'PER', 'APP', 'FD',
                 'Other', 'lead', 'end'],
         'include': ['PSD', 'PNL', 'FD', 'USR', 'AUR', 'UDMR', 'PMP', 'PRO', 'ALDE', 'PPU-SL', 'PER', 'APP'],
         'col': {'PSD': (237, 33, 40), 'PNL': (255, 221, 0), 'USR': (0, 166, 255), 'AUR': (252, 194, 36),
@@ -654,25 +655,27 @@ specs = {
     },
     'Slovenia': {
         'key': ['date', 'firm', 'publisher', 'sample',
-                'SDS', 'LMS', 'SD', 'SMC', 'Left', 'NSi', 'SAB', 'DeSUS', 'SNS', 'PoS', 'PPS', 'DD', 'Z.DEJ',
+                'SDS', 'LMS', 'SD', 'K', 'K', 'Left', 'NSi', 'SAB', 'DeSUS', 'SNS', 'PPS', 'DD', 'ND',
+                'GS', 'GS', 'Vesna', 'Res.', 'LIDE',
                 'Other', 'None', 'Undecided', 'Abstain', 'lead', 'source', 'end'],
-        'include': ['SDS', 'LMS', 'SD', 'SMC', 'Left', 'NSi', 'SAB', 'DeSUS', 'SNS', 'SLS', 'PPS', 'DD', 'ACZS', 'PoS',
-                    'Z.DEJ'],
+        'include': ['SDS', 'LMS', 'SD', 'K', 'Left', 'NSi', 'SAB', 'DeSUS', 'SNS', 'PPS', 'DD', 'ACZS', 'PoS',
+                    'GS', 'ND', 'LIDE', 'Vesna', 'Res.'],
         'zeros': ['None', 'Undecided', 'Abstain'],
-        'col': {'SDS': (252, 220, 0), 'LMS': (0, 90, 171), 'SD': (227, 0, 15), 'SMC': (0, 0, 153),
+        'col': {'SDS': (252, 220, 0), 'LMS': (0, 90, 171), 'SD': (227, 0, 15), 'K': (0, 0, 153),
                 'Left': (255, 55, 50), 'NSi': (0, 154, 199), 'SAB': (0, 169, 225), 'DeSUS': (141, 198, 63),
                 'SNS': (34, 31, 31), 'SLS': (116, 202, 55), 'PPS': (210, 105, 30), 'DD': (129, 215, 66),
-                'ACZS': (106, 179, 46)},
-        'gov': {'Government': ['SDS', 'SMC', 'NSi'],
-                'Opposition': ['LMS', 'SD', 'Left', 'SAB', 'DeSUS', 'SNS', 'SLS', 'PPS', 'DD', 'ACZS']},
-        'blocs': {'Conservative': ['SDS', 'NSi', 'SNS', 'SLS'],
-                  'Liberal': ['LMS', 'SMC', 'SAB', 'DeSUS', 'PPS', 'DD', 'ACZS', 'PoS'],
-                  'Socialist': ['SD', 'Left', 'Z.DEJ']},
-        'start': -22,
+                'ACZS': (106, 179, 46), 'PoS': (254, 211, 108), 'GS': (74, 119, 41), 'ND': (71, 154, 46),
+                'Vesna': (0, 166, 94), 'Res.': (13, 69, 183)},
+        'gov': {'Government': ['SDS', 'K', 'NSi'],
+                'Opposition': ['LMS', 'SD', 'Left', 'SAB', 'DeSUS', 'SNS', 'PPS', 'DD', 'ACZS', 'GS']},
+        'blocs': {'Right': ['SDS', 'NSi', 'SNS', 'Res.'],
+                  'Centre': ['LMS', 'K', 'SAB', 'DeSUS', 'DD', 'ACZS', 'PoS', 'ND', 'LIDE'],
+                  'Left': ['SD', 'Left', 'GS', 'PPS', 'Vesna']},
+        'start': -1,
         'end_date': Date(2022, 6, 5),
-        'restart': ['http'],
+        'restart': ['Mediana', 'Parsifal', 'Ninamedia', 'Episcenter'],
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_next_Slovenian_parliamentary_election&action=edit&section=3',
+               'Opinion_polling_for_the_2022_Slovenian_parliamentary_election&action=edit&section=3',
         'toggle_seats': True,
         'seats': 88,
         'divisor': 1,
@@ -702,7 +705,7 @@ specs = {
         'end_date': Date(2023, 12, 10),
         'vlines': {Date(2021, 5, 4): 'Madrilenian election', Date(2021, 2, 14): 'Catalan election'},
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_next_Spanish_general_election&action=edit&section=4'
+               'Opinion_polling_for_the_next_Spanish_general_election&action=edit&section=5'
     },
     'Sweden': {
         'key': ['firm', 'date', 'sample',

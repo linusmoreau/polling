@@ -8,7 +8,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 ! class="unsortable" rowspan="2"| {{H:title|Percentage of decided voters|Dec.}}
 ! class="unsortable" style="width:50px;" | [[Social Democratic Party "Harmony"|S]]
 ! class="unsortable" style="width:50px;" | [[For a Humane Latvia|PCL]]
-! class="unsortable" style="width:50px;" | [[New Conservative Party (Latvia)|JKP]]
+! class="unsortable" style="width:50px;" | [[New Conservative Party (Latvia)|JKP]]/[[The Conservatives (Latvia)|K]]
 ! class="unsortable" style="width:50px;" | [[Development/For!|AP!]]
 ! class="unsortable" style="width:50px;" | [[National Alliance (Latvia)|NA]]
 ! class="unsortable" style="width:50px;" | [[Union of Greens and Farmers|ZZS]]
@@ -16,13 +16,13 @@ The following are opinion polls conducted for the parliamentary election, measur
 ! class="unsortable" style="width:50px;" | [[Latvian Association of Regions|LRA]]
 ! class="unsortable" style="width:50px;" | [[Latvian Russian Union|LKS]]
 ! class="unsortable" style="width:50px;" | [[The Progressives (Latvia)|P]]
-! class="unsortable" style="width:50px;" | [[Law and Order (Latvia)|LuK]]
+! class="unsortable" style="width:50px;" | [[Law and Order (Latvia)|LuK]]/[[For Each and Every One|KuK]]
 ! class="unsortable" style="width:50px;" | [[Latvia First|LPV]]
 ! class="unsortable" style="width:50px;" | [[Republic (Latvia)|R]]
 ! class="unsortable" style="width:30px;" rowspan="2"| Others
 ! class="unsortable" style="width:30px;" rowspan="2"| Lead
 ! class="unsortable" style="width:20px;" rowspan="2"| {{H:title|Government coalition (JV, JKP, AP!, NA)|Gov.}}
-! class="unsortable" style="width:20px;" rowspan="2"| {{H:title|Opposition parties (S, PCL, ZZS, LRA, LKS, P, LuK, LPV, R)|Opp.}}
+! class="unsortable" style="width:20px;" rowspan="2"| {{H:title|Opposition parties (S, PCL, ZZS, LRA, LKS, P, KuK, LPV, R)|Opp.}}
 |-
 ! data-sort-type="number" style="background:{{party color|Social Democratic Party "Harmony"}};" |
 ! data-sort-type="number" style="background:{{party color|For a Humane Latvia}};" |
@@ -37,6 +37,148 @@ The following are opinion polls conducted for the parliamentary election, measur
 ! data-sort-type="number" style="background:{{party color|Law and Order (Latvia)}};" |
 ! data-sort-type="number" style="background:{{party color|Latvia First}};" |
 ! data-sort-type="number" style="background:#1B4D7D;" |
+|-
+|Factum<ref>{{Cite tweet |author= Factum Interactive |user=Interactive_LV |number=1511362402322989060 |date=5 April 2022 |title=📒 Partiju reitingi - Marts 2022 |trans-title=📒 Party ratings - March 2022 |language=lv |access-date=7 April 2022}}</ref>
+|39–31 March 2022
+|832
+| -
+|'''11.2'''
+|1.6
+|'''6.7'''
+|'''10.2'''
+|'''11.9'''
+|'''10.8'''
+| style="background:#A0D78E"|'''17.0'''
+|2.6
+|'''5.2'''
+|'''5.9'''
+|4.7
+|'''5.2'''
+|1.7
+|4.9{{efn|[[National Power Unity|NST]] 0.6%}}
+| style="background:{{party color|New Unity}};" |5.1
+| {{#expr:17+6.7+10.2+11.9}}
+| {{#expr:11.2+1.6+10.8+2.6+5.6+5.9+4.7+5.2+1.7}}
+|-
+|SKDS<ref>{{Cite web|title=Partiju reitingi pēc Krievijas iebrukuma Ukrainā: «Saskaņa» zaudē līderpozīciju, pieaug atbalsts varas partijām |url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-pec-krievijas-iebrukuma-ukraina-saskana-zaude-liderpoziciju-pieaug-atbalsts-varas-partijam.a451509/|website=LSM|language=lv|access-date=7 April 2022|date=7 April 2022}}</ref>
+|March 2022
+|1,820
+|58
+|'''11.5'''
+|0.5
+|'''5.3'''
+|'''9.3'''
+|'''12.3'''
+|'''13.2'''
+| style="background:#A0D78E"|'''16.2'''
+|4.1
+|'''5.4'''
+|'''8.3'''
+|3.2
+|4.3
+|1.7
+|4.7{{efn|[[Stability!|S!]] 3.5%}}
+| style="background:{{party color|New Unity}};" |3.0
+| {{#expr:16.2+5.3+9.3+12.3}}
+| {{#expr:11.5+0.5+13.2+4.1+5.4+8.3+3.2+4.7+1.7}}
+|-
+|Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1500778729206865920|title=Jaunākie partiju reitingi|website=Twitter|language=lv|access-date=21 March 2022|date=7 March 2022}}</ref>
+|23-28 February 2022
+|1,325
+| -
+|'''12.7'''
+|1.1
+|'''6.2'''
+|'''11.5'''
+|'''11.6'''
+|'''9.5'''
+| style="background:#A0D78E"|'''16.3'''
+|3.6
+|3.4
+|'''6.5'''
+|'''5.7'''
+|4.5
+|1.8
+|5.6
+| style="background:{{party color|New Unity}};" |3.6
+| {{#expr:16.3+11.5+11.6+6.2}}
+| {{#expr:12.7+1.1+9.5+3.6+3.4+6.5+5.7+4.5+1.8}}
+|-
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"|26 Feb 2022
+| style="border-right-style:hidden;"|
+| colspan="18"|'''JKP renames itself to "The Conservatives" (K)'''
+|-
+|SKDS<ref>{{Cite web|title=Pirms Krievijas kara Ukrainā reitings pieauga Šlesera partijai, krita – ZZS|url=https://www.lsm.lv/raksts/zinas/latvija/pirms-krievijas-kara-ukraina-reitings-pieauga-slesera-partijai-krita--zzs.a448929/|website=LSM|language=lv|access-date=21 March 2022|date=21 March 2022}}</ref>
+|February 2022
+|1,815
+|58.2
+|style="background:#F8C1BE" |'''17.4'''
+|
+|'''5.3'''
+|'''7.2'''
+|'''12.0'''
+|'''11.9'''
+|'''14.1'''
+|4.0
+|4.1
+|'''6.7'''
+|3.8
+|'''7.4'''
+|2.2
+|4.0
+| style="background:{{party color|Social Democratic Party "Harmony"}};" |3.3
+| {{#expr:5.3+7.2+12+14.1}}
+| {{#expr:17.4+11.9+4+4.1+6.7+3.8+7.4+2.2}}
+|-
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"|19 Feb 2022
+| style="border-right-style:hidden;"|
+| colspan="18"|'''LuK renames itself to "For Each and Every One" (KuK)'''
+|-
+|Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1489707871751356416|title=SAEIMA - partiju reitingi|website=Twitter|language=lv|access-date=9 February 2022|date=4 February 2022}}</ref>
+|{{nobr|1 Jan–2 Feb 2022}}
+|637
+| -
+|'''12.7'''
+|0.8
+|'''6.0'''
+|'''11.6'''
+|'''11.7'''
+|'''9.6'''
+| style="background:#A0D78E"|'''16.6'''
+|3.7
+|3.2
+|'''7.0'''
+|'''5.9'''
+|4.3
+|1.9
+|5.0
+| style="background:{{party color|New Unity}};" |3.9
+| {{#expr:16.6+11.6+11.7+6}}
+| {{#expr:12.7+0.8+9.6+3.7+3.2+7+5.9+4.3+1.9}}
+|-
+|SKDS<ref>{{Cite web|title=Jaunākie politisko partiju reitingi: pieaug atbalsts ZZS, nedaudz sarūk «Saskaņai» un NA|url=https://www.lsm.lv/raksts/zinas/latvija/jaunakie-politisko-partiju-reitingi-pieaug-atbalsts-zzs-nedaudz-saruk-saskanai-un-na.a444388/|website=LSM|language=lv|access-date=22 February 2022|date=19 February 2022}}</ref>
+|January 2022
+|1,805
+|57.4
+|style="background:#F8C1BE" |'''18.4'''
+|
+|4.9
+|'''8.0'''
+|'''10.2'''
+|'''14.3'''
+|'''13.1'''
+|4.5
+|'''5.1'''
+|'''5.7'''
+|4.4
+|4.7
+|2.6
+|4.1
+| style="background:{{party color|Social Democratic Party "Harmony"}};" |5.3
+| {{#expr:4.9+8+10.2+13.1}}
+| {{#expr:18.4+14.3+4.5+5.1+5.7+4.4+4.7+2.6}}
 |-
 |Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1477686494055870482|title=Saeimas reitingi 12/2021|website=Twitter|language=lv|access-date=6 January 2022|date=2 January 2022}}</ref>
 |1-31 December 2021

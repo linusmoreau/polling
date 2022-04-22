@@ -28,7 +28,7 @@
 ! style="background:{{party color|Icelandic Socialist Party}};"|
 |- style="background:#E9E9E9;"
 | [[2021 Icelandic parliamentary election|2021 parliamentary election]]
-| data-sort-value="2017-10-28"| 28 Oct 2017
+| data-sort-value="2021-09-25"| 25 Sep 2021
 | –
 | –
 | style="background:#C6ECFB;"| '''24.4'''

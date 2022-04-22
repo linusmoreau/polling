@@ -1,7 +1,111 @@
-===First round===
-The first round is scheduled to take place on 2 October 2022.<ref name="dates">{{cite news |title=Brasil terá eleições livres em 2022 e com instituições funcionando, diz Barroso |url=https://g1.globo.com/politica/noticia/2021/10/04/brasil-tera-eleicoes-livres-em-2022-e-com-instituicoes-funcionando-diz-barroso.ghtml|website=[[G1 (website)|G1]] |date=4 October 2021}}</ref>
+===Candidate performance===
+{{Graph:Chart
+ | width=700
+ | height=300
+ | xAxisTitle=
+ | yAxisTitle=% of voting intentions
+ | legend=
+ | interpolate = bundle
+ | y1Title=Bolsonaro (PL)
+ | y2Title=Lula (PT) 
+ | type=line
+ | xType = date
+ | xAxisMax = 1666000000000
+ | yGrid=y
+ | xGrid=y
+ | xAxisAngle = -40
+ | size = 77
+ | x=2019-08-18, 2019-10-14, 2019-12-02, 2020-02-09, 2020-02-10, 2020-04-29, 2020-06-17, 2020-07-21, 2020-08-03, 2020-08-24, 2020-08-31, 2020-09-16, 2020-10-08, 2020-10-11, 2020-11-20, 2020-12-01, 2020-12-03, 2020-12-09, 2020-12-23, 2021-01-14, 2021-01-24, 2021-01-26, 2021-01-28, 2021-03-01, 2021-03-08, 2021-03-09, 2021-03-10, 2021-03-11, 2021-03-15, 2021-03-17, 2021-03-31, 2021-04-14, 2021-04-22, 2021-05-12, 2021-05-16, 2021-05-20, 2021-06-21, 2021-06-24, 2021-06-24, 2021-07-07, 2021-07-08, 2021-07-28, 2021-07-28, 2021-08-01, 2021-08-04, 2021-08-14, 2021-08-29, 2021-08-30, 2021-09-01, 2021-09-05, 2021-09-17, 2021-09-21, 2021-09-22, 2021-09-24, 2021-09-29, 2021-10-04, 2021-10-28, 2021-10-28, 2021-11-04, 2021-11-06, 2021-11-11, 2021-11-19, 2021-11-20, 2021-11-22, 2021-11-24, 2021-11-27, 2021-12-01, 2021-12-08, 2021-12-11, 2021-12-13, 2021-12-16, 2021-12-20, 2021-12-22, 2022-01-12, 2022-01-13, 2022-01-14, 2022-01-20, 2022-01-23, 2022-01-27, 2022-02-01, 2022-02-02, 2022-02-09, 2022-02-11, 2022-02-16, 2022-02-18, 2022-02-22, 2022-02-23, 2022-02-26, 2022-03-02, 2022-03-09, 2022-03-10, 2022-03-11, 2022-03-13, 2022-03-14, 2022-03-16, 2022-03-21, 2022-03-24, 2022-03-25, 2022-03-26, 2022-03-27, 2022-03-30, 2022-04-04, 2022-04-04, 2022-04-06, 2022-04-06, 2022-04-13, 2022-04-21
+ | y1=35, 24, 28, 32, 28, 27, 22, 29, 38, 41.7, 31, 35, 30, 31, 29, 33.3, 28, 29, 36, 28, 34.5, 30.5, 32, 31, 32.5, 33, 27.5, 29.2, 30, 28, 31, 32, 23, 24, 26.8, 23, 31, 27, 25, 32.7, 29, 25, 24, 26, 28, 30.9, 25, 22, 23, 28, 30, 24, 28, 30, 28, 21, 21, 25, 24, 29.8, 30.8, 29, 25, 31.5, 23, 27, 22, 22, 24, 30, 23, 24, 24, 28, 33.2, 24, 30, 29.1, 23, 25, 31, 34.7, 27, 28, 26, 32, 30.9, 28, 31, 32.4, 26, 30, 29, 29, 26, 26, 35.5, 32, 31, 35, 30, 35.3, 35, 33
+ | y2=17, 14, 16, 15, 14.1, 13, 13.4, 14, 14.8, 17, 15.5, 18, 14, 13, 8.8, 16, 12, 13, 11, 22.3, 9.5, 17, 10.5, 21, 21.55, 18, 18, 27.1, 34, 29, 34, 33, 41, 43, 36.8, 49, 39, 35, 46, 33.7, 46, 39, 40, 47, 37, 35.5, 44, 36, 48, 43, 40, 43, 35, 34, 42, 44, 48, 35, 37, 35.1, 37, 34, 42, 42.8, 46, 37, 49, 48, 44, 40, 45, 44, 41, 42, 39.5, 44, 41, 40.1, 43, 43, 40, 35, 42, 42.2, 43, 40, 38.9, 43, 38, 39, 44, 40, 43, 40, 44, 43, 38.5, 41, 45, 37, 44, 41.5, 40, 42
+ | colors = #3F4196, #E20E28
+ | vAnnotatonsLine = 2022-10-02
+ | showSymbols = 1.5
+ | symbolsShape = dot
+ | vAnnotatonsLabel = 1st round
+}}'''2022'''
 
-====2022====
+'''Apr – Jun'''
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+! rowspan="2" | Pollster/client(s)
+! rowspan="2" | Fieldwork<br>date(s)
+! rowspan="2" data-sort-type="number" | Sample<br>size
+! class="unsortable" style="width:50px;" |[[Jair Bolsonaro|Bolsonaro]]<br>{{small|[[Liberal Party (Brazil, 2006)|PL]]}}
+! class="unsortable" style="width:50px;" |[[Luiz Inácio Lula da Silva|Lula]]<br>{{small|[[Workers' Party (Brazil)|PT]]}}
+! class="unsortable" style="width:50px;" |[[Ciro Gomes|Gomes]]<br>{{small|[[Democratic Labour Party (Brazil)|PDT]]}}
+! class="unsortable" style="width:50px;" |[[João Doria|Doria]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
+! rowspan="2" class="unsortable" style="width:50px" | Others<br>{{Efn|name=fn2|group=|This column presents the sum of candidates who do not reach 3% frequently.}}
+! rowspan="2" class="unsortable" style="width:50px" | Abst.<br>Undec.
+! rowspan="2" data-sort-type="number" style="width:50px" | Lead
+|-
+! data-sort-type="number" class="sortable" style="background:#3F4196;" |
+! data-sort-type="number" class="sortable" style="background:#E20E28;" |
+! data-sort-type="number" class="sortable" style="background:#FF0000;" |
+! data-sort-type="number" class="sortable" style="background:#0080FF;" |
+|-
+|''[https://exame.com/brasil/diferenca-entre-lula-e-bolsonaro-no-segundo-turno-cai-de-13-para-9/ Exame/Ideia]''
+|15–20 Apr
+|1,500
+|33%
+|style="background:#ffb7b7;" |'''42%'''
+|10%
+|3%
+|5%
+|7%
+|style="background:#E20E28;color:#ffffff;" |9%
+|-
+| colspan="3" |14 Apr
+| colspan="7" |'''[[Brazil Union]] announces the candidacy of congressman [[Luciano Bivar]].'''<ref>{{Cite web |title=Executiva do União Brasil confirma pré-candidatura de Luciano Bivar à Presidência da República |url=https://g1.globo.com/politica/eleicoes/2022/noticia/2022/04/14/executiva-do-uniao-brasil-confirma-pre-candidatura-de-luciano-bivar-a-presidencia-da-republica.ghtml |access-date=2022-04-15 |website=G1 |language=pt-br |archive-date=2022-04-16 |archive-url=https://web.archive.org/web/20220416222326/https://g1.globo.com/politica/eleicoes/2022/noticia/2022/04/14/executiva-do-uniao-brasil-confirma-pre-candidatura-de-luciano-bivar-a-presidencia-da-republica.ghtml |url-status=live }}</ref> 
+|-
+| colspan="3" |13 Apr
+| colspan="7" |'''[[Workers' Party (Brazil)|Workers' Party]] national committee formally approves [[Geraldo Alckmin]] as [[Luiz Inácio Lula da Silva|Lula]]'s running mate.'''<ref>{{Cite web |title=Diretório nacional do PT aprova indicação de Geraldo Alckmin, do PSB, para vice na chapa de Lula |url=https://g1.globo.com/politica/eleicoes/2022/noticia/2022/04/13/diretorio-nacional-do-pt-aprova-indicacao-de-geraldo-alckmin-para-compor-chapa-com-lula-em-2022.ghtml |access-date=2022-04-13 |website=G1 |language=pt-br |archive-date=2022-04-13 |archive-url=https://web.archive.org/web/20220413202625/https://g1.globo.com/politica/eleicoes/2022/noticia/2022/04/13/diretorio-nacional-do-pt-aprova-indicacao-de-geraldo-alckmin-para-compor-chapa-com-lula-em-2022.ghtml |url-status=live }}</ref>
+|-
+|''[https://www.poder360.com.br/poderdata/frente-de-lula-sobre-bolsonaro-cai-a-5-pontos-diz-poderdata/ PoderData]''
+|10-12 Apr
+|3,000
+|35%
+|style="background:#ffb7b7;" |'''40%'''
+|5%
+|3%
+|6%
+|11%
+|style="background:#E20E28;color:#ffffff;" |5%
+|-
+|[https://www.cnnbrasil.com.br/politica/pesquisa-ipespe-lula-tem-44-bolsonaro-30-ciro-9-doria-3-tebet-2-janones-1/ XP/Ipespe]
+|2–5 Apr
+|1,000
+|30%
+| style="background:#ffb7b7;" |'''44%'''
+|9%
+|3%
+|3%
+|12%
+| style="background:#E20E28;color:#ffffff;" |14%
+|-
+|''[https://www.paranapesquisas.com.br/pesquisas/parana-pesquisas-divulga-pesquisa-nacional-registro-tse-br-08065-2022-situacao-eleitoral-para-o-executivo-federal-em-2022-e-avaliacao-da-administracao-federal-abril-2022/ Paraná Pesquisas]''
+|31 Mar-5 Apr
+|2,020
+|35.3%
+| style="background:#ffb7b7;" |'''41.5%'''
+|5.8%
+|3.1%
+|1.2%
+|13.1%
+|style="background:#E20E28;color:#ffffff;" |6.2%
+|-
+|''[https://www.gazetadopovo.com.br/eleicoes/2022/pesquisa-eleitoral/quaest-genial-divulga-nova-pesquisa-de-intencao-de-voto-para-presidente/ Quaest/Genial]''
+|1-3 Apr
+|2,000
+|31%
+|style="background:#ffb7b7;" |'''45%'''
+|6%
+|2%
+|4%
+|12%
+|style="background:#E20E28;color:#ffffff;" |14%
+|}
+
+==== Jan – Mar ====
 {| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
 ! rowspan="2"| Pollster/client(s)
 ! rowspan="2"| Fieldwork<br>date(s)
@@ -11,7 +115,7 @@ The first round is scheduled to take place on 2 October 2022.<ref name="dates">{
 ! class="unsortable" style="width:50px;"|[[Sérgio Moro|Moro]]<br>{{small|[[Podemos (Brazil)|PODE]]}}
 ! class="unsortable" style="width:50px;"|[[Ciro Gomes|Gomes]]<br>{{small|[[Democratic Labour Party (Brazil)|PDT]]}}
 ! class="unsortable" style="width:50px;"|[[João Doria|Doria]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
-! rowspan="2" class="unsortable" style="width:50px" | Others<br>{{Efn|name=fn2|group=|This column presents the sum of candidates who do not reach 3%.}}
+! rowspan="2" class="unsortable" style="width:50px" | Others<br>{{Efn|name=fn2|group=|This column presents the sum of candidates who do not reach 3% frequently.}}
 ! rowspan="2" class="unsortable" style="width:50px" | Abst.<br>Undec.
 ! rowspan="2" data-sort-type="number" style="width:50px" | Lead
 |-
@@ -20,6 +124,369 @@ The first round is scheduled to take place on 2 October 2022.<ref name="dates">{
 ! data-sort-type="number" class="sortable" style="background:#2DA933;"|
 ! data-sort-type="number" class="sortable" style="background:#FF0000;"|
 ! data-sort-type="number" class="sortable" style="background:#0080FF;"|
+|-
+|[https://veja.abril.com.br/coluna/radar/lula-e-bolsonaro-empatam-na-segunda-pesquisa-do-instituto-gerp/ ''Instituto GERP'']
+|31 Mar-5 Apr
+|2,095
+|35%
+| style="background:#ffb7b7;" |'''37%'''
+|6%
+|5%
+|1%
+|2%
+|7%
+| style="background:#E20E28;color:#ffffff;" |2%
+|-
+| colspan="3" |31 Mar
+| colspan="8" |'''Former Minister [[Sergio Moro|Moro]] leaves [[Podemos (Brazil)|Podemos]] and joins [[Brazil Union]], suspending his candidacy.'''<ref>{{Cite web |title=Moro se filia ao União Brasil e diz abrir mão de candidatura a presidente |url=https://www.uol.com.br/eleicoes/2022/03/31/moro-uniao-brasil-eleicoes-2022.htm |access-date=2022-03-31 |website=www.uol.com.br |language=pt-br |archive-date=2022-03-31 |archive-url=https://web.archive.org/web/20220331173936/https://www.uol.com.br/eleicoes/2022/03/31/moro-uniao-brasil-eleicoes-2022.htm |url-status=live }}</ref>
+|-
+|[https://www.uol.com.br/eleicoes/2022/03/30/poderdata-30-de-marco-eleicoes-2022-presidente-pesquisa.htm ''PoderData'']
+|27–29 Mar
+|3,000
+|32%
+|style="background:#ffb7b7;" |'''41%'''
+|6%
+|7%
+|3%
+|4%
+|7%
+|style="background:#E20E28;color:#ffffff;" |9%
+|-
+|''[https://futurainteligencia.com.br/blog/conteudo/#174 Modalmais/Futura]''
+|21-25 Mar
+|2,000
+|35.5%
+| style="background:#ffb7b7;" |'''38.5%'''
+|5.3%
+|5.1%
+|1.3%
+|4.8%
+|9.4%
+| style="background:#E20E28;color:#ffffff;" |3%
+|-
+| rowspan="4" |[https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/03/24/datafolha-lula-tem-43percent-no-primeiro-turno-contra-26percent-de-bolsonaro.ghtml ''Datafolha'']
+| rowspan="4" |22–23 Mar
+| rowspan="4" |2,556
+|26%
+|style="background:#ffb7b7;" |'''43%'''
+|8%
+|6%
+|2%
+|5%
+|8%
+|style="background:#E20E28;color:#ffffff;" |17%
+|-
+|26%
+|style="background:#ffb7b7;" |'''43%'''
+|8%
+|7%
+|–
+|6%
+|10%
+|style="background:#E20E28;color:#ffffff;" |17%
+|-
+|26%
+|style="background:#ffb7b7;" |'''44%'''
+|8%
+|7%
+|2%
+|5%
+|8%
+|style="background:#E20E28;color:#ffffff;" |18%
+|-
+|26%
+|style="background:#ffb7b7;" |'''43%'''
+|8%
+|8%
+|–
+|5%
+|9%
+|style="background:#E20E28;color:#ffffff;" |17%
+|-
+|''[https://www.poder360.com.br/pesquisas/xp-ipespe-confirma-poderdata-lula-tem-44-bolsonaro-26/ XP/Ipespe]''
+|21–23 Mar
+|1,000
+|26%
+|style="background:#ffb7b7;" |'''44%'''
+|9%
+|7%
+|2%
+|4%
+|9%
+|style="background:#E20E28;color:#ffffff;" |18%
+|-
+|''[https://exame.com/brasil/lula-tem-40-bolsonaro-29-ciro-e-moro-tem-9-cada-diz-exame-ideia/ Exame/Ideia]''
+|18-23 Mar
+|1,500
+|29%
+|style="background:#ffb7b7;" | '''40%'''
+|9%
+|9%
+|1%
+|5%
+|6%
+|style="background:#E20E28;color:#ffffff;" |11%
+|-
+|''[https://www.msn.com/pt-br/noticias/brasil/pesquisa-btg-confirma-poderdata-lula-tem-43-e-bolsonaro-29/ar-AAVjZju FSB]''
+|18-20 Mar
+|2,000
+|29%
+|style="background:#ffb7b7;" | '''43%'''
+|8%
+|9%
+|2%
+|5%
+|5%
+|style="background:#E20E28;color:#ffffff;" |14%
+|-
+|''[https://www.poder360.com.br/poderdata/recuperacao-de-bolsonaro-perde-impeto-diz-poderdata/ PoderData]''
+|13-15 Mar
+|3,000
+|30%
+|style="background:#ffb7b7;" | '''40%'''
+|7%
+|7%
+|2%
+|6%
+|8%
+|style="background:#E20E28;color:#ffffff;" |10%
+|-
+| rowspan="3" |[https://veja.abril.com.br/coluna/radar/em-nova-pesquisa-lula-tem-38-e-bolsonaro-31/ ''Quaest/Genial'']
+| rowspan="3" |10–13 Mar
+| rowspan="3" |2,000
+|26%
+|style="background:#ffb7b7;" | '''44%'''
+|7%
+|7%
+|2%
+|3%
+|13%
+|style="background:#E20E28;color:#ffffff;" |18%
+|-
+|25%
+|style="background:#ffb7b7;" | '''45%'''
+|6%
+|7%
+|2%
+|4%
+|10%
+|style="background:#E20E28;color:#ffffff;" |20%
+|-
+|28%
+|style="background:#ffb7b7;" | '''48%'''
+|–
+|8%
+|–
+|3%
+|12%
+|style="background:#E20E28;color:#ffffff;" |20%
+|-
+|''[https://diariomsnews.com.br/noticias/instituto-ranking-divulga-pesquisa-nacional-para-presidente-confira-os-numeros/ Ranking Brasil]''
+|7-12 Mar
+|3,000
+|32.4%
+|style="background:#ffb7b7;" | '''39%'''
+|7.2%
+|6.5%
+|2.4%
+| -
+|10.5%
+|style="background:#E20E28;color:#ffffff;" |6.6%
+|-
+|[https://veja.abril.com.br/coluna/radar/em-nova-pesquisa-lula-tem-38-e-bolsonaro-31/ ''Instituto GERP'']
+|7-10 Mar
+|2,095
+|31%
+|style="background:#ffb7b7;" | '''38%'''
+|7%
+|5%
+|2%
+|1%
+|8%
+|style="background:#E20E28;color:#ffffff;" |7%
+|-
+| colspan="3" |9 Mar 
+| colspan="8" |'''Senator [[Rodrigo Pacheco (politician)|Rodrigo Pacheco]] ([[Social Democratic Party (Brazil, 2011)|PSD]]) announces he will not run for president.'''<ref>{{Cite web |title=Rodrigo Pacheco anuncia que não será candidato à presidência da República em 2022 |url=https://www12.senado.leg.br/noticias/materias/2022/03/09/rodrigo-pacheco-anuncia-que-nao-sera-candidato-a-presidencia-da-republica-em-2022 |access-date=2022-03-31 |website=Senado Federal |language=pt-br |archive-date=2022-03-31 |archive-url=https://web.archive.org/web/20220331221905/https://www12.senado.leg.br/noticias/materias/2022/03/09/rodrigo-pacheco-anuncia-que-nao-sera-candidato-a-presidencia-da-republica-em-2022 |url-status=live }}</ref>
+|-
+|''[https://www.infomoney.com.br/politica/bolsonaro-cresce-dois-pontos-na-primeira-pesquisa-ipespe-de-marco-dentro-da-margem-de-erro/ XP/Ipespe]''
+|7-9 Mar
+|1,000
+|28%
+|style="background:#ffb7b7;" | '''43%'''
+|8%
+|8%
+|3%
+|3%
+|9%
+|style="background:#E20E28;color:#ffffff;" | 15%
+|-
+|''[https://www.paranapesquisas.com.br/pesquisas/parana-pesquisas-divulga-pesquisa-nacional-registro-tse-br-06682-2022-situacao-eleitoral-para-o-executivo-federal-em-2022-e-avaliacao-da-administracao-federal-marco-2022/ Paraná Pesquisas]''
+|3-8 Mar
+|2,020
+|30.9%
+|style="background:#ffb7b7;" | '''38.9%'''
+|7.4%
+|6.8%
+|2.2%
+|2.5%
+|11.2%
+| style="background:#E20E28;color:#ffffff;" | 8%
+|-
+|''[https://www.poder360.com.br/poderdata/lula-40-x-32-bolsonaro-diz-poderdata-sobre-1o-turno/ PoderData]''
+|27 Feb-1 Mar
+|3,000
+|32%
+|style="background:#ffb7b7;" | '''40%'''
+|6%
+|7%
+|2%
+|6%
+|8%
+| style="background:#E20E28;color:#ffffff;" | 8%
+|-
+|[https://www.cnnbrasil.com.br/politica/pesquisa-ipespe-lula-tem-43-e-bolsonaro-26-moro-8-e-ciro-7/ ''Ipespe'']
+|21–23 Feb
+|1,000
+|26%
+| style="background:#ffb7b7;" | '''43%'''
+|8%
+|7%
+|3%
+|4%
+|9%
+| style="background:#E20E28;color:#ffffff;" | 17%
+|-
+|''[https://exame.com/brasil/lula-lidera-com-42-contra-27-de-bolsonaro-diz-exame-ideia/ Exame/Ideia]''
+|18–22 Feb
+|1,500
+|27%
+|style="background:#ffb7b7;" | '''42%'''
+|10%
+|8%
+|3%
+|3.7%
+|6%
+|style="background:#E20E28;color:#ffffff;" | 15%
+|-
+|[https://www.uol.com.br/eleicoes/2022/02/21/pesquisa-cnt-mda-21-de-fevereiro-de-2022.htm ''CNT/MDA'']
+|16–19 Feb
+|2,002
+|28%
+| style="background:#ffb7b7;" | '''42.2%'''
+|6.4%
+|6.7%
+|1.8%
+|2.7%
+|12.2%
+| style="background:#E20E28;color:#ffffff;" | 14.2%
+|-
+|''[https://futurainteligencia.com.br/blog/conteudo/#173 Modalmais/Futura]''
+|14–17 Feb
+|2,000
+|34.7%
+|style="background:#ffb7b7;" | '''35%'''
+|7.5%
+|5.8%
+|1.8%
+|4.5%
+|10.5%
+| style="background:#E20E28;color:#ffffff;" | 0.3%
+|-
+|[https://www.poder360.com.br/poderdata/poderdata-lula-tem-40-contra-31-de-bolsonaro-no-1o-turno/ ''PoderData'']
+|13–15 Feb
+|3,000
+|31%
+|style="background:#ffb7b7;"| '''40%'''
+|9%
+|4%
+|3%
+|4%
+|8%
+|style="background:#E20E28;color:#ffffff;"| 9%
+|-
+|[https://www.infomoney.com.br/politica/bolsonaro-apresenta-melhora-marginal-na-primeira-pesquisa-ipespe-de-fevereiro/ ''XP/Ipespe'']
+|7–9 Feb
+|1,000
+|25%
+|style="background:#ffb7b7;"| '''43%'''
+|8%
+|8%
+|3%
+|2%
+|12%
+|style="background:#E20E28;color:#ffffff;"| 18%
+|-
+|[https://www.cnnbrasil.com.br/politica/pesquisa-quaest-genial-lula-tem-45-bolsonaro-23-moro-e-ciro-7/ ''Quaest/Genial'']
+|3–6 Feb
+|2,000
+|23%
+|style="background:#ffb7b7;"| '''45%'''
+|7%
+|7%
+|2%
+|3%
+|13%
+|style="background:#E20E28;color:#ffffff;"| 22%
+|-
+|[https://veja.abril.com.br/coluna/maquiavel/lula-amplia-vantagem-sobre-rivais-em-nova-pesquisa-eleitoral/ ''Paraná Pesquisas'']
+|27 Jan–1 Feb
+|2,020
+|29.1%
+|style="background:#ffb7b7;"| '''40.1%'''
+|10.1%
+|5.6%
+|2.4%
+|2.4%
+|10.3%
+|style="background:#E20E28;color:#ffffff;"| 11%
+|-
+|[https://www.poder360.com.br/poderdata/poderdata-lula-tem-41-no-1o-turno-bolsonaro-tem-30/ ''PoderData'']
+|31 Jan–1 Feb
+|3,000
+|30%
+|style="background:#ffb7b7;"| '''41%'''
+|7%
+|7%
+|2%
+|5%
+|8%
+|style="background:#E20E28;color:#ffffff;"| 11%
+|-
+|[https://www.cnnbrasil.com.br/politica/pesquisa-ipespe-lula-tem-44-e-bolsonaro-24-moro-e-ciro-empatam-em-terceiro/ ''XP/Ipespe'']
+|24–25 Jan
+|1,000
+|24%
+|style="background:#ffb7b7;"| '''44%'''
+|8%
+|8%
+|2%
+|3%
+|12%
+|style="background:#E20E28;color:#ffffff;"| 20%
+|-
+|''[https://noticias.uol.com.br/politica/ultimas-noticias/2022/01/26/pesquisa-modalmais-futura-janeiro-2022-lula-bolsonaro.htm Modalmais/Futura]''
+|17–21 Jan
+|2,000
+|33.2%
+|style="background:#ffb7b7;"| '''39.5%'''
+|8.4%
+|7.5%
+|3.2%
+|–
+|8.2%
+|style="background:#E20E28;color:#ffffff;"| 6.3%
+|-
+|[https://www.poder360.com.br/poderdata/poderdata-lula-vai-a-42-e-empata-com-a-soma-dos-adversarios/ ''PoderData'']
+|16–18 Jan
+|3,000
+|28%
+|style="background:#ffb7b7;"| '''42%'''
+|8%
+|3%
+|2%
+|4%
+|12%
+|style="background:#E20E28;color:#ffffff;"| 14%
 |-
 |[https://exame.com/brasil/exame-ideia-lula-tem-41-no-1o-turno-contra-24-de-bolsonaro ''Exame/Ideia'']
 |9–13 Jan
@@ -196,7 +663,7 @@ The first round is scheduled to take place on 2 October 2022.<ref name="dates">{
 ! class="unsortable" style="width:50px;"|[[Eduardo Leite|Leite]]<br>{{small|[[Brazilian Social Democracy Party|PSDB]]}}
 ! class="unsortable" style="width:50px;"|[[Luiz Henrique Mandetta|Mandetta]]<br>{{small|[[Brazil Union|UNION]]}}
 ! class="unsortable" style="width:50px;"|[[Rodrigo Pacheco (politician)|Pacheco]]<br>{{small|[[Social Democratic Party (Brazil, 2011)|PSD]]}}
-! rowspan="2" class="unsortable" style="width:50px" | Others<br>{{Efn|name=fn1|group=|TV presenter [[José Luiz Datena]] withdrew candidacy in November 2021, to run for a Senate seat. Polls with his name are now added to the column "Others".<ref>{{cite news |title=Datena decide se filiar ao PSD e vai disputar o Senado |url=https://www.metropoles.com/brasil/datena-decide-se-filiar-ao-psd-e-vai-disputar-o-senado |website=Metropoles |date=2 November 2021}}</ref>}}
+! rowspan="2" class="unsortable" style="width:50px" | Others<br>{{Efn|name=fn1|group=|TV presenter [[José Luiz Datena]] withdrew candidacy in November 2021, to run for a Senate seat. Polls with his name are now added to the column "Others".<ref>{{cite news |title=Datena decide se filiar ao PSD e vai disputar o Senado |url=https://www.metropoles.com/brasil/datena-decide-se-filiar-ao-psd-e-vai-disputar-o-senado |website=Metropoles |date=2 November 2021 |access-date=10 November 2021 |archive-date=3 November 2021 |archive-url=https://web.archive.org/web/20211103012224/https://www.metropoles.com/brasil/datena-decide-se-filiar-ao-psd-e-vai-disputar-o-senado |url-status=live }}</ref>}}
 ! rowspan="2" class="unsortable" style="width:50px" | Abst.<br>Undec.
 ! rowspan="2" data-sort-type="number" style="width:50px" | Lead
 |-
@@ -211,7 +678,7 @@ The first round is scheduled to take place on 2 October 2022.<ref name="dates">{
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" {{opdrts||8|Dec|2021}}
-| colspan="11" |'''[[Brazilian Democratic Movement|MDB]] confirms the candidacy of senator [[Simone Tebet]].'''<ref>{{Cite web|title=MDB oficializa pré-candidatura de Simone Tebet à Presidência da República|url=https://g1.globo.com/politica/noticia/2021/12/08/mdb-oficializa-pre-candidatura-de-simone-tebet-a-presidencia-da-republica.ghtml|access-date=2021-12-09|website=G1|language=pt-br}}</ref>
+| colspan="11" |'''[[Brazilian Democratic Movement|MDB]] confirms the candidacy of senator [[Simone Tebet]].'''<ref>{{Cite web|title=MDB oficializa pré-candidatura de Simone Tebet à Presidência da República|url=https://g1.globo.com/politica/noticia/2021/12/08/mdb-oficializa-pre-candidatura-de-simone-tebet-a-presidencia-da-republica.ghtml|access-date=2021-12-09|website=G1|language=pt-br|archive-date=2021-12-08|archive-url=https://web.archive.org/web/20211208205841/https://g1.globo.com/politica/noticia/2021/12/08/mdb-oficializa-pre-candidatura-de-simone-tebet-a-presidencia-da-republica.ghtml|url-status=live}}</ref>
 |-
 |[https://extra.globo.com/noticias/brasil/lula-segue-na-lideranca-seguido-por-bolsonaro-moro-segundo-pesquisa-quaest-veja-os-numeros-25310241.html ''Quaest/Genial'']
 |2–5 Dec
@@ -231,7 +698,7 @@ The first round is scheduled to take place on 2 October 2022.<ref name="dates">{
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" {{opdrts||30|Nov|2021}}
-| colspan="11" |'''President [[Jair Bolsonaro|Bolsonaro]] joins the [[Liberal Party (Brazil, 2006)|Liberal Party]].'''<ref>{{Cite web|title=Bolsonaro se filia ao PL e diz querer compor bancadas para "fazer melhor para o Brasil"|url=https://www.cnnbrasil.com.br/politica/bolsonaro-se-filia-ao-pl-e-diz-querer-compor-bancadas-para-fazer-melhor-para-o-brasil/|access-date=2021-12-06|website=CNN Brasil|language=pt-BR}}</ref>
+| colspan="11" |'''President [[Jair Bolsonaro|Bolsonaro]] joins the [[Liberal Party (Brazil, 2006)|Liberal Party]].'''<ref>{{Cite web|title=Bolsonaro se filia ao PL e diz querer compor bancadas para "fazer melhor para o Brasil"|url=https://www.cnnbrasil.com.br/politica/bolsonaro-se-filia-ao-pl-e-diz-querer-compor-bancadas-para-fazer-melhor-para-o-brasil/|access-date=2021-12-06|website=CNN Brasil|language=pt-BR|archive-date=2021-12-02|archive-url=https://web.archive.org/web/20211202023128/https://www.cnnbrasil.com.br/politica/bolsonaro-se-filia-ao-pl-e-diz-querer-compor-bancadas-para-fazer-melhor-para-o-brasil/|url-status=live}}</ref>
 |-
 |[https://noticias.uol.com.br/politica/ultimas-noticias/2021/11/30/atlas-pesquisa-lula-bolsonaro-moro.htm ''Atlas Político'']
 |27–29 Nov
@@ -251,7 +718,7 @@ The first round is scheduled to take place on 2 October 2022.<ref name="dates">{
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" {{opdrts||27|Nov|2021}}
-| colspan="11" |'''Governor of São Paulo [[João Doria]] wins the [[2021 PSDB presidential primary|PSDB presidential primary]].'''<ref>{{Cite web|title=Doria vence prévias do PSDB para disputa da Presidência em 2022|url=https://g1.globo.com/politica/noticia/2021/11/27/doria-vence-as-previas-do-psdb-e-sera-o-candidato-do-partido-a-presidente-da-republica.ghtml|access-date=2021-12-06|website=G1|language=pt-br}}</ref>
+| colspan="11" |'''Governor of São Paulo [[João Doria]] wins the [[2021 PSDB presidential primary|PSDB presidential primary]].'''<ref>{{Cite web|title=Doria vence prévias do PSDB para disputa da Presidência em 2022|url=https://g1.globo.com/politica/noticia/2021/11/27/doria-vence-as-previas-do-psdb-e-sera-o-candidato-do-partido-a-presidente-da-republica.ghtml|access-date=2021-12-06|website=G1|language=pt-br|archive-date=2021-11-28|archive-url=https://web.archive.org/web/20211128021442/https://g1.globo.com/politica/noticia/2021/11/27/doria-vence-as-previas-do-psdb-e-sera-o-candidato-do-partido-a-presidente-da-republica.ghtml|url-status=live}}</ref>
 |-
 |rowspan="2"|[https://www.poder360.com.br/pesquisas/ipesp-confirma-poderdata-sobre-eleicao-de-2022-e-avaliacao-do-governo/ ''Ipespe'']
 |rowspan="2"|22–24 Nov
@@ -502,12 +969,12 @@ The first round is scheduled to take place on 2 October 2022.<ref name="dates">{
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" {{opdrts||23|Oct|2021}}
-| colspan="12" style="font-weight:bold;" align="center" |[[Social Democratic Party (Brazil, 2011)|PSD]] confirms the candidacy of senator [[Rodrigo Pacheco (politician)|Rodrigo Pacheco]].<ref>{{cite web|url=https://noticias.r7.com/brasilia/kassab-confirma-pacheco-candidato-do-psd-a-presidencia-em-2022-23102021|title=Kassab confirma Pacheco candidato do PSD à Presidência em 2022|website=R7|language=pt|first=Augusto|last=Fernandes|date=23 October 2021|accessdate=23 October 2021}}</ref>
+| colspan="12" style="font-weight:bold;" align="center" |[[Social Democratic Party (Brazil, 2011)|PSD]] confirms the candidacy of senator [[Rodrigo Pacheco (politician)|Rodrigo Pacheco]].<ref>{{cite web|url=https://noticias.r7.com/brasilia/kassab-confirma-pacheco-candidato-do-psd-a-presidencia-em-2022-23102021|title=Kassab confirma Pacheco candidato do PSD à Presidência em 2022|website=R7|language=pt|first=Augusto|last=Fernandes|date=23 October 2021|accessdate=23 October 2021|archive-date=23 October 2021|archive-url=https://web.archive.org/web/20211023165529/https://noticias.r7.com/brasilia/kassab-confirma-pacheco-candidato-do-psd-a-presidencia-em-2022-23102021|url-status=live}}</ref>
 |-
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" {{opdrts||22|Oct|2021}}
-| colspan="12" style="font-weight:bold;" align="center" |Former Judge and Justice Minister [[Sergio Moro|Moro]] confirms candidacy.<ref>{{cite web|url=https://blogs.oglobo.globo.com/bela-megale/post/moro-bate-martelo-sobre-eleicoes-e-podemos-marcar-evento-de-filiacao-do-ex-juiz.html|title=Moro bate martelo sobre eleições e Podemos marca evento de filiação do ex-juiz|website=O Globo|language=pt|first=Bela|last=Megale|date=22 October 2021|accessdate=22 October 2021}}</ref>
+| colspan="12" style="font-weight:bold;" align="center" |Former Judge and Justice Minister [[Sergio Moro|Moro]] confirms candidacy.<ref>{{cite web|url=https://blogs.oglobo.globo.com/bela-megale/post/moro-bate-martelo-sobre-eleicoes-e-podemos-marcar-evento-de-filiacao-do-ex-juiz.html|title=Moro bate martelo sobre eleições e Podemos marca evento de filiação do ex-juiz|website=O Globo|language=pt|first=Bela|last=Megale|date=22 October 2021|accessdate=22 October 2021|archive-date=22 October 2021|archive-url=https://web.archive.org/web/20211022160524/https://blogs.oglobo.globo.com/bela-megale/post/moro-bate-martelo-sobre-eleicoes-e-podemos-marcar-evento-de-filiacao-do-ex-juiz.html|url-status=live}}</ref>
 |-
 |rowspan="3"|[https://www.oantagonista.com/brasil/quaest-genial-55-dos-eleitores-nao-sabem-em-quem-votar-para-presidente/ ''Quaest/Genial'']
 |rowspan="3"|30 Sept–3 Oct
@@ -932,7 +1399,7 @@ The first round is scheduled to take place on 2 October 2022.<ref name="dates">{
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;" {{opdrts||16|Jun|2021}}
-| colspan="13" align="center" style="font-weight:bold;" |[[Luciano Huck|Huck]] gives up on candidacy.<ref>{{cite news |last= |first= |date=8 March 2021 |title=Huck descarta candidatura à Presidência em 2022 e confirma ida para o lugar de Faustão na Globo |url=https://www1.folha.uol.com.br/poder/2021/06/huck-descarta-candidatura-a-presidencia-em-2022-e-confirma-ida-para-o-lugar-de-faustao-na-globo.shtml|work=[[Folha de São Paulo]] |location= |access-date=16 June 2021}}</ref>
+| colspan="13" align="center" style="font-weight:bold;" |[[Luciano Huck|Huck]] withdraws candidacy.<ref>{{cite news |last= |first= |date=8 March 2021 |title=Huck descarta candidatura à Presidência em 2022 e confirma ida para o lugar de Faustão na Globo |url=https://www1.folha.uol.com.br/poder/2021/06/huck-descarta-candidatura-a-presidencia-em-2022-e-confirma-ida-para-o-lugar-de-faustao-na-globo.shtml |work=[[Folha de São Paulo]] |location= |access-date=16 June 2021 |archive-date=16 June 2021 |archive-url=https://web.archive.org/web/20210616065053/https://www1.folha.uol.com.br/poder/2021/06/huck-descarta-candidatura-a-presidencia-em-2022-e-confirma-ida-para-o-lugar-de-faustao-na-globo.shtml |url-status=live }}</ref>
 |-
 |[https://ndmais.com.br/politica-brasileira/eleicoes-2022-pesquisa-dos-grupos-nd-e-ric-aponta-lula-a-frente-de-bolsonaro/?utm_source=whatsapp&utm_campaign=wp-itajai&utm_medium=wp-grupos ''Instituto Mapa'']
 |18–20 May
@@ -1197,7 +1664,7 @@ The first round is scheduled to take place on 2 October 2022.<ref name="dates">{
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;" {{opdrts||8|Mar|2021}}
-| colspan="13" align="center" style="font-weight:bold;" |[[Luiz Inácio Lula da Silva|Lula]]'s corruption charges annulled; political rights restored.<ref>{{cite news |last= |first= |date=8 March 2021 |title=Judge opens door for Lula da Silva to run in Brazil in 2022 |url=https://www.aljazeera.com/news/2021/3/8/judge-opens-door-for-lula-da-silva-to-run-in-brazil-in-2022 |work=[[Al Jazeera English]] |location= |access-date=9 March 2021}}</ref>
+| colspan="13" align="center" style="font-weight:bold;" |[[Luiz Inácio Lula da Silva|Lula]]'s corruption charges annulled; political rights restored.<ref>{{cite news |last= |first= |date=8 March 2021 |title=Judge opens door for Lula da Silva to run in Brazil in 2022 |url=https://www.aljazeera.com/news/2021/3/8/judge-opens-door-for-lula-da-silva-to-run-in-brazil-in-2022 |work=[[Al Jazeera English]] |location= |access-date=9 March 2021 |archive-date=9 March 2021 |archive-url=https://web.archive.org/web/20210309002344/https://www.aljazeera.com/news/2021/3/8/judge-opens-door-for-lula-da-silva-to-run-in-brazil-in-2022 |url-status=live }}</ref>
 |-
 | rowspan="5" |[http://www.paranapesquisas.com.br/wp-content/uploads/2021/03/M%C3%ADdiaBR_Mar21.pdf ''Paraná Pesquisas'']
 | rowspan="5" |28 Feb−1 Mar

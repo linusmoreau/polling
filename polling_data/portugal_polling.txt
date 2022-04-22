@@ -3,20 +3,22 @@
 
 Poll results are listed in the table below in reverse chronological order, showing the most recent first. The highest percentage figure in each polling survey is displayed in bold, and the background shaded in the leading party's colour. In the instance that there is a tie, then no figure is shaded but both are displayed in bold. The lead column on the right shows the percentage-point difference between the two parties with the highest figures. Poll results use the date the survey's fieldwork was done, as opposed to the date of publication.
 
+{{legend2|#EAFFEA|Exit poll|border=1px solid #AAAAAA}}
+
 {| class="wikitable sortable mw-datatable" style="text-align:center;font-size:95%;line-height:16px;"
 |- style="height:42px; background-color:#E9E9E9"
 ! style="width:145px;" rowspan="2"| Polling firm/Link
 ! style="width:145px;" rowspan="2"| Fieldwork date
 ! class="unsortable" style="width:50px;" rowspan="2"| Sample size
 ! class="unsortable" style="width:45px;" rowspan="2"| Turnout
-! class="sortable" style="width:35px;"| [[File:PS Logo (Text version).png|32x32px]]
-! class="sortable" style="width:35px;"| [[File:Partido Social Democrata Logo.svg|32x32px|link=Social Democratic Party (Portugal)|PSD]]
+! class="sortable" style="width:43px;"| [[File:Letras PS (Portugal).png|25px|link=Socialist Party (Portugal)|PS]]
+! class="sortable" style="width:43px;"| [[File:PSD Logo Simples.png|25px|link=Social Democratic Party (Portugal)|PSD]]
 ! class="sortable" style="width:35px;"| [[File:LeftBloc.svg|25px|link=Left Bloc (Portugal)|BE]]
 ! class="sortable" style="width:35px;"| [[File:Logo of the Unitary Democratic Coalition.svg|31px|link=Unitary Democratic Coalition|CDU]]
 ! class="sortable" style="width:35px;"| [[File:Cds simbolo 2.png|25px|link=CDS – People's Party|CDS–PP]]
 ! class="sortable" style="width:35px;"| [[File:Logo Pessoas-Animais-Natureza (text only).png|30px|link=People–Animals–Nature|PAN]]
 ! class="sortable" style="width:35px;"| [[File:Logo Chega!.png|33px|link=Chega (political party)|CH]]
-! class="sortable" style="width:35px;"| [[File:Iniciativa Liberal logo 1.png|33px|link=Liberal Initiative (Portugal)|IL]]
+! class="sortable" style="width:35px;"| [[File:Iniciativa Liberal Icon.png|30x30px|link=Liberal Initiative (Portugal)|IL]]
 ! class="sortable" style="width:35px;"| [[File:Partido_LIVRE_logo.png|25px|link=LIVRE|L]]
 ! class="unsortable" style="width:35px;" rowspan="2"| {{abbr|O|Others}}
 ! class="unsortable" style="width:30px;" rowspan="2"| Lead
@@ -31,8 +33,332 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! class="sortable" style="background:#00ADEF;"|
 ! class="sortable" style="background:{{party color|LIVRE}};"|
 |-
+| colspan="15" style="background:#A0A0A0"|
+|- style="background:#EFEFEF"
+|'''[[2022 Portuguese legislative election|2022 legislative election]]'''
+| 30 Jan 2022
+| {{N/A}}
+| 51.5
+| {{Party shading/PS}}| '''41.4'''<br>{{font|size=75%|font=Verdana|text=120}}
+| 29.1<br>{{font|size=75%|font=Verdana|text=77}}
+| 4.4<br>{{font|size=75%|font=Verdana|text=5}}
+| 4.3<br>{{font|size=75%|font=Verdana|text=6}}
+| 1.6<br>{{font|size=75%|font=Verdana|text=0}}
+| 1.6<br>{{font|size=75%|font=Verdana|text=1}}
+| 7.2<br>{{font|size=75%|font=Verdana|text=12}}
+| 4.9<br>{{font|size=75%|font=Verdana|text=8}}
+| 1.3<br>{{font|size=75%|font=Verdana|text=1}}
+| 4.2<br>{{font|size=75%|font=Verdana|text=0}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"| '''12.3'''
+|-
+| colspan="15" style="background:#A0A0A0"|
+|- style="background:#EAFFEA"
+| [https://www.rtp.pt/noticias/politica/projecao-da-vitoria-ao-ps-com-37-a-42-dos-votos_v1380797 UCP–CESOP]
+| 30 Jan 2022
+|?
+| 46–51
+| {{Party shading/PS}}| '''37–42'''<br/>{{font|size=75%|font=Verdana|text=102/116}}
+| 30–35<br/>{{font|size=75%|font=Verdana|text=84/94}}
+| 3–6<br/>{{font|size=75%|font=Verdana|text=3/7}}
+| 3–5<br/>{{font|size=75%|font=Verdana|text=3/7}}
+| 1–3<br/>{{font|size=75%|font=Verdana|text=0/2}}
+| 1–3<br/>{{font|size=75%|font=Verdana|text=0/2}}
+| 5–8<br/>{{font|size=75%|font=Verdana|text=7/13}}
+| 4–7<br/>{{font|size=75%|font=Verdana|text=5/9}}
+| 1–3<br/>{{font|size=75%|font=Verdana|text=1/2}}
+| 
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"| 7
+|- style="background:#EAFFEA"
+| [https://sicnoticias.pt/eleicoes-legislativas/projecao-legislativas-ps-vence-chega-e-il-disputam-terceiro-lugar/ ICS/ISCTE–GFK/Metris]
+| 30 Jan 2022
+| 18,361
+| 51–55
+| {{Party shading/PS}}| '''37.4–<br/>41.4'''<br/>{{font|size=75%|font=Verdana|text=106/118}}
+| 26.9–<br/>30.9<br/>{{font|size=75%|font=Verdana|text=75/85}}
+| 3.0–<br/>6.0<br/>{{font|size=75%|font=Verdana|text=4/10}}
+| 3.0–<br/>6.0<br/>{{font|size=75%|font=Verdana|text=3/9}}
+| 0.6–<br/>2.6<br/>{{font|size=75%|font=Verdana|text=1/3}}
+| 0.5–<br/>3.1<br/>{{font|size=75%|font=Verdana|text=1/3}}
+| 5.0–<br/>8.0<br/>{{font|size=75%|font=Verdana|text=8/14}}
+| 4.7–<br/>7.7<br/>{{font|size=75%|font=Verdana|text=9/15}}
+| 0.4–<br/>2.4<br/>{{font|size=75%|font=Verdana|text=1/2}}
+| 3.5–<br/>6.5<br/>{{font|size=75%|font=Verdana|text=0}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"| 10.5
+|- style="background:#EAFFEA"
+| [https://www.cm-tv.pt/atualidade/detalhe/costa-derrota-rio-e-vence-legislativas?ref=Atualidade_DestaquesPrincipais Intercampus]
+| 30 Jan 2022
+| 23,848
+|?
+| {{Party shading/PS}}| '''36.6–<br/>42.6'''<br/>{{font|size=75%|font=Verdana|text=108/120}}
+| 26.7–<br/>32.7<br/>{{font|size=75%|font=Verdana|text=77/89}}
+| 2.4–<br/>6.4<br/>{{font|size=75%|font=Verdana|text=4/10}}
+| 2.5–<br/>6.5<br/>{{font|size=75%|font=Verdana|text=3/9}}
+| 0.1–<br/>3.6<br/>{{font|size=75%|font=Verdana|text=0/3}}
+| 0.2–<br/>3.7<br/>{{font|size=75%|font=Verdana|text=0/4}}
+| 3.8–<br/>7.8<br/>{{font|size=75%|font=Verdana|text=6/12}}
+| 3.5–<br/>7.5<br/>{{font|size=75%|font=Verdana|text=6/12}}
+| 0.2–<br/>2.6<br/>{{font|size=75%|font=Verdana|text=0/2}}
+| 
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"| 10.0
+|- style="background:#EAFFEA"
+| [https://cnnportugal.iol.pt/legislativas/noite-eleitoral/sondagem-costa-ganha-eleicoes Pitagórica]
+| 30 Jan 2022
+|?
+| 56–60
+| {{Party shading/PS}}| '''37.5–<br/>42.5'''<br/>{{font|size=75%|font=Verdana|text=100/117}}
+| 26.7–<br/>31.7<br/>{{font|size=75%|font=Verdana|text=75/95}}
+| 3.0–<br/>7.0<br/>{{font|size=75%|font=Verdana|text=4/8}}
+| 2.5–<br/>6.5<br/>{{font|size=75%|font=Verdana|text=4/8}}
+| 0.9–<br/>2.9<br/>{{font|size=75%|font=Verdana|text=1/2}}
+| 0.8–<br/>2.8<br/>{{font|size=75%|font=Verdana|text=1/2}}
+| 4.5–<br/>8.5<br/>{{font|size=75%|font=Verdana|text=6/13}}
+| 4.5–<br/>8.5<br/>{{font|size=75%|font=Verdana|text=7/11}}
+| 0.7–<br/>3.7<br/>{{font|size=75%|font=Verdana|text=0/1}}
+| 
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"| 10.8
+|-
+| [https://cnnportugal.iol.pt/legislativas/tracking-poll-psd-aproxima-se-do-ps-cdu-be-chega-e-il-separados-por-poucas-decimas/20220128/61f45cbd0cf21847f0a7de5d Pitagórica]{{efn|name=Tracking Poll}}
+| 24–28 Jan 2022
+| 760
+|?
+| {{Party shading/PS}} |'''36.6'''<br/>{{font|size=75%|font=Verdana|text=98/113}}
+| 32.9<br/>{{font|size=75%|font=Verdana|text=82/100}}
+| 5.1<br/>{{font|size=75%|font=Verdana|text=5/13}}
+| 5.2<br/>{{font|size=75%|font=Verdana|text=5/14}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=1/5}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=1/2}}
+| 5.4<br/>{{font|size=75%|font=Verdana|text=2/8}}
+| 5.2<br/>{{font|size=75%|font=Verdana|text=2/5}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=1/3}}
+| 5.4<br/>
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|3.7
+|-
+|[https://cnnportugal.iol.pt/legislativas/eleicoes/tracking-poll-psd-diminui-distancia-para-o-ps-e-pela-primeira-vez-o-chega-nao-e-3-nem-4/20220127/61f2f9d10cf2cc58e7df9af3 Pitagórica]{{efn|name=Tracking Poll}}
+| 23–26 Jan 2022
+| 608
+|?
+| {{Party shading/PS}} |'''36.7'''
+| 31.3
+| 6.1
+| 5.7
+| 2.1
+| 1.0
+| 5.1
+| 4.3
+| 1.8
+| 6.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|5.4
+|-
+|[https://www.rtp.pt/noticias/eleicoes-legislativas-2022/sondagem-da-universidade-catolica-ps-cai-mas-segura-maioria-de-36-face-a-psd-estacionado-nos-33_n1380060 CESOP–UCP]
+| 19–26 Jan 2022
+| 2,192
+|?
+| {{Party shading/PS}} |'''36'''<br/>{{font|size=75%|font=Verdana|text=95/105}}
+| 33<br/>{{font|size=75%|font=Verdana|text=89/99}}
+| 6<br/>{{font|size=75%|font=Verdana|text=6/13}}
+| 5<br/>{{font|size=75%|font=Verdana|text=4/10}}
+| 2<br/>{{font|size=75%|font=Verdana|text=0/2}}
+| 2<br/>{{font|size=75%|font=Verdana|text=1/2}}
+| 6<br/>{{font|size=75%|font=Verdana|text=7/9}}
+| 6<br/>{{font|size=75%|font=Verdana|text=5/10}}
+| 2<br/>{{font|size=75%|font=Verdana|text=1/2}}
+| 2<br/>{{font|size=75%|font=Verdana|text=0}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|3
+|-
+|[https://cnnportugal.iol.pt/legislativas/eleicoes/tracking-poll-aumenta-a-distancia-entre-costa-e-rio-ha-novo-empate-no-3-lugar-e-boas-noticias-para-o-cds/20220126/61f1a9110cf21847f0a778eb Pitagórica]{{efn|name=Tracking Poll}}
+| 22–25 Jan 2022
+| 608
+|?
+| {{Party shading/PS}} |'''36.6'''
+| 30.9
+| 6.7
+| 4.2
+| 1.8
+| 1.0
+| 6.7
+| 3.8
+| 1.6
+| 6.7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|5.7
+|-
+|[https://cnnportugal.iol.pt/legislativas/eleicoes/tracking-poll-ps-aumenta-vantagem-para-o-psd-chega-sobe-il-volta-a-descer/20220125/61f058900cf21a10a41ba630 Pitagórica]{{efn|name=Tracking Poll}}
+| 21–24 Jan 2022
+| 608
+|?
+| {{Party shading/PS}} |'''36.7'''
+| 31.4
+| 5.7
+| 4.3
+| 1.4
+| 1.8
+| 7.5
+| 3.2
+| 1.0
+| 6.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|5.3
+|-
+|[https://sicnoticias.pt/eleicoes-legislativas/sondagem-sic-expresso-empate-tecnico-entre-ps-e-psd/ ICS/ISCTE]
+| 18–24 Jan 2022
+| 1,003
+|?
+| {{Party shading/PS}} |'''35'''<br/>{{font|size=75%|font=Verdana|text=92/106}}
+| 33<br/>{{font|size=75%|font=Verdana|text=87/101}}
+| 5<br/>{{font|size=75%|font=Verdana|text=4/10}}
+| 6<br/>{{font|size=75%|font=Verdana|text=6/12}}
+| 1<br/>{{font|size=75%|font=Verdana|text=0/1}}
+| 2<br/>{{font|size=75%|font=Verdana|text=1/3}}
+| 6<br/>{{font|size=75%|font=Verdana|text=6/12}}
+| 6<br/>{{font|size=75%|font=Verdana|text=7/13}}
+| 1<br/>{{font|size=75%|font=Verdana|text=1}}
+| 5<br/>{{font|size=75%|font=Verdana|text=0}}
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|2
+|-
+|[https://cnnportugal.iol.pt/legislativas/eleicoes/tracking-poll-ps-sobe-e-afasta-se-do-psd-cds-anima-e-il-perde-folego/20220124/61eef1ba0cf21847f0a70e7b Pitagórica]{{efn|name=Tracking Poll}}
+| 20–23 Jan 2022
+| 608
+|?
+| {{Party shading/PS}} |'''35.3'''
+| 31.4
+| 6.1
+| 4.9
+| 1.6
+| 1.6
+| 6.9
+| 4.7
+| 0.8
+| 6.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|3.9
+|-
+|[https://cnnportugal.iol.pt/antonio-costa/rui-rio/tracking-poll-psd-desce-e-ps-regressa-ao-topo-cdu-il-e-be-separados-por-decimas-cds-em-dificuldade/20220123/61ed915e0cf21a10a41b38f9 Pitagórica]{{efn|name=Tracking Poll}}
+| 19–22 Jan 2022
+| 608
+|?
+| {{Party shading/PS}} |'''34.1'''
+| 33.5
+| 5.5
+| 5.1
+| 0.8
+| 1.6
+| 6.6
+| 5.3
+| 1.2
+| 6.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|0.6
+|-
+|[https://cnnportugal.iol.pt/sondagem/rui-rio/tracking-poll-psd-ultrapassa-ps-chega-be-e-il-muito-proximos/20220122/61ec5fff0cf2c7ea0f14bde4 Pitagórica]{{efn|name=Tracking Poll}}
+| 18–21 Jan 2022
+| 608
+|?
+| 33.5
+| {{Party shading/PSD}} |'''34.5'''
+| 5.7
+| 4.7
+| 0.8
+| 1.6
+| 6.5
+| 5.7
+| 1.2
+| 5.9
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;"|1.0
+|-
+|[https://www.tsf.pt/portugal/politica/pela-primeira-vez-psd-ultrapassa-ps-chega-em-terceiro-e-livre-no-radar-14523180.html Aximage]
+| 16–21 Jan 2022
+| 965
+|?
+| 33.8
+| {{Party shading/PSD}} |'''34.4'''
+| 6.6
+| 4.5
+| 1.6
+| 3.2
+| 8.0
+| 2.8
+| 1.4
+| 3.7
+| style="background:{{party color|Social Democratic Party (Portugal)}}; color:white;"|0.6
+|-
+|[https://cnnportugal.iol.pt/sondagem/rui-rio/tracking-poll-ps-e-psd-taco-a-taco-mas-um-sobe-e-outro-desce-ha-um-novo-candidato-a-terceira-forca-politica-e-nao-e-o-be-nem-a-cdu/20220121/61eafcb90cf2c7ea0f148a02 Pitagórica]{{efn|name=Tracking Poll}}
+| 17–20 Jan 2022
+| 608
+|?
+| {{Party shading/PS}} |'''34.6'''
+| 33.5
+| 4.9
+| 4.5
+| 1.2
+| 1.6
+| 6.3
+| 6.3
+| 1.6
+| 5.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|1.1
+|-
+|[https://cnnportugal.iol.pt/sondagem/iniciativa-liberal/tracking-poll-ps-e-psd-em-empate-tecnico-boas-noticias-para-a-il-mas-para-o-chega-be-e-pcp/20220120/61e9a4c30cf21a10a41ab45d Pitagórica]{{efn|name=Tracking Poll}}
+| 16–19 Jan 2022
+| 608
+|?
+| {{Party shading/PS}} |'''36.5'''
+| 32.9
+| 5.0
+| 5.0
+| 1.0
+| 1.9
+| 6.3
+| 5.2
+| 1.5
+| 4.7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|3.6
+|-
+|[https://cnnportugal.iol.pt/geral/tracking-poll-costa-e-rio-mais-proximos-do-que-nunca-chega-cai-cdu-be-il-continuam-proximos-entre-si/20270119/61e847800cf21a10a41a7db6 Pitagórica]{{efn|name=Tracking Poll}}
+| 15–18 Jan 2022
+| 608
+|?
+| {{Party shading/PS}} |'''38.7'''
+| 30.4
+| 5.1
+| 5.3
+| 1.1
+| 1.7
+| 7.2
+| 4.7
+| 1.1
+| 4.7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|8.3
+|-
+|[https://www.rtp.pt/noticias/eleicoes-legislativas-2022/sondagem-ps-mantem-maioria-com-psd-a-encurtar-distancias-mas-costa-e-o-preferido-para-liderar_n1378312 CESOP–UCP]
+|12–18 Jan 2022
+|1,456
+|?
+| {{Party shading/PS}} |'''37'''<br/>{{font|size=75%|font=Verdana|text=99/110}}
+|33<br/>{{font|size=75%|font=Verdana|text=89/100}}
+|5<br/>{{font|size=75%|font=Verdana|text=5/8}}
+|5<br/>{{font|size=75%|font=Verdana|text=5/9}}
+|2<br/>{{font|size=75%|font=Verdana|text=0/2}}
+|2<br/>{{font|size=75%|font=Verdana|text=1/2}}
+|6<br/>{{font|size=75%|font=Verdana|text=7/9}}
+|5<br/>{{font|size=75%|font=Verdana|text=4/6}}
+|2<br/>{{font|size=75%|font=Verdana|text=1/2}}
+|3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|4
+|-
+|[https://cnnportugal.iol.pt/rui-rio/antonio-costa/tracking-poll-a-primeira-amostra-pos-debate-rio-vs-costa-psd-tem-a-maior-subida-ate-agora-ps-cai-mas-pouquinho/20220118/61e707b30cf2c7ea0f13edc4 Pitagórica]{{efn|name=Tracking Poll}}
+| 14–17 Jan 2022
+| 608
+|?
+| {{Party shading/PS}} |'''39.8'''
+| 30.4
+| 4.5
+| 5.8
+| 1.3
+| 1.7
+| 7.5
+| 4.3
+| 1.5
+| 3.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|9.4
+|-
 |[https://cnnportugal.iol.pt/sondagem/legislativas/tracking-poll-rio-continua-a-descer-jeronimo-de-sousa-recupera-e-costa-mantem-subida/20220128/61e5ad1a0cf21847f0a5ae89 Pitagórica]{{efn|name=Tracking Poll}}
-| data-sort-value="2019-10-03" | 13–16 Jan 2022
+| 13–16 Jan 2022
 | 608
 |?
 | {{Party shading/PS}} |'''40.1'''
@@ -45,10 +371,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5.0
 | 1.3
 | 2.9
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |11.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|11.3
 |-
 |[https://cnnportugal.iol.pt/eleicoes-legislativas/sondagem/tracking-poll-ps-e-chega-a-subir-cds-abaixo-de-1/20301124/61e467760cf21a10a419e3a6 Pitagórica]{{efn|name=Tracking Poll}}
-| data-sort-value="2019-10-03" | 12–15 Jan 2022
+| 12–15 Jan 2022
 | 608
 |?
 | {{Party shading/PS}} |'''39.6'''
@@ -61,10 +387,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 4.7
 | 1.5
 | 2.8
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10.0
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|10.0
 |-
 |[https://cnnportugal.iol.pt/sondagem/pitagorica/tracking-poll-ps-segue-na-lideranca-livre-ultrapassa-cds-pp/20220115/61e3113c0cf21a10a419bdda Pitagórica]{{efn|name=Tracking Poll}}
-| data-sort-value="2019-10-03" | 11–14 Jan 2022
+| 11–14 Jan 2022
 | 608
 |?
 | {{Party shading/PS}} |'''38.8'''
@@ -77,10 +403,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 4.9
 | 1.5
 | 3.1
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |9.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|9.5
 |-
 |[https://cnnportugal.iol.pt/legislativas/sondagem/tracking-poll-ps-lidera-com-maioria-chega-e-a-terceira-forca-mais-votada/20220131/61e1d8aa0cf2c7ea0f1330bc Pitagórica]{{efn|name=Tracking Poll}}
-| data-sort-value="2019-10-03" | 10–13 Jan 2022
+| 10–13 Jan 2022
 | 608
 |?
 | {{Party shading/PS}} |'''38.9'''
@@ -93,10 +419,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5.4
 | 1.2
 | 3.3
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |9.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|9.2
 |-
 |[https://www.jn.pt/nacional/infografias/a-intencao-de-voto-dos-portugueses-a-duas-semanas-das-eleicoes-legislativas-14496020.html Aximage]
-|6–12 Jan 2021
+|6–12 Jan 2022
 |807
 |?
 |{{Party shading/PS}} |'''38.1'''
@@ -109,7 +435,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |3.7
 | –
 |4.6
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |9.6
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|9.6
 |-
 |[https://www.rtp.pt/noticias/politica/legislativas-2022-sondagem-da-catolica-aponta-para-socialistas-a-frente-com-39-dos-votos_n1376526 CESOP–UCP]
 |6–10 Jan 2022
@@ -125,10 +451,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |4<br/>{{font|size=75%|font=Verdana|text=3/7}}
 |2<br/>{{font|size=75%|font=Verdana|text=1}}
 |3
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|9
 |-
 |[https://www.jornaldenegocios.pt/economia/politica/eleicoes/eleicoes-legislativas-2022/detalhe/ps-a-frente-do-psd-mas-indecisos-podem-baralhar-resultado-aquece-luta-pelo-terceiro-lugar Intercampus]{{efn|name=Intercampus2}}
-| data-sort-value="2019-10-03" | 4–10 Jan 2022
+| 4–10 Jan 2022
 | 615
 |?
 | {{Party shading/PS}} |'''35.3'''
@@ -141,10 +467,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5.6
 | 0.6
 | 2.2
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |6.0
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|6.0
 |-
 |[https://cnnportugal.iol.pt/pitagorica/legislativas/sondagem-tvi-cnn-portugal-costa-aumenta-distancia-para-rio-mas-falha-maioria-absoluta-be-a-frente-do-chega/20220112/61df1c7f0cf2cc58e7dcb823 Pitagórica]
-| data-sort-value="2019-10-03" | 30 Dec 2021–9 Jan 2022
+| 30 Dec 2021–9 Jan 2022
 | 600
 |?
 | {{Party shading/PS}} |'''39.6'''
@@ -157,10 +483,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5.1
 | –
 | 4.8
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |9.6
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|9.6
 |-
 |[https://www.rtp.pt/noticias/eleicoes-legislativas-2022/legislativas-2022-sondagem-aponta-para-vitoria-socialista-com-38-dos-votos_n1375305 CESOP–UCP]
-| data-sort-value="2019-10-03" | 28 Dec 2021–5 Jan 2022
+| 28 Dec 2021–5 Jan 2022
 | 1,238
 |?
 | {{Party shading/PS}} |'''38'''
@@ -173,10 +499,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5
 | 1
 | 3
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |6
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|6
 |-
 |[https://sicnoticias.pt/especiais/eleicoes-legislativas/2021-12-29-Sondagem-SIC-Expresso-PS-vence-eleicoes-com-38-mas-reduz-vantagem-sobre-o-PSD-b7690e29 ICS/ISCTE]
-| data-sort-value="2019-10-03" | 10–20 Dec 2021
+| 10–20 Dec 2021
 | 901
 |?
 | {{Party shading/PS}} |'''38'''
@@ -189,10 +515,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 4
 | –
 | 5
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|7
 |-
 |[https://www.cmjornal.pt/multimedia/infograficos/detalhe/barometro-intercampus-intencao-de-voto-agora-e-comparacao-com-os-resultados-de-novembro?ref=Pesquisa_Destaques Intercampus]{{efn|name=Intercampus}}
-| data-sort-value="2019-10-03" | 7–14 Dec 2021
+| 7–14 Dec 2021
 | 603
 |?
 | {{Party shading/PS}} |'''35.5'''
@@ -205,7 +531,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 6.4
 | 0.8
 | 5.3
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |8.7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|8.7
 |-
 |[https://www.jn.pt/nacional/infografias/a-intencao-de-voto-dos-portugueses-a-mes-e-meio-das-eleicoes-legislativas-14421696.html Aximage]
 |9–13 Dec 2021
@@ -221,10 +547,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |3.7
 | –
 |5.3
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |2.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|2.2
 |-
 |[https://cnnportugal.iol.pt/eleicoes/legislativas/sondagem-cnn-tvi-distancia-entre-ps-e-psd-esta-agora-mais-pequena/20211217/61bcde110cf2c7ea0f0e0815 Pitagórica]
-|data-sort-value="2019-10-03" | 7–12 Dec 2021
+|7–12 Dec 2021
 |625
 |?
 | {{Party shading/PS}} |'''37.0'''
@@ -237,10 +563,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5.9
 | –
 | 4.3
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |5.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|5.3
 |-
 |[https://cnnportugal.iol.pt/eleicoes-legislativas/rui-rio/sondagem-tvi-cnn-empate-tecnico-entre-ps-e-psd-com-rio-na-lideranca/20261130/619fecca0cf2cc58e7d4e123 Pitagórica]
-|data-sort-value="2019-10-03" | 10–15 Nov 2021
+|10–15 Nov 2021
 |625
 |?
 | {{Party shading/PS}} |'''38.2'''
@@ -253,10 +579,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 4.2
 | –
 | 5.1
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |6.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|6.1
 |-
 |[https://www.cmjornal.pt/multimedia/infograficos/detalhe/sondagem-intencao-de-voto-agora-e-comparacao-com-os-resultados-de-setembro Intercampus]
-| data-sort-value="2019-10-03" | 5–11 Nov 2021
+| 5–11 Nov 2021
 | 612
 |?
 | {{Party shading/PS}} |'''39.0'''
@@ -269,10 +595,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 4.2
 | 0.2
 | 2.8
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|10.9
 |-
 |[https://www.rtp.pt/noticias/politica/cecilia-meireles-deputada-do-cds-vai-abandonar-a-vida-politica_v1361190 CESOP–UCP]
-| data-sort-value="2019-10-03" | 29 Oct–4 Nov 2021
+| 29 Oct–4 Nov 2021
 | 878
 |?
 | {{Party shading/PS}} |'''39'''
@@ -285,10 +611,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5
 | –
 | 4
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|9
 |-
 |[https://sicnoticias.pt/especiais/eleicoes-legislativas/2021-11-13-Sondagem-SIC-Expresso-PS-aumenta-vantagem-e-Chega-e-terceira-forca-politica-9cfb3e8b ICS/ISCTE]
-| data-sort-value="2019-10-03" | 21 Oct–1 Nov 2021
+| 21 Oct–1 Nov 2021
 | 800
 |?
 | {{Party shading/PS}} |'''40'''
@@ -301,7 +627,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2
 | –
 | 8
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |14
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|14
 |-
 |[https://www.tsf.pt/portugal/politica/ha-14-pontos-a-separar-ps-e-psd-na-intencao-de-voto-costa-jeronimo-e-catarina-caem-14288786.html Aximage]
 |28–31 Oct 2021
@@ -317,7 +643,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |4.7
 | –
 |6.4
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |14.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|14.1
 |-
 |[https://twitter.com/Electograph/status/1451865769164394511 Eurosondagem]
 |18–21 Oct 2021
@@ -333,11 +659,11 @@ Poll results are listed in the table below in reverse chronological order, showi
 |5.5
 | –
 |3.7
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10.6
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|10.6
 |-
-|- style="background:#EFEFEF;"
+|- style="background:#EFEFEF";"
 | '''[[2021 Portuguese local elections|2021 local elections]]'''
-| data-sort-value="2019-10-03" | 26 Sep 2021
+| 26 Sep 2021
 | {{N/A}}
 | 53.6
 | {{Party shading/PS}} |'''37.1'''
@@ -350,7 +676,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 1.3
 | 0.5
 | 10.7
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |'''5.0'''
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|'''5.0'''
 |-
 |[https://sol.sapo.pt/artigo/748143/sondagem-popularidade-de-jeronimo-de-sousa-em-queda-livre Eurosondagem]
 |20–23 Sep 2021
@@ -366,10 +692,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |5.2
 | –
 |2.1
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |14.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|14.3
 |-
 |[https://www.jornaldenegocios.pt/economia/politica/detalhe/sondagem-ps-aumenta-vantagem-para-a-o-psd Intercampus]
-| data-sort-value="2019-10-03" | 14–23 Sep 2021
+| 14–23 Sep 2021
 | 609
 |?
 | {{Party shading/PS}} |'''36.8'''
@@ -382,10 +708,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5.5
 | 0.4
 | 4.2
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|12.2
 |-
 |[https://tvi24.iol.pt/politica/26-09-2021/sondagem-legislativas-ps-a-beira-da-maioria-absoluta Pitagórica]
-| data-sort-value="2019-10-03" | 10–19 Sep 2021
+| 10–19 Sep 2021
 | 609
 |?
 | {{Party shading/PS}} |'''41.3'''
@@ -398,10 +724,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 4.7
 | 0.4
 | 5.0
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |16.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|16.2
 |-
 |[https://www.cmjornal.pt/multimedia/infograficos/detalhe/intencao-de-voto-agora-e-em-comparacao-com-julho?ref=Infogr%C3%A1ficos_DestaquesPrincipais Intercampus]
-| data-sort-value="2019-10-03" | 13–20 Aug 2021
+| 13–20 Aug 2021
 | 612
 |?
 | {{Party shading/PS}} |'''34.7'''
@@ -414,7 +740,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 6.1
 | 0.2
 | 6.8
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |9.6
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|9.6
 |-
 |[https://twitter.com/EuropeElects/status/1429107995858907140 Eurosondagem]
 |16–19 Aug 2021
@@ -430,7 +756,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |4.5
 | –
 |1.7
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |14.0
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|14.0
 |-
 |[https://sol.sapo.pt/artigo/742536/sondagem-chega-baixa-pela-primeira-vez-desde-as-legislativas Eurosondagem]
 |26–29 Jul 2021
@@ -446,10 +772,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |3.3
 | –
 |4.5
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |13.8
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|13.8
 |-
 |[https://expresso.pt/politica/2021-07-21-Sondagem-PSD-recupera-face-ao-PS-mas-pouco.-Bloco-e-Chega-disputam-o-terceiro-lugar.-Tres-quartos-dos-inquiridos-querem-remodelacao-981665e0 Intercampus]
-| data-sort-value="2019-10-03" | 7–16 Jul 2021
+| 7–16 Jul 2021
 | 607
 |?
 | {{Party shading/PS}} |'''34.8'''
@@ -462,7 +788,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 3.1
 | 0.6
 | 6.1
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |11.4
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|11.4
 |-
 |[https://www.jn.pt/nacional/infografias/a-intencao-de-voto-para-as-legislativas-e-a-avaliacao-dos-lideres-partidarios-13952048.html Aximage]
 |10–12 Jul 2021
@@ -478,7 +804,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |5.5
 | –
 |5.9
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12.4
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|12.4
 |-
 |[https://sol.sapo.pt/artigo/740324/sondagem-ps-mais-primeiro-e-chega-destaca-se-em-terceiro Eurosondagem]
 |5–8 Jul 2021
@@ -494,10 +820,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |2.5
 | –
 |5.7
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |13.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|13.5
 |-
 |[https://expresso.pt/politica/2021-06-21-Sondagem-legislativas.-PS-na-frente-mas-com-pior-resultado-desde-marco-de-2020-Chega-esta-no-3.-lugar-com-10-d170d338 Intercampus]
-| data-sort-value="2019-10-03" | 8–16 Jun 2021
+| 8–16 Jun 2021
 | 608
 |?
 | {{Party shading/PS}} |'''34.6'''
@@ -510,7 +836,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 6.4
 | 0.6
 | 2.7
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|12.2
 |-
 |[https://www.publico.pt/2021/06/05/politica/noticia/eurosondagem-40-ps-chega-3-lugar-1965404 Eurosondagem]
 |31 May–3 Jun 2021
@@ -526,7 +852,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |2.7
 | –
 |6.5
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12.8
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|12.8
 |-
 |[https://www.jn.pt/nacional/infografias/a-intencao-de-voto-nas-legislativas-13808233.html Aximage]
 |26–30 May 2021
@@ -542,7 +868,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |5.2
 |0.3
 |5.8
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |14.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|14.9
 |-
 |[https://sol.sapo.pt/artigo/734858/sondagem-chega-continua-sempre-a-subir-desde-as-legislativas Eurosondagem]
 |10–13 May 2021
@@ -558,10 +884,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |2.2
 | –
 |6.5
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12.0
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|12.0
 |-
 |[https://expresso.pt/politica/2021-05-17-Sondagem-PSD-atinge-valor-mais-baixo-desde-as-legislativas-de-2019-Cabrita-e-considerado-o-pior-ministro-do-Governo-cb62cfae Intercampus]
-| data-sort-value="2019-10-03" | 5–11 May 2021
+| 5–11 May 2021
 | 611
 |?
 | {{Party shading/PS}} |'''37.9'''
@@ -574,10 +900,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 4.2
 | 1.3
 | 5.1
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |16.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|16.2
 |-
 |[https://www.rtp.pt/noticias/politica/legislativas-se-eleicoes-fossem-hoje-venceria-o-partido-socialista_v1319558 CESOP–UCP]
-| data-sort-value="2019-10-03" | 3–7 May 2021
+| 3–7 May 2021
 | 1,123
 |?
 | {{Party shading/PS}} |'''38'''
@@ -590,7 +916,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5
 | –
 | 4
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|10
 |-
 |[https://www.erc.pt/download/YToyOntzOjg6ImZpY2hlaXJvIjtzOjQxOiJtZWRpYS9zb25kYWdlbnMvb2JqZWN0b19vZmZsaW5lLzk5OS40LnBkZiI7czo2OiJ0aXR1bG8iO3M6Mjc6ImJhcm9tZXRyby1hYnIyMS1qbi10c2YtZG4tMyI7fQ==/barometro-abr21-jn-tsf-dn-3 Aximage]
 |22–25 Apr 2021
@@ -606,10 +932,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |4.9
 |0.8
 |4.8
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|12.1
 |-
 |[https://eco.sapo.pt/2021/04/19/bloco-central-baixa-nas-intencoes-de-voto-e-da-espaco-aos-extremos/ Intercampus]
-| data-sort-value="2019-10-03" | 7–13 Apr 2021
+| 7–13 Apr 2021
 | 609
 |?
 | {{Party shading/PS}} |'''36.2'''
@@ -622,10 +948,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5.0
 | 0.4
 | 3.2
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|12.9
 |-
 |[https://sicnoticias.pt/pais/2021-04-22-PS-desce-e-PSD-sobe-nas-sondagens-mas-Direita-nao-chega-aos-40-afc6f4a5 ICS/ISCTE]
-| data-sort-value="2019-10-03" | 5–13 Apr 2021
+| 5–13 Apr 2021
 | 802
 |?
 | {{Party shading/PS}} |'''37'''
@@ -638,7 +964,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 1
 | –
 | 8
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |8
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|8
 |-
 |[https://sol.sapo.pt/artigo/731042/sondagem-portugueses-nao-querem-mudar-dia-de-eleicoes Eurosondagem]
 |5–8 Apr 2021
@@ -654,7 +980,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |2.5
 | –
 |6.9
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |11.8
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|11.8
 |-
 |[https://www.erc.pt/download/YToyOntzOjg6ImZpY2hlaXJvIjtzOjQxOiJtZWRpYS9zb25kYWdlbnMvb2JqZWN0b19vZmZsaW5lLzk4OC40LnBkZiI7czo2OiJ0aXR1bG8iO3M6Mjc6ImJhcm9tZXRyby1tYXIyMS1qbi10c2YtZG4tMyI7fQ==/barometro-mar21-jn-tsf-dn-3 Aximage]
 |24–27 Mar 2021
@@ -670,10 +996,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |4.8
 |0.8
 |3.6
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |16.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|16.1
 |-
 |[https://expresso.pt/politica/2021-03-17-Sondagem.-PSD-volta-a-cair-e-Chega-ultrapassa-Bloco-bcaaa746 Intercampus]
-| data-sort-value="2019-10-03" | 4–10 Mar 2021
+| 4–10 Mar 2021
 | 615
 |?
 | {{Party shading/PS}} |'''37.6'''
@@ -686,7 +1012,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5.3
 | 0.7
 | 5.2
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |14.0
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|14.0
 |-
 |[https://sol.sapo.pt/artigo/727122/sondagem-chega-volta-a-subir-e-ps-no-limiar-da-maioria-absoluta Eurosondagem]
 |1–4 Mar 2021
@@ -702,7 +1028,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |2.1
 | –
 |6.5
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |11.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|11.3
 |-
 |[https://www.erc.pt/download/YToyOntzOjg6ImZpY2hlaXJvIjtzOjQxOiJtZWRpYS9zb25kYWdlbnMvb2JqZWN0b19vZmZsaW5lLzk4My4zLnBkZiI7czo2OiJ0aXR1bG8iO3M6Mjc6ImJhcm9tZXRyby1mZXYyMS1qbi10c2YtZG4tMiI7fQ==/barometro-fev21-jn-tsf-dn-2 Aximage]
 |17–20 Feb 2021
@@ -718,10 +1044,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |5.7
 |1.3
 |4.1
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |11.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|11.1
 |-
 |[https://www.cmjornal.pt/politica/detalhe/liberais-travam-subida-do-chega?ref=HP_OutrasNoticias1 Intercampus]
-| data-sort-value="2019-10-03" | 8–13 Feb 2021
+| 8–13 Feb 2021
 | 609
 |?
 | {{Party shading/PS}} |'''37.6'''
@@ -734,7 +1060,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5.6
 | 0.7
 | 4.3
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|12.9
 |-
 |[https://24.sapo.pt/atualidade/artigos/eurosondagem-ps-com-melhor-resultado-desde-as-legislativas-e-chega-na-terceira-posicao Eurosondagem]
 |8–11 Feb 2021
@@ -750,10 +1076,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |3.0
 | –
 |7.0
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|12.1
 |-
 |[https://www.rtp.pt/noticias/politica/sondagem-ps-mantem-cenario-de-vitoria-em-legislativas_n1292200 CESOP–UCP]
-| data-sort-value="2019-10-03" | 24 Jan 2021
+| 24 Jan 2021
 | 4,637
 |?
 | {{Party shading/PS}} |'''35'''
@@ -766,7 +1092,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 7
 | 1
 | 7
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|12
 |-
 |[https://observador.pt/interativo/sondagens-eleicoes-presidenciais-2021/ Pitagórica]
 | 7–18 Jan 2021
@@ -782,7 +1108,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5.0
 | –
 | 5.4
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |16.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|16.9
 |-
 |[https://www.erc.pt/download/YToyOntzOjg6ImZpY2hlaXJvIjtzOjQxOiJtZWRpYS9zb25kYWdlbnMvb2JqZWN0b19vZmZsaW5lLzk2OC40LnBkZiI7czo2OiJ0aXR1bG8iO3M6MzA6InZvdG8tbGVnaXNsYXRpdm8tamFuMjEtYXhpbWFnZSI7fQ==/voto-legislativo-jan21-aximage Aximage]
 |9–15 Jan 2021
@@ -798,10 +1124,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |3.5
 |0.6
 |5.5
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |13.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|13.3
 |-
 |[https://www.rtp.pt/noticias/politica/sondagem-ps-garante-maioria-confortavel-e-esquerda-domina-parlamento_n1290847 CESOP–UCP]
-| data-sort-value="2019-10-03" | 11–14 Jan 2021
+| 11–14 Jan 2021
 | 2,001
 |?
 | {{Party shading/PS}} |'''39'''
@@ -814,7 +1140,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5
 | –
 | 3
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |11
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|11
 |-
 |[https://www.rtp.pt/noticias/eleicoes-presidenciais-2021/ps-atinge-melhor-resultado-desde-as-legislativas-e-chega-ultrapassa-cdu-revela-eurosondagem_n1289928 Eurosondagem]
 |11–14 Jan 2021
@@ -830,7 +1156,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1.3
 | –
 |10.1
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |11.0
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|11.0
 |-
 |[https://observador.pt/interativo/sondagens-eleicoes-presidenciais-2021/ Pitagórica]
 | 29 Dec 2020–10 Jan 2021
@@ -846,10 +1172,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 4.1
 | –
 | 5.1
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |13.4
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|13.4
 |-
 |[https://observador.pt/2021/01/12/sondagem-ps-cresceu-com-pandemia-psd-nao-faz-progressos-nas-intencoes-de-voto/ Intercampus]
-| data-sort-value="2019-10-03" | 4–7 Jan 2021
+| 4–7 Jan 2021
 | 603
 |?
 | {{Party shading/PS}} |'''38.0'''
@@ -862,10 +1188,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 3.8
 | 0.2
 | 4.1
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |13.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|13.9
 |-
 |[https://observador.pt/interativo/sondagens-eleicoes-presidenciais-2021/ Pitagórica]
-| data-sort-value="2019-10-03" | 22 Dec 2020–3 Jan 2021
+| 22 Dec 2020–3 Jan 2021
 | 629
 |?
 | {{Party shading/PS}} |'''40.9'''
@@ -878,10 +1204,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2.8
 | 0.2
 | 6.9
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |14.6
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|14.6
 |-
 |[https://observador.pt/interativo/sondagens-eleicoes-presidenciais-2021/ Pitagórica]
-| data-sort-value="2019-10-03" | 17–27 Dec 2020
+| 17–27 Dec 2020
 | 629
 |?
 | {{Party shading/PS}} |'''39.7'''
@@ -894,7 +1220,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 3.3
 | –
 | 6.2
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |11.8
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|11.8
 |-
 |[https://www.jn.pt/nacional/infografias/frente-a-frente-costa-muito-acima-de-rio-na-avaliacao-dos-portugueses-13188650.html Aximage]
 |19–22 Dec 2020
@@ -910,10 +1236,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |3.5
 |0.5
 |5.2
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |13.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|13.1
 |-
 |[https://observador.pt/interativo/sondagens-eleicoes-presidenciais-2021/ Pitagórica]
-| data-sort-value="2019-10-03" | 17–20 Dec 2020
+| 17–20 Dec 2020
 | 629
 |?
 | {{Party shading/PS}} |'''40.3'''
@@ -926,10 +1252,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2.4
 | –
 | 5.5
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |11.8
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|11.8
 |-
 |[https://www.cmjornal.pt/multimedia/infograficos/detalhe/20201221-0048-sondagem-intencao-de-voto-agora-e-comparacao-com-os-resultados-de-novembro Intercampus]
-| data-sort-value="2019-10-03" | 14–18 Dec 2020
+| 14–18 Dec 2020
 | 603
 |?
 | {{Party shading/PS}} |'''38.0'''
@@ -942,10 +1268,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 4.5
 | 0.9
 | 6.0
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |14.4
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|14.4
 |-
 |[https://observador.pt/interativo/sondagens-eleicoes-presidenciais-2021/ Pitagórica]
-| data-sort-value="2019-10-03" | 10–13 Dec 2020
+| 10–13 Dec 2020
 | 629
 |?
 | {{Party shading/PS}} |'''41.9'''
@@ -958,10 +1284,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 1.5
 | –
 | 6.0
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |15.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|15.9
 |-
 |[https://www.rtp.pt/noticias/politica/sondagem-da-catolica-ps-e-psd-separados-por-7-nas-estimativas-de-resultados-eleitorais-nas-legislativas_n1283758 CESOP–UCP]
-| data-sort-value="2019-10-03" | 4–11 Dec 2020
+| 4–11 Dec 2020
 | 1,315
 |?
 | {{Party shading/PS}} |'''37'''
@@ -974,7 +1300,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5
 | –
 | 2
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|7
 |-
 |[http://portocanal.sapo.pt/noticia/246811/ Eurosondagem]
 |7–10 Dec 2020
@@ -990,7 +1316,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1.1
 | –
 |8.5
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |9.4
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|9.4
 |-
 |[https://www.erc.pt/download/YToyOntzOjg6ImZpY2hlaXJvIjtzOjQxOiJtZWRpYS9zb25kYWdlbnMvb2JqZWN0b19vZmZsaW5lLzk1MC4yLnBkZiI7czo2OiJ0aXR1bG8iO3M6MzI6ImJhcm9tZXRyby1ub3ZlbWJyby0yMDIwLWpuLXRzZi1pIjt9/barometro-novembro-2020-jn-tsf-i Aximage]
 |23–26 Nov 2020
@@ -1006,7 +1332,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |2.2
 |0.6
 |7.4
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |13.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|13.3
 |-
 |[https://sicnoticias.pt/pais/2020-12-17-Intencoes-de-voto-dos-portugueses-PS-sobe-e-PSD-desce ICS/ISCTE]
 |11–25 Nov 2020
@@ -1022,10 +1348,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1
 | –
 |9
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |14
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|14
 |-
 |[https://expresso.pt/politica/2020-11-20-Sondagem-legislativas-alianca-com-Chega-nao-seria-suficiente-para-PSD-ultrapassar-PS-Bloco-em-queda Intercampus]
-| data-sort-value="2019-10-03" | 9–16 Nov 2020
+| 9–16 Nov 2020
 | 622
 |?
 | {{Party shading/PS}} |'''37.1'''
@@ -1038,7 +1364,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 3.3
 | 1.8
 | 4.4
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|12.9
 |-
 |[https://observador.pt/2020/11/07/covid-19-portugueses-divididos-quanto-a-obrigacao-do-uso-de-mascara-na-rua-eurosondagem/ Eurosondagem]
 |2–5 Nov 2020
@@ -1054,7 +1380,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1.0
 | –
 |7.0
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |8.6
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|8.6
 |-
 |[https://www.erc.pt/download/YToyOntzOjg6ImZpY2hlaXJvIjtzOjQxOiJtZWRpYS9zb25kYWdlbnMvb2JqZWN0b19vZmZsaW5lLzkzOS4yLnBkZiI7czo2OiJ0aXR1bG8iO3M6Mjk6ImJhcm9tZXRyby1vdXR1YnJvLTIwMjAtam4tdHNmIjt9/barometro-outubro-2020-jn-tsf Aximage]
 |22–26 Oct 2020
@@ -1070,10 +1396,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |3.2
 |0.4
 |6.4
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |8.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|8.5
 |-
 |[https://expresso.pt/politica/2020-10-19-Sondagem-Bloco-de-Esquerda-reforca-terceiro-lugar-com-negociacoes-do-Orcamento-do-Estado Intercampus]
-| data-sort-value="2019-10-03" | 6–11 Oct 2020
+| 6–11 Oct 2020
 | 618
 |?
 | {{Party shading/PS}} |'''37.5'''
@@ -1086,7 +1412,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2.4
 | 0.4
 | 3.7
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12.7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|12.7
 |-
 |[https://sol.sapo.pt/artigo/711530/portugueses-afastam-crise-politica Eurosondagem]
 |5–8 Oct 2020
@@ -1102,7 +1428,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1.3
 | –
 |7.2
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |9.8
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|9.8
 |-
 |[https://sondagens-ics-ul.iscte-iul.pt/wp-content/uploads/2020/10/Sondagem-ICS_ISCTE_Setembro2020_1aparte_final.pdf ICS/ISCTE]
 |14–24 Sep 2020
@@ -1118,7 +1444,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |2
 | –
 |6
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|10
 |-
 |[https://www.erc.pt/download/YToyOntzOjg6ImZpY2hlaXJvIjtzOjQxOiJtZWRpYS9zb25kYWdlbnMvb2JqZWN0b19vZmZsaW5lLzkzMy4yLnBkZiI7czo2OiJ0aXR1bG8iO3M6NDM6ImJhcm9tZXRyby1wb2xpdGljby1heGltYWdlLWpuLXNldDIwMjAtZmluYWwiO30=/barometro-politico-aximage-jn-set2020-final Aximage]
 |12–15 Sep 2020
@@ -1134,7 +1460,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |2.6
 |1.2
 |8.1
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |13.7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|13.7
 |-
 |[https://eco.sapo.pt/2020/09/12/eurosondagem-mais-de-80-dos-eleitores-querem-recandidatura-de-marcelo/ Eurosondagem]
 |7–10 Sep 2020
@@ -1150,10 +1476,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1.0
 | –
 |7.9
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|10.3
 |-
 |[https://www.pressreader.com/portugal/correio-da-manha/20200914/281479278832011 Intercampus]
-| data-sort-value="2019-10-03" | 4–9 Sep 2020
+| 4–9 Sep 2020
 | 614
 |?
 | {{Party shading/PS}} |'''37.4'''
@@ -1166,10 +1492,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2.1
 | 0.4
 | 5.0
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |13.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|13.1
 |-
 |[https://expresso.pt/politica/2020-08-17-Sondagem-PSD-e-Chega-aproximam-se-do-PS-mas-esquerda-segura-geringonca-na-frente Intercampus]
-| data-sort-value="2019-10-03" | 6–11 Aug 2020
+| 6–11 Aug 2020
 | 601
 |?
 | {{Party shading/PS}} |'''39.6'''
@@ -1182,10 +1508,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2.8
 | 0.0
 | 2.7
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |14.8
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|14.8
 |-
 |[https://www.rtp.pt/noticias/politica/estado-da-nacao-portugueses-dao-nota-positiva-a-marcelo-e-costa_n1246918 CESOP–UCP]
-| data-sort-value="2019-10-03" | 13–18 Jul 2020
+| 13–18 Jul 2020
 | 1,482
 |?
 | {{Party shading/PS}} |'''39'''
@@ -1198,10 +1524,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 3
 | –
 | 6
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |13
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|13
 |-
 |[https://www.cmjornal.pt/multimedia/graficos/detalhe/ps-perde-terreno-nas-intencoes-de-voto-com-reforco-nos-pequenos-partidos?ref=Pesquisa_Destaques Intercampus]
-| data-sort-value="2019-10-03" | 8–13 Jul 2020
+| 8–13 Jul 2020
 | 620
 |?
 | {{Party shading/PS}} |'''39.0'''
@@ -1214,7 +1540,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2.8
 | 0.4
 | 3.2
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |15.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|15.1
 |-
 |[https://www.erc.pt/download/YToyOntzOjg6ImZpY2hlaXJvIjtzOjQxOiJtZWRpYS9zb25kYWdlbnMvb2JqZWN0b19vZmZsaW5lLzkyNy4zLnBkZiI7czo2OiJ0aXR1bG8iO3M6NDY6ImJhcm9tZXRyby1wb2xpdGljby1heGltYWdlLWpuLWp1bGhvLTIwMjAtZmluYWwiO30=/barometro-politico-aximage-jn-julho-2020-final Aximage]
 |5–8 Jul 2020
@@ -1230,7 +1556,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |2.1
 |0.1
 |6.3
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |13.7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|13.7
 |-
 |[https://observador.pt/2020/07/04/sondagem-mais-de-70-considera-muito-importante-liga-dos-campeoes-em-portugal/ Eurosondagem]
 |29 Jun–2 Jul 2020
@@ -1246,10 +1572,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1.1
 | –
 |7.4
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |9.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|9.1
 |-
 |[https://www.pressreader.com/portugal/correio-da-manha/20200619/281612422653927 Intercampus]
-| data-sort-value="2019-10-03" | 9–13 Jun 2020
+| 9–13 Jun 2020
 | 610
 |?
 | {{Party shading/PS}} |'''40.0'''
@@ -1262,10 +1588,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 1.9
 | 0.8
 | 3.2
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |15.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|15.9
 |-
 |[https://jornaleconomico.sapo.pt/noticias/ps-no-rumo-da-maioria-absoluta-e-chega-ja-esta-a-frente-da-cdu-2-602555 Aximage]
-| data-sort-value="2019-10-03" | 5–8 Jun 2020
+| 5–8 Jun 2020
 | 605
 | 59.2
 | {{Party shading/PS}} |'''39.9'''
@@ -1278,7 +1604,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 1.4
 | 0.2
 | 9.0
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |14.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|14.1
 |-
 |[https://www.dnoticias.pt/impressa/hemeroteca/diario-de-noticias/chega-aproxima-se-da-cdu-cds-afunda-se-KK6387590 Eurosondagem]
 |1–4 Jun 2020
@@ -1294,10 +1620,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1.1
 | –
 |8.5
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |8.7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|8.7
 |-
 |[https://www.jn.pt/nacional/infografias/a-intencao-de-voto-para-as-eleicoes-legislativas-12259885.html Pitagórica]
-| data-sort-value="2019-10-03" | 16–24 May 2020
+| 16–24 May 2020
 | 802
 |?
 | {{Party shading/PS}} |'''44.8'''
@@ -1310,7 +1636,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 1.6
 | –
 | 5.1
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |20.7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|20.7
 |-
 |[http://www.erc.pt/download/YToyOntzOjg6ImZpY2hlaXJvIjtzOjQxOiJtZWRpYS9zb25kYWdlbnMvb2JqZWN0b19vZmZsaW5lLzkxNS4yLnBkZiI7czo2OiJ0aXR1bG8iO3M6MjI6ImVzdC1vcC1jaGVnYS1tYWlvLTIwMjAiO30=/est-op-chega-maio-2020 Eurosondagem]
 |17–20 May 2020
@@ -1326,10 +1652,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1.2
 | –
 |7.9
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |7.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|7.9
 |-
 |[https://www.cmjornal.pt/politica/detalhe/intencao-de-voto-no-ps-cresce-apesar-da-crise-politica-e-marcelo-mantem-se-o-favorito-dos-portugueses?ref=CmaoMinuto_DestaquesPrincipais Intercampus]
-| data-sort-value="2019-10-03" | 5–9 May 2020
+| 5–9 May 2020
 | 620
 |?
 | {{Party shading/PS}} |'''40.3'''
@@ -1342,7 +1668,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 3.2
 | 0.7
 | 3.6
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |17.0
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|17.0
 |-
 |[https://www.dnoticias.pt/impressa/hemeroteca/diario-de-noticias/ps-ao-leme-mas-psd-encurta-distancia-JH6238931 Eurosondagem]
 |4–7 May 2020
@@ -1358,10 +1684,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1.2
 | –
 |8.4
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |8.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|8.3
 |-
 |[https://www.jn.pt/nacional/infografias/a-intencao-de-voto-para-as-eleicoes-legislativas-12146989.html Pitagórica]
-| data-sort-value="2019-10-03" | 15–26 Apr 2020
+| 15–26 Apr 2020
 | 605
 |?
 | {{Party shading/PS}} |'''41.9'''
@@ -1374,10 +1700,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2.6
 | –
 | 6.2
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |18.8
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|18.8
 |-
 |[https://www.cmjornal.pt/multimedia/graficos/detalhe/saiba-qual-e-a-intencao-de-agora-face-aos-resultados-de-marco?ref=Pesquisa_Destaques Intercampus]
-| data-sort-value="2019-10-03" | 9–14 Apr 2020
+| 9–14 Apr 2020
 | 623
 |?
 | {{Party shading/PS}} |'''35.4'''
@@ -1390,7 +1716,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2.4
 | 0.7
 | 3.9
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |12.1
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|12.1
 |-
 |[https://www.dnoticias.pt/leitor/blogues/pandemia-nao-altera-preferencia-eleitoral-BF6043726 Eurosondagem]
 |29 Mar–2 Apr 2020
@@ -1406,10 +1732,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1.2
 | –
 |10.3
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|10.3
 |-
 |[https://www.jn.pt/nacional/infografias/a-intencao-de-voto-para-as-eleicoes-legislativas-11998872.html Pitagórica]
-| data-sort-value="2019-10-03" | 13–21 Mar 2020
+| 13–21 Mar 2020
 | 605
 |?
 | {{Party shading/PS}} |'''41.7'''
@@ -1422,10 +1748,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2.0
 | –
 | 3.1
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |16.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|16.5
 |-
 |[http://www.erc.pt/download/YToyOntzOjg6ImZpY2hlaXJvIjtzOjQxOiJtZWRpYS9zb25kYWdlbnMvb2JqZWN0b19vZmZsaW5lLzg5NS40LnBkZiI7czo2OiJ0aXR1bG8iO3M6NDA6ImZpY2hhLXRlY25pY2Etc29uZGFnZW0tdmFnYS03LW1hcmNvLTIwMjAiO30=/ficha-tecnica-sondagem-vaga-7-marco-2020 Intercampus]
-| data-sort-value="2019-10-03" | 13–19 Mar 2020
+| 13–19 Mar 2020
 | 611
 |?
 | {{Party shading/PS}} |'''31.4'''
@@ -1438,7 +1764,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2.3
 | 0.2
 | 5.5
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |9.5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|9.5
 |-
 |[https://www.dnoticias.pt/impressa/hemeroteca/diario-de-noticias/maioria-a-favor-da-eutanasia-mas-BG5877399 Eurosondagem]
 |1–5 Mar 2020
@@ -1454,10 +1780,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1.1
 | –
 |10.1
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |9.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|9.9
 |-
 |[http://www.erc.pt/download/YToyOntzOjg6ImZpY2hlaXJvIjtzOjQxOiJtZWRpYS9zb25kYWdlbnMvb2JqZWN0b19vZmZsaW5lLzg4OC4yLnBkZiI7czo2OiJ0aXR1bG8iO3M6MjQ6ImJhcm9tZXRyb19mZXZlcmVpcm9fMjAyMCI7fQ==/barometro_fevereiro_2020 Aximage]
-| data-sort-value="2019-10-03" | 14–18 Feb 2020
+| 14–18 Feb 2020
 | 839
 | 56.1
 | {{Party shading/PS}} |'''35.1'''
@@ -1470,10 +1796,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2.5
 | 0.7
 | 12.0
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |9.0
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|9.0
 |-
 |[https://www.cmjornal.pt/multimedia/videos/detalhe/ps-e-psd-mantem-queda-e-bloco-e-chega-sobem-nas-intencoes-de-voto?ref=Pesquisa_Destaques Intercampus]
-| data-sort-value="2019-10-03" | 11–17 Feb 2020
+| 11–17 Feb 2020
 | 614
 |?
 | {{Party shading/PS}} |'''31.1'''
@@ -1486,7 +1812,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2.9
 | 0.8
 | 6.1
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |7.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|7.3
 |-
 |[https://www.dnoticias.pt/impressa/hemeroteca/diario-de-noticias/ps-continua-a-subir-chega-tambem-FX5770351 Eurosondagem]
 |2–6 Feb 2020
@@ -1502,7 +1828,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1.1
 |0.5
 |9.9
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10.7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|10.7
 |-
 |[https://expresso.pt/dossies/diario/2020-02-14-Sondagem.-Quatro-meses-apos-as-legislativas-Chega-dispara-e-o-PS-cai ICS/ISCTE]
 |22 Jan–5 Feb 2020
@@ -1518,10 +1844,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |2
 |1
 |6
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |5
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|5
 |-
 |[https://www.jornaldenegocios.pt/economia/politica/detalhe/sondagem-ps-cai-pelo-quarto-mes-consecutivo-chega-de-andre-ventura-apanha-pcp?ref=HP_DestaquesPrincipais Intercampus]
-| data-sort-value="2019-10-03" | 19–24 Jan 2020
+| 19–24 Jan 2020
 | 619
 |?
 | {{Party shading/PS}} |'''32.8'''
@@ -1534,7 +1860,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2.3
 | 1.7
 | 5.2
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |7.0
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|7.0
 |-
 |[https://www.dnoticias.pt/impressa/hemeroteca/diario-de-noticias/orcamento-do-estado-com-aprovacao-BF5654715 Eurosondagem]
 |5–9 Jan 2020
@@ -1550,10 +1876,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1.3
 |0.6
 |8.9
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10.7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|10.7
 |-
 |[https://www.cmjornal.pt/multimedia/graficos/detalhe/sondagem-intencao-de-voto-agora-e-comparacao-com-os-resultados-de-novembro?ref=Pesquisa_Destaques Intercampus]
-| data-sort-value="2019-10-03" | 12–17 Dec 2019
+| 12–17 Dec 2019
 | 606
 |?
 | {{Party shading/PS}} |'''33.9'''
@@ -1566,7 +1892,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2.4
 | 1.1
 | 4.2
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |8.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|8.2
 |-
 |[https://www.dnoticias.pt/impressa/hemeroteca/diario-de-noticias/ps-fecha-o-ano-a-crescer-LF5564915 Eurosondagem]
 |8–12 Dec 2019
@@ -1582,10 +1908,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1.1
 |0.6
 |8.7
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10.2
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|10.2
 |-
 |[https://www.cmjornal.pt/multimedia/graficos/detalhe/sondagem-intencao-de-voto-agora-e-comparacao-com-as-ultimas-eleicoes-legislativas?ref=Pesquisa_Destaques Intercampus]
-| data-sort-value="2019-10-03" | 20–26 Nov 2019
+| 20–26 Nov 2019
 | 604
 |?
 | {{Party shading/PS}} |'''34.9'''
@@ -1598,7 +1924,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 2.9
 | 2.7
 | 3.2
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10.0
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|10.0
 |-
 |[http://portocanal.sapo.pt/noticia/202486/ Eurosondagem]
 |17–21 Nov 2019
@@ -1614,7 +1940,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 | –
 | –
 |11.7
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |9.8
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|9.8
 |-
 |[https://jornaleconomico.sapo.pt/noticias/sondagem-aximage-je-primeiro-mes-da-legislatura-reforca-peso-do-chega-ps-e-bloco-de-esquerda-516951#lg=1&slide=0 Aximage]
 |8–11 Nov 2019
@@ -1630,10 +1956,10 @@ Poll results are listed in the table below in reverse chronological order, showi
 |1.3
 |0.9
 |6.5
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10.3
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|10.3
 |-
 |[https://www.cmjornal.pt/multimedia/graficos/detalhe/intencao-de-voto-agora-e-comparacao-com-as-ultimas-eleicoes-legislativas?ref=Pesquisa_Destaques Intercampus]
-| data-sort-value="2019-10-03" | 22–28 Oct 2019
+| 22–28 Oct 2019
 | 604
 |?
 | {{Party shading/PS}} |'''35.6'''
@@ -1646,45 +1972,47 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 0.8
 | 2.7
 | 6.3
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" |10.8
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|10.8
 |-
 | colspan="15" style="background:#A0A0A0"|
-|- 
-| style="background:#EFEFEF|'''[[2019 Portuguese legislative election|2019 legislative election]]'''
-| style="background:#EFEFEF" data-sort-value="2019-10-06"| 6 Oct 2019
+|- style="background:#EFEFEF"
+|'''[[2019 Portuguese legislative election|2019 legislative election]]'''
+| 6 Oct 2019
 | {{N/A}}
-| style="background:#EFEFEF| 48.6
+| 48.6
 | {{Party shading/PS}}| '''36.3'''<br/>{{font|size=75%|font=Verdana|text=108}}
-| style="background:#EFEFEF| 27.8<br/>{{font|size=75%|font=Verdana|text=79}}
-| style="background:#EFEFEF| 9.5<br/>{{font|size=75%|font=Verdana|text=19}}
-| style="background:#EFEFEF| 6.3<br/>{{font|size=75%|font=Verdana|text=12}}
-| style="background:#EFEFEF| 4.2<br/>{{font|size=75%|font=Verdana|text=5}}
-| style="background:#EFEFEF| 3.3<br/>{{font|size=75%|font=Verdana|text=4}}
-| style="background:#EFEFEF| 1.3<br/>{{font|size=75%|font=Verdana|text=1}}
-| style="background:#EFEFEF| 1.3<br/>{{font|size=75%|font=Verdana|text=1}}
-| style="background:#EFEFEF| 1.1<br/>{{font|size=75%|font=Verdana|text=1}}
-| style="background:#EFEFEF| 8.8<br/>{{font|size=75%|font=Verdana|text=0}}
+| 27.8<br/>{{font|size=75%|font=Verdana|text=79}}
+| 9.5<br/>{{font|size=75%|font=Verdana|text=19}}
+| 6.3<br/>{{font|size=75%|font=Verdana|text=12}}
+| 4.2<br/>{{font|size=75%|font=Verdana|text=5}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=4}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| 8.8<br/>{{font|size=75%|font=Verdana|text=0}}
 | style="background:{{party color|Socialist Party (Portugal)}}; color:white;"| '''8.5'''
 |-
 | colspan="15" style="background:#A0A0A0"|
 |}
 
 ====Hypothetical scenarios====
-=====Paulo Rangel as PSD leader=====
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+<!-- = = = don't edit the line above = = = -->
+'''Paulo Rangel as PSD leader'''
 {| class="wikitable sortable mw-datatable" style="text-align:center;font-size:95%;line-height:16px;"
 |- style="height:42px; background-color:#E9E9E9"
 ! style="width:145px;" rowspan="2"| Polling firm/Link
 ! style="width:145px;" rowspan="2"| Fieldwork date
 ! class="unsortable" style="width:50px;" rowspan="2"| Sample size
 ! class="unsortable" style="width:45px;" rowspan="2"| Turnout
-! class="sortable" style="width:35px;"| [[File:PS Logo (Text version).png|32x32px]]
+! class="sortable" style="width:35px;"| [[File:Letras PS (Portugal).png|25px|link=Socialist Party (Portugal)|PS]]
 ! class="sortable" style="width:35px;"| [[File:MERCOSUL - Representação Brasileira no Parlamento do Mercosul (22371092998) (cropped).jpg|35px|link=Paulo Rangel|PSD (Paulo Rangel)]]
 ! class="sortable" style="width:35px;"| [[File:LeftBloc.svg|25px|link=Left Bloc (Portugal)|BE]]
 ! class="sortable" style="width:35px;"| [[File:Logo of the Unitary Democratic Coalition.svg|31px|link=Unitary Democratic Coalition|CDU]]
 ! class="sortable" style="width:35px;"| [[File:Cds simbolo 2.png|25px|link=CDS – People's Party|CDS–PP]]
 ! class="sortable" style="width:35px;"| [[File:Logo Pessoas-Animais-Natureza (text only).png|30px|link=People–Animals–Nature|PAN]]
 ! class="sortable" style="width:35px;"| [[File:Logo Chega!.png|33px|link=Chega (political party)|CH]]
-! class="sortable" style="width:35px;"| [[File:Iniciativa Liberal logo 1.png|33px|link=Liberal Initiative (Portugal)|IL]]
+! class="sortable" style="width:35px;"| [[File:Iniciativa Liberal Icon.png|30x30px|link=Liberal Initiative (Portugal)|IL]]
 ! class="sortable" style="width:35px;"| [[File:Partido_LIVRE_logo.png|25px|link=LIVRE|L]]
 ! class="unsortable" style="width:35px;" rowspan="2"| {{abbr|O|Others}}
 ! class="unsortable" style="width:30px;" rowspan="2"| Lead
@@ -1700,7 +2028,7 @@ Poll results are listed in the table below in reverse chronological order, showi
 ! class="sortable" style="background:{{party color|LIVRE}};"|
 |-
 | [https://cnnportugal.iol.pt/eleicoes-legislativas/rui-rio/sondagem-tvi-cnn-empate-tecnico-entre-ps-e-psd-com-rio-na-lideranca/20261130/619fecca0cf2cc58e7d4e123 Pitagórica]
-| data-sort-value="2019-10-03" | 10–15 Nov 2021
+| 10–15 Nov 2021
 | 625
 |?
 | {{Party shading/PS}} |'''39.6'''
@@ -1713,5 +2041,6 @@ Poll results are listed in the table below in reverse chronological order, showi
 | 5.1
 | –
 | 7.4
-| style="background:{{party color|Socialist Party (Portugal)}}; color:white;" | 15.7
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"| 15.7
 |}
+{{hidden end}}

@@ -36,7 +36,7 @@
 |style="background:#E9E9E9;"|4.5
 |style="background:#E9E9E9;"|1.8
 |style="background:#E9E9E9;"|3.9
-|style="background:#E9E9E9;"|?
+|style="background:#E9E9E9;"|1.4
 |style="background:#E9E9E9;"|1.7
 |style="background:#E9E9E9;" {{n/a}}
 |style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" | '''14.7'''

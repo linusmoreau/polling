@@ -35,6 +35,125 @@ Results are published that include only the answers of respondents who would vot
 !style="background:#f90311;"|
 !style="background:#e30512;"|
 |-
+|Focus{{Ref|https://tvnoviny.sk/na-telo/clanok/159377-prieskum-na-telo}}
+|30 Mar<br>–6 Apr 2022
+|1,007
+|8.1%<br>{{font|size=80%|font=Arial|text=15}}
+|15.1%<br>{{font|size=80%|font=Arial|text=28}}
+|7.5%<br>{{font|size=80%|font=Arial|text=14}}
+|4.5%<br>{{font|size=80%|font=Arial|text=0}}
+|7.3%<br>{{font|size=80%|font=Arial|text=14}}
+|10.3%<br>{{font|size=80%|font=Arial|text=19}}
+|2.5%<br>{{font|size=80%|font=Arial|text=0}}
+|6.3%<br>{{font|size=80%|font=Arial|text=12}}
+|4.4%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''19.0%'''
+|6.9%<br>{{font|size=80%|font=Arial|text=13}}
+|8.1%
+| style="background:#f90311;" | 3.9%
+|-
+|Median{{Ref|https://spravy.pravda.sk/domace/clanok/619234-priekum-median-hlas-a-smer-plece-pri-pleci-olano-sa-derie-hore/}}
+|1–3<br>Mar 2022
+|1,000
+|10.7%
+| style="background:#ff8a8a;" | '''14.1%'''
+|6.7%
+|2.3%
+|11.0%
+|13.2%
+|2.8%
+|6.8%
+|2.9%
+| style="background:#f9acb1;" | '''14.1%'''
+|7.0%
+|8.4%
+|Tie
+|-
+|Focus{{Ref|1=https://dennikn.sk/2754456/focus-volby-by-vyhral-hlas-pred-smerom-s-republikou-by-mali-v-parlamente-tesnu-vacsinu/?ref=tit}}
+|22 Feb<br>–1 Mar 2022
+|1,003
+|7.8%<br>{{font|size=80%|font=Arial|text=14}}
+|15.6%<br>{{font|size=80%|font=Arial|text=29}}
+|6.3%<br>{{font|size=80%|font=Arial|text=12}}
+|3.8%<br>{{font|size=80%|font=Arial|text=0}}
+|8.1%<br>{{font|size=80%|font=Arial|text=15}}
+|12.0%<br>{{font|size=80%|font=Arial|text=22}}
+|2.7%<br>{{font|size=80%|font=Arial|text=0}}
+|6.0%<br>{{font|size=80%|font=Arial|text=11}}
+|4.6%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''18.5%'''<br>{{font|size=80%|font=Arial|text=34}}
+|7.0%<br>{{font|size=80%|font=Arial|text=13}}
+|7.6%
+| style="background:#f90311;" | 2.9%
+|-
+|AKO{{Ref|https://www.postoj.sk/99424/parlamentne-volby-by-vo-februari-vyhral-hlas-pred-smerom-a-sas}}
+|8–14<br>Feb 2022
+|1,000
+|8.0%
+|14.5%
+|6.9%
+|2.5%
+|8.7%
+|14.2%
+|2.3%
+|7.2%
+|4.1%
+| style="background:#f9acb1;" | '''17.5%'''
+|6.9%
+|7.2%
+| style="background:#f90311;" | 3.0%
+|-
+|Median{{Ref|https://www.aktuality.sk/clanok/8kv0nc5/prieskum-volby-by-koncom-januara-vyhral-smer-za-nim-su-hlas-a-sas/}}
+|27 Jan<br>–1 Feb 2022
+|1,006
+|9.5%
+| style="background:#ff8a8a;" | '''15.6%'''
+|5.7%
+|4.1%
+|10.6%
+|13.5%
+|2.5%
+|5.0%
+|3.4%
+|13.5%
+|5.6%
+|11.0%
+| style="background:#d82222;" | 2.1%
+|-
+|Focus{{Ref|1=https://dennikn.sk/2698162/focus-smer-je-druhy-a-od-hlasu-ho-deli-uz-len-percento-a-pol-za-napatie-na-vychode-vini-viac-ludi-usa-a-nato-ako-rusko/?ref=tit}}
+|19–26<br>Jan 2022
+|1,017
+|8.0%<br>{{font|size=80%|font=Arial|text=14}}
+|16.3%<br>{{font|size=80%|font=Arial|text=30}}
+|6.1%<br>{{font|size=80%|font=Arial|text=11}}
+|4.3%<br>{{font|size=80%|font=Arial|text=0}}
+|8.3%<br>{{font|size=80%|font=Arial|text=15}}
+|11.1%<br>{{font|size=80%|font=Arial|text=21}}
+|3.0%<br>{{font|size=80%|font=Arial|text=0}}
+|5.8%<br>{{font|size=80%|font=Arial|text=11}}
+|4.4%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''17.8%'''<br>{{font|size=80%|font=Arial|text=33}}
+|7.8%<br>{{font|size=80%|font=Arial|text=14}}
+|7.1%
+| style="background:#f90311;" | 1.5%
+|-
+|AKO{{Ref|https://domov.sme.sk/c/22825018/prieskum-politickych-stran-januar-ako-2022.html/}}
+|10–17<br>Jan 2022
+|1,000
+|9.3%<br>{{font|size=80%|font=Arial|text=17}}
+|13.8%<br>{{font|size=80%|font=Arial|text=25}}
+|6.5%<br>{{font|size=80%|font=Arial|text=12}}
+|2.9%<br>{{font|size=80%|font=Arial|text=0}}
+|8.5%<br>{{font|size=80%|font=Arial|text=15}}
+|14.2%<br>{{font|size=80%|font=Arial|text=25}}
+|2.2%<br>{{font|size=80%|font=Arial|text=0}}
+|6.0%<br>{{font|size=80%|font=Arial|text=11}}
+|4.0%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''18.0%'''<br>{{font|size=80%|font=Arial|text=33}}
+|6.2%<br>{{font|size=80%|font=Arial|text=11}}
+|8.4%
+| style="background:#f90311;" | 3.8%
+|-
 |AKO{{Ref|https://www.aktuality.sk/clanok/s0kjcj6/prieskum-smer-dobieha-druhu-sas-s-hlasom-by-mali-sestdesiat-poslancov/}}
 |7–12<br>Dec 2021
 |1,000
@@ -103,6 +222,23 @@ Results are published that include only the answers of respondents who would vot
 |8.0%
 | style="background:#f90311;" | 3.8%
 |-
+|Actly{{Ref|https://www.bystricoviny.sk/spravy/oktobrovy-prieskum-agentury-actly-hlas-vedie-pred-smerom-s-odstupom-je-tretia-sas/}}
+|17–20<br>Oct 2021
+|1,006
+|6.8%
+|17.7%
+|9.4%
+|2.4%
+|5.9%
+|10.5%
+|2.8%
+|5.9%
+|3.9%
+| style="background:#f9acb1;" | '''21.0%'''
+|5.1%
+|8.6%
+| style="background:#f90311;" | 3.3%
+|-
 |AKO{{Ref|https://ako.sk/wp-content/uploads/2021/10/AKO-VOLEBNE-PREF-OKTOBER-2021.pdf}}
 |4–7<br>Oct 2021
 |1,000
@@ -154,6 +290,23 @@ Results are published that include only the answers of respondents who would vot
 |8.3%
 | style="background:#f90311;" | 4.1%
 |-
+|Median{{Ref|https://spravy.rtvs.sk/2021/09/hlas-sd-by-sa-stal-vitazom-volieb-smer-sd-je-uz-druhy/}}
+|31 Aug<br>–6 Sep 2021
+|1,018
+|10.0%
+|12.7%
+|7.2%
+|3.3%
+|8.6%
+|12.3%
+|3.9%
+|4.8%
+|4.8%
+| style="background:#f9acb1;" | '''16.3%'''
+|5.4%
+|10.7%
+| style="background:#f90311;" | 3.6%
+|-
 |AKO{{Ref|https://ako.sk/wp-content/uploads/2021/08/AKO_VOLEBNE_PREF_AUGUST_2021.pdf}}
 |10–15<br>Aug 2021
 |1,000
@@ -170,6 +323,23 @@ Results are published that include only the answers of respondents who would vot
 |4.5%<br>{{font|size=80%|font=Arial|text=0}}
 |8.2%
 | style="background:#f90311;" | 4.8%
+|-
+|Actly{{Ref|https://www.bystricoviny.sk/titulka/augustovy-prieskum-actly-volby-by-vyhral-hlas-pred-smerom-a-sas-vacsina-chce-predcasne-volby/}}
+|31 Jul<br>–4 Aug 2021
+|1,002
+|8.1%
+|15.3%
+|7.1%
+|2.9%
+|5.4%
+|11.4%
+|3.3%
+|6.1%
+|2.9%
+| style="background:#f9acb1;" | '''21.1%'''
+|6.8%
+|9.6%
+| style="background:#f90311;" | 5.8%
 |-
 |AKO{{Ref|https://ako.sk/wp-content/uploads/2021/07/AKO_VOLEBNE_PREF_JUL_2021.pdf}}
 |6–12<br>Jul 2021
@@ -222,6 +392,23 @@ Results are published that include only the answers of respondents who would vot
 |7.2%
 | style="background:#f90311;" | 8.8%
 |-
+|Median{{Ref|https://spravy.rtvs.sk/2021/05/prieskum-median-sk-majove-volby-by-vyhral-hlas-sd-olano-by-skoncilo-stvrte-za-smerom-sd/}}
+|11–19<br>May 2021
+|1,000
+|8.7%
+|9.7%
+|7.7%
+|2.8%
+|7.8%
+|12.9%
+|5.3%
+|4.5%
+|4.2%
+| style="background:#f9acb1;" | '''17.8%'''
+|4.9%
+|13.7%
+| style="background:#f90311;" | 4.9%
+|-
 |Focus{{Ref|https://www.focus-research.sk/files/n281_Volebne%20preferencie%20politickych%20stran_maj%202021.pdf}}
 |11–19<br>May 2021
 |1,008
@@ -255,6 +442,23 @@ Results are published that include only the answers of respondents who would vot
 |3.5%
 |8.4%
 | style="background:#f90311;" | 8.7%
+|-
+|Median{{Ref|https://spravy.rtvs.sk/2021/04/prieskum-hlas-sd-je-nadalej-na-cele-progresivne-slovensko-dobieha-olano/}}
+|23–27<br>Apr 2021
+|1,013
+|9.8%
+|8.4%
+|6.4%
+|3.1%
+|8.9%
+|12.9%
+|4.3%
+|4.2%
+|4.2%
+| style="background:#f9acb1;" | '''23.5%'''
+|4.9%
+|9.4%
+| style="background:#f90311;" | 10.6%
 |-
 |AKO<ref name="AKO042021">{{cite press release|last=Hřích|first=Václav|date=20 April 2021|title=Prieskum volebných preferencií do NR SR – APRÍL 2021|url=https://ako.sk/wp-content/uploads/2021/04/ag.AKO-VOLEBNE_PREF_APRIL_2021.pdf|location=Bratislava|agency=AKO|access-date=20 April 2021}}</ref>
 |12–17<br>Apr 2021
@@ -290,6 +494,23 @@ Results are published that include only the answers of respondents who would vot
 |8.3%
 | style="background:#f90311;" | 11.1%
 |-
+|Median{{Ref|https://www.aktuality.sk/clanok/875569/prieskum-volby-by-vyhral-hlas-sd-so-ziskom-21-4-percenta-hlasov/}}
+|12–18<br>Mar 2021
+|1,003
+|11.3%
+|8.6%
+|5.0%
+|4.0%
+|9.3%
+|10.3%
+|4.7%
+|4.3%
+|3.7%
+| style="background:#f9acb1;" | '''21.4%'''
+|3.7%
+|13.7%
+| style="background:#f90311;" | 10.1%
+|-
 |AKO<ref name="AKO032021">{{cite press release|last=Hřích|first=Václav|date=15 March 2021|title=Prieskum volebných preferencií do NR SR – MAREC 2021|url=https://ako.sk/wp-content/uploads/2021/03/ag.AKO_VOLEBNE_PREF_MAREC_2021.pdf|location=Bratislava|agency=AKO|access-date=26 March 2021}}</ref>
 |8–12<br>Mar 2021
 |1,000
@@ -324,6 +545,23 @@ Results are published that include only the answers of respondents who would vot
 |11.2%
 | style="background:#f90311;" | 10.1%
 |-
+|Actly{{Ref|https://slovensko.hnonline.sk/2298953-prieskum-pellegrini-hlas-zvysuje-naskok-matovic-a-sulik-stracaju-volicov}}
+|9–11<br>Feb 2021
+|1,000
+|11.8%
+|9.5%
+|6.6%
+|4.3%
+|6.8%
+|11.0%
+|6.3%
+|4.0%
+|3.1%
+| style="background:#f9acb1;" | '''24.2%'''
+|N/A
+|12.4%
+| style="background:#f90311;" | 12.4%
+|-
 |AKO<ref name="AKO022021">{{cite press release|last=Hřích|first=Václav|date=12 February 2021|title=Prieskum volebných preferencií do NR SR – FEBRUÁR 2021|url=https://ako.sk/wp-content/uploads/2021/02/ag.AKO-VOLEBNE-PREF-FEBRUAR-2021.pdf|location=Bratislava|agency=AKO|access-date=26 March 2021}}</ref>
 |8–11<br>Feb 2021
 |1,000
@@ -357,6 +595,23 @@ Results are published that include only the answers of respondents who would vot
 |N/A
 |10.7%
 | style="background:#f90311;" | 11.0%
+|-
+|Median{{Ref|https://www.markiza.sk/spravy/domace/2018157_prieskum-takto-vyzeraju-najnovsie-preferencie-stran}}
+|7–13<br>Jan 2021
+|1,001
+|14.9%
+|8.2%
+|5.6%
+|9.2%
+|6.5%
+|11.8%
+|4.4%
+|3.7%
+|3.1%
+| style="background:#f9acb1;" | '''21.7%'''
+|N/A
+|10.9%
+| style="background:#f90311;" | 6.8%
 |-
 |AKO<ref name="AKO122020">{{cite press release|last=Hřích|first=Václav|date=21 December 2020|title=Prieskum volebných preferencií do NR SR – DECEMBER 2020|url=https://ako.sk/wp-content/uploads/2020/12/ag.AKO-VOLEBNE-PREF-DECEMBER-2020.pdf|location=Bratislava|agency=AKO|access-date=26 March 2021}}</ref>
 |17–19<br>Dec 2020
@@ -409,6 +664,40 @@ Results are published that include only the answers of respondents who would vot
 |10.7%
 | style="background:#f90311;" | 5.1%
 |-
+|Median{{Ref|https://www.webnoviny.sk/parlamentne-volby-by-vyhral-pellegriniho-hlas-progresivci-by-predbehli-tri-strany/}}
+|6–11<br>Nov 2020
+|1,018
+|16.6%
+|6.3%
+|5.8%
+|6.9%
+|7.3%
+|12.5%
+|4.1%
+|4.4%
+|3.2%
+| style="background:#f9acb1;" | '''20.3%'''
+|N/A
+|12.6%
+| style="background:#f90311;" | 3.7%
+|-
+|Actly{{Ref|https://www.ta3.com/clanok/187414/do-parlamentu-by-sa-dostalo-sedem-stran-ukazal-prieskum}}
+|21–26<br>Oct 2020
+|1,000
+|14.7%
+|10.8%
+|6.8%
+|6.2%
+|5.5%
+|11.2%
+|2.9%
+|4.8%
+|1.6%
+| style="background:#f9acb1;" | '''26.5%'''
+|N/A
+|9.0%
+| style="background:#f90311;" | 11.8%
+|-
 |Focus<ref name="Focus102020">{{cite web|date=18 October 2020|title=Press release|url=https://www.focus-research.sk/files/n274_Volebne%20preferencie%20politickych%20stran_oktober%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
 |7–15<br>Oct 2020
 |1,014
@@ -442,6 +731,23 @@ Results are published that include only the answers of respondents who would vot
 |N/A
 |10.6%
 | style="background:#f90311;" | 3.5%
+|-
+|Median{{Ref|1=https://www.teraz.sk/slovensko/volby-by-vyhralo-hnutie-olano-druhy/494488-clanok.html?utm_source=teraz&utm_medium=organic&utm_campaign=click&utm_content=.%253Bs%2523Median}}
+|14–18<br>Sep 2020
+|1,007
+| style="background:#d6e86f;" | '''17.0%'''
+|9.1%
+|8.7%
+|8.8%
+|6.6%
+|11.9%
+|3.4%
+|4.2%
+|2.3%
+|16.9%
+|N/A
+|11.1%
+| style="background:#b2c933;" | 0.1%
 |-
 |Focus<ref name="Focus092020">{{cite web|date=9 June 2020|title=Press release|url=https://www.focus-research.sk/files/n273_Volebn%C3%A9%20preferencie%20politick%C3%BDch%20str%C3%A1n%20august-september%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
 |26 Aug<br>–2 Sep 2020
@@ -599,7 +905,7 @@ Results are published that include only the answers of respondents who would vot
 ![[Freedom and Solidarity|SaS]]
 ![[For the People (Slovakia)|ZĽ]]
 ![[Christian Democratic Movement|KDH]]
-![[Hungarian Community Freemasonry|MKÖ<br>–MKS]]
+![[Alliance (Slovak political party)|MKÖ<br>–MKS]]
 ![[Voice – Social Democracy|HLAS<br>–SD]]
 ![[Republic (Slovakia)|REP]]
 |}

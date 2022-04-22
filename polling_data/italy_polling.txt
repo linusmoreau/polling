@@ -6,16 +6,16 @@
 ! rowspan="2" style="width:60px;"|Sample size
 ! style="width:35px;"|[[Five Star Movement|M5S]]
 ! style="width:35px;"|[[Democratic Party (Italy)|PD]]
-! style="width:35px;"|[[Lega Nord|Lega]]
+! style="width:35px;"|[[Lega (political party)|Lega]]
 ! style="width:35px;"|[[Forza Italia (2013)|FI]]
 ! style="width:35px;"|[[Brothers of Italy|FdI]]
 ! style="width:35px;"|[[Article One (political party)|Art.1]]
 ! style="width:35px;"|[[Italian Left|SI]]
 ! style="width:35px;"|[[Green Europe|EV]]
-! style="width:35px;"|[[More Europe|+Eu]]
-! style="width:35px;"|[[Action (Italy)|Az]]
+! style="width:35px;"|[[More Europe|+E]]
+! style="width:35px;"|[[Action (Italy)|A]]
 ! style="width:35px;"|[[Italia Viva|IV]]
-! style="width:35px;"|[[Coraggio Italia|CI]]
+! style="width:35px;"|[[Italexit (political party)|Italexit]]
 ! rowspan="2" style="width:35px;"|Others
 ! rowspan="2" style="width:25px;"|Lead
 |-
@@ -30,7 +30,1258 @@
 ! style="background:{{party color|More Europe}};"|
 ! style="background:{{party color|Action (Italy)}};"|
 ! style="background:{{party color|Italia Viva}};"|
-! style="background:{{party color|Coraggio Italia}};"|
+! style="background:{{party color|Italexit (political party)}};"|
+|-
+|19–20 Apr
+|[https://www.la7.it/otto-e-mezzo/video/sondaggio-duello-meloni-letta-20-04-2022-434866 Demopolis]
+|1,500
+|13.2
+|21.0
+|16.0
+|8.0
+|style="background:#E5E7FF;" |'''21.5'''
+|1.8
+|2.3
+|1.5
+| colspan="2" |4.2
+|2.0
+|2.5
+|6.0
+|style="background:#03386A; color:white;"|0.5
+|-
+|13–19 Apr
+|[https://sondaggibidimedia.com/sondaggio-swg-19-aprile/ SWG]
+|1,200
+|12.9
+|20.8
+|15.6
+|7.8
+|style="background:#E5E7FF;" |'''21.8'''
+|2.7
+|2.6
+|2.5
+| colspan="2" |5.0
+|2.5
+|2.2
+|3.6
+|style="background:#03386A; color:white;"|1.0
+|-
+|13–15 Apr 
+|[https://www.istitutoixe.it/2022/04/15/intenzioni-di-voto-15-aprile-2022/ Ixè]
+|1,000
+|14.4
+|style="background:#FFD0D7;"|'''21.4'''
+|15.1
+|8.9
+|19.6
+|2.1
+|2.3
+|2.0
+| colspan="2" |4.9
+|2.1
+|
+|7.2
+|style="background:#EF1C27; color:white;"|1.8
+|-
+|14 Apr
+|[https://scenaripolitici.com/2022/04/sondaggio-euromedia-research-14-aprile-2022.html Euromedia]
+|1,000
+|12.3
+|style="background:#FFD0D7;"|'''21.7'''
+|15.9
+|8.5
+|21.5
+|1.9
+|1.5
+|2.1
+| colspan="2" |4.7
+|2.3
+|3.5
+|4.1
+|style="background:#EF1C27; color:white;"|0.2
+|-
+|13–14 Apr
+|[https://www.termometropolitico.it/1600719_sondaggi-tp-ucraina-mancato-cessate-il-fuoco-colpa-degli-usa-secondo-il-427-degli-italiani.html Termometro Politico]
+|2,800
+|12.9
+|21.1
+|18.0
+|7.7
+|style="background:#E5E7FF;" |'''21.3'''
+| colspan="2" |3.4
+|1.9
+| colspan="2" |4.4
+|2.5
+|2.3
+|4.5
+|style="background:#03386A; color:white;"|0.2
+|-
+|11–12 Apr
+|[http://www.demos.it/a01971.php Demos & Pi]
+|1,012
+|14.2
+|style="background:#FFD0D7;"|'''21.2'''
+|16.8
+|8.2
+|20.7
+|
+|2.0
+|2.3
+| colspan="2" |3.8
+|2.2
+|2.1
+|6.5
+|style="background:#EF1C27; color:white;"|0.5
+|-
+|6–11 Apr
+|[https://tg.la7.it/politica/il-sondaggio-politico-di-luned%C3%AC-11-aprile-2022-11-04-2022-170680 SWG]
+|1,200
+|12.9
+|21.2
+|15.9
+|8.0
+|style="background:#E5E7FF;" |'''21.6'''
+|2.6
+|2.6
+|2.3
+| colspan="2" |5.0
+|2.4
+|1.9
+|3.6
+|style="background:#03386A; color:white;"|0.4
+|-
+|9 Apr
+|[https://sondaggibidimedia.com/sondaggio-lab2101-9-aprile/ Lab2101]
+|1,000
+|14.4
+|style="background:#FFD0D7;"|'''22.4'''
+|18.0
+|7.9
+|18.3
+|2.3
+|2.4
+|1.5
+| colspan="2" |3.6
+|2.6
+|
+|4.8
+|style="background:#EF1C27; color:white;"|4.1
+|-
+|7–9 Apr
+|[https://sondaggibidimedia.com/sondaggio-bidimedia-14-aprile/ BiDiMedia]
+|1,500
+|12.2
+|style="background:#FFD0D7;"|'''22.3'''
+|17.8
+|6.8
+|20.0
+|1.4
+|1.9
+|2.1
+| colspan="2" |4.8
+|2.1
+|1.7
+|5.9
+|style="background:#EF1C27; color:white;"|2.3
+|-
+|8 Apr
+|[https://www.dire.it/09-04-2022/723003-sondaggio-dire-tecne-testa-a-testa-pd-fdi-come-primo-partito/ Tecnè]
+|1,000
+|12.7
+|style="background:#FFD0D7;"|'''21.9'''
+|15.8
+|10.8
+|style="background:#E5E7FF;" |'''21.9'''
+|
+|1.9
+|2.2
+| colspan="2" |4.4
+|2.4
+|
+|6.0
+|Tie
+|-
+|6–7 Apr
+|[https://www.termometropolitico.it/1600615_sondaggi-tp-massacri-bucha-per-quasi-un-italiano-su-due-ci-sono-stati-e-i-responsabili-sono-russi.html Termometro Politico]
+|3,200
+|13.0
+|20.8
+|18.1
+|7.9
+|style="background:#E5E7FF;" |'''21.4'''
+| colspan="2" |3.4
+|1.9
+| colspan="2" |4.3
+|2.5
+|2.4
+|4.3
+|style="background:#03386A; color:white;"|0.6
+|-
+|4–5 Apr
+|[https://scenaripolitici.com/2022/04/sondaggio-noto-5-aprile-2022.html Noto]
+|1,000
+|13.5
+|19.5
+|18.0
+|7.0
+|style="background:#E5E7FF;" |'''21.0'''
+|1.5
+|1.0
+|1.5
+| colspan="2" |4.0
+|3.0
+|2.0
+|8.0
+| style="background:#03386A; color:white;"|1.5
+|-
+|30 Mar–4 Apr
+|[https://tg.la7.it/politica/il-sondaggio-politico-di-luned%C3%AC-4-aprile-2022-04-04-2022-170445 SWG]
+|1,200
+|13.3
+|21.4
+|15.8
+|7.7
+|style="background:#E5E7FF;" |'''21.6'''
+|2.8
+|2.4
+|2.3
+| colspan="2" |5.3
+|2.2
+|2.1
+|3.1
+| style="background:#03386A; color:white;"|0.2
+|-
+|1 Apr
+|[https://www.dire.it/02-04-2022/720758-monitor-italia-il-pd-tallona-il-partito-di-giorgia-meloni-ma-la-coalizione-di-centrodestra-e-avanti-11-punti/ Tecnè]
+|1,000
+|12.5
+|21.7
+|15.8
+|10.7
+|style="background:#E5E7FF;" |'''21.8'''
+|
+|2.0
+|2.3
+| colspan="2" |4.7
+|2.6
+|
+|5.9
+| style="background:#03386A; color:white;"|0.1
+|-
+|30–31 Mar
+|[https://www.money.it/Sondaggi-politici-Meloni-premier-Berlusconi-Italexit-3-percento Euromedia]
+|1,000
+|14.0
+|20.8
+|15.7
+|8.0
+|style="background:#E5E7FF;" |'''21.0'''
+|1.8
+|1.7
+|2.1
+| colspan="2" |4.7
+|2.6
+|3.3
+|4.3
+| style="background:#03386A; color:white;"|0.2
+|-
+|30–31 Mar
+|[https://www.termometropolitico.it/1600536_sondaggi-tp-guerra-ucraina-russia-per-il-524-draghi-non-sta-giocando-un-ruolo-da-protagonista.html Termometro Politico]
+|3,500
+|13.2
+|20.9
+|18.4
+|7.7
+|style="background:#E5E7FF;" |'''21.2'''
+| colspan="2" |3.3
+|1.7
+| colspan="2" |4.3
+|2.7
+|2.3
+|4.3
+|style="background:#03386A; color:white;"|0.3
+|-
+|28 Mar
+|[https://www.fanpage.it/politica/la-maggioranza-degli-italiani-e-contraria-allaumento-delle-spese-militari-il-sondaggio/ Euromedia]
+|1,000
+|13.0
+|20.9
+|16.1
+|8.0
+|style="background:#E5E7FF;" |'''21.3'''
+|1.7
+|1.5
+|1.4
+| colspan="2" |4.3
+|2.4
+|2.5
+|6.1
+| style="background:#03386A; color:white;"|0.4
+|-
+|23–28 Mar
+|[https://tg.la7.it/politica/il-sondaggio-politico-di-luned%C3%AC-28-marzo-2022-28-03-2022-170175 SWG]
+|1,200
+|13.4
+|21.1
+|16.0
+|7.9
+|style="background:#E5E7FF;" |'''21.6'''
+|2.6
+|2.5
+|2.5
+| colspan="2" |5.4
+|2.4
+|1.8
+|3.0
+| style="background:#03386A; color:white;"|0.5
+|-
+|25 Mar
+|[https://www.dire.it/26-03-2022/718882-sondaggio-dire-tecne-coalizione-centrodestra-ancora-in-vantaggio-pd-a-un-passo-da-fdi/ Tecnè]
+|1,000
+|12.3
+|21.6
+|15.9
+|10.7
+|style="background:#E5E7FF;" |'''21.8'''
+|
+|2.0
+|2.4
+| colspan="2" |4.8
+|2.7
+|
+|5.8
+| style="background:#03386A; color:white;"|0.2
+|-
+|22–25 Mar 
+|[https://www.istitutoixe.it/2022/03/25/intenzioni-di-voto-25-marzo-2022/ Ixè]
+|1,000
+|14.1
+|style="background:#FFD0D7;"|'''23.2'''
+|16.3
+|8.5
+|17.8
+|2.3
+|2.8
+|2.1
+| colspan="2" |5.3
+|1.6
+|
+|6.0
+|style="background:#EF1C27; color:white;"|5.4
+|-
+|23–24 Mar
+|[https://www.termometropolitico.it/1600447_sondaggi-tp-zelensky-piace-a-un-italiano-su-due.html Termometro Politico]
+|3,000
+|13.0
+|21.1
+|18.1
+|7.7
+|style="background:#E5E7FF;" |'''21.5'''
+| colspan="2" |3.5
+|1.7
+| colspan="2" |4.2
+|2.6
+|2.3
+|4.3
+|style="background:#03386A; color:white;"|0.4
+|-
+|22–24 Mar
+|[https://www.corriere.it/politica/22_marzo_27/sondaggio-intenzioni-voto-fratelli-d-italia-primo-partito-cresce-gradimento-draghi-1c5cb33a-ad3f-11ec-b4fc-c139140ab75b.shtml Ipsos]
+|1,000
+|14.5
+|20.9
+|17.5
+|8.1
+|style="background:#E5E7FF;" |'''21.5'''
+|1.0
+|1.6
+|2.0
+| colspan="2" |3.6
+|2.1
+|2.3
+|4.9
+|style="background:#03386A; color:white;"|0.6
+|-
+|22 Mar 
+|[https://scenaripolitici.com/2022/03/sondaggio-euromedia-research-23-marzo-2022.html Euromedia]
+|800
+|12.5
+|style="background:#FFD0D7;"|'''21.6'''
+|16.3
+|8.1
+|21.4
+|1.8
+|1.6
+|2.0
+| colspan="2" |4.8
+|2.5
+|2.3
+|5.1
+|style="background:#EF1C27; color:white;"|0.2
+|-
+|16–21 Mar
+|[https://tg.la7.it/politica/il-sondaggio-politico-di-luned%C3%AC-21-marzo-2022-21-03-2022-169952 SWG]
+|1,200
+|12.9
+|21.6
+|16.4
+|7.8
+|style="background:#E5E7FF;" |'''21.8'''
+|2.4
+|2.2
+|2.3
+| colspan="2" |5.2
+|2.2
+|2.0
+|3.2
+| style="background:#03386A; color:white;"|0.2
+|-
+|18 Mar
+|[https://www.dire.it/19-03-2022/716718-sondaggio-dire-tecne-coalizione-centrodestra-resta-in-vantaggio-il-pd-tallona-fdi/ Tecnè]
+|1,000
+|12.4
+|21.4
+|15.9
+|10.7
+|style="background:#E5E7FF;" |'''21.7'''
+|
+|2.1
+|2.3
+| colspan="2" |4.9
+|2.9
+|
+|5.7
+| style="background:#03386A; color:white;"|0.3
+|-
+|15–17 Mar
+|[https://www.termometropolitico.it/1600370_sondaggi-tp-stop-petrolio-e-gas-russo-un-terzo-degli-italiani-favorevole.html Termometro Politico]
+|3,200
+|13.2
+|20.8
+|18.1
+|7.8
+|style="background:#E5E7FF;" |'''21.7'''
+| colspan="2" |3.4
+|1.8
+| colspan="2" |4.2
+|2.6
+|2.2
+|4.2
+|style="background:#03386A; color:white;"|0.9
+|-
+|9–14 Mar
+|[https://tg.la7.it/politica/il-sondaggio-politico-di-luned%C3%AC-14-marzo-2022-14-03-2022-169713 SWG]
+|1,200
+|13.0
+|21.3
+|16.2
+|8.0
+|style="background:#E5E7FF;" |'''21.9'''
+|2.5
+|2.1
+|2.0
+| colspan="2" |5.2
+|2.5
+|2.2
+|3.1
+| style="background:#03386A; color:white;"|0.6
+|-
+|11–12 Mar
+|[https://www.liberoquotidiano.it/news/personaggi/30835543/alessandra-ghisleri-sondaggio-partiti-centrodestra-calo-pd-turbo-cifre.html Euromedia]
+|1,000
+|13.4
+|style="background:#FFD0D7;"|'''22.0'''
+|15.8
+|7.7
+|20.3
+|2.0
+|1.5
+|1.8
+| colspan="2" |5.0
+|2.0
+|2.9
+|5.6
+|style="background:#EF1C27; color:white;"|1.7
+|-
+|11 Mar
+|[https://www.dire.it/12-03-2022/715000-monitor-italia-fdi-sorpassa-il-pd-e-il-partito-con-piu-consenso-in-italia// Tecnè]
+|1,000
+|12.3
+|21.2
+|16.1
+|10.6
+|style="background:#E5E7FF;" |'''21.6'''
+|
+|2.3
+|2.4
+| colspan="2" |5.0
+|3.0
+|
+|5.5
+| style="background:#03386A; color:white;"|0.4
+|-
+|9 Mar 
+|[https://www.affaritaliani.it/politica/sondaggio-partiti-guerra-ucraina-russia-putin-784742.html Lab2101]
+|587
+|14.6
+|style="background:#FFD0D7;"|'''22.1'''
+|17.9
+|7.7
+|18.9
+|2.5
+|2.2
+|1.3
+|2.0
+|3.4
+|3.0
+|
+|4.4
+|style="background:#EF1C27; color:white;"|3.2
+|-
+|5–9 Mar 
+|[https://www.istitutoixe.it/2022/03/09/intenzioni-di-voto-9-marzo-2022/ Ixè]
+|1,000
+|14.9
+|style="background:#FFD0D7;"|'''23.2'''
+|17.0
+|9.5
+|17.6
+|2.2
+|2.1
+|2.3
+| colspan="2" |5.2
+|1.7
+|
+|4.3
+|style="background:#EF1C27; color:white;"|5.6
+|-
+|8 Mar 
+|[https://metronews.it/2022/03/09/sondaggio-noto-fdi-primo-partito-poi-pd-crollo-m5s/ Noto]
+|1,000
+|12.0
+|20.0
+|17.0
+|7.0
+| style="background:#E5E7FF;" |'''21.0'''
+|1.5
+|1.0
+|2.0
+| colspan="2" |4.0
+|3.0
+|1.5
+|10.0
+| style="background:#03386A; color:white;"|1.0
+|-
+|2–7 Mar
+|[https://tg.la7.it/politica/il-sondaggio-politico-di-luned%C3%AC-7-marzo-2022-07-03-2022-169460 SWG]
+|1,200
+|12.6
+|21.2
+|17.0
+|8.1
+|style="background:#E5E7FF;" |'''21.5'''
+|2.4
+|2.1
+|2.2
+| colspan="2" |4.8
+|2.3
+|2.0
+|3.8
+|style="background:#03386A; color:white;"|0.3
+|-
+|4 Mar
+|[https://www.dire.it/05-03-2022/713311-sondaggio-dire-tecne-pd-e-fdi-appaiati-ma-tra-le-coalizioni-il-centrodestra-e-avanti/ Tecnè]
+|1,000
+|12.4
+|style="background:#FFD0D7;"|'''21.5'''
+|16.3
+|10.4
+|style="background:#E5E7FF;" |'''21.5'''
+|
+|2.4
+|2.5
+| colspan="2" |4.8
+|2.8
+|
+|5.4
+|Tie
+|-
+|2–4 Mar
+|[http://www.demos.it/a01956.php Demos & Pi]
+|1,015
+|14.8
+|style="background:#FFD0D7;"|'''21.3'''
+|17.6
+|7.8
+|21.0
+|
+|
+|2.4
+| colspan="2" |4.9
+|2.5
+|2.0
+|5.7
+|style="background:#EF1C27; color:white;"|0.3
+|-
+|2–3 Mar
+|[https://www.termometropolitico.it/1600223_sondaggi-tp-armi-allucraina-maggioranza-italiani-contraria.html Termometro Politico]
+|3,400
+|13.4
+|20.9
+|18.6
+|7.9
+|style="background:#E5E7FF;" |'''21.3'''
+| colspan="2" |3.3
+|1.9
+| colspan="2" |4.2
+|2.5
+|
+|6.0
+|style="background:#03386A; color:white;"|0.4
+|-
+|23–28 Feb
+|[https://tg.la7.it/politica/il-sondaggio-politico-di-luned%C3%AC-28-febbraio-2022-28-02-2022-169249 SWG]
+|1,200
+|13.0
+|21.1
+|17.2
+|7.6
+|style="background:#E5E7FF;" |'''21.3'''
+|2.2
+|2.1
+|2.5
+| colspan="2" |5.0
+|2.7
+|1.7
+|3.6
+|style="background:#03386A; color:white;"|0.2
+|-
+|25 Feb
+|[https://www.dire.it/26-02-2022/711073-sondaggio-dire-tecne-il-pd-sorpassa-fdi-e-torna-a-essere-il-primo-partito/ Tecnè]
+|1,000
+|12.5
+|style="background:#FFD0D7;"|'''22.2'''
+|16.3
+|10.4
+|21.8
+|
+|2.1
+|2.2
+| colspan="2" |4.5
+|2.8
+|
+|5.2
+|style="background:#EF1C27; color:white;"|0.4
+|-
+|22–24 Feb
+|[https://www.corriere.it/politica/22_febbraio_25/pd-resta-testa-centrodestra-unito-vale-oltre-46-cento-4ef6c602-9668-11ec-ae45-371c99bdba95.shtml Ipsos]
+|1,000
+|15.4
+|style="background:#FFD0D7;"|'''21.0'''
+|18.0
+|8.9
+|19.7
+|1.2
+|1.8
+|2.0
+| colspan="2" |3.3
+|2.1
+|2.1
+|4.5
+|style="background:#EF1C27; color:white;"|1.3
+|-
+|22–24 Feb
+|[https://www.termometropolitico.it/1600152_sondaggi-tp-il-55-degli-italiani-condanna-lattacco-russo-allucraina.html Termometro Politico]
+|3,100
+|13.7
+|20.5
+|19.0
+|7.7
+|style="background:#E5E7FF;" |'''21.6'''
+| colspan="2" |3.2
+|1.8
+| colspan="2" |4.2
+|2.6
+|
+|5.7
+|style="background:#03386A; color:white;"|1.1
+|-
+|22–23 Feb
+|[https://www.demopolis.it/?p=10093 Demopolis]
+|1,500
+|13.4
+|style="background:#FFD0D7;"|'''21.5'''
+|17.5
+|7.5
+|21.2
+|
+|
+|
+| colspan="2" |3.8
+|
+|
+|15.1
+|style="background:#EF1C27; color:white;"|0.3
+|-
+|21 Feb
+|[https://www.fanpage.it/politica/sondaggi-elettorali-il-partito-democratico-vola-in-testa-e-stacca-fratelli-ditalia/ EMG]
+|1,568
+|13.7
+|style="background:#FFD0D7;"|'''21.4'''
+|17.9
+|8.3
+|19.5
+|1.3
+|2.6
+|2.7
+| colspan="2" |4.1
+|4.1
+|
+|4.4
+|style="background:#EF1C27; color:white;"|1.9
+|-
+|16–21 Feb
+|[https://tg.la7.it/politica/il-sondaggio-politico-di-luned%C3%AC-21-febbraio-2022-21-02-2022-169016/ SWG]
+|1,200
+|13.1
+|20.7
+|16.8
+|7.8
+|style="background:#E5E7FF;" |'''21.4'''
+|2.4
+|2.3
+|2.7
+| colspan="2" |5.1
+|2.4
+|2.0
+|3.3
+|style="background:#03386A; color:white;"|0.7
+|-
+|18 Feb
+|[https://www.dire.it/19-02-2022/709064-sondaggio-dire-tecne-fratelli-ditalia-ancora-primo-partito-avanti-fi-la-lega-perde-punti/ Tecnè]
+|1,000
+|12.8
+|21.7
+|16.5
+|10.2
+|style="background:#E5E7FF;" |'''22.0'''
+|
+|2.2
+|2.3
+| colspan="2" |4.4
+|2.6
+|
+|5.3
+|style="background:#03386A; color:white;"|0.3
+|-
+|16–18 Feb
+|[https://www.istitutoixe.it/2022/02/18/intenzioni-di-voto-18-febbraio-2022/ Ixè]
+|1,000
+|15.6
+|style="background:#FFD0D7;"|'''23.1'''
+|16.6
+|9.2
+|17.9
+|1.9
+|2.2
+|1.9
+| colspan="2" |5.0
+|2.0
+|
+|4.6
+|style="background:#EF1C27; color:white;"|5.2
+|-
+|15–17 Feb
+|[https://www.termometropolitico.it/1600051_sondaggi-tp-il-54-3-degli-italiani-dice-no-allentrata-dellucraina-nella-nato.html Termometro Politico]
+|3,200
+|13.9
+|20.7
+|18.7
+|7.9
+|style="background:#E5E7FF;" |'''21.8'''
+| colspan="2" |3.2
+|1.7
+| colspan="2" |4.0
+|2.7
+|
+|5.4
+|style="background:#03386A; color:white;"|1.1
+|-
+|16 Feb
+|[https://www.adnkronos.com/sondaggi-politici-pd-primo-partito-tallonato-da-fdi_691LDM13ufVqy5tJC37Cxe Euromedia]
+|1,121
+|13.7
+|style="background:#FFD0D7;"|'''21.2'''
+|16.9
+|8.5
+|21.0
+|1.9
+|1.6
+|3.2
+| colspan="2" |4.8
+|2.3
+|2.0
+|1.9
+|style="background:#EF1C27; color:white;"|0.2
+|-
+|15 Feb
+|[https://scenaripolitici.com/2022/02/sondaggio-piepoli-15-febbraio-2022.html Piepoli]
+|–
+|14.5
+|style="background:#FFD0D7;"|'''21.0'''
+|18.5
+|8.0
+|19.5
+|1.5
+|1.5
+|1.5
+|2.5
+|3.5
+|2.5
+|1.5
+|4.0
+|style="background:#EF1C27; color:white;"|1.5
+|-
+|9–14 Feb
+|[https://tg.la7.it/politica/il-sondaggio-politico-di-lunedì-14-febbraio-2022-14-02-2022-168812/ SWG]
+|1,200
+|12.8
+|21.1
+|17.0
+|8.0
+|style="background:#E5E7FF;" |'''21.4'''
+|2.6
+|2.2
+|2.4
+| colspan="2" |4.7
+|2.5
+|1.7
+|3.6
+|style="background:#03386A; color:white;"|0.3
+|-
+|7–12 Feb
+|[https://sondaggibidimedia.com/sondaggio-bidimedia-febbraio-2022-2/ BiDiMedia]
+|3,015
+|13.1
+|style="background:#FFD0D7;"|'''21.8'''
+|17.8
+|7.1
+|19.6
+|1.4
+|2.1
+|2.0
+| colspan="2" |4.9
+|2.2
+|1.6
+|6.4
+|style="background:#EF1C27; color:white;"|2.2
+|-
+|11 Feb
+|[https://www.dire.it/12-02-2022/707160-sondaggio-dire-tecne-centrodestra-supera-il-50-dei-consensi-ma-la-lega-in-forte-calo/ Tecnè]
+|1,000
+|12.8
+|21.6
+|16.7
+|10.0
+|style="background:#E5E7FF;" |'''21.9'''
+|
+|2.3
+|2.4
+| colspan="2" |4.6
+|2.5
+|
+|5.2
+|style="background:#03386A; color:white;"|0.3
+|-
+|9–10 Feb
+|[https://scenaripolitici.com/2022/02/sondaggio-noto-10-febbraio-2022.html Noto]
+|1,000
+|12.5
+|style="background:#FFD0D7;"|'''20.5'''
+|18.0
+|8.0
+|20.0
+|1.0
+|1.5
+|1.5
+|colspan="2" |3.0
+|3.0
+|1.5
+|9.5
+|style="background:#EF1C27; color:white;"|0.5
+|-
+|9–10 Feb
+|[https://www.termometropolitico.it/1599970_sondaggi-tp-per-quasi-6-italiani-su-10-il-m5s-e-in-declino.html Termometro Politico]
+|3,600
+|14.4
+|20.5
+|18.9
+|7.6
+|style="background:#E5E7FF;" |'''21.7'''
+| colspan="2" |3.2
+|1.8
+| colspan="2" |4.1
+|2.7
+|
+|5.1
+|style="background:#03386A; color:white;"|1.2
+|-
+|8–10 Feb
+|[https://tg24.sky.it/politica/2022/02/11/governo-draghi-sondaggio-politico#19 Quorum – YouTrend]
+|802
+|16.2
+|style="background:#FFD0D7;"|'''20.8'''
+|15.5
+|8.3
+|20.1
+|2.4
+|2.7
+|2.2
+|colspan="2" |3.7
+|2.3
+|2.8
+|3.0
+|style="background:#EF1C27; color:white;"|0.7
+|-
+|8 Feb
+|[https://scenaripolitici.com/2022/02/sondaggio-emg-different-10-febbraio-2022.html EMG]
+|1,518
+|13.8
+|style="background:#FFD0D7;"|'''21.1'''
+|18.0
+|8.0
+|19.6
+|1.4
+|2.4
+|2.5
+| colspan="2" |4.2
+|4.1
+|
+|4.8
+|style="background:#EF1C27; color:white;"|1.5
+|-
+|2–7 Feb
+|[https://www.la7.it/tgla7/video/ultimi-sondaggi-crescono-fratelli-ditalia-e-pd-m5s-al-minimo-storico-07-02-2022-422064 SWG]
+|1,200
+|13.3
+|style="background:#FFD0D7;"|'''21.5'''
+|17.1
+|7.8
+|21.1
+|2.5
+|2.4
+|2.5
+| colspan="2" |4.4
+|2.1
+|2.0
+|3.3
+|style="background:#EF1C27; color:white;"|0.4
+|-
+|2–3 Feb
+|[https://www.termometropolitico.it/1599870_sondaggi-tp-quirinaleil-46-7-degli-italiani-avrebbe-preferito-una-scelta-innovativa.html Termometro Politico]
+|3,600
+|14.4
+|20.5
+|18.7
+|7.5
+|style="background:#E5E7FF;" |'''21.9'''
+| colspan="2" |3.1
+|1.8
+| colspan="2" |4.0
+|2.7
+|
+|5.4
+|style="background:#03386A; color:white;"|1.4
+|-
+|1–3 Feb
+|[https://www.corriere.it/politica/22_febbraio_05/intenzioni-voto-sondaggio-ipsos-pd-primo-il-208percento-m5s-calo-lega-perde-l-17-meloni-supera-0ac36a58-85fb-11ec-a4ee-1323196b6916.shtml Ipsos]
+|1,000
+|15.5
+|style="background:#FFD0D7;"|'''20.8'''
+|18.0
+|9.8
+|19.3
+|1.0
+|1.9
+|1.8
+| colspan="2" |3.9
+|2.2
+|1.9
+|3.9
+|style="background:#EF1C27; color:white;"|1.5
+|-
+|1–3 Feb
+|[https://www.demopolis.it/?p=10006 Demopolis]
+|1,500
+|14.2
+|style="background:#FFD0D7;"|'''21.5'''
+|18.0
+|7.5
+|20.6
+|
+|
+|
+| colspan="2" |3.4
+|
+|
+|14.8
+|style="background:#EF1C27; color:white;"|0.9
+|-
+|2 Feb
+|[https://www.dire.it/03-02-2022/704692-sondaggio-tecne-boom-di-consensi-per-fdi-ok-pd-crollo-lega-m5s-fi/ Tecnè]
+|1,000
+|13.1
+|21.4
+|17.1
+|8.8
+|style="background:#E5E7FF;" |'''21.9'''
+|
+|2.4
+|2.3
+| colspan="2" |4.8
+|2.8
+|
+|5.4
+|style="background:#03386A; color:white;"|0.5
+|-
+|2 Feb
+|[https://scenaripolitici.com/2022/02/sondaggio-index-research-3-febbraio-2022.html Index]
+|800
+|13.2
+|style="background:#FFD0D7;"|'''21.8'''
+|16.8
+|7.8
+|20.9
+|2.2
+|2.5
+|2.5
+| colspan="2" |5.1
+|2.9
+|
+|4.3
+|style="background:#EF1C27; color:white;"|0.9
+|-
+|31 Jan–1 Feb
+|[http://www.demos.it/a01947.php Demos & Pi]
+|1,037
+|15.6
+|style="background:#FFD0D7;"|'''20.8'''
+|17.4
+|7.6
+|20.5
+|
+|2.0
+|2.2
+| colspan="2" |4.3
+|2.4
+|2.1
+|5.1
+|style="background:#EF1C27; color:white;"|0.3
+|-
+|31 Jan
+|[https://scenaripolitici.com/2022/02/sondaggio-emg-different-1-febbraio-2022.html EMG]
+|1,463
+|14.2
+|style="background:#FFD0D7;"|'''21.0'''
+|18.2
+|7.9
+|19.4
+|1.3
+|2.3
+|2.4
+| colspan="2" |4.4
+|4.2
+|
+|4.7
+|style="background:#EF1C27; color:white;"|1.6
+|-
+|31 Jan
+|[https://scenaripolitici.com/2022/02/sondaggio-euromedia-research-2-febbraio-2022.html Euromedia]
+|1,000
+|14.2
+|20.8
+|16.7
+|7.4
+|style="background:#E5E7FF;" |'''21.1'''
+|2.2
+|2.1
+|2.4
+| colspan="2" |4.1
+|3.0
+|
+|6.0
+|style="background:#03386A; color:white;"|0.3
+|-
+|28–31 Jan
+|[https://www.istitutoixe.it/2022/01/31/intenzioni-di-voto-31-gennaio-2022/ Ixè]
+|1,000
+|15.1
+|style="background:#FFD0D7;"|'''21.2'''
+|17.2
+|8.6
+|18.5
+|2.0
+|2.1
+|2.3
+|2.4
+|3.3
+|2.3
+|
+|5.0
+|style="background:#EF1C27; color:white;"|2.7
+|-  
+|26–31 Jan
+|[https://scenaripolitici.com/2022/02/sondaggio-swg-31-gennaio-2022.html SWG]
+|1,200
+|13.8
+|style="background:#FFD0D7;"|'''21.2'''
+|17.5
+|7.3
+|20.5
+|2.6
+|2.6
+|2.8
+| colspan="2" |4.5
+|2.2
+|2.1
+|2.9
+|style="background:#EF1C27; color:white;"|0.7
+|-
+|26–27 Jan
+|[https://www.termometropolitico.it/1599747_sondaggi-tp-un-terzo-degli-italiani-vorrebbe-labolizione-del-green-pass.html Termometro Politico]
+|3,300
+|14.7
+|20.6
+|19.1
+|7.7
+|style="background:#E5E7FF;" |'''21.0'''
+| colspan="2" |3.1
+|1.7
+| colspan="2" |4.0
+|2.7
+|
+|5.4
+|style="background:#03386A; color:white;"|0.4
+|-
+|25 Jan
+|[https://scenaripolitici.com/2022/01/sondaggio-piepoli-25-gennaio-2022.html Piepoli]
+|–
+|14.5
+|style="background:#FFD0D7;"|'''21.0'''
+|18.5
+|7.5
+|20.5
+|2.0
+|2.0
+|
+|2.0
+|3.5
+|2.5
+|
+|6.0
+|style="background:#EF1C27; color:white;"|0.5
+|-  
+|19–24 Jan
+|[https://tg.la7.it/politica/il-sondaggio-politico-di-luned%C3%AC-24-gennaio-2022-24-01-2022-168192 SWG]
+|1,200
+|13.5
+|style="background:#FFD0D7;"|'''21.7'''
+|18.4
+|7.7
+|19.8
+|2.5
+|2.5
+|2.8
+| colspan="2" |4.8
+|2.3
+|1.6
+|2.4
+|style="background:#EF1C27; color:white;"|1.9
+|-
+|21 Jan
+|[https://www.dire.it/22-01-2022/700902-monitor-italia-fdi-sorpassa-il-pd-e-il-primo-partito/ Tecnè]
+|1,000
+|13.7
+|20.5
+|18.5
+|9.3
+|style="background:#E5E7FF;" |'''20.6'''
+|
+|2.5
+|2.2
+| colspan="2" |4.9
+|2.3
+|
+|5.5
+|style="background:#03386A; color:white;"|0.1
+|-
+|18–20 Jan
+|[https://www.termometropolitico.it/1599517_sondaggi-tp-gestione-pandemia-il-514-degli-italiani-boccia-il-governo.html Termometro Politico]
+|3,300
+|14.8
+|20.5
+|18.9
+|7.2
+|style="background:#E5E7FF;" |'''21.2'''
+| colspan="2" |3.1
+|1.6
+|1.7
+|3.3
+|2.5
+|
+|5.2
+|style="background:#03386A; color:white;"|0.7
+|-
+|17–20 Jan
+|[https://tg24.sky.it/politica/2022/01/21/quirinale-presidente-della-repubblica-sondaggio#19 Quorum – YouTrend]
+|804
+|16.6
+|style="background:#FFD0D7;"|'''21.4'''
+|17.9
+|9.3
+|19.1
+|1.0
+|2.1
+|1.5
+|colspan="2" |4.5
+|2.5
+|
+|4.1
+|style="background:#EF1C27; color:white;"|2.3
+|-
+|19 Jan
+|[https://scenaripolitici.com/2022/01/sondaggio-index-research-20-gennaio-2022.html Index]
+|800
+|14.1
+|style="background:#FFD0D7;"|'''22.3'''
+|18.5
+|7.5
+|19.3
+|2.3
+|2.5
+|2.4
+|colspan="2" |5.2
+|2.6
+|
+|3.3
+|style="background:#EF1C27; color:white;"|3.0
+|-
+|19 Jan
+|[https://www.adnkronos.com/sondaggi-politici-pd-primo-partito-al-21-6-seguito-da-fdi-al-18-9_4UQptblKGAzBE6i6NsOpyw?refresh_ce Euromedia]
+|800
+|14.4
+|style="background:#FFD0D7;"|'''21.6'''
+|18.5
+|8.2
+|18.9
+|2.1
+|1.9
+|2.1
+| colspan="2" |4.8
+|2.3
+|
+|5.2
+|style="background:#EF1C27; color:white;"|2.7
 |-  
 |12–17 Jan
 |[https://tg.la7.it/sondaggi/il-sondaggio-politico-di-luned%C3%AC-17-gennaio-2022-17-01-2022-167995 SWG]
@@ -45,26 +1296,9 @@
 |2.6
 | colspan="2" |4.8
 |2.4
-|
-|3.8
-|style="background:#EF1C27; color:white;"|1.6
-|-
-|15 Jan
-|[https://www.dire.it/15-01-2022/699159-sondaggio-dire-tecne-pd-primo-partito-ma-in-forte-calo-cresce-il-centrodestra/ Tecnè]
-|
-|14.3
-|style="background:#FFD0D7;"|'''20.7'''
-|18.3
-|9.2
-|20.5
 |1.5
 |2.3
-|2.1
-| colspan="2" |4.8
-|2.2
-|
-|5.6
-|style="background:#EF1C27; color:white;"|0.2
+|style="background:#EF1C27; color:white;"|1.6
 |-
 |12–15 Jan
 |[https://sondaggibidimedia.com/sondaggio-bidimedia-17-gennaio-22/ BiDiMedia]
@@ -79,11 +1313,28 @@
 |1.7
 | colspan="2" |5.4
 |1.7
-|0.8
-|6.9
+|1.2
+|6.5
 |style="background:#EF1C27; color:white;"|2.6
 |-
-|12–13 Jan
+|14 Jan
+|[https://www.dire.it/15-01-2022/699159-sondaggio-dire-tecne-pd-primo-partito-ma-in-forte-calo-cresce-il-centrodestra/ Tecnè]
+|1,000
+|14.3
+|style="background:#FFD0D7;"|'''20.7'''
+|18.3
+|9.2
+|20.5
+|
+|2.3
+|2.1
+| colspan="2" |4.8
+|2.2
+|
+|5.6
+|style="background:#EF1C27; color:white;"|0.2
+|-
+|11–13 Jan
 |[https://www.termometropolitico.it/1599416_sondaggi-tp-futuro-draghi-il-391-degli-italiani-non-lo-vuole-ne-a-palazzo-chigi-ne-al-quirinale.html Termometro Politico]
 |3,400
 |15.2
@@ -101,25 +1352,7 @@
 |style="background:#03386A; color:white;"|0.7
 |-
 |12 Jan
-|[https://scenaripolitici.com/2022/01/sondaggio-noto-12-gennaio-2022.html Noto]
-|–
-|14.0
-|19.5
-|18.0
-|8.5
-|style="background:#E5E7FF;" |'''20.0'''
-|1.0
-|1.0
-|1.0
-|1.0
-|3.0
-|2.5
-|2.0
-|8.5
-|style="background:#03386A; color:white;"|0.5
-|-
-|12 Jan
-|[https://twitter.com/EuropeElects/status/1481930543021309952?cxt=HHwWgICy6cX-75ApAAAA Index]
+|[https://scenaripolitici.com/2022/01/sondaggio-index-research-13-gennaio-2022.html Index]
 |800
 |14.4
 |style="background:#FFD0D7;"|'''22.1'''
@@ -132,9 +1365,27 @@
 |1.5
 |4.0
 |2.4
-|0.9
-|1.9
+|
+|2.8
 |style="background:#EF1C27; color:white;"|2.6
+|-
+|11–12 Jan
+|[https://scenaripolitici.com/2022/01/sondaggio-noto-12-gennaio-2022.html Noto]
+|1,000
+|14.0
+|19.5
+|18.0
+|8.5
+|style="background:#E5E7FF;" |'''20.0'''
+|1.0
+|1.0
+|1.0
+|1.0
+|3.0
+|2.5
+|
+|10.5
+|style="background:#03386A; color:white;"|0.5
 |-  
 |8–10 Jan
 |[https://scenaripolitici.com/2022/01/sondaggio-euromedia-research-11-gennaio-2022.html Euromedia]
@@ -168,8 +1419,8 @@
 |1.6
 |4.1
 |2.1
-|
-|2.2
+|1.1
+|1.1
 |style="background:#EF1C27; color:white;"|2.3
 |-
 |}

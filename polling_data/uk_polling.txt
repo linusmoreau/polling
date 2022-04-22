@@ -1,5 +1,4 @@
 === 2022 ===
-{{For|political events during the year|2022 in United Kingdom politics and government}}
 {| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
 ! rowspan="2"|Dates<br>conducted
 ! rowspan="2"|Pollster
@@ -22,6 +21,1077 @@
 ! data-sort-type="number" style="background:{{party color|Green Party of England and Wales}};"|
 ! data-sort-type="number" style="background:{{party color|Reform UK}};"|
 |-
+|{{opdrts|20|21|Apr|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/04/R14-UK-2022-4-22-DATA.pdf TechneUK]
+|N/A
+|UK
+|1,631
+|34%
+|style="background:#FFCCD9;"|'''40%'''
+|10%
+|4%
+|5%
+|–
+|7%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|19|20|Apr|2022}}
+|[https://yougov.co.uk/topics/politics/articles-reports/2022/04/22/voting-intention-con-33-lab-39-19-20-april?utm_source=twitter%20&utm_medium=website_article&utm_campaign=voting_intention YouGov]
+|''The Times''
+|GB
+|2.079
+|33%
+|style="background:#FFCCD9;"|'''39%'''
+|9%
+|4%
+|8%
+|3%
+|{{Hidden|4%|[[Plaid Cymru]] on 1%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts||17|Apr|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-17-april-2022// Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|34%
+|style="background:#FFCCD9;"|'''42%'''
+|10%
+|5%
+|5%
+|3%
+|{{Hidden|1%|[[Plaid Cymru]] on 0%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-8%"|8%
+|-
+|-
+|{{opdrts|13|14|Apr|2022}}
+|[https://deltapoll.co.uk/wp-content/uploads/2022/04/Deltapoll-220415_voteint.pdf Deltapoll]
+|''Mail on Sunday''
+|GB
+|1,550
+|32%
+|style="background:#FFCCD9;"|'''43%'''
+|9%
+|5%
+|6%
+|2%
+|{{Hidden|4%|[[UK Independence Party|UKIP]] on 2%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-11%"|11%
+|-
+|{{opdrts|13|14|Apr|2022}}
+|[https://docs.cdn.yougov.com/piotl43vjg/TheTimes_VI_220414.pdf YouGov]
+|''The Times''
+|GB
+|1,960
+|33%
+|style="background:#FFCCD9;"|'''38%'''
+|10%
+|4%
+|7%
+|5%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
+|-
+|{{opdrts|12|13|Apr|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/04/R13-UK-2022-4-15-DATA.pdf TechneUK]
+|N/A
+|UK
+|1,628
+|34%
+|style="background:#FFCCD9;"|'''41%'''
+|9%
+|4%
+|5%
+|–
+|7%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts|7|11|Apr|2022}}
+|[https://www.kantarpublic.com/inspiration/thought-leadership/eight-in-ten-britons-think-the-uk-government-has-handled-the-rising-cost-of-living-poorly Kantar Public]
+|N/A
+|GB
+|1,152
+|34%
+|style="background:#FFCCD9;"|'''37%'''
+|11%
+|5%
+|7%
+|4%
+|{{Hidden|4%|[[UK Independence Party|UKIP]] on 2%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-3%"|3%
+|-
+|{{opdrts||10|Apr|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-10-april-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|34%
+|style="background:#FFCCD9;"|'''42%'''
+|8%
+|4%
+|5%
+|4%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-8%"|8%
+|-
+|{{opdrts|8|10|Apr|2022}}
+|[https://comresglobal.com/polls/savanta-comres-political-tracker-april-2022/ SavantaComRes]
+|N/A
+|UK
+|2,145
+|34%
+|style="background:#FFCCD9;"|'''40%'''
+|9%
+|4%
+|4%
+|3%
+|{{Hidden|4%|[[Plaid Cymru]] on 0%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|6|8|Apr|2022}}
+|[https://www.opinium.com/wp-content/uploads/2022/04/VI-2022-04-06-Observer.xlsx Opinium]
+|''The Observer''
+|GB
+|2,004
+|34%
+|style="background:#FFCCD9;"|'''38%'''
+|10%
+|4%
+|7%
+|–
+|{{Hidden|8%|[[Plaid Cymru]] on 1%<br/>Other on 7%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
+|-
+|{{opdrts|6|7|Apr|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/04/R12-UK-2022-4-8-DATA.pdf TechneUK]
+|N/A
+|UK
+|1,635
+|35%
+|style="background:#FFCCD9;"|'''40%'''
+|10%
+|4%
+|4%
+|–
+|7%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
+|-
+|{{opdrts|6|7|Apr|2022}}
+|[https://docs.cdn.yougov.com/5huuowv08q/TheTimes_VI_220407_W.pdf YouGov]
+|''The Times''
+|GB
+|1,826
+|34%
+|style="background:#FFCCD9;"|'''37%'''
+|10%
+|4%
+|7%
+|4%
+|{{Hidden|4%|[[Plaid Cymru]] on 1%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-3%"|3%
+|-
+|{{opdrts||3|Apr|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-3-april-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|36%
+|style="background:#FFCCD9;"|'''42%'''
+|9%
+|3%
+|4%
+|3%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|1|3|Apr|2022}}
+|[https://comresglobal.com/polls/westminster-voting-intention-5-april/ SavantaComRes]
+|N/A
+|UK
+|2,220
+|33%
+|style="background:#FFCCD9;"|'''40%'''
+|11%
+|5%
+|4%
+|3%
+|{{Hidden|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts|30|31|Mar|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/04/R11-UK-2022-4-1-DATA.pdf TechneUK]
+|N/A
+|GB
+|1,639
+|36%
+|style="background:#FFCCD9;"|'''39%'''
+|9%
+|5%
+|5%
+|–
+|6%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-3%"|3%
+|-
+|{{opdrts|29|30|Mar|2022}}
+|[https://docs.cdn.yougov.com/z44o2vropj/TheTimes_VI_220330_W.pdf YouGov]
+|''The Times''
+|GB
+|2,006
+|33%
+|style="background:#FFCCD9;"|'''37%'''
+|9%
+|6%
+|6%
+|5%
+|{{Hidden|4%|[[Plaid Cymru]] on 1%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
+|-
+|{{opdrts|28|30|Mar|2022}}
+|[https://www.survation.com/labour-maintains-strong-lead-over-conservatives/ Survation]
+|N/A
+|UK
+|2,033
+|35%
+|style="background:#FFCCD9;"|'''42%'''
+|9%
+|4%
+|3%
+|2%
+|{{Hidden|6%|headerstyle=font-weight:normal;line-height:9px;|[[Plaid Cymru]] on 1% <br/> Others on 5%}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts||27|Mar|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-27-march-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|35%
+|style="background:#FFCCD9;"|'''37%'''
+|9%
+|6%
+|5%
+|5%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-2%"|2%
+|-
+|{{opdrts|25|27|Mar|2022}}
+|[https://comresglobal.com/polls/westminster-voting-intention-29-march/ SavantaComRes]
+|N/A
+|GB
+|2,226
+|35%
+|style="background:#FFCCD9;"|'''39%'''
+|11%
+|5%
+|3%
+|3%
+|{{Hidden|4%|[[Plaid Cymru]] on 0%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
+|-
+|{{opdrts|23|25|Mar|2022}}
+|[https://www.opinium.com/wp-content/uploads/2022/03/VI-2022-03-23-Observer.xlsx Opinium]
+|''The Observer''
+|GB
+|2,002
+|36%
+|style="background:#FFCCD9;"|'''38%'''
+|9%
+|4%
+|7%
+|–
+|{{Hidden|7%|[[Plaid Cymru]] on 1%<br/>Other on 6%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-2%"|2%
+|-
+|{{opdrts|23|24|Mar|2022}}
+|[https://docs.cdn.yougov.com/zcxk76upwj/TheTimes_VI_220324_W.pdf YouGov]
+|''The Times''
+|GB
+|1,759
+|35%
+|style="background:#FFCCD9;"|'''37%'''
+|10%
+|4%
+|7%
+|4%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-2%"|2%
+|-
+|{{opdrts|23|24|Mar|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/03/R10-UK-2022-3-25-DATA.pdf Techne]
+|N/A
+|UK
+|1,641
+|35%
+|style="background:#FFCCD9;"|'''40%'''
+|10%
+|4%
+|5%
+|–
+|6%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
+|-
+|{{opdrts|22|23|Mar|2022}}
+|[https://docs.cdn.yougov.com/6t7qu7kot7/TheTimes_VI_220323_W.pdf YouGov]
+|''The Times''
+|GB
+|1,810
+|35%
+|style="background:#FFCCD9;"|'''36%'''
+|9%
+|4%
+|8%
+|5%
+|{{Hidden|4%|[[Plaid Cymru]] on 1%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-1%"|1%
+|-
+|{{opdrts|17|21|Mar|2022}}
+|[https://www.kantarpublic.com/inspiration/thought-leadership/seven-in-ten-britons-support-sanctions-against-russia Kantar Public]
+|N/A
+|GB
+|1,042
+|style="background:#CCEBFF;"|'''36%'''
+|style="background:#FFCCD9;"|'''36%'''
+|12%
+|3%
+|6%
+|3%
+|{{Hidden|4%|[[UK Independence Party|UKIP]] on 1%<br/>[[Plaid Cymru]] on <1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|data-sort-value="0"|Tie
+|-
+|{{opdrts||20|Mar|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-20-march-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|35%
+|style="background:#FFCCD9;"|'''40%'''
+|11%
+|4%
+|7%
+|2%
+|{{Hidden|1%|[[Plaid Cymru]] on 0%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
+|-
+|{{opdrts|16|17|Mar|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/03/R9-UK-2022-3-18-DATA.pdf Techne]
+|N/A
+|UK
+|1,636
+|35%
+|style="background:#FFCCD9;"|'''39%'''
+|10%
+|4%
+|6%
+|–
+|6%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
+|-
+|{{opdrts|16|17|Mar|2022}}
+|[https://docs.cdn.yougov.com/qv4lur2bom/TheTimes_VI_220317_W.pdf YouGov]
+|''The Times''
+|GB
+|1,761
+|33%
+|style="background:#FFCCD9;"|'''39%'''
+|10%
+|5%
+|7%
+|4%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|9|16|Mar|2022}}
+|[https://www.ipsos.com/en-uk/conservatives-more-trusted-on-growing-economy-labour-more-trusted-on-reducing-cost-living Ipsos MORI]
+|''Evening Standard''
+|GB
+|1,000
+|35%
+|style="background:#FFCCD9;"|'''39%'''
+|10%
+|5%
+|7%
+|–
+|5%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
+|-
+|{{opdrts||13|Mar|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-13-march-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|36%
+|style="background:#FFCCD9;"|'''39%'''
+|10%
+|4%
+|6%
+|4%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-3%"|3%
+|-
+|{{opdrts|11|13|Mar|2022}}
+|[https://comresglobal.com/polls/savanta-comres-political-tracker-march-2022/ SavantaComRes]
+|N/A
+|UK
+|2,192
+|35%
+|style="background:#FFCCD9;"|'''40%'''
+|9%
+|4%
+|3%
+|3%
+|{{Hidden|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
+|-
+|{{opdrts|9|11|Mar|2022}}
+|[https://www.opinium.com/wp-content/uploads/2022/03/VI-2022-03-09-Tables-Observer.xlsx Opinium]
+|''The Observer''
+|GB
+|2,007
+|35%
+|style="background:#FFCCD9;"|'''37%'''
+|9%
+|4%
+|7%
+|–
+|{{Hidden|8%|[[Plaid Cymru]] on 1%<br/>Other on 7%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-2%"|2%
+|-
+|{{opdrts|8|11|Mar|2022}}
+|[https://deltapoll.co.uk/wp-content/uploads/2022/03/Deltapoll-220311_voteint.pdf Deltapoll]
+|N/A
+|GB
+|2,003
+|34%
+|style="background:#FFCCD9;"|'''40%'''
+|10%
+|5%
+|5%
+|2%
+|{{Hidden|3%|[[UK Independence Party|UKIP]] on 1%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|9|10|Mar|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/03/R8-UK-2022-3-11-DATA.pdf Techne]
+|N/A
+|UK
+|1,641
+|36%
+|style="background:#FFCCD9;"|'''38%'''
+|9%
+|4%
+|6%
+|–
+|7%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-2%"|2%
+|-
+|{{opdrts|8|9|Mar|2022}}
+|[https://docs.cdn.yougov.com/zek1b001f5/TheTimes_VI_220309_W.pdf YouGov]
+|''The Times''
+|GB
+|1,700
+|33%
+|style="background:#FFCCD9;"|'''39%'''
+|10%
+|4%
+|7%
+|4%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts||7|Mar|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-7-march-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|37%
+|style="background:#FFCCD9;"|'''40%'''
+|10%
+|4%
+|5%
+|2%
+|{{Hidden|1%|[[Plaid Cymru]] on 0%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-3%"|3%
+|-
+|{{opdrts|4|7|Mar|2022}}
+|[https://www.survation.com/mrp-shows-conservatives-losing-support-in-areas-they-had-been-most-popular/ Survation] (MRP update)
+|''38 Degrees''
+|GB
+|2,034
+|37%
+|style="background:#FFCCD9;"|'''40%'''
+|9%
+|5%
+|5%
+|–
+|{{hidden|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-3%"|3%
+|-
+|data-sort-value="2022-03-07"|11 Nov – 7 Mar
+|[https://cdn.survation.com/wp-content/uploads/2022/03/23101558/Survation-38-Degress-Voting-Intention-MRP-March-2022-Tables.xlsx Survation] (MRP)
+|''38 Degrees''
+|GB
+|8,002
+|37.0%
+|style="background:#FFCCD9;"|'''40.2%'''
+|9.0%
+|4.5%
+|4.8%
+|–
+|{{hidden|4.6%|[[Plaid Cymru]] on 0.6%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-3.2%"|3.2%
+|-
+|{{opdrts|4|6|Mar|2022}}
+|[https://comresglobal.com/polls/westminster-voting-intention-9-march/ Savanta ComRes]
+|N/A
+|UK
+|2,222
+|34%
+|style="background:#FFCCD9;"|'''41%'''
+|9%
+|5%
+|4%
+|3%
+|{{Hidden|6%|[[Plaid Cymru]] on 1%<br/>Other on 5%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts|3|4|Mar|2022}}
+|[https://docs.cdn.yougov.com/j8y7rbyfj2/TheTimes_VI_220304_W.pdf YouGov]
+|''The Times''
+|GB
+|1,658
+|35%
+|style="background:#FFCCD9;"|'''37%'''
+|7%
+|5%
+|8%
+|5%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-2%"|2%
+|-
+|{{opdrts||3|Mar|2022}}
+|colspan="12"|[[2022 Birmingham Erdington by-election|Birmingham Erdington by-election]]
+|-
+|{{opdrts|2|3|Mar|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/03/R7-UK-2022-3-4-DATA.pdf Techne UK]
+|N/A
+|UK
+|1,631
+|35%
+|style="background:#FFCCD9;"|'''38%'''
+|10%
+|4%
+|6%
+|–
+|7%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-3%"|3%
+|-
+|{{opdrts||28|Feb|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-28-february-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|35%
+|style="background:#FFCCD9;"|'''38%'''
+|12%
+|5%
+|5%
+|4%
+|{{Hidden|1%|[[Plaid Cymru]] on 0%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-3%"|3%
+|-
+|{{opdrts|21|28|Feb|2022}}
+|[https://www.ncpolitics.uk/2022/03/itv-peston-policing-polling/ Number Cruncher Politics]
+|ITV
+|UK
+|2,001
+|35%
+|style="background:#FFCCD9;"|'''42%'''
+|8%
+|5%
+|6%
+|2%
+|{{hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts|25|27|Feb|2022}}
+|[https://comresglobal.com/polls/westminster-voting-intention-3-march/ Savanta ComRes]
+|N/A
+|UK
+|2,208
+|34%
+|style="background:#FFCCD9;"|'''42%'''
+|9%
+|4%
+|3%
+|3%
+|{{hidden|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-8%"|8%
+|-
+|{{opdrts|24|25|Feb|2022}}
+|[https://docs.cdn.yougov.com/lvxxpabpm4/TheTimes_VI_220225_W.pdf YouGov]
+|''The Times''
+|GB
+|1,741
+|34%
+|style="background:#FFCCD9;"|'''39%'''
+|9%
+|5%
+|6%
+|5%
+|{{Hidden|4%|[[Plaid Cymru]] on 1%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
+|-
+|{{opdrts|23|25|Feb|2022}}
+|[https://www.opinium.com/wp-content/uploads/2022/02/VI-2022-02-23-Observer.xlsx Opinium]
+|''The Observer''
+|GB
+|2,068
+|34%
+|style="background:#FFCCD9;"|'''38%'''
+|11%
+|4%
+|6%
+|–
+|{{Hidden|6%|[[Plaid Cymru]] on 1%<br/>Other on 5%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
+|-
+|{{opdrts|23|24|Feb|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/02/R6-UK-2022-2-25-DATA.pdf Techne UK]
+|N/A
+|UK
+|1,635
+|35%
+|style="background:#FFCCD9;"|'''39%'''
+|9%
+|4%
+|6%
+|–
+|7%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
+|-
+|{{opdrts||21|Feb|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-21-february-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|33%
+|style="background:#FFCCD9;"|'''39%'''
+|11%
+|5%
+|7%
+|4%
+|{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|17|21|Feb|2022}}
+|[https://www.kantarpublic.com/inspiration/thought-leadership/nearly-half-of-britons-think-reducing-the-cost-of-living-should-be-priority-for-the-uk-government Kantar Public]
+|N/A
+|GB
+|1,090
+|34%
+|style="background:#FFCCD9;"|'''39%'''
+|12%
+|4%
+|6%
+|2%
+|{{Hidden|3%|[[UK Independence Party]] on 1%<br/>[[Plaid Cymru]] on <1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
+|-
+|{{opdrts|17|21|Feb|2022}}
+|[https://www.survation.com/amid-high-level-of-concern-cross-party-support-for-strong-action-on-ukraine/ Survation]
+|N/A
+|UK
+|2,050
+|35%
+|style="background:#FFCCD9;"|'''42%'''
+|9%
+|4%
+|3%
+|2%
+|{{hidden|5%|[[Plaid Cymru]] on 1%<br/>[[UK Independence Party|UKIP]] on 0%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts|18|20|Feb|2022}}
+|[https://comresglobal.com/polls/westminster-voting-intention-24-february-for-the-independent/ Savanta ComRes]
+|''The Independent''
+|UK
+|2,201
+|33%
+|style="background:#FFCCD9;"|'''40%'''
+|11%
+|4%
+|5%
+|3%
+|{{hidden|4%|[[Plaid Cymru]] on 0%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts|14|18|Feb|2022}}
+|[https://www.electoralcalculus.co.uk/blogs/DataTables_VIFeb2022.xlsx Findoutnow]
+|N/A
+|GB
+|12,700
+|32%
+|style="background:#FFCCD9;"|'''38%'''
+|13%
+|5%
+|7%
+|4%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|16|17|Feb|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/02/R5-UK-2022-2-18-DATA.pdf Techne UK]
+|N/A
+|UK
+|1,625
+|34%
+|style="background:#FFCCD9;"|'''39%'''
+|10%
+|4%
+|6%
+|–
+|7%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
+|-
+|{{opdrts|16|17|Feb|2022}}
+|[https://docs.cdn.yougov.com/q7z6w4uxng/TheTimes_VI_220217_W.pdf YouGov]
+|''The Times''
+|GB
+|1,720
+|34%
+|style="background:#FFCCD9;"|'''38%'''
+|10%
+|4%
+|6%
+|4%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
+|-
+|{{opdrts||14|Feb|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-14-february-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|33%
+|style="background:#FFCCD9;"|'''38%'''
+|11%
+|4%
+|6%
+|5%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
+|-
+|{{opdrts|11|13|Feb|2022}}
+|[https://comresglobal.com/polls/savanta-comres-politial-tracker-february-2022/ Savanta ComRes]
+|N/A
+|UK
+|2,226
+|32%
+|style="background:#FFCCD9;"|'''41%'''
+|11%
+|4%
+|4%
+|3%
+|{{Hidden|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-9%"|9%
+|-
+|{{opdrts|10|11|Feb|2022}}
+|[https://docs.cdn.yougov.com/7wtwbh2xah/TheTimes_VI_Results_220211_w.pdf YouGov]
+|''The Times''
+|GB
+|1,720
+|34%
+|style="background:#FFCCD9;"|'''37%'''
+|10%
+|5%
+|8%
+|4%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-3%"|3%
+|-
+|{{opdrts|9|11|Feb|2022}}
+|[https://www.opinium.com/resource-center/uk-voting-intention-27th-january-2022-2/ Opinium]{{efn|Opinium announced they had amended their methodology, so it cannot be compared directly to previous Opinium polls.}}
+|''The Observer''
+|GB
+|1,526
+|34%
+|style="background:#FFCCD9;"|'''37%'''
+|11%
+|3%
+|6%
+|–
+|{{Hidden|9%|[[Plaid Cymru]] on 1%<br/>Other on 8%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-3%"|3%
+|-
+|{{opdrts|8|9|Feb|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/02/R4-UK-2022-2-11-DATA.pdf Techne UK]
+|N/A
+|UK
+|1,631
+|33%
+|style="background:#FFCCD9;"|'''41%'''
+|9%
+|4%
+|6%
+|–
+|7%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-8%"|8%
+|-
+|{{opdrts||7|Feb|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-7-february-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|32%
+|style="background:#FFCCD9;"|'''42%'''
+|9%
+|4%
+|6%
+|4%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-10%"|10%
+|-
+|{{opdrts|4|6|Feb|2022}}
+|[https://comresglobal.com/polls/westminster-voting-intention-8th-february/ Savanta ComRes]
+|N/A
+|UK
+|2,232
+|33%
+|style="background:#FFCCD9;"|'''42%'''
+|9%
+|4%
+|5%
+|3%
+|{{Hidden|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-9%"|9%
+|-
+|{{opdrts|3|4|Feb|2022}}
+|[https://deltapoll.co.uk/wp-content/uploads/2022/02/Deltapoll-220207_voteint.pdf Deltapoll]
+|''The Sun on Sunday''
+|GB
+|1,587
+|34%
+|style="background:#FFCCD9;"|'''41%'''
+|10%
+|4%
+|5%
+|2%
+|{{Hidden|4%|[[UK Independence Party|UKIP]] on 2%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts||3|Feb|2022}}
+|colspan="12"|[[2022 Southend West by-election|Southend West by-election]]
+|-
+|{{opdrts|1|2|Feb|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/02/R3-UK-2022-2-4-1.pdf Techne UK]
+|N/A
+|UK
+|1,631
+|32%
+|style="background:#FFCCD9;"|'''40%'''
+|10%
+|4%
+|6%
+|–
+|8%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-8%"|8%
+|-
+|{{opdrts|1|2|Feb|2022}}
+|[https://docs.cdn.yougov.com/d005reieho/TheTimes_VI_220202_W.pdf YouGov]
+|''The Times''
+|GB
+|1,661
+|32%
+|style="background:#FFCCD9;"|'''41%'''
+|10%
+|5%
+|6%
+|4%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-9%"|9%
+|-
+|{{opdrts||31|Jan|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-31-january-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|33%
+|style="background:#FFCCD9;"|'''40%'''
+|11%
+|4%
+|6%
+|3%
+|{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts|28|30|Jan|2022}}
+|[https://comresglobal.com/polls/westminster-voting-intention-1st-february/ Savanta ComRes]
+|N/A
+|UK
+|2,283
+|33%
+|style="background:#FFCCD9;"|'''44%'''
+|9%
+|4%
+|3%
+|3%
+|{{Hidden|1%|[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-11%"|11%
+|-
+|{{opdrts||28|Jan|2022}}
+|[https://www.techneuk.com/tracker/archive/ Techne UK]
+|N/A
+|UK
+|–
+|31%
+|style="background:#FFCCD9;"|'''38%'''
+|12%
+|4%
+|6%
+|2%
+|7%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts|27|28|Jan|2022}}
+|[https://www.opinium.com/wp-content/uploads/2022/01/VI-2022-01-27-Observer.xlsx Opinium]
+|''The Observer''
+|GB
+|1,647
+|34%
+|style="background:#FFCCD9;"|'''39%'''
+|9%
+|5%
+|5%
+|–
+|{{Hidden|7%|[[Plaid Cymru]] on 1%<br/>Other on 6%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|5%
+|-
+|{{opdrts|26|27|Jan|2022}}
+|[https://docs.cdn.yougov.com/1hndsx8vfr/TheTimes_VI_220127_W.pdf YouGov]
+|''The Times''
+|GB
+|1,656
+|32%
+|style="background:#FFCCD9;"|'''38%'''
+|11%
+|5%
+|7%
+|3%
+|{{Hidden|4%|[[Plaid Cymru]] on 1%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|25|27|Jan|2022}}
+|[https://deltapoll.co.uk/polls/voteint220131 Deltapoll]
+|''Daily Mirror'' 
+|GB
+|1,515
+|32%
+|style="background:#FFCCD9;"|'''42%'''
+|10%
+|5%
+|6%
+|1%
+|{{Hidden|3%|[[UK Independence Party|UKIP]] on 1%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-10%"|10%
+|-
+|{{opdrts||25|Jan|2022}}
+|[https://cdn.survation.com/wp-content/uploads/2022/01/26092752/Daily-Mail-Tables-260122.xlsx Survation]
+|''Daily Mail''
+|UK
+|1,117
+|35%
+|style="background:#FFCCD9;"|'''40%'''
+|10%
+|5%
+|3%
+|3%
+|{{hidden|4%|[[Plaid Cymru]] on 1%<br/>[[UK Independence Party|UKIP]] on 0%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
+|-
+|{{opdrts|19|25|Jan|2022}}
+|[https://www.standard.co.uk/news/politics/boris-johnson-satisfaction-rating-partygate-record-low-ipsos-mori-poll-b979124.html Ipsos MORI] 
+|''Evening Standard''
+|GB
+|1,059
+|31%
+|style="background:#FFCCD9;"|'''40%'''
+|13%
+|4%
+|9%
+|1%
+|{{hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-9%"|9%
+|-
+|{{opdrts||24|Jan|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-24-january-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|34%
+|style="background:#FFCCD9;"|'''41%'''
+|11%
+|5%
+|5%
+|3%
+|{{Hidden|1%|[[Plaid Cymru]] on 0%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts|20|24|Jan|2022}}
+|[https://www.kantarpublic.com/inspiration/thought-leadership/half-of-britons-report-that-their-householdi-ncome-has-fallen-behind-the-cost-of-living/ Kantar Public]
+|N/A
+|GB
+|1,086
+|34%
+|style="background:#FFCCD9;"|'''38%'''
+|11%
+|5%
+|7%
+|2%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>[[UK Independence Party]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
+|-
+|{{opdrts|21|23|Jan|2022}}
+|[https://comresglobal.com/polls/westminster-voting-intention-25th-jan-2022/ Savanta ComRes]
+|N/A
+|UK
+|2,095
+|32%
+|style="background:#FFCCD9;"|'''40%'''
+|11%
+|5%
+|4%
+|3%
+|{{Hidden|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-8%"|8%
+|-
+|{{opdrts|11|23|Jan|2022}}
+|[https://www.thetimes.co.uk/article/half-the-cabinets-seats-now-at-risk-reveals-new-poll-gtktx2r0w JL Partners Polls]
+|''Sunday Times''
+|GB
+|4,561
+|32%
+|style="background:#FFCCD9;"|'''45%'''
+|11%
+|N/A
+|8%
+|N/A
+|N/A
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-13%"|13%
+|-
+|{{opdrts|20|21|Jan|2022}}
+|[https://docs.cdn.yougov.com/uvfbo1dlni/TheTimes_VI_220121_W.pdf YouGov]
+|''The Times''
+|GB
+|1,668
+|32%
+|style="background:#FFCCD9;"|'''39%'''
+|8%
+|5%
+|8%
+|4%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
 |{{opdrts||17|Jan|2022}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-17-january-2022/ Redfield & Wilton Strategies]
 |N/A
@@ -36,6 +1106,34 @@
 |{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-13%"|13%
 |-
+|{{opdrts|14|17|Jan|2022}}
+|[https://cdn.survation.com/wp-content/uploads/2022/01/21125651/Nolan-principle-tables-38-Degrees.xlsx Survation]
+|''38 Degrees''
+|UK
+|2,036
+|33%
+|style="background:#FFCCD9;"|'''43%'''
+|10%
+|4%
+|3%
+|2%
+|{{hidden|5%|[[Plaid Cymru]] on 1%<br/>[[Democratic Unionist Party|DUP]] on 1%<br/>[[Alliance Party of Northern Ireland|Alliance]] on 1%<br/>[[UK Independence Party|UKIP]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-10%"|10%
+|-
+|{{opdrts|14|16|Jan|2022}}
+|[https://comresglobal.com/polls/savanta-comres-political-tracker-january-2022/ Savanta ComRes]
+|N/A
+|GB
+|2,151
+|32%
+|style="background:#FFCCD9;"|'''41%'''
+|11%
+|5%
+|4%
+|3%
+|{{hidden|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-9%"|9%
+|-
 |{{opdrts|12|16|Jan|2022}}
 |[https://deltapoll.co.uk/wp-content/uploads/2022/01/Deltapoll-220117_voteint.pdf Deltapoll]
 |N/A
@@ -47,11 +1145,11 @@
 |5%
 |5%
 |2%
-|{{Hidden|4%|[[UK Independence Party]] on 2%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|{{Hidden|4%|[[UK Independence Party|UKIP]] on 2%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-9%"|9%
 |-
 |{{opdrts|13|14|Jan|2022}}
-|[https://twitter.com/SavantaComRes/status/1482064968568778759/ Savanta ComRes]
+|[https://comresglobal.com/polls/westminster-voting-intention-january-14th/ Savanta ComRes]
 |N/A
 |GB
 |2,151
@@ -60,9 +1158,23 @@
 |11%
 |4%
 |4%
-|–
-|7%
+|2%
+|{{hidden|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-10%"|10%
+|-
+|{{opdrts|13|14|Jan|2022}}
+|[https://docs.cdn.yougov.com/ewr8qsi4gf/TheTimes_VI_220114_W.pdf YouGov]
+|''The Times''
+|GB
+|1,683
+|31%
+|style="background:#FFCCD9;"|'''39%'''
+|11%
+|5%
+|6%
+|5%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-8%"|8%
 |-
 |{{opdrts|12|14|Jan|2022}}
 |[https://www.opinium.com/wp-content/uploads/2022/01/VI-2022-01-12-Observer-Tables.xlsx Opinium]
@@ -149,7 +1261,7 @@
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
 |-
 |{{opdrts|7|9|Jan|2022}}
-|[https://twitter.com/SavantaComRes/status/1480829374865813504/ Savanta ComRes]
+|[https://comresglobal.com/polls/westminster-voting-intention-january-11th/ Savanta ComRes]
 |N/A
 |GB
 |2,207
@@ -158,8 +1270,8 @@
 |11%
 |5%
 |4%
-|–
-|10%
+|4%
+|{{Hidden|6%|[[Plaid Cymru]] on 1%<br/>Other on 5%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
 |-
 |{{opdrts|6|7|Jan|2022}}

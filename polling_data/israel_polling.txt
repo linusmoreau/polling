@@ -41,9 +41,207 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 !style=background:{{party color|United Arab List}} |
 !style=background:{{party color|Yesh Atid}} |
 |-
+|data-sort-value=2022-04-07 |7 Apr 22
+|Panels Politics
+|''[[Maariv (newspaper)|Maariv]]''<ref>{{Cite news |last=Bender |first=Arik |date=8 April 2022 |title=סקר "מעריב": הליכוד וגוש הימין מתחזקים, אך נעצרים ב־60 מנדטים |work=Maariv |url=https://www.maariv.co.il/news/politics/Article-909947 |access-date=8 April 2022 |language=he}}</ref>
+|style=background:#BBCDE4 |'''37'''	<!-- Likud		-->
+|18					<!-- Yesh Atid -->
+|7					<!-- Shas		-->
+|7					<!-- Blue and White	-->
+|5					<!-- Yamina		-->
+|6					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|9					<!-- Religious Zionist	-->
+|6					<!-- Joint List	-->
+|4					<!-- New Hope	-->
+|5					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|54					<!-- Gov		-->
+|-
+|data-sort-value=2022-04-06 |6 Apr 22
+|Direct Polls
+|[[Channel 14 (Israel)|Channel 14]]<ref name=Ch14Apr6>{{cite news |author=Yitzhak Abuhatzira |title=סקר דרמטי: רה"מ בנט לא עובר את אחוז החסימה, רוב לגוש הימין |url=https://www.now14.co.il/סקר-דרמטי-רהמ-בנט-לא-עובר-את-אחוז-החסימ/ |work=Now 14 |date=7 April 2022 |language=he |access-date=8 April 2022}}</ref>
+|style=background:#BBCDE4 |'''35'''	<!-- Likud		-->
+|20					<!-- Yesh Atid	-->
+|10					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|{{small|(2.9%)}}	<!-- Yamina		-->
+|7					<!-- Labor		-->
+|8					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|9					<!-- Religious Zionist	-->
+|7					<!-- Joint List	-->
+|{{small|(2.5%)}}	<!-- New Hope	-->
+|5					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|51					<!-- Gov		-->
+|-
+|data-sort-value=2022-04-06 |6 Apr 22
+|Camil Fuchs
+|[[Channel 13 (Israel)|Channel 13]]<ref name=Ch13Apr6>{{Cite news |last=Korah |first=Hila |last2=Ovadia |first2=Sefi |date=6 April 2022 |title=גוש נתניהו מגיע ל-60, רוב הציבור חושב שיגויס עריק נוסף {{!}} סקר חדשות 13 |work=Channel 13 |url=https://13tv.co.il/item/news/politics/politics/survey-politics-902979852/ |access-date=7 April 2022 |language=he}}</ref>
+|style=background:#BBCDE4 |'''38'''	<!-- Likud		-->
+|17					<!-- Yesh Atid -->
+|7					<!-- Shas		-->
+|9					<!-- Blue and White	-->
+|7					<!-- Yamina		-->
+|6					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|8					<!-- Religious Zionist	-->
+|6					<!-- Joint List	-->
+|–					<!-- New Hope	-->
+|5					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|54					<!-- Gov		-->
+|-
+|data-sort-value=2022-04-06 |6 Apr 22
+|Midgam
+|[[HaHadashot 12]]<ref>{{Cite news |author=Amit Segal |title=לאחר פרישת סילמן והטלטלה בקואליציה: תמונת המנדטים והגושים העדכנית |url=https://www.mako.co.il/news-politics/2022_q2/Article-fe944b1cc9fff71026.htm |date=6 April 2022 |access-date=7 April 2022 |website=N12 |language=he}}</ref>
+|style=background:#BBCDE4 |'''35'''	<!-- Likud		-->
+|17					<!-- Yesh Atid -->
+|9					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|5					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|7					<!-- Religious Zionist	-->
+|6					<!-- Joint List	-->
+|4					<!-- New Hope	-->
+|5					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|56					<!-- Gov		-->
+|-
+|data-sort-value=2022-04-06 |6 Apr 22
+|Kantar
+|[[Kan 11]]<ref>{{Cite news |title=סקר כאן חדשות: הליכוד מזנקת ל-35 מנדטים, למי יש ממשלה? |url=https://www.kan.org.il/Item/?itemId=125221 |date=6 April 2022 |access-date=7 April 2022 |website=Kan |language=he}}</ref>
+|style=background:#BBCDE4 |'''35'''	<!-- Likud		-->
+|19					<!-- Yesh Atid -->
+|8					<!-- Shas -->
+|8					<!-- Blue and White	-->
+|6					<!-- Yamina		-->
+|5					<!-- Labor -->
+|7					<!-- UTJ		-->
+|4					<!-- Yisrael Beiteinu	-->
+|8					<!-- Religious Zionist	-->
+|6					<!-- Joint List	-->
+|5					<!-- New Hope -->
+|5					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|56					<!-- Gov		-->
+|-
+|data-sort-value=2022-03-28 |28 Mar 22
+|Midgam
+|[[HaHadashot 12]]<ref name=Ch12Mar28>{{cite news |title=58% מהציבור: תפקוד הממשלה בתחום הביטחוני - גרוע |url=https://www.mako.co.il/news-politics/2022_q1/Article-bf8a446d8d3df71027.htm |access-date=29 March 2022 |date=29 March 2022 |work=N12 |language=he}}</ref>
+|style=background:#BBCDE4 |'''34'''	<!-- Likud		-->
+|18					<!-- Yesh Atid	-->
+|9					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|6					<!-- Yamina		-->
+|6					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|8					<!-- Religious Zionist	-->
+|6					<!-- Joint List	-->
+|4					<!-- New Hope	-->
+|4					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|56					<!-- Gov		-->
+|-
+|data-sort-value=2022-03-21 |21 Mar 22
+|Maagar Mohot
+|''[[Israel Hayom]]''<ref name=IH21Mar22>{{cite news |author=Mati Tuchfeld |title=סקר "ישראל היום" ו"מאגר מוחות" במלאת שנה לבחירות: הרוב סבור - הממשלה תשלים כהונתה |url=https://www.israelhayom.co.il/news/politics/article/9318226 |work=Israel Hayom |access-date=29 March 2022 |date=21 March 2022 |language=he}}</ref>
+|style=background:#BBCDE4 |'''34'''	<!-- Likud		-->
+|17					<!-- Yesh Atid	-->
+|8					<!-- Shas		-->
+|10					<!-- Blue and White	-->
+|6					<!-- Yamina		-->
+|8					<!-- Labor		-->
+|8					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|9					<!-- Religious Zionist	-->
+|6					<!-- Joint List	-->
+|–					<!-- New Hope	-->
+|5					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|55					<!-- Gov		-->
+|-
+|data-sort-value=2022-03-15 |15 Mar 22
+|Midgam
+|[[HaHadashot 12]]<ref>{{cite news |author=Amit Segal |title=סקר חדשות 12: בנט ה"מתווך" מתחזק, תמיכה בעמדה הנוכחית מול רוסיה |url=https://www.mako.co.il/news-israel/2022_q1/Article-7c951dbc8be8f71026.htm |access-date=15 March 2022 |date=15 March 2022 |work=N12 |language=he}}</ref>
+|style=background:#BBCDE4 |'''34'''	<!-- Likud		-->
+|17					<!-- Yesh Atid	-->
+|9					<!-- Shas		-->
+|7					<!-- Blue and White	-->
+|7					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|7					<!-- Religious Zionist	-->
+|6					<!-- Joint List	-->
+|4					<!-- New Hope	-->
+|4					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|57					<!-- Gov		-->
+|-
+|data-sort-value=2022-02-13 |13 Feb 22
+|Direct Polls
+|–<ref>{{Cite tweet |author=Direct Polls |user=Direct_Polls |number=1493495297871339520 |date=15 February 2022 |title=שבועיים קשוחים עברו על הקואליציה בכלל, ועלתזוזות בדעת הקהל עם 4 כותרות משמעותיות הבוקר: רע"מ נחלשת, ימינה מגרדת את אחוז החסימה, גידול באחוז המתלבטים בקרב גוש הקואליציה, גוש האופוזיציה נוגע בקידומת 6. |language=he |access-date=16 February 2022}}</ref>
+|style=background:#BBCDE4 |'''36'''	<!-- Likud		-->
+|17					<!-- Yesh Atid	-->
+|9					<!-- Shas		-->
+|9					<!-- Blue and White	-->
+|4					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|8					<!-- Religious Zionist	-->
+|7					<!-- Joint List	-->
+|{{small|(2.9%)}}	<!-- New Hope	-->
+|5					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|53					<!-- Gov		-->
+|-
+|data-sort-value=2022-01-18 |18 Jan 22
+|Maagar Mohot
+|''[[Israel Hayom]]''<ref name=SrugimJan18>{{cite news |author=Mati Tuchfeld |title=סקר "ישראל היום" ו"מאגר מוחות": למרות המגעים לעסקת טיעון - התמיכה בנתניהו נשארת גבוהה |url=https://www.israelhayom.co.il/news/politics/article/7151971 |work=Israel Hayom |date=18 January 2022 |language=he |access-date=20 January 2022}}</ref>
+|style=background:#BBCDE4 |'''34'''	<!-- Likud		-->
+|18					<!-- Yesh Atid	-->
+|9					<!-- Shas		-->
+|9					<!-- Blue and White	-->
+|5					<!-- Yamina		-->
+|8					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|8					<!-- Religious Zionist	-->
+|7					<!-- Joint List	-->
+|–					<!-- New Hope	-->
+|4					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|55					<!-- Gov		-->
+|-
+|data-sort-value=2022-01-16 |16 Jan 22
+|Midgam
+|[[HaHadashot 12]]<ref name=Ch12Jan16>{{cite news |author=Amit Segal |title=סקר חדשות 12 {{!}} תמונת המנדטים ביום שאחרי נתניהו: הליכוד בראשות ברקת שומר על כוחו, למעלה מ-50% מתנגדים להסדר הטיעון |url=https://www.mako.co.il/news-politics/2022_q1/Article-1e7c0fb27d36e71026.htm |access-date=22 January 2022 |date=16 January 2022 |work=N12 |language=he}}</ref>
+|style=background:#BBCDE4 |'''33'''	<!-- Likud		-->
+|18					<!-- Yesh Atid		-->
+|9					<!-- Shas		-->
+|9					<!-- Blue and White	-->
+|5					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|7					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|4					<!-- New Hope		-->
+|4					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|58					<!-- Gov		-->
+|-
 |data-sort-value=2022-01-10 |10 Jan 22
 |Maagar Mohot
-|Srugim<ref name=SrugimJan10>{{cite news |title=Srugim poll: Barkat-led Likud with 62 coalition - and without Bennett |url=https://www.srugim.co.il/635862-סקר-דרמטי-הליכוד-עם-קואליציית-62-בלי-בנט |work=srugim.co.il |date=10 January 2022 |language=he}}</ref>
+|''Srugim''<ref name=SrugimJan10>{{cite news |title=סקר סרוגים: הליכוד בראשות ברקת עם קואליציית 62 - בלי בנט |url=https://www.srugim.co.il/635862-סקר-דרמטי-הליכוד-עם-קואליציית-62-בלי-בנט |work=Srugim |date=10 January 2022 |language=he |access-date=19 January 2022}}</ref>
 |style=background:#BBCDE4 |'''33'''	<!-- Likud		-->
 |18					<!-- Yesh Atid	-->
 |9					<!-- Shas		-->
@@ -61,7 +259,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2022-01-06 |6 Jan 22
 |Direct Polls
-|Channel 14<ref name=Ch14Jan6>{{cite news |title=Dramatic poll: The Likud is getting stronger, Yamina near the Electoral-threshold |url=https://www.now14.co.il/סקר-מנדטים-דרמטי-הליכוד-מתחזקת-ימינה-ע/ |work=Now 14 |date=6 January 2022 |language=he-IL}}</ref>
+|[[Channel 14 (Israel)|Channel 14]]<ref name=Ch14Jan6>{{cite news |title=סקר מנדטים דרמטי: הליכוד מתחזקת, ימינה על גבול אחוז החסימה |url=https://www.now14.co.il/סקר-מנדטים-דרמטי-הליכוד-מתחזקת-ימינה-ע/ |work=Now 14 |date=6 January 2022 |language=he-IL |access-date=19 January 2022}}</ref>
 |style=background:#BBCDE4 |'''35'''	<!-- Likud		-->
 |19					<!-- Yesh Atid	-->
 |9					<!-- Shas		-->
@@ -79,7 +277,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2022-01-06 |6 Jan 22
 |Smith
-|Galei Israel<ref>{{cite news |title=New poll: Likud - 33, Yamina - 6 |url=https://www.israelnationalnews.com/news/319986 |work=Israel National News |date=6 January 2022 |language=en}}</ref>
+|Galei Israel<ref>{{cite news |author=Yehonatan Gottlieb |title=New poll: Likud - 33, Yamina - 6 |url=https://www.israelnationalnews.com/news/319986 |work=[[Arutz Sheva]] |date=6 January 2022 |access-date=19 January 2022}}</ref>
 |style=background:#BBCDE4 |'''33'''	<!-- Likud		-->
 |20					<!-- Yesh Atid	-->
 |8					<!-- Shas		-->
@@ -95,11 +293,11 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |5					<!-- Ra'am		-->
 |58					<!-- Gov		-->
 |-
-|colspan=17 |'''2022'''
+|colspan=17 |'''2021'''
 |-
 |data-sort-value=2021-12-21 |21 Dec 21
 |Camil Fuchs
-|[[Channel 13 (Israel)|Channel 13]]<ref>{{cite news |title= חצי שנה להקמת הממשלה: רמת האמון הציבורית בבנט בירידה |url=https://13tv.co.il/item/news/politics/politics/survey-bennett-partys-902772849/ |access-date=25 Dec 2021 |date=21 Dec 2021 |work=[[Channel 13 (Israel)|Channel 13]] |language=he}}</ref>
+|[[Channel 13 (Israel)|Channel 13]]<ref>{{cite news |title= חצי שנה להקמת הממשלה: רמת האמון הציבורית בבנט בירידה |url=https://13tv.co.il/item/news/politics/politics/survey-bennett-partys-902772849/ |access-date=25 December 2021 |date=21 December 2021 |work=[[Channel 13 (Israel)|Channel 13]] |language=he}}</ref>
 |style=background:#BBCDE4 |'''33'''	<!-- Likud		-->
 |19					<!-- Yesh Atid	-->
 |8					<!-- Shas		-->
@@ -315,7 +513,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-10-03 |3 Oct 21
 |Direct Polls
-|Arutz Sheva<ref>{{cite news |url=https://www.inn.co.il/news/527425 |title= סקר דיירקט פולס: 35 מנדטים לליכוד, 4 מנדטים למפלגת ימינה |language=he |work=[[Arutz Sheva]] |date=4 October 2021 |access-date=5 Oct 2021}}</ref>
+|''[[Arutz Sheva]]''<ref>{{cite news |url=https://www.inn.co.il/news/527425 |title= סקר דיירקט פולס: 35 מנדטים לליכוד, 4 מנדטים למפלגת ימינה |language=he |work=Arutz Sheva |date=4 October 2021 |access-date=5 Oct 2021}}</ref>
 |style=background:#BBCDE4 |'''35'''	<!-- Likud		-->
 |19					<!-- Yesh Atid	-->
 |9					<!-- Shas		-->

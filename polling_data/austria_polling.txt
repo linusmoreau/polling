@@ -12,7 +12,7 @@
 ! class="unsortable" style="width:50px;"| [[Freedom Party of Austria|FPÖ]]
 ! class="unsortable" style="width:50px;"| [[The Greens – The Green Alternative|Grüne]]
 ! class="unsortable" style="width:50px;"| [[NEOS – The New Austria and Liberal Forum|NEOS]]
-! class="unsortable" style="width:50px;"| [[MFG – Austria People – Freedom – Fundamental Rights|MFG]]
+! class="unsortable" style="width:50px;"| [[MFG Austria – People Freedom Fundamental Rights|MFG]]
 ! class="unsortable" style="width:50px;"| Others
 ! rowspan="2" class="unsortable" style="width:50px;" | Lead
 |-
@@ -24,10 +24,88 @@
 ! style="background:{{party color|MFG – Austria People – Freedom – Fundamental Rights}};"|
 ! style="background:{{party color|Independent}};"|
 |-
+| [https://www.unique-research.at/post/heute-umfrage-politische-stimmungslage-m%C3%A4rz-2022 Unique Research]
+| data-sort-value="2022-03-24"| 21–24 Mar 2022
+| 800
+| Phone & Online
+| 22
+| style="background:#F4C6C9;"| '''29'''
+| 19
+| 11
+| 9
+| 8
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 7
+|-
+| [https://twitter.com/Wahlen_AT/status/1502554284218535938 Unique Research]
+| data-sort-value="2022-03-10"| 3–10 Mar 2022
+| 800
+| Phone & Online
+| 23
+| style="background:#F4C6C9;"| '''27'''
+| 19
+| 11
+| 10
+| 8
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 4
+|-
+| [https://twitter.com/wahlen_at/status/1499722398576390146 IFDD]
+| data-sort-value="2022-03-03"| 21 Feb–3 Mar 2021
+| 600
+| Online
+| 23
+| style="background:#F4C6C9;"| '''28'''
+| 20
+| 9
+| 11
+| –
+| 9
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 5
+|-
+| [https://www.derstandard.at/story/2000133692819/bundespraesidenten-wahl-haelfte-der-oesterreicher-fuer-gegenkandidaten-zu-van-der Peter Hajek]
+| data-sort-value="2022-02-24"| 21–24 Feb 2022
+| 800
+| Phone & Online
+| 23
+| style="background:#F4C6C9;"| '''25'''
+| 20
+| 11
+| 11
+| 7
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 2
+|-
+| [https://www.derstandard.at/story/2000133603107/umfrage-spoe-vor-oevp-aber-nehammer-vor-rendi-wagner Market]
+| data-sort-value="2022-02-22"| 18–22 Feb 2022
+| 803
+| Online & CAPI
+| 24
+| style="background:#F4C6C9;"| '''27'''
+| 20
+| 11
+| 12
+| 5
+| 1
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 3
+|-
+| [https://www.profil.at/oesterreich/profil-umfrage-spoe-ueberholt-oevp-gruene-legen-zu/401902930 Unique Research]
+| data-sort-value="2022-02-10"| 7–10 Feb 2022
+| 800
+| Phone & Online
+| 24
+| style="background:#F4C6C9;"| '''25'''
+| 18
+| 13
+| 10
+| 7
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 1
+|-
 | [https://www.profil.at/oesterreich/umfrage-oevp-und-spoe-gleichauf-fpoe-legt-zu/401871764 Unique Research]
 | data-sort-value="2022-01-13"| 10–13 Jan 2022
-| 500
-| Online
+| 800
+| Phone & Online
 | style="background:#D2EDF1;"| '''25'''
 | style="background:#F4C6C9;"| '''25'''
 | 20
