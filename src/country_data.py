@@ -232,6 +232,18 @@ specs = {
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_2022_French_presidential_election&action=edit&section=1'
     },
+    'France Leg': {
+        'key': ['firm', 'date', 'sample', 'EXG', 'NUPES', 'NUPES', 'NUPES', 'NUPES', 'NUPES', 'ECO', 'PA',
+                'ENS', 'ENS', 'LR', 'LR', 'DLF', 'RN', 'REC', 'REG', 'DIV'],
+        'include': ['EXG', 'NUPES', 'ENS', 'LR', 'DLF', 'RN', 'REC'],
+        'col': {'EXG': (170, 0, 0), 'NUPES': (187, 24, 64), 'ENS': (255, 214, 0), 'LR': (0, 102, 204),
+                'DLF': (0, 135, 205), 'RN': (0, 74, 119), 'REC': (11, 11, 102)},
+        'blocs': {'Socialist': ['EXG', 'NUPES'], 'Liberal': ['ENS', 'LR'], 'Nationalist': ['RN', 'REC', 'DLF']},
+        'end_date': Date(2022, 6, 12),
+        'start': 0,
+        'url': 'https://en.wikipedia.org/w/index.php?title='
+               'Opinion_polling_for_the_2022_French_legislative_election&action=edit&section=3'
+    },
     'Germany': {
         'include': ['Union', 'SPD', 'AfD', 'FDP', 'Linke', 'Gr\u00fcne'],
         'key': ['firm', 'date', 'sample', 'abs',
