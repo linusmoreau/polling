@@ -44,13 +44,6 @@
 | 45
 |
 |-
-|14-16 Dec 2021
-|[https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A9f152c65-87f8-3290-b5a2-1b1b3b9cfd2c&s=09#pageNum=6 AtlasIntel]
-|
-| bgcolor="#FED0D6" |'''50'''
-|bgcolor="#CAD5E9" |'''50'''
-|colspan=2| —
-|-
 |1-4 Dec 2021
 |[https://cdn.atlasintel.org/16a81493-d71b-4aaa-872a-112294e7af5f.pdf AtlasIntel]
 |

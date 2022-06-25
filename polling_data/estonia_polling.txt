@@ -1,4 +1,6 @@
 === 2022 ===
+{{mw-datatable}}
+
 {| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
 ! rowspan="2"| Polling firm
 ! rowspan="2"|Fieldwork Date
@@ -24,6 +26,206 @@
 ! data-sort-type="number" style="background:{{party color|Estonian Greens}};"|
 ! data-sort-type="number" style="background:Green;"|
 ! data-sort-type="number" style="background:Red;"|
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|14–20 Jun
+|1,000
+|style="background:#FEF4AE" |'''34.1'''
+|16.0
+|22.6
+|7.6
+|5.8
+|9.9
+|2.1
+|1.9
+| style="background:{{party color|Estonian Reform Party}};" |11.5
+|34.1
+|{{no|65.9}}
+|-
+|[https://news.err.ee/1608632632/turu-uuringud-center-and-isamaa-manage-to-boost-rating Turu-uuringute AS]
+|17 Jun{{efn|Publication date}}
+|600–700
+|style="background:#FEF4AE" |'''31'''
+|17
+|18
+|10
+|8
+|12
+|1
+|3
+| style="background:{{party color|Estonian Reform Party}};" |13
+|31
+| {{no|55}}
+|-
+|[https://www.err.ee/1608606583/reitingud-tuli-valitsuses-keskerakonna-toetust-ei-tostnud Kantar Emor]
+|9–14 Jun
+|1,537
+|style="background:#FEF4AE" |'''32'''
+|15
+|18
+|9
+|8
+|15
+|3
+|0{{efn|name="Tule"|[[Estonian Party for the Future|TULE]]}}
+| style="background:{{party color|Estonian Reform Party}};" |14
+|32
+| {{no|68}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|7–13 Jun
+|1,000
+|style="background:#FEF4AE" |'''35.0'''
+|16.6
+|21.3
+|8.4
+|6.5
+|9.1
+|1.8
+|0.8
+| style="background:{{party color|Estonian Reform Party}};" |13.7
+|35.0
+|{{no|65.0}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|1–6 Jun
+|1,000
+|style="background:#FEF4AE" |'''33.5'''
+|20.5
+|20.8
+|6.8
+|5.8
+|10.4
+|2.0
+|0.2
+| style="background:{{party color|Estonian Reform Party}};" |12.7
+|33.5
+|{{no|66.5}}
+|-
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"|2 Jun
+| style="border-right-style:hidden;"|
+| colspan="9"|'''The ministers of Kesk [[Kaja Kallas' cabinet|were dismissed]]'''
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|24–30 May
+|1,000
+|style="background:#FEF4AE" |'''34.7'''
+|16.7
+|19.4
+|6.4
+|7.0
+|13.7
+|0.7
+|1.4
+| style="background:{{party color|Estonian Reform Party}};" |15.3
+|{{yes|52.4}}
+|47.6
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|16–23 May
+|1,000
+|style="background:#FEF4AE" |'''35.4'''
+|17.2
+|18.5
+|6.8
+|6.1
+|12.3
+|2.1
+|1.6
+| style="background:{{party color|Estonian Reform Party}};" |16.9
+|{{yes|52.6}}
+|47.4
+|-
+|[https://www.err.ee/1608606583/reitingud-tuli-valitsuses-keskerakonna-toetust-ei-tostnud Kantar Emor]
+|12–20 May
+|1,461
+|style="background:#FEF4AE" |'''33'''
+|16
+|17
+|7
+|7
+|17
+|3
+|0{{efn|name="Tule"|[[Estonian Party for the Future|TULE]]}}
+| style="background:{{party color|Estonian Reform Party}};" |16
+|49
+| {{no|51}}
+|-
+|[https://news.err.ee/1608601726/ratings-support-for-reform-party-still-rising Turu-uuringute AS]
+|19 May{{efn|Publication date}}
+|600–700
+|style="background:#FEF4AE" |'''32'''
+|13
+|19
+|6
+|8
+|16
+|2
+|4
+| style="background:{{party color|Estonian Reform Party}};" |13
+|45
+| {{no|55}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|10–16 May
+|1,000
+|style="background:#FEF4AE" |'''33.3'''
+|14.7
+|20.6
+|7.5
+|8.0
+|12.9
+|2.1
+|0.9
+| style="background:{{party color|Estonian Reform Party}};" |12.7
+|48.0
+| {{no|52.0}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|4–9 May
+|1,000
+|style="background:#FEF4AE" |'''35.9'''
+|16.5
+|19.0
+|5.0
+|7.6
+|13.0
+|2.1
+|0.9
+| style="background:{{party color|Estonian Reform Party}};" |16.9
+|{{yes|52.4}}
+|47.6
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|26 Apr–2 May
+|1,000
+|style="background:#FEF4AE" |'''30.6'''
+|19.4
+|23.3
+|4.7
+|7.1
+|12.7
+|0.8
+|1.4
+| style="background:{{party color|Estonian Reform Party}};" |7.7
+|50.0
+|50.0
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|19–25 Apr
+|1,000
+|style="background:#FEF4AE" |'''34.0'''
+|16.7
+|21.0
+|5.6
+|6.2
+|14.2
+|2.0
+|0.3
+| style="background:{{party color|Estonian Reform Party}};" |13.0
+|{{yes|50.7}}
+|49.3
 |-
 |[https://news.err.ee/1608571180/emor-ratings-reform-in-the-lead-center-losing-ground Kantar Emor]
 |14–20 Apr

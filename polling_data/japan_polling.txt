@@ -11,7 +11,7 @@
 ! class="unsortable" width="38px" | [[Democratic Party for the People|DPP]]
 ! class="unsortable" width="38px" | [[Social Democratic Party (Japan)|SDP]]
 ! class="unsortable" width="38px" | [[Reiwa Shinsengumi|Reiwa]]
-! class="unsortable" width="38px" | [[The Party to Protect the People from NHK|N-Koku]]
+! class="unsortable" width="38px" | [[NHK Party|N-Koku]]
 ! rowspan="2" class="unsortable" width="38px" | {{abbr|Oth.|Others}}/<br />{{abbr|WV|Won't vote}}
 ! rowspan="2" class="unsortable" width="38px" | {{abbr|Und.|Undecided}}/<br />{{abbr|no ans.|no answer}}
 ! rowspan="2" class="unsortable" width="38px" | Lead
@@ -24,7 +24,7 @@
 | style="background-color: {{party color|Democratic Party for the People}}" |
 | style="background-color: {{party color|Social Democratic Party (Japan)}}" |
 | style="background-color: {{party color|Reiwa Shinsengumi}}" |
-| style="background-color: {{party color|The Party to Protect the People from NHK}}" |
+| style="background-color: {{party color|NHK Party}}" |
 |-
 |style="background:#E9E9E9;" data-sort-value="2021-10-31"|31 Oct 2021
 |style="background:#E9E9E9;"|[[2021 Japanese general election|2021 general election]]

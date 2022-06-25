@@ -25,6 +25,566 @@
 ! data-sort-type="number" style="height:1px; background:{{party color|Confederation Liberty and Independence}};" |
 ! data-sort-type="number" style="height:1px; background:{{party color|Poland 2050}};"|
 |-
+| [https://tvn24.pl/polska/najnowszy-sondaz-partyjny-dla-faktow-tvn-i-tvn24-kto-znalazlby-sie-w-sejmie-5762019 Kantar / TVN]
+| data-sort-value="2022-06-23" | 22–23 Jun
+| 1,003
+| style="background:#C0DBFC;" | '''31'''
+| 0
+| 26
+| 8
+| 2
+| 1
+| 6
+| 10
+| 16{{efn|[[AGROunia]] – 2}}
+| style="background:{{party color|Law and Justice}}; color:white;"| '''5'''
+|-
+| [https://www.se.pl/wiadomosci/polityka/najnowszy-sondaz-partia-ziobry-z-poparciem-1-59-proc-bielana-0-37-proc-a-co-z-pis-kaczynskiego-aa-sSxb-vK4u-fFti.html Pollster / SE.pl]
+| data-sort-value="2022-06-22" | 21–22 Jun
+| 1,011
+| style="background:#C0DBFC;" | '''35.28'''
+| 1.03
+| 23.88
+| 10.68
+| 6.63
+| 1.24
+| 5.97
+| 13.68
+| 1.61{{efn|[[Łukasz Schreiber|Marianna Schreiber]]'s Mam dość! – 1.36}}
+| style="background:{{party color|Law and Justice}}; color:white;"| '''11.40'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/603945-sondaz-pis-z-wyrazna-przewaga-nad-ko-traci-konfederacja Social Changes / wPolityce.pl]
+| data-sort-value="2022-06-20" | 17–20 Jun
+| 1,075
+| style="background:#C0DBFC;" | '''37'''
+| 2
+| 27
+| 9
+| 4
+| 2
+| 7
+| 11
+| 1
+| style="background:{{party color|Law and Justice}}; color:white;"| '''10'''
+|-
+| [https://wiadomosci.wp.pl/prezes-mial-racje-pis-w-tarapatach-mamy-najnowszy-sondaz-6782319774808992a United Surveys / WP.pl]
+| data-sort-value="2022-06-19" | 17–19 Jun
+| 1,000
+| style="background:#C0DBFC;" | '''34.2'''
+| 
+| 25.5
+| 9.2
+| 5.2
+| 
+| 5.3
+| 7.0
+| 13.6
+| style="background:{{party color|Law and Justice}}; color:white;"| '''8.7'''
+|-
+| [https://twitter.com/IBRiS_PL/status/1539133515958059008 IBRiS / "Rz"]
+| data-sort-value="2022-06-18" | 17–18 Jun
+| 1,000
+| style="background:#C0DBFC;" | '''34.5'''
+| 
+| 25.4
+| 8.4
+| 5.5
+| 
+| 4.7
+| 9.6
+| 11.9
+| style="background:{{party color|Law and Justice}}; color:white;"| '''9.1'''
+|-
+| [https://wiadomosci.gazeta.pl/wiadomosci/7,114884,28590738,sondaz-pis-na-prowadzeniu-koalicja-obywatelska-i-polska-2050.html Research Partner]
+| data-sort-value="2022-06-13" | 10–13 Jun
+| 1,040
+| style="background:#C0DBFC;" | '''32.8'''
+| 0.9
+| 23.0
+| 7.7
+| 4.4
+| 1.4
+| 5.4
+| 10.5
+| 13.8
+| style="background:{{party color|Law and Justice}}; color:white;"| '''9.8'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/602924-nasz-sondaz-pis-stabilnie-z-12-punktowa-przewaga-nad-ko Social Changes / wPolityce.pl]
+| data-sort-value="2022-06-13" | 10–13 Jun
+| 1,068
+| style="background:#C0DBFC;" | '''37'''
+| 1
+| 25
+| 7
+| 5
+| 2
+| 9
+| 12
+| 2
+| style="background:{{party color|Law and Justice}}; color:white;"| '''12'''
+|-
+| [https://stanpolityki.pl/sondaz-parlamentarny-ibsp-czerwiec-2022/ IBSP / Stan Polityki]
+| data-sort-value="2022-06-13" | 8–13 Jun
+| 1,000
+| style="background:#C0DBFC;" | '''37.01'''
+| 
+| 27.80
+| 7.94
+| 2.65
+| 
+| 7.73
+| 15.52
+| 1.35{{efn|[[AGROunia]] – 1.08}}
+| style="background:{{party color|Law and Justice}}; color:white;"| '''9.21'''
+|-
+| [https://dorzeczy.pl/sondaz/312514/sondaz-pis-z-poparciem-385-proc-polakow.html Estymator / DoRzeczy.pl]
+| data-sort-value="2022-06-10" | 9–10 Jun
+| 1,059
+| style="background:#C0DBFC;" | '''38.5'''
+| 
+| 27.1
+| 11.1
+| 6.3
+| 1.9
+| 5.8
+| 9.0
+| 0.3
+| style="background:{{party color|Law and Justice}}; color:white;"| '''11.4'''
+|-
+| [https://www.wprost.pl/polityka/10747243/zjednoczona-prawica-dominuje-konfederacja-goni-lewice-najnowszy-sondaz.html Kantar / "GW"]
+| data-sort-value="2022-06-09" | 7–9 Jun
+| 1,000
+| style="background:#C0DBFC;" | '''32.1'''
+|
+| 22.3
+| 8.2
+| 3.6
+| 
+| 7.3
+| 9.7
+| 16.8
+| style="background:{{party color|Law and Justice}}; color:white;"| '''9.8'''
+|-
+| [https://www.wnp.pl/parlamentarny/wydarzenia/sondaz-cbos-traca-pis-i-ko-zyskuja-polska-2050-i-konfederacja,590425.html CBOS]
+| data-sort-value="2022-06-09" | 30 May–9 Jun
+| 1,050
+| style="background:#C0DBFC;" | '''32'''
+| 
+| 17
+| 4
+| 3
+| 2
+| 5
+| 12
+| 20
+| style="background:{{party color|Law and Justice}}; color:white;"| '''15'''
+|-
+| [https://wiadomosci.onet.pl/kraj/najnowszy-sondaz-tylko-cztery-partie-w-sejmie-pis-stabilnie-przed-ko/vn2s0ln Kantar Public]
+| data-sort-value="2022-06-08" | 3–8 Jun
+| 981
+| style="background:#C0DBFC;" | '''29'''
+| 1
+| 23
+| 8
+| 4
+| 2
+| 4
+| 10
+| 19{{efn|[[AGROunia]] – <1}}
+| style="background:{{party color|Law and Justice}}; color:white;"| '''6'''
+|-
+| style="letter-spacing: -1px;"| [https://www.rmf24.pl/fakty/polska/news-sondaz-dla-rmf-fm-i-dgp-pis-na-czele-konfederacja-poza-sejme,nId,6079899#crp_state=1 United Surveys / DGP, RMF]
+| data-sort-value="2022-06-07" | 6–7 Jun
+| 1,000
+| style="background:#C0DBFC;" | '''37.1'''
+| 
+| 25.5
+| 8.3
+| 5.0
+| 
+| 4.2
+| 10.2
+| 9.7
+| style="background:{{party color|Law and Justice}}; color:white;"| '''11.6'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/602144-nasz-sondaz-na-scenie-politycznej-mala-stabilizacja-wyniki Social Changes / wPolityce.pl]
+| data-sort-value="2022-06-06" | 3–6 Jun
+| 1,065
+| style="background:#C0DBFC;" | '''37'''
+| 1
+| 27
+| 7
+| 4
+| 1
+| 8
+| 13
+| 2
+| style="background:{{party color|Law and Justice}}; color:white;"| '''10'''
+|-
+| [https://wiadomosci.wp.pl/nowy-sondaz-dla-wp-pis-ma-sie-czego-obawiac-6776584075565728a United Surveys / WP.pl]
+| data-sort-value="2022-06-04" | 3–4 Jun
+| 1,000
+| style="background:#C0DBFC;" | '''36.5'''
+| 
+| 24.9
+| 9.4
+| 5.3
+| 
+| 5.6
+| 11.0
+| 7.3
+| style="background:{{party color|Law and Justice}}; color:white;"| '''11.6'''
+|-
+| [https://twitter.com/IBRiS_PL/status/1532606653568360448 IBRiS / ZET]
+| data-sort-value="2022-06-05" | 30 May–1 Jun
+| 1,100
+| style="background:#C0DBFC;" | '''35.1'''
+| 
+| 25.3
+| 8.9
+| 6.3
+| 
+| 4.1
+| 8.4
+| 11.9
+| style="background:{{party color|Law and Justice}}; color:white;"| '''9.8'''
+|-
+| [https://twitter.com/sieniutycz/status/1532329380340432896 Research Partner]
+| data-sort-value="2022-05-30" | 27–30 May
+| 1,046
+| style="background:#C0DBFC;" | '''31.3'''
+| 1.0
+| 25.5
+| 7.5
+| 2.6
+| 1.8
+| 7.0
+| 12.1
+| 11.2
+| style="background:{{party color|Law and Justice}}; color:white;"| '''5.8'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/601193-najnowszy-sondaz-poparcia-dla-partii-politycznych-sprawdz Social Changes / wPolityce.pl]
+| data-sort-value="2022-05-30" | 23–30 May
+| 1,055
+| style="background:#C0DBFC;" | '''37'''
+| 1
+| 27
+| 8
+| 3
+| 2
+| 8
+| 13
+| 1
+| style="background:{{party color|Law and Justice}}; color:white;"| '''10'''
+|-
+| [https://dorzeczy.pl/opinie/306634/oto-najnowszy-sondaz-poparcia-partii-dla-dorzeczypl.html Estymator / DoRzeczy.pl]
+| data-sort-value="2022-05-27" | 26–27 May
+| 1,041
+| style="background:#C0DBFC;" | '''39.5'''
+| 
+| 28.4
+| 10.5
+| 6.2
+| 1.6
+| 5.1
+| 8.2
+| 0.5
+| style="background:{{party color|Law and Justice}}; color:white;"| '''11.1'''
+|-
+| [https://www.se.pl/wiadomosci/polityka/zjednoczona-opozycja-pokonuje-pis-nowy-sondaz-aa-MvA9-jXnV-kEod.html Pollster / SE.pl]
+| data-sort-value="2022-05-25" | 24–25 May
+| 1,062
+| style="background:#C0DBFC;" | '''35.28'''
+| 0.82
+| 25.09
+| 10.91
+| 4.72
+| 2.20
+| 6.30
+| 12.35
+| 2.33{{efn|[[Łukasz Schreiber|Marianna Schreiber]]'s Mam dość! – 2.07}}
+| style="background:{{party color|Law and Justice}}; color:white;"| '''10.19'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/600143-sondaz-13-punktow-przewagi-pis-nad-ko-w-sejmie-5-partii Social Changes / wPolityce.pl]
+| data-sort-value="2022-05-23" | 20–23 May
+| 1,074
+| style="background:#C0DBFC;" | '''38'''
+| 1
+| 25
+| 8
+| 3
+| 2
+| 10
+| 12
+| 1
+| style="background:{{party color|Law and Justice}}; color:white;"| '''13'''
+|-
+| [https://twitter.com/IBRiS_PL/status/1528976020983975937 IBRiS / "Rz"]
+| data-sort-value="2022-05-21" | 20–21 May
+| 1,000
+| style="background:#C0DBFC;" | '''36.9'''
+| 
+| 26.8
+| 8.4
+| 5.7
+| 
+| 5.1
+| 9.4
+| 7.7
+| style="background:{{party color|Law and Justice}}; color:white;"| '''10.1'''
+|-
+| [https://wiadomosci.wp.pl/pis-lekko-w-gore-lewica-wyprzedza-holownie-najnowszy-sondaz-dla-wp-6771568174967776a United Surveys / WP.pl]
+| data-sort-value="2022-05-21" | 20–21 May
+| 1,000
+| style="background:#C0DBFC;" | '''36.2'''
+| 
+| 25.2
+| 9.2
+| 5.7
+| 
+| 5.2
+| 8.4
+| 10.1
+| style="background:{{party color|Law and Justice}}; color:white;"| '''11.0'''
+|-
+| [https://www.wprost.pl/kraj/10729870/najnowszy-sondaz-na-zlecenie-kantar-public-ktore-ugrupowania-znalazlyby-sie-poza-sejmem.html Kantar Public]
+| data-sort-value="2022-05-18" | 13–18 May
+| 990
+| style="background:#C0DBFC;" | '''29'''
+| 2
+| 24
+| 8
+| 3
+| 3
+| 4
+| 9
+| 18{{efn|[[AGROunia]] – 1}}
+| style="background:{{party color|Law and Justice}}; color:white;"| '''5'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/599067-sondaz-najnowsze-badanie-poparcia-dla-partii-politycznych Social Changes / wPolityce.pl]
+| data-sort-value="2022-05-16" | 13–16 May
+| 1,053
+| style="background:#C0DBFC;" | '''38'''
+| 0
+| 28
+| 7
+| 3
+| 2
+| 9
+| 11
+| 2
+| style="background:{{party color|Law and Justice}}; color:white;"| '''10'''
+|-
+| [https://dorzeczy.pl/sondaz/301240/sondaz-poparcia-dla-partii-politycznych-wzrost-pis.html Estymator / DoRzeczy.pl]
+| data-sort-value="2022-05-13" | 12–13 May
+| 1,029
+| style="background:#C0DBFC;" | '''39.2'''
+| 
+| 27.1
+| 11.2
+| 6.4
+| 2.0
+| 5.9
+| 7.9
+| 0.3
+| style="background:{{party color|Law and Justice}}; color:white;"| '''12.1'''
+|-
+| [https://oko.press/sondaz-lewica-rosnie-konfederacja-spadla-z-hukiem-pis-dzis-by-nie-rzadzil/ IPSOS / OKO.press]
+| data-sort-value="2022-05-12" | 10–12 May
+| 1,014
+| style="background:#C0DBFC;" | '''35'''
+| 0
+| 26
+| 9
+| 4
+| 
+| 7
+| 13
+| 6
+| style="background:{{party color|Law and Justice}}; color:white;"| '''9'''
+|-
+| [https://wiadomosci.wp.pl/najnowszy-sondaz-rosnie-poparcie-dla-pis-konfederacja-traci-zwolennikow-6768485888244608a CBOS]
+| data-sort-value="2022-05-12" | 2–12 May
+| 1,087
+| style="background:#C0DBFC;" | '''36'''
+| 
+| 19
+| 4
+| 2
+| 
+| 3
+| 9
+| 19
+| style="background:{{party color|Law and Justice}}; color:white;"| '''17'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/598286-sondaz-najnowsze-badanie-poparcia-dla-partii-politycznych Social Changes / wPolityce.pl]
+| data-sort-value="2022-05-09" | 6–9 May
+| 1,067
+| style="background:#C0DBFC;" | '''36'''
+| 
+| 27
+| 9
+| 4
+| 2
+| 8
+| 12
+| 2
+| style="background:{{party color|Law and Justice}}; color:white;"| '''9'''
+|-
+| [https://www.polsatnews.pl/wiadomosc-amp/2022-05-10/sondaz-research-partner-zjednoczona-prawica-na-prowadzeniu-psl-i-kukiz15-poza-sejmem Research Partner]
+| data-sort-value="2022-05-09" | 5–9 May
+| 1,038
+| style="background:#C0DBFC;" | '''30.8'''
+| 0.4
+| 26.3
+| 6.0
+| 4.0
+| 1.6
+| 6.8
+| 11.6
+| 12.5
+| style="background:{{party color|Law and Justice}}; color:white;"| '''4.5'''
+|-
+| [https://wiadomosci.wp.pl/wybory-to-czarny-scenariusz-dla-pis-najnowszy-sondaz-wp-6767174698031936a United Surveys / WP.pl]
+| data-sort-value="2022-05-07" | 6–7 May
+| 1,000
+| style="background:#C0DBFC;" | '''34.7'''
+| 
+| 27.0
+| 9.0
+| 5.0
+| 
+| 5.4
+| 9.3
+| 9.6
+| style="background:{{party color|Law and Justice}}; color:white;"| '''7.7'''
+|-
+| [https://twitter.com/IBRiS_PL/status/1522178246766440448 IBRiS / ZET]
+| data-sort-value="2022-05-04" | 4 May
+| 1,100
+| style="background:#C0DBFC;" | '''35.9'''
+| 
+| 26.3
+| 9.0
+| 5.1
+| 
+| 5.0
+| 8.6
+| 10.1
+| style="background:{{party color|Law and Justice}}; color:white;"| '''9.6'''
+|-
+| style="letter-spacing: -1px;"| [https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/8414161,sondaz-wyborczy-najnowszy-pis-ko-united-surveys-dla-dgp-i-rmf-fm.html United Surveys / DGP, RMF]
+| data-sort-value="2022-05-04" | 2–4 May
+| 1,000
+| style="background:#C0DBFC;" | '''37.8'''
+| 
+| 24.9
+| 10.2
+| 5.4
+| 
+| 4.7
+| 9.0
+| 6.7
+| style="background:{{party color|Law and Justice}}; color:white;"| '''12.9'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/597305-nasz-sondaz-pis-wciaz-wysoko-ale-traci-w-sejmie-5-partii Social Changes / wPolityce.pl]
+| data-sort-value="2022-05-03" | 29 Apr–3 May
+| 1,074
+| style="background:#C0DBFC;" | '''37'''
+| 1
+| 27
+| 8
+| 3
+| 2
+| 8
+| 12
+| 2
+| style="background:{{party color|Law and Justice}}; color:white;"| '''10'''
+|-
+| [https://dorzeczy.pl/kraj/295759/sondaz-pis-na-pierwszym-miejscu-lewica-przed-polska-2050-holowni.html Estymator / DoRzeczy.pl]
+| data-sort-value="2022-04-29" | 28–29 Apr
+| 1,042
+| style="background:#C0DBFC;" | '''38.4'''
+| 
+| 27.0
+| 10.5
+| 6.7
+| 1.8
+| 7.3
+| 8.0
+| 0.3
+| style="background:{{party color|Law and Justice}}; color:white;"| '''11.4'''
+|-
+| [https://www.se.pl/wiadomosci/polityka/pis-traci-na-kryzysie-nowy-sondaz-wyborczy-super-expressu-aa-z5rx-DrbA-H5JU.html Pollster / SE.pl]
+| data-sort-value="2022-04-28" | 27–28 Apr
+| 1,046
+| style="background:#C0DBFC;" | '''35.41'''
+| 0.30
+| 26.48
+| 10.12
+| 5.70
+| 2.14
+| 5.45
+| 14.14
+| 0.26
+| style="background:{{party color|Law and Justice}}; color:white;"| '''8.93'''
+|-
+| [https://twitter.com/IBRiS_PL/status/1519560885437702145 IBRiS / Onet]
+| data-sort-value="2022-04-26" | 26 Apr
+| 1,100
+| style="background:#C0DBFC;" | '''34.7'''
+| 
+| 27.0
+| 8.6
+| 5.0
+| 
+| 4.5
+| 9.1
+| 11.1
+| style="background:{{party color|Law and Justice}}; color:white;"| '''7.7'''
+|-
+| style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/596204-nasz-sondaz-pis-z-40-proc-poparciem-i-duza-przewaga-nad-ko Social Changes / wPolityce.pl]
+| data-sort-value="2022-04-25" | 22–25 Apr
+| 1,090
+| style="background:#C0DBFC;" | '''40'''
+| 1
+| 25
+| 8
+| 3
+| 2
+| 8
+| 12
+| 2
+| style="background:{{party color|Law and Justice}}; color:white;"| '''15'''
+|-
+| [https://twitter.com/sieniutycz/status/1519299549067726848 Research Partner]
+| data-sort-value="2022-04-25" | 22–25 Apr
+| 1,093
+| style="background:#C0DBFC;" | '''32.5'''
+| 0.2
+| 25.5
+| 6.1
+| 3.7
+| 1.9
+| 7.9
+| 10.7
+| 11.5
+| style="background:{{party color|Law and Justice}}; color:white;"| '''7.0'''
+|-
+| [https://wiadomosci.wp.pl/najnowszy-sondaz-wp-wzrost-dla-pis-zmiany-dla-opozycji-6761982420376384a United Surveys / WP.pl]
+| data-sort-value="2022-04-23" | 22–23 Apr
+| 1,000
+| style="background:#C0DBFC;" | '''36.0'''
+| 
+| 26.6
+| 9.3
+| 5.8
+| 
+| 3.3
+| 10.7
+| 8.3
+| style="background:{{party color|Law and Justice}}; color:white;"| '''9.4'''
+|-
 | style="letter-spacing: -1px;"| [https://wpolityce.pl/polityka/595354-nasz-sondaz-zyskuja-konfederacja-i-lewica-niska-frekwencja Social Changes / wPolityce.pl]
 | data-sort-value="2022-04-18" | 15–18 Apr
 | 1,057

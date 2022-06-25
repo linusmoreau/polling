@@ -20,7 +20,40 @@ The parties shown in the table are [[New Zealand Labour Party|Labour]] (LAB), [[
 |- style="background:#ddd;"
 ! colspan=12 |
 |-
-| data-sort-value="2022-01-24" style="background:#E8E8E8 |'''13 Apr 2022'''
+| data-sort-value="2022-06-12" |'''1–12 Jun 2022'''
+|[https://www.taxpayers.org.nz/taxpayers_union_curia_poll_june_2022 Taxpayers' Union–Curia]
+| 1,200
+| 34.2 || style="background:#B0CEFF;"| '''37.4''' || 8.3 || 9.4 || 1.8 || 2.3 || 3.0 || 1.4 ||style="background:#B0CEFF;" |'''3.2'''
+|-
+| data-sort-value="2022-05-29" | '''25 Apr – 29 May 2022'''
+| [http://www.roymorgan.com/findings/8974-nz-national-voting-intention-may-2022-202206070538 Roy Morgan]
+| 934 || 31.5 || style="background:#B0CEFF;"| '''40''' || 11.5 || 10 || 1 || 3 || 1 || 0.5 || style="background:#B0CEFF;" |'''8.5'''
+|-
+| data-sort-value="2022-05-25" | '''21–25 May 2022'''
+|[https://www.1news.co.nz/2022/05/31/full-results-1news-kantar-public-poll-may-2022/ 1 News–Kantar Public]
+| 1,002 || 35 || style="background:#B0CEFF;"| '''39''' || 10 || 7 || 1.9 || 1.3 || 1.7 || 1.2 || style="background:#B0CEFF;" |'''4'''
+|-
+| data-sort-value="2022-05-19" style="background:#E8E8E8 | '''19 May 2022'''
+| data-sort-value="Z" colspan="11" style="text-align:center;" style="background:#E8E8E8 | '''The [[2022 New Zealand budget|2022 Budget]] is delivered.'''
+|-
+| data-sort-value="2022-05-11" |'''4–11 May 2022'''
+|[https://www.taxpayers.org.nz/taxpayers_union_curia_poll_may_2022 Taxpayers' Union–Curia]
+| 1,000
+| 34.2 || style="background:#B0CEFF;"| '''36.8''' || 9.7 || 10.9 || 2.4 || 1.8 || 1.4 || 1.3 ||style="background:#B0CEFF;" |'''2.6'''
+|-
+| data-sort-value="2022-05-31" |'''29 Apr – 10 May 2022'''
+|[https://www.nzherald.co.nz/nz/politics/new-poll-has-labour-one-point-ahead-of-national-and-suggests-the-gap-could-widen/WV5C6O7B5T2LNWY6EHJU6XTVKQ/ Talbot Mills]{{efn|name="priv"}}
+| || style="background:#FFB6B6;" |'''37''' || 36 || 8 || 7 || 3 || 4 || – || – || style="background:#FFB6B6;" |'''1'''
+|-
+| data-sort-value="2022-04-27" | '''18–27 Apr 2022'''
+|[https://www.newshub.co.nz/home/politics/2022/05/newshub-reid-research-poll-labour-suffers-dramatic-fall-as-national-cracks-40-pct.html Newshub–Reid Research]
+| 1,000 || 38.2 ||style="background:#B0CEFF;"| '''40.5''' || 8.4 || 6.4 || 2.5 || 1.7 || 0.9 || 0.7 ||style="background:#B0CEFF;"| '''2.3'''
+|-
+| data-sort-value="2022-04-24" | '''28 Mar – 24 Apr 2022'''
+|[http://www.roymorgan.com/findings/8962-nz-national-voting-intention-april-2022-202204080325 Roy Morgan]
+| 918 || 33.5 || style="background:#B0CEFF;"| '''37.5''' || 10.5 || 10 || 1.5 || 2.5 || 2 || 0.5 || style="background:#B0CEFF;" |'''4'''
+|-
+| data-sort-value="2022-04-13" style="background:#E8E8E8 |'''13 Apr 2022'''
 | data-sort-value="Z" colspan="11" style="text-align:center;" style="background:#E8E8E8 | '''New Zealand shifts from the Red Light setting to the Orange Light setting of the [[COVID-19 Protection Framework]].'''
 |-
 | data-sort-value="2022-04-13" |'''7–13 Apr 2022'''
@@ -29,7 +62,7 @@ The parties shown in the table are [[New Zealand Labour Party|Labour]] (LAB), [[
 | 36.8 || style="background:#B0CEFF;"| '''37.8''' || 9.4 || 8.4 || 3.6 || 1.7 || – || – ||style="background:#B0CEFF;" |'''1'''
 |-
 | data-sort-value="2022-03-27" | '''28 Feb – 27 Mar 2022'''
-|[https://www.roymorgan.com/findings/8942-nz-national-voting-intention-march-2022-202204080325 Roy Morgan]
+|[https://web.archive.org/web/20220408044225/https://www.roymorgan.com/findings/8942-nz-national-voting-intention-march-2022-202204080325 Roy Morgan]
 | 944 || 32 || style="background:#B0CEFF;"| '''38''' || 10.5 || 9 || 2 || 4 || 1.5 || 0.5 || style="background:#B0CEFF;" |'''6'''
 |-
 | data-sort-value="2022-03-15" |'''2–7, 14–15 Mar 2022'''
@@ -62,13 +95,13 @@ The parties shown in the table are [[New Zealand Labour Party|Labour]] (LAB), [[
 |[https://www.scribd.com/document/555239179/1News-Kantar-Public-Poll-Report-22-26-January-2022 1 News–Kantar Public]
 | 1,000 || style="background:#FFB6B6;"|'''40''' || 32 || 9 || 11 || 1.6 || 1.8 || 1.6 || 1 || style="background:#FFB6B6;" |'''8'''
 |-
+| data-sort-value="2022-01-23" style="background:#E8E8E8 |'''23 Jan 2022'''
+| data-sort-value="Z" colspan="11" style="text-align:center;" style="background:#E8E8E8 | '''Nationwide [[COVID-19 Protection Framework|Red Light]] restrictions are implemented due to the [[SARS-CoV-2 Omicron variant|COVID−19 Omicron variant]] being detected in the community.'''
+|-
 | data-sort-value="2022-01-17" |'''10–17 Jan 2022'''
 |[https://www.taxpayers.org.nz/taxpayers_union_curia_poll_january_2022 Taxpayers' Union–Curia]
 | 1,000
 | style="background:#FFB6B6;" |'''41.2''' || 33.0 || 10.7 || 11.5 || 0.5 || 0.9 || 1.1 || – ||style="background:#FFB6B6;" |'''8.2'''
-|-
-| data-sort-value="2022-01-24" style="background:#E8E8E8 |'''23 Jan 2022'''
-| data-sort-value="Z" colspan="11" style="text-align:center;" style="background:#E8E8E8 | '''Nationwide [[COVID-19 Protection Framework|Red Light]] restrictions are implemented due to the [[SARS-CoV-2 Omicron variant|COVID−19 Omicron variant]] being detected in the community.'''
 |-
 | data-sort-value="2021-12-19" | '''22 Nov – 19 Dec 2021'''
 |[https://www.roymorgan.com/findings/8889-nz-national-voting-intention-december-2021-202201310600 Roy Morgan]
@@ -234,4 +267,3 @@ The parties shown in the table are [[New Zealand Labour Party|Labour]] (LAB), [[
 ! style="background-color:#91D3FF;width:40px" | [[New Conservative Party (New Zealand)|NCP]]
 ! style="width:40px;" | Lead
 |}
-{{-}}

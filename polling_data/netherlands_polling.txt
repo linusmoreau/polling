@@ -3,8 +3,8 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 {| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
 |-
 ! rowspan="2"|Polling firm
-! rowspan="2"|Release<br>date
-! rowspan="2"|Sample<br>size
+! rowspan="2"|Fieldwork<br/>date
+! rowspan="2"|Sample<br/>size
 ! class="unsortable" style="width:30px;"|[[People's Party for Freedom and Democracy|VVD]]
 ! class="unsortable" style="width:30px;"|[[Democrats 66|D66]]
 ! class="unsortable" style="width:30px;"|[[Party for Freedom|PVV]]
@@ -45,8 +45,252 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 ! data-sort-type="number" style="background:{{party color|BIJ1}};"|
 ! data-sort-type="number" style="background:{{party color|Belang van Nederland}};"|
 |-
+|[https://peilingen.maurice.nl/2022/06/stemming-19-6-2022-sterke-polarisatie-rond-stikstofplannen/ Peil.nl]
+| {{opdrts||19|Jun|2022|year}}
+|3,000+
+|style="background:#CED7FD;"|'''22'''
+|11
+|17
+|7
+|7
+|12
+|13
+|5
+|8
+|7
+|5
+|10
+|4
+|3
+|1
+|14
+|2
+|2
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|5
+|-
+|[https://www.ioresearch.nl/actueel/io-zetelpeiling-vvd-lijdt-onder-perikelen-bbb-profiteert/ I&O Research]
+| {{opdrts|10|13|Jun|2022|year}}
+|2,151
+|style="background:#CED7FD;"|'''24'''
+|14
+|15
+|8
+|10
+|11
+|12
+|4
+|9
+|6
+|5
+|10
+|5
+|3
+|0
+|12
+|2
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|9
+|-
+|[https://peilingen.maurice.nl/2022/06/stemmin-12-6-2022/ Peil.nl]
+| {{opdrts||12|Jun|2022|year}}
+|3,000+
+|style="background:#CED7FD;"|'''23'''
+|12
+|17
+|7
+|7
+|12
+|12
+|5
+|8
+|7
+|5
+|10
+|4
+|3
+|1
+|13
+|2
+|2
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|6
+|-
+|[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/pvv-is-d66-voorbij-en-is-nu-de-tweede-partij-in-de-maandelijkse-zetelpeiling/ Ipsos]
+| {{opdrts|27|30|May|2022|year}}
+|1,039
+|style="background:#CED7FD;"|'''33'''
+|14
+|17
+|11
+|8
+|11
+|10
+|5
+|9
+|6
+|5
+|6
+|3
+|3
+|1
+|7
+|1
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|16
+|-
+|[https://peilingen.maurice.nl/2022/05/stemming-29-5-2022-pvda-groenlinks-combi-nog-geen-extra-electorale-aantrekkingskracht/ Peil.nl]
+| {{opdrts||29|May|2022|year}}
+|3,000+
+|style="background:#CED7FD;"|'''25'''
+|13
+|16
+|7
+|7
+|12
+|12
+|5
+|8
+|7
+|4
+|11
+|4
+|3
+|1
+|11
+|2
+|2
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|9
+|-
+|[https://www.kantarpublic.com/nl/nieuws-evenementen/persberichten/resultaten-peiling-week-21 Kantar]
+| {{opdrts|25|27|May|2022|year}}
+|1,078
+|style="background:#CED7FD;"|'''30'''
+|13
+|16
+|9
+|6
+|13
+|12
+|4
+|8
+|6
+|6
+|5
+|4
+|4
+|1
+|12
+|1
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|14
+|-
+|[https://www.ioresearch.nl/actueel/d66-levert-flink-in-coalitiepartijen-op-dieptepunt/ I&O Research]
+| {{opdrts|13|16|May|2022|year}}
+|2,356
+|style="background:#CED7FD;"|'''28'''
+|13
+|16
+|8
+|8
+|11
+|14
+|5
+|8
+|6
+|5
+|10
+|4
+|3
+|1
+|8
+|1
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|12
+|-
+|[https://peilingen.maurice.nl/2022/05/stemming-15-5-2022-regeringspartijen-staan-er-zwak-voor/ Peil.nl]
+| {{opdrts||15|May|2022|year}}
+|3,000+
+|style="background:#CED7FD;"|'''25'''
+|13
+|16
+|7
+|7
+|12
+|12
+|5
+|8
+|7
+|4
+|11
+|4
+|3
+|1
+|11
+|2
+|2
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|9
+|-
+|[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/d66-verliest-vijf-zetels-in-peiling-d66-kiezers-ontevreden-met-persconferentie-kaag-over-metoo-kwestie/ Ipsos]
+| {{opdrts|22|25|Apr|2022|year}}
+|1,013
+|style="background:#CED7FD;"|'''34'''
+|14
+|14
+|9
+|7
+|11
+|11
+|5
+|10
+|5
+|5
+|8
+|4
+|4
+|1
+|7
+|1
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|20
+|-
+|[https://peilingen.maurice.nl/2022/04/stemming-24-4-2022-d66-verliest-4-zetels-en-is-terug-bij-af/ Peil.nl]
+| {{opdrts||24|Apr|2022|year}}
+|3,000+
+|style="background:#CED7FD;"|'''27'''
+|14
+|15
+|7
+|7
+|12
+|12
+|4
+|8
+|7
+|4
+|11
+|4
+|3
+|1
+|10
+|2
+|2
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|12
+|- style="background:#EFEFEF"
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" | 12 Apr 2022
+| colspan="21" |'''[[Lilianne Ploumen]] steps down as [[Leader of the Labour Party (Netherlands)|Leader of the PvdA]]'''<ref>{{Cite news|date=2022-04-12|title=Netherlands: Ploumen was thrown into the deep but in the end believes herself to not be qualified enough|language=NL|work=NU.nl|url=https://nos.nl/artikel/2424870-ploumen-werd-in-het-diepe-gegooid-maar-vindt-zichzelf-uiteindelijk-toch-niet-geschikt|access-date=2022-04-12}}</ref>
+|-
 |[https://www.ioresearch.nl/actueel/io-zetelpeiling-stoelendans-op-rechts/ I&O Research]
-|data-sort-value="2022-04-14"|14 Apr 2022
+| {{opdrts|8|11|Apr|2022|year}}
 |2,403
 |style="background:#CED7FD;"|'''29'''
 |18
@@ -68,13 +312,9 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |2
 |0
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|11
-|- style="background:#EFEFEF"
-| style="border-right-style:hidden;" |
-| style="border-right-style:hidden;" | 12 April 2022
-| colspan="21" |'''[[Lilianne Ploumen]] steps down as [[Leader of the Labour Party (Netherlands)|Leader of the PvdA]]'''<ref>{{Cite news|date=2022-04-12|title=Netherlands: Ploumen was thrown into the deep but in the end believes herself to not be qualified enough|language=NL|work=NU.nl|url=https://nos.nl/artikel/2424870-ploumen-werd-in-het-diepe-gegooid-maar-vindt-zichzelf-uiteindelijk-toch-niet-geschikt|access-date=2022-04-12}}</ref>
 |-
 |[https://peilingen.maurice.nl/2022/04/stemming-10-4-2022-hugo-de-jonge-debat-vrijwel-geen-effect-op-politieke-voorkeuren/ Peil.nl]
-|data-sort-value="2022-04-10"|10 Apr 2022
+| {{opdrts||10|Apr|2022|year}}
 |3,000+
 |style="background:#CED7FD;"|'''26'''
 |18
@@ -98,7 +338,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|8
 |-
 |[https://peilingen.maurice.nl/2022/04/stemming-3-4-2022-let-op-het-consumentenvertrouwen/ Peil.nl]
-|data-sort-value="2022-04-03"|3 Apr 2022
+| {{opdrts||3|Apr|2022|year}}
 |3,000+
 |style="background:#CED7FD;"|'''25'''
 |18
@@ -121,8 +361,8 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |0
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|7
 |-
-|[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/thierry-baudet-verliest-kiezers-na-pro-russische-uitspraken-in-nieuwe-zetelpeiling/ Ipsos]
-|data-sort-value="2022-03-29"|29 Mar 2022
+|[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/guendogan-volgens-grootste-groep-volt-kiezers-terecht-uit-fractie-gezet-affaire-kost-partij-wel-3-zetels/ Ipsos]
+| {{opdrts|25|28|Mar|2022|year}}
 |1,048
 |style="background:#CED7FD;"|'''33'''
 |19
@@ -145,8 +385,8 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |0
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|14
 |-
-|[https://maurice.nl/peilingen/2022/03/stemming-20-3-2022-de-landelijke-interpretatie-van-de-uitslag-van-gr2022/ Peil.nl]
-|data-sort-value="2022-03-27"|27 Mar 2022
+|[https://peilingen.maurice.nl/2022/03/stemming-27-3-grote-electorale-potentie-lijst-omtzigt/ Peil.nl]
+| {{opdrts||27|Mar|2022|year}}
 |3,000+
 |style="background:#CED7FD;"|'''25'''
 |18
@@ -170,7 +410,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|7
 |-
 |[https://maurice.nl/peilingen/2022/03/stemming-20-3-2022-de-landelijke-interpretatie-van-de-uitslag-van-gr2022/ Peil.nl]
-|data-sort-value="2022-03-20"|20 Mar 2022
+| {{opdrts||20|Mar|2022|year}}
 |3,000+
 |style="background:#CED7FD;"|'''25'''
 |18
@@ -194,11 +434,11 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|7
 |- style="background:#EFEFEF"
 | style="border-right-style:hidden;" |
-| style="border-right-style:hidden;" | 16 March 2022
+| style="border-right-style:hidden;" | 16 Mar 2022
 | colspan="21" |'''[[2022 Dutch municipal elections]]'''
 |-
 |[https://maurice.nl/peilingen/2022/03/stemming-13-3-2022-lokale-partijen-profiteren-van-versplinterd-electoraat/ Peil.nl]
-|data-sort-value="2022-03-13"|13 Mar 2022
+| {{opdrts||13|Mar|2022|year}}
 |3,000+
 |style="background:#CED7FD;"|'''27'''
 |20
@@ -221,8 +461,32 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |0
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|7
 |-
+|[https://www.kantarpublic.com/nl/nieuws-evenementen/persberichten/resultaten-peiling-week-21 Kantar]
+| {{opdrts|9|11|Mar|2022|year}}
+|1,197
+|style="background:#CED7FD;"|'''33'''
+|20
+|13
+|8
+|10
+|11
+|11
+|4
+|7
+|6
+|4
+|8
+|2
+|2
+|2
+|8
+|1
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|13
+|-
 |[https://maurice.nl/peilingen/2022/03/stemming-06-03-2022/ Peil.nl]
-|data-sort-value="2022-03-06"|6 Mar 2022
+| {{opdrts||6|Mar|2022|year}}
 |3,000+
 |style="background:#CED7FD;"|'''27'''
 |20
@@ -246,7 +510,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|7
 |-
 |[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/thierry-baudet-verliest-kiezers-na-pro-russische-uitspraken-in-nieuwe-zetelpeiling/ Ipsos]
-|data-sort-value="2022-03-01"|1 Mar 2022
+| {{opdrts|25|28|Feb|2022|year}}
 |1,025
 |style="background:#CED7FD;"|'''32'''
 |20
@@ -270,7 +534,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|12
 |-
 |[https://maurice.nl/peilingen/2022/02/oorlog-oekraine/ Peil.nl]
-|data-sort-value="2022-02-27"|27 Feb 2022
+| {{opdrts||27|Feb|2022|year}}
 |3,000+
 |style="background:#CED7FD;"|'''25'''
 |20
@@ -294,7 +558,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|5
 |-
 |[https://maurice.nl/peilingen/2022/02/stemming-20-2-2022-volt-zakt-drie-zetels-weg/ Peil.nl]
-|data-sort-value="2022-02-20"|20 Feb 2022
+| {{opdrts||20|Feb|2022|year}}
 |3,000+
 |style="background:#CED7FD;"|'''23'''
 |20
@@ -318,7 +582,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|3
 |-
 |[https://www.ioresearch.nl/actueel/cda-verliest-lokaal-door-teleurstelling-over-landelijk-optreden/ I&O Research]
-|data-sort-value="2022-02-18"|18 Feb 2022
+| {{opdrts|11|14|Feb|2022|year}}
 |2,311
 |style="background:#CED7FD;"|'''27'''
 |19
@@ -342,11 +606,11 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|8
 |- style="background:#EFEFEF"
 | style="border-right-style:hidden;" |
-| style="border-right-style:hidden;" | 13 February 2022
+| style="border-right-style:hidden;" | 13 Feb 2022
 | colspan="21" |'''[[Nilüfer Gündoğan]] is suspended by [[Volt Netherlands|Volt]] and opts to continue as an independent'''<ref>{{Cite news|date=2022-02-13|title=Netherlands: Volt representative Gündoğan suspended after allegations of transgressive behavior|language=NL|work=NU.nl|url=https://www.nrc.nl/nieuws/2022/02/13/volt-kamerlid-gundogan-geschorst-na-beschuldigingen-van-grensoverschrijdend-gedrag-a4088644|access-date=2022-04-12}}</ref>
 |-
 |[https://www.maurice.nl/peilingen/2022/02/de-stemming-13-02-2022-het-gepolariseerde-electoraat/ Peil.nl]
-|data-sort-value="2022-02-13"|13 Feb 2022
+| {{opdrts||13|Feb|2022|year}}
 |3,000+
 |style="background:#CED7FD;"|'''22'''
 |19
@@ -370,7 +634,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|3
 |-
 |[https://maurice.nl/peilingen/2022/02/stemming-6-2-2022-opmaat-naar-de-gemeenteraadsverkiezingen/ Peil.nl]
-|data-sort-value="2022-02-06"|6 Feb 2022
+| {{opdrts||6|Feb|2022|year}}
 |3,000+
 |style="background:#CED7FD;"|'''22'''
 |19
@@ -394,7 +658,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|3
 |-
 |[https://www.kantarpublic.com/nl/nieuws-evenementen/persberichten/politieke-peiling-week-5-2022/ Kantar]
-|data-sort-value="2022-02-02"|2 Feb 2022
+| {{opdrts|27|31|Jan|2022|year}}
 |1,002
 |style="background:#CED7FD;"|'''32'''
 |20
@@ -418,7 +682,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|12
 |-
 |[https://maurice.nl/peilingen/2022/01/stemming-30-1-2022-ja21-verder-in-opmars/ Peil.nl]
-|data-sort-value="2022-01-30"|30 Jan 2022
+| {{opdrts||30|Jan|2022|year}}
 |3,000+
 |style="background:#CED7FD;"|'''22'''
 |19
@@ -442,7 +706,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|3
 |-
 |[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/ook-eigen-vvd-achterban-heeft-nu-minder-vertrouwen-in-mark-rutte/ Ipsos]
-|data-sort-value="2022-01-25"|25 Jan 2022
+| {{opdrts|21|24|Jan|2022|year}}
 |1,024
 |style="background:#CED7FD;"|'''30'''
 |19
@@ -466,7 +730,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|11
 |-
 |[https://maurice.nl/peilingen/2022/01/stemming-23-1-2022-na-regeringsverklaring-verliezen-regeringspartijen-nog-eens-4-zetels/ Peil.nl]
-|data-sort-value="2022-01-23"|23 Jan 2022
+| {{opdrts||23|Jan|2022|year}}
 |3,000+
 |style="background:#CED7FD;"|'''23'''
 |18
@@ -490,7 +754,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|5
 |-
 |[https://www.ioresearch.nl/actueel/io-zetelpeiling/ I&O Research]
-|data-sort-value="2022-01-19"|19 Jan 2022
+| {{opdrts|14|17|Jan|2022|year}}
 |2,230
 |style="background:#CED7FD;"|'''26'''
 |17
@@ -514,7 +778,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|9
 |-
 |[https://maurice.nl/peilingen/2022/01/stemming-16-1-2022-vvd-op-laagste-score-sinds-maart-2020/ Peil.nl]
-|data-sort-value="2022-01-16"|16 Jan 2022
+| {{opdrts||16|Jan|2022|year}}
 |3,000+
 |style="background:#CED7FD;"|'''25'''
 |19
@@ -538,11 +802,11 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|6
 |- style="background:#EFEFEF"
 | style="border-right-style:hidden;" |
-| style="border-right-style:hidden;" | 10 January 2022
+| style="border-right-style:hidden;" | 10 Jan 2022
 | colspan="21" |'''Prime Minister [[Mark Rutte]] and his [[Fourth Rutte cabinet|Fourth cabinet]] are inaugurated'''<ref>{{Cite news|date=2022-01-10|title=Netherlands: Government inaugurated after longest formation to date|language=NL|work=NU.nl|url=https://www.nu.nl/politiek/6177403/rutte-iv-beedigd-nederland-heeft-weer-een-kabinet-na-langste-formatie-ooit.html|access-date=2022-04-12}}</ref>
 |-
 |[https://maurice.nl/peilingen/2021/12/26/ Peil.nl]
-|data-sort-value="2021-12-26"|26 Dec 2021
+| {{opdrts||26|Dec|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''27'''
 |18
@@ -566,7 +830,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|8
 |-
 |[https://www.kantarpublic.com/nl/nieuws-evenementen/persberichten/politieke-peiling-23-december-2021/ Kantar]
-|data-sort-value="2021-12-23"|23 Dec 2021
+| {{opdrts|15|20|Dec|2021|year}}
 |1,004
 |style="background:#CED7FD;"|'''32'''
 |16
@@ -590,7 +854,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|14
 |-
 |[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/vvd-en-cda-verliezen-in-zetelpeiling-na-presentatie-regeerakkoord-d66-en-christenunie-blijven-stabiel/ Ipsos]
-|data-sort-value="2021-12-21"|21 Dec 2021
+| {{opdrts|17|20|Dec|2021|year}}
 |1,014
 |style="background:#CED7FD;"|'''31'''
 |21
@@ -614,7 +878,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|10
 |-
 |[https://maurice.nl/peilingen/2021/12/19/ Peil.nl]
-|data-sort-value="2021-12-19"|19 Dec 2021
+| {{opdrts||19|Dec|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''27'''
 |18
@@ -638,7 +902,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|8
 |-
 |[https://maurice.nl/peilingen/2021/12/12/ Peil.nl]
-|data-sort-value="2021-12-12"|12 Dec 2021
+| {{opdrts||12|Dec|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''30'''
 |17
@@ -662,7 +926,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|11
 |-
 |[https://www.ioresearch.nl/actueel/i-coalitie-op-17/ I&O Research]
-|data-sort-value="2021-12-10"|10 Dec 2021
+| {{opdrts|3|6|Dec|2021|year}}
 |2,053
 |style="background:#CED7FD;"|'''29'''
 |18
@@ -686,7 +950,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|11
 |-
 |[https://maurice.nl/peilingen/2021/12/05/ Peil.nl]
-|data-sort-value="2021-12-05"|5 Dec 2021
+| {{opdrts||5|Dec|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''32'''
 |16
@@ -710,7 +974,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|12
 |-
 |[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/formerende-partijen-hebben-in-de-zetelpeiling-geen-meerderheid-meer-en-komen-samen-op-69-zetels/ Ipsos]
-|data-sort-value="2021-11-30"|30 Nov 2021
+| {{opdrts|26|29|Nov|2021|year}}
 |1,008
 |style="background:#CED7FD;"|'''34'''
 |20
@@ -734,7 +998,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|14
 |-
 |[https://maurice.nl/peilingen/2021/11/28/stemming-28-11-21-pas-op-de-plaats/ Peil.nl]
-|data-sort-value="2021-11-28"|28 Nov 2021
+| {{opdrts||28|Nov|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''32'''
 |16
@@ -758,7 +1022,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|12
 |-
 |[https://www.maurice.nl/peilingen/2021/11/21/stemming-21-11-2021-toenemende-polarisatie-onder-electoraat/ Peil.nl]
-|data-sort-value="2021-11-21"|21 Nov 2021
+| {{opdrts||21|Nov|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''32'''
 |16
@@ -782,7 +1046,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|12
 |-
 |[https://www.ioresearch.nl/actueel/io-zetelpeiling_november/ I&O Research]
-|data-sort-value="2021-11-18"|18 Nov 2021
+| {{opdrts|12|15|Nov|2021|year}}
 |2,021
 |style="background:#CED7FD;"|'''33'''
 |15
@@ -806,7 +1070,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|16
 |-
 |[https://kantarpublic.com/nl/nieuws-evenementen/persberichten/politieke-peilingen-11-november-2021 Kantar]
-|data-sort-value="2021-11-10"|10 Nov 2021
+| {{opdrts|5|9|Nov|2021|year}}
 |985
 |style="background:#CED7FD;"|'''33'''
 |20
@@ -830,7 +1094,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|13
 |-
 |[https://www.maurice.nl/peilingen/2021/11/07/de-stemming-7-11-2021-vertrouwenscijfers/ Peil.nl]
-|data-sort-value="2021-11-07"|7 Nov 2021
+| {{opdrts||7|Nov|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''34'''
 |18
@@ -854,7 +1118,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|16
 |-
 |[https://maurice.nl/peilingen/2021/10/31/de-stemming-31-10-2021-vooraankondiging-van-de-uitslag-van-de-gemeenteraadsverkiezingen-2022/ Peil.nl]
-|data-sort-value="2021-10-31"|31 Oct 2021
+| {{opdrts||31|Oct|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''34'''
 |18
@@ -878,7 +1142,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|16
 |-
 |[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/vvd-verliest-weer-licht-in-zetelpeiling-d66-en-pvv-even-groot/ Ipsos]
-|data-sort-value="2021-10-26"|26 Oct 2021
+| {{opdrts|22|25|Oct|2021|year}}
 |1,026
 |style="background:#CED7FD;"|'''35'''
 |19
@@ -902,7 +1166,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|16
 |-
 |[https://maurice.nl/peilingen/2021/10/17/de-stemming-17-10-2021-6-maanden-na-tk2021/ Peil.nl]
-|data-sort-value="2021-10-17"|17 Oct 2021
+| {{opdrts||17|Oct|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''34'''
 |17
@@ -926,7 +1190,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|16
 |-
 |[https://www.ioresearch.nl/actueel/io-zetelpeiling-d66-verliest-wederom-vertrouwen-in-overheid-blijft-dalen/ I&O Research]
-|data-sort-value="2021-10-15"|15 Oct 2021
+| {{opdrts|8|11|Oct|2021|year}}
 |2,052
 |style="background:#CED7FD;"|'''34'''
 |15
@@ -950,7 +1214,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|18
 |-
 |[https://maurice.nl/peilingen/2021/10/10/de-stemming-10-10-2021-39-wil-rutte-als-premier-nieuwe-kabinet/ Peil.nl]
-|data-sort-value="2021-10-10"|10 Oct 2021
+| {{opdrts||10|Oct|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''34'''
 |17
@@ -974,7 +1238,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|16
 |-
 |[https://maurice.nl/peilingen/2021/10/03/de-stemming-3-10-2021-29-positief-over-mogelijke-nieuwe-regeringscombinatie// Peil.nl]
-|data-sort-value="2021-10-03"|3 Oct 2021
+| {{opdrts||3|Oct|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''36'''
 |17
@@ -998,7 +1262,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|16
 |-
 |[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/cda-met-8-zetels-op-laagste-stand-ooit-in-peiling-ook-vvd-en-d66-verliezen-zetels/ Ipsos]
-|data-sort-value="2021-09-28"|28 Sep 2021
+| {{opdrts|24|27|Sep|2021|year}}
 |994
 |style="background:#CED7FD;"|'''37'''
 |19
@@ -1022,7 +1286,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|18
 |-
 |[https://maurice.nl/peilingen/2021/09/26/de-stemming-26-9-2021-na-de-algemene-beschouwingen/ Peil.nl]
-|data-sort-value="2021-09-26"|26 Sep 2021
+| {{opdrts||26|Sep|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''35'''
 |19
@@ -1046,7 +1310,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|16
 |-
 |[http://www.nipo.nl/nieuws/persberichten/peiling-prinsjesdag/ Kantar]
-|data-sort-value="2021-09-20"|20 Sep 2021
+| {{opdrts|17|20|Sep|2021|year}}
 |1,037
 |style="background:#CED7FD;"|'''33'''
 |20
@@ -1070,7 +1334,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|13
 |-
 |[https://maurice.nl/peilingen/2021/09/19/de-stemming-19-09-2021-veel-kabaal-in-den-haag-weinig-verschuivingen/ Peil.nl]
-|data-sort-value="2021-09-19"|19 Sep 2021
+| {{opdrts||19|Sep|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''35'''
 |20
@@ -1094,7 +1358,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|15
 |-
 |[https://www.ioresearch.nl/actueel/io-zetelpeiling-verlies-voor-d66/ I&O Research]
-|data-sort-value="2021-09-16"|16 Sep 2021
+| {{opdrts|10|13|Sep|2021|year}}
 |1,990
 |style="background:#CED7FD;"|'''33'''
 |19
@@ -1118,7 +1382,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|14
 |-
 |[https://www.maurice.nl/peilingen/2021/09/12/de-stemming-12-9-2021-grote-aanhang-voor-pieter-omtzigt/ Peil.nl]
-|data-sort-value="2021-09-12"|12 Sep 2021
+| {{opdrts||12|Sep|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''37'''
 |19
@@ -1142,7 +1406,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|18
 |-
 |[https://www.maurice.nl/peilingen/2021/09/05/de-stemming-5-9-2021/ Peil.nl]
-|data-sort-value="2021-09-05"|5 Sep 2021
+| {{opdrts||5|Sep|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''37'''
 |18
@@ -1166,7 +1430,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|19
 |-
 |[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/trage-formatiezomer-stoot-kiezer-niet-af-onderhandelende-partijen-hebben-zelfde-aantal-zetels-als-voor-het-reces/ Ipsos]
-|data-sort-value="2021-08-31"|31 Aug 2021
+| {{opdrts|27|30|Aug|2021|year}}
 |1,008
 |style="background:#CED7FD;"|'''39'''
 |21
@@ -1190,7 +1454,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|18
 |-
 |[https://maurice.nl/peilingen/2021/08/22/ Peil.nl]
-|data-sort-value="2021-08-22"|22 Aug 2021
+| {{opdrts||22|Aug|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''36'''
 |19
@@ -1214,11 +1478,11 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|17
 |- style="background:#EFEFEF"
 | style="border-right-style:hidden;" |
-| style="border-right-style:hidden;" | 7 August 2021
+| style="border-right-style:hidden;" | 7 Aug 2021
 | colspan="21" |'''The Van Haga Group officially launches a new party, [[Belang van Nederland|BVNL]]'''<ref>{{Cite news|date=2021-08-07|title=Van Haga launches own party BVNL|language=NL|work=NRC|url=https://www.nrc.nl/nieuws/2021/08/07/van-haga-lanceert-eigen-partij-bv-nl-a4054041|access-date=2022-04-12}}</ref>
 |-
 |[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/nieuwe-partijen-veroveren-vaste-plek-in-zetelpeiling-ja21-nu-twee-keer-zo-groot-als-fvd/ Ipsos]
-|data-sort-value="2021-07-27"|27 July 2021
+| {{opdrts|23|26|Jul|2021|year}}
 |1,004
 |style="background:#CED7FD;"|'''37'''
 |22
@@ -1242,7 +1506,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|15
 |-
 |[https://maurice.nl/peilingen/2021/07/25/de-stemming-25-juli-2021-afwachtend-electoraat/ Peil.nl]
-|data-sort-value="2021-07-25"|25 July 2021
+| {{opdrts||25|Jul|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''35'''
 |22
@@ -1266,7 +1530,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|13
 |-
 |[https://www.ioresearch.nl/actueel/verlies-voor-cda-stijging-voor-pvv-en-bbb/ I&O Research]
-|data-sort-value="2021-07-15"|15 July 2021
+| {{opdrts|9|12|Jul|2021|year}}
 |1,939
 |style="background:#CED7FD;"|'''35'''
 |22
@@ -1290,7 +1554,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|13
 |-
 |[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/cda-zakt-nog-verder-weg-in-nieuwe-zetelpeiling-bij-de-verkiezingen-waren-het-15-zetels-nu-nog-9// Ipsos]
-|data-sort-value="2021-06-29"|29 June 2021
+| {{opdrts|25|28|Jun|2021|year}}
 |1,011
 |style="background:#CED7FD;"|'''39'''
 |23
@@ -1314,7 +1578,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|16
 |-
 |[https://maurice.nl/peilingen/2021/06/27/de-stemming-27-6-2021-geen-verschuivingen// Peil.nl]
-|data-sort-value="2021-06-27"|27 June 2021
+| {{opdrts||27|Jun|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''35'''
 |22
@@ -1338,7 +1602,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|13
 |-
 |[https://maurice.nl/peilingen/2021/06/20/de-stemming-20-6-2021-cda-zakt-verder-naar-6/ Peil.nl]
-|data-sort-value="2021-06-20"|20 June 2021
+| {{opdrts||20|Jun|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''35'''
 |22
@@ -1362,7 +1626,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|13
 |-
 |[https://maurice.nl/peilingen/2021/06/13/ Peil.nl]
-|data-sort-value="2021-06-13"|13 June 2021
+| {{opdrts||13|Jun|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''35'''
 |22
@@ -1387,10 +1651,10 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |- style="background:#EFEFEF"
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" | 12 June 2021
-| colspan="21" |'''[[Pieter Omtzigt]] leaves the [[Christian Democratic Appeal|CDA]] and continues as an independent'''<ref>{{Cite news|date=2021-06-12|title=Parlementarian Omtzigt leaves the CDA and wants to continue as a independent parlementarian|language=NL|work=NOS|url=https://nos.nl/artikel/2384745-tweede-kamerlid-omtzigt-stapt-uit-cda-en-wil-als-zelfstandig-kamerlid-verder|access-date=2022-04-12}}</ref>
+| colspan="21" |'''[[Pieter Omtzigt]] leaves the [[Christian Democratic Appeal|CDA]] and continues as an independent'''<ref>{{Cite news|date=2021-06-12|title=Tweede Kamerlid Omtzigt stapt uit CDA en wil als zelfstandig Kamerlid verder|trans-title=Parlementarian Omtzigt leaves the CDA and wants to continue as an independent parlementarian|language=NL|work=NOS|url=https://nos.nl/artikel/2384745-tweede-kamerlid-omtzigt-stapt-uit-cda-en-wil-als-zelfstandig-kamerlid-verder|access-date=2022-04-12}}</ref>
 |-
 |[https://www.ioresearch.nl/actueel/wensen-regeringscoalitie-illustreren-gepolariseerde-situatie/ I&O Research]
-|data-sort-value="2021-06-10"|10 June 2021
+| {{opdrts|4|7|Jun|2021|year}}
 |1,824
 |style="background:#CED7FD;"|'''36'''
 |21
@@ -1414,7 +1678,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|15
 |-
 |[https://maurice.nl/peilingen/2021/06/06/de-stemming-6-6-2021-formatie-anticipatie/ Peil.nl]
-|data-sort-value="2021-06-06"|6 June 2021
+| {{opdrts||6|Jun|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''35'''
 |22
@@ -1438,7 +1702,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|13
 |-
 |[https://maurice.nl/peilingen/2021/05/30/de-stemming-30-5-2021-de-versplintering/ Peil.nl]
-|data-sort-value="2021-05-30"|30 May 2021
+| {{opdrts||30|May|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''34'''
 |23
@@ -1462,7 +1726,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|11
 |-
 |[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/fvd-verliest-meer-dan-de-helft-van-de-zetels-in-nieuwste-zetelpeiling-50plus-naar-0/ Ipsos]
-|data-sort-value="2021-05-25"|25 May 2021
+| {{opdrts|21|23|May|2021|year}}
 |1,010
 |style="background:#CED7FD;"|'''36'''
 |25
@@ -1486,7 +1750,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|11
 |-
 |[https://maurice.nl/peilingen/2021/05/23/de-stemming-23-5-2021-formatie-nog-steeds-zeer-ingewikkeld/ Peil.nl]
-|data-sort-value="2021-05-23"|23 May 2021
+| {{opdrts||23|May|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''34'''
 |23
@@ -1510,7 +1774,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|11
 |-
 |[https://maurice.nl/peilingen/2021/05/16/de-stemming-16-5-2021-fvd-halveert/ Peil.nl]
-|data-sort-value="2021-05-16"|16 May 2021
+| {{opdrts||16|May|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''34'''
 |23
@@ -1538,7 +1802,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 | colspan="21" |'''[[Wybren van Haga]], [[Hans Smolders]] and [[Olaf Ephraim]] split from [[Forum for Democracy]], forming the Van Haga Group'''<ref>{{Cite news|date=2021-05-13|title=Van Haga and two parlementarians split from Forum for Democracy|language=NL|work=NRC|url=https://www.nrc.nl/nieuws/2021/05/13/van-haga-en-twee-kamerleden-splitsen-af-van-forum-voor-democratie-a4043462|access-date=2022-04-12}}</ref>
 |-
 |[https://maurice.nl/peilingen/2021/05/09/de-stemming-9-5-2021-windstilte/ Peil.nl]
-|data-sort-value="2021-05-09"|9 May 2021
+| {{opdrts||9|May|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''34'''
 |23
@@ -1566,7 +1830,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 | colspan="21" |'''[[50PLUS|50+]] loses parliamentary representation when [[Liane den Haan]] leaves the party and continues as an independent'''<ref>{{Cite news|date=2021-05-06|title=50PLUS leaves the House: Den Haan resigns and takes seat with her|language=NL|work=NOS|url=https://nos.nl/artikel/2379612-50plus-verdwijnt-uit-de-kamer-den-haan-stapt-op-en-neemt-zetel-mee|access-date=2022-04-12}}</ref>
 |-
 |[https://www.ioresearch.nl/actueel/io-zetelpeiling-cda-en-d66-verliezen-door-formatieperikelen/ I&O Research]
-|data-sort-value="2021-05-05"|5 May 2021
+| {{opdrts|30|03|May|2021|year}}
 |1,914
 |style="background:#CED7FD;"|'''34'''
 |23
@@ -1590,7 +1854,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|11
 |-
 |[https://maurice.nl/peilingen/2021/05/02/de-stemming-2-5-2021-kabinetsformatie-een-onontwarbare-knoop/ Peil.nl]
-|data-sort-value="2021-05-02"|2 May 2021
+| {{opdrts||2|May|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''32'''
 |22
@@ -1614,7 +1878,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|10
 |-
 |[https://maurice.nl/peilingen/2021/04/25/de-stemming-25-4-2021-cda-vvd-d66-op-verlies/ Peil.nl]
-|data-sort-value="2021-04-25"|25 Apr 2021
+| {{opdrts||25|Apr|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''32'''
 |22
@@ -1638,7 +1902,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|10
 |-
 |[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/gedoe-rond-formatie-kost-vvd-en-d66-geen-zetels-in-de-peiling-cda-wel-op-verlies/ Ipsos]
-|data-sort-value="2021-04-20"|20 Apr 2021
+| {{opdrts|16|19|Apr|2021|year}}
 |1,014
 |style="background:#CED7FD;"|'''35'''
 |26
@@ -1662,7 +1926,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|9
 |-
 |[https://maurice.nl/peilingen/2021/04/18/de-stemming-18-4-2021-weinig-veranderingen/ Peil.nl]
-|data-sort-value="2021-04-18"|18 Apr 2021
+| {{opdrts||18|Apr|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''32'''
 |24
@@ -1685,8 +1949,8 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |0
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|8
 |-
-|[https://www.ioresearch.nl/actueel/io-zetelpeiling-kelderend-vertrouwen-in-rutte-raakt-vvd-niet/ I&O Research]
-|data-sort-value="2021-04-16"|16 Apr 2021
+|[https://www.ioresearch.nl/actueel/io-zetelpeiling-kelderend-vertrouwen-in-rutte-raakt-vvd-niet/ {{nowrap|I&O Research}}]
+| {{opdrts|9|12|Apr|2021|year}}
 |1,738
 |style="background:#CED7FD;"|'''34'''
 |26
@@ -1710,7 +1974,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|8
 |-
 |[https://maurice.nl/peilingen/2021/04/11/peiling-11-4-2021-de-pendule-is-weer-op-de-terugweg/ Peil.nl]
-|data-sort-value="2021-04-11"|11 Apr 2021
+| {{opdrts||11|Apr|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''31'''
 |24
@@ -1734,7 +1998,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|7
 |-
 |[https://www.maurice.nl/peilingen/2021/04/04/en-toen-was-alles-anders-de-electorale-aardbeving-van-1-april-2021/ Peil.nl]
-|data-sort-value="2021-04-04"|4 Apr 2021
+| {{opdrts||4|Apr|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''28'''
 |25
@@ -1758,7 +2022,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|3
 |-
 |[https://www.maurice.nl/peilingen/2021/03/28/partijvoorkeuren-en-de-positie-van-pieter-omtzigt/ Peil.nl]
-|data-sort-value="2021-03-28"|28 Mar 2021
+| {{opdrts||28|Mar|2021|year}}
 |3,000+
 |style="background:#CED7FD;"|'''33'''
 |24
@@ -1782,7 +2046,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|9
 |- style="background:#E9E9E9;" 
 |[[2021 Dutch general election|2021 election]]
-|data-sort-value="2021-03-17"|17 Mar 2021
+| {{opdrts||17|Mar|2021|year}}
 |–
 |style="background:#CED7FD;"|'''34'''
 |24

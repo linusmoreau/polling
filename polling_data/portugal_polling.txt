@@ -341,6 +341,22 @@ Poll results are listed in the table below in reverse chronological order, showi
 |3
 | style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|4
 |-
+|[https://www.erc.pt/download/YToyOntzOjg6ImZpY2hlaXJvIjtzOjQyOiJtZWRpYS9zb25kYWdlbnMvb2JqZWN0b19vZmZsaW5lLzExNjIuMy5wZGYiO3M6NjoidGl0dWxvIjtzOjI3OiJzb25kYWdlbS1qYW4yMDIyLXJlc3VsdGFkb3MiO30=/sondagem-jan2022-resultados Metris]{{efn|name=Metris}}
+| 11–18 Jan 2022
+| 812
+|?
+| {{Party shading/PS}} |'''39.2'''
+| 32.6
+| 5.0
+| 5.4
+| 1.0
+| 1.1
+| 6.8
+| 4.4
+| 0.6
+| 3.9
+| style="background:{{party color|Socialist Party (Portugal)}}; color:white;"|6.6
+|-
 |[https://cnnportugal.iol.pt/rui-rio/antonio-costa/tracking-poll-a-primeira-amostra-pos-debate-rio-vs-costa-psd-tem-a-maior-subida-ate-agora-ps-cai-mas-pouquinho/20220118/61e707b30cf2c7ea0f13edc4 Pitagórica]{{efn|name=Tracking Poll}}
 | 14–17 Jan 2022
 | 608

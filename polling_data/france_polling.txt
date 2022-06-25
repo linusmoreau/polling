@@ -36,7 +36,7 @@ This table below lists polls completed since the publication of the official lis
 ![[File:Jean Lassalle 03 (cropped).jpg|80x80px]]
 ![[File:Portrait 3 - Flickr - dupontaignan (cropped).jpg|80x80px]]
 ![[File:Le Pen, Marine-9586 (cropped).jpg|80x80px]]
-![[File:Paris - Salon du livre 2012 - Eric Zemmour - 001.jpg|80x80px]]
+![[File:Portrait Éric Zemmour, avril 2022 cropped.jpg|80x80px]]
 |-
 !{{small|[[Nathalie Arthaud|Arthaud]]<br/>{{small|[[Lutte Ouvrière|LO]]}}}}
 !{{small|[[Philippe Poutou|Poutou]]<br/>{{small|[[New Anticapitalist Party|NPA]]}}}}
@@ -8546,7 +8546,7 @@ This table below lists polls completed since the publication of the official lis
 ! {{vert header|mw=35px|stp=1|[[Arnaud Montebourg]]}}
 ! {{vert header|mw=35px|stp=1|[[Anne Hidalgo]]}}
 ! {{vert header|mw=35px|stp=1|[[François Hollande]]}}
-! {{vert header|mw=35px|stp=1|[[Eric Piolle]]}}
+! {{vert header|mw=35px|stp=1|[[Éric Piolle]]}}
 ! {{vert header|mw=35px|stp=1|[[Yannick Jadot]]}}
 ! {{vert header|mw=35px|stp=1|[[Emmanuel Macron]]}}
 ! {{vert header|mw=35px|stp=1|[[Jean-Christophe Lagarde]]}}
@@ -10563,7 +10563,7 @@ This table below lists polls completed since the publication of the official lis
 | –
 | 1%
 |-
-| rowspan="10" style="background:#FFCCCC"| [https://www.lejdd.fr/Politique/sondage-presidentielle-2022-macron-et-le-pen-largement-en-tete-bertrand-en-embuscade-la-gauche-lachee-4037701?Echobox=1618093484#utm_medium=Social&xtor=CS1-3&utm_source=Facebook Ifop]
+| rowspan="10" style="background:#FFCCCC"| [https://www.lejdd.fr/Politique/sondage-presidentielle-2022-macron-et-le-pen-largement-en-tete-bertrand-en-embuscade-la-gauche-lachee-4037701?Echobox=1618093484#utm_medium=Social&xtor=CS1-3 Ifop]
 | rowspan="10"| 2–8 Apr 2021
 | rowspan="10"| 1,730
 | 0.5%

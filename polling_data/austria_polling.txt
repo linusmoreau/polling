@@ -1,5 +1,5 @@
 == Poll results ==
-{{for|the events during those years|2019 in Austria|2020 in Austria|2021 in Austria}}
+{{for|the events during those years|2019 in Austria|2020 in Austria|2021 in Austria|2022 in Austria}}
 
 {| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
 |-
@@ -23,6 +23,253 @@
 ! style="background:{{party color|NEOS – The New Austria and Liberal Forum}};"|
 ! style="background:{{party color|MFG – Austria People – Freedom – Fundamental Rights}};"|
 ! style="background:{{party color|Independent}};"|
+|-
+| [https://twitter.com/Wahlen_AT/status/1540272450126192640 Unique Research]
+| data-sort-value="2022-06-23"| 20–23 Jun 2022
+| 800
+| Phone & Online
+| 21
+| style="background:#F4C6C9;"| '''31'''
+| 19
+| 11
+| 11
+| 5
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 10
+|-
+| [https://www.oe24.at/oesterreich/politik/umfrage-beben-fpoe-holt-erstmal-oevp-ein/522625755 Market-Lazarsfeld]
+| data-sort-value="2022-06-21"| 13–21 Jun 2022
+| 2,000
+| Online
+| 21
+| style="background:#F4C6C9;"| '''31'''
+| 21
+| 9
+| 11
+| 4
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 10
+|-
+| [https://twitter.com/EuropeElects/status/1538226141047271426 Market-Lazarsfeld]
+| data-sort-value="2022-06-14"| 7–14 Jun 2022
+| 2,000
+| Online
+| 22
+| style="background:#F4C6C9;"| '''31'''
+| 19
+| 9
+| 12
+| 5
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 9
+|-
+| [https://www.heute.at/s/spoe-knackt-in-neuer-umfrage-die-30-oevp-stuerzt-ab-100213799 IFDD]
+| data-sort-value="2022-06-11"| 7–11 Jun 2022
+| 1,250
+| Online
+| 21
+| style="background:#F4C6C9;"| '''31'''
+| 20
+| 9
+| 11
+| 5
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 10
+|-
+| [https://www.profil.at/oesterreich/rendi-wagner-in-kanzlerfrage-erstmals-gleichauf-mit-nehammer/402037176 Unique Research]
+| data-sort-value="2022-06-09"| 7–9 Jun 2022
+| 800
+| Phone & Online
+| 22
+| style="background:#F4C6C9;"| '''27'''
+| 20
+| 12
+| 10
+| 6
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 5
+|-
+| [https://www.oe24.at/oesterreich/politik/umfrage-beben-spoe-schon-11-prozent-vor-oevp/521479948 Market-Lazarsfeld]
+| data-sort-value="2022-06-08"| 7–8 Jun 2022
+| 2,000
+| Online
+| 21
+| style="background:#F4C6C9;"| '''32'''
+| 19
+| 9
+| 12
+| 5
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 11
+|-
+| [https://www.oe24.at/oesterreich/politik/spoe-erreicht-in-neuer-umfrage-erstmals-30-prozent/520913983 Market-Lazarsfeld]
+| data-sort-value="2022-06-01"| 30 May–1 Jun 2022
+| 2,000
+| Online
+| 22
+| style="background:#F4C6C9;"| '''30'''
+| 19
+| 9
+| 13
+| 5
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 8
+|-
+| [https://www.derstandard.at/story/2000136071421/niedrige-preise-sind-oesterreichern-wichtiger-als-solidaritaet-mit-der-ukraine Market]
+| data-sort-value="2022-05-25"| 23–25 May 2022
+| 1,000
+| Online
+| 23
+| style="background:#F4C6C9;"| '''29'''
+| 20
+| 10
+| 11
+| 5
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 6
+|-
+| [https://www.oe24.at/video/fellnerlive/fellner-live-die-umfrage-der-woche/520270358 Market-Lazarsfeld]
+| data-sort-value="2022-05-24"| 21–24 May 2022
+| 2,000
+| Online
+| 23
+| style="background:#F4C6C9;"| '''29'''
+| 20
+| 11
+| 11
+| 5
+| 1
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 6
+|-
+| [https://www.politik-live.at/umfragen/umfrageschock-fuer-oevp-spoe-zieht-auf-29-davon/519757656 Market-Lazarsfeld]
+| data-sort-value="2022-05-19"| 16–19 May 2022
+| 2,000
+| Online
+| 23
+| style="background:#F4C6C9;"| '''29'''
+| 21
+| 9
+| 11
+| 6
+| 1
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 6
+|-
+| [https://www.profil.at/oesterreich/umfrage-69-sind-unzufrieden-mit-regierung/402007206 Unique Research]
+| data-sort-value="2022-05-12"| 9–12 May 2022
+| 800
+| Phone & Online
+| 22
+| style="background:#F4C6C9;"| '''27'''
+| 20
+| 12
+| 11
+| 6
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 5
+|-
+| [https://www.politik-live.at/umfragen/oevp-minus-vor-parteitag-fpoe-schliesst-zu-tuerkisen-auf/519166177 Market-Lazarsfeld]
+| data-sort-value="2022-05-11"| 9–11 May 2022
+| 2,000
+| Online
+| 23
+| style="background:#F4C6C9;"| '''27'''
+| 20
+| 9
+| 12
+| 5
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 4
+|-
+| [https://kurier.at/politik/inland/nehammer-geht-mit-rucksack-in-oevp-parteitag-in-noe-droht-herber-verlust/401999472 OGM]
+| data-sort-value="2022-05-05"| 29 Apr–5 May 2022
+| 800
+| Online
+| style="background:#D2EDF1;"| '''26'''
+| style="background:#F4C6C9;"| '''26'''
+| 18
+| 12
+| 10
+| 5
+| 3
+| Tie
+|-
+| [https://twitter.com/EuropeElects/status/1522898589541937152 Market]
+| data-sort-value="2022-05-05"| 25 Apr–5 May 2022
+| 2,000
+| Phone & Online
+| 24
+| style="background:#F4C6C9;"| '''28'''
+| 18
+| 11
+| 11
+| 5
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 4
+|-
+| [https://www.puls24.at/news/politik/sonntagsfrage-spoe-staerkste-partei-nehammer-wunschkanzler/263865 IFDD]
+| data-sort-value="2022-03-24"| 21–24 Mar 2022
+| 1,000
+| Online
+| 23
+| style="background:#F4C6C9;"| '''28'''
+| 19
+| 9
+| 10
+| 6
+| 5
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 5
+|-
+| [https://kurier.at/politik/inland/umfrage-spoe-und-oevp-gleichauf-nehammer-klar-vor-rendi-wagner/401992401 Peter Hajek]
+| data-sort-value="2022-04-28"| 25–28 Apr 2022
+| 800
+| Phone & Online
+| style="background:#D2EDF1;"| '''26'''
+| style="background:#F4C6C9;"| '''26'''
+| 18
+| 12
+| 9
+| 7
+| 2
+| Tie
+|-
+| [https://www.unique-research.at/post/heute-umfrage-politische-stimmungslage-m%C3%A4rz-2022 Unique Research]
+| data-sort-value="2022-04-26"| 22–26 Apr 2022
+| 800
+| Online & CAPI
+| 24
+| style="background:#F4C6C9;"| '''28'''
+| 19
+| 11
+| 12
+| 5
+| 1
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 4
+|-
+| [https://www.profil.at/oesterreich/umfrage-spoe-deutlich-vor-oevp-nehammer-in-kanzlerfrage-schwach/401967905 Unique Research]
+| data-sort-value="2022-04-04"| 4–7 Apr 2022
+| 800
+| Phone & Online
+| 24
+| style="background:#F4C6C9;"| '''28'''
+| 19
+| 11
+| 9
+| 7
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 4
+|-
+| [https://www.ogm.at/2022/03/27/ogm-kurier-wahlumfrage-maerz-2022/ OGM]
+| data-sort-value="2022-03-24"| 22–24 Mar 2022
+| 968
+| Online
+| style="background:#D2EDF1;"| '''26'''
+| style="background:#F4C6C9;"| '''26'''
+| 18
+| 11
+| 10
+| 6
+| 3
+| Tie
 |-
 | [https://www.unique-research.at/post/heute-umfrage-politische-stimmungslage-m%C3%A4rz-2022 Unique Research]
 | data-sort-value="2022-03-24"| 21–24 Mar 2022
@@ -51,7 +298,7 @@
 | style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 4
 |-
 | [https://twitter.com/wahlen_at/status/1499722398576390146 IFDD]
-| data-sort-value="2022-03-03"| 21 Feb–3 Mar 2021
+| data-sort-value="2022-03-03"| 21 Feb–3 Mar 2022
 | 600
 | Online
 | 23
@@ -1718,7 +1965,7 @@
 ! style="background:{{party color|Independent}};"|
 |-
 | [https://www.ots.at/presseaussendung/OTS_20210831_OTS0100/politik-herbst-2021-klare-mehrheiten-in-wien-zu-aktuellen-themen-anhang Triple M Matzka]
-| 19-27 Aug 2021
+| 19–27 Aug 2021
 | 1004
 | Online
 | style="background:#F4C6C9;"| '''30'''

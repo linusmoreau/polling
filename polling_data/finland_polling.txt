@@ -1,4 +1,5 @@
 === Vote share ===
+{{mw-datatable}}
 {| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
 |-
 ! rowspan="2"| Polling firm
@@ -27,6 +28,74 @@
 ! data-sort-type="number" style="background:{{party color|Swedish People's Party of Finland}};" |
 ! data-sort-type="number" style="background:{{party color|Christian Democrats (Finland)}};" |
 ! data-sort-type="number" style="background:{{party color|Movement Now}};" |
+|-
+| Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000008884391.html|title=Kokoomuksen kannatus nousi lähes ennätyslukemiin|first=Roosa|last=Welling|website=Helsingin Sanomat |date=15 June 2022|access-date=15 June 2022}}</ref>
+| data-sort-value="2022-06-10"| 16 May–10 June 2022
+| 2,442
+| 19.4
+| 14.5
+| style="background:#D9E9F4"|'''24.4'''
+| 12.2
+| 8.9
+| 7.5
+| 4.5
+| 3.6
+| 2.4
+| 2.6
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-5.0"| 5.0
+| {{#expr:19.4+12.2+8.9+7.5+4.5}}
+| {{#expr:14.5+24.4+3.6+2.4}}
+|-
+| Taloustutkimus<ref>{{Cite web|url=https://yle.fi/uutiset/3-12470115|title=Ylen kannatusmittaus: Kokoomus kiri lähelle ennätyslukuja – keskustan kannatus notkahti|first=Pekka|last=Kinnunen|website=Yle Uutiset|language=fi|access-date=2 June 2022|date=2 June 2022}}</ref>
+| data-sort-value="2022-05-31"| 4–31 May 2022
+| 2,899
+| 18.7
+| 14.9
+| style="background:#D9E9F4"|'''25.9'''
+| 12.1
+| 9.4
+| 8.0
+| 4.8
+| 3.0
+| 1.9
+| 1.3
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-7.2"| 7.2
+| {{#expr:18.7+12.1+9.4+8.0+4.8}}
+| {{#expr:14.9+25.9+3.0+1.9}}
+|-
+| Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000008822309.html|title=Kokoomus jatkaa selvästi suosituimpana, perussuomalaisten kannatus kasvoi pitkästä aikaa|first=Teemu|last=Muhonen|website=Helsingin Sanomat |date=18 May 2022|access-date=18 May 2022}}</ref>
+| data-sort-value="2022-05-13"| 18 Apr–13 May 2022
+| 2,420
+| 18.7
+| 15.4
+| style="background:#D9E9F4"|'''24.1'''
+| 12.7
+| 9.1
+| 7.6
+| 4.4
+| 3.6
+| 2.4
+| 2.0
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-5.4"| 5.4
+| {{#expr:18.7+12.7+9.1+7.6+4.4}}
+| {{#expr:15.4+24.1+3.6+2.4}}
+|-
+| Taloustutkimus<ref>{{Cite web|url=https://yle.fi/uutiset/3-12429918|title=Ylen kannatusmittaus: Kokoomuksen kannatus laskee huippulukemista, vasemmistoliitto ohittaa vihreät|first=Hannu|last=Tikkala|website=Yle Uutiset|language=fi|access-date=5 May 2022|date=5 May 2022}}</ref>
+| data-sort-value="2022-05-03"| 7 Apr–3 May 2022
+| 2,657
+| 17.9
+| 14.6
+| style="background:#D9E9F4"|'''24.1'''
+| 13.5
+| 8.8
+| 9.0
+| 4.3
+| 3.3
+| 2.3
+| 2.2
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-6.2"| 6.2
+| {{#expr:17.9+13.5+8.8+9.0+4.3}}
+| {{#expr:14.6+24.1+3.3+2.3}}
 |-
 | Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000008761452.html|title=Kokoomus kiskaisi selvän eron muihin puolueisiin: ”Jännittävä nähdä, mihin asti se menee”|first=Jarmo|last=Huhtanen|website=Helsingin Sanomat |date=22 April 2022|access-date=22 April 2022}}</ref>
 | data-sort-value="2022-04-13"| 14 Mar–13 Apr 2022

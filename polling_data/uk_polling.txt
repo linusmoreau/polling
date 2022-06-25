@@ -21,8 +21,727 @@
 ! data-sort-type="number" style="background:{{party color|Green Party of England and Wales}};"|
 ! data-sort-type="number" style="background:{{party color|Reform UK}};"|
 |-
+|{{opdrts||23|Jun|2022}}
+|colspan="12"|By-elections in [[2022 Tiverton and Honiton by-election|Tiverton and Honiton]] and [[2022 Wakefield by-election|Wakefield]]
+|-
+|{{opdrts|22|23|Jun|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/06/R23-UK-2022-6-24-DATA.pdf Techne UK]
+|N/A
+|UK
+|1,630
+|32%
+|style="background:#FFCCD9;"|'''38%'''
+|14%
+|4%
+|6%
+|–
+|6%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts||22|Jun|2022}}
+|[https://redfieldandwiltonstrategies.com/magnified-email/issue-41/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|32%
+|style="background:#FFCCD9;"|'''41%'''
+|13%
+|4%
+|5%
+|4%
+|{{Hidden|2%|[[Plaid Cymru]] on 0%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-9%"|9%
+|-
+|{{opdrts|16|20|Jun|2022}}
+|[https://www.kantarpublic.com/inspiration/thought-leadership/on-the-sixth-anniversary-of-the-eu-referendum-britons-remain-deeply-divided-over-brexit Kantar Public]
+|N/A
+|GB
+|1,141
+|34%
+|style="background:#FFCCD9;"|'''36%'''
+|13%
+|4%
+|5%
+|4%
+|{{Hidden|4%|[[UK Independence Party|UKIP]] on 2%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-2%"|2%
+|-
+|{{opdrts||19|Jun|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-19-june-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|33%
+|style="background:#FFCCD9;"|'''40%'''
+|13%
+|4%
+|5%
+|5%
+|{{Hidden|1%|[[Plaid Cymru]] on 0%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts|17|19|Jun|2022}}
+|[https://comresglobal.com/polls/westminster-voting-intention-23-june/ Savanta ComRes]
+|N/A
+|UK
+|2,050
+|31%
+|style="background:#FFCCD9;"|'''42%'''
+|10%
+|4%
+|5%
+|–
+|7%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-11%"|11%
+|-
+|{{opdrts|15|16|Jun|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/06/R22-UK-2022-6-17-DATA.pdf Techne UK]
+|N/A
+|UK
+|1,612
+|33%
+|style="background:#FFCCD9;"|'''39%'''
+|13%
+|4%
+|5%
+|–
+|6%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|15|16|Jun|2022}}
+|[https://yougov.co.uk/topics/politics/articles-reports/2022/06/17/voting-intention-con-33-lab-39-15-16-june/ YouGov]
+|''The Times''
+|GB
+|1,727
+|33%
+|style="background:#FFCCD9;"|'''39%'''
+|10%
+|4%
+|6%
+|4%
+|{{Hidden|4%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts||15|Jun|2022}}
+|[https://redfieldandwiltonstrategies.com/magnified-email/issue-40/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|34%
+|style="background:#FFCCD9;"|'''42%'''
+|12%
+|3%
+|4%
+|3%
+|{{Hidden|1%|[[Plaid Cymru]] on 0%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-8%"|8%
+|-
+|{{opdrts||12|Jun|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-12-june-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|32%
+|style="background:#FFCCD9;"|'''39%'''
+|15%
+|5%
+|6%
+|2%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts|10|12|Jun|2022}}
+|[https://2sjjwunnql41ia7ki31qqub1-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/Omni_vi_Standard_W113_Post_Private.xlsx SavantaComRes]
+|N/A
+|UK
+|2,237
+|34%
+|style="background:#FFCCD9;"|'''40%'''
+|10%
+|4%
+|4%
+|2%
+|{{Hidden|6%|[[Plaid Cymru]] on 1%<br/>Other on 5%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts||10|Jun|2022}}
+|[https://www.survation.com/new-westminster-voting-intention-proportional-representation-experiment/ Survation]
+|N/A
+|UK
+|2,053
+|34%
+|style="background:#FFCCD9;"|'''41%'''
+|10%
+|4%
+|3%
+|–
+|7%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|7%
+|-
+|{{opdrts||10|Jun|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/06/R21-UK-2022-6-10-DATA.pdf Techne UK]
+|N/A
+|UK
+|1,632
+|33%
+|style="background:#FFCCD9;"|'''39%'''
+|12%
+|4%
+|6%
+|–
+|6%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|8|10|Jun|2022}}
+|[https://www.opinium.com/wp-content/uploads/2022/06/VI-2022-06-08-Observer-Tables.xlsx Opinium]
+|''The Observer''
+|GB
+|2,002
+|34%
+|style="background:#FFCCD9;"|'''36%'''
+|13%
+|3%
+|6%
+|–
+|{{Hidden|8%|[[Plaid Cymru]] on 1%<br/>Other on 7%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-2%"|2%
+|-
+|{{opdrts|8|9|Jun|2022}}
+|[https://yougov.co.uk/topics/politics/articles-reports/2022/06/17/voting-intention-con-32-lab-39-8-9-june/ YouGov]
+|''The Times''
+|GB
+|1,727
+|32%
+|style="background:#FFCCD9;"|'''39%'''
+|11%
+|5%
+|7%
+|3%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts|8|9|Jun|2022}}
+|[https://redfieldandwiltonstrategies.com/magnified-email/issue-39/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|32%
+|style="background:#FFCCD9;"|'''40%'''
+|13%
+|4%
+|5%
+|4%
+|{{Hidden|2%|[[Plaid Cymru]] on 0%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-8%"|8%
+|-
+|{{opdrts||5|Jun|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-5-june-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|34%
+|style="background:#FFCCD9;"|'''38%'''
+|11%
+|4%
+|7%
+|4%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
+|-
+|{{opdrts|1|3|Jun|2022}}
+|[https://yougov.co.uk/topics/politics/articles-reports/2022/06/10/voting-intention-con-32-lab-36-1-3-june/ YouGov]
+|''The Times''
+|GB
+|2,000
+|32%
+|style="background:#FFCCD9;"|'''36%'''
+|12%
+|5%
+|8%
+|4%
+|{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
+|-
+|{{opdrts||1|Jun|2022}}
+|[https://redfieldandwiltonstrategies.com/magnified-email/issue-38/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|33%
+|style="background:#FFCCD9;"|'''39%'''
+|12%
+|4%
+|6%
+|4%
+|1%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|31|1|Jun|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/06/R20-UK-2022-6-3-DATA.pdf Techne UK]
+|N/A
+|UK
+|1,632
+|32%
+|style="background:#FFCCD9;"|'''40%'''
+|12%
+|4%
+|6%
+|–
+|6%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-8%"|8%
+|-
+|{{opdrts||29|May|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-29-may-2022/  Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|36%
+|style="background:#FFCCD9;"|'''43%'''
+|10%
+|3%
+|5%
+|3%
+|2%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts|27|29|May|2022}}
+|[https://2sjjwunnql41ia7ki31qqub1-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/Omni_W112_VI_Post_Tables_20220530_Private.xlsx SavantaComRes]
+|N/A
+|UK
+|2,177
+|31%
+|style="background:#FFCCD9;"|'''42%'''
+|11%
+|4%
+|3%
+|3%
+|{{Hidden|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-11%"|11%
+|-
+|{{opdrts|25|27|May|2022}}
+|[https://twitter.com/OpiniumResearch/status/1530611824525250567 Opinium]
+|''The Observer''
+|GB
+|1,513
+|33%
+|style="background:#FFCCD9;"|'''36%'''
+|11%
+|4%
+|8%
+|–
+|{{Hidden|9%|[[Plaid Cymru]] on 1%<br/>Other on 8%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-3%"|3%
+|-
+|{{opdrts|25|26|May|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/05/R19-UK-2022-5-27-DATA.pdf Techne UK]
+|N/A
+|UK
+|1,629
+|33%
+|style="background:#FFCCD9;"|'''40%'''
+|11%
+|4%
+|6%
+|–
+|6%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts||25|May|2022}}
+|[https://redfieldandwiltonstrategies.com/wp-content/uploads/2022/05/GB-Voting-Intention-25.05.2022.xlsx  Redfield & Wilton Strategies]
+|N/A
+|GB
+|1,500
+|31%
+|style="background:#FFCCD9;"|'''40%'''
+|14%
+|4%
+|5%
+|3%
+|2%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-9%"|9%
+|-
+|{{opdrts|24|25|May|2022}}
+|[https://docs.cdn.yougov.com/m5m97b82y6/TheTimes_VI_220525_W.pdf YouGov]
+|''The Times''
+|GB
+|1,755
+|31%
+|style="background:#FFCCD9;"|'''39%'''
+|12%
+|4%
+|7%
+|4%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-8%"|8%
+|-
+|{{opdrts|19|23|May|2022}}
+|[https://www.kantarpublic.com/inspiration/thought-leadership/54-think-the-government-should-remove-vat-from-energy-bills Kantar Public]
+|N/A
+|GB
+|1,087
+|32%
+|style="background:#FFCCD9;"|'''38%'''
+|13%
+|3%
+|8%
+|3%
+|{{Hidden|3%|[[UK Independence Party|UKIP]] on 1%<br/>[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%				
+|-
+|{{opdrts||22|May|2022}}
+|[https://redfieldandwiltonstrategies.com/wp-content/uploads/2022/05/GB-Voting-Intention-22.05.2022.xlsx  Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|33%
+|style="background:#FFCCD9;"|'''39%'''
+|12%
+|4%
+|5%
+|4%
+|{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|18|19|May|2022}}
+|[https://comresglobal.com/polls/westminster-voting-intention-20-may-daily-mail/ SavantaComRes]
+|''Daily Mail''
+|UK
+|2,021
+|34%
+|style="background:#FFCCD9;"|'''40%'''
+|10%
+|4%
+|4%
+|2%
+|{{Hidden|6%|[[Plaid Cymru]] on 1%<br/>Other on 5%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|18|19|May|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/05/R18-UK-2022-5-20-DATA.pdf Techne UK]
+|''N/A''
+|UK
+|1,635
+|35%
+|style="background:#FFCCD9;"|'''39%'''
+|10%
+|4%
+|6%
+|–
+|6%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
+|-
+|{{opdrts|18|19|May|2022}}
+|[https://docs.cdn.yougov.com/bzxqxn4yvg/TheTimes_VI_220519_w.pdf YouGov]
+|''The Times''
+|GB
+|1,692
+|31%
+|style="background:#FFCCD9;"|'''39%'''
+|12%
+|5%
+|7%
+|4%
+|{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-8%"|8%
+|-
+|{{opdrts||18|May|2022}}
+|[https://redfieldandwiltonstrategies.com/wp-content/uploads/2022/05/GB-Voting-Intention-18.05.2022.xlsx Redfield & Wilton Strategies]
+|N/A
+|GB
+|1,500
+|33%
+|style="background:#FFCCD9;"|'''39%'''
+|12%
+|4%
+|4%
+|5%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%		
+|-
+|{{opdrts|11|17|May|2022}}
+|[https://www.ipsos.com/sites/default/files/ct/news/documents/2022-05/Ipsos%20May%202022%20Political%20Monitor%20tabs_190522_PUBLIC.pdf Ipsos MORI]
+|N/A
+|GB
+|1,013
+|33%
+|style="background:#FFCCD9;"|'''39%'''
+|12%
+|5%
+|5%
+|1%
+|{{Hidden|4%|[[UK Independence Party|UKIP]] on 1%<br/>[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts||15|May|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-15-may-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|35%
+|style="background:#FFCCD9;"|'''39%'''
+|12%
+|4%
+|6%
+|3%
+|{{Hidden|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
+|-
+|{{opdrts|13|15|May|2022}}
+|[https://comresglobal.com/polls/savanta-comres-political-tracker-may-2022/ SavantaComRes]
+|N/A
+|UK
+|2,196
+|34%
+|style="background:#FFCCD9;"|'''41%'''
+|10%
+|4%
+|4%
+|2%
+|{{Hidden|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
+|-
+|{{opdrts|11|13|May|2022}}
+|[https://www.opinium.com/wp-content/uploads/2022/05/VI-2022-05-11-Observer-Tables-14th-May-2022.xlsx Opinium]
+|''The Observer''
+|GB
+|1,478
+|34%
+|style="background:#FFCCD9;"|'''37%'''
+|12%
+|4%
+|7%
+|–
+|{{Hidden|7%|[[Plaid Cymru]] on 1%<br/>Other on 6%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-3%"|3%
+|-
+|{{opdrts|11|12|May|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/05/R17-UK-2022-5-13-DATA.pdf Techne UK]
+|''N/A''
+|UK
+|1,634
+|34%
+|style="background:#FFCCD9;"|'''39%'''
+|11%
+|4%
+|6%
+|–
+|6%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
+|-
+|{{opdrts|10|11|May|2022}}
+|[https://docs.cdn.yougov.com/qtqr2rcdz1/TheTimes_VI_220511_W.pdf YouGov]
+|''The Times''
+|GB
+|1,990
+|33%
+|style="background:#FFCCD9;"|'''38%'''
+|12%
+|4%
+|6%
+|3%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
+|-
+|{{opdrts||8|May|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-8-may-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|33%
+|style="background:#FFCCD9;"|'''39%'''
+|12%
+|5%
+|7%
+|2%
+|1%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|6|8|May|2022}}
+|[https://comresglobal.com/polls/westminster-voting-intention-10-may/ SavantaComRes]
+|N/A
+|UK
+|2,161
+|34%
+|style="background:#FFCCD9;"|'''39%'''
+|11%
+|4%
+|3%
+|3%
+|{{Hidden|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
+|-
+|{{opdrts|5|6|May|2022}}
+|[https://docs.cdn.yougov.com/x298f09ps8/TheTimes_VI_220506_w.pdf YouGov]
+|''The Times''
+|GB
+|1,707
+|35%
+|style="background:#FFCCD9;"|'''36%'''
+|10%
+|5%
+|8%
+|3%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-1%"|1%
+|-
+|{{opdrts||5|May|2022}}
+|colspan="12"|[[2022 United Kingdom local elections|Local elections]] in England, Scotland and Wales, and the [[2022 Northern Ireland Assembly election|Northern Ireland Assembly election]]
+|-
+|{{opdrts|4|5|May|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/05/R16-UK-2022-5-6-DATA.pdf Techne UK]
+|''N/A''
+|UK
+|1,635
+|34%
+|style="background:#FFCCD9;"|'''40%'''
+|10%
+|4%
+|5%
+|–
+|7%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts||1|May|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-1-may-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|33%
+|style="background:#FFCCD9;"|'''41%'''
+|12%
+|4%
+|5%
+|3%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-8%"|8%
+|-
+|data-sort-value="2022-05-01"|29 Apr – 1 May
+|[https://comresglobal.com/polls/westminster-voting-intention-4-may/ SavantaComRes]
+|N/A
+|UK
+|2,236
+|35%
+|style="background:#FFCCD9;"|'''41%'''
+|9%
+|4%
+|4%
+|3%
+|{{Hidden|4%|[[Plaid Cymru]] on 0%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|27|28|Apr|2022}}
+|[https://www.techneuk.com/wp-content/uploads/2022/04/R15-UK-2022-4-29-DATA.pdf Techne UK]
+|''N/A''
+|UK
+|1,633
+|35%
+|style="background:#FFCCD9;"|'''40%'''
+|9%
+|4%
+|6%
+|–
+|6%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
+|-
+|{{opdrts|20|28|Apr|2022}}
+|[https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Ipsos%20April%202022%20Political%20Monitor%20tabs_290422_PUBLIC.pdf Ipsos MORI]
+|N/A
+|GB
+|1,006
+|35%
+|style="background:#FFCCD9;"|'''40%'''
+|10%
+|5%
+|7%
+|1%
+|{{Hidden|2%|[[UK Independence Party|UKIP]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
+|-
+|{{opdrts|26|27|Apr|2022}}
+|[https://docs.cdn.yougov.com/cpi2717ndc/TheTimes_VI_220427_w.pdf YouGov]
+|''The Times''
+|GB
+|1,779
+|33%
+|style="background:#FFCCD9;"|'''39%'''
+|11%
+|5%
+|6%
+|3%
+|{{Hidden|2%|[[Plaid Cymru]] on 0%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|22|26|Apr|2022}}
+|[https://www.survation.com/labour-maintains-lead-over-conservatives/ Survation]
+|N/A
+|UK
+|2,587
+|33%
+|style="background:#FFCCD9;"|'''42%'''
+|9%
+|4%
+|4%
+|2%
+|{{Hidden|5%|headerstyle=font-weight:normal;line-height:9px;|[[Plaid Cymru]] on 1% <br/> Others on 4%}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-9%"|9%
+|-
+|{{opdrts|14|26|Apr|2022}}
+|[https://twitter.com/chriscurtis94/status/1525380501489475584 Opinium]
+|N/A
+|GB
+|4,000
+|35%
+|style="background:#FFCCD9;"|'''37%'''
+|10%
+|–
+|7%
+|colspan="2"|–
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-2%"|2%
+|-
+|{{opdrts||24|Apr|2022}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-24-april-2022/ Redfield & Wilton Strategies]
+|N/A
+|GB
+|2,000
+|34%
+|style="background:#FFCCD9;"|'''42%'''
+|11%
+|4%
+|4%
+|4%
+|{{Hidden|1%|[[Plaid Cymru]] on 1%<br/>Other on 0%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-8%"|8%
+|-
+|{{opdrts|22|24|Apr|2022}}
+|[https://comresglobal.com/polls/westminster-voting-intention-30-april-for-the-independent/ SavantaComRes]
+|N/A
+|UK
+|2,231
+|34%
+|style="background:#FFCCD9;"|'''40%'''
+|11%
+|4%
+|3%
+|3%
+|{{Hidden|5%|[[Plaid Cymru]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
+|-
+|{{opdrts|20|22|Apr|2022}}
+|[https://www.opinium.com/wp-content/uploads/2022/04/VI-2022-04-19-Observer.xlsx Opinium]
+|''The Observer''
+|GB
+|2,002
+|34%
+|style="background:#FFCCD9;"|'''36%'''
+|10%
+|4%
+|8%
+|–
+|{{Hidden|8%|[[Plaid Cymru]] on 1%<br/>Other on 7%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-2%"|2%
+|-
 |{{opdrts|20|21|Apr|2022}}
-|[https://www.techneuk.com/wp-content/uploads/2022/04/R14-UK-2022-4-22-DATA.pdf TechneUK]
+|[https://www.techneuk.com/wp-content/uploads/2022/04/R14-UK-2022-4-22-DATA.pdf Techne UK]
 |N/A
 |UK
 |1,631
@@ -36,10 +755,10 @@
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
 |-
 |{{opdrts|19|20|Apr|2022}}
-|[https://yougov.co.uk/topics/politics/articles-reports/2022/04/22/voting-intention-con-33-lab-39-19-20-april?utm_source=twitter%20&utm_medium=website_article&utm_campaign=voting_intention YouGov]
+|[https://yougov.co.uk/topics/politics/articles-reports/2022/04/22/voting-intention-con-33-lab-39-19-20-april YouGov]
 |''The Times''
 |GB
-|2.079
+|2,079
 |33%
 |style="background:#FFCCD9;"|'''39%'''
 |9%
@@ -93,7 +812,7 @@
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
 |-
 |{{opdrts|12|13|Apr|2022}}
-|[https://www.techneuk.com/wp-content/uploads/2022/04/R13-UK-2022-4-15-DATA.pdf TechneUK]
+|[https://www.techneuk.com/wp-content/uploads/2022/04/R13-UK-2022-4-15-DATA.pdf Techne UK]
 |N/A
 |UK
 |1,628
@@ -163,7 +882,7 @@
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-4%"|4%
 |-
 |{{opdrts|6|7|Apr|2022}}
-|[https://www.techneuk.com/wp-content/uploads/2022/04/R12-UK-2022-4-8-DATA.pdf TechneUK]
+|[https://www.techneuk.com/wp-content/uploads/2022/04/R12-UK-2022-4-8-DATA.pdf Techne UK]
 |N/A
 |UK
 |1,635
@@ -219,9 +938,9 @@
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-7%"|7%
 |-
 |{{opdrts|30|31|Mar|2022}}
-|[https://www.techneuk.com/wp-content/uploads/2022/04/R11-UK-2022-4-1-DATA.pdf TechneUK]
+|[https://www.techneuk.com/wp-content/uploads/2022/04/R11-UK-2022-4-1-DATA.pdf Techne UK]
 |N/A
-|GB
+|UK
 |1,639
 |36%
 |style="background:#FFCCD9;"|'''39%'''
@@ -317,7 +1036,7 @@
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-2%"|2%
 |-
 |{{opdrts|23|24|Mar|2022}}
-|[https://www.techneuk.com/wp-content/uploads/2022/03/R10-UK-2022-3-25-DATA.pdf Techne]
+|[https://www.techneuk.com/wp-content/uploads/2022/03/R10-UK-2022-3-25-DATA.pdf Techne UK]
 |N/A
 |UK
 |1,641
@@ -373,7 +1092,7 @@
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-5%"|5%
 |-
 |{{opdrts|16|17|Mar|2022}}
-|[https://www.techneuk.com/wp-content/uploads/2022/03/R9-UK-2022-3-18-DATA.pdf Techne]
+|[https://www.techneuk.com/wp-content/uploads/2022/03/R9-UK-2022-3-18-DATA.pdf Techne UK]
 |N/A
 |UK
 |1,636
@@ -471,7 +1190,7 @@
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
 |-
 |{{opdrts|9|10|Mar|2022}}
-|[https://www.techneuk.com/wp-content/uploads/2022/03/R8-UK-2022-3-11-DATA.pdf Techne]
+|[https://www.techneuk.com/wp-content/uploads/2022/03/R8-UK-2022-3-11-DATA.pdf Techne UK]
 |N/A
 |UK
 |1,641

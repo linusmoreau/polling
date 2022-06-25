@@ -626,7 +626,7 @@
 |style="text-align:right"|{{formatnum:2.10}}
 |-
 |{{nowrap|17-19 Nov 2021}}
-|CIEP-UCR<ref>{{cite web|url=https://ciep.ucr.ac.cr/estudio-de-opinion-publica-noviembre-2021/|title=ESTUDIO DE OPINIÓN 24 November 2021|accessdate=24 November 2021|website=ciep.ucr.ac.cr|language=es}}</ref>
+|CIEP-UCR<ref>{{cite web|url=https://ciep.ucr.ac.cr/estudio-de-opinion-publica-noviembre-2021/|title=ESTUDIO DE OPINIÓN 24 November 2021|accessdate=24 November 2021|website=ciep.ucr.ac.cr|date=24 November 2021 |language=es}}</ref>
 |
 |style="text-align:right"|{{formatnum:1.00}}
 |
@@ -684,7 +684,7 @@
 |style="text-align:right"|{{formatnum:33.20}}
 |-
 |{{nowrap|21 Oct-2 Nov 2021}}
-|CIEP-UCR<ref>{{cite web|url=https://ciep.ucr.ac.cr/estudio-de-opinion-publica-octubre-2021/|title=ESTUDIO DE OPINIÓN 3 November 2021|accessdate=3 November 2021|website=ciep.ucr.ac.cr|language=es}}</ref>
+|CIEP-UCR<ref>{{cite web|url=https://ciep.ucr.ac.cr/estudio-de-opinion-publica-octubre-2021/|title=ESTUDIO DE OPINIÓN 3 November 2021|accessdate=3 November 2021|website=ciep.ucr.ac.cr|date=3 November 2021 |language=es}}</ref>
 |
 |style="text-align:right"|{{formatnum:2.00}}
 |style="text-align:right"|{{formatnum:0.20}}
@@ -1175,7 +1175,7 @@
 |16.15%
 |-
 |21-23 March 2022
-|Demoscopia<ref>https://www.culturacr.net/demoscopia-vuelve-a-dar-mejor-resultado-a-figueres-sobre-chaves-pero-en-empate-tecnico/?fbclid=IwAR0z7o1SbncYzfeo2GkkMCoMga1nqUQJZUd-eUi7tdbTXIkOfIyTeF0YSZ4</ref>
+|Demoscopia<ref>{{cite web | url=https://www.culturacr.net/demoscopia-vuelve-a-dar-mejor-resultado-a-figueres-sobre-chaves-pero-en-empate-tecnico/?fbclid=IwAR0z7o1SbncYzfeo2GkkMCoMga1nqUQJZUd-eUi7tdbTXIkOfIyTeF0YSZ4 | title=Demoscopía vuelve a dar mejor resultado a Figueres sobre Chaves pero en empate técnico - Culturacr.net | date=23 March 2022 }}</ref>
 |32.4%
 |style="background:#ffd800"|36%
 |15%

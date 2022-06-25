@@ -5,26 +5,26 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 
 ;Legend
 * '''Gov.'''
-**— Sum of the [[Thirty-sixth government of Israel|36th government]] parties: [[Yesh Atid]], [[Blue and White (political alliance)|Blue & White]], [[Yamina]], [[Israeli Labor Party|Labor]], [[Yisrael Beiteinu]], [[New Hope (Israel)|New Hope]], [[Meretz]] and [[United Arab List|Ra'am]]. The coalition parties are highlighted in yellow.
+**— Sum of the [[Thirty-sixth government of Israel|36th government]] parties: [[Yesh Atid]], [[Blue and White (political alliance)|Blue & White]], [[Yamina]], [[Israeli Labor Party|Labor]], [[Yisrael Beiteinu]], [[New Hope (Israel)|New Hope]], [[Meretz]] and [[United Arab List|Ra'am]]. The coalition parties are highlighted in blue.
 
 {|class="wikitable sortable" style=text-align:center;font-size:90%;line-height:12px
 !rowspan=2 |Date
 !rowspan=2 |Polling firm
 !rowspan=2 |Publisher
 ![[Likud]]
-!style=background:#eeb |[[Yesh Atid|Yesh<br>Atid]]
+!style=background:#cee |[[Yesh Atid|Yesh<br>Atid]]
 ![[Shas]]
-!style=background:#eeb |[[Blue and White (political alliance)|Blue &<br>White]]
-!style=background:#eeb |[[Yamina]]
-!style=background:#eeb |[[Israeli Labor Party|Labor]]
+!style=background:#cee |[[Blue and White (political alliance)|Blue &<br>White]]
+!style=background:#cee |[[Yamina]]
+!style=background:#cee |[[Israeli Labor Party|Labor]]
 ![[United Torah Judaism|UTJ]]
-!style="background:#eeb; font-size:90%" |[[Yisrael Beiteinu|Yisrael<br>Beiteinu]]
+!style="background:#cee; font-size:90%" |[[Yisrael Beiteinu|Yisrael<br>Beiteinu]]
 !style=font-size:90% |[[Religious Zionist Party|Religious<br>Zionist]]
 ![[Joint List|Joint<br>List]]
-!style=background:#eeb |[[New Hope (Israel)|New<br>Hope]]
-!style=background:#eeb |[[Meretz]]
-!style=background:#eeb |[[United Arab List|Ra'am]]
-!style=background:#eeb |[[Thirty-sixth government of Israel|''Gov.'']]
+!style=background:#cee |[[New Hope (Israel)|New<br>Hope]]
+!style=background:#cee |[[Meretz]]
+!style=background:#cee |[[United Arab List|Ra'am]]
+!style=background:#cee |[[Thirty-sixth government of Israel|''Gov.'']]
 |-
 !style=background:{{party color|Likud}} |
 !style=background:{{party color|Yesh Atid}} |
@@ -40,6 +40,291 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 !style=background:{{party color|Meretz}} |
 !style=background:{{party color|United Arab List}} |
 !style=background:{{party color|Yesh Atid}} |
+|-
+| data-sort-value=2022-06-21 |23 Jun 22
+|Panels Politics
+|''[[Maariv (newspaper)|Maariv]]''<ref name="Jerusalem Post 6/24">{{cite news |last=Breuer |first=Eliav |date=2022-06-24 |title=Israel elections: Bennett is crashing in the polls |work=[[The Jerusalem Post]] |url=https://www.jpost.com/israel-elections/article-710295 |access-date=2022-06-24}}</ref>
+|style=background:#BBCDE4 |'''35'''	<!-- Likud		-->
+|21			        <!-- Yesh Atid		-->
+|7					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|4					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|9					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|4					<!-- New Hope	-->
+|4					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|55					<!-- Gov		-->
+|-
+| data-sort-value=2022-06-21 |21 Jun 22	
+|Direct Polls
+|[[Channel 14 (Israel)|Channel 14]]<ref name="C14 2106">{{Cite news |title=“סקר חדשות 14 – דרמטי ומפתיע: כל התשובות והנתונים המלאים.” עכשיו 14 |url=https://www.now14.co.il/%d7%a1%d7%a7%d7%a8-%d7%97%d7%93%d7%a9%d7%95%d7%aa-14-%d7%93%d7%a8%d7%9e%d7%98%d7%99-%d7%95%d7%9e%d7%a4%d7%aa%d7%99%d7%a2-%d7%9b%d7%9c-%d7%94%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa-%d7%95%d7%94%d7%a0/ |access-date=21 June 2022 |date=21 June 2022 |website=Now 14 |language=he}}</ref>
+|style=background:#BBCDE4 |'''36'''	<!-- Likud		-->
+|20					<!-- Yesh Atid		-->
+|8					<!-- Shas		-->
+|7					<!-- Blue and White	-->
+|4					<!-- Yamina		-->
+|5					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|9					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|4					<!-- New Hope	-->
+|4					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|54					<!-- Gov		-->
+|-
+| data-sort-value=2022-06-21 |21 Jun 22
+|Camil Fuchs
+|[[Channel 13 (Israel)|Channel 13]]<ref name="C13 2106">{{Cite news |title=בדרך לבחירות: גם כעת – אין הכרעה בין הגושים {{!}} סקר חדשות 13 {{!}} חדשות 13 |url=https://13tv.co.il/item/news/politics/politics/ffc94-903122697/ |access-date=21 June 2022 |date=21 June 2022 |website=Channel 13 |language=he}}</ref>
+|style=background:#BBCDE4 |'''35'''	<!-- Likud		-->
+|22					<!-- Yesh Atid		-->
+|8					<!-- Shas		-->
+|7					<!-- Blue and White	-->
+|4					<!-- Yamina		-->
+|5					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|9					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|4					<!-- New Hope	-->
+|4					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|55					<!-- Gov		-->
+|-
+| data-sort-value=2022-06-21 |21 Jun 22
+|Midgam
+|[[HaHadashot 12]]<ref name="Midgam June 21">{{Cite news |date=21 June 2022 |title=N12 - סקר בחירות: אף גוש לא מגיע ל-61 מנדטים, 4 מפלגות סביב... |url=https://www.mako.co.il/news-politics/2022_q2/Article-a4fc724f5f68181026.htm |access-date=21 June 2022 |website=N12 |lang=he}}</ref>
+|style=background:#BBCDE4 |'''35'''	<!-- Likud		-->
+|20					<!-- Yesh Atid		-->
+|8					<!-- Shas		-->
+|9					<!-- Blue and White	-->
+|4					<!-- Yamina		-->
+|6					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|9					<!-- Religious Zionist	-->
+|5					<!-- Joint List		-->
+|4					<!-- New Hope	-->
+|4					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|57					<!-- Gov		-->
+|-
+| data-sort-value=2022-06-21 |21 Jun 22
+|Kantar
+|[[Kan 11]]<ref>{{Cite news |title=סקר כאן חדשות: לנתניהו אין 61, מרצ לא עוברת את אחוז החסימה |url=https://www.kan.org.il/Item/?itemId=129571 |access-date=21 June 2022 |date=21 June 2022 |website=Kan |language=he}}</ref>
+|style=background:#BBCDE4 |'''36'''	<!-- Likud		-->
+|21					<!-- Yesh Atid		-->
+|8					<!-- Shas		-->
+|9					<!-- Blue and White	-->
+|5					<!-- Yamina		-->
+|6					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|9					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|4					<!-- New Hope	-->
+|{{small|(2.4%)}}	<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|54					<!-- Gov		-->
+|-
+|data-sort-value=2022-06-20 |20 Jun 22
+|Panels Politics
+|103fm<ref>{{cite news |title=סקר 103fm: בדרך לבחירות חמישיות - שוב ללא הכרעה |url=https://103fm.maariv.co.il/programs/media.aspx?ZrqvnVq=IKLGED&c41t4nzVQ=GJL&gntVQ=IDL |author=Golan Yokhpaz & Anat Davidov |work=103fm |access-date=21 June 2022 |date=21 June 2022 |language=he}}</ref>
+|style=background:#BBCDE4 |'''36'''	<!-- Likud		-->
+|20					<!-- Yesh Atid		-->
+|7					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|7					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|6					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|10					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|4					<!-- New Hope		-->
+|{{small|(2.7%)}}	<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|55					<!-- Gov		-->
+|-
+|data-sort-value=2022-06-20 |20 Jun 22
+|colspan=16 |'''[[Naftali Bennett|Bennett]] ([[Prime Minister of Israel|PM]]) and [[Yair Lapid|Lapid]] ([[Alternate Prime Minister of Israel|Alternate PM]]) agree to dissolve the Knesset.'''<ref name=dissolve>{{cite news |url=https://www.timesofisrael.com/coalition-looking-to-dissolve-knesset-on-wednesday-in-bid-to-foil-opposition/ |title=Coalition looking to dissolve Knesset as soon as Wednesday in bid to foil opposition |author1=Carrie Keller-Lynn |author2=[[Staff writer]] |work=[[The Times of Israel]] |date=21 June 2022 |accessdate=21 June 2022}}</ref>
+|-
+|data-sort-value=2022-06-13 |13 Jun 22
+|colspan=16 |'''MK [[Nir Orbach]] of Yamina leaves the coalition'''<ref>{{cite news |title=Yamina MK Nir Orbach quits coalition; PM admits it could collapse ‘in a week or two’ |url=https://www.timesofisrael.com/yamina-mk-nir-orbach-quits-coalition-dropping-ruling-bloc-into-minority/ |access-date=13 June 2022 |date=13 June 2022 |work=[[The Times of Israel]]}}</ref>
+|-
+|data-sort-value=2022-06-13 |13 Jun 22
+|Midgam
+|[[HaHadashot 12]]<ref name=Ch12Jun13>{{Cite news |author=Amit Segal |work=N12 |title=שנה לממשלת בנט-לפיד: 60 לגוש נתניהו - והמפלגה שמתחת לאחוז החסימה |url=https://www.mako.co.il/news-politics/2022_q2/Article-0b17eca371e5181027.htm |date=13 June 2022 |access-date=18 June 2022 |language=he}}</ref>
+|style=background:#BBCDE4 |'''36'''	<!-- Likud		-->
+|20					<!-- Yesh Atid -->
+|8					<!-- Shas		-->
+|10					<!-- Blue and White	-->
+|5					<!-- Yamina		-->
+|6					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|9					<!-- Religious Zionist	-->
+|5					<!-- Joint List	-->
+|{{small|(2.9%)}}	<!--New Hope	-->
+|4					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|55					<!-- Gov		-->
+|-
+|data-sort-value=2022-06-10 |10 Jun 22
+|Camil Fuchs
+|[[Channel 13 (Israel)|Channel 13]]<ref name=Ch13June10>{{Cite news |date=10 June 2022 |title=Poll: Ra'am fails to pass threshold, right-wing bloc has 60 seats |work=[[Arutz Sheva]] |url=https://www.israelnationalnews.com/news/354709 |access-date=11 June 2022}}</ref>
+|style=background:#BBCDE4 |'''36'''	<!-- Likud		-->
+|20					<!-- Yesh Atid -->
+|8					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|6					<!-- Yamina		-->
+|6					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|9					<!-- Religious Zionist	-->
+|7					<!-- Joint List	-->
+|4					<!-- New Hope	-->
+|4					<!-- Meretz		-->
+|–					<!-- Ra'am		-->
+|53					<!-- Gov		-->
+|-
+|data-sort-value=2022-06-08 |8 Jun 22
+|Panels Politics
+|''[[Maariv (newspaper)|Maariv]]''<ref>{{cite news |author=Arik Bender |title=סקר מנדטים: ימינה נחלשת, בן גביר ממשיך להפתיע והאם נתניהו יוכל להקים קואליציה? |url=https://www.maariv.co.il/news/politics/Article-924011 |access-date=11 June 2022 |date=10 June 2022 |work=Maariv |language=he}}</ref>
+|style=background:#BBCDE4 |'''34'''	<!-- Likud		-->
+|21					<!-- Yesh Atid		-->
+|8					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|5					<!-- Yamina		-->
+|6					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|11					<!-- Religious Zionist	-->
+|7					<!-- Joint List		-->
+|4					<!-- New Hope		-->
+|{{small|(2.5%)}}	<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|53					<!-- Gov		-->
+|-
+|data-sort-value=2022-06-07 |7 Jun 22
+|Kantar
+|[[Kan 11]]<ref>{{cite news |author=Michael Shemesh & Michal Rabinowich |title=סקר כאן חדשות: 60 מנדטים לגוש הימין, סער לא עובר את אחוז החסימה |url=https://www.kan.org.il/Item/?itemId=128738 |work=Kan |access-date=8 June 2022 |date=7 June 2022 |language=he}}</ref>
+|style=background:#BBCDE4 |'''35'''	<!-- Likud		-->
+|20					<!-- Yesh Atid		-->
+|8					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|6					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|10					<!-- Religious Zionist	-->
+|6					<!-- Joint List		-->
+|{{small|(2.8%)}}	<!-- New Hope		-->
+|4					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|54					<!-- Gov		-->
+|-
+|data-sort-value=2022-05-25 |24–25 May 22
+|Panels Politics
+|style="letter-spacing:-1px;"|''[[The Jerusalem Post]]''<ref name=JPMay25>{{cite news |title=סקר מנדטים מגלה: מרצ נמחקת, בן גביר מפתיע והאם נתניהו יוכל להקים קואליציה? |url=https://www.msn.com/he-il/news/other/סקר-מנדטים-מגלה-מרצ-נמחקת-בן-גביר-מפתיע-והאם-נתניהו-יוכל-להקים-קואליציה/ar-AAXLT8p |access-date=27 May 2022 |date=26 May 2022 |work=MSN |language=he}}</ref>
+|style=background:#BBCDE4 |'''35'''	<!-- Likud		-->
+|20					<!-- Yesh Atid		-->
+|8					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|6					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|9					<!-- Religious Zionist	-->
+|7					<!-- Joint List		-->
+|4					<!-- New Hope		-->
+|{{small|(2.6%)}}	<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|54					<!-- Gov		-->
+|-
+|data-sort-value=2022-05-22 |22 May 22
+|colspan=16 |'''MK [[Ghaida Rinawie Zoabi]] of Meretz returns to the coalition'''<ref>{{Cite news |last=כהן |first=שירית אביטן |last2=זקן |first2=דני |date=2022-05-22 |title=בתום הפגישה עם לפיד: רינאוי-זועבי חזרה לקואליציה |work=Globes |url=https://www.globes.co.il/news/article.aspx?did=1001412687 |access-date=2022-05-22}}</ref>
+|-
+|data-sort-value=2022-05-21 |21 May 22
+|Panels Politics
+|103fm<ref name=103May22>{{cite news |author=Golan Yokhpaz & Anat Davidov |title=סקר 103fm: גוש נתניהו עם 60 - מתנגדיו עם 53 |url=https://103fm.maariv.co.il/programs/media.aspx?ZrqvnVq=IKHJJI&c41t4nzVQ=GJL |access-date=22 May 2022 |date=22 May 2022 |work=103fm |language=he}}</ref>
+|style=background:#BBCDE4 |'''36'''	<!-- Likud		-->
+|18					<!-- Yesh Atid		-->
+|8					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|6					<!-- Yamina		-->
+|8					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|9					<!-- Religious Zionist	-->
+|7					<!-- Joint List		-->
+|4					<!-- New Hope		-->
+|{{small|(2.5%)}}	<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|53					<!-- Gov		-->
+|-
+|data-sort-value=2022-05-19 |19 May 22
+|colspan=16 |'''MK [[Ghaida Rinawie Zoabi]] of Meretz leaves the coalition'''<ref>{{cite news |title=Meretz MK Rinawie Zoabi quits coalition, putting it in minority |url=https://www.timesofisrael.com/meretz-mk-rinawie-zoabi-quits-coalition-putting-it-in-minority/ |access-date=19 May 2022 |date=19 May 2022 |work=[[The Times of Israel]]}}</ref>
+|-
+|data-sort-value=2022-05-09 |9 May 22
+|Camil Fuchs
+|[[Channel 13 (Israel)|Channel 13]]<ref name=Ch13May9>{{Cite news |last=Segal |first=Udi |date=9 May 2022 |title=בצל המצב השביר בקואליציה: רע"מ לא עוברת את אחוז החסימה |work=Channel 13 |url=https://13tv.co.il/item/news/politics/politics/survey-politics-903037986/ |access-date=9 May 2022 |language=he}}</ref>
+|style=background:#BBCDE4 |'''36'''	<!-- Likud		-->
+|18					<!-- Yesh Atid -->
+|7					<!-- Shas		-->
+|7					<!-- Blue and White	-->
+|8					<!-- Yamina		-->
+|6					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|5					<!-- Yisrael Beiteinu	-->
+|9					<!-- Religious Zionist	-->
+|8					<!-- Joint List	-->
+|4					<!-- New Hope	-->
+|5					<!-- Meretz		-->
+|–					<!-- Ra'am		-->
+|53					<!-- Gov		-->
+|-
+|data-sort-value=2022-05-03 |3 May 22
+|Smith
+|Galei Israel<ref>{{Cite news |title=סקר מכון רפי סמית עבור רדיו גלי ישראל |url=https://www.gly.co.il/item?id=11740 |last=Gal |first=Sharon |date=3 May 2022 |access-date=9 May 2022 |website=Radio Galei Israel |language=he}}</ref>
+|style=background:#BBCDE4 |'''36'''	<!-- Likud		-->
+|20					<!-- Yesh Atid	-->
+|8					<!-- Shas -->
+|7					<!-- Blue and White	-->
+|5					<!-- Yamina		-->
+|7					<!-- Labor		-->
+|7					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|8					<!-- Religious Zionist	-->
+|6					<!-- Joint List	-->
+|–					<!-- New Hope	-->
+|5					<!-- Meretz		-->
+|5					<!-- Ra'am		-->
+|55					<!-- Gov		-->
+|-
+|data-sort-value=2022-04-25 |25 Apr 22
+|colspan=16 |'''MK [[Amichai Chikli]] ousted from Yamina'''<ref>{{cite news |title=Renegade Yamina MK Chikli ousted from party as Knesset panel declares him a defector |url=https://www.timesofisrael.com/vote-on-yamina-ouster-of-chikli-turns-into-political-theater-over-coalitions-future/ |access-date=19 May 2022 |date=25 Apr 2022 |work=[[The Times of Israel]]}}</ref>
+|-
+|data-sort-value=2022-04-07 |6–7 Apr 22
+|Maagar Mohot
+|''[[Israel Hayom]]''<ref name=IHApr7>{{Cite news |title=סקר "ישראל היום": 58% לא רוצים בחירות |url=https://www.israelhayom.co.il/news/politics/article/9835596 |date=8 April 2022 |access-date=9 May 2022 |website=Israel Hayom |language=he}}</ref>
+|style=background:#BBCDE4 |'''35'''	<!-- Likud		-->
+|19					<!-- Yesh Atid -->
+|9					<!-- Shas		-->
+|8					<!-- Blue and White	-->
+|5					<!-- Yamina		-->
+|8					<!-- Labor		-->
+|8					<!-- UTJ		-->
+|6					<!-- Yisrael Beiteinu	-->
+|8					<!-- Religious Zionist	-->
+|6					<!-- Joint List	-->
+|–					<!-- New Hope	-->
+|4					<!-- Meretz		-->
+|4					<!-- Ra'am		-->
+|54					<!-- Gov		-->
 |-
 |data-sort-value=2022-04-07 |7 Apr 22
 |Panels Politics
@@ -130,6 +415,9 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |5					<!-- Meretz		-->
 |4					<!-- Ra'am		-->
 |56					<!-- Gov		-->
+|-
+|data-sort-value=2022-04-06 |6 Apr 22
+|colspan=16 |'''MK [[Idit Silman]] of Yamina leaves the coalition'''<ref>{{cite news |title=Israel’s Government in Crisis After Senior Lawmaker Quits Coalition |url=https://www.nytimes.com/2022/04/06/world/middleeast/idit-silman-israel-coalition.html |access-date=19 May 2022 |date=6 Apr 2022 |work=[[The New York Times]]}}</ref>
 |-
 |data-sort-value=2022-03-28 |28 Mar 22
 |Midgam
@@ -693,7 +981,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |-
 |data-sort-value=2021-06-13 |13 Jun 21
 |Smith
-|''[[Kikar HaShabbat (website)|Kikar HaShabbat]]''<ref>{{cite news |title=סקר 'כיכר' חושף: בנט מאבד מנדטים; לפיד מזנק • הנתונים |url=https://www.kikar.co.il/amp/394126 |author=Yishai Cohen |access-date=13 June 2021 |date=13 June 2021 |work=Kikar HaShabbat |language=he}}</ref>
+|style="letter-spacing:-1px;"|''[[Kikar HaShabbat (website)|Kikar HaShabbat]]''<ref>{{cite news |title=סקר 'כיכר' חושף: בנט מאבד מנדטים; לפיד מזנק • הנתונים |url=https://www.kikar.co.il/amp/394126 |author=Yishai Cohen |access-date=13 June 2021 |date=13 June 2021 |work=Kikar HaShabbat |language=he}}</ref>
 |style=background:#BBCDE4 |'''31'''	<!-- Likud		-->
 |23					<!-- Yesh Atid		-->
 |9					<!-- Shas		-->
@@ -728,7 +1016,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |4					<!-- New Hope		-->
 |6					<!-- Meretz		-->
 |4					<!-- Ra'am		-->
-|rowspan="8" {{N/A}}
+|rowspan=8 {{N/A}}
 |-
 |data-sort-value=2021-05-23 |23 May 21
 |Midgam
@@ -850,7 +1138,7 @@ Poll results are listed in the table below. Parties that fall below the [[electo
 |4					<!-- Ra'am		-->
 |-
 |- style=background:silver
-|data-sort-value=2021-03-21 |23 Mar 21
+|data-sort-value=2021-03-23 |23 Mar 21
 |colspan=2 |'''[[2021 Israeli legislative election|Election results]]'''<ref>{{Cite news |date=26 March 2021 |first1=Tal |last1=Shalev |first2=Daniel |last2=Dolev |title=תוצאות בחירות 2021: גוש נתניהו מגיע ל-52 מנדטים, רע"ם נכנסה לכנסת |url=https://elections.walla.co.il/item/3425478 |access-date=26 March 2021 |website=[[Walla!]] |language=he}}</ref>
 |style=background:#BBCDE4 |'''30'''	<!-- Likud -->
 |17					<!-- Yesh Atid -->

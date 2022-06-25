@@ -5,7 +5,7 @@
 ! style="width:120px;" rowspan="2"|Fieldwork date
 ! style="width:120px;" rowspan="2"|Polling firm
 ! style="width:60px;" rowspan="2"|Sample<br/>size
-! style="width:65px;"| [[File:Fidesz_2015.svg|27px|link=Fidesz]] 
+! style="width:35px;"| [[File:Fidesz_2015.svg|27px|link=Fidesz]] 
 ! style="width:35px;"| [[File:Jobbik.svg|27px|link=Jobbik]]
 ! style="width:35px;"| [[File:Flag_of_the_Hungarian_Socialist_Party.svg|35px|link=Hungarian Socialist Party]]
 ! style="width:35px;"| [[File:Logo_of_the_Dialogue_for_Hungary.svg|30px|link=Dialogue for Hungary|P]]
@@ -77,7 +77,7 @@
 |46
 |-
 |data-sort-value="2022-02-11"|31 Jan-9 Febr 2022
-|[https://www.ideaintezet.hu/hu/hirek-aktualis/78/attores-nelkuli-tamogatottsag-mozgasok---2022--februar?utm_source=mandiner&utm_medium=link&utm_campaign=mandiner_202202 IDEA]
+|[https://www.ideaintezet.hu/hu/hirek-aktualis/78/attores-nelkuli-tamogatottsag-mozgasok---2022--februar IDEA]
 |2000
 |style="background:#FFE5B4"|'''49'''
 |11
@@ -491,7 +491,7 @@
 |48
 |-
 |data-sort-value="2021-04-28"|24-28 Apr 2021
-|[https://publicus.hu/blog/partok-tamogatottsaga-es-az-elovalasztas-2021-aprilis/?fbclid=IwAR1ouaHoJHCie2KSWKVHFfwFHcXIxmH6fdIHTJ8BZATZRfi2p_wic02YEa8&utm_source=mandiner&utm_medium=link&utm_campaign=mandiner_202105 Publicus]
+|[https://publicus.hu/blog/partok-tamogatottsaga-es-az-elovalasztas-2021-aprilis/ Publicus]
 |1012
 | style="background:#FFE5B4" |'''48'''
 |10
@@ -587,7 +587,7 @@
 |51
 |-
 |data-sort-value="2021-02-25"|20–25 Feb 2021
-|[https://publicus.hu/blog/partok-tamogatottsaga-2021-februar/?fbclid=IwAR1vT6Cw6mYz7O4vK4VM6FzQr5lfEfRs992O-eoNYll4XfF9Tt82ik5A0CU Publicus]
+|[https://publicus.hu/blog/partok-tamogatottsaga-2021-februar/ Publicus]
 |1001
 | style="background:#FFE5B4" |'''45'''
 |10
@@ -667,7 +667,7 @@
 |52
 |-
 |data-sort-value="2020-12-18"|Dec 2020
-|[https://kozvelemenykutatok.hu/2020-decemberi-kutatasi-eredmenyek-median/?fbclid=IwAR3NhUCqZN2bNyjzkfw4FDsWwxkWnpfVUJDRXsuB8Zjwedcte8WlKL9My0U Medián]
+|[https://kozvelemenykutatok.hu/2020-decemberi-kutatasi-eredmenyek-median/ Medián]
 |600
 | style="background:#FFE5B4" |'''49'''
 |10
@@ -954,7 +954,7 @@
 |44
 |-
 |data-sort-value="2020-08-19"|5 Aug – 19 Aug 2020
-|[https://hvg.hu/itthon/20200826_partpreferencia_zavecz_research_kutatas_fidesz_ellenzek?fbclid=IwAR0tp4E1k7jxPsd5JaUM_qC4Pocip9Ie9gC_gmLv7CNV70Z8eURHXPJg5Oo Závecz Research]
+|[https://hvg.hu/itthon/20200826_partpreferencia_zavecz_research_kutatas_fidesz_ellenzek Závecz Research]
 |1000
 | style="background:#FFE5B4" |'''51'''
 |8
@@ -1017,7 +1017,7 @@
 |47
 |-
 |data-sort-value="2020-06-30"|27–30 Jun 2020
-|[https://www.ideaintezet.hu/hu/hirek-aktualis/39/milyen-a----tipikus----fidesz-tamogato-?utm_source=mandiner&utm_medium=link&utm_campaign=mandiner_202007 IDEA]
+|[https://www.ideaintezet.hu/hu/hirek-aktualis/39/milyen-a----tipikus----fidesz-tamogato- IDEA]
 |2000
 | style="background:#FFE5B4" |'''50'''
 |6
