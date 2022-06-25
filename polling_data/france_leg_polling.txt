@@ -1,0 +1,739 @@
+===Party alliances standings===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! style="width:100px;" rowspan="4"| Polling firm
+! style="width:110px;" rowspan="4"| Fieldwork date
+! style="width:35px;" rowspan="4"| Sample<br />size
+! class="unsortable" style="width:40px;" rowspan="3"| [[Lutte Ouvrière|LO]]<br>[[New Anticapitalist Party|NPA]]<br>{{small|[[Far-left politics|EXG]]}}
+! class="unsortable" style="width:40px;" colspan="4"| [[New Ecologic and Social People's Union|NUPES]]
+! class="unsortable" style="width:40px;" rowspan="3"| [[Miscellaneous left|DVG]]<br/>{{small|[[Radical Party of the Left|PRG]]<br>[[Federation of the Republican Left|FGR]]}}
+! class="unsortable" style="width:40px;" rowspan="3"| [[Political ecology in France|ECO]]
+! class="unsortable" style="width:40px;" rowspan="3"| [[Animalist Party|PA]]
+! class="unsortable" style="width:40px;" rowspan="3"| [[Ensemble Citoyens|ENS]]
+! class="unsortable" style="width:40px;" rowspan="3"| [[Miscellaneous centre|DVC]]
+! class="unsortable" style="width:40px;" rowspan="3"| [[Union of the Right and Centre|UDC]]
+! class="unsortable" style="width:40px;" rowspan="3"| [[Miscellaneous right|DVD]]
+! class="unsortable" style="width:40px;" rowspan="3"| [[Debout la France|DLF]]<br>{{small|[[The Patriots (France)|LP]]}}
+! class="unsortable" style="width:40px;" rowspan="3"| [[National Rally|RN]]
+! class="unsortable" style="width:40px;" rowspan="3"| [[Reconquête|REC]]<br>{{small|[[Far-right politics in France|EXD]]}}
+! class="unsortable" style="width:40px;" rowspan="3"| [[Regionalism in France|REG]]
+! class="unsortable" style="width:40px;" rowspan="3"| [[Sans étiquette|DIV]]
+|-
+! colspan="4" style="background:{{party color|Nouvelle Union Populaire écologiste et sociale}}; width:60px;" |
+|-
+! class="unsortable" style="width:40px;"| {{small|[[French Communist Party|PCF]]}}
+! class="unsortable" style="width:40px;"| {{small|[[La France insoumise|LFI]]}}
+! class="unsortable" style="width:40px;"| {{small|[[Ecologist Pole|PÉ]]}}
+! class="unsortable" style="width:40px;"| {{small|[[Socialist Party (France)|PS]]}}
+|-
+|- style="line-height:5px;"
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|French Communist Party}};" |
+! style="background:{{party color|La France Insoumise}};" |
+! style="background:#58AF4C;" |
+! style="background:{{party color|Socialist Party (France)}};" |
+! style="background:{{party color|Miscellaneous left}};" |
+! style="background:{{party color|Ecologist}};" |
+! style="background:{{party color|Animalist Party}};" |
+! style="background:{{party color|La République En Marche!}};" |
+! style="background:{{party color|Miscellaneous centre}};"|
+! style="background:{{party color|The Republicans (France)}};" |
+! style="background:{{party color|Miscellaneous right}};"|
+! style="background:#8040C0" |
+! style="background:{{party color|National Rally (France)}};" |
+! style="background:{{party color|Reconquête (political party)}};" |
+! style="background:{{party color|Regionalist}};"|
+! style="background:{{party color|Miscellaneous}};"|
+|-
+|- style="background:#E9E9E9;"|
+|[[2022 French legislative election#National results|2022 election results]]
+|12 Jun 2022
+| –
+|1.2%
+| colspan="4" |25.7%
+|3.7%
+|colspan="2"|2.7%
+| style="background:#FFED99" |'''25.8%'''
+|1.2%
+|11.3%
+|2.3%
+|1.1%
+|18.7%
+|4.3%
+|1.3%
+|0.8%
+|-
+| style="background:#04FBF4;" |[https://mobile.twitter.com/EuropeElects/status/1536084549955989505?cxt=HHwWgsC9kc-wotEqAAAA Ipsos-Sopra Steria]
+|12 Jun 2022
+| rowspan="4"| ''Exit poll''
+|1.3%
+| colspan="4" style="background:#ff99a3;" |'''25.6%'''
+|3.7%
+| colspan="2"| 2.7%
+|25.2%
+|1.3%
+| colspan="2"| 13.6%
+|1.1%
+|19.1%
+|4.1%
+| colspan="2" | 2.3%
+|-
+| style="background:#CAD5F7" | [https://twitter.com/EuropeElects/status/1536048404354277378?cxt=HHwWhIC9tdX4kdEqAAAA Elabe BFMTV]
+|12 Jun 2022
+|1.2%
+| colspan="4" style="background:#ff99a3;" |'''26.2%'''
+|3.3%
+|–
+|–
+|25.8%
+|–
+|11.1%
+|1.9%
+|1.2%
+|19.1%
+|4.3%
+| colspan="2" |5.9%
+|-
+| style="background:#FFCCCC;" |[https://twitter.com/EuropeElects/status/1536047558686031872?cxt=HHwWgICy2bjHkdEqAAAA Ifop-Fiducial]
+|12 Jun 2022
+|1.4%
+| colspan="4" style="background:#ff99a3;" |'''26.1%'''
+|3%
+|–
+|–
+|25.6%
+|–
+|11.3%
+|3.2%
+|1.1%
+|19.2%
+|4.1%
+| colspan="2" |5%
+|-
+| style="background:GreenYellow;" |[https://twitter.com/EuropeElects/status/1536046959630462976?cxt=HHwWgMC9scmkkdEqAAAA Harris-Interactive]
+|12 Jun 2022
+|1.5%
+| colspan="4" style="background:#ff99a3;" |'''25%'''
+| colspan="2"| 5.5%
+|–
+| style="background:#FFED99;" |'''25%'''
+|1%
+|11.5%
+|2.5%
+|1.2%
+|19%
+|4.5%
+| colspan="2" |3.3%
+|-
+| style="background:#04FBF4;" |[https://www.ipsos.com/fr-fr/legislatives-2022/legislatives-ensemble-et-nupes-au-coude-coude-faible-participation-attendue Ipsos-Sopra Steria]
+|10 Jun 2022
+|8,159
+|1%
+|colspan="4" | 27%
+|3%
+|2.5%
+|–
+| style="background:#FFED99" |'''28%'''
+|0.5%
+| colspan="2" |11%
+|1%
+|19%
+|5.5%
+| colspan="2" |1.5%
+|-
+| style="background:GreenYellow;" |[http://harris-interactive.fr/wp-content/uploads/sites/6/2022/06/ZheShiWAVE52.pdf Harris-Interactive]
+|8–10 Jun 2022
+|2,078
+|1%
+| colspan="4" style="background:#ff99a3;" |'''26%'''
+|4%
+|–
+|2%
+| style="background:#FFED99;" |'''26%'''
+|1%
+|10%
+|1%
+|2%
+|20%
+|6%
+| colspan="2" |1%
+|-
+| style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2022/06/119254-Rapport.pdf Ifop-Fiducial]
+|8–9 Jun 2022
+|1,831
+|1%
+| colspan="4" style="background:#ff99a3;" |'''26.5%'''
+|3.5%
+|–
+|–
+| colspan="2" |26%
+|10%
+|2%
+|1.5%
+|19%
+|5.5%
+|–
+|5%
+|-
+| style="background:#CAD5F7" | [https://elabe.fr/wp-content/uploads/2022/06/20220610_elabe_bfmtv_lexpress_sfr_les-francais-et-les-elections-legislatives-2022.pdf Elabe]
+|8–9 Jun 2022
+|2,000
+|1.5%
+| colspan="4" |26.5%
+|3%
+|–
+|–
+| colspan="2" style="background:#FFED99" |'''27%'''
+|11%
+|1%
+|1.5%
+|19.5%
+|4.5%
+| colspan="2" |4.5%
+|-
+| style="background:#d9fff6;" |[https://pbs.twimg.com/media/FU10nt_WYCMT_w2?format=jpg&name=large Cluster17]
+|7–9 Jun 2022
+|2,608
+|0.5%
+| colspan="4" style="background:#ff99a3;" |'''29.5%'''
+|2.5%
+|–
+|1.5%
+|26%
+|1%
+|10.5%
+|1%
+|1.5%
+|17.5%
+|5.5%
+|1%
+|2%
+|-
+| style="background:#80fcd4;" |[https://f.dviz.factoviz.com/UserFiles/3/f/f/Barom%C3%A8tre%20OpinionWay%20-%20Kea%20Partners%20pour%20Les%20Echos%20et%20Radio%20Classique%20-%209%20juin%20-%20vague%205.pdf OpinionWay-Kéa]
+|5–8 Jun 2022
+|3,001
+|1%
+| colspan="4" |25%
+|3%
+|1%
+|2%
+| colspan="2" style="background:#FFED99;" |'''28%'''
+|11%
+|1%
+|1%
+|18%
+|6%
+|–
+|3%
+|-
+| style="background:#fff89c;" |[https://docs.cdn.yougov.com/gzp6ruw96d/VI_Tables_10-Jun-2022-Publish.pdf YouGov] 
+|1–8 Jun 2022
+|3,306
+|2%
+| colspan="4" |25%
+| –
+| –
+|1%
+| style="background:#FFED99;" |'''26%'''
+| -
+|9%
+| -
+|1%
+|21%
+|8%
+| colspan="2" |7%
+|-
+| style="background:#04FBF4;" |[https://www.ipsos.com/sites/default/files/ct/news/documents/2022-06/Ipsos%20pour%20Radio%20France%20et%20France%20Te%CC%81levisions%20_%20Etude%20sur%20les%20e%CC%81lections%20le%CC%81gislatives%20_%202022.pdf Ipsos-Sopra Steria]
+|6–7 Jun 2022
+|2,000
+|1.5%
+| colspan="4" style="background:#ff99a3;" |'''28%'''
+|2.5%
+|2.5%
+|–
+|27%
+|0.5%
+| colspan="2" |11%
+|1%
+|19.5%
+|6%
+| colspan="2" |1%
+|-
+| style="background:#04FBF4;" |[https://www.ipsos.com/sites/default/files/ct/news/documents/2022-06/Rapport%20Ipsos_CEVIPOF%20LEMONDE%20FJJ%20_Enque%CC%82te%20e%CC%81lectorale%202022%20vague%203-6%20juin%202022.pdf Ipsos-Sopra Steria]
+|3–6 Jun 2022
+|10,826
+|1%
+| colspan="4" |27.5%
+|2%
+|2.5%
+|–
+| style="background:#FFED99;" |'''28%'''
+|0.5%
+| colspan="2" |11%
+|1%
+|20%
+|5.5%
+| colspan="2" |1%
+|-
+| style="background:#FFCCCC;" |[https://www.tf1info.fr/politique/sondage-exclusif-lci-tf1-elections-legislatives-2022-l-union-de-gauche-nupes-de-melenchon-repasse-devant-ensemble-parti-larem-de-la-majorite-de-macron-2222326.html?utm_medium=Social&utm_source=Twitter&Echobox=1654614113#xtor=CS5-113 Ifop-Fiducial]
+|3–6 Jun 2022
+|1,840
+|1%
+| colspan="4" style="background:#ff99a3;" |'''26%'''
+|3.5%
+|–
+|–
+| colspan="2" |25%
+|11%
+|2%
+|2%
+|21%
+|5%
+|–
+|4.5%
+|-
+| style="background:GreenYellow;" |[http://harris-interactive.fr/wp-content/uploads/sites/6/2022/06/Rapport-Harris-Interactive-Toluna-V51-Intentions-de-vote-Legislatives-2022-Challenges.pdf Harris-Interactive]
+|3–6 Jun 2022
+|2,355
+|2%
+| colspan="4" |24%
+|5%
+|–
+|2%
+| style="background:#FFED99;" |'''26%'''
+|1%
+|10%
+|1%
+|2%
+|20%
+|6%
+| colspan="2" |1%
+|-
+| style="background:#d9fff6;" |[https://cluster17.com/wp-content/uploads/2022/06/notice-technique-2.pdf Cluster17]
+|30 May–1 Jun 2022
+|2,459
+|1%
+| colspan="4" style="background:#ff99a3;" |'''31%'''
+|–
+|–
+|1.5%
+| colspan="2" |27%
+| colspan="2" |10%
+|2%
+|19%
+|5%
+|1.5%
+|3%
+|-
+| style="background:#CAD5F7" | [https://elabe.fr/wp-content/uploads/2022/06/20220601_elabe_bfmtv_lexpress_sfr_les-francais-et-les-elections-legislatives-2022.pdf Elabe]
+|30 May–1 Jun 2022
+|2,000
+|1.5%
+| colspan="4" style="background:#ff99a3;" |'''25%'''
+|2.5%
+|–
+|–
+| colspan="2" |24.5%
+|12.5%
+|1.5%
+|1.5%
+|22%
+|4.5%
+| colspan="2" |4.5%
+|-
+| style="background:#80fcd4;" |[https://f.dviz.factoviz.com/UserFiles/3/f/f/Baromètre%20OpinionWay%20-%20Kea%20Partners%20pour%20Les%20Echos%20et%20Radio%20Classique%20-%202%20juin%20-%20vague%204.pdf OpinionWay-Kéa]
+|28–31 May 2022
+|3,008
+|1%
+| colspan="4" |26%
+|2%
+|2%
+|1%
+| colspan="2" style="background:#FFED99;" |'''27%'''
+|11%
+|1%
+|1%
+|20%
+|6%
+|–
+|2%
+|-
+| style="background:GreenYellow;" |[http://harris-interactive.fr/wp-content/uploads/sites/6/2022/06/LICUABI-645.pdf Harris-Interactive]
+|27–30 May 2022
+|2,371
+|2%
+| colspan="4" |24%
+|4%
+|–
+|2%
+| style="background:#FFED99;" |'''27%'''
+|1%
+|9%
+|1%
+|1%
+|21%
+|7%
+| colspan="2" |1%
+|-
+| style="background:#FFCCCC;" |[https://www.tf1info.fr/politique/sondage-exclusif-legislatives-2022-la-majorite-presidentielle-passe-en-tete-des-intentions-de-vote-2221563.html Ifop-Fiducial]
+|25–28 May 2022
+|1,796
+|1%
+| colspan="4" |25%
+|4%
+|–
+|–
+| colspan="2" style="background:#FFED99;" |'''27%'''
+|10%
+|1%
+|2%
+|21%
+|6%
+| colspan="2" |3%
+|-
+| style="background:#d9fff6;" |[https://cluster17.com/wp-content/uploads/2022/05/notice-technique-s21.pdf Cluster17]
+|24–26 May 2022
+|2,373
+|0.5%
+| colspan="5" style="background:#ff99a3;" |'''30%'''
+|–
+|2%
+| colspan="2" |26%
+| colspan="2" |10.5%
+|1.5%
+|19%
+|6%
+|0.5%
+|4%
+|-
+| style="background:#80fcd4;" |[https://www.opinion-way.com/fr/component/edocman/barometre-opinionway-kea-partners-pour-les-echos-et-radio-classique-25-mai-vague-3/viewdocument/2877.html?Itemid=0 OpinionWay-Kéa]
+|19–24 May 2022
+|2,845
+|2%
+| colspan="4" |25%
+|3%
+|2%
+|2%
+| colspan="2" style="background:#FFED99;" |'''26%'''
+| colspan="2" |11%
+|3%
+|21%
+|5%
+|–
+|–
+|-
+| style="background:GreenYellow;" |[http://harris-interactive.fr/wp-content/uploads/sites/6/2022/05/MYLBZHFT-126.pdf Harris-Interactive]
+|20–23 May 2022
+|2,331
+|3%
+| colspan="4" style="background:#ff99a3;" |'''28%'''
+|–
+|–
+|–
+| colspan="2" |26%
+| colspan="2"|9%
+|2%
+|21%
+|7%
+| colspan="2"|4%
+|-
+| style="background:#d9fff6;" |[https://cluster17.com/wp-content/uploads/2022/05/notice.pdf Cluster17]
+|17–19 May 2022
+|2,950
+|0.5%
+| colspan="5" style="background:#ff99a3;" |'''31%'''
+|–
+|1%
+| colspan="2" |26%
+| colspan="2" |9%
+|2%
+|20%
+|5.5%
+|1.5%
+|3.5%
+|-
+| style="background:#04FBF4;" |[https://www.ipsos.com/sites/default/files/ct/news/documents/2022-05/NOTICE%20TECHNIQUE%20Ipsos%20Le%20Monde%20FJJ%20Cevipof%20-%20Panel%20e%CC%81lectoral%20Vague%2011.pdf Ipsos-Sopra Steria]
+|16–19 May 2022
+|11,247
+|1%
+| colspan="4" |27%
+|3%
+|–
+|–
+| colspan="2" style="background:#FFED99;" |'''28%'''
+|9%
+|1%
+|1%
+|21%
+|6%
+| colspan="2" |3%
+|-
+| style="background:#CAD5F7" |[https://elabe.fr/wp-content/uploads/2022/05/20220518_elabe_bfmtv_lexpress_sfr_les-francais-les-elections-legislatives-2022-et-la-nouvelle-premiere-ministre.pdf Elabe]
+|16–18 May 2022
+|1,793
+|2%
+| colspan="4" style="background:#ff99a3;" |'''27.5%'''
+|–
+|–
+|–
+| colspan="2" |27%
+| colspan="2" |10%
+|1%
+|21.5%
+|5%
+| colspan="2" |6%
+|-
+| style="background:#80fcd4;" |[https://f.dviz.factoviz.com/UserFiles/3/f/f/Barom%C3%A8tre%20OpinionWay%20-%20Kea%20Partners%20pour%20Les%20Echos%20et%20Radio%20Classique%20-%2018%20mai%20%20-%20vague%202.pdf OpinionWay-Kéa]
+|14–18 May 2022
+|3,022
+|2%
+| colspan="4" |24%
+|3%
+|2%
+|2%
+| colspan="2" style="background:#FFED99;" |'''27%'''
+| colspan="2" |11%
+|2%
+|22%
+|5%
+|–
+|–
+|-
+| style="background:#FFCCCC;" |[https://www.tf1info.fr/politique/exclusif-sondage-legislatives-la-gauche-nupes-maintient-sa-legere-avance-sur-la-majorite-presidentielle-au-1er-tour-2220191.html Ifop-Fiducial]
+|13–16 May 2022
+|1,884
+|1.5%
+| colspan="4" style="background:#ff99a3;" |'''27%'''
+|–
+|–
+|–
+| colspan="2" |26%
+| colspan="2" |11%
+|2.5%
+|23%
+|6%
+|–
+|3%
+|-
+| style="background:GreenYellow;" |[http://harris-interactive.fr/wp-content/uploads/sites/6/2022/05/VJOECOEZ-HC44.pdf Harris-Interactive]
+|13–16 May 2022
+|2,393
+|3%
+| colspan="4" style="background:#ff99a3;" |'''29%'''
+|–
+|–
+|–
+| colspan="2" |26%
+| colspan="2" |10%
+|1%
+|23%
+|5%
+| colspan="2" |3%
+|-
+| style="background:#d9fff6;" |[https://cluster17.com/wp-content/uploads/2022/05/notice-politique.pdf Cluster17]
+|10–12 May 2022
+|2,967
+|1%
+| colspan="5" style="background:#ff99a3;" |'''31%'''
+|–
+|–
+| colspan="2" |27%
+| colspan="2" |9.5%
+|2%
+|19%
+|5.5%
+|1%
+|4%
+|-
+| rowspan="2" style="background:#FFCCCC;" |[https://www.ifop.com/wp-content/uploads/2022/05/119165-Rapport.pdf Ifop-Fiducial]
+| rowspan="2" |6–9 May 2022
+| rowspan="2" |1,691
+|1.5%
+| colspan="4" style="background:#ff99a3;" |'''28%'''
+|–
+|–
+|–
+| colspan="2" |27%
+| colspan="2" | 11%
+|2%
+|22%
+|6.5%
+|–
+|2%
+|-
+|1%
+|2%
+|18%
+|6.5%
+|5.5%
+|–
+|–
+|–
+| colspan="2" style="background:#FFED99;" |'''26%'''
+| colspan="2" |11%
+|2%
+|21%
+|6%
+|–
+|2%
+|-
+| style="background:GreenYellow;" |[http://harris-interactive.fr/wp-content/uploads/sites/6/2022/05/HESCREHJ-25.pdf Harris-Interactive]
+|6–9 May 2022
+|2,406
+|3%
+| colspan="4" style="background:#ff99a3;" |'''28%'''
+|–
+|–
+|–
+| colspan="2" |26%
+| colspan="2" |9%
+|1%
+|24%
+|6%
+| colspan="2" |3%
+|-
+| style="background:#80fcd4;" |[https://www.lesechos.fr/elections/sondages/sondage-exclusif-legislatives-emmanuel-macron-conserverait-une-large-majorite-a-lassemblee-1406064#utm_source=le%3Alec0f&utm_medium=click&utm_campaign=share-links_twitter OpinionWay-Kéa]
+| 5–9 May 2022
+| 3,077
+| 2%
+| colspan=4 | 23%
+|3%
+|2%
+|2%
+| colspan="2" style="background:#FFED99;" | '''26%'''
+| colspan="2" | 12%
+| 2%
+| 23%
+| 5%
+|–
+|–
+|-
+| style="background:#d9fff6;"| [https://cluster17.com/wp-content/uploads/2022/05/enquete-intentions-de-vote-election-legislatives-2022.pdf Cluster17]
+| 3–5 May 2022
+| 3,498
+| 1%
+| colspan="5" style="background:#ff99a3;" | '''34%'''
+|–
+|–
+| colspan="2" | 24.5%
+| colspan="2" | 8.5%
+| 1.5%
+| 19.5%
+| 5%
+| 2%
+| 4%
+|-
+| rowspan=2 style="background:GreenYellow;" | [http://harris-interactive.fr/wp-content/uploads/sites/6/2022/05/NTRDVTE-L34.pdf Harris-Interactive]
+| rowspan=2 | 29 Apr–2 May 2022
+| rowspan=2 | {{formatnum:2366}}
+| 2%
+| 2%
+| 19%
+| 7%
+| colspan="2" | 7%
+|–
+|–
+| colspan="2" style="background:#FFED99;" | '''24%'''
+| colspan="2" | 8%
+| 1%
+| 23%
+| 6%
+| colspan="2" | 1%
+|-
+| 2%
+| colspan=4 style="background:#ff99a3;" | '''33%'''
+|–
+|–
+|–
+| colspan="4" style="background:#FFED99;" | '''33%'''
+| colspan=3 | 30%
+| colspan="2" | 2%
+|-
+| rowspan=3 style="background:#d9fff6;" | [https://cluster17.com/wp-content/uploads/2022/05/20220428_Cluster17_Notice-Technique_Publique.pdf Cluster17]
+| rowspan=3 | 27–28 Apr 2022
+| rowspan=3 | {{formatnum:2659}}
+| 1%
+| 2%
+| 20%
+| 7.5%
+| colspan="2" | 5.5%
+|–
+|–
+| colspan="2" style="background:#FFED99;" | '''24%'''
+| colspan="2" | 7.5%
+| 2%
+| 21%
+| 6%
+| 1%
+| 2.5%
+|-
+| 1.5%
+| colspan=3 style="background:#ff99a3;" | '''27%'''
+| colspan="2" | 7%
+|–
+|–
+| colspan="2" | 23%
+| colspan="2" | 9%
+| 2%
+| 21%
+| 6.5%
+| 1%
+| 2%
+|-
+| 1%
+| colspan="5" style="background:#ff99a3;" | '''34%'''
+|–
+|–
+| colspan="2" | 24%
+| colspan="2" | 9.5%
+| 3%
+| colspan="2"|24%
+| 1.5%
+| 3%
+|-
+| rowspan=2 style="background:GreenYellow;" | [http://harris-interactive.fr/wp-content/uploads/sites/6/2022/04/Rapport-Harris-Interactive-Toluna-V45-Intentions-de-vote-Le%CC%81gislatives-2022-Challenges.pdf Harris-Interactive]
+| rowspan=2 | 24–25 Apr 2022
+| rowspan=2 | {{formatnum:2343}}
+| 1%
+| 3%
+| 19%
+| 8%
+| colspan="2" | 5%
+|–
+|–
+| colspan="2" style="background:#FFED99;" | '''24%'''
+| colspan="2" | 8%
+| 1%
+| 23%
+| 7%
+| colspan="2" | 1%
+|-
+| 2%
+| colspan=4 style="background:#ff99a3;" | '''33%'''
+|–
+|–
+|–
+| colspan="4" style="background:#FFED99;" | '''33%'''
+| colspan=3 | 31%
+| colspan="2" | 1%
+|- style="background:#E9E9E9;"
+| [[2017 French legislative election#National results|2017 election results]]
+| data-sort-value="2017-06-11"| 11 Jun 2017
+| –
+| 0.8%
+| 2.7%
+| 11%
+| {{small|(ECO)}}
+| 9.5%
+| 1.6%
+| 4.3%
+| 0.3%
+| colspan="2" style="background:#FFED99;"| '''32.3%'''
+| 18.8%
+| 2.7%
+| 1.2%
+| 13.2%
+| 0.3%
+| 0.9%
+| 1.9%
+|}
