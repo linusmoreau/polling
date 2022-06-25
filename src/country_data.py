@@ -24,7 +24,7 @@ specs = {
     },
     'Brazil': {
         'key': ['firm', 'date', 'sample',
-                'Bolsanaro (APB)', 'Lula (PT)', 'Moro (PODE)', 'Gomes (PDT)', 'Doria (PSDB)',
+                'Bolsanaro (APB)', 'Lula (PT)', 'Gomes (PDT)', 'Doria (PSDB)',
                 'Other', 'Undecided', 'lead', 'end'],
         'include': ['Bolsanaro (APB)', 'Lula (PT)', 'Gomes (PDT)', 'Doria (PSDB)', 'Moro (PODE)'],
         'zeros': ['Undecided'],
@@ -33,10 +33,11 @@ specs = {
                 'Doria (PSDB)': (0, 95, 164), 'Amoedo (NOVO)': (240, 118, 42), 'Silva (REDE)': (46, 139, 87),
                 'Moro (PODE)': (45, 169, 51), 'Huck': grey},
         'start': 0,
+        'restart': ["Cite web", "cite web", "https", 'Publisher/Pollster'],
         'vlines': {Date(2021, 3, 8): "Lula cleared of charges"},
         'end_date': Date(2022, 10, 2),
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_2022_Brazilian_general_election&action=edit&section=3',
+               'Opinion_polling_for_the_2022_Brazilian_general_election&action=edit&section=2',
     },
     'Bulgaria': {
         'include': ['ITN', 'GERB', 'BSPzB', 'DB', 'DPS', 'IBG-NI', 'IMRO', 'Revival', 'PP', 'BP'],
@@ -101,6 +102,20 @@ specs = {
                'Opinion_polling_for_the_2021_Chilean_presidential_election&action=edit&section=5',
         'vlines': {Date(2021, 7, 18): 'Official Primaries'}
     },
+    'Colombia': {
+        'key': ['firm', 'date', 'sample', 'Petro', 'Gutiérrez', 'Hernández', 'Fajardo', 'Betancourt', 'Rodriguez',
+                'Gómez', 'Pérez', 'blank', 'no vote', 'unsure', 'margin', 'end'],
+        'include': ['Petro', 'Gutiérrez', 'Hernández', 'Fajardo', 'Betancourt', 'Rodriguez', 'Gómez', 'Pérez'],
+        'col': {'Petro': (164, 47, 149), 'Gutiérrez': (0, 97, 211), 'Hernández': (245, 236, 73),
+                'Fajardo': (115, 190, 1), 'Betancourt': (23, 141, 4), 'Rodriguez': (150, 75, 0),
+                'Gómez': (30, 144, 255), 'Pérez': (255, 0, 0)},
+        'end_date': Date(2022, 5, 29),
+        'start': 0,
+        'zeros': ['blank', 'no vote', 'unsure'],
+        'restart': ['cite web', 'Cite web', 'cite news', 'Cite news'],
+        'url': 'https://en.wikipedia.org/w/index.php?title='
+               'Opinion_polling_for_the_2022_Colombian_presidential_election&action=edit&section=3'
+    },
     'Costa Rica': {
         'key': ['date', 'firm',
                 'López', 'Ramos', 'Rivera', 'Araya', 'Campos', 'Villalta', 'Moya', 'Muñoz', 'Quesada', 'Figueres',
@@ -145,7 +160,7 @@ specs = {
     'Denmark': {
         'key': ['firm', 'date', 'sample',
                 'A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G', 'M', 'Q',
-                'Other', 'lead', 'red', 'blue', 'lead', 'end'],
+                'Other', 'lead', 'red', 'blue', 'lead'],
         'include': ['A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G', 'M', 'Q'],
         'col': {'A': (240, 77, 70), 'V': (0, 40, 131), 'O': (252, 208, 59), 'B': (229, 0, 125), 'F': (191, 3, 26),
                 '\u00d8': (208, 0, 77), 'C': (0, 73, 49), '\u00c5': (0, 255, 0), 'D': (0, 80, 91),
@@ -278,7 +293,7 @@ specs = {
         'method': 'quotient'},
     'Greece': {
         'key': ['firm', 'date', 'sample',
-                'ND', 'Syriza', 'KINAL', 'KKE', 'EL', 'MeRA25', 'XA', 'PE', 'ANT', 'EP',
+                'ND', 'Syriza', 'KINAL', 'KKE', 'EL', 'MeRA25', 'XA', 'EP',
                 'lead', 'end'],
         'include': ['ND', 'Syriza', 'KINAL', 'KKE', 'EL', 'MeRA25'],
         'col': {'ND': (27, 92, 199), 'Syriza': (238, 128, 143), 'KINAL': (45, 144, 45), 'KKE': (227, 3, 1),
@@ -374,7 +389,7 @@ specs = {
         'restart': ['Cite', 'cite'],
         'vlines': {Date(2020, 2, 8): 'General Election'},
         'end_date': Date(2025, 2, 20),
-        'url': 'https://en.wikipedia.org/w/index.php?title=Next_Irish_general_election&action=edit&section=3'
+        'url': 'https://en.wikipedia.org/w/index.php?title=Next_Irish_general_election&action=edit&section=5'
     },
     'Italy': {
         'key': ['date', 'firm', 'sample',
@@ -428,8 +443,8 @@ specs = {
     },
     'Latvia': {
         'key': ['firm', 'date', 'sample', 'dec',
-                'S', 'PCL', 'JKP', 'AP!', 'NA', 'ZZS', 'JV', 'LRA', 'LKS', 'P', 'LuK', 'LPV', 'R',
-                'Other', 'lead', 'gov', 'opp', 'end'],
+                'S', 'PCL', 'JKP', 'AP!', 'NA', 'ZZS', 'JV', 'LRA', 'LKS', 'P', 'LuK', 'LPV', 'R', 'S!',
+                'Other', 'lead', 'gov', 'opp'],
         'include': ['S', 'PCL', 'JKP', 'AP!', 'NA', 'ZZS', 'JV', 'LRA', 'LKS', 'P', 'LuK', 'LPV', 'R'],
         'col': {'S': (238, 34, 43), 'PCL': (0, 172, 180), 'JKP': (24, 41, 86), 'AP!': (255, 221, 0),
                 'NA': (147, 35, 48), 'ZZS': (2, 114, 58), 'JV': (106, 182, 71), 'LRA': (14, 50, 103),
@@ -468,24 +483,24 @@ specs = {
         'start': 0,
         'end_date': Date(2024, 10, 6),
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               '2024_Lithuanian_parliamentary_election&action=edit&section=2'
+               '2024_Lithuanian_parliamentary_election&action=edit&section=4'
     },
     'Netherlands': {
         'key': ['firm', 'date', 'sample',
                 'VVD', 'D66', 'PVV', 'CDA', 'SP', 'PvdA', 'GL', 'FVD', 'PvdD', 'CU', 'Volt', 'JA21', 'SGP', 'DENK',
-                '50+', 'BBB', 'BIJ1',
+                '50+', 'BBB', 'BIJ1', 'BNVL',
                 'Others', 'lead', 'end'],
         'col': {'VVD': (10, 44, 202), 'D66': (0, 174, 65), 'PVV': (1, 39, 88), 'CDA': (44, 200, 77),
                 'SP': (246, 0, 0), 'PvdA': (223, 17, 26), 'GL': (131, 189, 0), 'FVD': (132, 24, 24),
                 'PvdD': (0, 107, 45), 'CU': (0, 167, 235), 'Volt': (88, 44, 131), 'JA21': (36, 43, 87),
                 'SGP': (234, 91, 11), 'DENK': (0, 183, 178), '50+': (146, 16, 125), 'BBB': (148, 193, 31),
-                'BIJ1': (253, 253, 0)},
+                'BIJ1': (253, 253, 0), 'BNVL': (19, 33, 65)},
         'include': ['VVD', 'D66', 'PVV', 'CDA', 'SP', 'PvdA', 'GL', 'FVD', 'PvdD', 'CU', 'Volt', 'JA21', 'SGP',
-                    'DENK', '50+', 'BBB', 'BIJ1'],
+                    'DENK', '50+', 'BBB', 'BIJ1', 'BNVL'],
         'gov': {'Government': ['VVD', 'D66', 'CDA', 'CU'],
                 'Opposition': ['PVV', 'SP', 'PvdA', 'GL', 'FVD', 'PvdD', 'Volt', 'JA21', 'SGP', 'DENK', '50+',
-                               'BBB', 'BIJ1']},
-        'blocs': {'Nationalist': ['PVV', 'FVD', 'JA21'],
+                               'BBB', 'BIJ1', 'BNVL']},
+        'blocs': {'Nationalist': ['PVV', 'FVD', 'JA21', 'BNVL'],
                   'Confessional': ['CDA', 'CU', 'SGP'],
                   'Socialist': ['SP', 'PvdA', 'GL', 'PvdD', 'BIJ1', 'DENK'],
                   'Liberal': ['VVD', 'D66', 'Volt'],
@@ -493,8 +508,8 @@ specs = {
                   'Pensioners': ['50+']},
         'start': 0,
         'vlines': {Date(2021, 3, 17): 'General Election'},
-        'url': 'https://en.wikipedia.org/w/index.php?title=Opinion_polling_for_the_Next_Dutch_general_election&action='
-               'edit&section=3',
+        'url': 'https://en.wikipedia.org/w/index.php?title='
+               'Opinion_polling_for_the_next_Dutch_general_election&action=edit&section=3',
         'toggle_seats': True,
         'method': 'quotient',
         'bar': 0,
@@ -547,13 +562,13 @@ specs = {
     'Ontario': {
         'include': ['PC', 'NDP', 'Liberal', 'Green'],
         'key': ['firm', 'date', 'source',
-                'PC', 'NDP', 'Liberal', 'Green',
-                'Other', 'type', 'sample', 'moe', 'lead', 'end'],
+                'PC', 'NDP', 'Liberal', 'Green', 'New Blue', 'Ontario'
+                'Other', 'moe', 'sample', 'type', 'lead', 'end'],
         'col': {'PC': (153, 153, 255), 'NDP': (244, 164, 96), 'Liberal': (234, 109, 106), 'Green': (153, 201, 85)},
         'start': -2,
         'end_date': Date(2022, 6, 2),
-        'restart': ['https'],
-        'url': 'https://en.wikipedia.org/w/index.php?title=2022_Ontario_general_election&action=edit&section=14'
+        'restart': ['https', 'ref name', 'Cite web', 'cite web'],
+        'url': 'https://en.wikipedia.org/w/index.php?title=2022_Ontario_general_election&action=edit&section=15'
     },
     'Poland': {
         'key': ['firm', 'date', 'sample',
@@ -684,7 +699,7 @@ specs = {
                   'Centre': ['LMS', 'K', 'SAB', 'DeSUS', 'DD', 'ACZS', 'PoS', 'ND', 'LIDE'],
                   'Left': ['SD', 'Left', 'GS', 'PPS', 'Vesna']},
         'start': -1,
-        'end_date': Date(2022, 6, 5),
+        'end_date': Date(2022, 4, 24),
         'restart': ['Mediana', 'Parsifal', 'Ninamedia', 'Episcenter'],
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_2022_Slovenian_parliamentary_election&action=edit&section=3',
@@ -722,7 +737,7 @@ specs = {
     'Sweden': {
         'key': ['firm', 'date', 'sample',
                 'V', 'S', 'MP', 'C', 'L', 'M', 'KD', 'SD',
-                'Other', 'lead', 'end'],
+                'Other', 'lead'],
         'include': ['V', 'S', 'MP', 'C', 'L', 'M', 'KD', 'SD'],
         'col': {'V': (176, 0, 0), 'S': (237, 27, 52), 'MP': (43, 145, 44), 'C': (1, 106, 57), 'L': (0, 106, 179),
                 'M': (1, 156, 219), 'KD': (0, 70, 120), 'SD': (254, 223, 9),

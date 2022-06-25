@@ -60,6 +60,8 @@ def transcribe_table(content, key, choice, begin, start):
     j = 0
     while j < len(content) - 1:
         line = content[j].strip()
+        if line == '-' and len(content[j].strip('\n')) > 1:
+            line = '–'
         for p in range(len(line) - 2):
             if line[p:p + 2] == '{{' and '}}' not in line[p + 2:]:
                 j += 1
@@ -75,6 +77,8 @@ def transcribe_table(content, key, choice, begin, start):
 
     while i < len(content):
         line = content[i].strip('| \n')
+        if line == '-' and len(content[i].strip('|\n')) > 1:
+            line = '–'
         reset = False
         nkey = []
         if choice == 'Russia':
@@ -120,6 +124,11 @@ def transcribe_table(content, key, choice, begin, start):
                 nkey = ['firm', 'date', 'sample',
                         'Bolsanaro (APB)', 'Lula (PT)', 'Moro (PODE)', 'Gomes (PDT)', 'Doria (PSDB)',
                         'Leite (PSDB)', 'Mandetta (DEM)', 'Pancheco (DEM)',
+                        'Other', 'Undecided', 'lead', 'end']
+                reset = True
+            elif 'Jan – Mar' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'Bolsanaro (APB)', 'Lula (PT)', 'Moro (PODE)', 'Gomes (PDT)', 'Doria (PSDB)',
                         'Other', 'Undecided', 'lead', 'end']
                 reset = True
         elif choice == 'Italy':
@@ -358,12 +367,18 @@ def transcribe_table(content, key, choice, begin, start):
                     line = content[i].strip('| \n')
                     break
         if started:
+            if len(line) > 0 and line[0] == '-':
+                if col != 0:
+                    col = 0
+                    row += 1
+                i += 1
+                continue
             if len(table) <= row:
                 placeholder = [True for _ in range(len(key))]
                 table.extend([placeholder.copy() for _ in range(row - len(table) + 1)])
-            if len(line) > 0 and col == 0 and line[0] == '-':
-                i += 1
-                continue
+            # if len(line) > 0 and col == 0 and line[0] == '-':
+            #     i += 1
+            #     continue
             while table[row][col] is False:
                 col += 1
                 if col >= len(key):
@@ -372,9 +387,9 @@ def transcribe_table(content, key, choice, begin, start):
                     if len(table) <= row:
                         placeholder = [True for _ in range(len(key))]
                         table.extend([placeholder.copy() for _ in range(row - len(table) + 1)])
-            if len(line) > 0 and col == 0 and line[0] == '-':
-                i += 1
-                continue
+            # if len(line) > 0 and col == 0 and line[0] == '-':
+            #     i += 1
+            #     continue
             table[row][col] = line
             if 'colspan' in line and 'rowspan' in line:
                 htemp: str = line[line.find('colspan') + len('colspan'):]
@@ -429,7 +444,7 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
         if '<br>' in line:
             place = line.find('<br>')
             line = line[:place] + ' ' + line[place + 4:]
-        if choice in ['UK', 'Germany'] and 'opdrts' in line:
+        if choice in ['UK', 'Germany', 'Netherlands'] and 'opdrts' in line:
             temp = line.strip('|').split('|')
             if temp[-1] == 'year':
                 shift = True
@@ -454,6 +469,8 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
         else:
             if '{{efn' in line:
                 line = line[:line.find('{{efn')]
+            if '<!' in line:
+                line = line[:line.find('<!')]
             dates = line.split('|')[-1]
             if '-' in dates:
                 s = dates.split('-')
@@ -611,6 +628,16 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
             if type(entry[i]).__name__ == 'str':
                 if '2018 Brazilian general election' in entry[i]:
                     purge.add(k)
+    elif choice == 'France Leg':
+        i = key.index('firm')
+        j = key.index('LR')
+        for k, entry in enumerate(table):
+            if type(entry[i]).__name__ == 'str':
+                if '2017 election' in entry[i]:
+                    purge.add(k)
+            elif entry[j] is None:
+                purge.add(k)
+
     elif choice == 'Hungary':
         i = key.index('firm')
         for k, entry in enumerate(table):
@@ -990,7 +1017,8 @@ class GraphPage:
         tables = process_tables(tables, self.choice, self.include, self.zeros)
         tables = filter_tables(tables, self.choice, self.include)
         tables = modify_tables(tables, self.choice, self.include, self.zeros)
-        return interpret_tables(tables, self.include)
+        tables = interpret_tables(tables, self.include)
+        return tables
 
     def init_seats_dat(self):
         xs = set()
