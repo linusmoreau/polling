@@ -3,7 +3,7 @@ Poll results are listed in the table below in reverse chronological order. The h
 
 The parties shown in the table are [[New Zealand Labour Party|Labour]] (LAB), [[New Zealand National Party|National]] (NAT), [[Green Party of Aotearoa New Zealand|Green]] (GRN), [[ACT New Zealand|ACT]], [[Māori Party|Māori]] (MRI), [[New Zealand First]] (NZF), [[The Opportunities Party|Opportunities]] (TOP), and [[New Conservative Party (New Zealand)|New Conservative]] (NCP). Other parties may have also registered in some polls, but are not listed in this table.
 
-{| class="sortable" "toccolours" cellpadding="5" cellspacing="1" style="text-align:center; margin-right:0.5em; margin-top:0.4em; font-size:90%; border:1px solid darkgray;"
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
 |- style="background:#e8e8e8;height:35px;"
 ! Date{{efn|These are the survey dates of the poll, or if the survey dates are not stated, the date the poll was released.|name="date"}}
 ! Polling organisation
@@ -17,15 +17,123 @@ The parties shown in the table are [[New Zealand Labour Party|Labour]] (LAB), [[
 ! style="background-color:#32DAC3;width:40px" | [[The Opportunities Party|TOP]]
 ! style="background-color:#91D3FF;width:40px" | [[New Conservative Party (New Zealand)|NCP]]
 ! data-sort-type="number" style="width:40px;" | Lead
-|- style="background:#ddd;"
-! colspan=12 |
+|-
+| style="background:#E8E8E8 | '''10 Dec 2022'''
+| colspan="11" style="background:#E8E8E8 |'''[[Tama Potaka]] of the National Party wins [[Hamilton_West_(New_Zealand_electorate)#2022_by-election|Hamilton West by-election]].'''
+|-
+| data-sort-value="2022-12-06" | '''1–6 Dec 2022'''
+|[https://www.taxpayers.org.nz/taxpayers_union_curia_poll_december_2022 Taxpayers' Union–Curia]
+| 1,000
+| 33.1 || style="background:#B0CEFF;"| '''39.4''' || 8.1 || 10.4 || 3.5 || 2.9 ||  ||  ||style="background:#B0CEFF;" |'''6.3'''
+|-
+| data-sort-value="2022-11-30" | '''26–30 Nov 2022'''
+|[https://www.scribd.com/document/612313462/December-2022-1News-Kantar-Public-Poll 1 News–Kantar Public]
+| 1,011
+| 33 || style="background:#B0CEFF;" | '''38''' || 9 || 11 || 2 || 3.6 || 1.7 || 0.6 || style="background:#B0CEFF;" |'''5'''
+|-
+| data-sort-value="2022-11-08" | '''3–8 Nov 2022'''
+|[https://www.taxpayers.org.nz/taxpayers_union_curia_poll_november_2022 Taxpayers' Union–Curia]
+| 1,000
+| 35.3 || style="background:#B0CEFF;"| '''37.6''' || 7.8 || 9.9 || 1.6 || 3.8 || 2.1 || 0.9 ||style="background:#B0CEFF;" |'''2.3'''
+|-
+| '''Nov 2022'''
+| [https://www.roymorgan.com/findings/9122-nz-national-voting-intention-november-2022 Roy Morgan]
+| 926 || 25.5 || style="background:#B0CEFF;"| '''39''' || 12 || 11 || 4 || 3.5 || 2.5 || 0.5 || style="background:#B0CEFF;" |'''13.5'''
+|-
+| data-sort-value="2022-11-07" | '''31 Oct – 7 Nov 2022'''
+|[https://www.nzherald.co.nz/nz/politics/labour-just-behind-nats-nz-first-on-the-cusp-in-new-poll/6HHJTEBYYZGD7KID6N5AWW5SPE/ Talbot Mills]
+|
+| 34 ||  style="background:#B0CEFF;"| '''35''' || 9 || 10 || 3.2 || 4.4 || 2 || – || style="background:#B0CEFF;" | '''1'''
+|-
+| data-sort-value="2022-11-03" | '''25 Oct – 3 Nov 2022'''
+|[https://www.newshub.co.nz/home/politics/2022/11/newshub-reid-research-poll-labour-records-lowest-result-since-jacinda-ardern-became-leader.html Newshub–Reid Research]
+| || 32.3 || style="background:#B0CEFF;" | '''40.7''' || 9.5 || 10 || 1.9 || 3.3 || 1.2 || – || style="background:#B0CEFF;" | '''8.4'''
+|-
+| data-sort-value="2022-10-25" | '''20–25 Oct 2022'''
+|[https://horizonpoll.co.nz/page/652/horizonpoll-nz- Horizon Research]
+| 911 ||style="background:#FFB6B6;" | '''31.4''' || 28.3 || 11.8 || 13.1 || 1.8 || 6.8 || 1.7 || 1.5 || style="background:#FFB6B6;" |'''3.05'''
+|-
+| data-sort-value="2022-10-11" |'''2–11 Oct 2022'''
+|[https://www.taxpayers.org.nz/taxpayers_union_curia_poll_october_2022 Taxpayers' Union–Curia]
+| 1,000
+| 34.4 || style="background:#B0CEFF;"| '''39.2''' || 7.2 || 9.4 || 2.1 || 2.1 || 3.4 || 1 ||style="background:#B0CEFF;" |'''4.8'''
+|-
+| '''Oct 2022'''
+| [https://www.roymorgan.com/findings/9114-nz-national-voting-intention-october-2022 Roy Morgan]
+| 951 || 29 || style="background:#B0CEFF;"| '''32''' || 15.5 || 12.5 || 3 || 3.5 || 3 || 0.5 || style="background:#B0CEFF;" |'''3'''
+|-
+|'''Oct 2022'''
+|[https://home.nzcity.co.nz/news/article.aspx?id=363819 Talbot Mills]
+|
+|style="background:#FFB6B6;" | '''35''' ||  style="background:#B0CEFF;"| '''35''' || 9 || 11 || 2.2 || 4 || –|| –|| '''Tie'''
+|-
+| data-sort-value="2022-09-30" | '''Sep 2022'''
+| [https://www.roymorgan.com/findings/the-potential-national-act-nz-48-5-coalition-has-stretched-its-lead-over-labour-greens-42-to-the-largest-since-may-2022 Roy Morgan]
+| 942 || 29.5 || style="background:#B0CEFF;"| '''36''' || 12.5 || 12.5 || 3.5 || 1 || 2.5 || 0.5 || style="background:#B0CEFF;" |'''6.5'''
+|-
+| data-sort-value="2022-09-21" | '''17–21 Sep 2022'''
+|[https://www.scribd.com/document/597102503/1News-Kantar-Public-Poll 1 News–Kantar Public]
+| 1,001 || 34 || style="background:#B0CEFF;"| '''37''' || 9 || 9 || 1.6 || 3 || 1.3 || 1 || style="background:#B0CEFF;" |'''3'''
+|-
+| style="background:#E8E8E8 | '''12 Sep 2022'''
+| colspan="11" style="background:#E8E8E8 |'''The [[COVID-19 Protection Framework]] officially ends.'''
+|-
+| data-sort-value="2022-09-09" |'''1–9 Sep 2022'''
+|[https://www.taxpayers.org.nz/taxpayers_union_curia_poll_september_2022 Taxpayers' Union–Curia]
+| 1,000
+| 33.4 || style="background:#B0CEFF;"| '''37''' || 9.9 || 12.4 || 1.5 || 1.6 || 0.7 || 1.5 ||style="background:#B0CEFF;" |'''3.6'''
+|-
+| data-sort-value="2022-09-07" |'''31 Aug – 7 Sep 2022'''
+|[https://www.nzherald.co.nz/nz/latest-political-poll-points-to-tight-race-for-national-and-labour-with-right-and-left-blocs-even/4DB2VOP7W4XVSRWGRZ2N7KZP4U/ Talbot Mills]
+|
+| 35 ||style="background:#B0CEFF;"| '''38''' || 8 || 9 || 3 || – || – || – ||style="background:#B0CEFF;" |'''3'''
+|-
+| data-sort-value="2022-08-31" | '''Aug 2022'''
+| [http://www.roymorgan.com/findings/9064-nz-national-voting-intention-august-2022-202209050524 Roy Morgan]
+| 947 || 35 || style="background:#B0CEFF;"| '''35.5''' || 9 || 10.5 || 5 || 1.5 || 1 || 0.5 || style="background:#B0CEFF;" |'''0.5'''
+|-
+| data-sort-value="2022-08-11" |'''3–11 Aug 2022'''
+|[https://www.taxpayers.org.nz/taxpayers_union_curia_poll_august_2022 Taxpayers' Union–Curia]
+| 1,200
+|style="background:#FFB6B6;" | '''35.2''' || 34 || 9.5 || 11 || 3.5 || 2.6 || – || – ||style="background:#FFB6B6;" |'''1.2'''
+|-
+| data-sort-value="2022-08-08" |'''28 Jul – 8 Aug 2022'''
+|[https://www.nzherald.co.nz/nz/national-and-labour-deadlock-new-poll-shows-one-point-margin/BKRN6QAVNBSBCE7P6JLMVT6AVI/ Talbot Mills]
+|
+| 36 ||style="background:#B0CEFF;"| '''37''' || 9 || 10 || – || – || – || – ||style="background:#B0CEFF;" |'''1'''
+|-
+| data-sort-value="2022-08-03" | '''30 Jul – 3 Aug 2022'''
+|[https://www.scribd.com/document/586016024/August-2022-1-News-Kantar-Public-Poll-Report 1 News–Kantar Public]
+| 1,023 || 33 || style="background:#B0CEFF;"| '''37''' || 9 || 11 || 2.3 || 2.6 || 1.9 || 0.7 || style="background:#B0CEFF;" |'''4'''
+|-
+| data-sort-value="2022-08-03" | '''29 Jul – 3 Aug 2022'''
+|[https://www.horizonpoll.co.nz/page/646/among-regis Horizon Research]
+| 1,044 ||style="background:#FFB6B6;" | '''34.1''' || 31.4 || 10.2 || 10.7 || 2.2 || 3.5 || 1.7 || 2.7 || style="background:#FFB6B6;" |'''2.7'''
+|-
+| data-sort-value="2022-07-31" | '''Jul 2022'''
+| [http://www.roymorgan.com/findings/9034-nz-national-voting-intention-july-2022-202208012359 Roy Morgan]
+| 937 || 34 || style="background:#B0CEFF;"| '''35''' || 10.5 || 11 || 4 || 1.5 || 2.5 || 1 || style="background:#B0CEFF;" |'''1'''
+|-
+| data-sort-value="2022-07-10" |'''3–10 Jul 2022'''
+|[https://www.taxpayers.org.nz/taxpayers_union_curia_poll_july_2022 Taxpayers' Union–Curia]
+| 1,200
+| 34.7 || style="background:#B0CEFF;"| '''37''' || 8.5 || 10 || 3.7 || 2.8 || – || – ||style="background:#B0CEFF;" |'''2.3'''
+|-
+| data-sort-value="2022-06-30" | '''30 May – 26 Jun 2022'''
+| [http://www.roymorgan.com/findings/9014-nz-national-voting-intention-june-2022-202207080051 Roy Morgan]
+| 947 || 33.5 || style="background:#B0CEFF;"| '''39''' || 10 || 9.5 || 1.5 || 1.5 || 2 || 0.5 || style="background:#B0CEFF;" |'''5.5'''
 |-
 | data-sort-value="2022-06-12" |'''1–12 Jun 2022'''
 |[https://www.taxpayers.org.nz/taxpayers_union_curia_poll_june_2022 Taxpayers' Union–Curia]
 | 1,200
 | 34.2 || style="background:#B0CEFF;"| '''37.4''' || 8.3 || 9.4 || 1.8 || 2.3 || 3.0 || 1.4 ||style="background:#B0CEFF;" |'''3.2'''
 |-
-| data-sort-value="2022-05-29" | '''25 Apr – 29 May 2022'''
+| data-sort-value="2022-06-10" |'''2–10 Jun 2022'''
+|[https://www.stuff.co.nz/national/politics/129051542/polls-diverge-on-voter-direction-as-left-and-right-blocs-neck-and-neck Talbot Mills]
+|1,200
+|style="background:#FFB6B6;" |'''36''' || 35 || 10 || 8 || 3.1 || 3.3 || – || – ||style="background:#FFB6B6;" |'''1'''
+|-
+| data-sort-value="2022-05-29" | '''26 Apr – 22 May 2022'''
 | [http://www.roymorgan.com/findings/8974-nz-national-voting-intention-may-2022-202206070538 Roy Morgan]
 | 934 || 31.5 || style="background:#B0CEFF;"| '''40''' || 11.5 || 10 || 1 || 3 || 1 || 0.5 || style="background:#B0CEFF;" |'''8.5'''
 |-

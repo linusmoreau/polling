@@ -41,6 +41,360 @@ Opinion polls conducted prior to the campaign and the announcement of the list o
 |bgcolor={{party color|Party of Growth}}|
 |bgcolor={{party color|Civic Platform (Russia)}}|
 |-
+|26–30 Dec
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20230113 WCIOM]
+|8,000
+|style="background:#B3E0FF" |'''38.4'''||'''10.4'''||'''9.3'''||'''5.7'''||4.1||colspan=10|10.2||9.2||10.9
+|style="background:#0C2C84; color:white;"|28.0
+|-
+|23–25 Dec
+|[https://media.fom.ru/fom-bd/d51pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''44'''||'''10'''||'''8'''||4||2||1||1||0||1||1||0||0||0||0||–||14||13
+|style="background:#0C2C84; color:white;"|34
+|-
+|19–25 Dec
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20221230 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''37.2'''||'''10.8'''||'''9.2'''||'''5.7'''||4.6||colspan=10|10.3||10.0||10.5
+|style="background:#0C2C84; color:white;"|26.4
+|-
+|16–18 Dec
+|[https://media.fom.ru/fom-bd/d50pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''41'''||'''9'''||'''11'''||4||3||1||1||1||1||1||0||0||0||0||–||14||13
+|style="background:#0C2C84; color:white;"|30
+|-
+|12–18 Dec
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20221223 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''37.3'''||'''11.0'''||'''9.6'''||'''5.4'''||4.6||colspan=10|9.9||9.8||10.9
+|style="background:#0C2C84; color:white;"|26.3
+|-
+|9–11 Dec
+|[https://media.fom.ru/fom-bd/d49pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''41'''||'''9'''||'''8'''||'''5'''||2||1||1||1||1||0||0||0||0||0||–||14||15
+|style="background:#0C2C84; color:white;"|32
+|-
+|5–11 Dec
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20221216 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''37.9'''||'''10.3'''||'''8.3'''||'''5.9'''||4.6||colspan=10|10.5||9.9||11.0
+|style="background:#0C2C84; color:white;"|27.6
+|-
+|2–4 Dec
+|[https://media.fom.ru/fom-bd/d48pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''42'''||'''9'''||'''10'''||3||3||1||1||1||1||0||1||0||0||0||–||16||10
+|style="background:#0C2C84; color:white;"|32
+|-
+|28 Nov–4 Dec
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20221209 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''37.7'''||'''10.7'''||'''8.5'''||'''6.2'''||4.9||colspan=10|10.2||9.6||10.8
+|style="background:#0C2C84; color:white;"|27.0
+|-
+|24–30 Nov
+|[https://www.levada.ru/2022/12/01/odobrenie-institutov-rejtingi-partij-i-politikov-7/ Levada Center]
+|1,601
+|style="background:#B3E0FF" |'''36'''||'''11'''||'''8'''||4||4||colspan=12|37
+|style="background:#0C2C84; color:white;"|25
+|-
+|25–27 Nov
+|[https://media.fom.ru/fom-bd/d47pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''43'''||'''9'''||'''7'''||3||3||1||1||1||1||0||0||0||0||0||–||13||15
+|style="background:#0C2C84; color:white;"|34
+|-
+|21–27 Nov
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20221202 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''38.2'''||'''10.4'''||'''8.5'''||'''6.0'''||4.9||colspan=10|9.5||9.6||11.2
+|style="background:#0C2C84; color:white;"|27.8
+|-
+|18–20 Nov
+|[https://media.fom.ru/fom-bd/d46pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''43'''||'''9'''||'''8'''||4||3||1||1||0||1||0||0||0||0||0||–||15||14
+|style="background:#0C2C84; color:white;"|34
+|-
+|14–20 Nov
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20221125 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''38.8'''||'''10.7'''||'''8.9'''||'''5.6'''||4.7||colspan=10|10.1||9.7||10.0
+|style="background:#0C2C84; color:white;"|28.1
+|-
+|11–13 Nov
+|[https://media.fom.ru/fom-bd/d45pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''42'''||'''9'''||'''9'''||4||2||1||1||1||0||0||0||0||0||0||–||15||14
+|style="background:#0C2C84; color:white;"|33
+|-
+|7–13 Nov
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20221118 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''38.5'''||'''10.4'''||'''8.9'''||'''5.6'''||4.6||colspan=10|9.2||10.3||11.2
+|style="background:#0C2C84; color:white;"|28.1
+|-
+|4–6 Nov
+|[https://media.fom.ru/fom-bd/d44pi22.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''44'''||'''9'''||'''8'''||4||2||1||1||0||1||0||0||0||0||0||–||15||12
+|style="background:#0C2C84; color:white;"|35
+|-
+|31 Oct–6 Nov
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20221111 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''40.4'''||'''10.3'''||'''8.1'''||'''5.4'''||4.7||colspan=10|9.5||9.6||10.5
+|style="background:#0C2C84; color:white;"|30.1
+|-
+|28–30 Oct
+|[https://media.fom.ru/fom-bd/d43pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''41'''||'''9'''||'''8'''||4||3||1||1||0||0||1||0||0||0||0||–||14||16
+|style="background:#0C2C84; color:white;"|32
+|-
+|24–30 Oct
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20221103 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''40.3'''||'''9.9'''||'''8.9'''||'''6.1'''||4.2||colspan=10|9.7||9.3||10.3
+|style="background:#0C2C84; color:white;"|30.4
+|-
+|21–23 Oct
+|[https://media.fom.ru/fom-bd/d42pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''43'''||'''9'''||'''8'''||4||2||1||1||0||1||1||0||0||0||0||–||14||14
+|style="background:#0C2C84; color:white;"|34
+|-
+|17–23 Oct
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20221028 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''40.6'''||'''11.1'''||'''8.6'''||'''5.9'''||4.5||colspan=10|9.5||8.7||9.8
+|style="background:#0C2C84; color:white;"|29.5
+|-
+|14–16 Oct
+|[https://media.fom.ru/fom-bd/d41pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''47'''||'''8'''||'''8'''||3||2||1||1||1||1||0||0||0||0||0||–||13||14
+|style="background:#0C2C84; color:white;"|39
+|-
+|10–16 Oct
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20221021 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''41.0'''||'''10.1'''||'''8.2'''||'''5.8'''||4.8||colspan=10|9.1||9.0||10.5
+|style="background:#0C2C84; color:white;"|30.9
+|-
+|7–9 Oct
+|[https://media.fom.ru/fom-bd/d40pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''43'''||'''10'''||'''8'''||'''5'''||3||1||1||0||1||1||0||0||0||0||–||15||10
+|style="background:#0C2C84; color:white;"|33
+|-
+|3–9 Oct
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20221014 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''41.0'''||'''10.1'''||'''9.1'''||'''5.3'''||4.3||colspan=10|8.9||9.4||10.2
+|style="background:#0C2C84; color:white;"|30.9
+|-
+|30 Sep–2 Oct
+|[https://media.fom.ru/fom-bd/d39pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''46'''||'''8'''||'''8'''||3||3||1||1||0||1||0||0||1||0||0||–||14||12
+|style="background:#0C2C84; color:white;"|38
+|-
+|26 Sep–2 Oct
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20221007 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''41.6'''||'''10.0'''||'''8.6'''||'''5.6'''||4.1||colspan=10|9.5||9.4||10.1
+|style="background:#0C2C84; color:white;"|31.6
+|-
+|22–28 Sep
+|[https://www.levada.ru/2022/09/28/odobrenie-institutov-rejtingi-partij-i-politikov-6/ Levada Center]
+|1,631
+|style="background:#B3E0FF" |'''36'''||'''11'''||'''9'''||4||3||colspan=12|37
+|style="background:#0C2C84; color:white;"|25
+|-
+|23–25 Sep
+|[https://media.fom.ru/fom-bd/d38pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''41'''||'''9'''||'''7'''||4||3||1||1||0||1||0||1||0||0||0||–||14||15
+|style="background:#0C2C84; color:white;"|32
+|-
+|19–25 Sep
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20220930 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''40.9'''||'''11.0'''||'''8.1'''||'''5.8'''||4.0||colspan=10|9.7||8.7||10.4
+|style="background:#0C2C84; color:white;"|29.9
+|-
+|16–18 Sep
+|[https://media.fom.ru/fom-bd/d37pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''42'''||'''9'''||'''8'''||3||3||1||1||0||1||0||0||0||0||0||–||14||15
+|style="background:#0C2C84; color:white;"|33
+|-
+|12–18 Sep
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20220923 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''41.0'''||'''10.9'''||'''7.8'''||'''5.5'''||4.2||colspan=10|9.3||9.0||10.7
+|style="background:#0C2C84; color:white;"|30.1
+|-
+|9–11 Sep
+|[https://media.fom.ru/fom-bd/d36pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''43'''||'''10'''||'''10'''||4||3||1||1||1||1||0||0||0||0||0||–||15||9
+|style="background:#0C2C84; color:white;"|33
+|-
+|5–11 Sep
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20220916 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''40.7'''||'''10.3'''||'''7.5'''||'''5.8'''||4.1||colspan=10|9.8||10.0||10.4
+|style="background:#0C2C84; color:white;"|30.4
+|-
+|2–4 Sep
+|[https://media.fom.ru/fom-bd/d35pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''40'''||'''10'''||'''9'''||3||3||1||1||0||1||0||0||0||0||0||–||18||12
+|style="background:#0C2C84; color:white;"|30
+|-
+|29 Aug–4 Sep
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20220909 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''39.4'''||'''10.3'''||'''8.3'''||'''6.2'''||4.2||colspan=10|9.7||10.2||10.4
+|style="background:#0C2C84; color:white;"|29.1
+|-
+|26–28 Aug
+|[https://media.fom.ru/fom-bd/d34pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''41'''||'''10'''||'''7'''||4||2||1||1||1||1||0||0||0||0||0||–||16||14
+|style="background:#0C2C84; color:white;"|31
+|-
+|22–28 Aug
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20220902 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''40.2'''||'''10.2'''||'''8.1'''||'''5.7'''||4.8||colspan=10|9.4||10.1||10.2
+|style="background:#0C2C84; color:white;"|30.0
+|-
+|19–21 Aug
+|[https://media.fom.ru/fom-bd/d33pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''40'''||'''10'''||'''8'''||4||2||1||1||0||1||0||0||0||0||0||–||16||13
+|style="background:#0C2C84; color:white;"|30
+|-
+|15–21 Aug
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20220826 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''39.9'''||'''10.7'''||'''8.6'''||'''5.4'''||4.3||colspan=10|9.9||10.0||10.0
+|style="background:#0C2C84; color:white;"|29.2
+|-
+|12–14 Aug
+|[https://media.fom.ru/fom-bd/d32pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''44'''||'''10'''||'''10'''||4||2||1||1||0||1||0||0||0||0||0||–||13||11
+|style="background:#0C2C84; color:white;"|34
+|-
+|8–14 Aug
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20220819 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''40.0'''||'''11.3'''||'''7.8'''||'''5.4'''||4.4||colspan=10|9.9||10.1||9.8
+|style="background:#0C2C84; color:white;"|28.7
+|-
+|5–7 Aug
+|[https://media.fom.ru/fom-bd/d31pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''42'''||'''10'''||'''8'''||4||3||1||1||1||1||0||0||0||0||0||–||13||13
+|style="background:#0C2C84; color:white;"|32
+|-
+|1–7 Aug
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20220812 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''40.7'''||'''10.8'''||'''7.5'''||'''5.7'''||4.2||colspan=10|9.7||9.7||10.3
+|style="background:#0C2C84; color:white;"|29.9
+|-
+|29–31 Jul
+|[https://media.fom.ru/fom-bd/d30pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''42'''||'''8'''||'''8'''||4||3||1||2||1||1||0||0||0||0||0||–||14||14
+|style="background:#0C2C84; color:white;"|34
+|-
+|25–31 Jul
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20220805 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''40.3'''||'''10.6'''||'''7.9'''||'''5.5'''||4.4||colspan=10|9.6||10.2||10.3
+|style="background:#0C2C84; color:white;"|29.7
+|-
+|21–27 Jul
+|[https://www.levada.ru/2022/07/29/odobrenie-institutov-rejtingi-partij-i-politikov-5/ Levada Center]
+|1,617
+|style="background:#B3E0FF" |'''40'''||'''10'''||'''8'''||'''5'''||3||colspan=12|34
+|style="background:#0C2C84; color:white;"|30
+|-
+|22–24 Jul
+|[https://media.fom.ru/fom-bd/d29pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''41'''||'''9'''||'''8'''||3||4||1||1||1||1||0||0||0||0||0||–||15||14
+|style="background:#0C2C84; color:white;"|32
+|-
+|18–24 Jul
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20220729 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''41.4'''||'''10.3'''||'''7.5'''||'''5.8'''||4.3||colspan=10|9.7||9.9||9.6
+|style="background:#0C2C84; color:white;"|31.1
+|-
+|15–17 Jul
+|[https://media.fom.ru/fom-bd/d28pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''45'''||'''10'''||'''8'''||4||2||1||2||1||1||0||0||0||0||0||–||14||10
+|style="background:#0C2C84; color:white;"|35
+|-
+|11–17 Jul
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20220722 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''40.0'''||'''10.8'''||'''7.6'''||'''5.8'''||4.4||colspan=10|9.6||10.1||10.3
+|style="background:#0C2C84; color:white;"|29.2
+|-
+|8–10 Jul
+|[https://media.fom.ru/fom-bd/d27pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''44'''||'''11'''||'''8'''||4||3||1||1||0||1||1||0||0||0||0||–||12||13
+|style="background:#0C2C84; color:white;"|33
+|-
+|4–10 Jul
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20220715 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''40.5'''||'''11.3'''||'''8.2'''||'''5.7'''||4.5||colspan=10|9.8||8.8||9.8
+|style="background:#0C2C84; color:white;"|29.2
+|-
+|1–3 Jul
+|[https://media.fom.ru/fom-bd/d26pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''42'''||'''9'''||'''8'''||3||3||1||1||0||1||0||0||1||0||0||–||15||14
+|style="background:#0C2C84; color:white;"|33
+|-
+|27 Jun–3 Jul
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20220707 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''40.6'''||'''10.8'''||'''7.8'''||'''5.3'''||4.4||colspan=10|9.7||9.7||10.1
+|style="background:#0C2C84; color:white;"|29.8
+|-
+|23–29 Jun
+|[https://www.levada.ru/2022/06/29/odobrenie-institutov-rejtingi-partij-i-politikov-4/ Levada Center]
+|1,628
+|style="background:#B3E0FF" |'''38'''||'''11'''||'''9'''||4||4||colspan=12|34
+|style="background:#0C2C84; color:white;"|27
+|-
+|24–26 Jun
+|[https://media.fom.ru/fom-bd/d25pi2022.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''42'''||'''11'''||'''8'''||4||2||1||1||1||1||0||0||0||0||0||–||13||14
+|style="background:#0C2C84; color:white;"|31
+|-
+|20–26 Jun
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20220701 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''41.0'''||'''11.1'''||'''7.9'''||'''5.6'''||4.9||colspan=10|9.6||9.4||9.1
+|style="background:#0C2C84; color:white;"|29.9
+|-
 |17–19 Jun
 |[https://media.fom.ru/fom-bd/d24pi2022.pdf FOM]
 |1,500
@@ -80,8 +434,8 @@ Opinion polls conducted prior to the campaign and the announcement of the list o
 |26–31 May
 |[https://www.levada.ru/2022/06/01/odobrenie-institutov-rejtingi-partij-i-politikov-3/ Levada Center]
 |1,634
-|style="background:#B3E0FF" |'''53'''||'''16'''||'''10'''||'''5'''||'''5'''||colspan=12|11
-|style="background:#0C2C84; color:white;"|37
+|style="background:#B3E0FF" |'''38'''||'''11'''||'''7'''||4||4||colspan=12|36
+|style="background:#0C2C84; color:white;"|27
 |-
 |27–29 May
 |[https://media.fom.ru/fom-bd/d21pi2022.pdf FOM]
@@ -140,8 +494,8 @@ Opinion polls conducted prior to the campaign and the announcement of the list o
 |21–27 Apr
 |[https://www.levada.ru/2022/04/27/odobrenie-institutov-rejtingi-partij-i-politikov-2/ Levada Center]
 |1,616
-|style="background:#B3E0FF" |'''54'''||'''14'''||'''11'''||'''5'''||'''7'''||colspan=12|9
-|style="background:#0C2C84; color:white;"|40
+|style="background:#B3E0FF" |'''40'''||'''10'''||'''8'''||4||'''5'''||colspan=12|33
+|style="background:#0C2C84; color:white;"|30
 |-
 |22–24 Apr
 |[https://media.fom.ru/fom-bd/d16pi2022.pdf FOM]
@@ -269,8 +623,8 @@ Opinion polls conducted prior to the campaign and the announcement of the list o
 |17–21 Feb
 |[https://www.levada.ru/2022/02/25/odobrenie-institutov-polozhenie-del-v-strane-rejtingi-partij/ Levada Center]
 |1,618
-|style="background:#B3E0FF" |'''44'''||'''19'''||'''11'''||'''8'''||'''5'''||1||1||1||2||0||0||colspan=4|0||colspan=2|36
-|style="background:#0C2C84; color:white;"|25
+|style="background:#B3E0FF" |'''31'''||'''13'''||'''8'''||'''5'''||4||1||1||0||1||0||0||colspan=4|0||colspan=2|36
+|style="background:#0C2C84; color:white;"|18
 |-
 |18–20 Feb
 |[https://media.fom.ru/fom-bd/d7pi2022.pdf FOM]
@@ -412,8 +766,8 @@ Opinion polls conducted prior to the campaign and the announcement of the list o
 |16–22 Dec
 |[https://www.levada.ru/2021/12/23/odobrenie-institutov-polozhenie-del-v-strane-rejtingi-politikov-i-partij/ Levada Center]
 |1,640
-|style="background:#B3E0FF" |'''40'''||'''22'''||'''12'''||'''8'''||'''8'''||1||1||1||1||0||1||colspan=4|0||colspan=2|36
-|style="background:#0C2C84; color:white;"|18
+|style="background:#B3E0FF" |'''27'''||'''15'''||'''8'''||'''5'''||'''5'''||1||1||0||1||0||1||colspan=4|0||colspan=2|36
+|style="background:#0C2C84; color:white;"|12
 |-
 |17–19 Dec
 |[https://media.fom.ru/fom-bd/d50pi2021.pdf FOM]
@@ -457,8 +811,8 @@ Opinion polls conducted prior to the campaign and the announcement of the list o
 |25 Nov–1 Dec
 |[https://www.levada.ru/2021/12/09/elektoralnye-rejtingi-partij-i-prezidenta/ Levada Center]
 |1,600
-|style="background:#B3E0FF" |'''41'''||'''21'''||'''13'''||'''6'''||'''8'''||1||1||1||1||1||1||colspan=4|0||9||28
-|style="background:#0C2C84; color:white;"|20
+|style="background:#B3E0FF" |'''26'''||'''13'''||'''8'''||4||'''5'''||1||1||0||1||0||1||colspan=4|0||colspan=2|40
+|style="background:#0C2C84; color:white;"|13
 |-
 |26–28 Nov
 |[https://media.fom.ru/fom-bd/d47pi2021.pdf FOM]
@@ -523,8 +877,8 @@ Opinion polls conducted prior to the campaign and the announcement of the list o
 |21–27 Oct
 |[https://www.levada.ru/2021/10/28/odobrenie-institutov-polozhenie-del-v-strane-doverie-politikam-i-elektoralnye-rejtingi-partij/ Levada Center]
 |1,636
-|style="background:#B3E0FF" |'''41'''||'''20'''||'''12'''||'''8'''||'''7'''||2||2||0||1||1||colspan=5|2||7||23
-|style="background:#0C2C84; color:white;"|21
+|style="background:#B3E0FF" |'''29'''||'''14'''||'''8'''||'''5'''||'''5'''||1||1||0||1||0||colspan=5|2||7||23
+|style="background:#0C2C84; color:white;"|15
 |-
 |22–24 Oct
 |[https://media.fom.ru/fom-bd/d42pi2021.pdf FOM]

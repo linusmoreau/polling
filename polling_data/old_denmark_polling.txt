@@ -1,3 +1,1871 @@
+=== Pre-election 2022 ===
+
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
+! colspan="3" |
+! colspan="16" |Parties
+! colspan="4" |Blocs
+|-
+! rowspan="3" | Polling<br/>firm
+! rowspan="3" | Fieldwork<br/>date
+! rowspan="3" class="unsortable" style="letter-spacing:-1px;" | Sample<br/>size
+! rowspan="2" class="unsortable" style="width:30px;" | [[Social Democrats (Denmark)|A]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Venstre (Denmark)|V]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Danish People's Party|O]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Danish Social Liberal Party|B]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Green Left (Denmark)|F]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Red–Green Alliance (Denmark)|Ø]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Conservative People's Party (Denmark)|C]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[The Alternative (Denmark)|Å]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[New Right (Denmark)|D]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Liberal Alliance (Denmark)|I]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Christian Democrats (Denmark)|K]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Vegan Party|G]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Moderates (Denmark)|M]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Independent Greens (Denmark)|Q]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Denmark Democrats|Æ]]
+! rowspan="3" class="unsortable" style="width:30px;letter-spacing:-1px;" " | Others
+! rowspan="2" class="unsortable" style="width:30px;" | {{tooltip|2=A, B, F, Ø, Å, G and Q|Red}}
+! rowspan="2" class="unsortable" style="width:30px;" | {{tooltip|2=V, O, C, D, I, P, K, E and Æ|Blue}}
+! colspan="2" style="width:25px;letter-spacing:-1px;" " | Lead{{Verify source|date=August 2022|reason=some percentages for the Blue Bloc appear to include M}}
+|-
+!All parties
+!Above [[Electoral threshold|2%]]
+|-
+! data-sort-type="number" style="background:{{party color|Social Democrats (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Venstre (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Danish People's Party}};" |
+! data-sort-type="number" style="background:{{party color|Danish Social Liberal Party}};" |
+! data-sort-type="number" style="background:{{party color|Socialist People's Party (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Red–Green Alliance (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Conservative People's Party (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|The Alternative (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|The New Right (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Liberal Alliance (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Christian Democrats (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Vegan Party}};" |
+! data-sort-type="number" style="background:{{party color|Moderates (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Independent Greens (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Denmark Democrats}};" |
+! data-sort-type="number" style="background:{{party color|Social Democrats (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Venstre (Denmark)}};" |
+!
+!
+|- style="background:#EFEFEF;"
+| colspan="2" |''[[2022 Danish general election|2022 election result]]''
+|–
+| style="background:#FACECD;" |'''27.5'''
+|13.3
+|2.6
+|3.8
+|8.3
+|5.2
+|5.5
+|3.3
+|3.7
+|7.9
+|0.5
+| rowspan="26"{{N/A}}
+|9.3
+|0.9
+|8.1
+|0.1
+| style="background:#FACECD;" |'''49.0'''
+|41.6
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.0
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW31102022.pdf Voxmeter]
+|31 Oct 2022
+|4,577
+| style="background:#FACECD;" |'''24.2'''
+|14.0
+|2.9
+|4.4
+|9.7
+|6.5
+|6.1
+|3.6
+|4.1
+|7.7
+|0.7
+|8.5
+|0.7
+|6.9
+|0.0
+| style="background:#FACECD;" |'''49.1'''
+|42.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.7
+|-
+|[https://www.berlingske.dk/politik/den-sidste-gallup-maaling-inden-valget-vaekker-opsigt-wow-det-er-den Gallup]
+|31 Oct 2022
+|4,483
+| style="background:#FACECD;" |'''26.6'''
+|13.7
+|2.9
+|4.4
+|8.7
+|6.3
+|6.0
+|3.2
+|4.3
+|7.3
+|0.9
+|8.8
+|0.3
+|7.0
+|–
+| style="background:#FACECD;" |'''49.1'''
+|42.1
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.0
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.6
+|-
+|[https://www.bt.dk/folketingsvalg-2022/sidste-maaling-foer-valget-disse-to-partier-skal-du-holde-oeje-med Yougov]
+|27–31 Oct 2022
+|1,336
+| style="background:#FACECD;" |'''27.6'''
+|12.9
+|2.8
+|3.2
+|8.5
+|6.3
+|6.5
+|1.9
+|4.3
+|6.9
+|0.2
+|8.0
+|0.9
+|10.1
+|–
+| style="background:#FACECD;" |'''48.4'''
+|43.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |2.1
+|-
+|[https://www.dr.dk/nyheder/politik/folketingsvalg/loekke-taber-pusten-i-ny-maaling-men-moderaterne-kan-stadig-afgoere Epinion]
+|27 Oct 2022
+|2,538
+| style="background:#FACECD;" |'''24.4'''
+|13.3
+|2.4
+|4.7
+|8.7
+|6.3
+|5.8
+|2.3
+|5.2
+|8.6
+|0.4
+|8.3
+|0.7
+|8.6
+|–
+| style="background:#FACECD;" |'''47.1'''
+|44.3
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |2.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |2.5
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW27102022.pdf Voxmeter]
+|25–27 Oct 2022
+|1,001
+| style="background:#FACECD;" |'''26.2'''
+|12.5
+|3.0
+|4.1
+|9.8
+|6.0
+|5.9
+|2.2
+|3.7
+|6.8
+|0.2
+|10.0
+|0.8
+|8.8
+|0.0
+| style="background:#FACECD;" |'''49.1'''
+|40.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |8.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.6
+|-
+|[https://www.bt.dk/folketingsvalg-2022/ny-maling-bekraefter-tendensen-lokke-brager-frem Yougov]
+|21–25 Oct 2022
+|1,261
+| style="background:#FACECD;" |'''28.6'''
+|10.4
+|2.6
+|3.6
+|8.3
+|6.7
+|6.5
+|2.3
+|4.3
+|7.1
+|0.5
+|9.6
+|0.7
+|8.5
+|–
+| style="background:#FACECD;" |'''50.2'''
+|39.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |10.3
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |10.1
+|-
+|[https://politologi.dk/meningsmaaling/maaling-folketingsvalg-gallup-24-oktober-2022/ Gallup]
+|24 Oct 2022
+|1,928
+| style="background:#FACECD;" |'''24.4'''
+|13.8
+|2.3
+|3.7
+|9.2
+|8.0
+|6.2
+|2.5
+|3.8
+|8.3
+|0.4
+|8.8
+|0.4
+|8.1
+|–
+| style="background:#FACECD;" |'''48.2'''
+|42.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.3
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.3
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW24102022.pdf Voxmeter]
+|22–24 Oct 2022
+|1,004
+| style="background:#FACECD;" |'''25.0'''
+|13.2
+|1.9
+|3.8
+|9.6
+|6.5
+|6.0
+|1.7
+|4.2
+|7.3
+|0.6
+|11.5
+|0.6
+|8.1
+|0.0
+| style="background:#FACECD;" |'''47.2'''
+|41.3
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.1
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW18102022.pdf Voxmeter]
+|19–21 Oct 2022
+|942
+| style="background:#FACECD;" |'''25.7'''
+|14.2
+|2.4
+|4.7
+|9.1
+|6.8
+|6.7
+|2.2
+|3.8
+|7.5
+|0.5
+|8.8
+|0.5
+|6.8
+|0.3
+| style="background:#FACECD;" |'''49.0'''
+|41.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.1
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.1
+|-
+|[https://www.dr.dk/nyheder/politik/folketingsvalg/de-konservative-og-liberal-alliance-er-lige-store-i-ny-meningsmaaling Epinion]
+|20 Oct 2022
+|2,568
+| style="background:#FACECD;" |'''24.3'''
+|12.7
+|2.4
+|4.3
+|8.0
+|7.1
+|7.0
+|2.2
+|4.9
+|7.0
+|0.6
+|9.8
+|0.8
+|8.6
+|–
+| style="background:#FACECD;" |'''46.7'''
+|43.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.5
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.3
+|-
+|[https://politologi.dk/meningsmaaling/maaling-folketingsvalg-gallup-18-oktober-2022/ Gallup]
+|18 Oct 2022
+|1,989
+| style="background:#FACECD;" |'''27.7'''
+|14.5
+|2.7
+|4.5
+|8.9
+|6.9
+|7.1
+|1.5
+|4.8
+|6.7
+|0.7
+|7.3
+|0.7
+|5.9
+|–
+| style="background:#FACECD;" |'''50.2'''
+|42.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.3
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW18102022.pdf Voxmeter]
+|16–18 Oct 2022
+|1,008
+| style="background:#FACECD;" |'''25.0'''
+|14.7
+|1.8
+|5.3
+|9.1
+|7.4
+|7.7
+|1.6
+|3.9
+|5.7
+|0.6
+|9.2
+|0.5
+|7.4
+|0.1
+| style="background:#FACECD;" |'''48.9'''
+|41.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.1
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.4
+|-
+|[https://www.bt.dk/folketingsvalg-2022/joachim-b-olsen-om-ny-maling-det-kan-koste-dem-valget Yougov]
+|15–18 Oct 2022
+|1,343
+| style="background:#FACECD;" |'''30.3'''
+|10.6
+|2.8
+|3.1
+|7.2
+|5.3
+|8.0
+|2.3
+|5.1
+|6.8
+|0.5
+|7.9
+|1.6
+|8.3
+|–
+| style="background:#FACECD;" |'''49.8'''
+|42.1
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.6
+|-
+|[https://voxmeter.dk/om-den-seneste-meningsmaling/ Voxmeter]
+|13–15 Oct 2022
+|1,019
+| style="background:#FACECD;" |'''26.1'''
+|14.4
+|2.6
+|4.8
+|8.7
+|6.6
+|8.9
+|1.9
+|4.5
+|6.1
+|0.9
+|6.1
+|0.4
+|7.9
+|0.1
+| style="background:#FACECD;" |'''48.5'''
+|45.3
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |1.8
+|-
+|[https://www.dr.dk/nyheder/politik/folketingsvalg/ny-meningsmaaling-konservativ-nedtur-fortsaetter-naesten-halveret Epinion]
+|13 Oct 2022
+|2,645
+| style="background:#FACECD;" |'''25.9'''
+|12.9
+|2.3
+|4.9
+|8.3
+|6.5
+|8.6
+|2.4
+|5.9
+|5.8
+|0.4
+|6.9
+|0.7
+|8.0
+|–
+| style="background:#FACECD;" |'''48.7'''
+|43.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.5
+|-
+|[https://politologi.dk/meningsmaaling/maaling-folketingsvalg-gallup-12-oktober-2022/ Gallup]
+|12 Oct 2022
+|1,995
+| style="background:#FACECD;" |'''27.4'''
+|12.9
+|3.1
+|5.1
+|8.5
+|6.1
+|9.9
+|1.6
+|4.5
+|5.5
+|1.4
+|5.5
+|0.5
+|8.0
+|–
+| style="background:#FACECD;" |'''49.2'''
+|45.3
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.2
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW12102022.pdf Voxmeter]
+|10–12 Oct 2022
+|1,019
+| style="background:#FACECD;" |'''27.5'''
+|14.3
+|2.4
+|4.2
+|7.9
+|7.2
+|8.9
+|2.4
+|3.9
+|5.0
+|0.7
+|6.1
+|0.8
+|8.7
+|0.0
+| style="background:#FACECD;" |'''50.0'''
+|43.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.1
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.0
+|-
+|[https://www.bt.dk/folketingsvalg-2022/ny-maaling-enhedslisten-faar-mavepuster Yougov]
+|11 Oct 2022
+|1,271
+| style="background:#FACECD;" |'''30.6'''
+|10.5
+|3.4
+|4.3
+|8.1
+|5.1
+|10.4
+|1.7
+|4.4
+|5.5
+|0.1
+|4.4
+|0.6
+|10.6
+|–
+| style="background:#FACECD;" |'''50.4'''
+|44.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.5
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.3
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5lingW09102022.pdf Voxmeter]
+|7–9 Oct 2022
+|1,015
+| style="background:#FACECD;" |'''27.1'''
+|13.8
+|2.3
+|5.0
+|8.7
+|6.7
+|9.8
+|2.0
+|4.9
+|5.3
+|0.6
+|4.1
+|0.6
+|9.0
+|0.1
+| style="background:#FACECD;" |'''50.1'''
+|45.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.4
+|-
+|[https://www.bt.dk/folketingsvalg-2022/ny-maaling-mette-f-og-socialdemokratiet-ligger-lunt-i-svinget Yougov]
+|7 Oct 2022
+|1,010
+| style="background:#FACECD;" |'''29.3'''
+|9.5
+|2.9
+|3.5
+|8.0
+|8.2
+|10.8
+|1.0
+|5.3
+|4.4
+|0.1
+|5.2
+|0.6
+|11.2
+|–
+| style="background:#FACECD;" |'''50.6'''
+|44.1
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.5
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.9
+|-
+|[https://politologi.dk/meningsmaaling/maaling-folketingsvalg-gallup-6-oktober-2022/ Gallup]
+|6 Oct 2022
+|1,726
+| style="background:#FACECD;" |'''26.7'''
+|13.2
+|2.1
+|3.8
+|8.9
+|6.6
+|11.2
+|1.6
+|3.6
+|4.4
+|0.5
+|6.1
+|0.5
+|10.7
+|–
+| style="background:#FACECD;" |'''48.1'''
+|45.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |2.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |0.8
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW07102022.pdf Voxmeter]
+|3–6 Oct 2022
+|1,094
+| style="background:#FACECD;" |'''27.5'''
+|14.6
+|1.7
+|5.4
+|8.3
+|7.1
+|11.4
+|1.2
+|4.7
+|5.6
+|0.8
+|3.3
+|0.3
+|7.9
+|0.1
+| style="background:#FACECD;" |'''49.8'''
+|46.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.1
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.1
+|-
+|[https://www.dr.dk/nyheder/politik/folketingsvalg/socialdemokratiet-indleder-valgkamp-med-medvind-i-ny-maaling Epinion]
+|5 Oct 2022
+|1,911
+| style="background:#FACECD;" |'''27.3'''
+|12.7
+|1.8
+|4.9
+|8.1
+|6.7
+|11.2
+|1.3
+|6.3
+|4.1
+|0.4
+|3.7
+|0.7
+|10.3
+|–
+| style="background:#FACECD;" |'''49.0'''
+|46.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |2.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |2.4
+|-
+|[https://politologi.dk/meningsmaaling/maaling-folketingsvalg-gallup-2-oktober-2022/ Gallup]
+|2 Oct 2022
+|1,607
+| style="background:#FACECD;" |'''24.4'''
+|11.9
+|1.9
+|6.8
+|7.9
+|8.7
+|12.3
+|1.2
+|6.0
+|4.0
+|1.3
+|3.4
+|0.3
+|9.8
+|–
+| style="background:#FACECD;" |'''49.3'''
+|47.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |2.1
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.8
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/Pdf/Voxmetermaling-02-10-2022.pdf Voxmeter]
+|26 Sep–2 Oct 2022
+|1,001
+| style="background:#FACECD;" |'''25.3'''
+|15.5
+|3.3
+|6.0
+|8.8
+|8.0
+|11.0
+|1.5
+|4.7
+|4.2
+|0.7
+|2.2
+|0.4
+|8.4
+|0.1
+| style="background:#FACECD;" |'''50.0'''
+|47.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |2.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |1.0
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/Pdf/Voxmetermaling-26-09-2022.pdf Voxmeter]
+|19–25 Sep 2022
+|1,004
+| style="background:#FACECD;" |'''25.1'''
+|14.1
+|2.5
+|6.5
+|8.3
+|7.3
+|11.6
+|1.1
+|5.1
+|4.6
+|1.2
+|0.3
+|2.4
+|0.6
+|9.1
+|0.2
+| style="background:#FACECD;"|'''49.2'''
+|48.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |1.0
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |0.2
+|-
+|[https://www.dr.dk/nyheder/politik/de-konservative-gaar-tilbage-i-ny-maaling-der-har-vaeret-lidt-om-vores-partiformands Epinion]
+|13–20 Sep 2022
+|2,270
+| style="background:#FACECD;" |'''25.4'''
+|11.9
+|1.9
+|4.6
+|7.6
+|8.1
+|13.4
+|0.9
+|4.6
+|5.3
+|0.3
+|0.3
+|3.3
+|1.0
+|10.8
+|0.6
+|47.9
+| style="background:#C7D8FF;" |'''48.2'''
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |0.3
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |0.3
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/Pdf/Voxmetermaling-18-09-2022.pdf Voxmeter]
+|12–18 Sep 2022
+|1,001
+| style="background:#FACECD;" |'''24.2'''
+|13.9
+|2.1
+|6.3
+|8.4
+|8.3
+|13.6
+|0.8
+|4.8
+|4.3
+|1.3
+|0.3
+|1.8
+|0.4
+|9.3
+|0.2
+|48.7
+| style="background:#C7D8FF;" |'''49.3'''
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |0.6
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |0.8
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/Pdf/Voxmetermaling-11-09-2022.pdf Voxmeter]
+|5–11 Sep 2022
+|1,003
+| style="background:#FACECD;" |'''23.3'''
+|13.8
+|2.9
+|6.0
+|9.1
+|7.7
+|15.1
+|1.4
+|4.9
+|3.6
+|0.5
+|0.1
+|2.1
+|0.5
+|9.0
+|0.0
+|48.1
+| style="background:#C7D8FF;" |'''49.8'''
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |1.7
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |3.2
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-04-09-2022.pdf Voxmeter]
+|29 Aug–4 Sep 2022
+|1,002
+| style="background:#FACECD;" |'''24.7'''
+|12.5
+|3.3
+|6.4
+|8.0
+|7.2
+|16.2
+|1.6
+|4.3
+|3.4
+|1.0
+|0.1
+|1.7
+|0.3
+|9.3
+|0.1
+|48.3
+| style="background:#C7D8FF;" |'''50.0'''
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |1.7
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |2.7
+|-
+|[https://politologi.dk/meningsmaaling/maaling-folketingsvalg-gallup-2-september-2022/ Gallup]
+|2 Sep 2022
+| ≈1,000
+| style="background:#FACECD;" |'''23.1'''
+|12.2
+|2.4
+|6.4
+|8.8
+|8.3
+|14.1
+|0.5
+|4.2
+|3.5
+|1.4
+|0.4
+|3.3
+|0.7
+|10.2
+|–
+| style="background:#FACECD;" |'''48.2'''
+|48.0
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |0.2
+|0.0
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-28-08-2022.pdf Voxmeter]
+|22–28 Aug 2022
+| 1,001
+| style="background:#FACECD;" |'''25.2'''
+|11.8
+|3.4
+|5.7
+|7.8
+|8.1
+|16.4
+|1.4
+|3.7
+|4.0
+|0.4
+|0.2
+|2.3
+|0.4
+|8.9
+|0.3
+| style="background:#FACECD;" |'''48.8'''
+|48.6
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |0.2
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |1.4
+
+|-
+|[https://www.dr.dk/nyheder/politik/katastrofal-maaling-ellemann-konservative-er-nu-markant-stoerre-end-venstre Epinion]
+|16–24 Aug 2022
+| 1,068
+| style="background:#FACECD;" |'''23.3'''
+|11.3
+|2.2
+|5.5
+|8.7
+|7.3
+|16.7
+|1.1
+|4.1
+|3.1
+|0.7
+|0.3
+|2.8
+|0.5
+|11.8
+| –
+|46.7
+| style="background:#C7D8FF;" |'''49.9'''
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |3.2
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |4.4
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-21-08-2022.pdf Voxmeter]
+|15–21 Aug 2022
+| 1,068
+| style="background:#FACECD;" |'''25.1'''
+|11.0
+|3.2
+|5.6
+|7.6
+|7.5
+|16.5
+|1.2
+|4.3
+|4.9
+|0.6
+|0.3
+|1.9
+|0.5
+|9.3
+|0.5
+|47.8
+| style="background:#C7D8FF;" |'''49.8'''
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |2.0
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |3.4
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-14-08-2022.pdf Voxmeter]
+|8–14 Aug 2022
+| 1,051
+| style="background:#FACECD;" |'''23.9'''
+|13.4
+|2.5
+|6.3
+|8.5
+|8.1
+|13.3
+|0.5
+|5.8
+|4.3
+|1.0
+|0.1
+|2.2
+|0.2
+|9.7
+|0.2
+|47.6
+| style="background:#C7D8FF;" |'''50.0'''
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |2.4
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |2.2
+|-
+|[https://politologi.dk/meningsmaaling/maaling-folketingsvalg-yougov-7-august-2022/ Yougov]
+|7 Aug 2022
+| 1,242
+| style="background:#FACECD;" |'''26.1'''
+|10.0
+|3.1
+|5.2
+|7.2
+|6.9
+|13.9
+|1.0
+|5.2
+|3.2
+|0.3
+|0.8
+|4.6
+|0.6
+|11.9
+|–
+| style="background:#FACECD;"|'''47.8'''
+|47.6
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |0.2
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |1.9
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-06-08-2022.pdf Voxmeter]
+|1–6 Aug 2022
+| 1,001
+| style="background:#FACECD;" |'''22.9'''
+|15.2
+|2.8
+|7.2
+|8.3
+|7.4
+|12.5
+|1.2
+|4.7
+|3.2
+|0.4
+|0.2
+|1.9
+|0.3
+|11.2
+|0.6
+|47.5
+| style="background:#C7D8FF;" |'''50.0'''
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |2.5
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |3.8
+|-
+|[https://politologi.dk/meningsmaaling/maaling-folketingsvalg-gallup-5-august-2022/ Gallup]
+|5 Aug 2022
+| 1,577
+| style="background:#FACECD;" |'''23.5'''
+|13.2
+|1.8
+|6.9
+|9.3
+|6.1
+|11.8
+|0.3
+|6.0
+|4.1
+|1.7
+|0.2
+|4.1
+|0.3
+|10.2
+| –
+|46.6
+| style="background:#C7D8FF;" |'''48.8'''
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |2.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |0.5
+|-
+|[https://www.dr.dk/nyheder/politik/flertallet-bag-mette-frederiksen-smuldrer-opsigtsvaekkende-maaling-goer-loekke-til Epinion]
+|21–28 Jul 2022
+| 1833
+| style="background:#FACECD;" |'''24.2'''
+|14.2
+|2.1
+|5.8
+|8.1
+|7.3
+|11.5
+|1.3
+|4.4
+|3.8
+|1.0
+|0.4
+|3.1
+|0.8
+|10.8
+|0.7
+| style="background:FACECD;" |'''47.9'''
+|47.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |0.1
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |1.4
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-03-07-2022.pdf Voxmeter]
+|27 Jun–3 Jul 2022
+| 1,003
+| style="background:#FACECD;" |'''25.8'''
+|13.6
+|2.2
+|6.9
+|9.1
+|7.6
+|12.3
+|1.5
+|4.3
+|3.0
+|0.8
+|0.0
+|2.2
+|0.8
+|rowspan="37" style="background:#EFEFEF;" {{N/A}}
+|10.1
+| style="background:#FACECD;" |'''51.5'''
+|38.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |13.1
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |14.0
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-26-06-2022.pdf Voxmeter]
+|20–26 Jun 2022
+| 1,002
+| style="background:#FACECD;" |'''26.3'''
+|15.2
+|4.3
+|7.5
+|8.3
+|7.9
+|13.0
+|1.4
+|5.8
+|3.2
+|0.3
+|0.5
+|2.1
+|0.6
+|3.6
+| style="background:#FACECD;" |'''52.5'''
+|43.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |8.6
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |8.5
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-19-06-2022.pdf Voxmeter]
+|13–19 Jun 2022
+| 1,049
+| style="background:#FACECD;" |'''26.5'''
+|17.4
+|4.2
+|6.5
+|8.0
+|7.5
+|14.2
+|0.7
+|6.2
+|3.8
+|0.7
+|0.0
+|3.1
+|0.8
+|0.4
+| style="background:#FACECD;" |'''50.0'''
+|49.6
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |0.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |2.7
+|-
+|[https://www.berlingske.dk/politik/sf-faar-bedste-gallup-maaling-i-11-aar-vi-har-taget-truslen-fra-putins Gallup]
+|14 Jun 2022
+| 1,544
+| style="background:#FACECD;" |'''25.4'''
+|14.6
+|5.3
+|6.3
+|9.8
+|7.8
+|13.8
+|1.0
+|6.1
+|3.6
+|1.4
+|0.3
+|3.6
+|0.5
+|0.5
+| style="background:#FACECD;" |'''51.1'''
+|48.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |2.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.9
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-12-06-2022.pdf Voxmeter]
+|6–12 Jun 2022
+| 1,032
+| style="background:#FACECD;" |'''26.4'''
+|17.7
+|5.6
+|7.1
+|8.6
+|6.5
+|12.9
+|1.2
+|5.3
+|3.5
+|0.7
+|0.1
+|3.7
+|0.3
+|0.4
+| style="background:#FACECD;" |'''50.2'''
+|49.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |0.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.6
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-05-06-2022.pdf Voxmeter]
+|30 May–5 Jun 2022
+|1,002
+| style="background:#FACECD;" |'''26.3'''
+|17.2
+|4.9
+|7.2
+|9.4
+|7.3
+|13.6
+|0.8
+|5.8
+|4.4
+|0.9
+|0.0
+|1.5
+|0.3
+|0.4
+| style="background:#FACECD;" |'''51.3'''
+|46.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.5
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.3
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-29-05-2022.pdf Voxmeter]
+|23–29 May 2022
+|1,001
+| style="background:#FACECD;" |'''24.9'''
+|16.1
+|4.0
+|7.1
+|9.5
+|7.7
+|14.9
+|1.3
+|6.9
+|3.6
+|0.7
+|0.2
+|1.4
+|0.7
+|1.0
+| style="background:#FACECD;" |'''51.4'''
+|46.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.7
+|-
+|[https://www.dr.dk/nyheder/politik/meningsmaalinger Epinion]
+|22–29 May 2022
+|2,096
+| style="background:#FACECD;" |'''27.2'''
+|15.7
+|5.3
+|6.1
+|8.4
+|6.5
+|13.0
+|1.0
+|7.0
+|3.9
+|0.6
+|0.5
+|1.9
+|1.6
+|1.3
+| style="background:#FACECD;" |'''51.3'''
+|45.5
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.3
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-22-05-2022.pdf Voxmeter]
+|16–22 May 2022
+|1,003
+| style="background:#FACECD;" |'''25.6'''
+|17.2
+|4.3
+|7.3
+|8.9
+|8.3
+|13.3
+|1.0
+|7.0
+|3.8
+|1.5
+|0.0
+|1.5
+|0.3
+|0.2
+| style="background:#FACECD;" |'''51.2'''
+|48.6
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.5
+|-
+|[https://www.dr.dk/nyheder/politik/foer-dagens-maraton-debat-i-folketinget-doedt-loeb-mellem-blaa-og-roed-blok Epinion]
+|11–18 May 2022
+|1,973
+| style="background:#FACECD;" |'''25.5'''
+|15.9
+|5.2
+|6.5
+|7.7
+|6.9
+|14.2
+|1.5
+|6.8
+|4.1
+|0.9
+|0.4
+|2.4
+|0.8
+| –
+|49.3
+| style="background:#C7D8FF;" |'''49.5'''
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |0.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |0.4
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-15-05-2022.pdf Voxmeter]
+|9–15 May 2022
+|1,028
+| style="background:#FACECD;" |'''26.2'''
+|16.3
+|5.1
+|7.6
+|7.9
+|8.7
+|14.2
+|0.8
+|5.8
+|3.1
+|1.3
+|0.2
+|1.9
+|0.6
+|0.3
+| style="background:#FACECD;" |'''51.7'''
+|47.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.0
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.9
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-08-05-2022.pdf Voxmeter]
+|2–8 May 2022
+|1,021
+| style="background:#FACECD;" |'''27.4'''
+|16.4
+|5.7
+|6.5
+|7.7
+|8.0
+|14.5
+|0.6
+|4.9
+|3.4
+|1.7
+|0.1
+|2.1
+|0.5
+|0.6
+| style="background:#FACECD;" |'''50.8'''
+|48.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.1
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.7
+|-
+|[https://www.berlingske.dk/politik/mette-frederiksen-faar-daarligste-gallup-maaling-i-naesten-tre-aar-spillet Gallup]
+|29 Apr–5 May 2022
+|1,415
+| style="background:#FACECD;" |'''25.7'''
+|15.1
+|5.5
+|6.3
+|9.0
+|8.0
+|15.2
+|0.9
+|5.3
+|3.2
+|1.7
+|0.3
+|3.0
+|0.7
+|0.1
+| style="background:#FACECD;" |'''50.9'''
+|49.0
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |1.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.7
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-01-05-2022.pdf Voxmeter]
+|{{nowrap|25 Apr–1 May 2022}}
+|1,067
+| style="background:#FACECD;" |'''28.9'''
+|15.6
+|4.4
+|7.1
+|7.9
+|7.7
+|13.9
+|1.0
+|5.3
+|4.0
+|0.9
+|0.1
+|2.1
+|0.2
+|0.9
+| style="background:#FACECD;" |'''52.9'''
+|46.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.3
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |8.4
+|-
+|[https://www.altinget.dk/artikel/ny-maaling-s-fastholder-oeget-opbakning-efter-ukraine-krigen-mens-v-har-mistet-al-fremgangen-igen Epinion]
+|20–27 Apr 2022
+|1,676
+| style="background:#FACECD;" |'''27.7'''
+|12.3
+|5.0
+|6.5
+|8.4
+|6.9
+|14.9
+|1.2
+|6.7
+|3.8
+|2.4
+|0.6
+|2.4
+|0.6
+| –
+| style="background:#FACECD;" |'''51.9'''
+|47.5
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.4
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-24-04-2022.pdf Voxmeter]
+|18–24 Apr 2022
+|1,002
+| style="background:#FACECD;" |'''27.9'''
+|15.6
+|5.2
+|8.2
+|8.6
+|7.2
+|13.8
+|1.2
+|5.7
+|3.1
+|1.3
+|0.0
+|1.4
+|0.4
+|0.4
+| style="background:#FACECD;" |'''53.5'''
+|46.1
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |8.5
+|-
+|[https://yougov.dk/news/2022/04/20/valgmaling-april-2022/ YouGov]
+|8–11 Apr 2022
+|1,241
+| style="background:#FACECD;" |'''29.2'''
+|11.1
+|4.5
+|3.2
+|8.1
+|6.3
+|17.2
+|0.5
+|9.4
+|3.1
+|1.1
+|0.8
+|4.8
+|1.0
+| –
+| style="background:#FACECD;" | '''48.8'''
+| 46.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |2.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |1.5
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-10-04-2022.pdf Voxmeter]
+|4–9 Apr 2022
+|1,001
+| style="background:#FACECD;" |'''26.0'''
+|16.2
+|6.1
+|7.5
+|9.0
+|7.5
+|13.5
+|1.3
+|6.1
+|2.4
+|1.3
+|0.1
+|2.2
+|0.2
+|0.6
+| style="background:#FACECD;" |'''51.6'''
+|47.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.7
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmetermaling-03-04-2022.pdf Voxmeter]
+|28 Mar–3 Apr 2022
+|1,007
+| style="background:#FACECD;" |'''26.0'''
+|15.4
+|5.7
+|6.7
+|9.4
+|7.6
+|14.5
+|1.2
+|5.5
+|2.9
+|1.6
+|0.1
+|2.3
+|0.5
+|0.6
+| style="background:#FACECD;" |'''51.5'''
+|47.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.6
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.7
+|-
+|[https://www.berlingske.dk/politik/han-er-blevet-kaldt-partiets-frelser-men-ny-gallup-er-dyster-laesning-for Gallup]
+|4 Apr 2022
+|≈1,500
+| style="background:#FACECD;" |'''26.7'''
+|13.4
+|4.9
+|6.2
+|8.5
+|7.6
+|15.4
+|0.5
+|6.7
+|3.0
+|1.6
+|0.4
+|3.6
+|0.9
+|0.6
+| style="background:#FACECD;" |'''50.8'''
+|48.6
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |2.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.6
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-27-03-2022.pdf Voxmeter]
+|21–27 Mar 2022
+|1,005
+| style="background:#FACECD;" |'''27.6'''
+|14.3
+|5.2
+|6.8
+|8.6
+|8.8
+|15.2
+|0.8
+|4.6
+|2.2
+|1.2
+|0.1
+|3.2
+|0.5
+|0.9
+| style="background:#FACECD;" |'''53.2'''
+|45.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.3
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |10.3
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-20-03-2022.pdf Voxmeter]
+|14–20 Mar 2022
+|1,003
+| style="background:#FACECD;" |'''26.5'''
+|15.1
+|4.4
+|7.4
+|9.5
+|8.5
+|15.9
+|0.7
+|5.1
+|2.6
+|1.3
+|0.1
+|1.8
+|0.2
+|0.9
+| style="background:#FACECD;" |'''52.9'''
+|46.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |8.8
+|-
+|[https://www.dr.dk/nyheder/politik/ny-maaling-lars-loekke-taet-paa-komme-i-folketinget Epinion]
+|8–15 Mar 2022
+|2,024
+| style="background:#FACECD;" |'''28.0'''
+|15.3
+|5.0
+|6.5
+|8.0
+|6.8
+|14.3
+|1.4
+|7.1
+|2.6
+|1.2
+|0.5
+|1.9
+|0.7
+| –
+| style="background:#FACECD;" |'''51.9'''
+|47.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.5
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.0
+|-
+|[https://yougov.dk/news/2022/04/20/valgmaling-marts-2022/ YouGov]
+|4–7 Mar 2022
+|1,248
+| style="background:#FACECD;" |'''30.5'''
+|8.7
+|5.0
+|5.5
+|7.1
+|7.9
+|16.7
+|0.6
+|9.1
+|2.4
+|0.9
+|0.6
+|4.8
+|0.3
+| –
+| style="background:#FACECD;" |'''52.5'''
+|47.6
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |9.1
+|-
+|[https://twitter.com/Annamidtgaard/status/1504340855196372994 Voxmeter]
+|7–12 Mar 2022
+|1,007
+| style="background:#FACECD;" |'''27.0'''
+|14.0
+|5.3
+|6.6
+|8.9
+|7.6
+|15.1
+|1.7
+|5.7
+|3.0
+|1.3
+|0.3
+|2.2
+|0.0
+|1.3
+| style="background:#FACECD;" |'''52.1'''
+|46.6
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.5
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.0
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-27-02-2022.pdf Voxmeter]
+|21–27 Feb 2022
+|1,004
+| style="background:#FACECD;" |'''26.5'''
+|14.5
+|4.3
+|7.7
+|8.2
+|8.9
+|16.8
+|1.3
+|5.6
+|3.1
+|0.9
+|0.0
+| –
+|0.3
+|1.9
+| style="background:#FACECD;" |'''52.9'''
+|45.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.0
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-20-02-2022.pdf Voxmeter]
+|14–20 Feb 2022
+|1,007
+| style="background:#FACECD;" |'''25.2'''
+|15.0
+|6.1
+|7.3
+|8.7
+|9.4
+|16.0
+|1.5
+|4.7
+|3.5
+|1.1
+|0.0
+| –
+|0.0
+|1.5
+| style="background:#FACECD;" |'''52.1'''
+|46.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.3
+|-
+|[https://www.dr.dk/nyheder/politik/foeringen-er-sat-over-styr-i-ny-maaling-blaa-blok-har-indhentet-roed-blok Epinion]
+|9–16 Feb 2022
+|2,081
+| style="background:#FACECD;" |'''24.8'''
+|13.0
+|6.3
+|6.8
+|8.2
+|7.8
+|16.8
+|0.6
+|8.2
+|2.5
+|1.5
+|0.4
+| –
+|0.9
+|2.2
+| style="background:#FACECD;" |'''49.5'''
+|48.3
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |1.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |0.8
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmetermaling-12-02-2022.pdf Voxmeter]
+|7–12 Feb 2022
+|1,003
+| style="background:#FACECD;" |'''24.9'''
+|14.1
+|5.6
+|6.9
+|8.9
+|9.5
+|16.6
+|1.4
+|5.0
+|3.1
+|1.5
+|0.0
+| –
+|0.2
+|2.4
+| style="background:#FACECD;" |'''51.7'''
+|45.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.8
+|-
+|[https://yougov.dk/news/2022/02/18/valgmaling-februar-2022/ YouGov]
+|4–6 Feb 2022
+|1,245
+| style="background:#FACECD;" |'''28.2'''
+|9.6
+|5.3
+|5.0
+|7.9
+|6.8
+|17.4
+|0.8
+|9.5
+|2.4
+|1.0
+|1.4
+|4.5
+|0.3
+| –
+|49.0
+| style="background:#C7D8FF;" |'''49.7'''
+| style="background:{{party color|Venstre (Denmark)}};color:#FFFFFF;" |0.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.7
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmetermaling-06-02-2022.pdf Voxmeter]
+|31 Jan–6 Feb 2022
+|1,024
+| style="background:#FACECD;" |'''24.0'''
+|14.8
+|6.2
+|7.2
+|9.2
+|9.1
+|16.1
+|0.9
+|5.4
+|2.8
+|1.8
+|0.2
+| –
+|0.2
+|2.1
+| style="background:#FACECD;" |'''50.8'''
+|47.1
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |4.2
+|-
+|[https://www.berlingske.dk/politik/aarets-foerste-gallup-maaling-roed-blok-i-foerersaedet-blaa-blok-staar-i Gallup]
+|26 Jan–3 Feb 2022
+|1,652
+| style="background:#FACECD;" |'''27.5'''
+|13.8
+|6.0
+|5.8
+|8.1
+|9.8
+|15.3
+|0.6
+|5.6
+|2.1
+|1.5
+|0.1
+|2.5
+|0.5
+|0.8
+| style="background:#FACECD;" |'''52.4'''
+|46.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.4
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |8.4
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmetermaling-30-01-2022.pdf Voxmeter]
+|24–30 Jan 2022
+|1,015
+| style="background:#FACECD;" |'''24.9'''
+|14.2
+|7.1
+|7.7
+|8.6
+|8.3
+|16.4
+|0.9
+|6.0
+|2.1
+|1.7
+|0.0
+| –
+|0.0
+|2.1
+| style="background:#FACECD;" |'''50.4'''
+|47.5
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |2.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.7
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmetermaling-23-01-2022.pdf Voxmeter]
+|17–23 Jan 2022
+|1,008
+| style="background:#FACECD;" |'''26.8'''
+|14.4
+|5.5
+|6.9
+|8.0
+|9.4
+|15.5
+|0.8
+|6.8
+|2.9
+|1.2
+|0.0
+| –
+|0.1
+|1.7
+| style="background:#FACECD;" |'''52.0'''
+|46.3
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.0
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmeterm%C3%A5ling-16-01-2022.pdf Voxmeter]
+|10–16 Jan 2022
+|1,003
+| style="background:#FACECD;" |'''25.8'''
+|15.1
+|5.3
+|7.5
+|8.5
+|9.3
+|14.6
+|1.1
+|5.9
+|3.3
+|1.4
+|0.0
+| –
+|0.3
+|1.9
+| style="background:#FACECD;" |'''52.5'''
+|45.6
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.9
+|-
+|[https://yougov.dk/news/2022/02/18/valgmaling-februar-2022/ YouGov]
+|7–10 Jan 2022
+|1,256
+| style="background:#FACECD;" |'''28.6'''
+|11.0
+|6.5
+|5.7
+|6.9
+|7.8
+|17.8
+|0.5
+|8.2
+|2.6
+|1.2
+|0.5
+|2.4
+|0.5
+| –
+| style="background:#FACECD;" |'''49.9'''
+|49.6
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |0.3
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |2.9
+|-
+|[https://voxmeter.dk/wp-content/uploads/Pdfs/Voxmeterm%C3%A5ling-08-01-2022.pdf Voxmeter]
+|3–8 Jan 2022
+|1,002
+| style="background:#FACECD;" |'''25.1'''
+|16.5
+|6.2
+|7.2
+|8.6
+|8.9
+|15.0
+|1.2
+|6.0
+|2.5
+|1.8
+|0.0
+| –
+|0.1
+|0.9
+| style="background:#FACECD;" |'''51.1'''
+|48.0
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.1
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |3.6
+|-
+| colspan="23" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+| ''[[2019 Danish general election|2019 election]]''
+| data-sort-value="2019-06-05" | ''5 Jun 2019''
+| ''–''
+| style="background:#FACECD;" | '''''25.9'''''
+| ''23.4''
+| ''8.7''
+| ''8.6''
+| ''7.7''
+| ''6.9''
+| ''6.6''
+| ''3.0''
+| ''2.4''
+| ''2.3''
+| ''1.7''
+| ''–''
+| ''–''
+| ''–''
+| ''–''
+| ''0.0''
+| style="background:#FACECD;" | '''''52.1'''''
+| ''47.8''
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" | ''4.3''
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |''8.7''
+|-
+|}
+
 === 2021 ===
 {| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
 |-

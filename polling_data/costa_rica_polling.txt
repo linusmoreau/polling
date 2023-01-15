@@ -1181,7 +1181,7 @@
 |15%
 |-
 |22-25 March 2022
-|Opol<ref>https://www.elmundo.cr/costa-rica/encuesta-opol-rodrigo-chaves-supera-ampliamente-a-jose-maria-figueres/?fbclid=IwAR2xuC7lWjdhdz_wfXHEBmzzzUaZ6-q7vD-TZWzkxPuReIRjob4dATEFW8E</ref>
+|Opol<ref>{{cite web | url=https://www.elmundo.cr/costa-rica/encuesta-opol-rodrigo-chaves-supera-ampliamente-a-jose-maria-figueres/?fbclid=IwAR2xuC7lWjdhdz_wfXHEBmzzzUaZ6-q7vD-TZWzkxPuReIRjob4dATEFW8E | title=ENCUESTA OPol: Rodrigo Chaves supera ampliamente a José María Figueres | date=26 March 2022 }}</ref>
 |style="background:#ffd800"|50.2% 
 |32.6% 
 |21.4% 

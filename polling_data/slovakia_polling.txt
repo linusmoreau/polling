@@ -1,775 +1,1397 @@
 === Voting intention estimates ===
 Voting intention estimates made by polling firms that are members of the [[ESOMAR|European Society for Opinion and Marketing Research]] (ESOMAR) and the [[Slovak Association of Research Agencies]] (SAVA). They are conducted in the form of telephone and personal interviews with selected persons, who form a [[Sampling (statistics)|representative sample]] reflecting the demographic parameters of the [[Demographics of Slovakia|population of Slovakia]]. Respondents are asked: "Imagine that a [[Next Slovak parliamentary election|parliamentary election]] would be held in [[Slovakia]] next Saturday. Would you vote in them and if so, which party would you vote for?" Respondents are read a [[List of political parties in Slovakia|list]] of currently active political parties.
 
-Results are published that include only the answers of respondents who would vote for a particular party. The table shows political parties that have exceeded the electoral threshold in the [[2020 Slovak parliamentary election|last election]] or oscillate around 4 percent or more in polls. The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party alliances; 10% for four-or-more party alliance. 76 seats are required for an [[absolute majority]] in the [[National Council (Slovakia)|National council]].
+Results are published that include only the answers of respondents who would vote for a particular party. The table shows political parties that have exceeded the electoral threshold in the [[2020 Slovak parliamentary election|last parliamentary election]] or oscillate above 4% in the polls. The [[electoral threshold]] is 5% for a single party, 7% for two-, three-party alliances; 10% for four-or-more party alliance. 76 seats are required for an [[absolute majority]] in the [[National Council (Slovakia)|National council]].
 
-{|class="wikitable" style="text-align:center; font-size:90%; line-height:14px;"
-
-|+
-! rowspan="2" |Polling<br>firm
-! rowspan="2" |Fieldwork<br>date
-! rowspan="2" |Sample<br>size
-![[Ordinary People and Independent Personalities|OĽaNO]]
-![[Direction – Slovak Social Democracy|SMER<br>–SSD]]
-![[We Are Family (Slovakia)|SR]]
-![[People's Party Our Slovakia|ĽSNS]]
-![[Progressive Slovakia|PS]]
-![[Freedom and Solidarity|SaS]]
-![[For the People (Slovakia)|ZĽ]]
-![[Christian Democratic Movement|KDH]]
-![[Alliance (Slovak political party)|ALI]]
-![[Voice – Social Democracy|HLAS<br>–SD]]
-![[Republic (Slovakia)|REP]]
-! rowspan="2" |Others
-! rowspan="2" |Lead
+{|class="wikitable sortable" style="text-align:center; font-size:90%; line-height:14px;"
+|- style="font-size:95%";
+!rowspan="4"|Polling<br />firm
+!style="width:100px;" data-sort-type="date"; rowspan="4"|Date
+!class="unsortable" rowspan="4"|Sample<br />size
+!class="unsortable" rowspan="3"|[[Ordinary People (Slovakia)|OĽaNO]]
+!class="unsortable" rowspan="3"|[[Direction – Social Democracy|SMER-SD]]
+!class="unsortable" rowspan="3"|[[We Are Family (Slovakia)|SR]]
+!class="unsortable" rowspan="3"|[[People's Party Our Slovakia|ĽSNS]]
+!class="unsortable" colspan="2"|PS-SPOLU
+!class="unsortable" rowspan="3"|[[Freedom and Solidarity|SaS]]
+!class="unsortable" rowspan="3"|[[For the People (Slovakia)|ZĽ]]
+!class="unsortable" rowspan="3"|[[Christian Democratic Movement|KDH]]
+!class="unsortable"|
+!class="unsortable" colspan="3"|[[Alliance (Slovak political party)|ALI]]
+!class="unsortable" rowspan="3"|[[Slovak National Party|SNS]]
+! rowspan="3" class="unsortable" | [[Good Choice (Slovakia)|DV]]
+!class="unsortable" rowspan="3"|[[Voice – Social Democracy|HLAS-SD]]
+!class="unsortable" rowspan="3"|[[REPUBLIC (Slovakia)|REP]]
+!class="unsortable" style="width:20px;" rowspan="4"| Others
+|- style="font-size:95%";
+!class="unsortable" rowspan="2"|[[Progressive Slovakia|PS]]
+!class="unsortable" rowspan="2" style="letter-spacing:-1px;"|[[TOGETHER – Civic Democracy|SPOLU]]
+!class="unsortable" colspan="3"|[[:sk:Magyar Közösségi Összefogás – Maďarská komunitná spolupatričnosť|MKÖ-MKS]]
+!class="unsortable" rowspan="2"|[[Most–Híd|M-H]]
+|- style="font-size:95%";
+!class="unsortable"|[[Hungarian Forum|MF]]
+!class="unsortable"|[[Party of the Hungarian Community|SMK-MKP]]
+!class="unsortable"|Ö-S
 |-
-!style="background:#b2c933;"|
-!style="background:#d82222;"|
-!style="background:#034b9f;"|
-!style="background:#277d2a;"|
-!style="background:#00bdff;"|
-!style="background:#a7cf35;"|
-!style="background:#fdbb12;"|
-!style="background:#173a70;"|
-!style="background:#F48B24;"|
-!style="background:#f90311;"|
-!style="background:#e30512;"|
+!style="background:#BED62F; width:40px;"|
+!style="background:{{party color|Direction – Social Democracy}}; width:40px;"|
+!style="background:{{party color|We Are Family (Slovakia)}}; width:40px;"|
+!style="background:{{party color|Kotleba – People's Party Our Slovakia}}; width:40px;"|
+!style="background:{{party color|Progressive Slovakia (2021)}}; width:40px;"|
+!style="background:#007FFF; width:40px;"|
+!style="background:{{party color|Freedom and Solidarity}}; width:40px;"|
+!style="background:{{party color|For the People (Slovakia)}}; width:40px;"|
+!style="background:{{party color|Christian Democratic Movement}}; width:40px;"|
+!style="background:#275D33; width:40px;"|
+!style="background:{{party color|Party of the Hungarian Community}}; width:40px;"|
+!style="background:#00A652; width:40px;"|
+!style="background:{{party color|Most–Híd}}; width:40px;"|
+!style="background:{{party color|Slovak National Party}}; width:40px;"|
+!style="background:#FF002B; width:40px;"|
+!style="background:{{party color|Voice – Social Democracy}}; width:40px;"|
+!style="background:{{party color|REPUBLIC (Slovakia)}}; width:40px;"|
+|-
+|Median<ref>{{Cite web |url=https://twitter.com/europeelects/status/1608780767458430976 |access-date=2022-12-30 |website=Twitter |language=en}}</ref>
+|19–23 Dec 2022 
+|1,006
+|6.3%
+|16.7%
+|6.0%
+|2.0%
+|14.1%
+|–
+|6.5%
+|2.0%
+|6.1%
+|–
+| colspan="3" |2.7%
+|–
+|–
+| style="background:#f9acb1;" | '''19.1%'''
+|9.6%
+|–
+|-
+|Focus<ref>{{cite web |title=PRESS RELEASE |url=https://www.focus-research.sk/wp-content/uploads/2022/12/Volebne-preferencie-politickych-stran_DECEMBER-II.-2022.pdf |website=focus-research.sk |language=sk |date=21 December 2022}}</ref>
+|data-sort-value="2022-12-20"|16–20 Dec 2022
+|1,180
+|7.4%
+|16.6%
+|8.2%
+|3.1%
+|12.8%
+|1.0%
+|5.6%
+|2.2%
+|5.9%
+|1.1%
+|colspan=3|4.4%
+|3.4%
+|1.1%
+| style="background:#f9acb1;" | '''19.0%'''
+|6.9%
+|1.3%
+|-
+|||data-sort-value="2022-12-15"|15 Dec 2022|| colspan="19" |'''Heger Cabinet loses vote of no-confidence'''
+|-
+|Ako<ref>{{cite web |title=Prieskum volebných preferencií do NR SR – DECEMBER 202 |url=https://ako.sk/wp-content/uploads/2022/12/ag.AKO_VOLEBNE_PREF_DECEMBER_2022.pdf |website=ako.sk |language=sk |date=15 December 2022}}</ref>
+|data-sort-value="2022-12-12"|6–12 Dec 2022
+|1,000
+|8.0%
+|16.1%
+|7.7%
+|1.7%
+|11.8%
+|0.2%
+|9.9%
+|1.7%
+|5.5%
+|1.3%
+|colspan=3|3.1%
+|4.0%
+|0.9%
+| style="background:#f9acb1;" | '''20.2%'''
+|6.6%
+|1.4%{{efn|National Coalition 0.8%, [[Life – National Party]] 0.2%, [[Socialisti.sk]] 0.2%, [[Slovak PATRIOT]] 0.2%}}
+|-
+|Focus<ref>{{cite web |title=PRESS RELEASE |url=https://www.focus-research.sk/wp-content/uploads/2022/12/Volebne-preferencie-politickych-stran_DECEMBER-2022.pdf |website=focus-research.sk |language=sk |date=11 December 2022}}</ref>
+|data-sort-value="2022-12-07"|30 Nov–7 Dec 2022
+|1,007
+|7.0%
+|15.8%
+|7.3%
+|3.0%
+|10.3%
+|0.7%
+|7.7%
+|2.7%
+|6.0%
+|1.6%
+|colspan=3|5.1%
+|3.7%
+|1.1%
+| style="background:#f9acb1;" | '''19.9%'''
+|7.9%
+|0.2%{{efn|[[Communist Party of Slovakia]] 0.1%, [[Slovak PATRIOT]] 0.1%}}
+|-
+|Polis Slovakia<ref>{{cite web |title=Volebný prieskum PORIADNE zamiešal karty: Ktorá strana by dnes vyhrala voľby? Budete prekvapení |url=https://www1.pluska.sk/spravy/z-domova/volebny-prieskum-poriadne-zamiesal-karty-ktora-strana-dnes-vyhrala-volby-budete-prekvapeni |website=www1.pluska.sk |language=sk |date=5 December 2022}}</ref>
+|data-sort-value="2022-11-28"|25–30 Nov 2022
+|1,058
+|6.1%
+|20.0%
+|5.5%
+|2.1%
+|8.8%
+|–
+|7.0%
+|3.1%
+|5.0%
+|–
+|colspan=3|4.8%
+|3.6%
+|2.9%
+| style="background:#f9acb1;" | '''20.1%'''
+|7.2%
+|3.8%{{efn|[[Life – National Party]] 2.8%, National Coalition 0.5%, [[Socialisti.sk]] 0.5%}}
+|-
+|Ipsos<ref>{{cite web |title=Slowakei: Sonntagsfrage von Ipsos vom 28.11.2022 |url=https://politpro.eu/de/slowakei/wahlumfragen/46774/ipsos/2022-11-28 |website=politpro.eu |language=de }}</ref>
+|data-sort-value="2022-11-28"|22–28 Nov 2022
+|1,023
+|8.0%
+|15.6%
+|7.0%
+|2.9%
+|10.4%
+|–
+|7.8%
+|3.4%
+|7.4%
+|–
+|colspan=3|3.8%
+|2.6%
+|–
+| style="background:#f9acb1;" | '''19.7%'''
+|6.0%
+|5.4%
+|-
+|AKO<ref>{{cite web |title=Exkluzívny prieskum agentúry AKO pre Na Hrane TV JOJ: 8 strán v parlamente - vysokí Progresívci |url=https://plus.noviny.sk/719343-exkluzivny-prieskum-agentury-ako-pre-na-hrane-tv-joj-8-stran-v-parlamente-vysoki-progresivci |website=plus.noviny.sk |language=sk}}</ref>
+|data-sort-value="2022-06-27"|8–11 Nov 2022
+|1,000
+|7.5%
+|16.0%
+|6.9%
+|1.9%
+|11.5%
+|0.4%
+|10.8%
+|1.9%
+|6.1%
+|1.8%
+|colspan=3|2.6%
+|4.2%
+|1.5%
+| style="background:#f9acb1;" | '''19.5%'''
+|6.3%
+|1.1%
+|-
+|Median<ref>{{cite web |title=Veľké fiasko pre Matoviča: OĽaNO pred bránami parlamentu. Prvú trojicu v prieskume uzatvárajú extrémisti |url=https://spravy.pravda.sk/domace/clanok/646850-prieskum-na-prvych-troch-miestach-hlas-smer-a-republika-olano-by-ostalo-pred-branami-parlamentu/ |website=Pravda.sk |language=sk-SK |date=11 November 2022}}</ref>
+|data-sort-value="2022-06-27"|25 Oct–8 Nov 2022
+|1,011
+|3.9%
+|14.2%
+|5.8%
+|3.9%
+|9.8%
+|–
+|6.5%
+|2.4%
+|5.8%
+|–
+|colspan=3|–
+|–
+|–
+| style="background:#f9acb1;" | '''18.6%'''
+|11.8%
+|17.3%
+|-
+|Ipsos<ref>{{cite web |title=Slowakei: Sonntagsfrage von Ipsos vom 21.10.2022 |url=https://politpro.eu/de/slowakei/wahlumfragen/46037/ipsos/2022-10-21 |website=politpro.eu |language=de }}</ref>
+|data-sort-value="2022-10-21"|18–21 Oct 2022
+|1,018
+|7.9%
+|14.8%
+|7.5%
+|2.6%
+|10.9%
+|1.0%
+|8.5%
+|2.8%
+|6.5%
+|1.0%
+|colspan=3|2.9%
+|3.0%
+|1.1%
+| style="background:#f9acb1;" | '''20.2%'''
+|6.8%
+|2.5%
+|-
+|Focus{{Ref|1=https://domov.sme.sk/c/23021748/prieskum-preferencii-focus-september.html}}
+|data-sort-value="2022-06-27"|21–27 Sep 2022
+|1,009
+|7.2%<br>{{font|size=80%|font=Arial|text=13}}
+|15.3%<br>{{font|size=80%|font=Arial|text=28}}
+|7.0%<br>{{font|size=80%|font=Arial|text=13}}
+|2.9%<br>{{font|size=80%|font=Arial|text=0}}
+|9.6%<br>{{font|size=80%|font=Arial|text=18}}
+|0.7%<br>{{font|size=80%|font=Arial|text=0}}
+|8.2%<br>{{font|size=80%|font=Arial|text=15}}
+|2.4%<br>{{font|size=80%|font=Arial|text=0}}
+|6.2%<br>{{font|size=80%|font=Arial|text=11}}
+|1.7%<br>{{font|size=80%|font=Arial|text=0}}
+|colspan=3|4.6%<br>{{font|size=80%|font=Arial|text=0}}
+|3.9%<br>{{font|size=80%|font=Arial|text=0}}
+|1.5%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''20.3%'''<br>{{font|size=80%|font=Arial|text=38}}
+|7.8%<br>{{font|size=80%|font=Arial|text=14}}
+|-
+|Ipsos<ref>{{cite web |title=Slowakei: Sonntagsfrage von Ipsos vom 20.09.2022 |url=https://politpro.eu/de/slowakei/wahlumfragen/44765/ipsos/2022-09-20 |website=politpro.eu |language=de }}</ref>
+|data-sort-value="2022-09-20"|14–20 Sep 2022
+|1,018
+|7.8%
+|15.5%
+|7.5%
+|2.7%
+|11.6%
+| –
+|9.3%
+|1.7%
+|6.5%
+|–
+|colspan=3|2.1%
+|2.8%
+|–
+| style="background:#f9acb1;" | '''18.3%'''
+|7.0%
+|7.2%
+|-
+|[https://dennikn.sk/minuta/3012215/ AKO]
+|data-sort-value="2022-09-14"|8 Sep–14 Sep 2022
+|1000
+|7.9% <br>{{font|size=80%|font=Arial|text=14}}  
+|15.0% <br>{{font|size=80%|font=Arial|text=27}}
+|7.6% <br>{{font|size=80%|font=Arial|text=13}}
+|2.3% <br>{{font|size=80%|font=Arial|text=0}}
+|10.0% <br>{{font|size=80%|font=Arial|text=18}}
+| 
+|12.9% <br>{{font|size=80%|font=Arial|text=23}}
+|2.3% <br>{{font|size=80%|font=Arial|text=0}}
+|6.2% <br>{{font|size=80%|font=Arial|text=11}}
+|
+| colspan="3" |2.7% <br>{{font|size=80%|font=Arial|text=0}}
+|4.2% <br>{{font|size=80%|font=Arial|text=0}}
+|1.0% <br>{{font|size=80%|font=Arial|text=0}}
+| bgcolor="#f9acb1" |'''19.3%''' <br>{{font|size=80%|font=Arial|text=35}}
+|5.2% <br>{{font|size=80%|font=Arial|text=9}}
+|4.4%
+|-
+|Polis<br>Slovakia{{Ref|https://www.topky.sk/cl/10/2374923/EXKLUZIVNY-PRIESKUM-Volby-by-s-prehladom-vyhral-Smer--Slovaci-maju-jasno-vo-vinnikovi-krizy}}
+|data-sort-value="2022-09-04"|28 Aug–4 Sep 2022
+|1,003
+|6.1%<br>{{font|size=80%|font=Arial|text=11}}
+| style="background:#f90311;" | '''19.1%'''<br>{{font|size=80%|font=Arial|text=34}}
+|6.9%<br>{{font|size=80%|font=Arial|text=12}}
+|3.4%<br>{{font|size=80%|font=Arial|text=0}}
+|7.1%<br>{{font|size=80%|font=Arial|text=13}}
+|0.2%<br>{{font|size=80%|font=Arial|text=0}}
+|15.6%<br>{{font|size=80%|font=Arial|text=28}}
+|
+|5.1%<br>{{font|size=80%|font=Arial|text=9}}
+|
+|colspan="3"|4.5%<br>{{font|size=80%|font=Arial|text=0}}
+|3.4%<br>{{font|size=80%|font=Arial|text=0}}
+|2.2%<br>{{font|size=80%|font=Arial|text=0}}
+|17.0%<br>{{font|size=80%|font=Arial|text=31}}
+|7.1%<br>{{font|size=80%|font=Arial|text=13}}
+|2.3%{{efn|[[Life – National Party]] 2.2%}}
+|-
+|AKO<ref>{{cite web |title=Slowakei: Sonntagsfrage von AKO vom 18.08.2022 |url=https://politpro.eu/de/slowakei/wahlumfragen/44360/ako/2022-08-18 |website=politpro.eu |language=de }}</ref>
+|data-sort-value="2022-08-18"|15–18 Aug 2022
+|1,000
+|8.4%
+|14.9%
+|6.6%
+|2.1%
+|9.9%
+|–
+|13.1%
+|2.1%
+|6.9%
+|–
+|colspan=3|2.5%
+|4.1%
+|1.2%
+| style="background:#f9acb1;" | '''19.2%'''
+|5.3%
+|3.7%
+|-
+|Ipsos<ref>{{cite web |title=Slowakei: Sonntagsfrage von Ipsos vom 08.08.2022 |url=https://politpro.eu/de/slowakei/wahlumfragen/21204/ipsos/2022-08-08 |website=politpro.eu |language=de }}</ref>
+|data-sort-value="2022-08-08"|29 Jul–8 Aug 2022
+|1,038
+|7.8%
+|15.5%
+|6.4%
+|2.9%
+|11.4%
+|–
+|12.2%
+|3.0%
+|6.3%
+|–
+|colspan=3|2.1%
+|2.3%
+|–
+| style="background:#f9acb1;" | '''17.2%'''
+|7.3%
+|5.6%
+|-
+|AKO{{Ref|1=https://www.aktuality.sk/clanok/HdonNlJ/prieskum-olano-si-mierne-polepsilo-no-koalicna-kriza-do-preferencii-zasiahla-len-minimalne/?_ga=2.190050146.832344855.1658265343-904578098.1658265343}}
+|data-sort-value="2022-07-14"|7–14 Jul 2022
+|1,000
+|9.2%<br>{{font|size=80%|font=Arial|text=16}}
+|14.6%<br>{{font|size=80%|font=Arial|text=25}}
+|6.0%<br>{{font|size=80%|font=Arial|text=10}}
+|1.5%<br>{{font|size=80%|font=Arial|text=0}}
+|9.8%<br>{{font|size=80%|font=Arial|text=17}}
+|
+|14.7%<br>{{font|size=80%|font=Arial|text=26}}
+|2.2%<br>{{font|size=80%|font=Arial|text=0}}
+|7.2%<br>{{font|size=80%|font=Arial|text=12}}
+|1.8%<br>{{font|size=80%|font=Arial|text=0}}
+|colspan=3|1.1%<br>{{font|size=80%|font=Arial|text=0}}
+|4.1%<br>{{font|size=80%|font=Arial|text=0}}
+|1.5%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''20.0%'''<br>{{font|size=80%|font=Arial|text=35}}
+|5.4%<br>{{font|size=80%|font=Arial|text=9}}
+|8.3%
+|-
+|||data-sort-value="2022-07-06"|6 Jul 2022|| colspan="19" |'''SaS terminates its coalition agreement with the other government parties.'''
+|-
+|Focus{{Ref|1=https://www.aktuality.sk/clanok/MQ3vAsW/prieskum-volby-by-vyhral-hlas-nasleduju-smer-sd-a-sas/?_ga=2.31205366.832344855.1658265343-904578098.1658265343}}
+|data-sort-value="2022-06-27"|20–27 Jun 2022
+|1,005
+|7.1%<br>{{font|size=80%|font=Arial|text=13}}
+|14.4%<br>{{font|size=80%|font=Arial|text=26}}
+|7.6%<br>{{font|size=80%|font=Arial|text=14}}
+|3.3%<br>{{font|size=80%|font=Arial|text=0}}
+|9.1%<br>{{font|size=80%|font=Arial|text=17}}
+|1.0%<br>{{font|size=80%|font=Arial|text=0}}
+|9.6%<br>{{font|size=80%|font=Arial|text=18}}
+|2.1%<br>{{font|size=80%|font=Arial|text=0}}
+|6.7%<br>{{font|size=80%|font=Arial|text=12}}
+|1.8%<br>{{font|size=80%|font=Arial|text=0}}
+|colspan=3|4.1%<br>{{font|size=80%|font=Arial|text=0}}
+|4.0%<br>{{font|size=80%|font=Arial|text=0}}
+|1.2%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''20.5%'''<br>{{font|size=80%|font=Arial|text=38}}
+|6.8%<br>{{font|size=80%|font=Arial|text=12}}
+|8.7%{{efn|Umiernení 1.2%}}
+|-
+|AKO{{Ref|1=https://www.aktuality.sk/clanok/pK5pK4h/prieskum-hlas-odskocil-od-superov-opat-prekonal-20-percentnu-hranicu/?_ga=2.127175620.832344855.1658265343-904578098.1658265343}}
+|data-sort-value="2022-06-10"|7–10 Jun 2022
+|1,000
+|8.5%<br>{{font|size=80%|font=Arial|text=15}}
+|14.8%<br>{{font|size=80%|font=Arial|text=26}}
+|5.7%<br>{{font|size=80%|font=Arial|text=10}}
+|1.8%<br>{{font|size=80%|font=Arial|text=0}}
+|9.9%<br>{{font|size=80%|font=Arial|text=17}}
+|
+|14.3%<br>{{font|size=80%|font=Arial|text=25}}
+|2.2%<br>{{font|size=80%|font=Arial|text=0}}
+|7.3%<br>{{font|size=80%|font=Arial|text=13}}
+|1.9%<br>{{font|size=80%|font=Arial|text=0}}
+|colspan=3|1.9%<br>{{font|size=80%|font=Arial|text=0}}
+|4.2%<br>{{font|size=80%|font=Arial|text=0}}
+|
+| style="background:#f9acb1;" | '''20.2%'''<br>{{font|size=80%|font=Arial|text=35}}
+|5.2%<br>{{font|size=80%|font=Arial|text=9}}
+|8.2%
 |-
 |Focus{{Ref|https://dennikn.sk/2880500/focus-hlas-ma-znovu-20-percent-smer-je-druhy-progresivci-predbehli-olano/}}
-|25–31<br>May 2022
+|data-sort-value="2022-05-31"|25–31 May 2022
 |1,008
 |8.1%<br>{{font|size=80%|font=Arial|text=15}}
 |14.9%<br>{{font|size=80%|font=Arial|text=27}}
 |5.6%<br>{{font|size=80%|font=Arial|text=10}}
 |2.8%<br>{{font|size=80%|font=Arial|text=0}}
 |9.1%<br>{{font|size=80%|font=Arial|text=17}}
+|1.1%<br>{{font|size=80%|font=Arial|text=0}}
 |11.1%<br>{{font|size=80%|font=Arial|text=20}}
 |3.1%<br>{{font|size=80%|font=Arial|text=0}}
 |6.5%<br>{{font|size=80%|font=Arial|text=12}}
+|1.1%<br>{{font|size=80%|font=Arial|text=0}}
+|colspan=3|3.7%<br>{{font|size=80%|font=Arial|text=0}}
 |3.7%<br>{{font|size=80%|font=Arial|text=0}}
+|1.4%<br>{{font|size=80%|font=Arial|text=0}}
 | style="background:#f9acb1;" | '''20.3%'''<br>{{font|size=80%|font=Arial|text=37}} 
 |6.8%<br>{{font|size=80%|font=Arial|text=12}}
 | 8.0%
-| style="background:#f90311;" |5.4%
 |-
 |AKO{{Ref|https://www.postoj.sk/106287/volby-by-v-maji-vyhral-hlas-pred-sas-a-smerom/}}
-|10–16<br>May 2022
+|data-sort-value="2022-05-16"|10–16 May 2022
 |1,000
 |10.7%<br>{{font|size=80%|font=Arial|text=18}}
 |13.5%<br>{{font|size=80%|font=Arial|text=24}}
 |6.1%<br>{{font|size=80%|font=Arial|text=10}}
 |1.1%<br>{{font|size=80%|font=Arial|text=0}}
 |9.7%<br>{{font|size=80%|font=Arial|text=17}}
+|
 |14.3%<br>{{font|size=80%|font=Arial|text=25}}
 |2.1%<br>{{font|size=80%|font=Arial|text=0}}
 |7.7%<br>{{font|size=80%|font=Arial|text=13}}
-|2.4%<br>{{font|size=80%|font=Arial|text=0}}
+|2.0%<br>{{font|size=80%|font=Arial|text=0}}
+|colspan="3"|2.4%<br>{{font|size=80%|font=Arial|text=0}}
+|4.0%<br>{{font|size=80%|font=Arial|text=0}}
+|1.5%<br>{{font|size=80%|font=Arial|text=0}}
 | style="background:#f9acb1;" | '''18.2%'''<br>{{font|size=80%|font=Arial|text=32}}
 |6.2%<br>{{font|size=80%|font=Arial|text=11}}
-|8.0%
-| style="background:#f90311;" | 3.9%
+|8.0%{{efn|Umiernení 1.5%}}
 |-
-|AKO{{Ref|https://dennikn.sk/minuta/2897392/}}
-|7–10<br>May 2022
-|1,000
-|8.5%
-|14.8%
-|5.7%
-|1.8%
-|9.9%
-|14.3%
-|2.2%
-|7.3%
-|1.9%
-| style="background:#f9acb1;" | '''20.3%'''
-|5.2%
-|8.1%
-| style="background:#f90311;" | 5.5%
+|Polis<br>Slovakia{{Ref|https://www.bystricoviny.sk/titulka/prieskum-agentury-polis-hlas-so-smerom-v-cele-plece-pri-pleci-za-nimi-s-odstupom-sas/}}
+|data-sort-value="2022-04-23"|18–23 Apr 2022
+|1,003
+|7.8%<br>{{font|size=80%|font=Arial|text=13}}
+| style="background:#f90311;" | '''17.9%'''<br>{{font|size=80%|font=Arial|text=31}}
+|7.2%<br>{{font|size=80%|font=Arial|text=12}}
+|3.1%<br>{{font|size=80%|font=Arial|text=0}}
+|5.7%<br>{{font|size=80%|font=Arial|text=10}}
+|0.5%<br>{{font|size=80%|font=Arial|text=0}}
+|13.2%<br>{{font|size=80%|font=Arial|text=23}}
+|1.0%<br>{{font|size=80%|font=Arial|text=0}}
+|5.3%<br>{{font|size=80%|font=Arial|text=9}}
+|
+|colspan="3"|6.1%<br>{{font|size=80%|font=Arial|text=11}}
+|3.1%<br>{{font|size=80%|font=Arial|text=0}}
+|2.8%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''17.9%'''<br>{{font|size=80%|font=Arial|text=31}}
+|6.0%<br>{{font|size=80%|font=Arial|text=10}}
+|8.8%{{efn|[[Homeland (political party)|Homeland]] 1.9%, [[Life – National Party]] 0.5%}}
 |-
 |AKO{{Ref|https://korkep.sk/cikkek/belfold/2022/04/21/ako-felmeres-melyen-3-szazalek-alatt-a-szovetseg-aliancia/}}
-|5–11<br>Apr 2022
+|data-sort-value="2022-04-11"|5–11 Apr 2022
 |1,000
 |8.9%<br>{{font|size=80%|font=Arial|text=16}}
 |14.5%<br>{{font|size=80%|font=Arial|text=26}}
 |6.6%<br>{{font|size=80%|font=Arial|text=12}}
 |3.0%<br>{{font|size=80%|font=Arial|text=0}}
 |8.7%<br>{{font|size=80%|font=Arial|text=15}}
+|0.6%<br>{{font|size=80%|font=Arial|text=0}}
 |14.0%<br>{{font|size=80%|font=Arial|text=25}}
 |2.0%<br>{{font|size=80%|font=Arial|text=0}}
 |6.5%<br>{{font|size=80%|font=Arial|text=11}}
-|2.6%<br>{{font|size=80%|font=Arial|text=0}}
+|2.1%<br>{{font|size=80%|font=Arial|text=0}}
+| colspan="3" |2.6%<br>{{font|size=80%|font=Arial|text=0}}
+|3.9%<br>{{font|size=80%|font=Arial|text=0}}
+|0.9%<br>{{font|size=80%|font=Arial|text=0}}
 | style="background:#f9acb1;" | '''18.9%'''<br>{{font|size=80%|font=Arial|text=34}}
 |6.2%<br>{{font|size=80%|font=Arial|text=11}}
-|8.1%
-| style="background:#f90311;" | 4.4%
+|8.1%{{efn|[[Green Party (Slovakia)|Green Party]] 0.2%, [[Communist Party of Slovakia]] 0.2%, [[Civic Conservative Party (Slovakia)|Civic Conservative Party]] 0.2%}}
 |-
 |Focus{{Ref|https://tvnoviny.sk/na-telo/clanok/159377-prieskum-na-telo}}
-|30 Mar<br>–6 Apr 2022
+|data-sort-value="2022-04-06"|{{nowrap|30 Mar–6 Apr 2022}}
 |1,007
-|8.1%<br>{{font|size=80%|font=Arial|text=15}}
-|15.1%<br>{{font|size=80%|font=Arial|text=28}}
-|7.5%<br>{{font|size=80%|font=Arial|text=14}}
-|4.5%<br>{{font|size=80%|font=Arial|text=0}}
-|7.3%<br>{{font|size=80%|font=Arial|text=14}}
-|10.3%<br>{{font|size=80%|font=Arial|text=19}}
-|2.5%<br>{{font|size=80%|font=Arial|text=0}}
-|6.3%<br>{{font|size=80%|font=Arial|text=12}}
-|4.4%<br>{{font|size=80%|font=Arial|text=0}}
-| style="background:#f9acb1;" | '''19.0%'''<br>{{font|size=80%|font=Arial|text=35}}
-|6.9%<br>{{font|size=80%|font=Arial|text=13}}
+|8.1% <br/>{{font|size=80%|font=Arial|text=15}}
+|15.1% <br/>{{font|size=80%|font=Arial|text=28}}
+|7.5% <br/>{{font|size=80%|font=Arial|text=14}}
+|4.5% <br/>{{font|size=80%|font=Arial|text=0}}
+|7.3% <br/>{{font|size=80%|font=Arial|text=14}}
+|0.6%<br>{{font|size=80%|font=Arial|text=0}}
+|10.3% <br/>{{font|size=80%|font=Arial|text=19}}
+|2.5% <br/>{{font|size=80%|font=Arial|text=0}}
+|6.3% <br/>{{font|size=80%|font=Arial|text=12}}
+|1.6%<br>{{font|size=80%|font=Arial|text=0}}
+| colspan="3" |4.4% <br/>{{font|size=80%|font=Arial|text=0}}
+|3.6%<br>{{font|size=80%|font=Arial|text=0}}
+|1.9%<br>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''19.0%'''
+|6.9% <br/>{{font|size=80%|font=Arial|text=13}}
 |8.1%
-| style="background:#f90311;" | 3.9%
 |-
-|AKO{{Ref|https://ako.sk/wp-content/uploads/2022/03/ag.AKO_VOLEBNE_PREF_MAREC_2022.pdf}}
-|8–11<br>Mar 2022
+|Median{{Ref|https://spravy.pravda.sk/domace/clanok/619234-priekum-median-hlas-a-smer-plece-pri-pleci-olano-sa-derie-hore/}}
+|data-sort-value="2022-03-03"|1–3 Mar 2022
 |1,000
-|9.4%
-|14.0%
-|6.2%
-|1.8%
-|8.9%
-|14.7%
-|2.6%
-|7.4%
-|3.0%
-| style="background:#f9acb1;" | '''18.0%'''
-|5.7%
-|8.3%
-| style="background:#f90311;" | 3.3%
+|10.7%
+| style="background:#f90311;" | '''14.1%'''
+|6.7%
+|2.3%
+|11.0%
+|1.6%
+|13.2%
+|2.8%
+|6.8%
+|
+| colspan="3" |2.9%
+|1.1%
+|2.0%
+| style="background:#f9acb1;" | '''14.1%'''
+|7.0%
+|8.4%
 |-
 |Focus{{Ref|1=https://dennikn.sk/2754456/focus-volby-by-vyhral-hlas-pred-smerom-s-republikou-by-mali-v-parlamente-tesnu-vacsinu/?ref=tit}}
-|22 Feb<br>–1 Mar 2022
+|data-sort-value="2022-03-01"|{{nowrap|22 Feb–1 Mar 2022}}
 |1,003
-|7.8%<br>{{font|size=80%|font=Arial|text=14}}
-|15.6%<br>{{font|size=80%|font=Arial|text=29}}
-|6.3%<br>{{font|size=80%|font=Arial|text=12}}
-|3.8%<br>{{font|size=80%|font=Arial|text=0}}
-|8.1%<br>{{font|size=80%|font=Arial|text=15}}
-|12.0%<br>{{font|size=80%|font=Arial|text=22}}
-|2.7%<br>{{font|size=80%|font=Arial|text=0}}
-|6.0%<br>{{font|size=80%|font=Arial|text=11}}
-|4.6%<br>{{font|size=80%|font=Arial|text=0}}
-| style="background:#f9acb1;" | '''18.5%'''<br>{{font|size=80%|font=Arial|text=34}}
-|7.0%<br>{{font|size=80%|font=Arial|text=13}}
+|7.8% <br/>{{font|size=80%|font=Arial|text=14}}
+|15.6% <br/>{{font|size=80%|font=Arial|text=29}}
+|6.3% <br/>{{font|size=80%|font=Arial|text=12}}
+|3.8% <br/>{{font|size=80%|font=Arial|text=0}}
+|8.1% <br/>{{font|size=80%|font=Arial|text=15}}
+|
+|12.0% <br/>{{font|size=80%|font=Arial|text=22}}
+|2.7% <br/>{{font|size=80%|font=Arial|text=0}}
+|6.0% <br/>{{font|size=80%|font=Arial|text=11}}
+|
+| colspan="3" |4.6% <br/>{{font|size=80%|font=Arial|text=0}}
+|3.8% <br/>{{font|size=80%|font=Arial|text=0}}
+|1.1% <br/>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''18.5%''' <br/>{{font|size=80%|font=Arial|text=34}}
+|7.0% <br/>{{font|size=80%|font=Arial|text=13}}
 |7.6%
-| style="background:#f90311;" | 2.9%
 |-
 |AKO{{Ref|https://www.postoj.sk/99424/parlamentne-volby-by-vo-februari-vyhral-hlas-pred-smerom-a-sas}}
-|8–14<br>Feb 2022
+|data-sort-value="2022-02-14"|8–14 Feb 2022
 |1,000
-|8.0%
-|14.5%
-|6.9%
-|2.5%
-|8.7%
-|14.2%
-|2.3%
-|7.2%
+|8.0%<br/>{{font|size=80%|font=Arial|text=14}}
+|14.5%<br/>{{font|size=80%|font=Arial|text=26}}
+|6.9%<br/>{{font|size=80%|font=Arial|text=12}}
+|2.5%<br/>{{font|size=80%|font=Arial|text=0}}
+|8.7%<br/>{{font|size=80%|font=Arial|text=16}}
+|1.2%<br/>{{font|size=80%|font=Arial|text=22}}
+|14.2%<br/>{{font|size=80%|font=Arial|text=0}}
+|2.3%<br/>{{font|size=80%|font=Arial|text=0}}
+|7.2%<br/>{{font|size=80%|font=Arial|text=13}}
+|0.3%<br/>{{font|size=80%|font=Arial|text=0}}
+| colspan="3" |4.1%<br/>{{font|size=80%|font=Arial|text=0}}
+|3.8%<br/>{{font|size=80%|font=Arial|text=0}}
+|1.2%<br/>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''17.5%'''<br/>{{font|size=80%|font=Arial|text=31}}
+|6.9%<br/>{{font|size=80%|font=Arial|text=12}}
+|7.2%{{efn|Umiernených 1.2%, [[Socialisti.sk]] 0.3%, Demokratická strana 0.2%, [[Life – National Party]] 0.2%}}
+|-
+|Median{{Ref|https://www.aktuality.sk/clanok/8kv0nc5/prieskum-volby-by-koncom-januara-vyhral-smer-za-nim-su-hlas-a-sas/}}
+|data-sort-value="2022-02-01"|{{nowrap|27 Jan–1 Feb 2022}}
+|1,006
+|9.5%
+| style="background:#f90311;" | '''15.6%'''
+|5.7%
 |4.1%
-| style="background:#f9acb1;" | '''17.5%'''
-|6.9%
-|7.2%
-| style="background:#f90311;" | 3.0%
+|10.6%
+|0.9%
+|13.5%
+|2.5%
+|5.0%
+|
+| colspan="3" |3.4%
+|3.3%
+|
+|13.5%
+|5.6%
+|11.0%
 |-
 |Focus{{Ref|1=https://dennikn.sk/2698162/focus-smer-je-druhy-a-od-hlasu-ho-deli-uz-len-percento-a-pol-za-napatie-na-vychode-vini-viac-ludi-usa-a-nato-ako-rusko/?ref=tit}}
-|19–26<br>Jan 2022
+|data-sort-value="2022-01-26"|19–26 Jan 2022
 |1,017
-|8.0%<br>{{font|size=80%|font=Arial|text=14}}
-|16.3%<br>{{font|size=80%|font=Arial|text=30}}
-|6.1%<br>{{font|size=80%|font=Arial|text=11}}
-|4.3%<br>{{font|size=80%|font=Arial|text=0}}
-|8.3%<br>{{font|size=80%|font=Arial|text=15}}
-|11.1%<br>{{font|size=80%|font=Arial|text=21}}
-|3.0%<br>{{font|size=80%|font=Arial|text=0}}
-|5.8%<br>{{font|size=80%|font=Arial|text=11}}
-|4.4%<br>{{font|size=80%|font=Arial|text=0}}
-| style="background:#f9acb1;" | '''17.8%'''<br>{{font|size=80%|font=Arial|text=33}}
-|7.8%<br>{{font|size=80%|font=Arial|text=14}}
+|8.0% <br/>{{font|size=80%|font=Arial|text=14}}
+|16.3% <br/>{{font|size=80%|font=Arial|text=30}}
+|6.1% <br/>{{font|size=80%|font=Arial|text=11}}
+|4.3% <br/>{{font|size=80%|font=Arial|text=0}}
+|8.3% <br/>{{font|size=80%|font=Arial|text=15}}
+|0.7% <br/>{{font|size=80%|font=Arial|text=0}}
+|11.1% <br/>{{font|size=80%|font=Arial|text=21}}
+|3.0% <br/>{{font|size=80%|font=Arial|text=0}}
+|5.8% <br/>{{font|size=80%|font=Arial|text=11}}
+|
+| colspan="3" |4.4% <br/>{{font|size=80%|font=Arial|text=0}}
+|3.9% <br/>{{font|size=80%|font=Arial|text=0}}
+|
+| style="background:#f9acb1;" | '''17.8%''' <br/>{{font|size=80%|font=Arial|text=33}}
+|7.8% <br/>{{font|size=80%|font=Arial|text=14}}
 |7.1%
-| style="background:#f90311;" | 1.5%
 |-
 |AKO{{Ref|https://domov.sme.sk/c/22825018/prieskum-politickych-stran-januar-ako-2022.html/}}
-|10–17<br>Jan 2022
+|data-sort-value="2022-01-17"|10–17 Jan 2022
 |1,000
-|9.3%<br>{{font|size=80%|font=Arial|text=17}}
-|13.8%<br>{{font|size=80%|font=Arial|text=25}}
-|6.5%<br>{{font|size=80%|font=Arial|text=12}}
-|2.9%<br>{{font|size=80%|font=Arial|text=0}}
-|8.5%<br>{{font|size=80%|font=Arial|text=15}}
-|14.2%<br>{{font|size=80%|font=Arial|text=25}}
-|2.2%<br>{{font|size=80%|font=Arial|text=0}}
-|6.0%<br>{{font|size=80%|font=Arial|text=11}}
-|4.0%<br>{{font|size=80%|font=Arial|text=0}}
-| style="background:#f9acb1;" | '''18.0%'''<br>{{font|size=80%|font=Arial|text=33}}
-|6.2%<br>{{font|size=80%|font=Arial|text=11}}
-|8.4%
-| style="background:#f90311;" | 3.8%
+|9.3% <br/>{{font|size=80%|font=Arial|text=17}}
+|13.8% <br/>{{font|size=80%|font=Arial|text=25}}
+|6.5% <br/>{{font|size=80%|font=Arial|text=12}}
+|2.9% <br/>{{font|size=80%|font=Arial|text=0}}
+|8.5% <br/>{{font|size=80%|font=Arial|text=15}}
+|0.8% <br/>{{font|size=80%|font=Arial|text=0}}
+|14.2% <br/>{{font|size=80%|font=Arial|text=25}}
+|2.2% <br/>{{font|size=80%|font=Arial|text=0}}
+|6.0% <br/>{{font|size=80%|font=Arial|text=11}}
+|0.5% <br/>{{font|size=80%|font=Arial|text=0}}
+| colspan="3" |4.0% <br/>{{font|size=80%|font=Arial|text=0}}
+|3.6% <br/>{{font|size=80%|font=Arial|text=0}}
+|2.0% <br/>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''18.0%''' <br/>{{font|size=80%|font=Arial|text=33}}
+|6.2% <br/>{{font|size=80%|font=Arial|text=11}}
+|8.4%{{efn|Umiernených 2.0%, [[Socialisti.sk]] 0.5%, [[Communist Party of Slovakia]] 0.3%, Naša vlasť 0.3%, [[Life – National Party]] 0.2%, Národná koalícia 0.2%}}
 |-
 |AKO{{Ref|https://www.aktuality.sk/clanok/s0kjcj6/prieskum-smer-dobieha-druhu-sas-s-hlasom-by-mali-sestdesiat-poslancov/}}
-|7–12<br>Dec 2021
+|data-sort-value="2021-12-12"|7–12 Dec 2021
 |1,000
-|9.0%<br>{{font|size=80%|font=Arial|text=16}}
-|13.7%<br>{{font|size=80%|font=Arial|text=25}}
-|6.5%<br>{{font|size=80%|font=Arial|text=12}}
-|3.4%<br>{{font|size=80%|font=Arial|text=0}}
-|8.6%<br>{{font|size=80%|font=Arial|text=15}}
-|13.9%<br>{{font|size=80%|font=Arial|text=25}}
-|2.4%<br>{{font|size=80%|font=Arial|text=0}}
-|6.0%<br>{{font|size=80%|font=Arial|text=11}}
-|3.7%<br>{{font|size=80%|font=Arial|text=0}}
-| style="background:#f9acb1;" | '''19.0%'''<br>{{font|size=80%|font=Arial|text=35}}
-|5.9%<br>{{font|size=80%|font=Arial|text=11}}
+|9.0% <br/>{{font|size=80%|font=Arial|text=16}}
+|13.7% <br/>{{font|size=80%|font=Arial|text=25}}
+|6.5% <br/>{{font|size=80%|font=Arial|text=12}}
+|3.4% <br/>{{font|size=80%|font=Arial|text=0}}
+|8.6% <br/>{{font|size=80%|font=Arial|text=15}}
+|
+|13.9% <br/>{{font|size=80%|font=Arial|text=25}}
+|2.4% <br/>{{font|size=80%|font=Arial|text=0}}
+|6.0% <br/>{{font|size=80%|font=Arial|text=11}}
+|
+| colspan="3" |3.7% <br/>{{font|size=80%|font=Arial|text=0}}
+|3.6% <br/>{{font|size=80%|font=Arial|text=0}}
+|2.2% <br/>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''19.0%''' <br/>{{font|size=80%|font=Arial|text=35}}
+|5.9% <br/>{{font|size=80%|font=Arial|text=11}}
 |7.9%
-| style="background:#f90311;" | 5.1%
 |-
 |Focus{{Ref|1=https://dennikn.sk/2627916/focus-hlas-so-smerom-by-volila-tretina-ludi-sas-je-tretia-republika-mierne-posilnila/?ref=tit}}
-|16–23<br>Nov 2021
+|data-sort-value="2021-11-23"|16–23 Nov 2021
 |1,005
-|7.9%<br>{{font|size=80%|font=Arial|text=15}}
-|15.0%<br>{{font|size=80%|font=Arial|text=28}}
-|6.1%<br>{{font|size=80%|font=Arial|text=11}}
-|4.8%<br>{{font|size=80%|font=Arial|text=0}}
-|7.7%<br>{{font|size=80%|font=Arial|text=14}}
-|11.5%<br>{{font|size=80%|font=Arial|text=22}}
-|2.1%<br>{{font|size=80%|font=Arial|text=0}}
-|6.1%<br>{{font|size=80%|font=Arial|text=11}}
-|4.4%<br>{{font|size=80%|font=Arial|text=0}}
-| style="background:#f9acb1;" | '''19.2%'''<br>{{font|size=80%|font=Arial|text=36}}
-|6.8%<br>{{font|size=80%|font=Arial|text=13}}
+|7.9% <br/>{{font|size=80%|font=Arial|text=15}}
+|15.0% <br/>{{font|size=80%|font=Arial|text=28}}
+|6.1% <br/>{{font|size=80%|font=Arial|text=11}}
+|4.8% <br/>{{font|size=80%|font=Arial|text=0}}
+|7.7% <br/>{{font|size=80%|font=Arial|text=14}}
+|1.0% <br/>{{font|size=80%|font=Arial|text=0}}
+|11.5% <br/>{{font|size=80%|font=Arial|text=22}}
+|2.1% <br/>{{font|size=80%|font=Arial|text=0}}
+|6.1% <br/>{{font|size=80%|font=Arial|text=11}}
+|
+| colspan="3" |4.4% <br/>{{font|size=80%|font=Arial|text=0}}
+|3.6% <br/>{{font|size=80%|font=Arial|text=0}}
+|2.1% <br/>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''19.2%''' <br/>{{font|size=80%|font=Arial|text=36}}
+|6.8% <br/>{{font|size=80%|font=Arial|text=13}}
 |8.4%
-| style="background:#f90311;" | 4.2%
 |-
 |AKO{{Ref|https://www.aktuality.sk/clanok/27bspeg/hnutie-sme-rodina-pokles-nezastavilo-jeho-volici-su-proti-odchodu-z-koalicie-prieskum/}}
-|8–16<br>Nov 2021
+|data-sort-value="2021-11-16"|8–16 Nov 2021
 |1,000
-|9.7%<br>{{font|size=80%|font=Arial|text=18}}
-|13.0%<br>{{font|size=80%|font=Arial|text=24}}
-|6.8%<br>{{font|size=80%|font=Arial|text=13}}
-|3.5%<br>{{font|size=80%|font=Arial|text=0}}
-|8.7%<br>{{font|size=80%|font=Arial|text=16}}
-|13.6%<br>{{font|size=80%|font=Arial|text=25}}
-|2.2%<br>{{font|size=80%|font=Arial|text=0}}
-|5.4%<br>{{font|size=80%|font=Arial|text=10}}
-|4.2%<br>{{font|size=80%|font=Arial|text=0}}
-| style="background:#f9acb1;" | '''18.5%'''<br>{{font|size=80%|font=Arial|text=34}}
-|5.6%<br>{{font|size=80%|font=Arial|text=10}}
+|9.7% <br/>{{font|size=80%|font=Arial|text=18}}
+|13.0% <br/>{{font|size=80%|font=Arial|text=24}}
+|6.8% <br/>{{font|size=80%|font=Arial|text=13}}
+|3.5% <br/>{{font|size=80%|font=Arial|text=0}}
+|8.7% <br/>{{font|size=80%|font=Arial|text=16}}
+|0.9% <br/>{{font|size=80%|font=Arial|text=0}}
+|13.6% <br/>{{font|size=80%|font=Arial|text=25}}
+|2.2% <br/>{{font|size=80%|font=Arial|text=0}}
+|5.4% <br/>{{font|size=80%|font=Arial|text=10}}
+|1.0% <br/>{{font|size=80%|font=Arial|text=0}}
+| colspan="3" |4.2% <br/>{{font|size=80%|font=Arial|text=0}}
+|3.6% <br/>{{font|size=80%|font=Arial|text=0}}
+|2.3% <br/>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''18.5%''' <br/>{{font|size=80%|font=Arial|text=34}}
+|5.6% <br/>{{font|size=80%|font=Arial|text=10}}
 |8.8%
-| style="background:#f90311;" | 4.9%
 |-
 |Focus{{Ref|1=https://dennikn.sk/2593543/focus-smer-rastie-a-blizi-sa-k-16-percentam-kollarovi-blokovanie-reforiem-zatial-nepomaha/?ref=tit}}
-|20–27<br>Oct 2021
+|data-sort-value="2021-10-27"|20–27 Oct 2021
 |1,009
-|8.4%<br>{{font|size=80%|font=Arial|text=15}}
-|15.5%<br>{{font|size=80%|font=Arial|text=27}}
-|6.3%<br>{{font|size=80%|font=Arial|text=11}}
-|3.8%<br>{{font|size=80%|font=Arial|text=0}}
-|6.9%<br>{{font|size=80%|font=Arial|text=12}}
-|12.2%<br>{{font|size=80%|font=Arial|text=21}}
-|2.8%<br>{{font|size=80%|font=Arial|text=0}}
-|6.1%<br>{{font|size=80%|font=Arial|text=11}}
-|5.2%<br>{{font|size=80%|font=Arial|text=9}}
-| style="background:#f9acb1;" | '''19.3%'''<br>{{font|size=80%|font=Arial|text=34}}
-|5.5%<br>{{font|size=80%|font=Arial|text=10}}
+|8.4% <br/>{{font|size=80%|font=Arial|text=15}}
+|15.5% <br/>{{font|size=80%|font=Arial|text=27}}
+|6.3% <br/>{{font|size=80%|font=Arial|text=11}}
+|3.8% <br/>{{font|size=80%|font=Arial|text=0}}
+|6.9% <br/>{{font|size=80%|font=Arial|text=12}}
+|1.1% <br/>{{font|size=80%|font=Arial|text=0}}
+|12.2% <br/>{{font|size=80%|font=Arial|text=21}}
+|2.8% <br/>{{font|size=80%|font=Arial|text=0}}
+|6.1% <br/>{{font|size=80%|font=Arial|text=11}}
+|
+| colspan="3" |5.2% <br/>{{font|size=80%|font=Arial|text=9}}
+|3.3% <br/>{{font|size=80%|font=Arial|text=0}}
+|2.2% <br/>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''19.3%''' <br/>{{font|size=80%|font=Arial|text=34}}
+|5.5% <br/>{{font|size=80%|font=Arial|text=10}}
 |8.0%
-| style="background:#f90311;" | 3.8%
+|-
+|Actly{{Ref|https://www.bystricoviny.sk/spravy/oktobrovy-prieskum-agentury-actly-hlas-vedie-pred-smerom-s-odstupom-je-tretia-sas/}}
+|data-sort-value="2021-10-20"|17–20 Oct 2021
+|1,006
+|6.8% <br/>{{font|size=80%|font=Arial|text=12}}
+|17.7% <br/>{{font|size=80%|font=Arial|text=32}}
+|9.4% <br/>{{font|size=80%|font=Arial|text=17}}
+|2.4%<br/>{{font|size=80%|font=Arial|text=0}}
+|5.9% <br/>{{font|size=80%|font=Arial|text=11}}
+|1.0% <br/>{{font|size=80%|font=Arial|text=0}}
+|10.5% <br/>{{font|size=80%|font=Arial|text=19}}
+|2.8% <br/>{{font|size=80%|font=Arial|text=0}}
+|5.9% <br/>{{font|size=80%|font=Arial|text=11}}
+|
+| colspan="3" |3.9% <br/>{{font|size=80%|font=Arial|text=0}}
+|3.1% <br/>{{font|size=80%|font=Arial|text=0}}
+|2.0% <br/>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''21.0%'''
+|5.1% <br/>{{font|size=80%|font=Arial|text=9}}
+|8.6%{{efn|[[Life – National Party]] 1.0%, [[Christian Union (Slovakia)|Christian Union]] 1.0%}}
 |-
 |AKO{{Ref|https://ako.sk/wp-content/uploads/2021/10/AKO-VOLEBNE-PREF-OKTOBER-2021.pdf}}
-|4–7<br>Oct 2021
+|data-sort-value="2021-10-07"|4–7 Oct 2021
 |1,000
-|9.2%<br>{{font|size=80%|font=Arial|text=17}}
-|13.8%<br>{{font|size=80%|font=Arial|text=25}}
-|7.4%<br>{{font|size=80%|font=Arial|text=13}}
-|2.3%<br>{{font|size=80%|font=Arial|text=0}}
-|8.6%<br>{{font|size=80%|font=Arial|text=16}}
-|14.5%<br>{{font|size=80%|font=Arial|text=26}}
-|2.1%<br>{{font|size=80%|font=Arial|text=0}}
-|5.9%<br>{{font|size=80%|font=Arial|text=11}}
-|4.5%<br>{{font|size=80%|font=Arial|text=0}}
-| style="background:#f9acb1;" | '''18.2%'''<br>{{font|size=80%|font=Arial|text=33}}
-|5.0%<br>{{font|size=80%|font=Arial|text=9}}
-|8.5%
-| style="background:#f90311;" | 3.7%
+|9.2% <br/>{{font|size=80%|font=Arial|text=17}}
+|13.8% <br/>{{font|size=80%|font=Arial|text=25}}
+|7.4% <br/>{{font|size=80%|font=Arial|text=13}}
+|2.3% <br/>{{font|size=80%|font=Arial|text=0}}
+|8.6% <br/>{{font|size=80%|font=Arial|text=16}}
+|1.2% <br/>{{font|size=80%|font=Arial|text=0}}
+|14.5% <br/>{{font|size=80%|font=Arial|text=26}}
+|2.1% <br/>{{font|size=80%|font=Arial|text=0}}
+|5.9% <br/>{{font|size=80%|font=Arial|text=11}}
+|0.5% <br/>{{font|size=80%|font=Arial|text=0}}
+| colspan="3" |4.5% <br/>{{font|size=80%|font=Arial|text=0}}
+|3.6% <br/>{{font|size=80%|font=Arial|text=0}}
+|1.8% <br/>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''18.2%''' <br/>{{font|size=80%|font=Arial|text=33}}
+|5.0% <br/>{{font|size=80%|font=Arial|text=9}}
+|8.5%{{efn|[[Socialisti.sk ]]0.5%, [[Communist Party of Slovakia]] 0.5%, Slovenské Hnutie Obrody 0.2%, [[Slovak PATRIOT]] 0.2%}}
 |-
 |AKO{{Ref|https://ako.sk/wp-content/uploads/2021/09/AKO_VOLEBNE_PREF_SEPTEMBER_2021.pdf}}
-|6–13<br>Sep 2021
+|data-sort-value="2021-09-13"|6–13 Sep 2021
 |1,000
-|9.9%<br>{{font|size=80%|font=Arial|text=18}}
-|13.9%<br>{{font|size=80%|font=Arial|text=25}}
-|6.8%<br>{{font|size=80%|font=Arial|text=12}}
-|2.7%<br>{{font|size=80%|font=Arial|text=0}}
-|8.7%<br>{{font|size=80%|font=Arial|text=15}}
-|14.5%<br>{{font|size=80%|font=Arial|text=26}}
-|1.7%<br>{{font|size=80%|font=Arial|text=0}}
-|6.6%<br>{{font|size=80%|font=Arial|text=12}}
-|3.8%<br>{{font|size=80%|font=Arial|text=0}}
-| style="background:#f9acb1;" | '''18.8%'''<br>{{font|size=80%|font=Arial|text=33}}
-|5.2%<br>{{font|size=80%|font=Arial|text=9}}
-|7.4%
-| style="background:#f90311;" | 4.3%
+|9.9% <br/>{{font|size=80%|font=Arial|text=18}}
+|13.9% <br/>{{font|size=80%|font=Arial|text=25}}
+|6.8% <br/>{{font|size=80%|font=Arial|text=12}}
+|2.7% <br/>{{font|size=80%|font=Arial|text=0}}
+|8.7% <br/>{{font|size=80%|font=Arial|text=15}}
+|0.8% <br/>{{font|size=80%|font=Arial|text=0}}
+|14.5% <br/>{{font|size=80%|font=Arial|text=26}}
+|1.7% <br/>{{font|size=80%|font=Arial|text=0}}
+|6.6% <br/>{{font|size=80%|font=Arial|text=12}}
+|1.1% <br/>{{font|size=80%|font=Arial|text=0}}
+| colspan="3" |3.8% <br/>{{font|size=80%|font=Arial|text=0}}
+|3.5% <br/>{{font|size=80%|font=Arial|text=0}}
+|0.9% <br/>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''18.8%''' <br/>{{font|size=80%|font=Arial|text=33}}
+|5.2% <br/>{{font|size=80%|font=Arial|text=9}}
+|7.4%{{efn|[[Life – National Party]] 0.5%, Demokratická strana 0.2%, MÁME TOHO DOSŤ 0.2%, [[Socialisti.sk]] 0.1%, [[Green Party (Slovakia)|Green Party]] 0.1%}}
 |-
 |Focus{{Ref|https://www.aktuality.sk/clanok/vektmsm/prieskum-pellegriniho-hlas-klesa-smer-a-republika-rastu/}}
-|1–7<br>Sep 2021
+|data-sort-value="2021-09-07"|1–7 Sep 2021
 |1,002
-|8.2%<br>{{font|size=80%|font=Arial|text=14}}
-|14.4%<br>{{font|size=80%|font=Arial|text=25}}
-|6.7%<br>{{font|size=80%|font=Arial|text=12}}
-|4.6%<br>{{font|size=80%|font=Arial|text=0}}
-|7.0%<br>{{font|size=80%|font=Arial|text=12}}
-|11.7%<br>{{font|size=80%|font=Arial|text=21}}
-|2.2%<br>{{font|size=80%|font=Arial|text=0}}
-|6.1%<br>{{font|size=80%|font=Arial|text=11}}
-|5.5%<br>{{font|size=80%|font=Arial|text=10}}
-| style="background:#f9acb1;" | '''18.5%'''<br>{{font|size=80%|font=Arial|text=33}}
-|6.8%<br>{{font|size=80%|font=Arial|text=12}}
+|8.2% <br/>{{font|size=80%|font=Arial|text=14}}
+|14.4% <br/>{{font|size=80%|font=Arial|text=25}}
+|6.7% <br/>{{font|size=80%|font=Arial|text=12}}
+|4.6% <br/>{{font|size=80%|font=Arial|text=0}}
+|7.0% <br/>{{font|size=80%|font=Arial|text=12}}
+|
+|11.7% <br/>{{font|size=80%|font=Arial|text=21}}
+|2.2% <br/>{{font|size=80%|font=Arial|text=0}}
+|6.1% <br/>{{font|size=80%|font=Arial|text=11}}
+|
+| colspan="3" |5.5% <br/>{{font|size=80%|font=Arial|text=10}}
+|
+|
+| style="background:#f9acb1;" | '''18.5%''' <br/>{{font|size=80%|font=Arial|text=33}}
+|6.8% <br/>{{font|size=80%|font=Arial|text=12}}
 |8.3%
-| style="background:#f90311;" | 4.1%
+|-
+|Median{{Ref|https://spravy.rtvs.sk/2021/09/hlas-sd-by-sa-stal-vitazom-volieb-smer-sd-je-uz-druhy/}}
+|data-sort-value="2021-09-06"|{{nowrap|31 Aug–6 Sep 2021}}
+|1,018
+|10.0%
+|12.7%
+|7.2%
+|3.3%
+|8.6%
+|
+|12.3%
+|3.9%
+|4.8%
+|
+| colspan="3" |4.8%
+|
+|
+| style="background:#f9acb1;" | '''16.3%'''
+|5.4%
+|10.7%
 |-
 |AKO{{Ref|https://ako.sk/wp-content/uploads/2021/08/AKO_VOLEBNE_PREF_AUGUST_2021.pdf}}
-|10–15<br>Aug 2021
+|data-sort-value="2021-08-15"|10–15 Aug 2021
 |1,000
-|9.8%<br>{{font|size=80%|font=Arial|text=19}}
-|11.3%<br>{{font|size=80%|font=Arial|text=22}}
-|6.6%<br>{{font|size=80%|font=Arial|text=13}}
-|3.9%<br>{{font|size=80%|font=Arial|text=0}}
-|8.9%<br>{{font|size=80%|font=Arial|text=17}}
-|14.7%<br>{{font|size=80%|font=Arial|text=29}}
-|3.0%<br>{{font|size=80%|font=Arial|text=0}}
-|6.3%<br>{{font|size=80%|font=Arial|text=12}}
-|3.3%<br>{{font|size=80%|font=Arial|text=0}}
-| style="background:#f9acb1;" | '''19.5%'''<br>{{font|size=80%|font=Arial|text=38}}
-|4.5%<br>{{font|size=80%|font=Arial|text=0}}
-|8.2%
-| style="background:#f90311;" | 4.8%
+|9.8% <br/>{{font|size=80%|font=Arial|text=19}}
+|11.3% <br/>{{font|size=80%|font=Arial|text=22}}
+|6.6% <br/>{{font|size=80%|font=Arial|text=13}}
+|3.9% <br/>{{font|size=80%|font=Arial|text=0}}
+|8.9% <br/>{{font|size=80%|font=Arial|text=17}}
+|1.2% <br/>{{font|size=80%|font=Arial|text=0}}
+|14.7% <br/>{{font|size=80%|font=Arial|text=29}}
+|3.0% <br/>{{font|size=80%|font=Arial|text=0}}
+|6.3% <br/>{{font|size=80%|font=Arial|text=12}}
+|0.5% <br/>{{font|size=80%|font=Arial|text=0}}
+| colspan="3" |3.3% <br/>{{font|size=80%|font=Arial|text=0}}
+|3.5% <br/>{{font|size=80%|font=Arial|text=0}}
+|1.5% <br/>{{font|size=80%|font=Arial|text=0}}
+| style="background:#f9acb1;" | '''19.5%''' <br/>{{font|size=80%|font=Arial|text=38}}
+|4.5% <br/>{{font|size=80%|font=Arial|text=0}}
+|8.2%{{efn|[[Socialisti.sk]] 0.5%, [[Communist Party of Slovakia]] 0.3%, [[Life – National Party]] 0.2%, [[Green Party (Slovakia)|Green Party]] 0.2%, STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI 0.2%, Slovenské Hnutie Obrody 0.1%}}
 |-
 |AKO{{Ref|https://ako.sk/wp-content/uploads/2021/07/AKO_VOLEBNE_PREF_JUL_2021.pdf}}
-|6–12<br>Jul 2021
+|6–12 Jul 2021
 |1,000
-|8.8%<br>{{font|size=80%|font=Arial|text=17}}
-|10.9%<br>{{font|size=80%|font=Arial|text=21}}
-|7.8%<br>{{font|size=80%|font=Arial|text=15}}
-|3.5%<br>{{font|size=80%|font=Arial|text=0}}
-|8.4%<br>{{font|size=80%|font=Arial|text=17}}
-|13.8%<br>{{font|size=80%|font=Arial|text=27}}
-|3.1%<br>{{font|size=80%|font=Arial|text=0}}
-|6.2%<br>{{font|size=80%|font=Arial|text=12}}
-|4.3%<br>{{font|size=80%|font=Arial|text=0}}
-| style="background:#f9acb1;" | '''20.8%'''<br>{{font|size=80%|font=Arial|text=41}}
-|3.8%<br>{{font|size=80%|font=Arial|text=0}}
-|8.6%
-| style="background:#f90311;" | 7.0%
+|8.8%
+|10.9%
+|7.8%
+|3.5%
+|8.4%
+|1.9%
+|13.8%
+|3.1%
+|6.2%
+|0.7%
+| colspan="3" | 4.3%
+|3.4%
+|1.9%
+| style="background:#f9acb1;" | '''20.8%'''
+|3.8%
+|
+|-
+|||data-sort-value="2021-04-01"|7 Jul 2021|| colspan="19" |'''The [[Constitutional Court of Slovakia|Constitutional Court]] judges the opposition's [[Slovak snap election referendum (2021)|snap election referendum]] unconstitutional{{Ref|https://domov.sme.sk/c/22697129/referendum-predcasne-volby-ustavny-sud-rozhodnutie.html}}'''
 |-
 |AKO{{Ref|https://ako.sk/wp-content/uploads/2021/06/ag.AKO_VOLEBNE_PREF_JUN-_2021.pdf}}
-|7–11<br>Jun 2021
+|7–11 Jun 2021
 |1,000
-|9.0%<br>{{font|size=80%|font=Arial|text=17}}
-|10.6%<br>{{font|size=80%|font=Arial|text=20}}
-|7.8%<br>{{font|size=80%|font=Arial|text=14}}
-|3.0%<br>{{font|size=80%|font=Arial|text=0}}
-|8.3%<br>{{font|size=80%|font=Arial|text=15}}
-|13.9%<br>{{font|size=80%|font=Arial|text=26}}
-|3.6%<br>{{font|size=80%|font=Arial|text=0}}
-|5.3%<br>{{font|size=80%|font=Arial|text=10}}
-|5.2%<br>{{font|size=80%|font=Arial|text=9}}
-| style="background:#f9acb1;" | '''21.0%'''<br>{{font|size=80%|font=Arial|text=39}}
-|2.8%<br>{{font|size=80%|font=Arial|text=0}}
-|9.5%
-| style="background:#f90311;" | 7.1%
+|9.0%
+|10.6%
+|7.8%
+|3.0%
+|8.3%
+|1.6%
+|13.9%
+|3.6%
+|5.3%
+|1.4%
+| colspan="3" | 5.2%
+|3.1%
+|2.5%
+| style="background:#f9acb1;" |'''21.0%'''
+|2.8%
+|
 |-
 |Focus{{Ref|https://www.focus-research.sk/files/n282_Volebne%20preferencie%20politickych%20stran_jun%202021.pdf}}
-|2–9<br>Jun 2021
+|2–9 Jun 2021
 |1,011
-|8.2%<br>{{font|size=80%|font=Arial|text=15}}
-|12.0%<br>{{font|size=80%|font=Arial|text=23}}
-|7.6%<br>{{font|size=80%|font=Arial|text=14}}
-|4.8%<br>{{font|size=80%|font=Arial|text=0}}
-|6.3%<br>{{font|size=80%|font=Arial|text=12}}
-|12.8%<br>{{font|size=80%|font=Arial|text=24}}
-|3.4%<br>{{font|size=80%|font=Arial|text=0}}
-|5.8%<br>{{font|size=80%|font=Arial|text=11}}
-|5.7%<br>{{font|size=80%|font=Arial|text=10}}
-| style="background:#f9acb1;" | '''21.6%'''<br>{{font|size=80%|font=Arial|text=41}}
-|4.6%<br>{{font|size=80%|font=Arial|text=0}}
-|7.2%
-| style="background:#f90311;" | 8.8%
+|8.2%
+|12.0%
+|7.6%
+|4.8%
+|6.3%
+|1.5%
+|12.8%
+|3.4%
+|5.8%
+|0.5%
+| colspan="3" | 5.7%
+|3.2%
+|1.3%
+| style="background:#f9acb1;" |'''21.6%'''
+|4.6%
+|
 |-
 |Focus{{Ref|https://www.focus-research.sk/files/n281_Volebne%20preferencie%20politickych%20stran_maj%202021.pdf}}
-|11–19<br>May 2021
+|data-sort-value="2021-05-19"|11–19 May 2021
 |1,008
-|8.8%<br>{{font|size=80%|font=Arial|text=18}}
-|11.8%<br>{{font|size=80%|font=Arial|text=24}}
-|7.2%<br>{{font|size=80%|font=Arial|text=15}}
-|4.9%<br>{{font|size=80%|font=Arial|text=0}}
-|6.1%<br>{{font|size=80%|font=Arial|text=12}}
-|12.3%<br>{{font|size=80%|font=Arial|text=25}}
-|3.5%<br>{{font|size=80%|font=Arial|text=0}}
-|5.7%<br>{{font|size=80%|font=Arial|text=11}}
-|4.8%<br>{{font|size=80%|font=Arial|text=0}}
-| style="background:#f9acb1;" | '''22.4%'''<br>{{font|size=80%|font=Arial|text=45}}
-|4.5%<br>{{font|size=80%|font=Arial|text=0}}
-|8.0%
-| style="background:#f90311;" | 10.1%
+|8.8%
+|11.8%
+|7.2%
+|4.9%
+|6.1%
+|1.3%
+|12.3%
+|3.5%
+|5.7%
+|0.9%
+| colspan="3" | 4.8%
+|3.4%
+|1.4%
+| style="background:#f9acb1;" |'''22.4%'''
+|4.5%
+|
 |-
 |AKO{{Ref|https://www.aktuality.sk/clanok/892695/prieskum-ako-hlas-stale-pada-smer-mierne-narastol-a-za-ludi-je-mimo/}}
-|13–17<br>May 2021
+|data-sort-value="2021-05-17"|13–17 May 2021
 |1,000
 |9.9%
 |9.6%
 |7.4%
 |2.1%
 |8.5%
+|1.6%
 |13.8%
 |4.0%
 |5.0%
-|5.3%
-| style="background:#f9acb1;" | '''22.5%'''
+|0.6%
+| colspan="3" | 5.3
+|1.6%
+|3.0%
+| style="background:#f9acb1;" |'''22.5%'''
 |3.5%
-|8.4%
-| style="background:#f90311;" | 8.7%
+|
 |-
-|AKO<ref name="AKO042021">{{cite press release|last=Hřích|first=Václav|date=20 April 2021|title=Prieskum volebných preferencií do NR SR – APRÍL 2021|url=https://ako.sk/wp-content/uploads/2021/04/ag.AKO-VOLEBNE_PREF_APRIL_2021.pdf|location=Bratislava|agency=AKO|access-date=20 April 2021}}</ref>
-|12–17<br>Apr 2021
+| AKO<ref name="AKO042021">{{cite press release |last=Hřích |first=Václav |date=20 April 2021|title=Prieskum volebných preferencií do NR SR – APRÍL 2021 |url=https://ako.sk/wp-content/uploads/2021/04/ag.AKO-VOLEBNE_PREF_APRIL_2021.pdf|location=Bratislava|agency=AKO |access-date=20 April 2021}}</ref>
+|data-sort-value="2021-04-17"|12–17 Apr 2021
 |1,000
 |10.0%
 |9.2%
 |7.4%
 |2.9%
 |8.3%
+|0.9%
 |13.8%
 |4.3%
 |4.5%
-|4.2%
-| style="background:#f9acb1;" | '''23.9%'''
+|0.5%
+| colspan="3" | 4.2%
+|3.3%
 |3.1%
-|8.4%
-| style="background:#f90311;" | 10.1%
+| style="background:#f9acb1;" |'''23.9%'''
+|3.1%
+|
 |-
-|Focus<ref name="Focus032021">{{cite web|date=11 April 2020|title=Press release|url=https://www.focus-research.sk/files/n280_Volebne%20preferencie%20politickych%20stran_april%202021.pdf|access-date=2021-04-11|website=www.focus-research.sk|format=PDF}}</ref>
-|31 Mar<br>–7 Apr 2021
+|Focus<ref name="Focus032021">{{cite web |url=https://www.focus-research.sk/files/n280_Volebne%20preferencie%20politickych%20stran_april%202021.pdf|title=Press release |date=11 April 2020 |website= www.focus-research.sk|access-date=2021-04-11}}</ref>
+|data-sort-value="2021-04-07"|31 Mar–7 Apr 2021
 |1,001
 |9.2%
 |10.9%
 |7.4%
 |4.3%
 |6.2%
+|0.8%
 |11.2%
 |4.8%
 |5.7%
-|5.0%
-| style="background:#f9acb1;" | '''22.3%'''
+|0.5%
+| colspan="3" | 5.0%
+|3.4%
+|1.8%
+| style="background:#f9acb1;" |'''22.3%'''
 |4.7%
-|8.3%
-| style="background:#f90311;" | 11.1%
+|
 |-
-|AKO<ref name="AKO032021">{{cite press release|last=Hřích|first=Václav|date=15 March 2021|title=Prieskum volebných preferencií do NR SR – MAREC 2021|url=https://ako.sk/wp-content/uploads/2021/03/ag.AKO_VOLEBNE_PREF_MAREC_2021.pdf|location=Bratislava|agency=AKO|access-date=26 March 2021}}</ref>
-|8–12<br>Mar 2021
+|||data-sort-value="2021-04-01"|1 Apr 2021|| colspan="19" |'''Appointment of the [[Heger's Cabinet]] following the agreement of the original government partners{{Ref|https://dennikn.sk/2336201/minuta-po-minute-prezidentka-vymenuje-vladu-eduarda-hegera/}}'''
+|-
+|||data-sort-value="2021-03-28"|3–28 Mar 2021|| colspan="19" |'''[[2021 Slovak government crisis|Government crisis]] following government SaS and ZĽ's call for the resignation of the [[Prime Minister of Slovakia|Prime Minister]] [[Igor Matovič]]{{Ref|1=https://dennikn.sk/2331136/igor-matovic-ako-premier-konci-ustupuje-od-vsetkych-poziadaviek-a-chce-byt-ministrom-financii/?ref=tema}}'''
+|-
+| AKO<ref name="AKO032021">{{cite press release |last=Hřích |first=Václav |date=15 March 2021|title=Prieskum volebných preferencií do NR SR – MAREC 2021 |url=https://ako.sk/wp-content/uploads/2021/03/ag.AKO_VOLEBNE_PREF_MAREC_2021.pdf|location=Bratislava|agency=AKO |access-date=26 March 2021}}</ref>
+|data-sort-value="2021-03-12"|8–12 Mar 2021
 |1,000
 |13.1%
 |8.7%
 |5.9%
 |4.3%
 |8.0%
+|0.3%
 |14.3%
 |4.3%
 |5.2%
-|1.5%
-| style="background:#f9acb1;" | '''24.9%'''
-|N/A
-|9.8%
-| style="background:#f90311;" | 10.6%
+|0.2%
+|1.1%
+|0.2%
+|0.8%
+|3.0%
+|2.8%
+| style="background:#f9acb1;" |'''24.9%'''
+|{{N/A}}
+|
 |-
-|Focus<ref name="Focus022021">{{cite web|date=28 February 2020|title=Press release|url=https://www.focus-research.sk/files/n279_Volebne%20preferencie%20politickych%20stran_februar%202021.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
-|17–24<br>Feb 2021
-|1,018
+|Focus<ref name="Focus022021">{{cite web |url=https://www.focus-research.sk/files/n279_Volebne%20preferencie%20politickych%20stran_februar%202021.pdf|title=Press release |date=28 February 2020 |website= www.focus-research.sk|access-date=2021-03-31}}</ref>
+|data-sort-value="2021-02-24"|17–24 Feb 2021
+|1.018
 |10.4%
 |9.2%
 |5.2%
 |6.6%
 |6.7%
+|0.6%
 |12.9%
 |5.2%
 |4.9%
-|4.7%
-| style="background:#f9acb1;" | '''23.0%'''
-|N/A
-|11.2%
-| style="background:#f90311;" | 10.1%
+|0.4%
+|3.5%
+|1.3%
+|2.1%
+|2.8%
+|1.9%
+| style="background:#f9acb1;" |'''23.0%'''
+|{{N/A}}
+|
 |-
-|AKO<ref name="AKO022021">{{cite press release|last=Hřích|first=Václav|date=12 February 2021|title=Prieskum volebných preferencií do NR SR – FEBRUÁR 2021|url=https://ako.sk/wp-content/uploads/2021/02/ag.AKO-VOLEBNE-PREF-FEBRUAR-2021.pdf|location=Bratislava|agency=AKO|access-date=26 March 2021}}</ref>
-|8–11<br>Feb 2021
+| AKO<ref name="AKO022021">{{cite press release |last=Hřích |first=Václav |date=12 February 2021|title=Prieskum volebných preferencií do NR SR – FEBRUÁR 2021 |url=https://ako.sk/wp-content/uploads/2021/02/ag.AKO-VOLEBNE-PREF-FEBRUAR-2021.pdf|location=Bratislava|agency=AKO |access-date=26 March 2021}}</ref>
+|data-sort-value="2021-02-11"|8–11 Feb 2021
 |1,000
 |13.8%
 |8.5%
 |5.1%
 |3.8%
 |7.2%
+|0.7%
 |15.1%
 |5.4%
 |4.9%
-|3.5%
-| style="background:#f9acb1;" | '''25.0%'''
-|N/A
-|7.7%
-| style="background:#f90311;" | 9.9%
+|0.7%
+|2.0%
+|0.8%
+|0.8%
+|2.3%
+|1.6%
+| style="background:#f9acb1;" |'''25.0%'''
+|{{N/A}}
+|
 |-
-|Focus<ref name="Focus012021">{{cite web|date=|title=Hlas sa šplhá k 25 percentám. OĽaNO má 10 percent, spor premiéra so Sulíkom už pripravil o preferencie aj SaS|url=https://dennikn.sk/2238820/focus-hlas-sa-splha-k-25-percentam-olano-ma-10-percent-spor-premiera-so-sulikom-uz-pripravil-o-preferencie-aj-sas/?ref=tit1|access-date=2021-03-31|website=dennikn.sk|format=PDF}}</ref>
-|12–19<br>Jan 2021
+| Focus<ref name="Focus012021">{{cite web |url= https://dennikn.sk/2238820/focus-hlas-sa-splha-k-25-percentam-olano-ma-10-percent-spor-premiera-so-sulikom-uz-pripravil-o-preferencie-aj-sas/?ref=tit1|title=  Hlas sa šplhá k 25 percentám. OĽaNO má 10 percent, spor premiéra so Sulíkom už pripravil o preferencie aj SaS |date= 24 January 2021|website=dennikn.sk |format=PDF|access-date=2021-03-31}}</ref>
+| data-sort-value="2021-01-19" |12–19 Jan 2021
 |1,005
 |10.1%
 |9.1%
 |5.1%
 |9.7%
 |5.2%
+|1%
 |13.3%
 |4.2%
 |4.4%
-|3.9%
-| style="background:#f9acb1;" | '''24.3%'''
-|N/A
-|10.7%
-| style="background:#f90311;" | 11.0%
+| –
+|3.3%
+|0.6%
+|2%
+|2.8%
+|2.1%
+| style="background:#f9acb1;" |'''24.3%'''
+|{{N/A}}
+|
 |-
-|AKO<ref name="AKO122020">{{cite press release|last=Hřích|first=Václav|date=21 December 2020|title=Prieskum volebných preferencií do NR SR – DECEMBER 2020|url=https://ako.sk/wp-content/uploads/2020/12/ag.AKO-VOLEBNE-PREF-DECEMBER-2020.pdf|location=Bratislava|agency=AKO|access-date=26 March 2021}}</ref>
-|17–19<br>Dec 2020
+| AKO<ref name="AKO122020">{{cite press release |last=Hřích |first=Václav |date=21 December 2020|title=Prieskum volebných preferencií do NR SR – DECEMBER 2020 |url=https://ako.sk/wp-content/uploads/2020/12/ag.AKO-VOLEBNE-PREF-DECEMBER-2020.pdf |location=Bratislava|agency=AKO |access-date=26 March 2021}}</ref>
+| data-sort-value="2020-12-19" |17–19 Dec 2020
 |1,000
 |14.2%
-|9.0%
+|9%
 |5.7%
 |5.7%
 |6.5%
+|0.5%
 |16.2%
 |4.7%
 |4.7%
-|3.1%
-| style="background:#f9acb1;" | '''22.8%'''
-|N/A
-|7.4%
-| style="background:#f90311;" | 6.6%
+|0.5%
+|1.3%
+|1.3%
+|0.9%
+|1.6%
+|1.4%
+| style="background:#f9acb1;" |'''22.8%'''
+|{{N/A}}
+|
 |-
-|Focus<ref name="Focus122020">{{cite web|date=16 December 2020|title=Press release|url=https://www.focus-research.sk/files/n276_Volebne%20preferencie%20politickych%20stran_december%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
-|8–14<br>Dec 2020
+| Focus<ref name="Focus122020">{{cite web |url=https://www.focus-research.sk/files/n276_Volebne%20preferencie%20politickych%20stran_december%202020.pdf|title=Press release |date=16 December 2020 |website= www.focus-research.sk|access-date=2021-03-31}}</ref>
+| data-sort-value="2020-12-14" |8–14 Dec 2020
 |1,000
-|11.0%
+|11%
 |9.8%
 |5.4%
 |8.2%
-|6.0%
+|6%
+|0.4%
 |15.8%
 |4.4%
 |4.9%
-|4.1%
-| style="background:#f9acb1;" | '''20.1%'''
-|N/A
-|10.3%
-| style="background:#f90311;" | 4.3%
+|–
+|3.3%
+|0.8%
+|2%
+|2.7%
+|2.1%
+| style="background:#f9acb1;" |'''20.1%'''
+|{{N/A}}
+|
 |-
-|Focus<ref name="Prieskum: Z konfliktu SaS a OĽaNO ťaží Sulík, rastie aj Pellegriniho Hlas">{{cite web|date=29 November 2020|title=Prieskum: Z konfliktu SaS a OĽaNO ťaží Sulík, rastie aj Pellegriniho Hlas|url=https://domov.sme.sk/c/22544531/preferencie-politickych-stran-focus-november-2020.html?ref=njct|access-date=29 November 2020|website=SME.sk|language=sk}}</ref>
-|18–25<br>Nov 2020
+|Focus<ref name="Prieskum: Z konfliktu SaS a OĽaNO ťaží Sulík, rastie aj Pellegriniho Hlas">{{cite web |title=Prieskum: Z konfliktu SaS a OĽaNO ťaží Sulík, rastie aj Pellegriniho Hlas |url=https://domov.sme.sk/c/22544531/preferencie-politickych-stran-focus-november-2020.html?ref=njct |website=SME.sk |access-date=29 November 2020 |language=sk |date=29 November 2020}}</ref>
+| data-sort-value="2020-11-29" |18–25 Nov 2020
 |1,004
-|14.0%
+|14%
 |9.5%
 |6.1%
 |9.6%
 |5.9%
+|1%
 |12.1%
 |4.1%
 |5.1%
-|3.8%
-| style="background:#f9acb1;" | '''19.1%'''
-|N/A
-|10.7%
-| style="background:#f90311;" | 5.1%
+|–
+|3.3%
+|0.5%
+|2.1%
+|2.2%
+|2.8%
+| style="background:#f9acb1;" |'''19.1%'''
+|{{N/A}}
+|
 |-
-|Focus<ref name="Focus102020">{{cite web|date=18 October 2020|title=Press release|url=https://www.focus-research.sk/files/n274_Volebne%20preferencie%20politickych%20stran_oktober%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
-|7–15<br>Oct 2020
+|Focus<ref name="Focus102020">{{cite web |url=https://www.focus-research.sk/files/n274_Volebne%20preferencie%20politickych%20stran_oktober%202020.pdf |title=Press release |date=18 October 2020 |website= www.focus-research.sk|access-date=2021-03-31}}</ref>
+| data-sort-value="2020-10-15" |7–15 Oct 2020
 |1,014
 |15.1%
 |10.5%
 |7.3%
 |9.8%
 |5.4%
+|0.3%
 |10.7%
 |4.8%
 |5.2%
-|3.6%
-| style="background:#f9acb1;" | '''18.7%'''
-|N/A
-|8.9%
-| style="background:#f90311;" | 3.6%
+|–
+|3.2%
+|0.4%
+|2.4%
+|2.1%
+|2.1%
+| style="background:#f9acb1;" |'''18.7%'''
+|{{N/A}}
+|
 |-
-|AKO<ref name="AKO102020">{{cite web|date=2020-10-14|title=Prieskum: Pellegriniho Hlas prvýkrát predbehol OĽaNO, výrazne rastie SaS|url=https://slovensko.hnonline.sk/2229557-prieskum-pellegriniho-hlas-prvykrat-predbehol-olano-vyrazne-rastie-sas|access-date=2021-03-31|website=Slovensko|language=sk}}</ref>
-|1–9<br>Oct 2020
+|AKO<ref name="AKO102020">{{cite web | title=Prieskum: Pellegriniho Hlas prvýkrát predbehol OĽaNO, výrazne rastie SaS | website=Slovensko | date=2020-10-14 | url=https://slovensko.hnonline.sk/2229557-prieskum-pellegriniho-hlas-prvykrat-predbehol-olano-vyrazne-rastie-sas | language=sk | access-date=2021-03-31}}</ref>
+| data-sort-value="2020-10-09 " |1–9 Oct 2020
 |1,000
 |15.3%
 |8.3%
 |8.8%
 |8.5%
 |6.2%
+|1.8%
 |13.4%
 |4.2%
 |3.0%
-|2.9%
-| style="background:#f9acb1;" | '''18.8%'''
-|N/A
-|10.6%
-| style="background:#f90311;" | 3.5%
+|0.3%
+|2.4%
+|0.2%
+|1.9%
+|2.4%
+|2.8%
+| style="background:#f9acb1;" |'''18.8%'''
+|{{N/A}}
+|
 |-
-|Focus<ref name="Focus092020">{{cite web|date=9 June 2020|title=Press release|url=https://www.focus-research.sk/files/n273_Volebn%C3%A9%20preferencie%20politick%C3%BDch%20str%C3%A1n%20august-september%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
-|26 Aug<br>–2 Sep 2020
+|Focus<ref name="Focus092020">{{cite web |url=https://www.focus-research.sk/files/n273_Volebn%C3%A9%20preferencie%20politick%C3%BDch%20str%C3%A1n%20august-september%202020.pdf |title=Press release |date=9 June 2020 |website= www.focus-research.sk|access-date=2021-03-31}}</ref>
+| data-sort-value="2020-09-02" | {{nowrap|26 Aug–2 Sep 2020}}
 |1,022
-| style="background:#d6e86f;" | '''18.4%'''<br>{{font|size=80%|font=Arial|text='''35'''}}
+| style="background:#D1DF7C" |'''18.4%'''<br>{{font|size=80%|font=Arial|text=35}}
 |10.9%<br>{{font|size=80%|font=Arial|text=21}}
 |9.1%<br>{{font|size=80%|font=Arial|text=17}}
 |8.5%<br>{{font|size=80%|font=Arial|text=16}}
 |5.9%<br>{{font|size=80%|font=Arial|text=11}}
+|0.6%<br>{{font|size=80%|font=Arial|text=0}}
 |9.9%<br>{{font|size=80%|font=Arial|text=19}}
 |3.9%<br>{{font|size=80%|font=Arial|text=0}}
 |4.5%<br>{{font|size=80%|font=Arial|text=0}}
-|3.8%<br>{{font|size=80%|font=Arial|text=0}}
+|–
+|3.1%<br>{{font|size=80%|font=Arial|text=0}}
+|0.7%<br>{{font|size=80%|font=Arial|text=0}}
+|1.7%<br>{{font|size=80%|font=Arial|text=0}}
+|3.0%<br>{{font|size=80%|font=Arial|text=0}}
+|1.9%<br>{{font|size=80%|font=Arial|text=0}}
 |16.2%<br>{{font|size=80%|font=Arial|text=31}}
-|N/A
-|8.9%
-| style="background:#b2c933;" | 2.2%
+|{{N/A}}
+|
 |-
-|AKO<ref name="AKO072020">{{cite web|date=2020|title=Prieskum volebných preferenciído NR SR –JÚL2020po 100 dňoch novej vlády|url=https://ako.sk/wp-content/uploads/2020/07/ag.AKO_VOLEBNE_PREF_JUL_2020.pdf|access-date=2021-03-31|website=ako.sk|format=PDF}}</ref>
-|7–17<br>Jul 2020
+|AKO<ref name="AKO072020">{{cite web |url=https://ako.sk/wp-content/uploads/2020/07/ag.AKO_VOLEBNE_PREF_JUL_2020.pdf |title=Prieskum volebných preferenciído NR SR –JÚL2020po 100 dňoch novej vlády |date=2020 |website=ako.sk |access-date=2021-03-31}}</ref>
+| data-sort-value="2020-07-17" | 7–17 Jul 2020
 |1,000
-| style="background:#d6e86f;" | '''23.5%'''<br>{{font|size=80%|font=Arial|text='''44'''}}
+| style="background:#D1DF7C" |'''23.5%'''<br>{{font|size=80%|font=Arial|text=44}}
 |10.7%<br>{{font|size=80%|font=Arial|text=20}}
 |6.4%<br>{{font|size=80%|font=Arial|text=12}}
 |7.9%<br>{{font|size=80%|font=Arial|text=15}}
 |5.2%<br>{{font|size=80%|font=Arial|text=10}}
+|2.2%<br>{{font|size=80%|font=Arial|text=0}}
 |9.4%<br>{{font|size=80%|font=Arial|text=18}}
 |4.0%<br>{{font|size=80%|font=Arial|text=0}}
 |3.0%<br>{{font|size=80%|font=Arial|text=0}}
+|–
 |2.5%<br>{{font|size=80%|font=Arial|text=0}}
+|–
+|1.0%<br>{{font|size=80%|font=Arial|text=0}}
+|1.4%<br>{{font|size=80%|font=Arial|text=0}}
+|2.6%<br>{{font|size=80%|font=Arial|text=0}}
 |16.7%<br>{{font|size=80%|font=Arial|text=31}}
-|N/A
-|10.7%
-| style="background:#b2c933;" | 6.8%
+|{{N/A}}
+|
 |-
 |Focus<ref name="Focus062020">{{Cite web|date=2020-06-28|title=S Pellegrinim aj bez neho. Exkluzívny prieskum ukazuje, ako by nová strana zamiešala preferenciami|url=https://www.tvnoviny.sk/na-telo/2000971_s-pellegrinim-aj-bez-neho-exkluzivny-prieskum-ukazuje-ako-by-nova-strana-zamiesala-preferenciami|access-date=2021-03-27|website=tvnoviny.sk|language=sk}}</ref>
-|17–24<br>Jun 2020
+| data-sort-value="2020-06-24" | 17–24 Jun 2020
 |1,009
-| style="background:#d6e86f;" | '''21.2%'''<br>{{font|size=80%|font=Arial|text='''41'''}}
+| style="background:#D1DF7C" |'''21.2%'''<br>{{font|size=80%|font=Arial|text=41}}
 |19.0%<br>{{font|size=80%|font=Arial|text=37}}
 |12.8%<br>{{font|size=80%|font=Arial|text=25}}
 |9.6%<br>{{font|size=80%|font=Arial|text=18}}
 |6.2%<br>{{font|size=80%|font=Arial|text=12}}
+|0.8%<br>{{font|size=80%|font=Arial|text=0}}
 |9.2%<br>{{font|size=80%|font=Arial|text=17}}
 |3.6%<br>{{font|size=80%|font=Arial|text=0}}
 |4.6%<br>{{font|size=80%|font=Arial|text=0}}
-|4.5%<br>{{font|size=80%|font=Arial|text=0}}
-|N/A
-|N/A
-|9.3%
-| style="background:#b2c933;" | 2.2%
+|0.3%<br>{{font|size=80%|font=Arial|text=0}}
+|3.7%<br>{{font|size=80%|font=Arial|text=0}}
+|0.5%<br>{{font|size=80%|font=Arial|text=0}}
+|1.5%<br>{{font|size=80%|font=Arial|text=0}}
+|2.1%<br>{{font|size=80%|font=Arial|text=0}}
+|2.4%<br>{{font|size=80%|font=Arial|text=0}}
+|{{N/A}}
+|{{N/A}}
+|
 |-
-|Focus<ref name="Focus052020">{{cite web|date=24 May 2020|title=Press release|url=http://www.focus-research.sk/files/n271_Volebne%20preferencie%20politickych%20stran_maj%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
-|14–21<br>May 2020
+|Focus<ref name="Focus052020">{{cite web |url=http://www.focus-research.sk/files/n271_Volebne%20preferencie%20politickych%20stran_maj%202020.pdf |title=Press release |date=24 May 2020 |website= www.focus-research.sk|access-date=2021-03-31}}</ref>
+| data-sort-value="2020-05-21" | 14–21 May 2020
 |1,011
-| style="background:#d6e86f;" | '''22.9%'''<br>{{font|size=80%|font=Arial|text='''43'''}}
+| style="background:#D1DF7C" |'''22.9%'''<br>{{font|size=80%|font=Arial|text=43}}
 |21.6%<br>{{font|size=80%|font=Arial|text=41}}
 |11.2%<br>{{font|size=80%|font=Arial|text=21}}
 |9.7%<br>{{font|size=80%|font=Arial|text=18}}
 |6.5%<br>{{font|size=80%|font=Arial|text=12}}
+|0.2%<br>{{font|size=80%|font=Arial|text=0}}
 |8.0%<br>{{font|size=80%|font=Arial|text=15}}
 |4.3%<br>{{font|size=80%|font=Arial|text=0}}
 |4.8%<br>{{font|size=80%|font=Arial|text=0}}
+|–
 |4.2%<br>{{font|size=80%|font=Arial|text=0}}
-|N/A
-|N/A
-|6.8%
-| style="background:#b2c933;" | 1.3%
+|–
+|1.5%<br>{{font|size=80%|font=Arial|text=0}}
+|1.4%<br>{{font|size=80%|font=Arial|text=0}}
+|2.0%<br>{{font|size=80%|font=Arial|text=0}}
+|{{N/A}}
+|{{N/A}}
+|
 |-
-|Focus<ref name="Focus042020">{{cite web|date=19 April 2020|title=Press release|url=http://www.focus-research.sk/files/n270_Volebne%20preferencie%20politickych%20stran_april%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
-|15–19<br>Apr 2020
+|Focus<ref name="Focus042020">{{cite web |url=http://www.focus-research.sk/files/n270_Volebne%20preferencie%20politickych%20stran_april%202020.pdf |title=Press release |date=19 April 2020 |website= www.focus-research.sk|access-date=2021-03-31}}</ref>
+| data-sort-value="2020-04-19" | 15–19 Apr 2020
 |1,016
-| style="background:#d6e86f;"| '''24.4%'''<br>{{font|size=85%|font=Arial|text='''45'''}}
+| style="background:#D1DF7C" |'''24.4%'''<br>{{font|size=80%|font=Arial|text=45}}
 |21.8%<br>{{font|size=80%|font=Arial|text=40}}
 |11.5%<br>{{font|size=80%|font=Arial|text=21}}
 |9.2%<br>{{font|size=80%|font=Arial|text=17}}
-|7.6%<br>{{font|size=80%|font=Arial|text=14}}
+| colspan="2" | 7.6%<br>{{font|size=80%|font=Arial|text=14}}
 |6.8%<br>{{font|size=80%|font=Arial|text=13}}
 |3.2%<br>{{font|size=80%|font=Arial|text=0}}
 |4.5%<br>{{font|size=80%|font=Arial|text=0}}
+|–
 |2.8%<br>{{font|size=80%|font=Arial|text=0}}
-|N/A
-|N/A
-|8.2%
-| style="background:#b2c933;"| 2.6%
+|–
+|1.8%<br>{{font|size=80%|font=Arial|text=0}}
+|1.6%<br>{{font|size=80%|font=Arial|text=0}}
+|1.1%<br>{{font|size=80%|font=Arial|text=0}}
+|{{N/A}}
+|{{N/A}}
+|
 |-
-|AKO<ref name="AKO042020">{{cite web|date=2020|title=Prieskum volebných preferenciído NR SR|url=https://ako.sk/wp-content/uploads/2020/04/ag.AKO-VOLEBN%C3%89_PREF_APRIL-2020_.pdf|access-date=2021-03-31|website=ako.sk|format=PDF}}</ref>
-|14–17<br>Apr 2020
+|AKO<ref name="AKO042020">{{cite web |url=https://ako.sk/wp-content/uploads/2020/04/ag.AKO-VOLEBN%C3%89_PREF_APRIL-2020_.pdf |title= Prieskum volebných preferenciído NR SR |date= 2020|website=ako.sk|access-date=2021-03-31}}</ref>
+| data-sort-value="2020-04-17" | 14–17 Apr 2020
 |1,000
-| style="background:#d6e86f;"| '''29.9%'''<br>{{font|size=80%|font=Arial|text='''56'''}}
+| style="background:#D1DF7C" |'''29.9%'''<br>{{font|size=80%|font=Arial|text=56}}
 |18.3%<br>{{font|size=80%|font=Arial|text=34}}
 |10.0%<br>{{font|size=80%|font=Arial|text=18}}
 |6.4%<br>{{font|size=80%|font=Arial|text=12}}
 |6.9%<br>{{font|size=80%|font=Arial|text=12}}
+|0.9%<br>{{font|size=80%|font=Arial|text=0}}
 |9.7%<br>{{font|size=80%|font=Arial|text=18}}
 |3.0%<br>{{font|size=80%|font=Arial|text=0}}
 |3.7%<br>{{font|size=80%|font=Arial|text=0}}
-|4.4%<br>{{font|size=80%|font=Arial|text=0}}
-|N/A
-|N/A
-|7.7%
-| style="background:#b2c933;"| 11.6%
+| colspan="3"| 4.4%<br>{{font|size=80%|font=Arial|text=0}}
+|0.6%<br>{{font|size=80%|font=Arial|text=0}}
+|2.2%<br>{{font|size=80%|font=Arial|text=0}}
+|2.2%<br>{{font|size=80%|font=Arial|text=0}}
+|{{N/A}}
+|{{N/A}}
+|
 |-
-|Focus<ref name="Focus0420202">{{cite web|date=19 April 2020|title=Press release|url=http://www.focus-research.sk/files/n270_Volebne%20preferencie%20politickych%20stran_april%202020.pdf|access-date=2021-03-31|website=www.focus-research.sk|format=PDF}}</ref>
-|18–21<br>Mar 2020
+|||data-sort-value="2020-03-21"|21 Mar 2020|| colspan="19" |'''[[Matovič's Cabinet]] appointed, following an agreement between OĽaNO, SR, SaS and ZĽ{{Ref|https://dennikn.sk/2336201/minuta-po-minute-prezidentka-vymenuje-vladu-eduarda-hegera/}}'''
+|-
+|Focus<ref name="Focus042020" />
+| data-sort-value="2020-03-31" | 18–21 Mar 2020
 |1,023
-| style="background:#d6e86f;"| '''23.3%'''<br>{{font|size=80%|font=Arial|text='''43'''}}
-|21.6%<br>{{font|size=80%|font=Arial|text=40}}
-|11.5%<br>{{font|size=80%|font=Arial|text=21}}
-|7.3%<br>{{font|size=80%|font=Arial|text=14}}
-|5.9%<br>{{font|size=80%|font=Arial|text=11}}
-|5.8%<br>{{font|size=80%|font=Arial|text=11}}
-|5.2%<br>{{font|size=80%|font=Arial|text=10}}
-|4.1%<br>{{font|size=80%|font=Arial|text=0}}
-|3.5%<br>{{font|size=80%|font=Arial|text=0}}
-|N/A
-|N/A
-|11.8%
-| style="background:#b2c933;"| 1.7%
+| style="background:#D1DF7C" |'''23.3%'''
+|21.6%
+|11.5%
+|7.3%
+| colspan="2" | 5.9%
+|5.8%
+|5.2%
+|4.1%
+| colspan="3"| 3.5%
+|1.3%
+|3.4%
+|2.4%
+|{{N/A}}
+|{{N/A}}
+|
+|- style="background:#EFEFEF; font-weight:bold;"
+| [[2020 Slovak parliamentary election|2020 elections]]
+| data-sort-value="2020-02-29" | 29 February 2020
+| 
+| style="background:#BED62F;"| '''25.0%'''<br>{{font|size=80%|font=Arial|text=53}}
+| 18.3%<br>{{font|size=80%|font=Arial|text=38}}
+| 8.2%<br>{{font|size=80%|font=Arial|text=17}}
+| 8.0%<br>{{font|size=80%|font=Arial|text=17}}
+| colspan="2"| 7.0%<br>{{font|size=80%|font=Arial|text=0}}
+| 6.2%<br>{{font|size=80%|font=Arial|text=13}}
+| 5.8%<br>{{font|size=80%|font=Arial|text=12}}
+| 4.7%<br>{{font|size=80%|font=Arial|text=0}}
+| colspan="3"|  3.9%<br>{{font|size=80%|font=Arial|text=0}}
+| 2.1%<br>{{font|size=80%|font=Arial|text=0}}
+| 3.2%<br>{{font|size=80%|font=Arial|text=0}}
+| 3.1%<br>{{font|size=80%|font=Arial|text=0}}
+|{{N/A}}
+|{{N/A}}
+|
+|- style="background-color:#E9E9E9"
+!rowspan="4"|
+!rowspan="4"|
+!class="unsortable" rowspan="4"|
+!style="background:#BED62F; width:40px;"|
+!style="background:{{party color|Direction – Social Democracy}}; width:40px;"|
+!style="background:{{party color|We Are Family (Slovakia)}}; width:40px;"|
+!style="background:{{party color|Kotleba – People's Party Our Slovakia}}; width:40px;"|
+!style="background:{{party color|Progressive Slovakia (2021)}}; width:40px;"|
+!style="background:{{party color|TOGETHER – Civic Democracy}}; width:40px;"|
+!style="background:{{party color|Freedom and Solidarity}}; width:40px;"|
+!style="background:{{party color|For the People (Slovakia)}}; width:40px;"|
+!style="background:#FFE17C; width:40px;"|
+!style="background:#275D33; width:40px;"|
+!style="background:{{party color|Party of the Hungarian Community}}; width:40px;"|
+!style="background:#00A652; width:40px;"|
+!style="background:{{party color|Most–Híd}}; width:40px;"|
+!style="background:{{party color|Slovak National Party}}; width:40px;"|
+!style="background:#FF0000; width:40px;"|
+!style="background:{{party color|Voice – Social Democracy}}; width:40px;"|
+!style="background:{{party color|REPUBLIC (Slovakia)}}; width:40px;"|
+!style="width:20px;" rowspan="4"| Others
+|- style="font-size:85%;"
+!rowspan="3"|[[Ordinary People (Slovakia)|OĽaNO]]
+!rowspan="3"|[[Direction – Social Democracy|SMER-SD]]
+!rowspan="3"|[[We Are Family (Slovakia)|SR]]
+!rowspan="3"|[[Kotleba – People's Party Our Slovakia|ĽSNS]]
+!rowspan="2"|[[Progressive Slovakia|PS]]
+!rowspan="2"|[[TOGETHER - Civic Democracy|SPOLU]]
+!rowspan="3"|[[Freedom and Solidarity|SaS]]
+!rowspan="3"|[[For the People (political party)|ZĽ]]
+!rowspan="3"|[[Christian Democratic Movement|KDH]]
+!MF
+![[Party of the Hungarian Community|SMK-MKP]]
+!Ö-S
+!rowspan="2"|[[Most–Híd|M-H]]
+!rowspan="3"|[[Slovak National Party|SNS]]
+!rowspan="3"|[[:sk:DOBRÁ VOĽBA|DV]]
+!rowspan="3"|[[Voice – Social Democracy|<br />HLAS-SD]]
+!class="unsortable" rowspan="3"|[[REPUBLIC (Slovakia)|REP]]
+|-style="font-size:85%;"
+!colspan="3"|[[:sk:Magyar Közösségi Összefogás – Maďarská komunitná spolupatričnosť|MKÖ-MKS]]
 |-
-! colspan="3" rowspan="3" |[[2020 Slovak parliamentary election|2020 parliamentary election]]
-! style="background:#d6e86f;" | '''25.02%'''<br>{{font|size=80%|font=Arial|text=53}}
-!18.29%<br>{{font|size=80%|font=Arial|text=38}}
-!8.24%<br>{{font|size=80%|font=Arial|text=17}}
-!7.97%<br>{{font|size=80%|font=Arial|text=17}}
-!6.96%<br>{{font|size=80%|font=Arial|text=0}}
-!6.22%<br>{{font|size=80%|font=Arial|text=13}}
-!5.77%<br>{{font|size=80%|font=Arial|text=12}}
-!4.65%<br>{{font|size=80%|font=Arial|text=0}}
-!3.91%<br>{{font|size=80%|font=Arial|text=0}}
-!N/A
-!N/A
-!12.97%
-! style="background:#b2c933;" | 6.73%
+|-style="font-size:85%;"
+!colspan="2"| PS-SPOLU
+!
+!colspan="3"|[[:sk:Aliancia - Szövetség|ALI]]
 |-
-!style="background:#b2c933;"|
-!style="background:#ee3a43;"|
-!style="background:#034b9f;"|
-!style="background:#277d2a;"|
-!style="background:#1379d9;"|
-!style="background:#a7cf35;"|
-!style="background:#fdbb12;"|
-!style="background:#00518d;"|
-!style="background:#149840;"|
-!style="background:#f90311;"|
-!style="background:#e30512;"|
-! rowspan="2" |Others
-! rowspan="2" |Lead
-|-
-![[OĽaNO]]
-![[Direction – Social Democracy|SMER<br>–SD]]
-![[We Are Family (Slovakia)|SR]]
-![[People's Party Our Slovakia|ĽSNS]]
-![[Progressive Slovakia|PS]]<br>–[[SPOLU – občianska demokracia|SPOLU]]
-![[Freedom and Solidarity|SaS]]
-![[For the People (Slovakia)|ZĽ]]
-![[Christian Democratic Movement|KDH]]
-![[Alliance (Slovak political party)|MKÖ<br>–MKS]]
-![[Voice – Social Democracy|HLAS<br>–SD]]
-![[Republic (Slovakia)|REP]]
 |}

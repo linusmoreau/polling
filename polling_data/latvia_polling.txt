@@ -1,5 +1,5 @@
 === Vote share ===
-The following are opinion polls conducted for the parliamentary election, measuring the estimated percentage of the vote. Parties in '''bold''' successfully pass the 5% electoral threshold to win seats in Saeima, highlighted party is in the lead.
+The following are opinion polls conducted for the parliamentary election, measuring the estimated percentage of the vote. Parties in '''bold''' successfully pass the 5% electoral threshold to win seats in the Saeima, and the highlighted party is in the lead.
 
 {{mw-datatable}}
 {| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
@@ -7,25 +7,272 @@ The following are opinion polls conducted for the parliamentary election, measur
 ! rowspan="2"| Polling firm
 ! class="unsortable" rowspan="2"| Fieldwork date
 ! class="unsortable" rowspan="2"| Sample<br />size
-! class="unsortable" rowspan="2"| {{H:title|Percentage of decided voters|Dec.}}
+! class="unsortable" rowspan="2"| {{tooltip|2=Percentage of decided voters|Dec.}}
 ! class="unsortable" style="width:50px;" | [[Social Democratic Party "Harmony"|S]]
-! class="unsortable" style="width:50px;" | [[For a Humane Latvia|PCL]]
+! class="unsortable" style="width:50px;" | [[For a Humane Latvia|AL]]
+! class="unsortable" style="width:50px;" | [[The Conservatives (Latvia)|K]]
+! class="unsortable" style="width:50px;" | [[Development/For!|AP!]]
+! class="unsortable" style="width:50px;" | [[National Alliance (Latvia)|NA]]
+! class="unsortable" style="width:50px;" | [[Union of Greens and Farmers|ZZS]]
+! class="unsortable" style="width:50px;" | [[New Unity|JV]]
+! class="unsortable" style="width:50px;" | [[United List (Latvia)|AS]]
+! class="unsortable" style="width:50px;" | [[Latvian Russian Union|LKS]]
+! class="unsortable" style="width:50px;" | [[The Progressives (Latvia)|P]]
+! class="unsortable" style="width:50px;" | [[For Each and Every One|KuK]]
+! class="unsortable" style="width:50px;" | [[Latvia First|LPV]]
+! class="unsortable" style="width:50px;" | [[Republic (Latvia)|R]]
+! class="unsortable" style="width:50px;" | [[For Stability!|S!]]
+! class="unsortable" style="width:50px;" | [[Sovereign Power (Latvia)|SV]]
+! class="unsortable" style="width:50px;" | [[Force of People's Power|TVS]]
+! class="unsortable" style="width:50px;" | [[People's Servants for Latvia|TKL]]
+! class="unsortable" style="width:50px;" | [[Progressive Christian Party|KPP]]
+! class="unsortable" style="width:50px;" | [[United for Latvia|VL]]
+! class="unsortable" style="width:30px;" rowspan="2"| Lead
+! class="unsortable" style="width:20px;" rowspan="2"| {{tooltip|2=Government coalition (JV, JKP, AP!, NA)|Gov.}}
+! class="unsortable" style="width:20px;" rowspan="2"| {{tooltip|2=Opposition parties (S, AL, ZZS, AS, LKS, P, KuK, LPV, R, S!, SV, TVS, TKL, KPP, VL)|Opp.}}
+|-
+! data-sort-type="number" style="background:{{party color|Social Democratic Party "Harmony"}};" |
+! data-sort-type="number" style="background:#800404;" |
+! data-sort-type="number" style="background:{{party color|New Conservative Party (Latvia)}};" |
+! data-sort-type="number" style="background:{{party color|Development/For!}};" |
+! data-sort-type="number" style="background:{{party color|National Alliance (Latvia)}};" |
+! data-sort-type="number" style="background:{{party color|Union of Greens and Farmers}};" |
+! data-sort-type="number" style="background:{{party color|New Unity}};" |
+! data-sort-type="number" style="background:{{party color|United List (Latvia)}};" |
+! data-sort-type="number" style="background:{{party color|Latvian Russian Union}};" |
+! data-sort-type="number" style="background:{{party color|The Progressives (Latvia)}};" |
+! data-sort-type="number" style="background:{{party color|Law and Order (Latvia)}};" |
+! data-sort-type="number" style="background:{{party color|Latvia First}};" |
+! data-sort-type="number" style="background:#1B4D7D;" |
+! data-sort-type="number" style="background:#FFA500;" |
+! data-sort-type="number" style="background:{{party color|Sovereign Power (Latvia)}};" |
+! data-sort-type="number" style="background:#5B031B;" |
+! data-sort-type="number" style="background:#9C2334;" |
+! data-sort-type="number" style="background:#A53774;" |
+! data-sort-type="number" style="background:#C8057F;" |
+|- style="background:#EAFFEA"
+|LTV/SKDS<ref>{{cite web | url=http://www.aprinkis.lv/index.php/sabiedriba/politika/36554-veletaju-aptauja-saeimas-velesanas-uzvarejusas-jv-apvienotais-saraksts-un-zzs | title=Vēlētāju aptauja: Saeimas vēlēšanās uzvarējušas JV, Apvienotais saraksts un ZZS }}</ref> (exit poll)
+|1 Oct 2022
+|1,825
+| -
+|3.5
+|0.3
+|3.5
+|'''5.2'''
+|'''8.4'''
+|'''10.9'''
+|style="background:#A0D78E"|'''22.5'''
+|'''11.5'''
+|3.2
+|'''8.3'''
+|2.8
+|'''5.3'''
+|1.6
+|'''5.4'''
+|2.3
+|1.1
+|0.9
+|0.4
+|0.5
+| style="background:{{party color|New Unity}};" |10.0
+|39.6
+|58.0
+|-
+|SKDS<ref>{{cite tweet |author=LTV Panorāma |user=ltvpanorama |number=1573697713052459008 |date=24 September 2022 |title=Paši jaunākie reitingu dati rāda, ka vēlētāju simpātijas ir sadalījušās ļoti plaši starp 19 politisko partiju un apvienību piedāvātajiem kandidātu sarakstiem. Vēlētāju aptauju pēc LTV pasūtījuma veicis tirgus un sabiedriskās domas pētījumu centrs SKDS. https://t.co/xJeyJtx4kt https://t.co/DlnpMM3MlR |trans-title=The most recent rating data show that voters' sympathies are very widely divided between the lists of candidates proposed by 19 political parties and associations. The market and public opinion research center SKDS conducted the voter survey on the order of LTV. |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20221213190424/https://twitter.com/ltvpanorama/status/1573697713052459008 |archive-date=13 December 2022 |url-status=live}}</ref>
+|Sep 2022
+|1,825
+| -
+|'''7.3'''
+|0.3
+|3.3
+|'''5.2'''
+|'''11.3'''
+|'''11.6'''
+|style="background:#A0D78E"|'''21.4'''
+|'''8.4'''
+|4.0
+|'''7.6'''
+|4.3
+|4.3
+|1.7
+|4.1
+|2.4
+|0.8
+|1.4
+|0.5
+|0.6
+| style="background:{{party color|New Unity}};" |9.8
+|41.2
+|58.8
+|-
+|Factum<ref>{{Cite web |url=https://reitingi.factum.lv/reitingi-saeima/ |access-date=25 September 2022 |website=Factum|language=lv}}</ref>
+|{{nobr|15–20 Sep 2022}}
+|1,406
+|51.3
+|'''8.0'''
+|0.3
+|4.6
+|'''6.3'''
+|'''9.3'''
+|'''7.0'''
+|style="background:#A0D78E"|'''22.6'''
+|'''9.0'''
+|4.8
+|'''8.8'''
+|4.0
+|'''5.0'''
+|1.0
+|'''6.2'''
+|1.4
+|0.4
+|0.9
+|0.2
+|0.1
+| style="background:{{party color|New Unity}};" |13.3
+|42.8
+|57.2
+|-
+|Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1568253251317022723 |date=9 September 2022 |title=❗️ Sarakstu reitingi #vēlēšanas2022 Lielākās izmaiņas 2 mēnešu laikā: 🔺 Apvienotais saraksts (+5,6), Stabilitātei (+2,6) 🔻 LPV (-2,7), NA (-2,1), A/PAR (-2,1) Secība kopš iepriekšējās aptaujas: 🔺 AS no 6.vietas uz 3.vietu 🔻 A/PAR no 4.vietas uz 7.vietu https://t.co/eIhHkvfRB7 |trans-title=❗️ List ratings #election2022 Biggest changes in 2 months: 🔺 Combined list (+5.6), Stability (+2.6) 🔻 LPV (-2.7), NA (-2.1), A/PAR (- 2,1) Sequence since the previous survey: 🔺 AS from 6th place to 3rd place 🔻 A/PAR from 4th place to 7th place |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20220912104700/https://twitter.com/interactive_lv/status/1568253251317022723 |archive-date=12 September 2022 |url-status=live}}</ref>
+|4–6 Sep 2022
+|1,406
+|51.2
+|'''9.0'''
+|0.3
+|4.7
+|'''6.9'''
+|'''10.2'''
+|'''7.5'''
+|style="background:#A0D78E"|'''21.9'''
+|'''9.2'''
+|'''5.2'''
+|'''7.3'''
+|3.3
+|4.8
+|1.1
+|'''5.8'''
+|1.4
+|0.5
+|0.7
+|0.1
+|0.1
+| style="background:{{party color|New Unity}};" |11.7
+|43.7
+|56.3
+|-
+|SKDS<ref>{{cite tweet |author=LTV Panorāma |user=ltvpanorama |number=1564666521963712512 |date=30 August 2022 |title=Partiju reitingi: Saeimā izredzes iekļūt 7 līdz 12 sarakstiem. https://t.co/Q3Athn8K29 https://t.co/INge0fO3rC |trans-title=Party ratings: 7 to 12 lists have a chance of entering the Saeima. |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20220830214126/https://twitter.com/ltvpanorama/status/1564666521963712512 |archive-date=30 August 2022 |url-status=live}}</ref>
+|Aug 2022
+|1,848
+| -
+|'''9.5'''
+|
+|4.7
+|'''7.9'''
+|'''12.6'''
+|'''10.1'''
+| style="background:#A0D78E" |'''15.1'''
+|'''7.8'''
+|4.6
+|'''8.8'''
+|3.7
+|3.5
+|
+|'''5.5'''
+|2.1
+|
+|
+|
+|
+| style="background:{{party color|New Unity}};" |2.5
+|40.3
+|59.7
+|-
+|Factum<ref>{{cite tweet |author=Europe Elects |author-link=Europe Elects |user=EuropeElects |number=1561764840477163520 |date=22 August 2022 |title=Latvia, Factum Interactive poll: JV-EPP: 21% NA-ECR: 11% S-S&amp;D: 9% (-2) AP!-RE: 9% ZZS~EPP{{!}}RE{{!}}S&amp;D: 9% (+1) AS~EPP{{!}}RE{{!}}G/EFA: 8% P-G/EFA: 8% (+2) S!-*: 7% (+1) K→EPP: 5% (-1) ... +/- vs. 3-7 August 2022 Fieldwork: 16-21 August 2022 Sample size: 1,071 ➤ https://t.co/UCfd3rHFBF https://t.co/nIM4h6FGba |language=en |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20220822174031/https://twitter.com/EuropeElects/status/1561764840477163520 |archive-date=22 August 2022 |url-status=live}}</ref>
+|{{nobr|16–21 Aug 2022}}
+|1,071
+| -
+|'''9.2'''
+|0.4
+|'''5.1'''
+|'''8.8'''
+|'''10.8'''
+|'''8.6'''
+| style="background:#A0D78E" |'''20.7'''
+|'''8.4'''
+|4.2
+|'''7.5'''
+|1.7
+|4.8
+|1.2
+|'''6.6'''
+|1.1
+|0.0
+|0.7
+|0.1
+|0.1
+| style="background:{{party color|New Unity}};" |9.9
+| {{#expr:5.1+8.8+10.8+20.7}}
+| {{#expr:9.2+0.4+8.6+8.4+4.2+7.5+1.7+4.8+1.2+6.6+1.1+0.7+0.1+0.1}}
+|-
+|Factum<ref>{{Cite web|title=ReTV un Factum: Partiju trijniekā JV, Saskaņa un NA|url=https://retv.lv/raksts/retv-un-factum-partiju-trijnieka-jv-saskana-un-na|website=ReTV|language=lv|access-date=8 August 2022|date=8 August 2022}}</ref>
+|{{nobr|3–7 Aug 2022}}
+|878
+| -
+|'''10.9'''
+|0.2
+|'''5.9'''
+|'''9.4'''
+|'''10.5'''
+|'''7.7'''
+| style="background:#A0D78E" |'''21.0'''
+|'''7.7'''
+|3.5
+|'''6.3'''
+|2.2
+|4.5
+|1.7
+|'''6.1'''
+|1.4
+|0.0
+|0.6
+|0.1
+|0.1
+| style="background:{{party color|New Unity}};" |10.1
+| {{#expr:5.9+9.4+10.5+21}}
+| {{#expr:10.9+0.2+7.7+7.7+3.5+6.3+2.2+4.5+1.7+6.1+1.4+0.6+0.1+0.1}}
+|-
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" |2 Aug 2022
+| style="border-right-style:hidden;" |
+| colspan="23" |'''The Central Electoral Commission registers the 19 electoral lists that will participate in the election'''
+|}
+
+{{mw-datatable}}
+{| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="2"| Polling firm
+! class="unsortable" rowspan="2"| Fieldwork date
+! class="unsortable" rowspan="2"| Sample<br />size
+! class="unsortable" rowspan="2"| {{tooltip|2=Percentage of decided voters|Dec.}}
+! class="unsortable" style="width:50px;" | [[Social Democratic Party "Harmony"|S]]
+! class="unsortable" style="width:50px;" | [[For a Humane Latvia|PCL]]/[[For a Humane Latvia|AL]]
 ! class="unsortable" style="width:50px;" | [[New Conservative Party (Latvia)|JKP]]/[[The Conservatives (Latvia)|K]]
 ! class="unsortable" style="width:50px;" | [[Development/For!|AP!]]
 ! class="unsortable" style="width:50px;" | [[National Alliance (Latvia)|NA]]
 ! class="unsortable" style="width:50px;" | [[Union of Greens and Farmers|ZZS]]
 ! class="unsortable" style="width:50px;" | [[New Unity|JV]]
-! class="unsortable" style="width:50px;" | [[Latvian Association of Regions|LRA]]/[[United Latvian List|LAS]]
+! class="unsortable" style="width:50px;" | [[Latvian Association of Regions|LRA]]/[[United List (Latvia)|AS]]
 ! class="unsortable" style="width:50px;" | [[Latvian Russian Union|LKS]]
 ! class="unsortable" style="width:50px;" | [[The Progressives (Latvia)|P]]
 ! class="unsortable" style="width:50px;" | [[Law and Order (Latvia)|LuK]]/[[For Each and Every One|KuK]]
 ! class="unsortable" style="width:50px;" | [[Latvia First|LPV]]
 ! class="unsortable" style="width:50px;" | [[Republic (Latvia)|R]]
 ! class="unsortable" style="width:50px;" | [[For Stability!|S!]]
+! class="unsortable" style="width:50px;" | [[National Power Unity|NST]]
+! class="unsortable" style="width:50px;" | [[Sovereign Power (Latvia)|SV]]
 ! class="unsortable" style="width:30px;" rowspan="2"| Others
 ! class="unsortable" style="width:30px;" rowspan="2"| Lead
-! class="unsortable" style="width:20px;" rowspan="2"| {{H:title|Government coalition (JV, JKP, AP!, NA)|Gov.}}
-! class="unsortable" style="width:20px;" rowspan="2"| {{H:title|Opposition parties (S, PCL, ZZS, LRA, LKS, P, KuK, LPV, R, S!, NST)|Opp.}}
+! class="unsortable" style="width:20px;" rowspan="2"| {{tooltip|2=Government coalition (JV, JKP, AP!, NA)|Gov.}}
+! class="unsortable" style="width:20px;" rowspan="2"| {{tooltip|2=Opposition parties (S, PCL, ZZS, LRA, LKS, P, KuK, LPV, R, S!, SV, NST)|Opp.}}
 |-
 ! data-sort-type="number" style="background:{{party color|Social Democratic Party "Harmony"}};" |
 ! data-sort-type="number" style="background:{{party color|For a Humane Latvia}};" |
@@ -41,9 +288,111 @@ The following are opinion polls conducted for the parliamentary election, measur
 ! data-sort-type="number" style="background:{{party color|Latvia First}};" |
 ! data-sort-type="number" style="background:#1B4D7D;" |
 ! data-sort-type="number" style="background:#FFA500;" |
+! data-sort-type="number" style="background:#721813;" |
+! data-sort-type="number" style="background:{{party color|Sovereign Power (Latvia)}};" |
+|-
+|Factum<ref>{{Cite web|title=Jaunākie "Factum" un ReTV Ziņu dienesta partiju reitingi|url=https://retv.lv/raksts/retv-un-factum-jaunakie-partiju-reitingi-nedelas-laika-mainas-partiju-izvietojums-topa-augsgala|website=ReTV|language=lv|access-date=1 August 2022|date=25 July 2022}}</ref>
+|20–24 July 2022
+|1,156
+| -
+|'''10.3'''
+|
+|'''5.7'''
+|'''10.7'''
+|'''11.3'''
+|'''6.8'''
+| style="background:#A0D78E" |'''20.5'''
+|4.9
+|3.8
+|'''6.4'''
+|3.1
+|'''5.0'''
+|1.9
+|'''5.3'''
+|0.3
+|1.3
+|2.6
+| style="background:{{party color|New Unity}};" |9.2
+| {{#expr:20.5+5.7+10.7+11.3}}
+| {{#expr:10.3+6.8+4.9+3.8+6.4+3.1+5.0+1.3+1.9+1.3+5.3+0.3}}
+|-
+|SKDS<ref>{{Cite web|title=Party ratings in July still show plenty of floating voters|url=https://eng.lsm.lv/article/politics/politics/party-ratings-in-july-still-show-plenty-of-floating-voters.a467955/|website=LSM|language=en|access-date=4 August 2022|date=4 August 2022}}</ref>
+|July 2022
+|1,818
+|60.2
+|'''10.8'''
+|
+|4.0
+|'''9.0'''
+|'''13.3'''
+|'''7.7'''
+| style="background:#A0D78E" |'''15.7'''
+|'''5.6'''
+|'''5.7'''
+|'''8.1'''
+|4.5
+|'''5.4'''
+|2.4
+|'''5.4'''
+|
+|1.9
+|0.5
+| style="background:{{party color|New Unity}};" |2.4
+| {{#expr:15.7+4.0+9.0+13.3}}
+| {{#expr:10.8+7.7+5.6+5.7+8.1+4.5+5.4+2.4+5.4+1.9}}
+|-
+|Factum<ref>{{Cite web|title=Jaunākie "Factum" un ReTV Ziņu dienesta partiju reitingi|url=https://www.retv.lv/raksts/jaunakie-factum-un-retv-zinu-dienesta-partiju-reitingi|website=ReTV|language=lv|access-date=11 July 2022|date=11 July 2022}}</ref>
+|6–10 July 2022
+|859
+| -
+|'''10.6'''
+|
+|'''6.2'''
+|'''9.0'''
+|'''12.3'''
+|'''6.5'''
+| style="background:#A0D78E" |'''20.3'''
+|3.6
+|'''5.5'''
+|'''6.8'''
+|2.2
+|'''7.5'''
+|2.5
+|3.2
+|0.3
+|0.9
+|2.9
+| style="background:{{party color|New Unity}};" |8.0
+| {{#expr:20.3+6.2+9+12.3}}
+| {{#expr:10.6+6.5+3.6+5.5+6.8+2.2+7.5+2.5+3.2+0.9}}
+|-
+|SKDS<ref>{{Cite web|title=Partiju reitingos jūnijā fundamentālu izmaiņu nav, līderu trijnieks - nemainīgs|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingos-junija-fundamentalu-izmainu-nav-lideru-trijnieks-nemainigs.a463919/|website=LSM|language=lv|access-date=3 July 2022|date=3 July 2022}}</ref>
+|June 2022
+|1,795
+|58.5
+|'''10.3'''
+|
+|'''6.8'''
+|'''10.0'''
+|'''12.2'''
+|'''8.8'''
+| style="background:#A0D78E" |'''18.2'''
+|4.6
+|3.9
+|'''9.4'''
+|3.8
+|4.9
+|1.5
+|4.8
+|
+|
+|0.7
+| style="background:{{party color|New Unity}};" |6.0
+| {{#expr:18.2+6.8+10.0+12.2}}
+| {{#expr:10.3+8.8+4.6+3.9+9.4+3.8+4.9+1.5+4.8}}
 |-
 |Factum<ref>{{Cite web|title=Partiju reitingi maijā|url=https://retv.lv/raksts/partiju-reitingi-maija|website=ReTV|language=lv|access-date=3 June 2022|date=3 June 2022}}</ref>
-|27-31 May 2022
+|27–31 May 2022
 |1,122
 | -
 |'''10.6'''
@@ -59,8 +408,10 @@ The following are opinion polls conducted for the parliamentary election, measur
 |2.6
 |4.6
 |1.9
-|1.9
-|3.1{{efn|[[National Power Unity|NST]] 0.4%}}
+|0.3
+|0.4
+|
+|2.7
 | style="background:{{party color|New Unity}};" |7.2
 | {{#expr:20.0+6.9+10.2+12.8}}
 | {{#expr:10.6+0.1+8.4+2.9+7.1+6.9+2.6+4.6+1.9+1.9}}
@@ -83,18 +434,20 @@ The following are opinion polls conducted for the parliamentary election, measur
 |3.4
 |1.8
 |4.2
+|
+|
 |1.1
 | style="background:{{party color|New Unity}};" |2.4
 | {{#expr:17.6+5.9+9.6+15.2}}
 | {{#expr:11.8+0.7+9.5+5.1+4.3+7.7+2.0+3.4+1.8+4.2}}
 |-
-| style="border-right-style:hidden;"|
-| style="border-right-style:hidden;"|10 May 2022
-| style="border-right-style:hidden;"|
-| colspan="19"|'''[[Latvian Green Party|LZP]] and [[Liepāja Party|LP]] left ZZS and formed with LRA "United Latvian List"'''
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" |10 May 2022
+| style="border-right-style:hidden;" |
+| colspan="21" |'''[[Latvian Green Party|LZP]] and [[Liepāja Party|LP]] leave ZZS and form the "United Latvian List" with LRA'''
 |-
-|SKDS<ref>{{Cite tweet |author=Europe Elects |author-link=Europe Elects |user=EuropeElects |number=1526940499520765952 |date=18 May 2022 |title=Latvia, SKDS poll: |language=en |access-date=18 May 2022}}</ref><ref>{{Cite web|title=Latest party ratings see New Unity, National Alliance gathering momentum in Latvia|url=https://eng.lsm.lv/article/politics/politics/latest-party-ratings-see-new-unity-national-alliance-gathering-momentum-in-latvia.a457305/|website=LSM|language=en|access-date=18 May 2022|date=18 May 2022}}</ref>
-|22 April–2 May 2022
+|SKDS<ref>{{cite tweet |author=Europe Elects |author-link=Europe Elects |user=EuropeElects |number=1526940499520765952 |date=18 May 2022 |title=Latvia, SKDS poll: JV-EPP: 18% (+2) NA-ECR: 14% (+2) ZZS~EPP{{!}}RE{{!}}G/EFA: 13% S-S&amp;D: 10% (-2) AP!-RE: 8% (-1) P~G/EFA: 8% LPV-*: 5% (+1) LKS-G/EFA: 5% (-1) K→EPP: 5% ... +/- vs. March 2022 Fieldwork: 22 April-2 May 2022 Sample size: 1,812 ➤ https://t.co/UCfd3rHFBF https://t.co/k6tAaR3GSX |language=en |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20220518182245/https://twitter.com/europeelects/status/1526940499520765952 |archive-date=18 May 2022 |url-status=live}}</ref><ref>{{Cite web|title=Latest party ratings see New Unity, National Alliance gathering momentum in Latvia|url=https://eng.lsm.lv/article/politics/politics/latest-party-ratings-see-new-unity-national-alliance-gathering-momentum-in-latvia.a457305/|website=LSM|language=en|access-date=18 May 2022|date=18 May 2022}}</ref>
+|{{nobr|22 April – 2 May 2022}}
 |1,812
 |59.9
 |'''10.2'''
@@ -111,13 +464,15 @@ The following are opinion polls conducted for the parliamentary election, measur
 |'''5.3'''
 |3.0
 |2.5
+|
+|
 |0.7
 | style="background:{{party color|New Unity}};" |3.8
 | {{#expr:18.0+4.6+7.7+14.2}}
 | {{#expr:10.2+0.7+12.8+3.7+4.8+7.7+4.1+5.3+3.0+2.5}}
 |-
-|Factum<ref>{{Cite web|title=Apkopoti “Factum” aprīļa aptaujas rezultāti par partiju popularitāti|url=https://retv.lv/raksts/apkopoti-factum-aprila-aptaujas-rezultati-par-partiju-popularitati|website=ReTV|language=lv|access-date=2 May 2022|date=2 May 2022}}</ref>
-|26-29 April 2022
+|Factum<ref>{{Cite web|title=Apkopoti "Factum" aprīļa aptaujas rezultāti par partiju popularitāti|url=https://retv.lv/raksts/apkopoti-factum-aprila-aptaujas-rezultati-par-partiju-popularitati|website=ReTV|language=lv|access-date=2 May 2022|date=2 May 2022}}</ref>
+|26–29 April 2022
 |969
 | -
 |'''12.4'''
@@ -134,12 +489,14 @@ The following are opinion polls conducted for the parliamentary election, measur
 |3.1
 |2.3
 |
-|3.6{{efn|[[National Power Unity|NST]] 0.4%}}
+|0.4
+|
+|3.2
 | style="background:{{party color|New Unity}};" |6.7
 | {{#expr:19.2+9.1+10.3+12.5}}
 | {{#expr:12.4+1+9.4+2.2+5.2+5.9+3.8+3.1+2.3}}
 |-
-|Factum<ref>{{Cite tweet |author= Factum Interactive |user=Interactive_LV |number=1511362402322989060 |date=5 April 2022 |title=📒 Partiju reitingi - Marts 2022 |trans-title=📒 Party ratings - March 2022 |language=lv |access-date=7 April 2022}}</ref>
+|Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1511362402322989060 |date=5 April 2022 |title=📒 Partiju reitingi - Marts 2022 Lielākās izmaiņas: 🔼 LKS (+2.2), ZZS (+1.3) 🔽 Saskaņa (-1.5), LRA (-1.0), K un K (-1.0) https://t.co/cAJkD4csIs #partijas #reitingi https://t.co/XFNvmFRDp3 |trans-title=📒 Party ratings - March 2022 Biggest changes: 🔼 LKS (+2.2), ZZS (+1.3) 🔽 Harmony (-1.5), LRA (-1.0), K and K (-1.0) #party #rankings |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20221006150335/https://twitter.com/Interactive_LV/status/1511362402322989060 |archive-date=6 October 2022 |url-status=live}}</ref>
 |29–31 March 2022
 |832
 | -
@@ -157,7 +514,9 @@ The following are opinion polls conducted for the parliamentary election, measur
 |'''5.2'''
 |1.7
 |
-|4.9{{efn|[[National Power Unity|NST]] 0.6%}}
+|0.6
+|
+|4.3
 | style="background:{{party color|New Unity}};" |5.1
 | {{#expr:17+6.7+10.2+11.9}}
 | {{#expr:11.2+1.6+10.8+2.6+5.6+5.9+4.7+5.2+1.7}}
@@ -180,12 +539,19 @@ The following are opinion polls conducted for the parliamentary election, measur
 |4.3
 |1.7
 |3.5
+|
+|
 |1.2
 | style="background:{{party color|New Unity}};" |3.0
 | {{#expr:16.2+5.3+9.3+12.3}}
 | {{#expr:11.5+0.5+13.2+4.1+5.4+8.3+3.2+4.7+1.7}}
 |-
-|Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1500778729206865920|title=Jaunākie partiju reitingi|website=Twitter|language=lv|access-date=21 March 2022|date=7 March 2022}}</ref>
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" |24 Feb 2022
+| style="border-right-style:hidden;" |
+| colspan="21" |'''[[2022 Russian invasion of Ukraine|Beginning of Russian invasion of Ukraine]]'''
+|-
+|Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1500778729206865920 |date=7 March 2022 |title=Jaunākie partiju reitingi Februāris 2022 #partijas #reitingi https://t.co/1piUSdLiog |trans-title=Latest party ratings February 2022 #partijas #reingi |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20220307124357/https://twitter.com/interactive_lv/status/1500778729206865920 |archive-date=7 March 2022 |url-status=live}}</ref>
 | {{nobr|23–28 February 2022}}
 |1,325
 | -
@@ -203,6 +569,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 |4.5
 |1.8
 |
+|
+|
 |5.6
 | style="background:{{party color|New Unity}};" |3.6
 | {{#expr:16.3+11.5+11.6+6.2}}
@@ -211,7 +579,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" |26 Feb 2022
 | style="border-right-style:hidden;" |
-| colspan="19" |'''JKP renames itself to "The Conservatives" (K)'''
+| colspan="21" |'''JKP renames itself to "The Conservatives" (K)'''
 |-
 |SKDS<ref>{{Cite web|title=Pirms Krievijas kara Ukrainā reitings pieauga Šlesera partijai, krita – ZZS|url=https://www.lsm.lv/raksts/zinas/latvija/pirms-krievijas-kara-ukraina-reitings-pieauga-slesera-partijai-krita--zzs.a448929/|website=LSM|language=lv|access-date=21 March 2022|date=21 March 2022}}</ref>
 |February 2022
@@ -231,18 +599,20 @@ The following are opinion polls conducted for the parliamentary election, measur
 |'''7.4'''
 |2.2
 |
+|
+|
 |4.0
-| style="background:{{party color|Social Democratic Party "Harmony"}};" |3.3
+| style="background:{{party color|Social Democratic Party &quot;Harmony&quot;}};" |3.3
 | {{#expr:5.3+7.2+12+14.1}}
 | {{#expr:17.4+11.9+4+4.1+6.7+3.8+7.4+2.2}}
 |-
 | style="border-right-style:hidden;" |
 | style="border-right-style:hidden;" |19 Feb 2022
 | style="border-right-style:hidden;" |
-| colspan="19" |'''LuK renames itself to "For Each and Every One" (KuK)'''
+| colspan="21" |'''LuK renames itself to "For Each and Every One" (KuK)'''
 |-
-|Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1489707871751356416|title=SAEIMA - partiju reitingi|website=Twitter|language=lv|access-date=9 February 2022|date=4 February 2022}}</ref>
-|{{nobr|1 Jan–2 Feb 2022}}
+|Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1489707871751356416 |date=4 February 2022 |title=📈 SAEIMA - partiju reitingi Janvāris 2022 ✍️ Reitingi = balsu sadalījums, ja vēlēšanas notiktu aptaujas periodā #reitingi #partijas #saeima https://t.co/oapyrWCtW0 |trans-title=📈 SAEIMA - party ratings January 2022 ✍️ Ratings = distribution of votes if the elections were held during the survey period #reitingi #partijas #saeima |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20221008062934/https://twitter.com/interactive_lv/status/1489707871751356416 |archive-date=8 October 2022 |url-status=live}}</ref>
+|{{nobr|1 Jan – 2 Feb 2022}}
 |637
 | -
 |'''12.7'''
@@ -258,6 +628,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 |'''5.9'''
 |4.3
 |1.9
+|
+|
 |
 |5.0
 | style="background:{{party color|New Unity}};" |3.9
@@ -282,13 +654,15 @@ The following are opinion polls conducted for the parliamentary election, measur
 |4.7
 |2.6
 |2.3
+|
+|
 |1.8
-| style="background:{{party color|Social Democratic Party "Harmony"}};" |5.3
+| style="background:{{party color|Social Democratic Party &quot;Harmony&quot;}};" |5.3
 | {{#expr:4.9+8+10.2+13.1}}
 | {{#expr:18.4+14.3+4.5+5.1+5.7+4.4+4.7+2.6}}
 |-
-|Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1477686494055870482|title=Saeimas reitingi 12/2021|website=Twitter|language=lv|access-date=6 January 2022|date=2 January 2022}}</ref>
-|1-31 December 2021
+|Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1477686494055870482 |date=2 January 2022 |title=📈 Saeimas reitingi 12/2021 🎖️ Decembra izclinieks: LuK (+1,0) Izmaiņas 2021: ⬆️ Jaunā Vienotība (+3,6) ⬇️ ZZS (-3,1), JKP (-2,0), PRO (-1,8), A/PAR (-1,4), NA (-1,1), LKS (-1,1) Vairāk: www.reitingi/factum.lv #reitingi #saeima #partijas https://t.co/A6abHQXLVe |trans-title=📈 Saeima ratings 12/2021 🎖️ December final: LuK (+1.0) Changes in 2021: ⬆️ New Unity (+3.6) ⬇️ ZZS (-3.1), JKP (-2.0), PRO (-1 ,8), A/PAR (-1.4), NA (-1.1), LKS (-1.1) More: www.reitingi/factum.lv #reitingi #saeima #partijas co/A6abHQXLVe |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20220106143833/https://twitter.com/Interactive_LV/status/1477686494055870482 |archive-date=6 January 2022 |url-status=live}}</ref>
+|1–31 December 2021
 |1,410
 | -
 |'''12.2'''
@@ -304,6 +678,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 |'''6.4'''
 |4.5
 |1.7
+|
+|
 |
 |4.6
 | style="background:{{party color|New Unity}};" |4.7
@@ -328,13 +704,15 @@ The following are opinion polls conducted for the parliamentary election, measur
 |4.5
 |2.4
 |
+|
+|
 |2.9
-| style="background:{{party color|Social Democratic Party "Harmony"}};" |5.7
+| style="background:{{party color|Social Democratic Party &quot;Harmony&quot;}};" |5.7
 | {{#expr:13.6+11.5+7.8+6}}
 | {{#expr:19.3+11.7+3.9+4.7+6.5+5.2+4.5+2.4}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1466446546459840515|title=Partiju reitingi novembrī|website=Twitter|language=lv|access-date=2 December 2021|date=2 December 2021}}</ref><ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1477657076889534465|title=KĻŪDAS LABOJUMS|website=Twitter|language=lv|access-date=2 January 2022|date=2 January 2022}}</ref>
-|{{nobr|1-30 Nov 2021}}
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1466446546459840515 |date=2 December 2021 |title=📊 Partiju reitingi novembrī Lielākās izmaiņas: 🔼 JV (+1,6), LRA (+1,3) 🔽 ZZS (-2,6), A/PAR (-1,1) https://t.co/U5uXIXumVg |trans-title=📊 Party ratings in November Biggest changes: 🔼 JV (+1.6), LRA (+1.3) 🔽 ZZS (-2.6), A/PAR (-1.1) |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20221211125036/https://twitter.com/Interactive_LV/status/1466446546459840515 |archive-date=11 December 2022 |url-status=live}}</ref><ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1477657076889534465 |date=2 January 2022 |title=KĻŪDAS LABOJUMS! Gatavojot jaunākos reitingus, atklājās, ka novembra datos pieļauta kļūda un ZZS norādīts zemāks reitings. Attiecīgi arī citiem dati precizēti. Jāatvainojas @ZZS_, sarakstam ar citu vidū stabilākajiem atbalstītājiem, kā arī tiem, kas seko datiem. https://t.co/FCeD1Pfzjb |trans-title=BUG FIX! While preparing the latest ratings, it was discovered that an error was made in the November data and a lower rating was indicated in ZZS. Accordingly, the data for others has also been clarified. Apologies to @ZZS_, the list of the most stable supporters among others, as well as those who follow the data. |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20221007232642/https://twitter.com/interactive_lv/status/1477657076889534465 |archive-date=7 October 2022 |url-status=live}}</ref>
+|{{nobr|1–30 Nov 2021}}
 |866
 | -
 |'''13.0'''
@@ -351,13 +729,15 @@ The following are opinion polls conducted for the parliamentary election, measur
 |4.6
 |2.0
 |
+|
+|
 |4.7
 | style="background:{{party color|New Unity}};" |3.9
 | {{#expr:16.9+12.6+11.4+5.5}}
 | {{#expr:13+0.8+9.4+4.9+3+5.9+5.4+4.6+2}}
 |-
 |SKDS<ref>{{Cite web|title=Novembrī reitings krities "Saskaņai" un partijai "Likums un kārtība"|url=https://www.lsm.lv/raksts/zinas/latvija/novembri-reitings-krities-saskanai-un-partijai-likums-un-kartiba.a433994/|first=Māris|last=Klūga|website=LSM|language=lv|access-date=10 December 2021|date=10 December 2021}}</ref>
-|8-29 Nov 2021
+|8–29 Nov 2021
 |1,805
 |53.2
 | style="background:#F8C1BE" |'''17.8'''
@@ -374,13 +754,15 @@ The following are opinion polls conducted for the parliamentary election, measur
 |4.0
 |2.3
 |
+|
+|
 |2.3
-| style="background:{{party color|Social Democratic Party "Harmony"}};" |3.1
+| style="background:{{party color|Social Democratic Party &quot;Harmony&quot;}};" |3.1
 | {{#expr:14.7+10.5+9.1+5.2}}
 | {{#expr:17.8+13.9+5+5.2+6.9+3.2+4+2.3}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1455584951886360579|title=Partiju reitingi - Oktobris 2021|website=Twitter|language=lv|access-date=2 November 2021|date=2 November 2021}}</ref>
-|{{nobr|1-31 Oct 2021}}
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1455584951886360579 |date=2 November 2021 |title=📊 Partiju reitingi - Oktobris 2021 Lielākās izmaiņas: ⬆️ L1V (+1,4) ⬇️ JKP (-1,8) un Rep (-1,1) Līdz ar to LuK un PRO pirmo reizi apsteidz JKP Noturīgākie reitingi - NA un LKS Ilgākā posmā punktus turpina zaudēt S, bet iekrāj JV https://t.co/fuWvbLDYUY |trans-title=📊 Party ratings - October 2021 Biggest changes: ⬆️ L1V (+1.4) ⬇️ JKP (-1.8) and Rep (-1.1) Therefore, LuK and PRO overtake JKP for the first time Most stable ratings - NA and LKS Longest in the stage, S continues to lose points, but JV gains |language=lv |access-date=14 January 2023 |archive-url=https://web.archive.org/web/20211109043506/https://twitter.com/interactive_lv/status/1455584951886360579 |archive-date=9 November 2021 |url-status=live}}</ref>
+|{{nobr|1–31 Oct 2021}}
 |1,871
 | -
 |'''12.6'''
@@ -396,6 +778,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 |'''6.4'''
 |4.5
 |2.2
+|
+|
 |
 |4.1
 | style="background:{{party color|New Unity}};" |1.8
@@ -420,13 +804,15 @@ The following are opinion polls conducted for the parliamentary election, measur
 |4.8
 |2.4
 |
+|
+|
 |1.1
-| style="background:{{party color|Social Democratic Party "Harmony"}};" |7.0
+| style="background:{{party color|Social Democratic Party &quot;Harmony&quot;}};" |7.0
 | {{#expr:12.8+10.6+9.2+4.9}}
 | {{#expr:19.9+1.8+12.9+4.8+5+5.3+4.5+4.8+2.4}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1444309330766049281|title=PARTIJU REITINGI - Septembris 2021|website=Twitter|language=lv|access-date=16 October 2021|date=2 October 2021}}</ref>
-| {{nobr|1 Sep–1 Oct 2021}}
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1444309330766049281 |date=2 October 2021 |title=🇱🇻 PARTIJU REITINGI - Septembris 2021 🔺Salīdzinoši augstāka motivācija (gatavība piedalīties vēlēšanās) šobrīd JKP, PRO un JV atbalstītājiem, 🔻zemākā - Saskaņai, LRA un LuK. Parlamentary election poll #Latvia #reitingi #partijas https://t.co/XJK6YdCAZi |trans-title=🇱🇻 PARTY RATINGS - September 2021 🔺Relatively higher motivation (willingness to participate in elections) currently for supporters of JKP, PRO and JV, 🔻lowest - for Saskaņa, LRA and LuK. Parliamentary election poll #Latvia #reitingi #partijas |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211018175023/https://twitter.com/interactive_lv/status/1444309330766049281 |archive-date=18 October 2021 |url-status=live}}</ref>
+| {{nobr|1 Sep – 1 Oct 2021}}
 | 1,170
 | -
 | '''13.4'''
@@ -442,6 +828,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 | '''6.1'''
 | 3.1
 | 3.3
+|
+|
 |
 | 3.2
 | style="background:{{party color|New Unity}};" | 0.7
@@ -466,13 +854,15 @@ The following are opinion polls conducted for the parliamentary election, measur
 | 4.9
 |
 |
+|
+|
 | 1.1
-| style="background:{{party color|Social Democratic Party "Harmony"}};" | 6.2
+| style="background:{{party color|Social Democratic Party &quot;Harmony&quot;}};" | 6.2
 | {{#expr:13.7+11.4+8+4.9}}
 | {{#expr:20+0.7+13.8+5.2+4.4+5.8+6.1+4.9}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1432991968368513024|title=PARTIJU REITINGI - Augusts 2021|website=Twitter|language=lv|access-date=16 October 2021|date=1 September 2021}}</ref>
-| 27-31 Aug 2021
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1432991968368513024 |date=1 September 2021 |title=🇱🇻 PARTIJU REITINGI - Augusts 2021 Pirmie reitingi: ⚪️ Latvija pirmajā vietā (LPV) ⚪️ Republika (R) Parlamentary election poll #Latvia #reitingi #partijas https://t.co/DYQNwqGNK9 |trans-title=🇱🇻 PARTY RATINGS - August 2021 First ratings: ⚪️ Latvia in first place (LPV) ⚪️ Republika (R) Parliamentary election poll #Latvia #reitingi #partijas |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221435/https://twitter.com/Interactive_LV/status/1432991968368513024 |archive-date=16 October 2021 |url-status=live}}</ref>
+| 27–31 Aug 2021
 | 1,181
 | -
 | '''14.6'''
@@ -489,15 +879,17 @@ The following are opinion polls conducted for the parliamentary election, measur
 | 3.6
 | 0.9
 |
+|
+|
 | 4.8
 | style="background:{{party color|New Unity}};" | 2.3
 | {{#expr:16.9+14+11.7+6.1}}
 | {{#expr:14.6+1+9.1+3.7+2.8+5.7+5.1+3.6+0.9}}
 |-
 | style="border-right-style:hidden;" |
-| style="border-right-style:hidden;" |14-28 Aug 2021
+| style="border-right-style:hidden;" |14–28 Aug 2021
 | style="border-right-style:hidden;" |
-| colspan="19" |'''Two new parties - [[Latvia First]] and [[Republic (Latvia)|Republic]] - are established'''
+| colspan="21" |'''Two new parties - [[Latvia First]] and [[Republic (Latvia)|Republic]] - are established'''
 |}
 
 {| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
@@ -505,7 +897,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 ! rowspan="2"| Polling firm
 ! class="unsortable" rowspan="2"| Fieldwork date
 ! class="unsortable" rowspan="2"| Sample<br />size
-! class="unsortable" rowspan="2"| {{H:title|Percentage of decided voters|Dec.}}
+! class="unsortable" rowspan="2"| {{tooltip|2=Percentage of decided voters|Dec.}}
 ! class="unsortable" style="width:50px;" | [[Social Democratic Party "Harmony"|S]]
 ! class="unsortable" style="width:50px;" | [[For a Humane Latvia|KPV LV]]
 ! class="unsortable" style="width:50px;" | [[New Conservative Party (Latvia)|JKP]]
@@ -519,8 +911,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 ! class="unsortable" style="width:50px;" | [[Law and Order (Latvia)|LuK]]
 ! class="unsortable" style="width:30px;" rowspan="2"| Others
 ! class="unsortable" style="width:30px;" rowspan="2"| Lead
-! class="unsortable" style="width:20px;" rowspan="2"| {{H:title|Government coalition (JV, JKP, AP!, NA, KPV LV/PCL before 3 June 2021)|Gov.}}
-! class="unsortable" style="width:20px;" rowspan="2"| {{H:title|Opposition parties (S, ZZS, LRA, LKS, P, LuK, PCL after 3 June 2021)|Opp.}}
+! class="unsortable" style="width:20px;" rowspan="2"| {{tooltip|2=Government coalition (JV, JKP, AP!, NA, KPV LV/PCL before 3 June 2021)|Gov.}}
+! class="unsortable" style="width:20px;" rowspan="2"| {{tooltip|2=Opposition parties (S, ZZS, LRA, LKS, P, LuK, PCL after 3 June 2021)|Opp.}}
 |-
 ! data-sort-type="number" style="background:{{party color|Social Democratic Party "Harmony"}};" |
 ! data-sort-type="number" style="background:{{party color|Who Owns the State?}};" |
@@ -554,8 +946,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:11.9+12.5+8.9+5.5}}
 | {{#expr:22.1+0.8+12.9+5+5.8+6.3+5.6}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1421426449723142146|title=PARTIJU REITINGI - Jūlijs 2021|website=Twitter|language=lv|access-date=16 October 2021|date=31 July 2021}}</ref>
-| 27-31 Jul 2021
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1421426449723142146 |date=31 July 2021 |title=🇱🇻PARTIJU REITINGI - Jūlijs 2021 Lielākās izmaiņas: 🔺 NA (+1,1) 🔻 JKP (-2,0), Saskaņa (-1,3) https://t.co/HX4j5a0u2o |trans-title=🇱🇻PARTY RATINGS - July 2021 Biggest changes: 🔺 NA (+1.1) 🔻 JKP (-2.0), Harmony (-1.3) |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221429/https://twitter.com/Interactive_LV/status/1421426449723142146 |archive-date=16 October 2021 |url-status=live}}</ref>
+| 27–31 Jul 2021
 | 1,181
 | -
 | '''15.8'''
@@ -624,7 +1016,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | style="border-right-style:hidden;"|
 | colspan="18"|'''The [[Saeima]] approves the government reshuffle, KPV LV officially leaves the government'''
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1400069592328949760|title=PARTIJU REITINGI - Maijs 2021|website=Twitter|language=lv|access-date=16 October 2021|date=2 June 2021}}</ref>
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1400069592328949760 |date=2 June 2021 |title=🇱🇻 PARTIJU REITINGI - Maijs 2021 Lielākās izmaiņas: 🔺 ZZS (+2,4), Saskaņa (+1,9), NA (+1,4) 🔻 LuK (-2,3), Attīstībai/PAR! (-1,1) https://t.co/Myn7UMfvdg |trans-title=🇱🇻 PARTY RATINGS - May 2021 The biggest changes: 🔺 ZZS (+2.4), Harmony (+1.9), NA (+1.4) 🔻 LuK (-2.3), Development/PAR! (-1.1) |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20221010210703/https://twitter.com/interactive_lv/status/1400069592328949760 |archive-date=10 October 2022 |url-status=live}}</ref>
 | 26–31 May 2021
 | 1,089
 | -
@@ -664,8 +1056,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:11.8+14.2+8.6+8.3+1.5}}
 | {{#expr:18.3+13.7+3.4+6.3+6.6+5.7}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1388417515622174725|title=Jaunākie PARTIJU REITINGI|website=Twitter|language=lv|access-date=16 October 2021|date=1 May 2021}}</ref>
-| 26-30 Apr 2021
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1388417515622174725 |date=1 May 2021 |title=🧿Jaunākie PARTIJU REITINGI Ja Saeimas vēlēšanas notiktu aprīlī, tajās piedalītos 50,6% vēlētāju. Lielākās reitingu izmaiņas: Saskaņa (+1,7) Jaunā Vienotība (+1,1) Attīstībai/Par! (-1,2%) https://t.co/cAJkD4csIs https://t.co/GhKIBXIP2j |trans-title=🧿 Latest PARTY RATINGS If the Saeima elections were held in April, 50.6% of voters would participate in them. Biggest rating changes: Harmony (+1.7) New Unity (+1.1) For Development/For! (-1.2%) |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221409/https://twitter.com/Interactive_LV/status/1388417515622174725 |archive-date=16 October 2021 |url-status=live}}</ref>
+| 26–30 Apr 2021
 | 1,089
 | -
 |'''15.2'''
@@ -685,7 +1077,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:15.2+10.1+4.3+4.1+6.4+5.6}}
 |-
 | Latvijas Fakti<ref>{{Cite web|url=http://latvianfacts.lv.89-111-52-152.webplace.lv/uploads/Politika-042021.pdf|title=Politiskā izvēle LR Saeimas vēlēšanu gadījumā|website=Latvian Facts|language=lv|access-date=16 October 2021|date=7 May 2021}}</ref>
-| 19-29 Apr 2021
+| 19–29 Apr 2021
 | -
 | 48.3
 |style="background:#F8C1BE" | '''19.0'''
@@ -724,7 +1116,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:11.7+13.4+9.4+6.5+0}}
 | {{#expr:20.1+12.9+3.4+7+7.5+7}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1377233470578167809|title=Partiju reitingi - SAEIMA, Marts 2021|website=Twitter|language=lv|access-date=16 October 2021|date=31 March 2021}}</ref>
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1377233470578167809 |date=31 March 2021 |title=Partiju reitingi - SAEIMA, Marts 2021 Lielākās izmaiņas mēneša laikā (%punkti): S +1,5 L&amp;K +1,4 NA +1,1 PRO -1,4 A/PAR -1.2 ZZS -1,2 https://t.co/AUNIxHXrP2 https://t.co/hxvYry3GP1 |trans-title=Party ratings - SAEIMA, March 2021 The biggest changes during the month (% points): S +1.5 L&amp;K +1.4 NA +1.1 PRO -1.4 A/PAR -1.2 ZZS -1.2 |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20221006150332/https://twitter.com/Interactive_LV/status/1377233470578167809 |archive-date=6 October 2022 |url-status=live}}</ref>
 | {{nobr|26–30 Mar 2021}}
 | 990
 | -
@@ -784,7 +1176,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:11.6+13.5+9.4+7.2+0}}
 | {{#expr:18.3+11.8+4.8+5.4+7.7+6.8}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1366457757856124928|title=Partiju reitingi - Saeima|website=Twitter|language=lv|access-date=16 October 2021|date=1 March 2021}}</ref>
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1366457757856124928 |date=1 March 2021 |title=Partiju reitingi - Saeima Februāris 2021 #partijas #reitingi https://t.co/KiszWt23wo |trans-title=Party ratings - Saeima February 2021 #partijas #reitingi |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221417/https://twitter.com/Interactive_LV/status/1366457757856124928 |archive-date=16 October 2021 |url-status=live}}</ref>
 | 1–28 Feb 2021
 | 1,903
 | -
@@ -824,8 +1216,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:11.6+12.9+10.2+8.2+1.8}}
 | {{#expr:20.5+17.5+4.1+3.2+5+4.8}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1356751378299953152|title=Partiju reitingi - Saeima|website=Twitter|language=lv|access-date=16 October 2021|date=3 February 2021}}</ref>
-| 28-31 Jan 2021
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1356751378299953152 |date=2 February 2021 |title=Partiju reitingi - Saeima Janvāris 2021 #partijas #reitingi https://t.co/Rj7dtRm4PS |trans-title=Party ratings - Saeima January 2021 #partijas #reitingi |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221417/https://twitter.com/Interactive_LV/status/1356751378299953152 |archive-date=16 October 2021 |url-status=live}}</ref>
+| 28–31 Jan 2021
 | 1,250
 | -
 | '''11.8'''
@@ -855,7 +1247,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 ! rowspan="2"| Polling firm
 ! class="unsortable" rowspan="2"| Fieldwork date
 ! class="unsortable" rowspan="2"| Sample<br />size
-! class="unsortable" rowspan="2"| {{H:title|Percentage of decided voters|Dec.}}
+! class="unsortable" rowspan="2"| {{tooltip|2=Percentage of decided voters|Dec.}}
 ! class="unsortable" style="width:50px;" | [[Social Democratic Party "Harmony"|S]]
 ! class="unsortable" style="width:50px;" | [[For a Humane Latvia|KPV LV]]
 ! class="unsortable" style="width:50px;" | [[New Conservative Party (Latvia)|JKP]]
@@ -868,8 +1260,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 ! class="unsortable" style="width:50px;" | [[The Progressives (Latvia)|P]]
 ! class="unsortable" style="width:30px;" rowspan="2"| Others
 ! class="unsortable" style="width:30px;" rowspan="2"| Lead
-! class="unsortable" style="width:20px;" rowspan="2"| {{H:title|Government coalition (JV, JKP, AP!, NA, KPV LV/PCL before 3 June 2021)|Gov.}}
-! class="unsortable" style="width:20px;" rowspan="2"| {{H:title|Opposition parties (S, ZZS, LRA, LKS, P, LuK, PCL after 3 June 2021)|Opp.}}
+! class="unsortable" style="width:20px;" rowspan="2"| {{tooltip|2=Government coalition (JV, JKP, AP!, NA, KPV LV/PCL before 3 June 2021)|Gov.}}
+! class="unsortable" style="width:20px;" rowspan="2"| {{tooltip|2=Opposition parties (S, ZZS, LRA, LKS, P, LuK, PCL after 3 June 2021)|Opp.}}
 |-
 ! data-sort-type="number" style="background:{{party color|Social Democratic Party "Harmony"}};" |
 ! data-sort-type="number" style="background:{{party color|Who Owns the State?}};" |
@@ -882,8 +1274,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 ! data-sort-type="number" style="background:{{party color|Latvian Russian Union}};" |
 ! data-sort-type="number" style="background:{{party color|The Progressives (Latvia)}};" |
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1343854272061038594|title=Partiju reitingi - Saeima|website=Twitter|language=lv|access-date=16 October 2021|date=29 December 2020}}</ref>
-| 1-17 Dec 2020
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1343854272061038594 |date=29 December 2020 |title=Partiju reitingi - Saeima Decembris 2020 Vairāk: https://t.co/jvG0YhXIUG #partijas #reitingi https://t.co/xEqPOIOWtG |trans-title=Party ratings - Saeima December 2020 More: #partijas #reitingi |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20221009013942/https://twitter.com/Interactive_LV/status/1343854272061038594 |archive-date=9 October 2022 |url-status=live}}</ref>
+| 1–17 Dec 2020
 | 2,421
 | -
 | style="background:#F8C1BE" | '''13'''
@@ -920,8 +1312,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:8+11.3+10.4+9.4+3.7}}
 | {{#expr:22.1+15.6+5.9+4.1+7.6}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1334804840866787328|title=Partiju reitingi - Saeima|website=Twitter|language=lv|access-date=16 October 2021|date=4 December 2020}}</ref>
-| 11-30 Nov 2020
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1334804840866787328 |date=4 December 2020 |title=Partiju reitingi - Saeima Novembris 2020 Vairāk: https://t.co/jvG0YhXIUG #partijas #reitingi https://t.co/eJ0dPiyCSk |trans-title=Party ratings - Saeima November 2020 More: #partijas #reitingi |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221432/https://twitter.com/Interactive_LV/status/1334804840866787328 |archive-date=16 October 2021 |url-status=live}}</ref>
+| 11–30 Nov 2020
 | 817
 | -
 | style="background:#F8C1BE" | '''15'''
@@ -958,8 +1350,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:8.8+15.1+14.4+8.6+1.9}}
 | {{#expr:20.3+12.3+5.6+6.3+5.1}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1322201523816980482|title=Partiju reitingi oktobrī|website=Twitter|language=lv|access-date=16 October 2021|date=30 October 2020}}</ref>
-| 26-30 Oct 2020
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1322201523816980482 |date=30 October 2020 |title=Partiju reitingi oktobrī (+) ZZS (-) JV, PRO, KPV #partijas #reitingi https://t.co/PiUBRQV6bz |trans-title=Party ratings in October (+) ZZS (-) JV, PRO, KPV #partijas #reitingi |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20221006150328/https://twitter.com/Interactive_LV/status/1322201523816980482 |archive-date=6 October 2022 |url-status=live}}</ref>
+| 26–30 Oct 2020
 | 853
 | -
 | '''15'''
@@ -978,7 +1370,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:15+11+3+4+6}}
 |-
 | SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-atbalsts-kapis-saskanai-krities-jaunajai-vienotibai.a380538/|title=Partiju reitingi: Atbalsts kāpis "Saskaņai", krities "Jaunajai Vienotībai"|first=Māris|last=Klūga|website=LSM|language=lv|access-date=16 October 2021|date=4 November 2020}}</ref>
-| 9-20 Oct 2020
+| 9–20 Oct 2020
 | 889
 | 57.9
 | style="background:#F8C1BE" | '''19.5'''
@@ -996,8 +1388,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:9.3+15.4+11.1+11.1+3.3}}
 | {{#expr:19.5+13.5+5.2+4.8+5.7}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1313059319953395713|title=Jaunākie partiju reitingi - SAEIMA|website=Twitter|language=lv|access-date=16 October 2021|date=5 October 2020}}</ref>
-| 29 Sep-4 Oct 2020
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1313059319953395713 |date=5 October 2020 |title=Jaunākie partiju reitingi - SAEIMA Aug: A/Par, PRO Dilst: JKP, ZZS https://t.co/jvG0YhXIUG #saeima #partijas #reitingi https://t.co/N8dOr3N70O |trans-title=The latest party ratings - SAEIMA Aug: A/Par, PRO Dilst: JKP, ZZS #saeima #partijas #reitingi |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20221009013938/https://twitter.com/Interactive_LV/status/1313059319953395713 |archive-date=9 October 2022 |url-status=live}}</ref>
+| {{nobr|29 Sep – 4 Oct 2020}}
 | 442
 | -
 | '''15'''
@@ -1016,7 +1408,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:15+9+3+4+7}}
 |-
 | SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-atbalsts-saskanai-turpina-samazinaties.a376583/|title=Partiju reitingi: atbalsts "Saskaņai" turpina samazināties|first=Māris|last=Klūga|website=LSM|language=lv|access-date=16 October 2021|date=2 October 2020}}</ref>
-| 11-22 Sep 2020
+| 11–22 Sep 2020
 | 888
 | 58.9
 | style="background:#F8C1BE" | '''17.3'''
@@ -1034,8 +1426,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:11.2+12.9+10.5+10.4+3.7}}
 | {{#expr:17.3+16.6+5.9+4.4+5.1}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1303243194054987776|title=Partiju reitingi - AUGUSTS 2020|website=Twitter|language=lv|access-date=16 October 2021|date=8 September 2020}}</ref>
-| 1-24 Aug 2020
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1303243194054987776 |date=8 September 2020 |title=Partiju reitingi - AUGUSTS 2020 Balsu sadalījums, ja Saeimas vēlēšanas notiktu aptaujas periodā https://t.co/jvG0YhXIUG #saeima #partijas #reitingi https://t.co/gjag3y45wy |trans-title=Party ratings - AUGUST 2020 Distribution of votes if Saeima elections take place during the survey period #saeima #partijas #reitingi |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20221008063051/https://twitter.com/interactive_lv/status/1303243194054987776 |archive-date=8 October 2022 |url-status=live}}</ref>
+| 1–24 Aug 2020
 | 637
 | -
 | '''15'''
@@ -1054,7 +1446,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:15+10+3+4+5}}
 |-
 | SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-saruk-saskanas-popularitate-bet-pieaug--attistibaipar.a373019/|title=Partiju reitingi: Sarūk "Saskaņas" popularitāte, bet pieaug – "Attīstībai/Par!"|website=LSM|language=lv|access-date=16 October 2021|date=3 September 2020}}</ref>
-| 7-20 Aug 2020
+| 7–20 Aug 2020
 | 900
 | 56.4
 | style="background:#F8C1BE" | '''21.6'''
@@ -1072,9 +1464,9 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:11.7+13.8+9.2+8.2+3.4}}
 | {{#expr:21.6+19.0+6.7+2.7+2.5}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1292031598762893312|title=SAEIMA - partiju reitingi|website=Twitter|language=lv|access-date=16 October 2021|date=8 August 2020}}</ref>
-| 8-31 Jul 2020
-| 1975
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1292031598762893312 |date=8 August 2020 |title=SAEIMA - partiju reitingi 07/2020 Balsu sadalījums, ja vēlēšanas notiktu jūlijā https://t.co/jvG0YhXIUG #saeima #partijas #reitingi https://t.co/tCKwWdvfMN |trans-title=SAEIMA - party ratings 07/2020 Vote distribution if the elections were held in July #saeima #partijas #reitingi |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221441/https://twitter.com/Interactive_LV/status/1292031598762893312 |archive-date=16 October 2021 |url-status=live}}</ref>
+| 8–31 Jul 2020
+| 1,975
 | -
 | style="background:#F8C1BE" | '''16'''
 | 2
@@ -1110,9 +1502,9 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:10.5+12.3+10.1+7+4}}
 | {{#expr:27.9+15+5.2+3.8+4}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1279826045869404160/|title=Partiju reitingi JŪNIJĀ|website=Twitter|language=lv|access-date=16 October 2021|date=5 July 2020}}</ref>
-| 1-30 Jun 2020
-| 1461
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1279826045869404160 |date=5 July 2020 |title=Partiju reitingi JŪNIJĀ Iespējamais balsu sadalījums, ja Saeimas vēlēšanas notiktu aptaujas periodā Vairāk: https://t.co/uIVW4lOtSL #Saeima #partijas #reitingi https://t.co/aQufTHzHlN |trans-title=Party ratings in JUNE Possible distribution of votes if the Saeima elections were held during the survey period More: #Saeima #partijas #reitingi |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221411/https://twitter.com/Interactive_LV/status/1279826045869404160/ |archive-date=16 October 2021 |url-status=live}}</ref>
+| 1–30 Jun 2020
+| 1,461
 | -
 | '''15'''
 | 2
@@ -1149,7 +1541,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:25+17.2+5.4+4.3+3.3}}
 |-
 | SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingus-arkarteja-situacija-nav-celusi.a363627/|title=Partiju reitingus ārkārtējā situācija nav cēlusi|first=Māris|last=Klūga|website=LSM|language=lv|access-date=16 October 2021|date=12 June 2020}}</ref>
-| 23 May-2 June 2020
+| 23 May – 2 June 2020
 | 902
 | 50.5
 | style="background:#F8C1BE" | '''26.1'''
@@ -1167,9 +1559,9 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:12.1+10.9+9.9+7.3+4}}
 | {{#expr:26.1+16+5.1+4.6+3}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1267808247773306883/|title=SAEIMA - Partiju reitingi maijā|website=Twitter|language=lv|access-date=16 October 2021|date=2 June 2020}}</ref>
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1267808247773306883 |date=2 June 2020 |title=SAEIMA - Partiju reitingi maijā: JV pirmoreiz šajā sasaukumā apsteidz S https://t.co/jvG0YhXIUG #partijas #reitingi https://t.co/QdREzCOpfz |trans-title=SAEIMA - Party ratings in May: JV overtakes S for the first time in this term #partijas #reitingi |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221443/https://twitter.com/Interactive_LV/status/1267808247773306883/ |archive-date=16 October 2021 |url-status=live}}</ref>
 | 18–31 May 2020
-| 1182
+| 1,182
 | -
 | '''16'''
 | 2
@@ -1186,9 +1578,9 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:18+13+11+9+2}}
 | {{#expr:16+9+3+4+8}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1256195938563100672/|title=Vīrusa ēnā... Partiju reitingi aprīlī|website=Twitter|language=lv|access-date=16 October 2021|date=1 May 2020}}</ref>
-| 7-26 Apr 2020
-| 1182
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1256195938563100672 |date=1 May 2020 |title=Vīrusa ēnā... Partiju reitingi aprīlī - lielākās svārstības JV(+) un JKP(-) Reitings - iespējamais balsu sadalījums, ja vēlēšanas notiktu aptaujas periodā https://t.co/jvG0YhXIUG #partijas #reitingi https://t.co/C34tM57xLR |trans-title=In the shadow of the virus... Party ratings in April - the biggest fluctuations JV(+) and JKP(-) Rating - the possible distribution of votes if the elections were held during the survey period #partijas #reitingi |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221423/https://twitter.com/Interactive_LV/status/1256195938563100672/ |archive-date=16 October 2021 |url-status=live}}</ref>
+| 7–26 Apr 2020
+| 1,182
 | -
 | style="background:#F8C1BE" | '''17'''
 | 2
@@ -1205,9 +1597,9 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:16+14+12+11+2}}
 | {{#expr:17+11+5+4+6}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1246792921812254721/|title=SAEIMA - Marts 2020|website=Twitter|language=lv|access-date=16 October 2021|date=5 April 2020}}</ref>
-| 4-28 Mar 2020
-| 1994
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1246792921812254721 |date=5 April 2020 |title=SAEIMA - Marts 2020 Jaunākie partiju reitingi (iespējamais balsu sadalījums, ja vēlēšanas notiktu aptaujas periodā) https://t.co/jvG0YhXIUG #partijas #reitingi #saeima https://t.co/jMvfig0lsF |trans-title=SAEIMA - March 2020 The latest party ratings (possible vote distribution if the elections were held during the poll period) #partijas #reitingi #saeima |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20221006150317/https://twitter.com/Interactive_LV/status/1246792921812254721 |archive-date=6 October 2022 |url-status=live}}</ref>
+| 4–28 Mar 2020
+| 1,994
 | -
 | style="background:#F8C1BE" | '''18'''
 | 2
@@ -1243,8 +1635,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:10.8+10.8+10.4+8.9+4.1}}
 | {{#expr:27.5+16+5.4+2.8+2.8}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1235186163931021313/|title=SAEIMA - Februāris 2020|website=Twitter|language=lv|access-date=16 October 2021|date=4 March 2020}}</ref>
-| 24-28 Feb 2020
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1235186163931021313 |date=4 March 2020 |title=SAEIMA - Februāris 2020 Jaunākie partiju reitingi (iespējamais balsu sadalījums, ja vēlēšanas notiktu aptaujas periodā) https://t.co/jvG0YhXIUG #partijas #reitingi #saeima https://t.co/pPYlOEIiBJ |trans-title=SAEIMA - February 2020 The latest party ratings (possible vote distribution if the elections were held during the poll period) #partijas #reitingi #saeima |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20221006150334/https://twitter.com/Interactive_LV/status/1235186163931021313 |archive-date=6 October 2022 |url-status=live}}</ref>
+| 24–28 Feb 2020
 | 783
 | -
 | style="background:#F8C1BE" | '''18'''
@@ -1281,8 +1673,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:12.6+10.6+10.6+8.1+2.6}}
 | {{#expr:24.2+15.6+6.5+3.9+4.3}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1225832684133474307/|title=SAEIMA - Janvāris 2020|website=Twitter|language=lv|access-date=16 October 2021|date=7 February 2020}}</ref>
-| 28 Jan-1 Feb 2020
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1225832684133474307 |date=7 February 2020 |title=SAEIMA - Janvāris 2020 Jaunākie partiju reitingi https://t.co/jvG0YhXIUG #partijas #reitingi #saeima https://t.co/s7SJMaJa0u |trans-title=SAEIMA - January 2020 Latest party ratings #partijas #reitingi #saeima |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211023044132/https://twitter.com/interactive_lv/status/1225832684133474307/ |archive-date=23 October 2021 |url-status=live}}</ref>
+| {{nobr|28 Jan – 1 Feb 2020}}
 | 684
 | -
 | style="background:#F8C1BE" | '''21'''
@@ -1319,9 +1711,9 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:10.9+11.2+10.9+9.6+3.6}}
 | {{#expr:24.2+15.5+5.2+4.4+3.2}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1214261486278922241/|title=Partiju reitingi|website=Twitter|language=lv|access-date=16 October 2021|date=6 January 2020}}</ref>
-| 18-31 Dec 2019
-| 1153
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1214261486278922241 |date=6 January 2020 |title=Partiju reitingi SAEIMA Decembris 2019 https://t.co/jvG0YhXIUG #partijas #reitingi #saeima https://t.co/bWm8Jfx8zK |trans-title=Party ratings SAEIMA December 2019 #partijas #reitingi #saeima |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211023044059/https://twitter.com/interactive_lv/status/1214261486278922241/ |archive-date=23 October 2021 |url-status=live}}</ref>
+| 18–31 Dec 2019
+| 1,153
 | -
 | style="background:#F8C1BE" | '''20'''
 | 2
@@ -1339,7 +1731,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:20+10+5+5+6}}
 |-
 | SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-2019-gada-ieguveji-jauna-vienotiba-zaudetaji--kpv-lv.a343302/|title=Partiju reitingi: 2019. gadā ieguvēji «Jaunā Vienotība», zaudētāji – «KPV LV»|website=LSM|language=lv|access-date=16 October 2021|date=30 December 2019}}</ref>
-| 30 Nov-12 Dec 2019
+| {{nobr|30 Nov – 12 Dec 2019}}
 | 887
 | 54.1
 | style="background:#F8C1BE" | '''24.8'''
@@ -1357,8 +1749,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:12.6+12.8+10.9+8.5+3.3}}
 | {{#expr:24.8+14.8+3.7+4.1+4.4}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1199328948280266752|title=Partiju reitingi|website=Twitter|language=lv|access-date=16 October 2021|date=26 November 2019}}</ref>
-| 21-24 Nov 2019
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1199328948280266752 |date=26 November 2019 |title= |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221425/https://twitter.com/Interactive_LV/status/1199328948280266752 |archive-date=16 October 2021 |url-status=live}}</ref>
+| 21–24 Nov 2019
 | 966
 | -
 | style="background:#F8C1BE" | '''20'''
@@ -1377,7 +1769,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:20+10+4+4+6}}
 |-
 | SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/saskanas-reitings-novembri-atkal-krities.a339574/|title="Saskaņas" reitings novembrī atkal krities|first=Dace|last=Stirāne|website=LSM|language=lv|access-date=16 October 2021|date=25 November 2019}}</ref>
-| 2-12 Nov 2019
+| 2–12 Nov 2019
 | 884
 | 55.1
 | style="background:#F8C1BE" | '''20.3'''
@@ -1395,8 +1787,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:11.7+15.9+10.1+9.8+5.4}}
 | {{#expr:20.3+13.6+5.1+3.6+3.8}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1186999647681830913|title=Jaunākie partiju reitingi - oktobris 2019|website=Twitter|language=lv|access-date=16 October 2021|date=23 October 2019}}</ref>
-| 15-22 Oct 2019
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1186999647681830913 |date=23 October 2019 |title=Jaunākie partiju reitingi - oktobris 2019 #saeima #reitingi #partijas https://t.co/w3CG31eTIa |trans-title=Latest party ratings - October 2019 #saeima #reitingi #partijas |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221438/https://twitter.com/Interactive_LV/status/1186999647681830913 |archive-date=16 October 2021 |url-status=live}}</ref>
+| 15–22 Oct 2019
 | 966
 | -
 | style="background:#F8C1BE" | '''20'''
@@ -1415,7 +1807,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:20+11+4+4+6}}
 |-
 | SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/oktobri-reitings-sarucis-visam-saeima-ieveletajam-partijam.a336590/|title=Oktobrī reitings sarucis visām Saeimā ievēlētajām partijām|first=Māris|last=Klūga|website=LSM|language=lv|access-date=16 October 2021|date=28 October 2019}}</ref>
-| 5-16 Oct 2019
+| 5–16 Oct 2019
 | 909
 | 56.8
 | style="background:#F8C1BE" | '''23.1'''
@@ -1433,8 +1825,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:11.6+13.1+12+9.3+4.5}}
 | {{#expr:23.1+14.3+5+3.9+3.9}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1180141845512359937|title=Partiju reitingi - septembris 2019|website=Twitter|language=lv|access-date=16 October 2021|date=4 October 2019}}</ref>
-| 27-30 Sep 2019
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1180141845512359937 |date=4 October 2019 |title=Partiju reitingi - septembris 2019 Vairāk: https//klubs.factum.lv/reitingi #reitingi #partijas https://t.co/PhwMHdQqXm |trans-title=Party ratings - September 2019 More: #reitingi #partijas |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20221008063007/https://twitter.com/interactive_lv/status/1180141845512359937 |archive-date=8 October 2022 |url-status=live}}</ref>
+| 27–30 Sep 2019
 | 489
 | -
 | style="background:#F8C1BE" | '''19'''
@@ -1453,7 +1845,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:19+10+5+5+4}}
 |-
 | SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-saskanas-pozicijas-vajinas-kpv-lv-gada-laika-lielakais-kritums.a333441/|title=Partiju reitingi: "Saskaņas" pozīcijas vājinās; "KPV LV" gada laikā lielākais kritums|first=Anete|last=Bērtule|website=LSM|language=lv|access-date=16 October 2021|date=27 September 2019}}</ref>
-| 26 Aug-18 Sep 2019
+| {{nobr|26 Aug – 18 Sep 2019}}
 | 900
 | 61.8
 | style="background:#F8C1BE" | '''23.5'''
@@ -1471,9 +1863,9 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:13.4+14.4+9.9+11.7+4.5}}
 | {{#expr:23.5+13.6+4+3.4+0}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1169292492539346948|title=Partiju reitingi augustā|website=Twitter|language=lv|access-date=16 October 2021|date=4 September 2019}}</ref>
-| 27-30 Aug 2019
-| 1152
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1169292492539346948 |date=4 September 2019 |title=Partiju reitingi augustā (iespējamais balsu sadalījums, ja Saeimas vēlēšanas notiktu aptaujas periodā). #reitingi #partijas https://t.co/jvG0YhXIUG https://t.co/Pk6k4BMDNC https://t.co/tJVNfOpffY |trans-title=Party ratings in August (probable distribution of votes if Saeima elections were held during the survey period). #ratings #parties |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221420/https://twitter.com/Interactive_LV/status/1169292492539346948 |archive-date=16 October 2021 |url-status=live}}</ref>
+| 27–30 Aug 2019
+| 1,152
 | -
 | style="background:#F8C1BE" | '''18'''
 | 4
@@ -1509,8 +1901,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:13.9+11.4+9.8+10+4.1}}
 | {{#expr:25.4+13.1+4.6+3.9+3.3}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1159143587277410306|title=Partiju reitingi jūlijā|website=Twitter|language=lv|access-date=16 October 2021|date=7 August 2019}}</ref>
-| 22-29 Jul 2019
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1159143587277410306 |date=7 August 2019 |title=Partiju reitingi jūlijā (iespējamais balsu sadalījums, ja Saeimas vēlēšanas notiktu aptaujas periodā). #reitingi #partijas https://t.co/2BMAlt6s8H https://t.co/O56vBm6Y4Z |trans-title=Party ratings in July (probable distribution of votes if Saeima elections were held during the survey period). #ratings #parties |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221411/https://twitter.com/Interactive_LV/status/1159143587277410306 |archive-date=16 October 2021 |url-status=live}}</ref>
+| 22–29 Jul 2019
 | 989
 | -
 | style="background:#F8C1BE" | '''18'''
@@ -1547,8 +1939,8 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:14.7+10.9+9.8+8.6+2.8}}
 | {{#expr:25.4+13.1+6.2+4+3.6}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1146753117788278787|title=Partiju reitingi jūnijā|website=Twitter|language=lv|access-date=16 October 2021|date=4 July 2019}}</ref>
-| 26-30 Jun 2019
+| Factum<ref name="merged1">{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1146753117788278787 |date=4 July 2019 |title=Partiju reitingi jūnijā (iespējamais balsu sadalījums, ja Saeimas vēlēšanas notiktu aptaujas periodā). #reitingi #partijas https://t.co/2BMAlt6s8H https://t.co/YVk63qWTAl |trans-title=Party ratings in June (probable distribution of votes if Saeima elections take place during the survey period). #ratings #parties |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221423/https://twitter.com/Interactive_LV/status/1146753117788278787 |archive-date=16 October 2021 |url-status=live}}</ref>
+| 26–30 Jun 2019
 | 860
 | -
 | style="background:#F8C1BE" | '''17'''
@@ -1567,7 +1959,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:17+9+6+6+4}}
 |-
 | SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/jaunajai-vienotibai-junija-augstakais-reitings-pedejos-cetros-gados-saskanai-un-jkp-kritas.a324509/|title="Jaunajai Vienotībai" jūnijā augstākais reitings pēdējos četros gados; "Saskaņai" un JKP - krītas|first=Anete|last=Bērtule|website=LSM|language=lv|access-date=16 October 2021|date=3 July 2019}}</ref>
-| 7-17 Jun 2019
+| 7–17 Jun 2019
 | 891
 | 63.1
 | style="background:#F8C1BE" | '''25.0'''
@@ -1585,9 +1977,9 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:16.6+12.2+10.8+7.3+5.4}}
 | {{#expr:25+10+4.8+4.8+2.5}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1146753117788278787|title=Partiju reitingi jūnijā|website=Twitter|language=lv|access-date=16 October 2021|date=1 June 2019}}</ref>
+| Factum<ref name="merged1"/>
 | 1–28 May 2019
-| 1079
+| 1,079
 | -
 | style="background:#F8C1BE" | '''17'''
 | 4
@@ -1623,9 +2015,9 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:9.4+13.3+12.2+9.1+3.7}}
 | {{#expr:27+13.6+6.2+2.3+2.9}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1123972845791531009|title=Aprīlis 2019 - partiju reitingi|website=Twitter|language=lv|access-date=16 October 2021|date=2 May 2019}}</ref>
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1123972845791531009 |date=2 May 2019 |title=Aprīlis 2019 - partiju reitingi (balsu sadalījums, ja Saeimas vēlēšanas notiktu aprīlī) Vairāk: https://t.co/70sf54NJtk #partijas #reitingi https://t.co/MXUzPUsZXf |trans-title=April 2019 - party ratings (distribution of votes if Saeima elections were held in April) More: #partijas #reitingi |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20221010210530/https://twitter.com/interactive_lv/status/1123972845791531009 |archive-date=10 October 2022 |url-status=live}}</ref>
 | 1–30 April 2019
-| 1236
+| 1,236
 | -
 | style="background:#F8C1BE" | '''20'''
 | 4
@@ -1661,7 +2053,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:9.3+10.7+13.8+9+4.5}}
 | {{#expr:31.5+11+4.8+2.6+2.4}}
 |-
-| Factum<ref>{{Cite web|url=https://twitter.com/Interactive_LV/status/1113228138329378817|title=Marts 2019 - partiju reitingi|website=Twitter|language=lv|access-date=16 October 2021|date=3 April 2019}}</ref>
+| Factum<ref>{{cite tweet |author=📊 Factum Interactive |user=Interactive_LV |number=1113228138329378817 |date=2 April 2019 |title=Marts 2019 - partiju reitingi (balsu sadalījums, ja Saeimas vēlēšanas notiktu marta mēnesī) Vairāk: https://t.co/70sf54NJtk #partijas #reitingi https://t.co/nYxLCzjN4l |trans-title=March 2019 - party ratings (distribution of votes if the Saeima elections were held in March) More: #partijas #reitingi |language=lv |access-date=26 December 2022 |archive-url=https://web.archive.org/web/20211016221414/https://twitter.com/Interactive_LV/status/1113228138329378817 |archive-date=16 October 2021 |url-status=live}}</ref>
 | March 2019
 | -
 | -
@@ -1724,7 +2116,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | colspan="18"|'''The [[Kariņš cabinet]] is formed and wins the Saeima confidence vote'''
 |-
 | SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-kpv-lv-zaude-jkp-iegust.a308392/|title=Partiju reitingi: "KPV LV" zaudē, JKP iegūst|first=Odita|last=Krenberga|website=LSM|language=lv|access-date=16 October 2021|date=4 February 2019}}</ref>
-| 11-23 Jan 2019
+| 11–23 Jan 2019
 | 906
 | 68.4
 | style="background:#F8C1BE" | '''25.4'''
@@ -1743,7 +2135,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:25.4+11.8+0+0+0}}
 |-
 | SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/decembri-popularakas-partijas-saskana-kpv-lv-un-jkp.a304441/|title=Decembrī populārākās partijas: "Saskaņa", "KPV LV" un JKP|website=LSM|language=lv|access-date=16 October 2021|date=28 December 2018}}</ref>
-| 1-12 Dec 2018
+| 1–12 Dec 2018
 | 900
 | 71.2
 | style="background:#F8C1BE" | '''28.9'''
@@ -1762,7 +2154,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:28.9+9.3+4.2+3.4+3.2}}
 |-
 | SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/novembri-kritusies-attistibaipar-un-nacionalas-apvienibas-popularitate.a301590/|title=Novembrī kritusies "Attīstībai/Par!" un Nacionālās apvienības popularitāte|first=Māris|last=Klūga|website=LSM|language=lv|access-date=16 October 2021|date=2 December 2018}}</ref>
-| 3-15 Nov 2018
+| 3–15 Nov 2018
 | 833
 | 71.2
 | style="background:#F8C1BE" | '''26.8'''
@@ -1781,7 +2173,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 | {{#expr:26.8+9.4+3.8+2.4+2.6}}
 |-
 | SKDS<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/partiju-reitingi-zzs-popularitate-krit-lielakais-pieaugums-saeimas-jaunpienacejiem.a298338/|title=Partiju reitingi: ZZS popularitāte krīt, lielākais pieaugums – Saeimas jaunpienācējiem|first=Jānis|last=Geste|website=LSM|language=lv|access-date=16 October 2021|date=2 November 2018}}</ref>
-| 13-23 Oct 2018
+| 13–23 Oct 2018
 | 900
 | 75.4
 | style="background:#F8C1BE" | '''25.5'''
@@ -1801,7 +2193,7 @@ The following are opinion polls conducted for the parliamentary election, measur
 |- style="background:#E9E9E9;"
 | [[2018 Latvian parliamentary election|2018 election]]
 | 6 Oct 2018
-| –
+| -
 | 54.6
 | style="background:#F8C1BE" |'''19.8'''
 | '''14.3'''

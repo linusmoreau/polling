@@ -13,13 +13,16 @@
  {{Legend-line|{{party color|Ecologist Party of Romania}} solid 5px|[[Ecologist Party of Romania|PER]]}}
  {{Legend-line|{{party color|Alliance for the Fatherland}} solid 5px|[[Alliance for the Fatherland|ApP]]}}
  {{Legend-line|{{party color|Force of the Right}} solid 5px|[[Force of the Right|FD]]}}
+ {{Legend-line|#c40075 solid 5px|[[Renewing Romania's European Project|REPER]]}}
 }}]]
 
 {{see also if exists|2020 in Romania|2021 in Romania|2022 in Romania|2023 in Romania|2024 in Romania}}
 
-=== 2022 ===
+=== 2023 ===
 
-{| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
+''To be completed with new data throughout January 2023''
+
+{| class="wikitable sortable mw-collapsible" style="text-align:center;font-size:95%;line-height:14px;"
 |- style="background:lightgrey;"
 ! rowspan="2" style="width:90px;" | Date
 ! rowspan="2" style="width:40px;" | Poll source
@@ -31,10 +34,10 @@
 ! class="unsortable" style="width:30px;" | [[Democratic Alliance of Hungarians in Romania|UDMR]]
 ! class="unsortable" style="width:30px;" | [[People's Movement Party|PMP]]
 ! class="unsortable" style="width:30px;" | [[PRO Romania|PRO]] 
-! class="unsortable" style="width:30px;letter-spacing:-1px;" | [[Alliance of Liberals and Democrats (Romania)|ALDE]]<ref>ALDE is no longer active at any political level in Romania or internationally, having been entirely absorbed by the PNL during late March 2022.</ref>
+! class="unsortable" style="width:30px;letter-spacing:-1px;" | [[Alliance of Liberals and Democrats (Romania)|ALDE]]<ref>ALDE is no longer active at any political level in Romania or internationally either, having been entirely absorbed by the PNL during late March 2022.</ref>
 ! class="unsortable" style="width:30px;letter-spacing:-1px;" | [[Social Liberal Humanist Party|PUSL]]
 ! class="unsortable" style="width:30px" | [[Ecologist Party of Romania|PER]]
-! class="unsortable" style="width:30px;" | [[Alliance for the Fatherland|ApP]]
+! class="unsortable" style="width:30px;" | [[Alliance for the Homeland|ApP]]
 ! class="unsortable" style="width:15px;" | [[Force of the Right|FD]]
 ! rowspan="2" style="width:45px;" | [[List of political parties in Romania|Others]]
 ! rowspan="2" style="width:45px;" | Lead
@@ -50,7 +53,238 @@
 ! data-sort-type="number" style="background:{{party color|Conservative Party (Romania)}}" |
 ! data-sort-type="number" style="background:{{party color|Ecologist Party of Romania}}" |
 ! data-sort-type="number" style="background:{{party color|Alliance for the Fatherland}};" |
-! data-sort-type="number" style="background:#08510A;" |
+! data-sort-type="number" style="background:{{party color|Force of the Right}};" |
+|-
+! rowspan="2" data-sort-value="2020-12-06" | 6 December 2020
+! [[2020 Romanian legislative election|2020 Chamber election]]
+! {{N/A}}
+! style="background:#F9C8CA;" | 28.90
+! 25.18
+! 15.37
+! 9.08
+! 5.74
+! 4.82
+! colspan="2" | 4.09
+! 1.19
+! 1.12
+! {{n/a}}
+! {{n/a}}
+! 6.82
+! style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 3.72
+|-
+! [[2020 Romanian legislative election|2020 Senate election]]
+! {{N/A}}
+! style="background:#F9C8CA;" | 29.32
+! 25.58
+! 15.86
+! 9.17
+! 5.89
+! 4.93
+! colspan="2" | 4.13
+! 1.01
+! 1.33
+! {{n/a}}
+! {{n/a}}
+! 5.12
+! style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 3.74
+|}
+
+=== 2022 ===
+
+{| class="wikitable sortable mw-collapsible" style="text-align:center;font-size:95%;line-height:14px;"
+|- style="background:lightgrey;"
+! rowspan="2" style="width:90px;" | Date
+! rowspan="2" style="width:40px;" | Poll source
+! rowspan="2" class="unsortable" style="width:20px;" | Sample size
+! class="unsortable" style="width:30px;" | [[Social Democratic Party (Romania)|PSD]]
+! class="unsortable" style="width:15px;" | [[National Liberal Party (Romania)|PNL]]
+! class="unsortable" style="width:30px;" | [[Save Romania Union|USR]] 
+! class="unsortable" style="width:30px;" | [[Alliance for the Union of Romanians|AUR]]
+! class="unsortable" style="width:30px;" | [[Democratic Alliance of Hungarians in Romania|UDMR]]
+! class="unsortable" style="width:30px;" | [[People's Movement Party|PMP]]
+! class="unsortable" style="width:30px;" | [[PRO Romania|PRO]] 
+! class="unsortable" style="width:30px;letter-spacing:-1px;" | [[Alliance of Liberals and Democrats (Romania)|ALDE]]<ref>ALDE is no longer active at any political level in Romania or internationally either, having been entirely absorbed by the PNL during late March 2022.</ref>
+! class="unsortable" style="width:30px;letter-spacing:-1px;" | [[Social Liberal Humanist Party|PUSL]]
+! class="unsortable" style="width:30px" | [[Ecologist Party of Romania|PER]]
+! class="unsortable" style="width:30px;" | [[Alliance for the Homeland|ApP]]
+! class="unsortable" style="width:15px;" | [[Force of the Right|FD]]
+! rowspan="2" style="width:45px;" | [[List of political parties in Romania|Others]]
+! rowspan="2" style="width:45px;" | Lead
+|-
+! data-sort-type="number" style="background:{{party color|Social Democratic Party (Romania)}};" |
+! data-sort-type="number" style="background:{{party color|National Liberal Party (Romania)}};" |
+! data-sort-type="number" style="background:{{party color|USR PLUS}};" |
+! data-sort-type="number" style="background:{{party color|Alliance for the Union of Romanians}};" |
+! data-sort-type="number" style="background:{{party color|Democratic Alliance of Hungarians in Romania}};" |
+! data-sort-type="number" style="background:{{party color|People's Movement Party}};" |
+! data-sort-type="number" style="background:{{party color|PRO Romania}};" |
+! data-sort-type="number" style="background:{{party color|Alliance of Liberals and Democrats (Romania)}};" |
+! data-sort-type="number" style="background:{{party color|Conservative Party (Romania)}}" |
+! data-sort-type="number" style="background:{{party color|Ecologist Party of Romania}}" |
+! data-sort-type="number" style="background:{{party color|Alliance for the Fatherland}};" |
+! data-sort-type="number" style="background:{{party color|Force of the Right}};" |
+|-
+|December 2022
+|[https://www.digi24.ro/stiri/actualitate/politica/sondaj-inscop-in-luna-decembrie-psd-pnl-si-usr-au-pierdut-procente-aur-creste-cu-2-2192749 INSCOP]
+|{{n/a}}
+|style="background:#F9C8CA"|'''31.5'''
+|20.2
+|10.9
+|18.1
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|19.3
+|style="background:{{party color|Social Democratic Party (Romania)}}; color:white;"|11.3
+|-
+|8–22 Nov 2022
+|[https://newsweek.ro/politica/sondaj-curs-psd-si-aur-scad-pnl-stationeaza-usr-creste-usor CURS]
+|1,067
+|style="background:#F9C8CA"|'''34'''
+|24
+|9
+|12
+|5
+|4
+|{{N/A}}
+|{{N/A}}
+|4
+|{{N/A}}
+|{{N/A}}
+|{{N/A}}
+|8.0
+|style="background:{{party color|Social Democratic Party (Romania)}}; color:white;"|10.0
+|-
+|October 2022
+|[https://www.aktual24.ro/aur-scade-puternic-anunta-chiar-prietenul-lui-george-simion-mirel-palada-aur-se-intoarce-inapoi-semnificativ-sub-20/ Sociopol]
+|{{n/a}}
+|style="background:#F9C8CA"|'''36'''
+|19
+|11
+|14
+|4
+|2
+|2
+|1
+|0
+|3
+|0
+|1
+|7.0<ref>[[Renewing Romania's European Project|REPER]] - 4.0%</ref>
+|style="background:{{party color|Social Democratic Party (Romania)}}; color:white;"|17.0
+|-
+|8–22 Sep 2022
+|[https://www.antena3.ro/actualitate/sondajul-care-rastoarna-tot-cifre-de-cosmar-pentru-un-partid-de-la-putere-652632.html CURS]
+|1,015
+|style="background:#F9C8CA"|'''35'''
+|22
+|8
+|15
+|5
+|{{n/a}}
+|4
+|{{n/a}}
+|4
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|8.0
+|style="background:{{party color|Social Democratic Party (Romania)}}; color:white;"|13.0
+|-
+|Aug 2022
+|[https://evz.ro/un-nou-sondaj-da-peste-cap-toate-calculele-politice-psd-se-mentine-in-top-pnl-scade-puternic-surpriza-de-pe-locul-doi.html Sociopol]
+|{{n/a}}
+|style="background:#F9C8CA"|'''32'''
+|15
+|11
+|25
+|6
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|11.0
+|style="background:{{party color|Social Democratic Party (Romania)}}; color:white;"|7.0
+|-
+|5–17 Aug 2022
+|[https://www.aktual24.ro/firea-e-neagra-nicusor-dan-sta-mai-bine-decat-ea-chiar-in-sondajele-comandate-de-psd/ CURS]
+|{{n/a}}
+|style="background:#F9C8CA"|'''32'''
+|23
+|10
+|13
+|{{n/a}}
+|4
+|2
+|{{n/a}}
+|4
+|3
+|3
+|2
+|4.0
+|style="background:{{party color|Social Democratic Party (Romania)}}; color:white;"|9.0
+|-
+|22–31 July 2022
+|[https://www.digi24.ro/stiri/actualitate/politica/sondaj-avangarde-la-comanda-social-democratilor-psd-ajunge-la-37-urmat-la-mare-distanta-de-pnl-si-aur-2033737 Avangarde]
+|{{circa}} 900
+|style="background:#F9C8CA"|'''37'''
+|23
+|9
+|11
+|5
+|4
+|1
+|{{n/a}}
+|3
+|{{n/a}}
+|2
+|2
+|3.0<ref>REPER - 1.0%</ref>
+|style="background:{{party color|Social Democratic Party (Romania)}}; color:white;"|14.0
+|-
+|22–30 June 2022
+|[https://www.digi24.ro/stiri/actualitate/politica/sondaj-avangarde-psd-conduce-in-preferintele-romanilor-urmat-de-pnl-si-aur-2001847 Avangarde]
+|903
+|style="background:#F9C8CA"|'''35'''
+|20
+|9
+|12
+|5
+|5
+|2
+|{{n/a}}
+|4
+|{{n/a}}
+|2
+|2
+|4.0<ref>REPER - 2.0%</ref>
+|style="background:{{party color|Social Democratic Party (Romania)}}; color:white;"|15.0
+|-
+|17–30 June 2022
+|[https://www.aktual24.ro/psd-continua-sa-creasca-in-ciuda-incompetentei-evidente-sondaj-comandat-de-usr-psd-378/ IPSOS]
+|1,072
+|style="background:#F9C8CA"|'''37.8'''
+|25.4
+|12.7
+|10.1
+|3
+|3
+|4
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|4.0
+|style="background:{{party color|Social Democratic Party (Romania)}}; color:white;"|12.4
 |-
 |19–26 May 2022
 |[https://www.digi24.ro/stiri/actualitate/politica/sondaj-curs-aur-cade-pe-locul-3-pnl-urca-dupa-psd-1957239 CURS]
@@ -286,7 +520,7 @@
 ! class="unsortable" style="width:30px;letter-spacing:-1px;" | [[Alliance of Liberals and Democrats (Romania)|ALDE]]
 ! class="unsortable" style="width:30px;letter-spacing:-1px;" | [[Social Liberal Humanist Party|PUSL]]
 ! class="unsortable" style="width:30px" | [[Ecologist Party of Romania|PER]]
-! class="unsortable" style="width:30px;" | [[Alliance for the Fatherland|ApP]]
+! class="unsortable" style="width:30px;" | [[Alliance for the Homeland|ApP]]
 ! rowspan="2" style="width:45px;" | [[List of political parties in Romania|Others]]
 ! rowspan="2" style="width:45px;" | Lead
 |-
@@ -358,7 +592,7 @@
 | style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 19.0
 |-
 | data-sort-value="2021-11-25" | 25 Nov 2021
-| colspan="16" |The '''[[Ciucă Cabinet]]''', supported by a '''[[grand coalition]]''' consisting of the '''[[National Liberal Party (Romania)|PNL]]''', '''[[Social Democratic Party (Romania)|PSD]]''', and '''[[Democratic Alliance of Hungarians in Romania|UDMR]]''' is voted and invested
+| colspan="16" |The '''[[Ciucă Cabinet]]''', supported by a '''[[grand coalition]]''' consisting of the '''[[National Liberal Party (Romania)|PNL]]''', '''[[Social Democratic Party (Romania)|PSD]]''', and '''[[Democratic Alliance of Hungarians in Romania|UDMR/RMDSZ]]''' is voted and invested
 |-
 | data-sort-value="2021-11-24" |16–24 Nov 2021
 |[https://www.digi24.ro/stiri/actualitate/politica/sondaj-psd-40-pnl-17-aur-15-peste-80-dintre-romani-considera-ca-romania-merge-intr-o-directie-gresita-1760889 Avangarde]
@@ -661,7 +895,7 @@
 | style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 15.0
 |-
 | data-sort-value="2021-09-01" | 1 Sep 2021
-| colspan="16" |The '''[[2021 Romanian political crisis]]''' begins, leading to the break-up of the centre-right '''[[Cîțu Cabinet|government coalition]]''' and a '''[[National Liberal Party (Romania)|PNL]]''' '''[[Force of the Right|splinter]]'''
+| colspan="16" |The '''[[2021 Romanian political crisis]]''' begins, leading to the break-up of the [[Centre-right politics|centre-right]] '''[[Cîțu Cabinet|governmental coalition]]''' and a '''[[National Liberal Party (Romania)|PNL]]''' '''[[Force of the Right|splinter]]'''
 |-
 | data-sort-value="2021-08-24" | 20–24 Aug 2021
 | [https://www.digi24.ro/stiri/actualitate/politica/surse-sondajul-prezentat-de-marcel-ciolacu-liderilor-psd-la-sedinta-de-la-neptun-1650129 Avangarde]
@@ -677,7 +911,7 @@
 | 1.0
 | {{n/a}}
 | {{n/a}}
-| 2.0{{efn|[[Greater Romania Party|PRM]] 1.0%}}
+| 2.0<ref>[[Greater Romania Party|PRM]] - 1.0%</ref>
 | style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 14.0
 |-
 | data-sort-value="2021-08-20" | 12–20 Aug 2021
@@ -830,7 +1064,7 @@
 | 1
 | 1
 | {{n/a}}
-| 1.0{{efn|[[Greater Romania Party|PRM]] 0%}}
+| 1.0<ref>[[Greater Romania Party|PRM]] - 0%</ref>
 | style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 14.0
 |-
 | data-sort-value="2021-05-18" | 18 May 2021 
@@ -841,12 +1075,12 @@
 | 11.0
 | 14.0
 | 3.0
-| {{n/a}}
+| {{N/A}}
 | 3.0
 | {{N/A}}
-| {{n/a}}
+| {{N/A}}
 | 1.0
-| {{n/a}}
+| {{N/A}}
 | 8.0
 | style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 8.0
 |-
@@ -1087,5 +1321,3 @@
 ! 5.12
 ! style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" | 3.74
 |}
-
-<references group="lower-alpha" />

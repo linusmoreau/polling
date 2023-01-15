@@ -16,8 +16,8 @@
 ! class="unsortable" style="width:50px;" |[[Movement Now|LIIK]]
 ! class="unsortable" style="width:30px;" rowspan="2"| Others
 ! class="unsortable" style="width:30px;" rowspan="2"| Lead
-! class="unsortable" style="width:20px;" rowspan="2"| {{H:title|Government coalition (SDP, KESK, VIHR, VAS, SFP)|Gov.}}
-! class="unsortable" style="width:20px;" rowspan="2"| {{H:title|Opposition parties (PS, KOK, KD, LIIK)|Opp.}}
+! class="unsortable" style="width:20px;" rowspan="2"| {{tooltip|2=Government coalition (SDP, KESK, VIHR, VAS, SFP)|Gov.}}
+! class="unsortable" style="width:20px;" rowspan="2"| {{tooltip|2=Opposition parties (PS, KOK, KD, LIIK)|Opp.}}
 |-
 ! data-sort-type="number" style="background:{{party color|Social Democratic Party of Finland}};" |
 ! data-sort-type="number" style="background:{{party color|Finns Party}};" |
@@ -29,8 +29,229 @@
 ! data-sort-type="number" style="background:{{party color|Christian Democrats (Finland)}};" |
 ! data-sort-type="number" style="background:{{party color|Movement Now}};" |
 |-
+| Taloustutkimus<ref>{{Cite web|url=https://yle.fi/a/3-12687314|title=Ylen kannatusmittaus: Perussuomalaiset kiilasi SDP:n ohi kakkoseksi|first=Ilkka|last=Kemppinen|website=Yle Uutiset|language=fi|access-date=1 January 2023|date=1 January 2023}}</ref>
+| data-sort-value="2022-01-05"|7 Dec 2022–3 Jan 2023
+|2,953
+|18.8
+|19.3
+| style="background:#D9E9F4;"| '''23.0'''
+|10.9
+|9.6
+|8.6
+|4.0
+|2.9
+|1.3
+|1.6
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-3.7"| 3.7
+| {{formatnum:{{#expr:18.8+10.9+9.6+8.6+4.0}}}}
+| {{formatnum:{{#expr:19.3+23.0+2.9+1.3}}}}
+|-
+| Kantar Public<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000009282727.html|title=Perussuomalaisten nousu jatkuu, keskustan kannatus ennätyksellisen alhaalla|first=Teemu|last=Muhonen|website=Helsingin Sanomat|language=fi|access-date=22 December 2022|date=22 December 2022}}</ref>
+| data-sort-value="2022-12-22"|14 Nov–16 Dec 2022
+|2,512
+|19.1
+|17.9
+| style="background:#D9E9F4;"| '''23.5'''
+|9.9
+|9.8
+|8.0
+|4.3
+|3.4
+|1.8
+|2.3
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-4.4"| 4.4
+| {{formatnum:{{#expr:19.1+9.9+9.8+8.0+4.3}}}}
+| {{formatnum:{{#expr:17.9+23.5+3.4+1.8}}}}
+|-
+| Taloustutkimus<ref>{{Cite web|url=https://yle.fi/a/3-12683819|title=Ylen puoluekannatusmittaus: Keskustan kannatus ensimmäistä kertaa alle kymmenen prosenttia|first=Eetu-Mikko|last=Pietarinen|website=Yle Uutiset|language=fi|access-date=8 December 2022|date=8 December 2022}}</ref>
+| data-sort-value="2022-12-8"|7 Nov–5 Dec 2022
+|2,709
+|18.9
+|17.4
+| style="background:#D9E9F4;"| '''24.0'''
+|9.0
+|9.7
+|8.9
+|4.6
+|4.0
+|1.6
+|1.9
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-5.1"| 5.1
+| {{formatnum:{{#expr:18.9+9.0+9.7+8.9+4.6}}}}
+| {{formatnum:{{#expr:17.4+24.0+4.0+1.6}}}}
+|-
+| Kantar Public<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000009202379.html|title=Keskustan kannatus laski taas uusiin pohjalukemiin|first=Anni|last=Keski-Heikkilä|website=Helsingin Sanomat|language=fi|access-date=16 November 2022|date=16 November 2022}}</ref>
+| data-sort-value="2022-11-11"|17 Oct–11 Nov 2022
+|2,416
+|19.3
+|17.4
+| style="background:#D9E9F4;"| '''24.2'''
+|10.1
+|9.2
+|8.0
+|4.4
+|3.3
+|1.9
+|2.2
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-4.9"| 4.9
+| {{formatnum:{{#expr:19.3+10.1+9.2+8.0+4.4}}}}
+| {{formatnum:{{#expr:17.4+24.2+3.3+1.9}}}}
+|-
+| Taloustutkimus<ref>{{Cite web|url=https://yle.fi/uutiset/3-12671636|title=Ylen kannatusmittaus: SDP menettää suosiotaan, keskusta ja vihreät nousevat hieman|first=Jyrki|last=Hara|website=Yle Uutiset|language=fi|access-date=3 November 2022|date=3 November 2022}}</ref>
+| data-sort-value="2022-11-01"| 10 Oct–1 Nov 2022
+|2,502
+|18.2
+|16.7
+| style="background:#D9E9F4;"| '''23.9'''
+|10.9
+|10.1
+|8.5
+|5.0
+|3.0
+|1.7
+|2.0
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-5.7"| 5.7
+| {{formatnum:{{#expr:18.2+10.9+10.1+8.5+5.0}}}}
+| {{formatnum:{{#expr:16.7+23.9+3.0+1.7}}}}
+|-
+| Kantar Public<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000009124299.html|title=Keskustan kannatus romahti historiallisen matalaksi|first=Teemu|last=Luukka|website=Helsingin Sanomat|language=fi|access-date=19 October 2022|date=19 October 2022}}</ref>
+| data-sort-value="2022-10-14"|12 Sep–14 Oct 2022
+|2,462
+|19.0
+|17.3
+| style="background:#D9E9F4;"| '''24.2'''
+|10.4
+|9.0
+|8.3
+|4.6
+|3.2
+|1.7
+|2.3
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-5.2"| 5.2
+| {{formatnum:{{#expr:19.0+10.4+9.0+8.3+4.6}}}}
+| {{formatnum:{{#expr:17.3+24.2+3.2+1.7}}}}
+|-
+| Taloustutkimus<ref>{{Cite web|url=https://yle.fi/uutiset/3-12649834|title=Ylen kannatusmittaus: Keskusta on mittaushistorian pohjalukemissa, perussuomalaisten kannatus noussut|first=Eetu-Mikko|last=Pietarinen|website=Yle Uutiset|language=fi|access-date=6 October 2022|date=6 October 2022}}</ref>
+| data-sort-value="2022-10-04"| 8 Sep–4 Oct 2022
+|2,714
+|19.3
+|17.1
+| style="background:#D9E9F4;"| '''24.2'''
+|10.3
+|9.4
+|8.4
+|4.2
+|3.3
+|1.7
+|2.1
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-4.9"| 4.9
+| {{formatnum:{{#expr:19.3+10.3+9.4+8.4+4.2}}}}
+| {{formatnum:{{#expr:17.1+24.2+3.3+1.7}}}}
+|-
+| Kantar Public<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000009064663.html|title=Kokoomusta voi odottaa historiallinen vaalivoitto – Sdp:n kannatus putosi|first=Veli-Pekka|last=Lehtonen|website=Helsingin Sanomat|language=fi|access-date=14 September 2022|date=14 September 2022}}</ref>
+| data-sort-value="2022-09-11"| 15 Aug–11 Sep 2022
+| 2,460
+| 19.2
+| 16.1
+| style="background:#D9E9F4"|'''23.6'''
+| 11.8
+| 9.6
+| 8.0
+| 4.4
+| 3.4
+| 2.0
+| 1.9
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-4.4"| 4.4
+| {{#expr:19.2+11.8+9.6+8.0+4.4}}
+| {{#expr:16.1+23.6+3.4+2.0}}
+|-
+| Taloustutkimus<ref>{{Cite web|url=https://yle.fi/uutiset/3-12612831|title=Ylen kannatusmittaus: Marinin juhlinta ei näytä juuri vaikuttaneen SDP:n kannatukseen|first=Anne|last=Orjala|website=Yle Uutiset|language=fi|access-date=8 September 2022|date=8 September 2022}}</ref>
+| data-sort-value="2022-09-06"| 8 Aug–6 Sep 2022
+| 2,973
+| 19.4
+| 16.2
+| style="background:#D9E9F4"|'''24.2'''
+| 11.7
+| 9.6
+| 8.1
+| 4.1
+| 3.0
+| 1.8
+| 1.9
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-4.8"| 4.8
+| {{#expr:19.4+11.7+9.6+8.1+4.1}}
+| {{#expr:16.2+24.2+3.0+1.8}}
+|-
+| Kantar Public<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000009008134.html|title=Kokoomus edelleen suosituin puolue, perussuomalaisten kannatus kasvoi yli prosenttiyksiköllä|first=Tiia|last=Etelämäki|website=Helsingin Sanomat|language=fi|access-date=18 August 2022|date=18 August 2022}}</ref>
+| data-sort-value="2022-08-12"| 18 Jul–12 Aug 2022
+| 2,586
+| 20.1
+| 16.0
+| style="background:#D9E9F4"|'''23.0'''
+| 11.0
+| 9.9
+| 7.6
+| 4.5
+| 3.4
+| 2.3
+| 2.2
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-2.9"| 2.9
+| {{#expr:20.1+11.0+9.9+7.6+4.5}}
+| {{#expr:16.0+23.0+3.4+2.3}}
+|-
+| Taloustutkimus<ref>{{Cite web|url=https://yle.fi/uutiset/3-12561140|title=Ylen kannatusmittaus: Kokoomus on edelleen "poikkeuksellisen" suosittu puolue, SDP:n kannatus on nyt yli 20 prosenttia|first=Päivi|last=Happonen|website=Yle Uutiset|language=fi|access-date=4 August 2022|date=4 August 2022}}</ref>
+| data-sort-value="2022-08-02"| 6 Jul–2 Aug 2022
+| 2,831
+| 20.3
+| 16.1
+| style="background:#D9E9F4"|'''23.4'''
+| 11.0
+| 9.3
+| 8.1
+| 4.4
+| 3.0
+| 2.2
+| 2.2
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-3.1"| 3.1
+| {{#expr:20.3+11.0+9.3+8.1+4.4}}
+| {{#expr:16.1+23.4+3.0+2.2}}
+|-
+| Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000008947356.html|title=Kokoomus edelleen selvästi suosituin puolue, Sdp vahvistanut kannatustaan|first=Alli|last=Hallonbald|website=Helsingin Sanomat|language=fi|access-date=16 July 2022|date=16 July 2022}}</ref>
+| data-sort-value="2022-07-12"| 13 Jun–12 Jul 2022
+| 2,460
+| 19.9
+| 14.7
+| style="background:#D9E9F4"|'''23.9'''
+| 11.6
+| 9.8
+| 7.7
+| 4.6
+| 3.6
+| 2.2
+| 2.0
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-4.0"| 4.0
+| {{#expr:19.9+11.6+9.8+7.7+4.6}}
+| {{#expr:14.7+23.9+3.6+2.2}}
+|-
+| Taloustutkimus<ref>{{Cite web|url=https://yle.fi/uutiset/3-12525835|title=Ylen kannatusmittaus: Kokoomuksen etumatka kaventui, SDP lähestyy 20 prosentin rajaa|first=Antti|last=Pilke|website=Yle Uutiset|language=fi|access-date=7 July 2022|date=7 July 2022}}</ref>
+| data-sort-value="2022-05-31"| 6 Jun–5 Jul 2022
+| 2,348
+| 19.8
+| 15.3
+| style="background:#D9E9F4"|'''23.7'''
+| 11.8
+| 9.7
+| 7.8
+| 4.6
+| 3.3
+| 2.1
+| 1.9
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-3.9"| 3.9
+| {{#expr:19.8+11.8+9.7+7.8+4.6}}
+| {{#expr:15.3+23.7+3.3+2.1}}
+|-
 | Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000008884391.html|title=Kokoomuksen kannatus nousi lähes ennätyslukemiin|first=Roosa|last=Welling|website=Helsingin Sanomat |date=15 June 2022|access-date=15 June 2022}}</ref>
-| data-sort-value="2022-06-10"| 16 May–10 June 2022
+| data-sort-value="2022-06-10"| 16 May–10 Jun 2022
 | 2,442
 | 19.4
 | 14.5
@@ -130,6 +351,11 @@
 | style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-7.1"| 7.1
 | {{#expr:19.0+12.3+8.9+8.4+4.2}}
 | {{#expr:13.6+26.1+3.0+2.6}}
+|-
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" |24 Feb 2022
+| style="border-right-style:hidden;" |
+| colspan="21" |'''[[2022 Russian invasion of Ukraine|Beginning of Russian invasion of Ukraine]]'''
 |-
 | Kantar TNS<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000008683259.html|title=Kokoomus vahvistanut asemiaan, keskustan ja perussuomalaisten suosio laskussa|first=Marjukka|last=Liiten|website=Helsingin Sanomat |date=16 March 2022|access-date=16 March 2022}}</ref>
 | data-sort-value="2022-03-11"| 14 Feb–11 Mar 2022

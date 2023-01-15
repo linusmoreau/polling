@@ -1,5 +1,55 @@
 == Poll results ==
-{{for|the events during those years|2019 in Austria|2020 in Austria|2021 in Austria|2022 in Austria}}
+{{for|the events during those years|2019 in Austria|2020 in Austria|2021 in Austria|2022 in Austria|2023 in Austria}}
+
+=== Since January 2023 ===
+
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="2"| Polling firm
+! rowspan="2"| Fieldwork date
+! rowspan="2"| Sample<br>size
+! rowspan="2"| Method
+! class="unsortable" style="width:50px;"| [[Austrian People's Party|ÖVP]]
+! class="unsortable" style="width:50px;"| [[Social Democratic Party of Austria|SPÖ]]
+! class="unsortable" style="width:50px;"| [[Freedom Party of Austria|FPÖ]]
+! class="unsortable" style="width:50px;"| [[The Greens – The Green Alternative|Grüne]]
+! class="unsortable" style="width:50px;"| [[NEOS – The New Austria and Liberal Forum|NEOS]]
+! class="unsortable" style="width:50px;"| Others
+! rowspan="2" class="unsortable" style="width:50px;" | Lead
+|-
+! style="background:{{party color|Austrian People's Party (2017)}};"|
+! style="background:{{party color|Social Democratic Party of Austria}};"|
+! style="background:{{party color|Freedom Party of Austria}};"|
+! style="background:{{party color|The Greens – The Green Alternative}};"|
+! style="background:{{party color|NEOS – The New Austria and Liberal Forum}};"|
+! style="background:{{party color|Independent}};"|
+|-
+| [https://exxpress.at/exxpress-meinungstrend-fpoe-vorne-spoe-verliert-und-oevp-erholt-sich/ INSA]
+| data-sort-value="2023-01-07"| 2–5 Jan 2023
+| 1,000
+| Online
+| 22
+| 25
+| style="background:#C6D9EA;"| '''28'''
+| 9
+| 10
+| 6{{efn|name=MFG|[[MFG Austria – People Freedom Fundamental Rights|MFG]]: 2 %}}
+| style="background:{{party color|Freedom Party of Austria}};color:#FFFFFF;"| 3
+|- style="background:#E9E9E9;"
+| [[2019 Austrian legislative election|2019 legislative election]]
+| data-sort-value="2019-09-29"| 29 Sep 2019
+| –
+| –
+| style="background:#D2EDF1;"| '''37.5'''
+| 21.2
+| 16.2
+| 13.9
+| 8.1
+| 3.1
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 16.3
+|}
+
+=== September 2021 – December 2022 ===
 
 {| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
 |-
@@ -23,6 +73,588 @@
 ! style="background:{{party color|NEOS – The New Austria and Liberal Forum}};"|
 ! style="background:{{party color|MFG – Austria People – Freedom – Fundamental Rights}};"|
 ! style="background:{{party color|Independent}};"|
+|-
+| [https://www.puls24.at/news/politik/umfrage-fpoe-auf-platz-eins-hans-peter-doskozil-ueberholt-karl-nehammer-bei-kanzler-frage/283977 Peter Hajek]
+| data-sort-value="2022-12-15"| 12–15 Dec 2022
+| 800
+| Phone & Online
+| 22
+| 24
+| style="background:#C6D9EA;"| '''26'''
+| 11
+| 11
+| 3
+| 1
+| style="background:{{party color|Freedom Party of Austria}};color:#FFFFFF;"| 2
+|-
+| [https://exxpress.at/hauchduenner-vorsprung-spoe-im-exxpress-meinungstrend-noch-knapp-vor-fpoe/ INSA]
+| data-sort-value="2022-12-10"| 5–9 Dec 2022
+| 1,000
+| Online
+| 21
+| style="background:#F4C6C9;"| '''27'''
+| 26
+| 10
+| 8
+| 3
+| 5
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 1
+|-
+| [https://www.profil.at/oesterreich/umfrage-fpoe-holt-spoe-ein/402254502 Unique Research]
+| data-sort-value="2022-12-07"| 2–7 Dec 2022
+| 800
+| Phone & Online
+| 20
+| style="background:#F4C6C9;"| '''26'''
+| style="background:#C6D9EA;"| '''26'''
+| 11
+| 10
+| 4
+| 4
+| Tie
+|-
+| [https://www.derstandard.de/story/2000141593553/fpoe-deutlich-vor-der-oevp-knapp-vor-der-spoe Market]
+| data-sort-value="2022-12-05"| 3–5 Dec 2022
+| 804
+| Online
+| 21
+| 27
+| style="background:#C6D9EA;"| '''29'''
+| 10
+| 11
+| 1
+| 2
+| style="background:{{party color|Freedom Party of Austria}};color:#FFFFFF;"| 2
+|-
+| [https://www.oe24.at/oesterreich/politik/affaeren/umfrage-hammer-fpoe-ueberholt-spoe-nach-doskozil-eklat/536909174 Market-Lazarsfeld]
+| data-sort-value="2022-11-23"| 21–23 Nov 2022
+| 2,000
+| Online
+| 20
+| 25
+| style="background:#C6D9EA;"| '''26'''
+| 10
+| 13
+| 1
+| 5
+| style="background:{{party color|Freedom Party of Austria}};color:#FFFFFF;"| 1
+|-
+| [https://www.oe24.at/video/fellnerlive/fellner-live-die-umfrage-der-woche/536315335 Market-Lazarsfeld]
+| data-sort-value="2022-11-16"| 14–16 Nov 2022
+| 2,000
+| Online
+| 22
+| style="background:#F4C6C9;"| '''27'''
+| 25
+| 10
+| 12
+| 1
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 2
+|-
+| [https://twitter.com/Wahlen_AT/status/1594458370240839681 Peter Hajek]
+| rowspan="2" data-sort-value="2022-11-10"| 7–10 Nov 2022
+| rowspan="2" | 800
+| rowspan="2" | Phone & Online
+| 22
+| style="background:#F4C6C9;"| '''27'''
+| 25
+| 10
+| 10
+| 3
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 2
+|-
+| [https://twitter.com/Wahlen_AT/status/1594459201128079360 Peter Hajek]
+| 20
+| style="background:#F4C6C9;"| '''32{{efn|with Hans Peter Doskozil as frontrunner}}'''
+| 21
+| 10
+| 12
+| 3
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 11
+|-
+| [https://www.profil.at/oesterreich/umfrage-fpoe-legt-weiter-zu-spoe-verliert-leicht/402215712 Unique Research]
+| data-sort-value="2022-11-10"| 7–10 Nov 2022
+| 800
+| Phone & Online
+| 22
+| style="background:#F4C6C9;"| '''27'''
+| 25
+| 10
+| 10
+| 3
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 2
+|-
+| [https://www.oe24.at/oesterreich/politik/umfragen/spoe-auf-platz-1-rendi-wieder-klar-vor-fpoe/535782846 Market-Lazarsfeld]
+| data-sort-value="2022-11-09"| 7–9 Nov 2022
+| 2,000
+| Online
+| 22
+| style="background:#F4C6C9;"| '''27'''
+| 24
+| 11
+| 12
+| 1
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 3
+|-
+| [https://exxpress.at/chaos-tage-um-fall-thomas-schmid-kickl-noch-deutlicher-vor-nehammer/ INSA]
+| data-sort-value="2022-11-04"| 2–4 Nov 2022
+| 1,000
+| Online
+| 21
+| style="background:#F4C6C9;"| '''29'''
+| 23
+| 10
+| 9
+| 2
+| 6
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 6
+|-
+| [https://www.oe24.at/video/fellnerlive/fellner-live-die-umfrage-der-woche/535019300 Market-Lazarsfeld]
+| data-sort-value="2022-11-02"| 31 Oct–2 Nov 2022
+| 2,000
+| Online
+| 21
+| style="background:#F4C6C9;"| '''26'''
+| 25
+| 11
+| 12
+| 2
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 1
+|-
+| [https://www.puls24.at/news/politik/sonntagsfrage-bierpartei-ueberholt-gruene/279744 IFDD]
+| data-sort-value="2022-10-28"| 26–28 Oct 2022
+| 1,250
+| Online
+| 20
+| style="background:#F4C6C9;"| '''27'''
+| 25
+| 11
+| 11
+| –
+| 6
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 2
+|-
+| [https://twitter.com/Wahlen_AT/status/1585709572638982146 Market-Lazarsfeld]
+| data-sort-value="2022-10-25"| 17–25 Oct 2022
+| 2,000
+| Online
+| 21
+| style="background:#F4C6C9;"| '''26'''
+| style="background:#C6D9EA;"| '''26'''
+| 11
+| 11
+| 2
+| 3
+| Tie
+|-
+| [https://www.oe24.at/oesterreich/politik/fpoe-nur-noch-knapp-hinter-spoe/533731765 Market-Lazarsfeld]
+| data-sort-value="2022-10-19"| 17–19 Oct 2022
+| 2,000
+| Online
+| 22
+| style="background:#F4C6C9;"| '''27'''
+| 25
+| 10
+| 10
+| 2
+| 4
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 2
+|-
+| [https://www.puls24.at/news/politik/christoph-haselmayer-mehrheit-will-einheitliche-corona-massnahmen/278504 IFDD]
+| data-sort-value="2022-10-14"| 10–14 Oct 2022
+| 1,007
+| Online	
+| 23
+| style="background:#F4C6C9;"| '''28'''
+| 24
+| 10
+| 10
+| –
+| 5
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 4
+|-
+| [https://www.profil.at/oesterreich/umfrage-spoe-weiter-klar-vorn-fpoe-und-oevp-holen-auf/402182196 Unique Research]
+| data-sort-value="2022-10-13"| 10–13 Oct 2022
+| 800
+| Phone & Online	
+| 23
+| style="background:#F4C6C9;"| '''28'''
+| 24
+| 11
+| 10
+| 2
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 4
+|-
+| [https://www.oe24.at/oesterreich/politik/parteien/umfrage-marco-pogo-waere-im-parlament/533024908 Market-Lazarsfeld]
+| data-sort-value="2022-10-12"| 10–12 Oct 2022
+| 2,000
+| Online
+| 22
+| style="background:#F4C6C9;"| '''28'''
+| 25
+| 10
+| 10
+| 2
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 3
+|-
+| [https://exxpress.at/knalleffekt-bei-kanzlerfrage-nehammer-wieder-klar-vor-spoe-chefin/ INSA]
+| data-sort-value="2022-10-06"| 4–6 Oct 2022
+| 1,000
+| Online
+| 22
+| style="background:#F4C6C9;"| '''28'''
+| 23
+| 10
+| 9
+| 3
+| 5
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 5
+|-
+| [https://www.oe24.at/video/fellnerlive/fellner-live-die-umfrage-der-woche/532366064 Market-Lazarsfeld]
+| data-sort-value="2022-10-05"| 3–5 Oct 2022
+| 2,000
+| Online
+| 22
+| style="background:#F4C6C9;"| '''28'''
+| 24
+| 9
+| 12
+| 3
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 4
+|-
+| [https://www.ogm.at/2022/10/02/ogm-kurier-wahlumfrage-oktober-2022/ OGM]
+| data-sort-value="2022-09-28"| 23–28 Sep 2022
+| 1,098
+| Online
+| 22
+| style="background:#F4C6C9;"| '''28'''
+| 22
+| 10
+| 10
+| 3
+| 5
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 6
+|-
+| [https://twitter.com/Wahlen_AT/status/1575565727179776000 Market-Lazarsfeld]
+| data-sort-value="2022-09-27"| 19–27 Sep 2022
+| 2,000
+| Online
+| 21
+| style="background:#F4C6C9;"| '''27'''
+| 24
+| 10
+| 12
+| 4
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 3
+|-
+| [https://twitter.com/Wahlen_AT/status/1573063306705014785 Market-Lazarsfeld]
+| data-sort-value="2022-09-20"| 12–20 Sep 2022
+| 2,000
+| Online
+| 20
+| style="background:#F4C6C9;"| '''28'''
+| 23
+| 11
+| 12
+| 4
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 5
+|-
+| [https://www.profil.at/umfrage/profil-umfrage-oevp-auf-platz-3-nehammer-in-kanzlerfrage-vorne/402150111 Unique Research]
+| data-sort-value="2022-09-15"| 7–15 Sep 2022
+| 1,600
+| Phone & Online
+| 21
+| style="background:#F4C6C9;"| '''29'''
+| 23
+| 11
+| 9
+| 5
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 6
+|-
+| [https://www.oe24.at/video/fellnerlive/fellner-live-die-umfrage-der-woche/530327737 Market-Lazarsfeld]
+| data-sort-value="2022-09-13"| 12–13 Sep 2022
+| 2,000
+| Online
+| 20
+| style="background:#F4C6C9;"| '''28'''
+| 22
+| 12
+| 13
+| 3
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 6
+|-
+| [https://exxpress.at/exxpress-umfrage-fpoe-vorne-oevp-jetzt-nur-noch-auf-platz-3/ INSA]
+| data-sort-value="2022-09-08"| 5–8 Sep 2022
+| 1,000
+| Online
+| 20
+| style="background:#F4C6C9;"| '''29'''
+| 21
+| 10
+| 10
+| 5
+| 5
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 8
+|-
+| [https://www.oe24.at/video/fellnerlive/fellner-live-die-umfrage-der-woche/529680827 Market-Lazarsfeld]
+| data-sort-value="2022-09-06"| 5–6 Sep 2022
+| 2,000
+| Online
+| 20
+| style="background:#F4C6C9;"| '''29'''
+| 22
+| 10
+| 13
+| 3
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 7
+|-
+| [https://www.oe24.at/video/fellnerlive/fellner-live-die-umfrage-der-woche/529043366 Market-Lazarsfeld]
+| data-sort-value="2022-08-30"| 29–30 Aug 2022
+| 2,000
+| Online
+| 21
+| style="background:#F4C6C9;"| '''30'''
+| 22
+| 9
+| 11
+| 4
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 8
+|-
+| [https://www.oe24.at/oesterreich/politik/umfragen/umfrage-oevp-faellt-im-bund-hinter-fpoe-zurueck/528400203 Market-Lazarsfeld]
+| data-sort-value="2022-08-23"| 22–23 Aug 2022
+| 2,000
+| Online
+| 20
+| style="background:#F4C6C9;"| '''30'''
+| 22
+| 9
+| 13
+| 4
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 8
+|-
+| [https://www.profil.at/oesterreich/gedraenge-um-die-hofburg-und-ein-top-favorit/402117471 Unique Research]
+| data-sort-value="2022-08-18"| 10–18 Aug 2022
+| 1,615
+| Phone & Online
+| 21
+| style="background:#F4C6C9;"| '''28'''
+| 22
+| 11
+| 11
+| 4
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 6
+|-
+| [https://www.oe24.at/oesterreich/politik/regierung/umfrage-spoe-klar-voran-fpoe-holt-oevp-schon-wieder-ein/527933594 Market-Lazarsfeld]
+| data-sort-value="2022-08-17"| 9–17 Aug 2022
+| 2,000
+| Online
+| 21
+| style="background:#F4C6C9;"| '''30'''
+| 21
+| 9
+| 13
+| 4
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 9
+|-
+| [https://www.derstandard.at/story/2000138269568/nehammer-hat-seinen-kanzlerbonus-in-umfragen-verloren Market]
+| data-sort-value="2022-08-11"| 8–11 Aug 2022
+| 817
+| Online
+| 22
+| style="background:#F4C6C9;"| '''30'''
+| 21
+| 11
+| 11
+| 3
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 8
+|-
+| [https://www.oe24.at/oesterreich/politik/fpoe-stuerzt-ab-spoe-legt-zu/527141688 Market-Lazarsfeld]
+| data-sort-value="2022-08-09"| 8–9 Aug 2022
+| 2,000
+| Online
+| 23
+| style="background:#F4C6C9;"| '''31'''
+| 20
+| 9
+| 11
+| 4
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 8
+|-
+| [https://twitter.com/Wahlen_AT/status/1558732904058028032 INSA]
+| data-sort-value="2022-08-04"| 1–4 Aug 2022
+| 1,000
+| Online
+| 20
+| style="background:#F4C6C9;"| '''29'''
+| 21
+| 10
+| 10
+| 5
+| 5
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 8
+|-
+| [https://www.oe24.at/video/fellnerlive/fellner-live-die-umfrage-der-woche/526507853 Market-Lazarsfeld]
+| data-sort-value="2022-08-02"| 1–2 Aug 2022
+| 2,000
+| Online
+| 22
+| style="background:#F4C6C9;"| '''29'''
+| 22
+| 11
+| 11
+| 3
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 7
+|-
+| [https://www.youtube.com/watch?v=LMjS6PttiKg Market-Lazarsfeld]
+| data-sort-value="2022-07-27"| 25–27 Jul 2022
+| 2,000
+| Online
+| 21
+| style="background:#F4C6C9;"| '''29'''
+| 23
+| 10
+| 11
+| 4
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 6
+|-
+| [https://www.oe24.at/oesterreich/politik/politik-beben-nach-umfrage-sensation/525408836 Market-Lazarsfeld]
+| data-sort-value="2022-07-20"| 18–20 Jul 2022
+| 2,000
+| Online
+| 20
+| style="background:#F4C6C9;"| '''31'''
+| 23
+| 9
+| 11
+| 4
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 8
+|-
+| [https://exxpress.at/der-neue-exxpress-meinungstrend-die-gruenen-fast-von-neos-ueberholt/ INSA]
+| data-sort-value="2022-07-16"| 16 Jul 2022{{Efn|Publication date}}
+| 1,000
+| Online
+| 21
+| style="background:#F4C6C9;"| '''30'''
+| 20
+| 10
+| 10
+| 5
+| 4
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 9
+|-
+| [https://twitter.com/Wahlen_AT/status/1548226404550000641 Unique Research]
+| data-sort-value="2022-07-14"| 10–14 Jul 2022
+| 800
+| Phone & Online
+| 22
+| style="background:#F4C6C9;"| '''29'''
+| 21
+| 10
+| 11
+| 4
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 7
+|-
+| [https://www.politik-live.at/parteien/tuerkis-gruen-im-teuerungs-tief/524529790 Market-Lazarsfeld]
+| data-sort-value="2022-07-13"| 11–13 Jul 2022
+| 2,000
+| Online
+| 21
+| style="background:#F4C6C9;"| '''29'''
+| 22
+| 10
+| 12
+| 3
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 7
+|-
+| [https://www.politik-live.at/parteien/umfrage-teuerungs-hilfe-rettet-die-oevp/523779937 Market-Lazarsfeld]
+| data-sort-value="2022-07-06"| 4–6 Jul 2022
+| 2,000
+| Online
+| 23
+| style="background:#F4C6C9;"| '''30'''
+| 21
+| 11
+| 9
+| 3
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 7
+|-
+| [https://www.puls24.at/news/politik/sonntagsfrage-oevp-stuerzt-auf-platz-3-ab/269748 IFDD]
+| data-sort-value="2022-07-03"| 30 Jun–3 Jul 2022
+| 1,000
+| Online
+| 20
+| style="background:#F4C6C9;"| '''31'''
+| 21
+| 10
+| 11
+| 4
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 10
+|-
+| [https://www.puls24.at/news/politik/spoe-in-sonntagsfrage-deutlich-vorn-zufriedenheit-mit-regierung-am-boden/269236 Peter Hajek]
+| data-sort-value="2022-06-30"| 27–30 Jun 2022
+| 800
+| Online
+| 22
+| style="background:#F4C6C9;"| '''29'''
+| 22
+| 10
+| 10
+| 5
+| 2
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 7
+|-
+| [https://www.politik-live.at/parteien/umfrage-beben-fpoe-ueberholt-erstmals-seit-2017-oevp/523199154 Market-Lazarsfeld]
+| data-sort-value="2022-06-28"| 27–28 Jun 2022
+| 2,000
+| Online
+| 21
+| style="background:#F4C6C9;"| '''31'''
+| 22
+| 10
+| 9
+| 4
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 9
+|-
+| [https://twitter.com/EuropeElects/status/1541462415958761475 OGM]
+| data-sort-value="2022-06-23"| 20–23 Jun 2022
+| 1,015
+| Online
+| 23
+| style="background:#F4C6C9;"| '''29'''
+| 19
+| 10
+| 11
+| 5
+| 3
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 6
 |-
 | [https://twitter.com/Wahlen_AT/status/1540272450126192640 Unique Research]
 | data-sort-value="2022-06-23"| 20–23 Jun 2022
@@ -49,6 +681,19 @@
 | 4
 | 3
 | style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 10
+|-
+| [https://twitter.com/EuropeElects/status/1543618292975374337 INSA]
+| data-sort-value="2022-06-14"| 10–14 Jun 2022
+| 1,000
+| –
+| 22
+| style="background:#F4C6C9;"| '''29'''
+| 20
+| 10
+| 11
+| 4
+| 4
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 7
 |-
 | [https://twitter.com/EuropeElects/status/1538226141047271426 Market-Lazarsfeld]
 | data-sort-value="2022-06-14"| 7–14 Jun 2022
@@ -587,6 +1232,43 @@
 | –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
+|- style="background:#E9E9E9;"
+| [[2019 Austrian legislative election|2019 legislative election]]
+| data-sort-value="2019-09-29"| 29 Sep 2019
+| –
+| –
+| style="background:#D2EDF1;"| '''37.5'''
+| 21.2
+| 16.2
+| 13.9
+| 8.1
+| –
+| 3.1
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 16.3
+|}
+
+=== October 2019 – August 2021 ===
+
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="2"| Polling firm
+! rowspan="2"| Fieldwork date
+! rowspan="2"| Sample<br>size
+! rowspan="2"| Method
+! class="unsortable" style="width:50px;"| [[Austrian People's Party|ÖVP]]
+! class="unsortable" style="width:50px;"| [[Social Democratic Party of Austria|SPÖ]]
+! class="unsortable" style="width:50px;"| [[Freedom Party of Austria|FPÖ]]
+! class="unsortable" style="width:50px;"| [[The Greens – The Green Alternative|Grüne]]
+! class="unsortable" style="width:50px;"| [[NEOS – The New Austria and Liberal Forum|NEOS]]
+! class="unsortable" style="width:50px;"| Others
+! rowspan="2" class="unsortable" style="width:50px;" | Lead
+|-
+! style="background:{{party color|Austrian People's Party (2017)}};"|
+! style="background:{{party color|Social Democratic Party of Austria}};"|
+! style="background:{{party color|Freedom Party of Austria}};"|
+! style="background:{{party color|The Greens – The Green Alternative}};"|
+! style="background:{{party color|NEOS – The New Austria and Liberal Forum}};"|
+! style="background:{{party color|Independent}};"|
 |-
 | [http://www.researchaffairs.at/Sonntagsfrage/ Research Affairs]
 | data-sort-value="2021-08-26"| 24–26 Aug 2021
@@ -597,7 +1279,6 @@
 | 19
 | 10
 | 12
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
@@ -610,7 +1291,6 @@
 | 19
 | 11
 | 11
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
@@ -623,7 +1303,6 @@
 | 18
 | 10
 | 12
-| –
 | 5
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
@@ -636,7 +1315,6 @@
 | 18
 | 13
 | 11
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 6
 |-
@@ -649,7 +1327,6 @@
 | 17
 | 11
 | 12
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 14
 |-
@@ -662,7 +1339,6 @@
 | 19
 | 12
 | 11
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 14
 |-
@@ -675,7 +1351,6 @@
 | 17
 | 12
 | 12
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
@@ -688,7 +1363,6 @@
 | 18
 | 12
 | 11
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
@@ -701,7 +1375,6 @@
 | 19
 | 11
 | 12
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
@@ -714,7 +1387,6 @@
 | 18
 | 11
 | 12
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
@@ -727,7 +1399,6 @@
 | 17
 | 12
 | 12
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 12
 |-
@@ -740,7 +1411,6 @@
 | 17
 | 11
 | 12
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 14
 |-
@@ -753,7 +1423,6 @@
 | 18
 | 12
 | 12
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 9
 |-
@@ -766,7 +1435,6 @@
 | 17
 | 13
 | 12
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
@@ -779,7 +1447,6 @@
 | 16
 | 11
 | 12
-| –
 | 5
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 12
 |-
@@ -792,7 +1459,6 @@
 | 17
 | 13
 | 11
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 5
 |-
@@ -805,7 +1471,6 @@
 | 18
 | 11
 | 11
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 8
 |-
@@ -818,7 +1483,6 @@
 | 16
 | 12
 | 11
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
@@ -831,7 +1495,6 @@
 | 18
 | 11
 | 12
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
@@ -844,7 +1507,6 @@
 | 15
 | 12
 | 11
-| –
 | 5
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
@@ -857,7 +1519,6 @@
 | 18
 | 11
 | 11
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 5
 |-
@@ -870,7 +1531,6 @@
 | 16
 | 13
 | 11
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 5
 |-
@@ -883,7 +1543,6 @@
 | 14
 | 12
 | 12
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 12
 |-
@@ -896,7 +1555,6 @@
 | 18
 | 13
 | 11
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 10
 |-
@@ -909,7 +1567,6 @@
 | 15
 | 11
 | 12
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
@@ -922,7 +1579,6 @@
 | 20
 | 10
 | 11
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 1
 |-
@@ -935,7 +1591,6 @@
 | 16
 | 11
 | 12
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
@@ -948,7 +1603,6 @@
 | 17
 | 11
 | 12
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 12
 |-
@@ -961,7 +1615,6 @@
 | 18
 | 12
 | 11
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 10
 |-
@@ -974,7 +1627,6 @@
 | 17
 | 12
 | 11
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
@@ -987,7 +1639,6 @@
 | 18
 | 12
 | 10
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
@@ -1000,7 +1651,6 @@
 | 17
 | 12
 | 11
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
@@ -1013,7 +1663,6 @@
 | 16
 | 12
 | 12
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 16
 |-
@@ -1026,7 +1675,6 @@
 | 18
 | 13
 | 9
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 8
 |-
@@ -1039,7 +1687,6 @@
 | 16
 | 12
 | 11
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
@@ -1052,7 +1699,6 @@
 | 19
 | 12
 | 10
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 9
 |-
@@ -1065,7 +1711,6 @@
 | 17
 | 11
 | 10
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
@@ -1078,7 +1723,6 @@
 | 18
 | 9
 | 12
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
@@ -1091,7 +1735,6 @@
 | 15
 | 12
 | 10
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 10
 |-
@@ -1104,7 +1747,6 @@
 | 18
 | 11
 | 11
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
@@ -1117,7 +1759,6 @@
 | 17
 | 9
 | 11
-| –
 | 5
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 14
 |-
@@ -1130,7 +1771,6 @@
 | 16
 | 9
 | 10
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
@@ -1143,7 +1783,6 @@
 | 17
 | 10
 | 11
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 10
 |-
@@ -1156,7 +1795,6 @@
 | 17
 | 9
 | 10
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 14
 |-
@@ -1169,7 +1807,6 @@
 | 17
 | 10
 | 12
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
@@ -1182,7 +1819,6 @@
 | 17
 | 8
 | 10
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
@@ -1195,7 +1831,6 @@
 | 14
 | 12
 | 10
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 12
 |-
@@ -1208,7 +1843,6 @@
 | 17
 | 10
 | 11
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 13
 |-
@@ -1221,7 +1855,6 @@
 | 16
 | 9
 | 10
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 14
 |-
@@ -1234,7 +1867,6 @@
 | 15
 | 9
 | 10
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
@@ -1247,7 +1879,6 @@
 | 18
 | 10
 | 11
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 11
 |-
@@ -1260,7 +1891,6 @@
 | 16
 | 14
 | 10
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15
 |-
@@ -1273,7 +1903,6 @@
 | 16
 | 13
 | 9
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 17
 |-
@@ -1286,7 +1915,6 @@
 | 12
 | 11
 | 10
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 19
 |-
@@ -1299,7 +1927,6 @@
 | 16
 | 12
 | 10
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 17
 |-
@@ -1312,7 +1939,6 @@
 | 16
 | 16
 | 8
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 19
 |-
@@ -1325,7 +1951,6 @@
 | 12
 | 12
 | 9
-| –
 | 5
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 23
 |-
@@ -1338,7 +1963,6 @@
 | 13
 | 14
 | 8
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
@@ -1351,7 +1975,6 @@
 | 15
 | 13
 | 8
-| –
 | 5
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 23
 |-
@@ -1364,7 +1987,6 @@
 | 15
 | 16
 | 9
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 23
 |-
@@ -1377,7 +1999,6 @@
 | 11
 | 15
 | 8
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 23
 |-
@@ -1390,7 +2011,6 @@
 | 15
 | 16
 | 8
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
@@ -1403,7 +2023,6 @@
 | 11
 | 15
 | 8
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 21
 |-
@@ -1416,7 +2035,6 @@
 | 13
 | 16
 | 8
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 23
 |-
@@ -1429,7 +2047,6 @@
 | 14
 | 16
 | 8
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 27
 |-
@@ -1442,7 +2059,6 @@
 | 13
 | 15
 | 8
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 23
 |-
@@ -1455,7 +2071,6 @@
 | 12
 | 16
 | 7
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 24
 |-
@@ -1468,7 +2083,6 @@
 | 12
 | 17
 | 6
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
@@ -1481,7 +2095,6 @@
 | 14
 | 15
 | 6
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 29
 |-
@@ -1494,7 +2107,6 @@
 | 11
 | 17
 | 6
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 23
 |-
@@ -1507,7 +2119,6 @@
 | 10
 | 18
 | 7
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 24
 |-
@@ -1520,7 +2131,6 @@
 | 13
 | 16
 | 6
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 32
 |-
@@ -1533,7 +2143,6 @@
 | 11
 | 19
 | 6
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 25
 |-
@@ -1546,7 +2155,6 @@
 | 12
 | 18
 | 7
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 27
 |-
@@ -1559,7 +2167,6 @@
 | 11
 | 19
 | 7
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 24
 |-
@@ -1572,7 +2179,6 @@
 | 17
 | 16
 | 9
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
@@ -1585,7 +2191,6 @@
 | 13
 | 17
 | 9
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 20
 |-
@@ -1598,7 +2203,6 @@
 | 16
 | 17
 | 10
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 21
 |-
@@ -1611,7 +2215,6 @@
 | 13
 | 17
 | 9
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 21
 |-
@@ -1624,7 +2227,6 @@
 | 15
 | 17
 | 9
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 20
 |-
@@ -1637,7 +2239,6 @@
 | 13
 | 17
 | 10
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
@@ -1650,7 +2251,6 @@
 | 13
 | 17
 | 11
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
@@ -1663,7 +2263,6 @@
 | 13
 | 17
 | 10
-| –
 | 5
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
@@ -1676,7 +2275,6 @@
 | 15
 | 17
 | 9
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
@@ -1689,7 +2287,6 @@
 | 16
 | 17
 | 10
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 21
 |-
@@ -1702,7 +2299,6 @@
 | 13
 | 17
 | 9
-| –
 | 5
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
@@ -1715,7 +2311,6 @@
 | 14
 | 16
 | 10
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 20
 |-
@@ -1728,7 +2323,6 @@
 | 15
 | 16
 | 9
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
@@ -1741,7 +2335,6 @@
 | 15
 | 17
 | 10
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 21
 |-
@@ -1754,7 +2347,6 @@
 | 14
 | 16
 | 9
-| –
 | 5
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
@@ -1767,7 +2359,6 @@
 | 14
 | 16
 | 10
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 22
 |-
@@ -1780,7 +2371,6 @@
 | 15
 | 16
 | 10
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 21
 |-
@@ -1793,7 +2383,6 @@
 | 14
 | 16
 | 10
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 20
 |-
@@ -1806,7 +2395,6 @@
 | 14
 | 16
 | 9
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 18
 |-
@@ -1819,7 +2407,6 @@
 | 17
 | 16
 | 9
-| –
 | 1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 19
 |-
@@ -1832,7 +2419,6 @@
 | 15
 | 16
 | 8
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 18
 |-
@@ -1845,7 +2431,6 @@
 | 15
 | 15
 | 9
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 18
 |-
@@ -1858,7 +2443,6 @@
 | 15
 | 16
 | 9
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 17
 |-
@@ -1871,7 +2455,6 @@
 | 15
 | 16
 | 9
-| –
 | 3
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 19
 |-
@@ -1884,7 +2467,6 @@
 | 15
 | 15
 | 9
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 19
 |-
@@ -1897,7 +2479,6 @@
 | 16
 | 15
 | 9
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 18
 |-
@@ -1910,7 +2491,6 @@
 | 15
 | 15
 | 8
-| –
 | 4
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 18
 |-
@@ -1923,7 +2503,6 @@
 | 17
 | 15
 | 9
-| –
 | 2
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 17
 |- style="background:#E9E9E9;"
@@ -1936,7 +2515,6 @@
 | 16.2
 | 13.9
 | 8.1
-| –
 | 3.1
 | style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 16.3
 |}
@@ -1963,6 +2541,19 @@
 ! style="background:{{party color|Freedom Party of Austria}};"|
 ! style="background:{{party color|NEOS – The New Austria and Liberal Forum}};"|
 ! style="background:{{party color|Independent}};"|
+|-
+|- style="background:#E9E9E9;"
+| [[2020 Viennese state election]]
+| data-sort-value="2020-10-11"| 11 Oct 2020
+| –
+| −
+| style="background:#F4C6C9;"| '''41.6'''
+| 20.4
+| 14.8
+| 7.1
+| 7.5
+| 8.6
+| style="background:{{party color|Social Democratic Party of Austria}};color:#FFFFFF;"| 21.2
 |-
 | [https://www.ots.at/presseaussendung/OTS_20210831_OTS0100/politik-herbst-2021-klare-mehrheiten-in-wien-zu-aktuellen-themen-anhang Triple M Matzka]
 | 19–27 Aug 2021
@@ -2010,6 +2601,19 @@
 ! style="background:{{party color|Social Democratic Party of Austria}};"|
 ! style="background:{{party color|NEOS – The New Austria and Liberal Forum}};"|
 ! style="background:{{party color|Independent}};"|
+|-
+|- style="background:#E9E9E9;"
+| [[2022 Tyrolean state election]]
+| data-sort-value="2020-09-25"| 25 Sep 2022
+| –
+| −
+| style="background:#D2EDF1;"| '''34.7'''
+| 9.2
+| 18.8
+| 17.5
+| 6.3
+| 13.5
+| style="background:{{party color|Austrian People's Party (2017)}};color:#FFFFFF;"| 15.9
 |-
 | [https://www.krone.at/2054894 IMAD]
 | 11–15 Nov 2019

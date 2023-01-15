@@ -1,5 +1,503 @@
 === 2022 ===
+
 {{mw-datatable}}
+{| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="2"| Polling firm
+! rowspan="2"|Fieldwork Date
+! rowspan="2" data-sort-type="number"|Sample<br />size
+! class="unsortable" style="width:50px;"|[[Estonian Reform Party|Ref]]
+! class="unsortable" style="width:50px;"|[[Estonian Centre Party|Kesk]]
+! class="unsortable" style="width:50px;"|[[Conservative People's Party of Estonia|EKRE]]
+! class="unsortable" style="width:50px;"|[[Isamaa]]
+! class="unsortable" style="width:50px;"|[[Social Democratic Party (Estonia)|SDE]]
+! class="unsortable" style="width:50px;"|[[Estonia 200|E200]]
+! class="unsortable" style="width:50px;"|[[Estonian Greens|EER]]
+! class="unsortable" style="width:50px;"|[[Parempoolsed|Parem]]
+! rowspan="2" class="unsortable"| Others
+! rowspan="2" data-sort-type="number"| Lead 
+! class="unsortable" style="width:20px;"| {{abbr|Gov.|Government parties (Reform, Isamaa, and SDE)}}
+! class="unsortable" style="width:20px;"| {{abbr|Opp.|Non-government parties (Conservative, Kesk, Estonia 200, Parem and Green)}}
+|- style="text-align:center;"
+! data-sort-type="number" style="background:{{party color|Estonian Reform Party}};"|
+! data-sort-type="number" style="background:{{party color|Estonian Centre Party}};"|
+! data-sort-type="number" style="background:{{party color|Conservative People's Party of Estonia}};"|
+! data-sort-type="number" style="background:{{party color|Pro Patria (Estonian political party)}};"|
+! data-sort-type="number" style="background:{{party color|Social Democratic Party (Estonia)}};"|
+! data-sort-type="number" style="background:{{party color|Estonia 200 (2021)}};"|
+! data-sort-type="number" style="background:{{party color|Estonian Greens}};"|
+! data-sort-type="number" class="unsortable" style="background-color: #FA6100"|
+! data-sort-type="number" style="background:Green;"|
+! data-sort-type="number" style="background:Red;"|
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|20-27 Dec
+|1,000
+|style="background:#FEF4AE" |'''31.0'''
+|16.5
+|22.8
+|9.1
+|5.6
+|10.6
+|2.1
+|1.2
+|1.1
+| style="background:{{party color|Estonian Reform Party}};" |8.2
+|45.7
+|{{no|54.3}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|13-19 Dec
+|1,000
+|style="background:#FEF4AE" |'''31.5'''
+|15.2
+|24.6
+|6.5
+|7.7
+|9.6
+|2.1
+|0.4
+|1.6
+| style="background:{{party color|Estonian Reform Party}};" |6.9
+|45.7
+|{{no|54.3}}
+|-
+|[https://news.err.ee/1608824722/end-of-year-ratings-support-for-ekre-falls-for-second-consecutive-month Kantar Emor]
+|8-16 Dec
+|1,510
+|style="background:#FEF4AE" |'''30'''
+|16
+|18
+|8
+|9
+|14
+|3
+|1
+|0
+| style="background:{{party color|Estonian Reform Party}};" |12
+|47
+|{{no|52}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|6-12 Dec
+|1,000
+|style="background:#FEF4AE" |'''31.3'''
+|15.1
+|27.1
+|8.3
+|6.0
+|8.6
+|1.4
+|0.8
+|1.4
+| style="background:{{party color|Estonian Reform Party}};" |4.2
+|45.6
+|{{no|54.4}}
+|-
+|[https://turu-uuringute.eu/erakondade-toetuse-muutumine-alates-riigikogu-valimistest-2019-11/ Turu-uuringute AS]
+|6 Dec{{efn|Publication date}}
+|600–700
+|style="background:#FEF4AE" |'''35'''
+|14
+|21
+|7
+|7
+|11
+|1
+|1
+|3
+| style="background:{{party color|Estonian Reform Party}};" |14
+|49
+|{{no|51}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|29 Nov-5 Dec
+|1,000
+|style="background:#FEF4AE" |'''34.0'''
+|15.5
+|24.0
+|5.4
+|7.5
+|10.3
+|1.6
+|1.1
+|0.6
+| style="background:{{party color|Estonian Reform Party}};" |10.0
+|46.9
+|{{no|53.1}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|22-28 Nov
+|1,000
+|style="background:#FEF4AE" |'''33.6'''
+|17.0
+|23.7
+|7.0
+|5.4
+|10.6
+|1.5
+|0.9
+|0.3
+| style="background:{{party color|Estonian Reform Party}};" |9.9
+|46.0
+|{{no|54.0}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|15-21 Nov
+|1,000
+|style="background:#FEF4AE" |'''32.5'''
+|18.1
+|24.3
+|8.7
+|5.9
+|8.4
+|1.2
+|0.3
+|0.6
+| style="background:{{party color|Estonian Reform Party}};" |8.2
+|47.1
+|{{no|52.9}}
+|-
+|[https://news.err.ee/1608795247/kantar-emor-ratings-reform-increases-lead-over-ekre Kantar Emor]
+|10-17 Nov
+|1,512
+|style="background:#FEF4AE" |'''31'''
+|15
+|22
+|6
+|8
+|14
+|3
+|1
+|0
+| style="background:{{party color|Estonian Reform Party}};" |9
+|45
+|{{no|55}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|8-14 Nov
+|1,000
+|style="background:#FEF4AE" |'''33.7'''
+|16.8
+|23.6
+|5.9
+|7.9
+|9.1
+|1.1
+|0.7
+|1.2
+| style="background:{{party color|Estonian Reform Party}};" |10.1
+|47.5
+|{{no|52.5}}
+|-
+|[https://turu-uuringute.eu/erakondade-toetuse-muutumine-alates-riigikogu-valimistest-2019-10/ Turu-uuringute AS]
+|9 Nov{{efn|Publication date}}
+|600–700
+|style="background:#FEF4AE" |'''32'''
+|11
+|24
+|6
+|9
+|12
+|2
+|1
+|3
+| style="background:{{party color|Estonian Reform Party}};" |8
+|47
+|{{no|53}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|1-6 Nov
+|1,000
+|style="background:#FEF4AE" |'''33.5'''
+|15.1
+|25.7
+|8.9
+|5.2
+|8.4
+|1.3
+|1.1
+|0.8
+| style="background:{{party color|Estonian Reform Party}};" |7.8
+|47.6
+|{{no|52.4}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|26-31 Oct
+|1,000
+|style="background:#FEF4AE" |'''31.0'''
+|14.9
+|28.0
+|7.0
+|6.9
+|9.0
+|1.0
+|1.0
+|1.2
+| style="background:{{party color|Estonian Reform Party}};" |3.0
+|44.9
+|{{no|55.1}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|18-25 Oct
+|1,000
+|style="background:#FEF4AE" |'''34.2'''
+|15.3
+|26.3
+|6.8
+|6.2
+|8.6
+|0.5
+|0.8
+|1.3
+| style="background:{{party color|Estonian Reform Party}};" |7.9
+|47.2
+|{{no|52.8}}
+|-
+|[https://news.err.ee/1608759625/ratings-ekre-closes-gap-with-reform-eesti-200-coming-up-again Kantar Emor]
+|13-19 Oct
+|1,469
+|style="background:#FEF4AE" |'''28'''
+|14
+|25
+|7
+|8
+|14
+|2
+|1
+|1
+| style="background:{{party color|Estonian Reform Party}};" |3
+|43
+|{{no|56}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|11-17 Oct
+|1,000
+|style="background:#FEF4AE" |'''32.2'''
+|11.6
+|28.8
+|8.9
+|6.4
+|9.0
+|1.7
+|0.3
+|1.1
+| style="background:{{party color|Estonian Reform Party}};" |3.4
+|47.5
+|{{no|52.5}}
+|-
+|[https://turu-uuringute.eu/erakondade-toetuse-muutumine-alates-riigikogu-valimistest-2019-9/ Turu-uuringute AS]
+|12 Oct{{efn|Publication date}}
+|600–700
+|style="background:#FEF4AE" |'''29'''
+|12
+|28
+|8
+|7
+|12
+|1
+|0
+|3
+| style="background:{{party color|Estonian Reform Party}};" |1
+|44
+|{{no|56}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|4-10 Oct
+|1,000
+|style="background:#FEF4AE" |'''32.2'''
+|13.9
+|27.0
+|6.2
+|7.7
+|9.1
+|1.7
+|0.8
+|2.2
+| style="background:{{party color|Estonian Reform Party}};" |5.2
+|46.1
+|{{no|51.7}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|27 Sep-3 Oct
+|1,000
+|style="background:#FEF4AE" |'''33.5'''
+|11.9
+|27.8
+|8.3
+|5.5
+|9.4
+|1.4
+|0.7
+|1.5
+| style="background:{{party color|Estonian Reform Party}};" |5.7
+|47.3
+|{{no|51.2}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|20–26 Sep
+|1,000
+|style="background:#FEF4AE" |'''28.3'''
+|19.6
+|27.4
+|5.9
+|6.3
+|8.7
+|1.5
+|0.6
+|1.7
+| style="background:{{party color|Estonian Reform Party}};" |0.9
+|40.5
+|{{no|57.8}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|13–19 Sep
+|1,000
+|style="background:#FEF4AE" |'''30.5'''
+|16.7
+|27.7
+|6.0
+|6.5
+|9.3
+|1.2
+|1.3
+|0.8
+| style="background:{{party color|Estonian Reform Party}};" |2.8
+|43.0
+|{{no|56.2}}
+|-
+|[https://news.err.ee/1608718210/support-for-new-party-parempoolsed-just-0-8-percent-in-first-poll Turu-uuringute AS]
+|16 Sep{{efn|Publication date}}
+|500–700
+|style="background:#FEF4AE" |'''33'''
+|15
+|18
+|7
+|9
+|12
+|2
+|0.8
+|3.2
+| style="background:{{party color|Estonian Reform Party}};" |15
+|{{yes2|49}}
+|47.8
+|-
+|[https://www.err.ee/1608723322/kantar-emor-ekre-vahendas-reformierakonnaga-jouliselt-vahet Kantar Emor]
+|8-14 Sep
+|1,431
+|style="background:#FEF4AE" |'''29'''
+|14
+|23
+|8
+|11
+|11
+|3
+|1
+|1
+| style="background:{{party color|Estonian Reform Party}};" |6
+|48
+|{{no|52}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|6-12 Sep
+|1,000
+|style="background:#FEF4AE" |'''30.4'''
+|15.4
+|24.7
+|8.4
+|8.3
+|8.1
+|1.7
+|—
+|3.1
+| style="background:{{party color|Estonian Reform Party}};" |5.7
+|{{yes2|47.1}}
+|40.1
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|27 Aug-5 Sep
+|1,000
+|style="background:#FEF4AE" |'''31.1'''
+|13.6
+|22.9
+|8.1
+|9.3
+|11.1
+|2.1
+|—
+|1.8
+| style="background:{{party color|Estonian Reform Party}};" |8.2
+|{{yes2|48.5}}
+|36.5
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|23-29 Aug
+|1,000
+|style="background:#FEF4AE" |'''32.0'''
+|16.0
+|24.9
+|7.5
+|6.5
+|9.6
+|1.5
+|0.9
+|1.1
+| style="background:{{party color|Estonian Reform Party}};" |7.1
+|46
+|{{no|54}}
+|-
+|[https://www.err.ee/1608695026/turu-uuringud-sotsidel-ja-eesti-200-l-onnestus-toetust-kasvatada Turu-uuringute AS]
+|25 Aug{{efn|Publication date}}
+|600–700
+|style="background:#FEF4AE" |'''28'''
+|15
+|17
+|8
+|11
+|14
+|2
+|—
+|5
+| style="background:{{party color|Estonian Reform Party}};" |11
+|{{yes2|47}}
+|46
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|16-22 Aug
+|1,000
+|style="background:#FEF4AE" |'''35.1'''
+|15.2
+|20.1
+|9.9
+|7.4
+|9.0
+|2.2
+|—
+|1.1
+| style="background:{{party color|Estonian Reform Party}};" |8.6
+|{{yes2|52.4}}
+|47.6
+|-
+|[https://www.err.ee/1608692830/reitingud-isamaa-kaotas-valitsusvahetusest-saadud-edu-sotside-toetus-kerkis Kantar Emor]
+|11-22 Aug
+|1,514
+|style="background:#FEF4AE" |'''31'''
+|16
+|18
+|7
+|11
+|13
+|2
+|—
+|1{{efn|name="Tule"|[[Estonian Party for the Future|TULE]]}}
+| style="background:{{party color|Estonian Reform Party}};" |12
+|49
+|{{no|51}}
+|-
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"|18 Aug
+| style="border-right-style:hidden;"|
+| colspan="12"|'''Dissidents split from [[Isamaa]] to form [[Parempoolsed]]'''
+|}
 
 {| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
 ! rowspan="2"| Polling firm
@@ -14,8 +512,8 @@
 ! class="unsortable" style="width:50px;"|[[Estonian Greens|EER]]
 ! rowspan="2" class="unsortable"| Others
 ! rowspan="2" data-sort-type="number"| Lead 
-! class="unsortable" style="width:20px;"| {{abbr|Gov.|Government parties (Reform, Centre)}}
-! class="unsortable" style="width:20px;"| {{abbr|Opp.|Non-government parties (Conservative, Isamaa, Social Democratic, Estonia 200 and Green)}}
+! class="unsortable" style="width:20px;"| {{abbr|Gov.|Government parties (Reform, Isamaa, and SDE)}}
+! class="unsortable" style="width:20px;"| {{abbr|Opp.|Non-government parties (Conservative, Kesk, Estonia 200 and Green)}}
 |- style="text-align:center;"
 ! data-sort-type="number" style="background:{{party color|Estonian Reform Party}};"|
 ! data-sort-type="number" style="background:{{party color|Estonian Centre Party}};"|
@@ -26,6 +524,131 @@
 ! data-sort-type="number" style="background:{{party color|Estonian Greens}};"|
 ! data-sort-type="number" style="background:Green;"|
 ! data-sort-type="number" style="background:Red;"|
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|9-15 Aug
+|1,000
+|style="background:#FEF4AE" |'''31.8'''
+|19.2
+|23.2
+|7.2
+|8.0
+|7.7
+|1.0
+|1.9
+| style="background:{{party color|Estonian Reform Party}};" |8.6
+|47
+|{{no|53}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|2-8 Aug
+|1,000
+|style="background:#FEF4AE" |'''35.5'''
+|14.5
+|19.1
+|7.6
+|11
+|9.9
+|1.1
+|1.3
+| style="background:{{party color|Estonian Reform Party}};" |16.4
+|{{yes2|54.1}}
+|45.9
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|25 Jul-1 Aug
+|1,000
+|style="background:#FEF4AE" |'''35.5'''
+|16.6
+|21.8
+|9.0
+|8.5
+|6.7
+|1.7
+|0.2
+| style="background:{{party color|Estonian Reform Party}};" |13.7
+|{{yes2|53}}
+|47
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|19-25 Jul
+|1,000
+|style="background:#FEF4AE" |'''32.8'''
+|16.3
+|21.0
+|8.1
+|9.2
+|10.4
+|1.7
+|0.5
+| style="background:{{party color|Estonian Reform Party}};" |11.8
+|{{yes2|50.1}}
+|49.9
+|-
+|[https://igapaev.com/emori-hinnangud-isamaa-toetus-tousuteele-eesti-200-kaotamas-uudised/ Kantar Emor]
+|14–20 Jul
+|1,501
+|style="background:#FEF4AE" |'''30'''
+|15
+|18
+|11
+|9
+|13
+|3
+|1{{efn|name="Tule"|[[Estonian Party for the Future|TULE]]}}
+| style="background:{{party color|Estonian Reform Party}};" |12
+|{{yes2|50}}
+| 49
+|-
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"|18 Jul
+| style="border-right-style:hidden;"|
+| colspan="9"|'''[[Kaja Kallas' second cabinet]] is formed by Reform, Isamaa and SDE'''
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|12–18 Jul
+|1,000
+|style="background:#FEF4AE" |'''33.9'''
+|18.0
+|16.8
+|10.7
+|8.8
+|8.3
+|1.7
+|1.8
+| style="background:{{party color|Estonian Reform Party}};" |15.9
+|33.9
+|{{no|66.1}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|5–11 Jul
+|1,000
+|style="background:#FEF4AE" |'''32.4'''
+|16.9
+|18.5
+|9.8
+|8.1
+|11.5
+|1.8
+|1.0
+| style="background:{{party color|Estonian Reform Party}};" |13.9
+|32.4
+|{{no|67.6}}
+|-
+|[https://reitingud.ee/reitingud/ Norstat]
+|27 Jun{{snd}}4 Jul
+|1,000
+|style="background:#FEF4AE" |'''32.5'''
+|17.9
+|21.1
+|8.0
+|7.6
+|10.5
+|1.6
+|0.8
+| style="background:{{party color|Estonian Reform Party}};" |11.4
+|32.5
+|{{no|67.5}}
 |-
 |[https://reitingud.ee/reitingud/ Norstat]
 |14–20 Jun
@@ -105,7 +728,7 @@
 | style="border-right-style:hidden;"|
 | style="border-right-style:hidden;"|2 Jun
 | style="border-right-style:hidden;"|
-| colspan="9"|'''The ministers of Kesk [[Kaja Kallas' cabinet|were dismissed]]'''
+| colspan="9"|'''The ministers of Kesk [[Kaja Kallas' first cabinet|were dismissed]]'''
 |-
 |[https://reitingud.ee/reitingud/ Norstat]
 |24–30 May
@@ -198,7 +821,7 @@
 |47.6
 |-
 |[https://reitingud.ee/reitingud/ Norstat]
-|26 Apr–2 May
+|26 Apr{{snd}}2 May
 |1,000
 |style="background:#FEF4AE" |'''30.6'''
 |19.4
@@ -288,7 +911,7 @@
 |{{no|51.9}}
 |-
 |[https://reitingud.ee/reitingud/ Norstat]
-|28 Mar–4 Apr
+|28 Mar{{snd}}4 Apr
 |1,000
 |style="background:#FEF4AE" |'''29.3'''
 |16.6
@@ -392,6 +1015,11 @@
 |44.9
 |{{no|55.1}}
 |-
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" |24 Feb 2022
+| style="border-right-style:hidden;" |
+| colspan="21" |'''[[2022 Russian invasion of Ukraine|Beginning of Russian invasion of Ukraine]]'''
+|-
 |[https://reitingud.ee/reitingud/ Norstat]
 |22–28 Feb
 |≥1,000
@@ -453,7 +1081,7 @@
 | {{no|67}}
 |-
 |[https://reitingud.ee/reitingud/ Norstat]
-|8-14 Feb
+|8–14 Feb
 |≥1,000
 |style="background:#FEF4AE" |'''23.1'''
 |18.6
@@ -468,7 +1096,7 @@
 |{{no|58.3}}
 |-
 |[https://reitingud.ee/reitingud/ Norstat]
-|1-7 Feb
+|1–7 Feb
 |≥1,000
 |style="background:#FEF4AE" |'''23.5'''
 |19.6
@@ -483,7 +1111,7 @@
 |{{no|56.9}}
 |-
 |[https://reitingud.ee/reitingud/ Norstat]
-|25-31 Jan
+|25–31 Jan
 |≥1,000
 |18.2
 |23.1
@@ -573,7 +1201,7 @@
 | {{no|57.0}}
 |-
 |[https://reitingud.ee/reitingud/ Norstat]
-|27 Dec-4 Jan
+|27 Dec{{snd}}4 Jan
 |≥1,000
 | style="background:#FEF4AE" | '''27.4'''
 |21.2

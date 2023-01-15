@@ -45,6 +45,559 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 ! data-sort-type="number" style="background:{{party color|BIJ1}};"|
 ! data-sort-type="number" style="background:{{party color|Belang van Nederland}};"|
 |-
+|[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/d66-sluit-2022-af-in-mineur-de-partij-van-sigrid-kaag-verliest-meeste-zetels-in-zetelpeiling-sinds-verkiezingen/ Ipsos]
+| {{opdrts|16|19|Dec|2022|year}}
+|1,005
+|style="background:#CED7FD;"|'''27'''
+|14
+|18
+|9
+|8
+|11
+|12
+|3
+|8
+|5
+|5
+|9
+|4
+|3
+|0
+|13
+|1
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|9
+|-
+|[https://peilingen.maurice.nl/2022/12/meer-niet-weters/ Peil.nl]
+| {{opdrts||18|Dec|2022|year}}
+|3.000+
+|style="background:#CED7FD;"|'''20'''
+|12
+|style="background:#CDE2FE;"|'''20'''
+|5
+|8
+|10
+|12
+|5
+|8
+|6
+|5
+|14
+|4
+|3
+|1
+|15
+|1
+|1
+|0
+|Tie
+|-
+|[https://www.ioresearch.nl/actueel/io-zetelpeiling-coalitiepartijen-profiteren-niet-van-iets-mildere-kiezer/ I&O Research]
+| {{opdrts|9|12|Dec|2022|year}}
+|2,142
+|style="background:#CED7FD;"|'''21'''
+|11
+|18
+|7
+|9
+|11
+|13
+|4
+|10
+|6
+|5
+|13
+|5
+|1
+|1
+|13
+|2
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|3
+|-
+|[https://peilingen.maurice.nl/2022/12/stemming-4-12-2022-uitgekeken-op-het-kabinet-en-op-rutte/ Peil.nl]
+| {{opdrts||04|Dec|2022|year}}
+|3.000+
+|style="background:#CED7FD;"|'''21'''
+|11
+|20
+|5
+|8
+|10
+|12
+|5
+|8
+|6
+|5
+|15
+|4
+|3
+|1
+|14
+|1
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|1
+|-
+|[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/coalitie-nog-altijd-op-verlies-met-56-zetels-in-zetelpeiling/ Ipsos]
+| {{opdrts|25|28|Nov|2022|year}}
+|1,040
+|style="background:#CED7FD;"|'''27'''
+|17
+|19
+|8
+|9
+|10
+|12
+|2
+|9
+|4
+|4
+|9
+|3
+|3
+|0
+|12
+|2
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|8
+|-
+|[https://peilingen.maurice.nl/2022/11/zo-staat-de-electorale-situatie-ervoor-ruim-3-maanden-voor-ps2023/ Peil.nl]
+| {{opdrts||27|Nov|2022|year}}
+|3.000+
+|20
+|12
+|style="background:#CDE2FE;"|'''21'''
+|5
+|8
+|10
+|12
+|5
+|8
+|6
+|5
+|15
+|4
+|3
+|1
+|13
+|1
+|1
+|0
+|style="background:{{party color|Party for Freedom}};color:#FFFFFF;"|1
+|-
+|[https://www.ioresearch.nl/actueel/io-zetelpeiling-weinig-ontwikkelingen-coalitie-nog-altijd-in-zwaar-weer/ I&O Research]
+| {{opdrts|11|14|Nov|2022|year}}
+|2,069
+|style="background:#CED7FD;"|'''22'''
+|12
+|18
+|7
+|9
+|11
+|14
+|5
+|8
+|6
+|4
+|12
+|4
+|2
+|1
+|13
+|1
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|4
+|-
+|[https://peilingen.maurice.nl/2022/11/de-stemming-13-11-22-pvv-groter-dan-vvd/ Peil.nl]
+| {{opdrts||13|Nov|2022|year}}
+|3.000+
+|20
+|12
+|style="background:#CDE2FE;"|'''21'''
+|5
+|8
+|10
+|12
+|5
+|8
+|6
+|5
+|15
+|4
+|3
+|1
+|13
+|1
+|1
+|0
+|style="background:{{party color|Party for Freedom}};color:#FFFFFF;"|1
+|-
+|[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/bbb-verliest-voor-het-eerst-aanzienlijk-in-zetelpeiling-remkes-heeft-alles-gladgestreken/ Ipsos]
+| {{opdrts|21|24|Oct|2022|year}}
+|1,021
+|style="background:#CED7FD;"|'''27'''
+|16
+|21
+|8
+|8
+|11
+|10
+|3
+|10
+|4
+|4
+|9
+|3
+|3
+|0
+|12
+|1
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|6
+|-
+|[https://peilingen.maurice.nl/2022/10/de-stemming-23-10-22-pvv-vlak-achter-vvd-bbb-zakt-verder-weg/ Peil.nl]
+| {{opdrts||23|Oct|2022|year}}
+|3.000+
+|style="background:#CED7FD;"|'''21'''
+|12
+|20
+|6
+|8
+|11
+|12
+|5
+|8
+|6
+|5
+|14
+|4
+|3
+|1
+|12
+|1
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|1
+|-
+|[https://www.ioresearch.nl/actueel/i-pvv-nadert-vvd/ I&O Research]
+| {{opdrts|14|17|Oct|2022|year}}
+|2,205
+|style="background:#CED7FD;"|'''21'''
+|12
+|19
+|7
+|9
+|11
+|12
+|5
+|10
+|5
+|5
+|10
+|5
+|2
+|1
+|14
+|1
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|2
+|-
+|[https://peilingen.maurice.nl/2022/10/stemming-16-10-2022-bbb-zakt-weer-wat-terug/ Peil.nl]
+| {{opdrts||16|Oct|2022|year}}
+|3.000+
+|style="background:#CED7FD;"|'''21'''
+|12
+|18
+|6
+|8
+|12
+|12
+|5
+|8
+|6
+|5
+|12
+|4
+|3
+|1
+|15
+|1
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|3
+|-
+|[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/zorgen-over-koopkracht-niet-weg-na-extra-miljarden-in-zetelpeiling-profiteert-pvda-het-meest/ Ipsos]
+| {{opdrts|23|26|Sep|2022|year}}
+|1,003
+|style="background:#CED7FD;"|'''25'''
+|16
+|20
+|9
+|7
+|12
+|11
+|3
+|10
+|4
+|3
+|8
+|3
+|3
+|0
+|15
+|1
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|5
+|-
+|[https://peilingen.maurice.nl/2022/09/stemming-25-9-2022-pvda-op-hoogste-niveau-in-2-jaar/ Peil.nl]
+| {{opdrts||25|Sep|2022|year}}
+|3.000+
+|style="background:#CED7FD;"|'''21'''
+|11
+|16
+|6
+|7
+|14
+|12
+|5
+|8
+|6
+|5
+|11
+|4
+|3
+|1
+|18
+|1
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|3
+|-
+|[https://www.ioresearch.nl/actueel/io-zetelpeiling-vvd-blijft-grootste-opmars-bbb-vlakt-af/ I&O Research]
+| {{opdrts|9|12|Sep|2022|year}}
+|1,789
+|style="background:#CED7FD;"|'''23'''
+|15
+|16
+|6
+|8
+|11
+|12
+|6
+|7
+|5
+|5
+|12
+|4
+|2
+|1
+|15
+|1
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|7
+|-
+|[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/stiktofuitspraken-wopke-hoekstra-leveren-cda-geen-extra-zetels-op-in-zetelpeiling-vvd-verliest-er-twee/ Ipsos]
+| {{opdrts|26|29|Aug|2022|year}}
+|1,007
+|style="background:#CED7FD;"|'''27'''
+|18
+|18
+|9
+|7
+|8
+|11
+|4
+|9
+|5
+|2
+|9
+|3
+|3
+|0
+|16
+|1
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|9
+|-
+|[https://peilingen.maurice.nl/2022/08/code-rood/ Peil.nl]
+| {{opdrts||28|Aug|2022|year}}
+|3,000+
+|style="background:#CED7FD;"|'''20'''
+|12
+|17
+|6
+|7
+|12
+|13
+|5
+|9
+|6
+|5
+|9
+|4
+|3
+|1
+|19
+|1
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|1
+|-
+|[https://peilingen.maurice.nl/2022/08/stemming-7-8-2022/ Peil.nl]
+| {{opdrts||07|Aug|2022|year}}
+|3,000+
+|style="background:#CED7FD;"|'''21'''
+|13
+|15
+|6
+|7
+|13
+|13
+|4
+|8
+|7
+|5
+|8
+|4
+|3
+|1
+|19
+|2
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|2
+|-
+|[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/bbb-blijft-in-nieuwe-zetelpeiling-profiteren-van-stikstofcrisis-nu-op-15-zetels/ Ipsos]
+| {{opdrts|22|25|Jul|2022|year}}
+|1,009
+|style="background:#CED7FD;"|'''29'''
+|17
+|18
+|9
+|8
+|9
+|10
+|4
+|9
+|5
+|3
+|6
+|3
+|4
+|0
+|15
+|1
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|11
+|-
+|[https://www.ioresearch.nl/actueel/io-zetelpeiling-coalitie-op-nieuw-dieptepunt/ I&O Research]
+| {{opdrts|15|18|Jul|2022|year}}
+|1,953
+|style="background:#CED7FD;"|'''22'''
+|14
+|16
+|6
+|9
+|10
+|12
+|4
+|10
+|5
+|5
+|9
+|4
+|3
+|1
+|18
+|1
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|4
+|-
+|[https://peilingen.maurice.nl/2022/07/stemming-10-7-2022-bbb-is-vvd-op-1-zetel-genaderd/ Peil.nl]
+| {{opdrts||10|Jul|2022|year}}
+|3,000+
+|style="background:#CED7FD;"|'''21'''
+|13
+|15
+|6
+|7
+|12
+|13
+|4
+|8
+|7
+|5
+|8
+|4
+|3
+|1
+|20
+|2
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|1
+|-
+|[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/bbb-stijgt-door-stikstofdiscussie-naar-12-zetels-in-de-maandelijkse-zetelpeiling-gaat-daarmee-cda-voorbij/ Ipsos]
+| {{opdrts|24|27|Jun|2022|year}}
+|1,028
+|style="background:#CED7FD;"|'''31'''
+|16
+|16
+|9
+|9
+|10
+|11
+|5
+|8
+|5
+|4
+|6
+|3
+|4
+|0
+|12
+|1
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|15
+|-
+|[https://peilingen.maurice.nl/2022/06/stemming-26-6-2022-bbb-nog-maar-3-zetels-achter-op-vvd/ Peil.nl]
+| {{opdrts||26|Jun|2022|year}}
+|3,000+
+|style="background:#CED7FD;"|'''21'''
+|12
+|15
+|7
+|7
+|12
+|13
+|5
+|8
+|7
+|5
+|8
+|4
+|3
+|1
+|18
+|2
+|2
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|3
+|-
+|-
 |[https://peilingen.maurice.nl/2022/06/stemming-19-6-2022-sterke-polarisatie-rond-stikstofplannen/ Peil.nl]
 | {{opdrts||19|Jun|2022|year}}
 |3,000+

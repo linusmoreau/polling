@@ -1,7 +1,152 @@
 == Poll results ==
+There are several websites tracking party support ahead of the election, using somewhat different methods.<ref>{{cite web|url=http://www.pollofpolls.no/?cmd=Stortinget|title=Stortingsvalg: Hele landet|website=Poll of Polls|language=no|accessdate=13 September 2021}}</ref><ref>{{cite web|url=https://www.estimite.com/post/norwegian-poll-tracker/|title=Norwegian Poll Tracker|website=Estimite|accessdate=13 April 2022}}</ref>
+
 === Graphical summary ===
-There are several websites tracking party support ahead of the election, using somewhat different methods.<ref>{{cite web|url=http://www.pollofpolls.no/?cmd=Stortinget|title=Stortingsvalg: Hele landet|website=Poll of Polls|language=no|accessdate=13 September 2021}}</ref><ref>{{cite web|url=https://www.estimite.com/post/norwegian-poll-tracker/|title=Norwegian Poll Tracker|website=Estimite|accessdate=13 April 2022}}</ref> Below is a plot of the 30-day moving average of relevant opinion polls.
-[[File:Norwegian Opinion Polling, 30 Day Moving Average, 2021-2025.svg]]
+{{wide image|Norwegian Opinion Polling, 30 Day Moving Average, 2021-2025.svg|1100px|[[Local regression]] trend line of poll results from 13 September 2021 to the present day with a 30-day polling average. Each line corresponds to a political party.}}
+
+=== 2023 ===
+For events during the year, see [[2023 in Norway]].
+
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="2"|Polling firm
+! rowspan="2"|Fieldwork date
+! rowspan="2"|Sample<br />size
+! rowspan="2"|{{abbr|Resp.|Response rate}}
+! class="unsortable" style="width:30px;"|[[Red Party (Norway)|R]]
+! class="unsortable" style="width:30px;"|[[Socialist Left Party (Norway)|SV]]
+! class="unsortable" style="width:30px;"|[[Green Party (Norway)|MDG]]
+! class="unsortable" style="width:30px;"|[[Labour Party (Norway)|Ap]]
+! class="unsortable" style="width:30px;"|[[Centre Party (Norway)|Sp]]
+! class="unsortable" style="width:30px;"|[[Liberal Party (Norway)|V]]
+! class="unsortable" style="width:30px;"|[[Christian Democratic Party (Norway)|KrF]]
+! class="unsortable" style="width:30px;"|[[Conservative Party (Norway)|H]]
+! class="unsortable" style="width:30px;"|[[Progress Party (Norway)|FrP]]
+! class="unsortable" style="width:30px;" rowspan="2"| Others
+! rowspan="2"| Lead
+|-
+! style="background:{{party color|Red Party (Norway)}};"|
+! style="background:{{party color|Socialist Left Party (Norway)}};"|
+! style="background:{{party color|Green Party (Norway)}};"|
+! style="background:{{party color|Labour Party (Norway)}};"|
+! style="background:{{party color|Centre Party (Norway)}};"|
+! style="background:{{party color|Liberal Party (Norway)}};"|
+! style="background:{{party color|Christian Democratic Party (Norway)}};"|
+! style="background:{{party color|Conservative Party of Norway (2020)}};"|
+! style="background:{{party color|Progress Party (Norway)}};"|
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4770 Respons Analyse]
+|{{opdrts|4|9|Jan|2023}}
+|1,001
+|–
+|5.8
+|8.7
+|3.9
+|19.2
+|6.9
+|4.8
+|2.8
+| style="background:#B5D5FF;" |'''30.1'''
+|13.1
+|4.7
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |10.9
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4773 Opinion]
+|{{opdrts|3|9|Jan|2023}}
+|1,000
+|69.9
+|6.2
+|7.6
+|2.6
+|18.5
+|7.1
+|3.4
+|3.6
+| style="background:#B5D5FF;" |'''33.5'''
+|12.4
+|5.1
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |15.0
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4768 Kantar]
+|{{opdrts|3|6|Jan|2023}}
+|990
+|–
+|6.3
+|8.7
+|3.2
+|19.5
+|6.2
+|4.6
+|3.0
+| style="background:#B5D5FF;" |'''30.4'''
+|13.9
+|4.3
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |10.9
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4769 Opinion]
+|{{opdrts|3|4|Jan|2023}}
+|967
+|67.0
+|6.9
+|9.5
+|4.1
+|17.7
+|6.3
+|4.0
+|2.4
+| style="background:#B5D5FF;" |'''31.0'''
+|13.2
+|4.9
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |13.3
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4767 Norfakta]
+|{{opdrts|3|4|Jan|2023}}
+|1,006
+|76.0
+|6.5
+|9.4
+|4.2
+|19.1
+|4.5
+|4.0
+|3.9
+| style="background:#B5D5FF;" |'''31.3'''
+|12.5
+|4.5
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |12.2
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4765 Norstat]
+|{{opdrts|27|2|Jan|2023}}
+|955
+|73.8
+|5.4
+|8.4
+|4.0
+|19.4
+|5.9
+|5.1
+|2.6
+| style="background:#B5D5FF;" |'''30.9'''
+|11.9
+|6.2
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |11.5
+|- style="background:#E9E9E9;"
+|[[2021 Norwegian parliamentary election|2021 election]]
+|{{opdrts||13|Sep|2021}}
+|{{N/A}}
+|77.1
+|4.7
+|7.6
+|3.9
+|style="background:#F7BDC5;" |'''26.3'''
+|13.5
+|4.6
+|3.8
+|20.4
+|11.6
+|3.6
+|style="background:{{party color|Labour Party (Norway)}};color:#FFFFFF;"|5.9
+|}
 
 === 2022 ===
 {{for|events during the year|2022 in Norway}}
@@ -32,6 +177,790 @@ There are several websites tracking party support ahead of the election, using s
 ! style="background:{{party color|Christian Democratic Party (Norway)}};"|
 ! style="background:{{party color|Conservative Party of Norway (2020)}};"|
 ! style="background:{{party color|Progress Party (Norway)}};"|
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4753 Norstat]
+|{{opdrts|13|17|Dec|2022}}
+|947
+|–
+|7.7
+|8.8
+|4.1
+|14.6
+|3.8
+|4.2
+|3.1
+| style="background:#B5D5FF;" |'''35.6'''
+|14.2
+|3.9
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |21.0
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4751 Ipsos]
+|{{opdrts|12|14|Dec|2022}}
+|889
+|81.0
+|6.3
+|9.6
+|4.1
+|19.9
+|6.2
+|4.6
+|3.4
+| style="background:#B5D5FF;" |'''29.1'''
+|11.8
+|5.0
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |14.6
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4747 Respons Analyse]
+|{{opdrts|7|12|Dec|2022}}
+|1001
+|–
+|7.2
+|9.3
+|2.6
+|18.2
+|4.5
+|3.6
+|3.7
+| style="background:#B5D5FF;" |'''32.8'''
+|13.4
+|4.7
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |14.6
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4748 Sentio]
+|{{opdrts|6|10|Dec|2022}}
+|1000
+|–
+|7.5
+|9.3
+|4.1
+|17.7
+|5.9
+|4.6
+|2.8
+| style="background:#B5D5FF;" |'''32.8'''
+|10.2
+|5.1
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |15.1
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4746 Norfakta]
+|{{opdrts|6|7|Dec|2022}}
+|1007
+|78.0
+|7.2
+|9.5
+|3.6
+|16.3
+|7.1
+|4.5
+|3.3
+| style="background:#B5D5FF;" |'''32.8'''
+|11.6
+|4.1
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |16.5
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4745 Opinion]
+|{{opdrts|29|5|Dec|2022}}
+|967
+|68.0
+|6.7
+|9.5
+|3.2
+|18.1
+|5.4
+|5.8
+|3.4
+| style="background:#B5D5FF;" |'''32.7'''
+|12.2
+|2.9
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |14.6
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4742 Kantar]
+|{{opdrts|28|2|Dec|2022}}
+|980
+|–
+|7.4
+|8.9
+|4.1
+|19.8
+|5.1
+|5.6
+|2.9
+| style="background:#B5D5FF;" |'''30.9'''
+|10.6
+|4.8
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |11.1
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4738 Norstat]
+|{{opdrts|22|27|Nov|2022}}
+|947
+|–
+|7.3
+|8.6
+|3.9
+|17.1
+|5.9
+|4.6
+|3.4
+| style="background:#B5D5FF;" |'''30.1'''
+|12.8
+|6.1
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |13.0
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4739 Opinion]
+|{{opdrts|22|24|Nov|2022}}
+|951
+|67.0
+|9.5
+|8.1
+|3.9
+|17.4
+|3.5
+|3.4
+|3.7
+| style="background:#B5D5FF;" |'''31.6'''
+|13.3
+|5.7
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |14.2
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4734 Ipsos]
+|{{opdrts|21|23|Nov|2022}}
+|945
+|–
+|5.9
+|8.4
+|3.3
+|19.8
+|4.8
+|6.0
+|3.1
+| style="background:#B5D5FF;" |'''29.8'''
+|14.7
+|4.2
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |10.0
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4733 Norstat]
+|{{opdrts|15|19|Nov|2022}}
+|954
+|–
+|6.3
+|9.2
+|3.3
+|15.4
+|5.0
+|4.9
+|2.8
+| style="background:#B5D5FF;" |'''33.6'''
+|12.7
+|6.8
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |18.2
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4730 Sentio]
+|{{opdrts|8|14|Nov|2022}}
+|1,000
+|–
+|4.7
+|10.0
+|4.8
+|16.7
+|4.5
+|4.4
+|4.6
+| style="background:#B5D5FF;" |'''31.6'''
+|13.4
+|5.4
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |14.9
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4729 Respons Analyse]
+|{{opdrts|5|10|Nov|2022}}
+|1,000
+|–
+|6.1
+|8.5
+|3.9
+|18.5
+|6.6
+|5.0
+|3.3
+| style="background:#B5D5FF;" |'''32.0'''
+|11.9
+|4.2
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |13.5
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4727 Opinion]
+|{{opdrts|1|7|Nov|2022}}
+|967
+|68.0
+|7.5
+|8.7
+|3.4
+|16.9
+|5.3
+|3.1
+|4.5
+| style="background:#B5D5FF;" |'''32.3'''
+|13.8
+|4.4
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |15.4
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4726 Norfakta]
+|{{opdrts|1|4|Nov|2022}}
+|1,011
+|78.0
+|6.9
+|7.3
+|4.0
+|20.5
+|6.0
+|5.3
+|3.3
+| style="background:#B5D5FF;" |'''29.4'''
+|13.1
+|4.2
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |8.9
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4725 Kantar]
+|{{opdrts|24|31|Oct|2022}}
+|1,178
+|–
+|7.8
+|8.6
+|3.8
+|19.1
+|6.2
+|4.6
+|3.7
+| style="background:#B5D5FF;" |'''28.6'''
+|12.1
+|5.5
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |9.5
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4723 Norstat]
+|{{opdrts|25|30|Oct|2022}}
+|945
+|–
+|5.9
+|8.4
+|3.7
+|18.2
+|4.3
+|3.4
+|3.6
+| style="background:#B5D5FF;" |'''32.4'''
+|14.7
+|5.4
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |14.2
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4721 Ipsos]
+|{{opdrts|24|26|Oct|2022}}
+|–
+|–
+|6.4
+|10.1
+|4.9
+|18.1
+|6.9
+|3.8
+|3.7
+| style="background:#B5D5FF;" |'''29.3'''
+|13.1
+|3.7
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |11.2
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4724 InFact]
+|{{opdrts||21|Oct|2022}}
+|1,004
+|–
+|6.0
+|8.1
+|3.8
+|19.7
+|5.5
+|5.0
+|3.7
+| style="background:#B5D5FF;" |'''28.7'''
+|15.0
+|4.5
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |9.0
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4719 Norstat]
+|{{opdrts|18|23|Oct|2022}}
+|953
+|–
+|6.7
+|8.9
+|4.4
+|18.0
+|6.0
+|5.1
+|4.0
+| style="background:#B5D5FF;" |'''28.9'''
+|13.2
+|4.9
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |10.9
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4718 Sentio]
+|{{opdrts|11|17|Oct|2022}}
+|1,000
+|–
+|7.1
+|9.3
+|3.8
+|18.1
+|5.2
+|4.0
+|3.7
+| style="background:#B5D5FF;" |'''29.3'''
+|13.7
+|6.0
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |11.2
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4716 Norfakta]
+|{{opdrts|11|12|Oct|2022}}
+|1,000
+|75.0
+|5.4
+|10.1
+|3.4
+|20.5
+|5.9
+|5.0
+|3.6
+| style="background:#B5D5FF;" |'''30.5'''
+|12.3
+|3.4
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |10.0
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4714 Respons Analyse]
+|{{opdrts|5|10|Oct|2022}}
+|1,000
+|–
+|7.0
+|9.8
+|3.7
+|20.0
+|5.5
+|4.1
+|2.9
+| style="background:#B5D5FF;" |'''30.0'''
+|13.1
+|3.9
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |10.0
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4715 Opinion]
+|{{opdrts|4|10|Oct|2022}}
+|968
+|67.0
+|5.4
+|8.2
+|2.9
+|22.6
+|5.6
+|3.4
+|3.4
+| style="background:#B5D5FF;" |'''30.2'''
+|13.6
+|4.7
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |7.6
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4712 Norstat]
+|{{opdrts|27|2|Oct|2022}}
+|960
+|–
+|7.0
+|9.1
+|3.1
+|19.9
+|6.2
+|3.4
+|3.4
+| style="background:#B5D5FF;" |'''29.2'''
+|14.4
+|4.3
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |9.3
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4711 Kantar]
+|{{opdrts|26|30|Sep|2022}}
+|984
+|–
+|8.1
+|7.2
+|4.2
+|19.4
+|6.7
+|4.4
+|3.5
+| style="background:#B5D5FF;" |'''26.1'''
+|14.2
+|6.1
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |6.7
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4710 Ipsos]
+|{{opdrts||29|Sep|2022}}{{Efn|name=nofield}}
+|–
+|–
+|8.4
+|6.3
+|3.4
+|19.4
+|7.7
+|4.1
+|2.7
+| style="background:#B5D5FF;" |'''28.2'''
+|15.5
+|4.4
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |8.8
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4708 Norstat]
+|{{opdrts|20|25|Sep|2022}}
+|950
+|–
+|8.3
+|7.6
+|2.8
+|20.5
+|3.9
+|4.3
+|4.4
+| style="background:#B5D5FF;" |'''28.2'''
+|15.5
+|4.4
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |7.7
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4704 Sentio]
+|{{opdrts|13|19|Sep|2022}}
+|1,000
+|–
+|7.5
+|7.4
+|4.0
+|19.1
+|5.4
+|5.0
+|4.3
+| style="background:#B5D5FF;" |'''26.6'''
+|16.7
+|4.2
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |7.5
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4692 Response Analyse]
+|{{opdrts|7|12|Sep|2022}}
+|1,000
+|–
+|6.5
+|8.9
+|3.5
+|19.8
+|6.0
+|4.9
+|3.3
+| style="background:#B5D5FF;" |'''30.2'''
+|12.7
+|4.2
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |10.4
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4696 Opinion]
+|{{opdrts|6|12|Sep|2022}}
+|968
+|68.0
+|8.6
+|9.5
+|3.0
+|21.5
+|6.3
+|4.5
+|2.7
+| style="background:#B5D5FF;" |'''28.3'''
+|11.0
+|4.7
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |6.8
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4683 Norfakta]
+|{{opdrts|5|7|Sep|2022}}
+|1,003
+|–
+|6.0
+|9.2
+|4.0
+|19.2
+|6.5
+|4.6
+|3.7
+| style="background:#B5D5FF;" |'''28.7'''
+|14.1
+|4.0
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |9.5
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4674 Norstat]
+|{{opdrts|30|4|Sep|2022}}
+|940
+|–
+|6.8
+|7.4
+|3.4
+|19.6
+|6.4
+|5.3
+|3.1
+| style="background:#B5D5FF;" |'''32.4'''
+|12.6
+|3.0
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |12.8
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4670 Kantar]
+|{{opdrts|29|2|Sep|2022}}
+|976
+|–
+|8.2
+|8.4
+|3.7
+|20.8
+|4.6
+|4.5
+|3.5
+| style="background:#B5D5FF;" |'''27.8'''
+|14.1
+|4.5
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |7.0
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4667 Norstat]
+|{{opdrts|23|29|Aug|2022}}
+|940
+|–
+|8.5
+|7.3
+|3.1
+|21.5
+|5.7
+|4.2
+|3.4
+| style="background:#B5D5FF;" |'''29.3'''
+|13.5
+|3.7
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |7.8
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4666 Ipsos]
+|26 Aug{{Efn|name=nofield|Date of publication of poll; fieldwork date unknown.}}
+|–
+|–
+|7.4
+|7.4
+|3.5
+|21.6
+|5.7
+|4.2
+|3.8
+| style="background:#B5D5FF;" |'''27.2'''
+|15.1
+|4.1
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |5.6
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4664 Sentio]
+|{{opdrts|16|22|Aug|2022}}
+|1,000
+|–
+|5.8
+|8.7
+|3.8
+|20.2
+|6.9
+|3.8
+|4.9
+| style="background:#B5D5FF;" |'''28.9'''
+|13.4
+|3.5
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |8.7
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4662 Respons Analyse]
+|{{opdrts|10|15|Aug|2022}}
+|1,000
+|–
+|7.5
+|9.5
+|3.8
+|19.9
+|6.6
+|4.1
+|3.9
+| style="background:#B5D5FF;" |'''28.9'''
+|12.3
+|3.5
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |9.0
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4663 Norstat]
+|{{opdrts|9|14|Aug|2022}}
+|960
+|–
+|5.8
+|8.9
+|3.7
+|19.4
+|5.9
+|4.6
+|3.8
+| style="background:#B5D5FF;" |'''30.0'''
+|14.4
+|3.5
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |10.6
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4658 Opinion]
+|{{opdrts|2|8|Aug|2022}}
+|971
+|70.0
+|5.1
+|8.4
+|3.1
+|19.3
+|6.0
+|5.0
+|3.2
+| style="background:#B5D5FF;" |'''29.1'''
+|14.8
+|5.9
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |9.8
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4657 Kantar]
+|{{opdrts|1|5|Aug|2022}}
+|981
+|70.3
+|7.0
+|9.9
+|3.6
+|20.4
+|6.8
+|4.9
+|3.3
+| style="background:#B5D5FF;" |'''27.2'''
+|13.2
+|3.7
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |6.8
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4655 Norfakta]
+|{{opdrts|2|3|Aug|2022}}
+|1,005
+|79.0
+|6.4
+|8.5
+|4.1
+|22.2
+|7.2
+|3.7
+|2.9
+| style="background:#B5D5FF;" |'''28.7'''
+|13.3
+|3.0
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |6.5
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4649 Norfakta]
+|{{opdrts|5|6|Jul|2022}}
+|1,005
+|–
+|5.4
+|10.0
+|3.6
+|21.2
+|5.6
+|4.0
+|3.2
+| style="background:#B5D5FF;" |'''28.9'''
+|14.0
+|4.1
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |7.7
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4644 Kantar]
+|{{opdrts|24|30|Jun|2022}}
+|976
+|79.0
+|6.9
+|8.3
+|3.0
+|21.4
+|6.7
+|4.4
+|3.1
+| style="background:#B5D5FF;" |'''29.5'''
+|13.1
+|3.9
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |8.1
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4643 Ipsos]
+|{{opdrts|27|29|Jun|2022}}
+|–
+|–
+|6.3
+|9.0
+|3.5
+|23.1
+|4.7
+|4.0
+|3.6
+| style="background:#B5D5FF;" |'''26.8'''
+|14.8
+|4.2
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |3.7
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4639 Norstat]
+|{{opdrts|13|20|Jun|2022}}
+|951
+|75.0
+|5.3
+|8.5
+|3.8
+|20.5
+|7.3
+|3.5
+|2.6
+| style="background:#B5D5FF;" |'''29.1'''
+|15.8
+|3.6
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |8.6
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4636 Sentio]
+|{{opdrts|7|13|Jun|2022}}
+|1,000
+|–
+|5.7
+|9.5
+|4.3
+|22.2
+|7.0
+|4.6
+|3.5
+| style="background:#B5D5FF;" |'''24.6'''
+|14.6
+|3.9
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |2.4
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4635 Respons Analyse]
+|{{opdrts|4|9|Jun|2022}}
+|1,000
+|–
+|6.8
+|9.0
+|4.0
+|20.2
+|7.4
+|4.9
+|3.9
+| style="background:#B5D5FF;" |'''26.8'''
+|14.0
+|3.0
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |6.6
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4634 Norfakta]
+|{{opdrts|7|8|Jun|2022}}
+|1,001
+|78.0
+|5.6
+|8.3
+|3.0
+|23.0
+|6.9
+|5.3
+|3.8
+| style="background:#B5D5FF;" |'''27.8'''
+|13.1
+|3.2
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |4.8
 |-
 |[http://www.pollofpolls.no/?cmd=Maling&gallupid=4633 Opinion]
 |{{opdrts|31|5|Jun|2022}}

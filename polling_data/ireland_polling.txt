@@ -3,7 +3,7 @@ In the run-up to the election, various organisations are conducting opinion poll
 
 The date range for these opinion polls is from the [[2020 Irish general election|previous Irish general election]], held on 8 February 2020, to the next election, which can be held no later than 20 February 2025.
 [[File:Ireland 2025 polls.svg|thumb|center|964x964px|Graph of opinion polls conducted. Trend lines represent [[local regression]]s.]]
-<!-- Talk page consensus is to include Ireland Thinks polls conducted for the Irish Daily Mail  and to NOT add "events" such as party leadership changes. -->
+<!-- Talk page consensus is to include Ireland Thinks polls conducted for the Irish Daily Mail; and to NOT add "events" such as party leadership changes. -->
 {|class="wikitable sortable collapsible" style="text-align:center;font-size:95%;line-height:14px;"
 |- style="height:42px; background-color:#E9E9E9"
 ! style="width:110px;" rowspan="2"| Last date<br />of polling
@@ -15,7 +15,7 @@ The date range for these opinion polls is from the [[2020 Irish general election
 ! class="unsortable" style="width:50px;"| [[Green Party (Ireland)|GP]]
 ! class="unsortable" style="width:50px;"| [[Labour Party (Ireland)|Lab]]
 ! class="unsortable" style="width:50px;"| [[Social Democrats (Ireland)|SD]]
-! class="unsortable" style="width:50px;"| {{nowrap|[[People Before Profit/Solidarity|PBP/S]]}}
+! class="unsortable" style="width:50px;"| {{nowrap|[[People Before Profit–Solidarity|PBP–S]]}}
 ! class="unsortable" style="width:50px;"| [[Aontú|Aon]]
 ! class="unsortable" style="width:50px;" rowspan="2"| {{abbr|O/I|Others/Independents}}<ref group="nb" name="remainder">The figure for 'Others/Independents' is the remainder when all others are removed. As with all such calculations, the figure shown may be slightly inaccurate due to [[rounding]] effects.</ref>
 |-
@@ -25,13 +25,234 @@ The date range for these opinion polls is from the [[2020 Irish general election
 ! style="background:{{party color|Green Party (Ireland)}};"|
 ! style="background:{{party color|Labour Party (Ireland)}};"|
 ! style="background:{{party color|Social Democrats (Ireland)}};"|
-! style="background:{{party color|Solidarity–People Before Profit}};"|
+! style="background:{{party color|People Before Profit–Solidarity}};"|
 ! style="background:{{party color|Aontú}};"|<!--
 
-PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological order - latest first - but users can sort the table. In order to preserve the ability to sort by polling date, please include an entry for data-sort-value in front of the polling date. In order to preserve the ability to sort by the polling company, please increment the relevant data-sort-value by one each time you add a new poll. So a new Behaviour & Attitudes poll would become "B&A14" if the last one was "B&A13". Please also wikilink the most recent poll (link goes to the publishing media outlet, piped to show the commissioning publisher and polling company) and please also unlink the prior poll from that company. If the above doesn't make sense to you, please do not make major changes. -->
+                  PLEASE READ THIS!  
+
+                  Opinion polls are listed by default in REVERSE CHRONOLOGICAL ORDER - latest first - but users can sort the table. In order to preserve the ability to sort by polling date, please include an entry for data-sort-value in front of the polling date. The date we use is the last date of polling, *NOT* the date of publication.
+
+                  In order to preserve the ability to sort by the polling company, please increment the relevant data-sort-value by one each time you add a new poll. So a new Behaviour & Attitudes poll would become "B&A14" if the last one was "B&A13". 
+
+                 Please also wikilink the most recent poll (link goes to the publishing media outlet, piped to show the commissioning publisher and polling company) and please also unlink the prior poll from that company. 
+
+                 Please only include polls if you have a reference. Add references to the group="p", not in general references. Please follow the form of citations already used in the article, and definitely *don't* use bare references.
+
+                 If the above doesn't make sense to you, please do not make major changes. 
+
+
+-->
+|-
+|data-sort-value="2023-01-06"|6 January 2023
+|data-sort-value="SunInd13"|[[Sunday Independent (Ireland)|Ireland Thinks/Sunday Independent]]<ref group="p">{{Cite news |url=https://www.independent.ie/irish-news/politics/fine-gael-enjoys-a-leo-varadkar-bounce-as-fianna-fail-and-sinn-fein-drop-slightly-poll-42269252.html |title=Fine Gael enjoys a Leo Varadkar bounce as Fianna Fáil and Sinn Féin drop slightly – poll|last=Ryan| first=Philip|publisher=Independent.ie|date=7 January 2023|access-date=8 January 2023|language=en}}</ref>
+|1,104
+|style="background:#D7ECEA"|'''32'''
+|16
+|25
+|4
+|3
+|3
+|4
+|3
+|10
+|-
+|data-sort-value="2022-12-06"|6 December 2022
+|data-sort-value="B&A22"|[[The Times, Ireland edition|Behaviour and Attitudes/The Sunday Times]]<ref group="p">{{Cite web|url=https://www.rte.ie/news/politics/2022/1210/1341146-party-poll/|title=Sinn Féin remains most popular party among voters - poll|last=Lehane|first=Michael|publisher=RTÉ|date=11 December 2022|access-date=11 December 2022}}</ref>
+|923
+|style="background:#D7ECEA"|'''34'''
+|21
+|23
+|5
+|3
+|1
+|1
+| – <ref group="nb" name="absent">Not specifically mentioned in the report.</ref>
+|12
+|-
+|data-sort-value="2022-12-02"|2 December 2022
+|data-sort-value="SunInd12"|Ireland Thinks/Sunday Independent<ref group="p">{{Cite news |url=https://www.independent.ie/irish-news/politics/micheal-martin-should-remain-taoiseach-rather-than-swap-with-leo-varadkar-according-to-poll-42193100.html |title=Micheál Martin should remain Taoiseach rather than swap with Leo Varadkar, according to poll |last=O'Connell| first=Hugh|publisher=Independent.ie |date=3 December 2022| access-date=4 December 2022  |language=en}}</ref>
+|1,352
+|style="background:#D7ECEA"|'''34'''
+|17
+|23
+|3
+|3
+|5
+|3
+|4
+|9
+|-
+|data-sort-value="2022-11-23"|23 November 2022
+|data-sort-value="RedC21"|[[Business Post|Red C/Business Post]]<ref group="p">{{Cite news|url=https://www.rte.ie/news/politics/2022/1127/1338527-red-c-poll/ |title=Sinn Féin drops four points in latest opinion poll but remains most popular party|last=Cunningham |first=Paul|publisher=RTÉ |date=27 November 2022|access-date=27 November 2022|language=en}}</ref>
+|>1,000
+|style="background:#D7ECEA"|'''31'''
+|15
+|24
+|5
+|4
+|4
+|3
+|2
+|11
+|-
+|data-sort-value="2022-11-08"|8 November 2022
+|data-sort-value="B&A21"|Behaviour and Attitudes/The Sunday Times<ref group="p">{{Cite web|url=https://www.rte.ie/news/politics/2022/1113/1335807-politics/|title=Sinn Féin remains most popular party - poll|last=Meskill|first=Tommy|publisher=RTÉ|date=13 November 2022|access-date=11 December 2022}}</ref>
+|923
+|style="background:#D7ECEA"|'''34'''
+|23
+|21
+|4
+|5
+|2
+|1
+|1
+|9
+|-
+|data-sort-value="2022-11-04"|4 November 2022
+|data-sort-value="SunInd11"|Ireland Thinks/Sunday Independent<ref group="p">{{Cite news |url=https://www.independent.ie/irish-news/politics/support-for-sinn-fein-drops-but-no-boost-for-the-government-parties-in-latest-poll-42121287.html |title=Support for Sinn Féin drops but no boost for the Government parties in latest poll |publisher=Independent.ie |date=5 November 2022| access-date=7 November 2022  |language=en}}</ref>
+|1,002
+|style="background:#D7ECEA"|'''34'''
+|17
+|21
+|3
+|3
+|4
+|5
+|4
+|10
+|-
+|data-sort-value="2022-10-25"|25 October 2022
+|data-sort-value="Ipsos8"|[[The Irish Times|Ipsos MRBI/Irish Times]]<ref group="p">{{cite news|url=https://www.irishtimes.com/politics/2022/10/27/irish-timesipsos-poll-support-for-coalition-parties-and-leaders-rebounds/|title=Irish Times/Ipsos opinion poll: Support for Coalition rebounds in post-budget bounce|last=Leahy|first=Pat|publisher=Irish Times|date=27 October 2022|access-date=15 November 2022}}</ref>
+|1,200
+|style="background:#D7ECEA"|'''35'''
+|21
+|22
+|4
+|3
+|3
+|2
+|1
+|10
+|-
+|data-sort-value="2022-10-15"|15 October 2022
+|data-sort-value="B&A20"|Behaviour and Attitudes/Sunday Times<ref group="p">{{Cite web |last=Reaper |first=Luke |date=20 October 2022 |title=October Opinion Poll 2022 |url=https://banda.ie/wp-content/uploads/2022/10/J.223999-Sunday-Times-Report-October-2022.pdf |access-date=1 January 2023 |website=Behaviour & Attitudes}}</ref>
+|931
+|style="background:#D7ECEA"|'''34'''
+|22
+|21
+|4
+|6
+|2
+|2
+|0
+|9
+|-
+|data-sort-value="2022-10-01"|1 October 2022
+|data-sort-value="SunInd10"|Ireland Thinks/Sunday Independent<ref group="p">{{Cite news |url=https://www.independent.ie/irish-news/politics/sunday-independent-poll-sinn-fein-reaps-the-benefit-of-widening-divide-in-irish-society-on-home-ownership-42032949.html |title=Sunday Independent poll — Sinn Féin reaps the benefit of widening divide in Irish society on home ownership|last=Corcoran|first=Jody|publisher=Independent.ie |date=2 October 2022 |access-date=2 October 2022|language=en}}</ref>
+|1,254
+|style="background:#D7ECEA"|'''37'''
+|17
+|21
+|4
+|3
+|3
+|4
+|3
+|8
+|-
+|data-sort-value="2022-09-06"|6 September 2022
+|data-sort-value="RedC20"|Red C/Business Post<ref group="p">{{Cite news|url=https://www.rte.ie/news/2022/0910/1321769-politics-poll/ |title=Two polls suggest Sinn Féin remains most popular party|last=Cunningham |first=Paul|publisher=RTÉ |date=11 September 2022|access-date=15 November 2022|language=en}}</ref>
+|1,004
+|style="background:#D7ECEA"|'''35'''
+|17
+|18
+|5
+|4
+|4
+|3
+|2
+|12
+|-
+|data-sort-value="2022-09-06"|6 September 2022
+|data-sort-value="B&A19"|Behaviour and Attitudes/Sunday Times<ref group="p">{{Cite news|url=https://www.rte.ie/news/2022/0910/1321769-politics-poll/|title=Two polls suggest Sinn Féin remains most popular party|last=Cunningham |first=Paul|publisher=RTÉ |date=2022-09-11 |language=en}}</ref>
+|905
+|style="background:#D7ECEA"|'''35'''
+|24
+|20
+|5
+|4
+|3
+|2
+|0
+|8
+|-
+|data-sort-value="2022-09-02"|2 September 2022
+|data-sort-value="SunInd9"|Ireland Thinks/Sunday Independent<ref group="p">{{cite news|url=https://www.independent.ie/irish-news/sunday-independent-poll-sinn-fein-remains-the-most-popular-party-in-the-country-as-coalition-parties-see-drop-41959162.html|title=Sunday Independent poll: Sinn Féin remains the most popular party in the country, as coalition parties see drop|last=O'Neill|first=Ciaran|work=Irish Independent|date=3 September 2022|access-date=5 September 2022}}</ref>
+|?
+|style="background:#D7ECEA"|'''36'''
+|16
+|21
+|2
+|3
+|4
+|5
+|3
+|11
+|-
+|data-sort-value="2022-08-06"|6 August 2022
+|data-sort-value="SunInd8"|Ireland Thinks/Sunday Independent<ref group="p">{{cite news|url=https://www.independent.ie/irish-news/sunday-independent-poll-this-will-be-the-winter-of-our-discontent-41894896.html|title=Sunday Independent Poll: This will be the winter of our discontent|last=Corcoran|first=Jody|work=Sunday Independent|date=7 August 2022|access-date=7 August 2022}}</ref>
+|?
+|style="background:#D7ECEA"|'''36'''
+|17
+|22
+|4
+|3
+|4
+|4
+|3
+|9
+|-
+|data-sort-value="2022-07-12"|12 July 2022
+|data-sort-value="Ipsos7"|Ipsos MRBI/Irish Times<ref group="p">{{cite news |last1=Loscher |first1=Damian |title=Satisfaction with Government collapses in Irish Times opinion poll that reveals many new highs and lows |url=https://www.irishtimes.com/politics/2022/07/14/satisfaction-with-government-collapses-in-latest-irish-times-opinion-poll/ |access-date=23 July 2022 |work=The Irish Times |date=14 July 2022}}</ref><ref group="p">{{Cite tweet|author=Next Irish General Election|user=NextIrishGE|number=1547492462939226112|title=@IpsosMRBI/@IrishTimes Poll}}</ref>
+|1,200
+|style="background:#D7ECEA"|'''36'''
+|20
+|18
+|3
+|4
+|2
+|3
+|1
+|14
+|-
+|data-sort-value="2022-07-01"|1 July 2022
+|data-sort-value="SunInd7"|Ireland Thinks/Sunday Independent<ref group="p">{{cite news|url=https://www.independent.ie/irish-news/sinn-feins-popularity-hits-record-high-as-majority-expect-recession-next-year-poll-reveals-41808990.html|title=Sinn Féin’s popularity hits record high as majority expect recession next year, poll reveals|last=O'Connell|first=Hugh|work=Sunday Independent|date=2 July 2022|access-date=3 July 2022}}</ref>
+|1,133
+|style="background:#D7ECEA"|'''36'''
+|15
+|22
+|4
+|4
+|3
+|3
+|3
+|10
+|-
+|data-sort-value="2022-06-22"|22 June 2022
+|data-sort-value="RedC19"|Red C/Business Post<ref group="p">{{cite news|url=https://www.businesspost.ie/politics/sinn-fein-widens-its-lead-in-latest-red-c-poll/|title=Sinn Féin widens its lead in latest Red C poll|last=Brennan|first=Michael|publisher=Business Post|date=22 June 2022|access-date=25 June 2022}}</ref>
+|1,004
+|style="background:#D7ECEA"|'''36'''
+|14
+|19
+|4
+|3
+|4
+|4
+|3
+|12
 |-
 |data-sort-value="2022-06-07"|7 June 2022
-|[[The Times, Ireland edition|Behaviour and Attitudes/The Sunday Times]]<ref group="p">{{cite news|url=https://www.breakingnews.ie/ireland/sinn-fein-reaches-another-record-high-in-the-polls-1318636.html|title=Sinn Féin reaches another record high in the polls|last=Doherty|first=Thomas|date=12 June 2022|website=BreakingNews.ie|accessdate=13 June 2022}}</ref>
+|data-sort-value="B&A18"|Behaviour and Attitudes/The Sunday Times<ref group="p">{{cite news|url=https://www.breakingnews.ie/ireland/sinn-fein-reaches-another-record-high-in-the-polls-1318636.html|title=Sinn Féin reaches another record high in the polls|last=Doherty|first=Thomas|date=12 June 2022|website=BreakingNews.ie|accessdate=13 June 2022}}</ref>
 |?
 |style="background:#D7ECEA"|'''37'''
 |22
@@ -44,7 +265,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |8
 |-
 |data-sort-value="2022-06-04"|4 June 2022
-|data-sort-value="SunInd4"|[[Sunday Independent (Ireland)|Ireland Thinks/Sunday Independent]]<ref group="p">{{cite news|url=https://www.independent.ie/news/sinn-fein-remains-the-most-popular-party-in-the-country-as-support-for-fine-gael-drops-41720440.html|title=Sinn Féin remains the most popular party in the country, as support for Fine Gael drops|last=O'Connell|first=Hugh|work=Sunday Independent|date=4 June 2022|access-date=5 June 2022}}</ref>
+|data-sort-value="SunInd6"|Ireland Thinks/Sunday Independent<ref group="p">{{cite news|url=https://www.independent.ie/news/sinn-fein-remains-the-most-popular-party-in-the-country-as-support-for-fine-gael-drops-41720440.html|title=Sinn Féin remains the most popular party in the country, as support for Fine Gael drops|last=O'Connell|first=Hugh|work=Sunday Independent|date=4 June 2022|access-date=5 June 2022}}</ref>
 |1,211
 |style="background:#D7ECEA"|'''35'''
 |17
@@ -57,7 +278,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |8
 |-
 |data-sort-value="2022-05-25"|25 May 2022
-|data-sort-value="RedC18"|[[Business Post|Red C/Business Post]]<ref group="p">{{cite news|url=https://www.rte.ie/news/2022/0528/1301785-red-c-opinion-poll/|title=Opinion poll suggests further rise in support for Sinn Féin|last=Lehane|first=Micheál|publisher=RTÉ|date=28 May 2022|access-date=30 May 2022}}</ref>
+|data-sort-value="RedC18"|Red C/Business Post<ref group="p">{{cite news|url=https://www.rte.ie/news/2022/0528/1301785-red-c-opinion-poll/|title=Opinion poll suggests further rise in support for Sinn Féin|last=Lehane|first=Micheál|publisher=RTÉ|date=28 May 2022|access-date=30 May 2022}}</ref>
 |1,000+
 |style="background:#D7ECEA"|'''36'''
 |15
@@ -70,7 +291,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |11
 |-
 |data-sort-value="2022-05-14"|10 May 2022
-|data-sort-value="B&A17"|Behaviour and Attitudes/The Sunday Times<ref group="p">{{Cite web|url=https://twitter.com/NextIrishGE/status/1525613650865799173|title=Poll - Dáil Éireann|last=|first=|publisher=@NextIrishGe|date=14 May 2022|access-date=16 May 2022|archive-date=16 May 2022|archive-url=https://web.archive.org/web/20220516073934/https://twitter.com/NextIrishGE/status/1525613650865799173|url-status=live}}</ref><ref>{{cite web|url=https://banda.ie/wp-content/uploads/Sunday-Times-May-Poll-2022.pdf|title=May Opinion Poll 2022|last=Reaper|first=Luke|publisher=Behaviour and Attitudes|date=16 May 2022|access-date=30 May 2022}}</ref>
+|data-sort-value="B&A17"|Behaviour and Attitudes/The Sunday Times<ref group="p">{{Cite web|url=https://twitter.com/NextIrishGE/status/1525613650865799173|title=Poll - Dáil Éireann|last=|first=|publisher=@NextIrishGe|date=14 May 2022|access-date=16 May 2022|archive-date=16 May 2022|archive-url=https://web.archive.org/web/20220516073934/https://twitter.com/NextIrishGE/status/1525613650865799173|url-status=live}}</ref><ref group="p">{{cite web|url=https://banda.ie/wp-content/uploads/Sunday-Times-May-Poll-2022.pdf|title=May Opinion Poll 2022|last=Reaper|first=Luke|publisher=Behaviour and Attitudes|date=16 May 2022|access-date=30 May 2022}}</ref>
 |908
 |style="background:#D7ECEA"|'''36'''
 |24
@@ -83,7 +304,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |9
 |-
 |data-sort-value="2022-05-07"|7 May 2022
-|data-sort-value="SunInd4"|Ireland Thinks/Sunday Independent<ref group="p">{{Cite web|url=https://twitter.com/NextIrishGE/status/1523017615345844224|title=Poll - Dáil Éireann|last=|first=|publisher=@NextIrishGe|date=7 May 2022|access-date=16 May 2022|archive-date=7 May 2022|archive-url=https://web.archive.org/web/20220507222007/https://twitter.com/NextIrishGE/status/1523017615345844224|url-status=live}}</ref>
+|data-sort-value="SunInd5"|Ireland Thinks/Sunday Independent<ref group="p">{{Cite web|url=https://twitter.com/NextIrishGE/status/1523017615345844224|title=Poll - Dáil Éireann|last=|first=|publisher=@NextIrishGe|date=7 May 2022|access-date=16 May 2022|archive-date=7 May 2022|archive-url=https://web.archive.org/web/20220507222007/https://twitter.com/NextIrishGE/status/1523017615345844224|url-status=live}}</ref>
 |1,002
 |style="background:#D7ECEA"|'''34'''
 |16
@@ -109,7 +330,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |11
 |-
 |data-sort-value="2022-04-01"|1 April 2022
-|data-sort-value="SunInd3"|Ireland Thinks/Sunday Independent<ref group="p">{{Cite web|url=https://twitter.com/gavreilly/status/1510334048283115522|title=Sinn Féin solidifies position as most popular party as overall support for coalition falls, poll reveals|last=Reilly|first=Gav|publisher=Gav Reilly|date=2 April 2022|access-date=3 April 2022|archive-date=3 April 2022|archive-url=https://web.archive.org/web/20220403011913/https://twitter.com/gavreilly/status/1510334048283115522|url-status=live}}</ref>
+|data-sort-value="SunInd4"|Ireland Thinks/Sunday Independent<ref group="p">{{Cite web|url=https://twitter.com/gavreilly/status/1510334048283115522|title=Sinn Féin solidifies position as most popular party as overall support for coalition falls, poll reveals|last=Reilly|first=Gav|publisher=Gav Reilly|date=2 April 2022|access-date=3 April 2022|archive-date=3 April 2022|archive-url=https://web.archive.org/web/20220403011913/https://twitter.com/gavreilly/status/1510334048283115522|url-status=live}}</ref>
 |1,135
 |style="background:#D7ECEA"|'''33'''
 |18
@@ -265,7 +486,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |9
 |-
 |data-sort-value="2021-12-08"|8 December 2021
-|data-sort-value="Ipsos6"|[[The Irish Times|Ipsos MRBI/Irish Times]]<ref group="p">{{cite news |last=Leahy |first=Pat |date=10 December 2021 |title=Poll: Irish Times/Ipsos MRBI opinion poll Support for Sinn Féin reaches new record |url=https://www.irishtimes.com/news/politics/irish-times-ipsos-mrbi-opinion-poll-support-for-sinn-féin-reaches-new-record-1.4751548?mode=sample&auth-failed=1&pw-origin=https%3A%2F%2F |work=[[Irish Times]] |location= |access-date=10 December 2021 |archive-date=11 December 2021 |archive-url=https://web.archive.org/web/20211211061923/https://www.irishtimes.com/news/politics/irish-times-ipsos-mrbi-opinion-poll-support-for-sinn-f%C3%A9in-reaches-new-record-1.4751548?mode=sample&auth-failed=1&pw-origin=https%3A%2F%2F |url-status=live }}</ref><ref group="p">{{Cite tweet |author=IrelandElects |user=ToghannEire |number=1469263915813154820 |title=@IpsosMRBI/@IrishTimes Poll}}</ref>
+|data-sort-value="Ipsos6"|Ipsos MRBI/Irish Times<ref group="p">{{cite news |last=Leahy |first=Pat |date=10 December 2021 |title=Poll: Irish Times/Ipsos MRBI opinion poll Support for Sinn Féin reaches new record |url=https://www.irishtimes.com/news/politics/irish-times-ipsos-mrbi-opinion-poll-support-for-sinn-féin-reaches-new-record-1.4751548?mode=sample&auth-failed=1&pw-origin=https%3A%2F%2F |work=[[Irish Times]] |location= |access-date=10 December 2021 |archive-date=11 December 2021 |archive-url=https://web.archive.org/web/20211211061923/https://www.irishtimes.com/news/politics/irish-times-ipsos-mrbi-opinion-poll-support-for-sinn-f%C3%A9in-reaches-new-record-1.4751548?mode=sample&auth-failed=1&pw-origin=https%3A%2F%2F |url-status=live }}</ref><ref group="p">{{Cite tweet |author=IrelandElects |user=ToghannEire |number=1469263915813154820 |title=@IpsosMRBI/@IrishTimes Poll}}</ref>
 |1,200
 |style="background:#D7ECEA"|'''35'''
 |20
@@ -939,5 +1160,7 @@ PLEASE READ THIS!  Opinion polls are listed by default in reverse chronological 
 |2.6
 |1.9
 |13.9
-|-
 |}
+;Notes
+{{reflist|group="nb"}}
+{{reflist|group="p"|2}}

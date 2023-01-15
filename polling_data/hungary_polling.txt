@@ -13,10 +13,10 @@
 ! style="width:35px;"| [[LMP – Hungary's Green Party|LMP]]
 ! style="width:35px;"| [[File:Logo_of_the_Momentum_Movement.svg|32px|link=Momentum Movement|MM]]
 ! style="width:35px;"| [[File:Magyar_Kétfarkú_Kutyapárt_logó.svg|35px|link=Hungarian Two Tailed Dog Party|MKKP]]
-! style="width:35px;" class="unsortable"|[[File:MiHazank.jpg|35px|link=Mi Hazánk]]
+! style="width:35px;" class="unsortable"|[[File:MiHazank Logo.jpg|35px|link=Mi Hazánk]]
 ! style="width:40px;" class="unsortable" rowspan="2"| Other
 ! style="width:20px;" class="unsortable" rowspan="2"| Lead
-! style="width:20px;" class="unsortable" rowspan="2" |{{H:title|Jobbik, MSZP-P, DK, LMP, M and MKKP|Opposition}}
+! style="width:20px;" class="unsortable" rowspan="2" |{{tooltip|2=Jobbik, MSZP-P, DK, LMP, M and MKKP|Opposition}}
 |-
 ! style="background:{{party color|Fidesz}};"|
 ! style="background:{{party color|Jobbik (2020)}};"|

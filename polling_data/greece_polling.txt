@@ -1,6 +1,5 @@
 ===Polling===
-The table below lists nationwide voting intention estimates. Refusals are generally excluded from the party vote percentages, while question wording and the treatment of "don't know" responses and those not intending to vote may vary between polling organisations. Polls that show their results without disregarding those respondents who were undecided or said they would abstain from voting (either physically or by voting blank) have been re-calculated by disregarding these numbers from the totals offered through a [[WP:CALC|simple]] [[Rule of three (mathematics)|rule of three]] in order to obtain results comparable to other polls and the official election results. When available, seat projections are displayed below the percentages in a smaller font. 151 seats are required for an [[absolute majority]] in the [[Hellenic Parliament]].
-
+The table below lists nationwide voting intention estimates. Refusals are generally excluded from the party vote percentages, while question wording and the treatment of "don't know" responses and those not intending to vote may vary between polling organisations. Polls that show their results without disregarding those respondents who were undecided or said they would abstain from voting (either physically or by voting blank) have been re-calculated by disregarding these numbers from the totals offered through a [[WP:CALC|simple]] [[Rule of three (mathematics)|rule of three]] in order to obtain results comparable to other polls and the official election results. When available, seat projections are displayed below the percentages in a smaller font. 151 seats are required for an [[absolute majority]] in the [[Hellenic Parliament]]. 
 {| class="wikitable collapsible" style="text-align:center; font-size:95%; line-height:16px;"
 |- style="height:42px; background-color:#E9E9E9"
 ! style="width:250px;" rowspan="2"| Polling firm/Commissioner
@@ -8,12 +7,13 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="width:50px;" rowspan="2"| Sample size
 ! style="width:35px;"| [[File:New Democracy Logo 2018.png|30px|link=New Democracy (Greece)|ND]]
 ! style="width:35px;"| [[File:SYRIZA logo 2020.svg|35px|link=Syriza]]
-! style="width:35px; font-size:75%;"| [[PASOK]]–<br/>[[Movement for Change (Greece)|KINAL]]
+! style="width:35px;"| [[File:PASOK_-_Movement_for_Change_(new_logo).png|link=PASOK – Movement for Change|35x35px]]
 ! style="width:35px;"| [[File:Logo of the Communist Party of Greece.svg|25px|link=Communist Party of Greece|KKE]]
 ! style="width:35px;"| [[Greek Solution|EL]]
 ! style="width:35px;"| [[File:Mera25-logo.svg|35px|link=MeRA25]]
 ! style="width:35px;"| [[File:Meandros flag.svg|25px|link=Golden Dawn (political party)|XA]]
-! style="width:35px;"| [[Greeks for the Fatherland|EP]]
+! style="width:35px;"| [[National Party – Greeks|EK]]
+! style="width:35px;"| [[National Creation|ED]]
 ! style="width:30px;" rowspan="2"| Lead
 |-
 ! style="background:{{party color|New Democracy (Greece)}};"|
@@ -24,32 +24,707 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{party color|MeRA25}};"|
 ! style="background:{{party color|Golden Dawn (Greece)}};"|
 ! style="background:{{party color|Greeks for the Fatherland}};"|
-|-
-| Pulse RC/Skai<ref>{{Cite web |last=Newsroom |date=2022-06-09 |title=Δημοσκόπηση ΣΚΑΪ: Ευρύ προβάδισμα ΝΔ έναντι ΣΥΡΙΖΑ - Στις 8,5 μονάδες η διαφορά {{!}} ΣΚΑΪ |url=https://www.skai.gr/news/politics/dimoskopisi-skai-eyry-provadisma-nd-enanti-syriza-stis-85-monades-i-diafora |access-date=2022-06-09 |website=www.skai.gr |language=el}}</ref>
-| 6–8 Jun 2022
-| 1,206
-| {{Party shading/ND}}| '''36.5'''
-| 27.5
-| 15.0
+! style="background:#1c3382;"|
+|- 
+| Μarc/Proto Thema<ref>{{cite web |title=Δημοσκόπηση MARC για το ΠΡΩΤΟ ΘΕΜΑ Δεκεμβρίου 2022"|url=https://www.protothema.gr/files/2022-12-25/%CE%A0%CE%A1%CE%A9%CE%A4%CE%9F_%CE%98%CE%95%CE%9C%CE%91_%CE%94%CE%95%CE%9A%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A3_2022.pdf |language=el |work=Marc |date=25 December 2022}}</ref>
+| 16–21 Dec 2022
+| 1,003
+| {{Party shading/ND}}| '''37.0'''
+| 28.0
+| 11.6
+| 6.4
+| 4.6
+| 3.4
+| –
+| 3.1
+| 1.4
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.0
+|- 
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση Pulse: Στις 8 μονάδες η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ - Τι λένε οι πολίτες για αυτοδύναμη κυβέρνηση |url=https://www.skai.gr/news/politics/dimoskopisi-pulse-i-diafora-tis-nd-me-ton-syriza-ti-edeikse-gia-aytodynamia |language=el |work=Skai |date=20 December 2022}}</ref>
+| 18–19 Dec 2022
+| 1,103
+| {{Party shading/ND}}| '''37.5'''
+| 28.5
+| 11.5
 | 5.5
 | 4.5
+| 3.5
+| –
+| 3.0
+| 1.0
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.0
+|- 
+| Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview: Στο 8,5% η διαφορά της ΝΔ με τον ΣΥΡΙΖΑ -Ανοίγει η «ψαλίδα» στις δεύτερες εκλογές |url=https://www.iefimerida.gr/politiki/dimoskopisi-interview-nd-mprosta |language=el |work=iefimerida |date=20 December 2022}}</ref>
+| 15–19 Dec 2022
+| 1,655
+| {{Party shading/ND}}| '''36.7'''
+| 27.1
+| 11.3
+| 5.6
+| 5.3
+| 3.4
+| –
+| 1.7
+| 1.8
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.6
+|-
+| GPO/Powergame.gr<ref>{{cite web |title=Δημοσκόπηση GPO: Προβάδισμα 6,4% για τη ΝΔ |url=https://www.powergame.gr/ellada/358750/dimoskopisi-gpo-provadisma-64-gia-ti-nd/ |language=el |work=Powergame.gr |date=20 December 2022}}</ref>
+| 13–15 Dec 2022
+| 1,000
+| {{Party shading/ND}}| '''36.8'''
+| 29.5
+| 11.5
+| 7.2
+| 4.5
+| 2.7
+| –
+| 2.1
+| 1.6
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 7.3
+|- 
+| MRB/Open<ref>{{cite web |title=Τάσεις MRB: Στο 5,4% η διαφορά ΝΔ με ΣΥΡΙΖΑ - Η γνώμη των πολιτών για ακρίβεια και παρακολουθήσεις |url=https://www.ethnos.gr/Politics/article/237589/taseismrbsto5425hdiaforandmesyrizahgnomhtonpolitongiaakribeiakaiparakoloythhseis |language=el |work=Ethnos |date=15 December 2022}}</ref>
+| 1–9 Dec 2022
+| 2,000
+| {{Party shading/ND}}| '''33.5'''
+| 27.2
+| 13.3
+| 6.0
+| 5.3
+| 3.4
+| –
+| 3.2
+| 1.2
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 6.3
+|- 
+| Opinion Poll/Lykavitos<ref>{{cite web |title=Η μεγάλη δημοσκόπηση της Opinion Poll για τον Lykavitos.gr: Στο 7,9% η διαφορά ΝΔ - ΣΥΡΙΖΑ (κάρτες) |url=https://www.lykavitos.gr/news/politics/ti-apokalyptei-i-megali-dimoskopisi-tis-opinion-poll-gia-to-lykavitosgr-kartes |language=el |work=Lykavitos |date=5 December 2022}}</ref>
+| 29 Nov–2 Dec 2022
+| 1,251
+| {{Party shading/ND}}| '''38.1'''
+| 28.7
+| 13.3
+| 5.3
+| 4.6
+| 2.7
+| –
+| 2.9
+| 1.2
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.4
+|- 
+| Rass/Action 24<ref>{{cite web |title=Δημοσκόπηση RASS: Μπροστά με 7,8 μονάδες η ΝΔ -Εισαγόμενη η ακρίβεια και οι ανατιμήσεις, λέει το 57,3% |url=https://www.iefimerida.gr/politiki/dimoskopisi-rass-gia-action-24-78-diafora-nd-syriza |language=el |work=iefimerida |date=5 December 2022}}</ref>
+| 28 Nov–2 Dec 2022
+| 1,002
+| {{Party shading/ND}}| '''35.5'''
+| 26.7
+| 15.7
+| 7.0
+| 4.3
+| 3.7
+| –
+| 2.4
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.8
+|- 
+| GPO/Star<ref>{{cite web |title=Δημοσκόπηση GPO: Στο 6,8% το προβάδισμα της ΝΔ έναντι του ΣΥΡΙΖΑ -Η ακρίβεια το μεγάλο πρόβλημα |url=https://www.iefimerida.gr/politiki/dimoskopisi-gpo-nd-syriza-akribeia |language=el |work=iefimerida |date=30 November 2022}}</ref>
+| 24–28 Nov 2022
+| 1,200
+| {{Party shading/ND}}| '''37.3'''
+| 29.5
+| 12.7
+| 6.6
+| 3.9
+| 2.5
+| –
+| 2.1
+| 1.4
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 7.8
+|- 
+| Μarc/ANT1<ref>{{Cite web |title=Δημοσκόπηση Marc: 8 μονάδες μπροστά η ΝΔ από τον ΣΥΡΙΖΑ |url=https://www.protothema.gr/politics/article/1312897/dimoskopisi-marc-8-monades-brosta-i-nd-apo-ton-suriza/ |language=el |work=Proto Thema |date=29 November 2022}}</ref>
+| 22–27 Nov 2022
+| 1,030
+| {{Party shading/ND}}| '''36.8'''
+| 27.6
+| 13.0
+| 6.4
+| 4.7
+| 3.5
+| –
+| 2.6
+| 1.2
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.2
+|- 
+| ProRata/Efimerida ton Sintakton<ref>{{cite web |title=Λίγο πριν από την ευθεία για τις εθνικές κάλπες |url=https://www.efsyn.gr/politiki/kybernisi/368553_ligo-prin-apo-tin-eytheia-gia-tis-ethnikes-kalpes |language=el |work=Efsyn |date=26 November 2022}}</ref>
+| 19–22 Nov 2022
+| 1,905
+| {{Party shading/ND}}| '''36.0'''
+| 30.0
+| 12.5
+| 5.5
+| 5.0
+| 3.0
+| –
+| 2.0
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 6.0
+|-
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση Pulse για τον ΣΚΑΪ: Στις 7 μονάδες η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ - Υπερκομματικός προβληματισμός για την ακρίβεια |url=https://www.skai.gr/news/politics/dimoskopisi-pulse-7-monades-i-diafora-tis-nd-me-syriza-agkathi-i-akriveia |language=el |work=Skai |date=23 November 2022}}</ref><ref>{{cite web |title=Pulse RC. 19 - 22 Νοεμβρίου 2022 |url=https://www.newsit.gr/wp-content/uploads/2022/11/dimoskopisi.pdf |language=el |work=Pulse RC |date=23 November 2022}}</ref>
+| 19–22 Nov 2022
+| 1,205
+| {{Party shading/ND}}| '''36.5'''
+| 28.5
+| 12.5
+| 6.0
+| 4.5
+| 3.5
+| –
+| 3.0
+| 1.0
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.0
+|- 
+| Metron Analysis/Mega<ref>{{cite web |title=Δημοσκόπηση Metron: Στο 10,2% η διαφορά ΝΔ-ΣΥΡΙΖΑ, ο Μητσοτάκης μπροστά από τον Τσίπρα σε όλους τους δείκτες |url=https://www.iefimerida.gr/politiki/dimoskopisi-metron-sto-102-i-diafora-nd-syriza |language=el |work=iefimerida |date=24 November 2022}}</ref>
+| 16–22 Nov 2022
+| 1,000
+| {{Party shading/ND}}| '''36.5'''
+| 26.3
+| 14.2
+| 6.0
+| 4.3
+| 4.5
+| –
+| 2.3
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.2
+|- 
+| Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview για την POLITIC: Στο 6,9% η «ψαλίδα» ΝΔ – ΣΥΡΙΖΑ – Τι ψηφίζουν οι πολίτες σε επαναληπτικές εκλογές |url=https://politic.gr/politiki/dimoskopisi-interview-gia-tin-politic-sto-69-i-psalida-nd-syriza-ti-psifizoun-oi-polites-se-epanaliptikes-ekloges/ |language=el |work=Politic.gr |date=22 November 2022}}</ref>
+| 17–21 Nov 2022
+| 1,605
+| {{Party shading/ND}}| '''35.7'''
+| 28.0
+| 11.3
+| 6.7
+| 5.3
+| 3.9
+| –
+| 1.4
+| 1.7
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 7.7
+|- 
+| Alco/Alpha TV<ref>{{Cite web |title=ΕΡΕΥΝΑ ALPHA ΝΟΕΜ22 |url=http://alcopolls.gr/portfolio/%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-alpha-%CE%BD%CE%BF%CE%B5%CE%BC22 |language=el |work=Alco |date=18 November 2022}}</ref>
+| 14–18 Nov 2022
+| 1,000
+| {{Party shading/ND}}| '''35.3'''
+| 26.8
+| 13.3
+| 6.1
+| 5.7
+| 3.1
+| –
+| 2.4
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.5
+|- 
+| GPO/Parapolitika<ref>{{cite web |title=Δημοσκόπηση GPO για τα «ΠΑΡΑΠΟΛΙΤΙΚΑ»: Στο 5,8% η διαφορά της Ν.Δ. από τον ΣΥΡΙΖΑ - Φθορά 1% για την κυβέρνηση με φόντο τα καυτά μέτωπα |url=https://www.parapolitika.gr/politiki/article/1229320/dimoskopisi-gpo-gia-ta-parapolitika-sto-58-i-diafora-tis-nd-apo-ton-suriza-fthora-1-gia-ti-kuvernisi-/ |language=el |work=Parapolitika |date=14 November 2022}}</ref>
+| 8–10 Nov 2022
+| 1,000
+| {{Party shading/ND}}| '''36.6'''
+| 29.9
+| 12.2
+| 6.8
+| 4.2
+| 2.7
+| –
+| 2.0
+| 1.7
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 6.7
+|- 
+| MRB/Open<ref>{{cite web |title=Δημοσκόπηση Open: Μειώνεται η διαφορά ΝΔ με ΣΥΡΙΖΑ - Τι λένε οι πολίτες για ακρίβεια και καλάθι του νοικοκυριού |url=https://www.ethnos.gr/Politics/article/231339/dhmoskophshopenmeionetaihdiaforandmesyrizatileneoipolitesgiaakribeiakaikalathitoynoikokyrioy |language=el |work=Ethnos |date=3 November 2022}}</ref>
+| 31 Oct–2 Nov 2022
+| 1,000
+| {{Party shading/ND}}| '''35.5'''
+| 28.0
+| 14.0
+| 6.1
+| 5.5
+| 3.7
+| –
+| 3.2
+| 1.5
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 7.5
+|- 
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση Pulse για τον ΣΚΑΪ: Στο 7,5% η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ - Αυτοδύναμη κυβέρνηση ή συνεργασίας το δίλημμα |url=https://www.skai.gr/news/politics/dimoskopisi-pulse-gia-skai-sto-75-i-diafora-nd-syriza |language=el |work=Skai |date=26 October 2022}}</ref>
+| 23–25 Oct 2022
+| 1,207
+| {{Party shading/ND}}| '''37.0'''
+| 28.5
+| 12.5
+| 6.0
+| 4.5
+| 3.0
+| 1.0
+| 2.0
+| 1.5
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.5
+|- 
+| Μarc/ANT1<ref>{{cite web |title=Δημοσκόπηση Marc: Προβάδισμα 8,7% για τη ΝΔ |url=https://www.athensvoice.gr/epikairotita/politiki-oikonomia/776078/dimoskopisi-marc-provadisma-87-gia-ti-nd/ |language=el |work=AthensVoice |date=24 October 2022}}</ref><ref>{{cite web |title=Δημοσκόπηση Marc: Φόβος για τον δύσκολο χειμώνα -Αυστηρότερες ποινές σε ειδεχθή εγκλήματα ζητούν οι πολίτες |url=https://www.iefimerida.gr/ellada/dimoskopisi-marc-heimona-fobos-poines |language=el |work=iefimerida |date=24 October 2022}}</ref>
+| 18–22 Oct 2022
+| 1,050
+| {{Party shading/ND}}| '''37.4'''
+| 27.3
+| 12.9
+| 6.0
+| 5.1
+| 3.6
+| –
+| 2.5
+| 1.4
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.1
+|- 
+| Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview για την POLITIC: Μπροστά με 7,3% η ΝΔ – Δε φταίει η κυβέρνηση Μητσοτάκη για την ακρίβεια, λέει το 62,5% |url=https://politic.gr/politiki/dimoskopisi-interview-gia-tin-politic-brosta-me-73-i-nd-de-ftaiei-i-kyvernisi-mitsotaki-gia-tin-akriveia-leei-to-625/ |language=el |work=Politic.gr |date=20 October 2022}}</ref>
+| 13–19 Oct 2022
+| 1,575
+| {{Party shading/ND}}| '''35.6'''
+| 27.6
+| 12.0
+| 7.1
+| 5.5
+| 3.3
+| –
+| 1.8
+| 1.3
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.0
+|-
+| GPO/Powergame.gr<ref>{{cite web |title=GPO: Προβάδισμα ΝΔ εν μέσω κρίσης- στο 7,1% η διαφορά με ΣΥΡΙΖΑ |url=https://www.powergame.gr/ellada/322006/gpo-provadisma-nd-en-meso-krisis-sto-71-i-diafora-me-syriza/ |language=el |work=Powergame.gr |date=18 October 2022}}</ref>
+| 12–15 Oct 2022
+| 1,200
+| {{Party shading/ND}}| '''37.6'''
+| 29.4
+| 11.8
+| 6.3
+| 4.4
+| 3.0
+| –
+| 1.8
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.2
+|- 
+| Alco/Alpha TV<ref>{{cite web |title=ΕΡΕΥΝΑ ALPHA ΟΚΤ2022 |url=http://alcopolls.gr/portfolio/%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-alpha-%CE%BF%CE%BA%CF%842022 |language=el |work=Alco |date=17 October 2022}}</ref>
+| 10–14 Oct 2022
+| 1,002
+| {{Party shading/ND}}| '''35.5'''
+| 26.1
+| 13.0
+| 6.4
+| 5.8
+| 3.6
+| –
+| 2.3
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.4
+|- 
+| MRB/Open<ref>{{cite web |title=Δημοσκόπηση MRB: Προβάδισμα 7,2% της ΝΔ έναντι του ΣΥΡΙΖΑ -Ποια θέματα απασχολούν περισσότερο τους πολίτες |url=https://www.iefimerida.gr/politiki/dimoskopisi-mrb-probadisma-72-nd-enanti-syriza |language=el |work=iefimerida |date=14 October 2022}}</ref>
+| 10–12 Oct 2022
+| 1,000
+| {{Party shading/ND}}| '''35.6'''
+| 27.4
+| 13.5
+| 5.9
+| 5.2
+| 3.7
+| –
+| 2.9
+| 1.3
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.2
+|- 
+| Interview/Politic.gr<ref>{{cite web |title=Μεγάλη δημοσκόπηση Interview για την POLITIC: 8,3 μονάδες μπροστά η ΝΔ μετά τη ΔΕΘ – Το «Μητσοτάκης γιοκ» κάνει καλό στην εικόνα του πρωθυπουργού, λέει το 43,3% |url=https://politic.gr/politiki/megali-dimoskopisi-interview-gia-tin-politic-83-monades-brosta-i-nd-meta-ti-deth-to-mitsotakis-giok-kanei-kalo-stin-eikona-tou-prothypourgou-leei-to-433/ |language=el |work=Politic.gr |date=28 September 2022}}</ref>
+| 22–27 Sep 2022
+| 1,455
+| {{Party shading/ND}}| '''35.3'''
+| 26.2
+| 11.6
+| 6.7
+| 5.6
+| 3.9
+| –
+| 1.3
+| 1.9
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.1
+|- 
+| Metron Analysis/Mega<ref>{{cite web |title=Στις 8,4 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ με νέα δημοσκόπηση |url=https://www.megatv.com/2022/09/29/dimoskopisi-stis-84-monades-i-diafora-nd-syriza/ |language=el |work=Mega |date=29 September 2022}}</ref>
+| 22–26 Sep 2022
+| 1,300
+| {{Party shading/ND}}| '''35.8'''
+| 25.4
+| 15.0
+| 6.3
+| 5.9
+| 4.1
+| –
+| 2.5
+| 1.3
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.4
+|- 
+| Marc/ANT1<ref>{{cite web |title=Δημοσκόπηση Marc: Μπροστά με 8,7 μονάδες η Νέα Δημοκρατία, στο 48,5% η αποδοχή Μητσοτάκη |url=https://www.protothema.gr/politics/article/1288876/dimoskopisi-marc/ |language=el |work=Proto Thema |date=22 September 2022}}</ref>
+| 20–24 Sep 2022
+| 1,166
+| {{Party shading/ND}}| '''37.6'''
+| 27.6
+| 13.1
+| 6.2
+| 4.7
+| 3.2
+| –
+| 2.3
+| 1.1
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.0
+|- 
+| Palmos Analysis/The Caller<ref>{{cite web |title=Δημοσκόπηση Palmos Analysis: Η επιρροή των κομμάτων, η παρακολούθηση Ανδρουλάκη και η ακρίβεια... |url=https://politic.gr/politiki/dimoskopisi-palmos-analysis-i-epirroi-ton-kommaton-i-parakolouthisi-androulaki-kai-i-akriveia/ |language=el |work=Politic.gr |date=7 October 2022}}</ref>
+| 20–23 Sep 2022
+| 1,027
+| {{Party shading/ND}}| '''36.5'''
+| 25.4
+| 14.1
+| 7.0
+| 5.0
+| 4.8
+| –
+| 2.5
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.1
+|- 
+| Alco/Alpha TV<ref>{{cite web |title=ΕΡΕΥΝΑ ALPHA ΣΕΠΤ2022 |url=http://alcopolls.gr/portfolio/%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-alpha-%CF%83%CE%B5%CF%80%CF%842022 |language=el |work=Alco |date=26 September 2022}}</ref>
+| 19–23 Sep 2022
+| 1,001
+| {{Party shading/ND}}| '''35.8'''
+| 26.8
+| 13.6
+| 6.3
+| 4.9
+| 3.6
+| –
+| 2.5
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.0
+|- 
+| GPO/Star<ref>{{cite web |title=Δημοσκόπηση GPO: Προβάδισμα 7,3 μονάδων για τη ΝΔ στην πρόθεση ψήφου - Το 44,9% θέλει Μητσοτάκη πρωθυπουργό |url=https://www.protothema.gr/politics/article/1287451/dimoskopisi-gpo-provadisma-73-monadon-gia-ti-nd-stin-prothesi-psifou-to-449-thelei-mitsotaki-prothupourgo/ |language=el |work=Proto Thema |date=22 September 2022}}</ref>
+| 19–21 Sep 2022
+| 1,200
+| {{Party shading/ND}}| '''37.4'''
+| 29.1
+| 12.5
+| 6.1
+| 4.3
+| 2.5
+| –
+| 1.9
+| 1.7
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.3
+|- 
+| MRB/Open<ref>{{cite web |title=Δημοσκόπηση Star: Πρώτη με μεγάλη διαφορά η Νέα Δημοκρατία - Τι λένε οι πολίτες για ακρίβεια, υποκλοπές και ποια κυβέρνηση συνεργασίας προτιμούν |url=https://www.iefimerida.gr/ellada/dimoskopisi-mrb-75-nd-probadisma |language=el |work=iefimerida |date=22 September 2022}}</ref>
+| 19–21 Sep 2022
+| 1,000
+| {{Party shading/ND}}| '''35.7'''
+| 27.2
+| 13.4
+| 6.1
+| 5.0
+| 4.2
+| –
+| 2.6
+| 1.3
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.5
+|- 
+| Pulse RC/Skai<ref name="PulseSep22">{{cite web |title=Δημοσκόπηση Pulse για τον ΣΚΑΪ: Στις 8 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ μετά τη ΔΕΘ |url=https://www.skai.gr/news/politics/dimoskopisi |language=el |work=Skai |date=21 September 2022}}</ref>
+| 18–20 Sep 2022
+| 1,012
+| {{Party shading/ND}}| '''37.5'''
+| 29.0
+| 13.0
+| 5.5
+| 4.5
+| 3.5
+| –
+| 2.0
+| 1.0
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.5
+|-
+| Pulse RC/Skai<ref name="PulseSep22"/>
+| 12–15 Sep 2022
+| 1,105
+| {{Party shading/ND}}| '''38.0'''
+| 28.5
+| 12.5
+| 6.0
+| 4.5
+| 2.5
+| –
+| 2.0
+| 1.0
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.5
+|-
+| GPO/Parapolitika<ref>{{cite web |title=Αυξήθηκε το προβάδισμα της ΝΔ επί του ΣΥΡΙΖΑ σύμφωνα με «έγκυρη» δημοσκόπηση – Μπροστά για 7,8 μονάδες |url=https://www.parapolitika.gr/politiki/article/1214748/dimoskopisi-gpo-gia-ta-parapolitika-i-nd-proigeitai-78-tou-suriza-o-mitsotakis-kerdise-to-stoihima/ |language=el |work=Parapolitika |date=19 September 2022}}</ref>
+| 12–14 Sep 2022
+| 1,000
+| {{Party shading/ND}}| '''37.2'''
+| 28.3
+| 13.0
+| 6.4
+| 4.6
+| 2.4
+| –
+| 1.9
+| 1.7
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.9
+|-
+| Opinion Poll/Mononews.gr<ref>{{cite web |title=Δημοσκόπηση Opinion Poll: Προβάδισμα της ΝΔ με 9,4% - Τα προβλήματα που απασχολούν τους πολίτες |url=https://www.athensvoice.gr/epikairotita/politiki-oikonomia/771390/dimoskopisi-opinion-poll-provadisma-tis-nd-me-94/ |language=el |work=Athens Voice |date=16 September 2022}}</ref>
+| 12–14 Sep 2022
+| 1,004
+| {{Party shading/ND}}| '''38.3'''
+| 27.5
+| 14.1
+| 5.9
+| 5.8
+| 2.7
+| –
+| 2.3
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.8
+|- 
+| Pulse RC/Skai<ref name="PulseSep22"/>
+| 8–9 Sep 2022
+| 1,006
+| {{Party shading/ND}}| '''36.5'''
+| 28.5
+| 13.5
+| 6.0
+| 4.0
+| 3.0
+| 1.0
+| 2.0
+| 1.0
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.0
+|-
+| ProRata/Efimerida ton Sintakton<ref>{{cite web |title=Η μείωση της ψαλίδας μεταξύ Ν.Δ. και ΣΥΡΙΖΑ και η υπόθεση των παρακολουθήσεων |url=https://www.efsyn.gr/politiki/358618_i-meiosi-tis-psalidas-metaxy-nd-kai-syriza-kai-i-ypothesi-ton-parakoloythiseon |language=el |work=Efsyn |date=10 September 2022}}</ref>
+| 2–5 Sep 2022
+| 1,010
+| {{Party shading/ND}}| '''35.5'''
+| 30.0
+| 13.0
+| 6.0
+| 4.0
 | 3.0
 | –
 | 2.5
-| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.0 
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 5.5
 |-
-| Kapa Research/iEfimerida<ref>{{Cite web |last=IEFIMERIDA.GR |first=NEWSROOM |date=2022-06-06 |title=Δημοσκόπηση ΚΑΠΑ Research: Προβάδισμα 8,1% της ΝΔ έναντι του ΣΥΡΙΖΑ -Ανεβαίνει στο 8,6% σε δεύτερες εκλογές |url=https://www.iefimerida.gr/politiki/dimoskopisi-kapa-research-probadisma-81-tis-nd |access-date=2022-06-06 |website=iefimerida.gr |language=el}}</ref><ref>{{Cite web |title= |url=dimoskopisi-kapa-research-provadisma-81-tis-nd-enanti-tou-syriza}}</ref>
-| 2–5 Jun 2022
+| MRB/Star<ref>{{cite web |title=Δημοσκόπηση MRB για Newsbomb.gr: Στο 6,4% η ψαλίδα – Η ακρίβεια καθορίζει την ψήφο λέει το 63,6% |url=https://www.newsbomb.gr/politikh/story/1349430/dimoskopisi-mrb-gia-newsbomb-gr-sto-6-4-i-psalida-h-akriveia-kathorizei-tin-psifo-leei-to-63-6 |language=el |work=Newsbomb.gr |date=7 September 2022}}</ref>
+| 31 Aug–5 Sep 2022
 | 1,000
-| {{Party shading/ND}}| '''37.6'''
-| 28.1
-| 14.1
-| 7.2
-| 4.7
-| 3.3
+| {{Party shading/ND}}| '''34.5'''
+| 26.7
+| 14.6
+| 6.1
+| 5.4
+| 4.9
+| –
+| 2.4
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 7.8
+|-
+| Metron Analysis/Mega<ref>{{cite web |title=Δημοσκόπηση: Πόσο πληγώθηκε η κυβέρνηση από τις υποκλοπές, ποια η διαφορά ΝΔ με ΣΥΡΙΖΑ |url=https://www.in.gr/2022/09/01/politics/kommata/dimoskopisi-poso-pligothike-kyvernisi-apo-tis-ypoklopes-poia-diafora-nd-syriza/ |language=el |work=in.gr |date=1 September 2022}}</ref>
+| 25–31 Aug 2022
+| 1,003
+| {{Party shading/ND}}| '''34.1'''
+| 24.9
+| 15.7
+| 7.5
+| 4.2
+| 4.9
+| –
+| 2.0
+| 2.0
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.2
+|-
+| Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview για την Politic: Υπεροχή 8,2 μονάδων της ΝΔ έναντι του ΣΥΡΙΖΑ – «Πολύ σημαντικές» οι αποκαλύψεις των υποκλοπών για το 65% |url=https://politic.gr/politiki/dimoskopisi-interview-gia-tin-politic-yperochi-82-monadon-tis-nd-enanti-tou-syriza-poly-simantikes-oi-apokalypseis-ton-ypoklopon-gia-to-65/ |language=el |work=Politic.gr |date=30 August 2022}}</ref>
+| 23–29 Aug 2022
+| 1,569
+| {{Party shading/ND}}| '''35.8'''
+| 26.7
+| 12.8
+| 5.7
+| 6.0
+| 3.9
+| –
+| 1.3
+| 2.0
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.1
+|-
+| Marc/Proto Thema<ref>{{cite web |title=Δημοσκόπηση της Marc για το «ΘΕΜΑ»: Η πρόθεση ψήφου και η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ |url=https://www.protothema.gr/politics/article/1278101/dimoskopisi-tis-marc-gia-to-thema-i-prothesi-psifou-kai-i-diafora-tis-nd-apo-ton-suriza/ |language=el |work=Proto Thema |date=28 August 2022}}</ref><ref>{{cite web |title=Δημοσκόπηση MARC για το ΠΡΩΤΟ ΘΕΜΑ Αυγούστου 2022 |url=https://www.protothema.gr/files/2022-08-28/%CE%A0%CE%A1%CE%A9%CE%A4%CE%9F_%CE%98%CE%95%CE%9C%CE%91-%CE%91%CE%A5%CE%93%CE%9F%CE%A5%CE%A3%CE%A4%CE%9F%CE%A3_2022.pdf |language=el |work=Marc |date=28 August 2022}}</ref>
+| 22–25 Aug 2022
+| 1,001
+| {{Party shading/ND}}| '''36.4'''
+| 26.7
+| 14.0
+| 6.1
+| 5.7
+| 3.4
+| –
+| 2.0
+| 1.1
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.7
+|-
+| GPO/Ta Nea<ref>{{cite web |title=Στα «Νέα Σαββατοκύριακο»: Κίτρινη κάρτα |url=https://www.tanea.gr/2022/08/27/media/sta-nea-savvatokyriako-kitrini-karta/ |language=el |work=Ta Nea |date=27 August 2022}}</ref>
+| 22–24 Aug 2022
+| 1,200
+| {{Party shading/ND}}| '''35.8'''
+| 28.7
+| 13.8
+| 6.5
+| 5.5
+| 2.4
+| –
+| 1.8
+| 1.4
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 7.1
+|-
+| ProRata/Efimerida ton Sintakton<ref>{{cite web |title=ΣΦΥΓΜΟΣ ΙΟΥΛΙΟΥ 2022 |url=https://prorata.gr/2022/08/01/sfigmos-iouliou-2022/ |language=el |work=ProRata |date=1 August 2022}}</ref><ref>{{cite web |title=Η εύθραυστη υπεροχή της Ν.Δ. και η βελτίωση της εικόνας του Αλέξη Τσίπρα |url=https://www.efsyn.gr/politiki/353895_i-eythraysti-yperohi-tis-nd-kai-i-beltiosi-tis-eikonas-toy-alexi-tsipra |language=el |work=Efsyn |date=30 July 2022}}</ref>
+| 21–24 Jul 2022
+| 1,300
+| {{Party shading/ND}}| '''35.5'''
+| 29.5
+| 13.0
+| 6.5
+| 4.0
+| 3.0
+| –
+| 2.5
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 6.0
+|-
+| Marc/Proto Thema<ref>{{cite web |title=Δημοσκόπηση της Marc για το «ΘΕΜΑ»: Προβάδισμα 9,5 μονάδων για τη ΝΔ |url=https://www.protothema.gr/politics/article/1267731/dimoskopisi-tis-marc-gia-to-thema-provadisma-95-monadon-gia-ti-nd/ |language=el |work=Proto Thema |date=24 July 2022}}</ref>
+| 16–20 Jul 2022
+| 1,009
+| {{Party shading/ND}}| '''37.1'''
+| 26.6
+| 13.7
+| 6.3
+| 5.6
+| 3.2
+| –
+| 2.1
+| 1.1
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.5
+|-
+| Opinion Poll/To Manifesto<ref>{{cite web |title=Δημοσκόπηση Opinion Poll: Προβάδισμα με 9,3% για τη ΝΔ |url=https://www.protothema.gr/politics/article/1265783/dimoskopisi-opinion-poll-provadisma-me-93-gia-ti-nd |language=el |work=Opinion Poll |date=18 July 2022}}</ref>
+| 12–15 Jul 2022
+| 1,015
+| {{Party shading/ND}}| '''36.9'''
+| 26.5
+| 13.7
+| 5.9
+| 5.6
+| 2.9
+| –
+| 2.6
+| 1.2
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.6
+|-
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση Pulse για τον ΣΚΑΪ: Στις 8 μονάδες η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ |url=https://www.skai.gr/news/politics/dimoskopisi-pulse-gia-ton-skai-stis-8-monades-i-diafora-tis-nd-apo-ton-syriza |language=el |work=Skai |date=14 July 2022}}</ref>
+| 11–13 Jul 2022
+| 1,351
+| {{Party shading/ND}}| '''37.0'''
+| 28.5
+| 15.0
+| 6.0
+| 4.5
+| 3.5
+| –
+| 2.0
+| 1.0
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.5
+|-
+| Interview/Ρolitic.gr<ref>{{cite web |title=Δημοσκόπηση Interview για την Politic: Μπροστά η ΝΔ με αέρα 8,3 μονάδες |url=https://politic.gr/politiki/dimoskopisi-interview-gia-tin-politic-brosta-i-nd-me-aera-83-monades-ekloges-to-fthinoporo-vlepei-to-70/ |language=el |work=Politic.gr |date=7 July 2022}}</ref>
+| 4–6 Jul 2022
+| 1,305
+| {{Party shading/ND}}| '''36.0'''
+| 26.8
+| 13.6
+| 5.5
+| 5.6
+| 3.4
 | –
 | 1.4
-| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.5
+| 1.7
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.2
+|-
+| Alco/Open<ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΙΟΥΛΙΟΣ 2022 |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%B9%CE%BF%CF%85%CE%BB%CE%B9%CE%BF%CF%83-2022 |language=el |work=Alco |date=6 July 2022}}</ref>
+| 27 Jun–4 Jul 2022
+| 1,400
+| {{Party shading/ND}}| '''35.2'''
+| 25.3
+| 14.4
+| 6.1
+| 5.8
+| 3.5
+| –
+| 2.0
+| 1.3
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.9
+|-
+| GPO/Powergame.gr<ref>{{cite web |title=GPO: Προβάδισμα ΝΔ με φόντο την ακρίβεια- Στο 8,9% η διαφορά με ΣΥΡΙΖΑ |url=https://www.powergame.gr/ellada/271911/gpo-provadisma-nd-me-fonto-tin-akriveia-sto-89-i-diafora-me-syriza/ |language=el |work=Powergame.gr |date=5 July 2022}}</ref>
+| 28 Jun–1 Jul 2022
+| 1,200
+| {{Party shading/ND}}| '''37.8'''
+| 27.6
+| 12.7
+| 6.6
+| 5.3
+| 2.6
+| –
+| 2.2
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.2
+|-
+| MRB/Star<ref>{{cite web |title=MRB-Star: Συρρικνώνεται η «ψαλίδα» ανάμεσα στη ΝΔ και τον ΣΥΡΙΖΑ |url=https://www.cnn.gr/politiki/story/319526/dimoskopisi-mrb |language=el |work=CNN |date=7 July 2022}}</ref>
+| 22–30 Jun 2022
+| 1,000
+| {{Party shading/ND}}| '''34.1'''
+| 25.7
+| 14.2
+| 5.5
+| 5.2
+| 3.6
+| –
+| 2.2
+| 1.4
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.4
+|-
+| Marc/ANT1<ref>{{cite web |title=Δημοσκόπηση Marc / Όλο και περισσότεροι θέλουν πρόωρες εκλογές το φθινόπωρο |url=https://www.avgi.gr/politiki/418576_olo-kai-perissoteroi-theloyn-proores-ekloges-fthinoporo |language=el |work=Αvgi |date=28 June 2022}}</ref>
+| 22–25 Jun 2022
+| 1,059
+| {{Party shading/ND}}| '''37.1'''
+| 25.7
+| 14.6
+| 6.2
+| 5.3
+| 3.3
+| –
+| 2.4
+| 1.6
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.4
+|-
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: Ευρύ προβάδισμα ΝΔ έναντι ΣΥΡΙΖΑ - Στις 8,5 μονάδες η διαφορά |url=https://www.skai.gr/news/politics/dimoskopisi-skai-eyry-provadisma-nd-enanti-syriza-stis-85-monades-i-diafora |language=el |website=Skai |date=9 June 2022}}</ref><ref>{{cite web |title=Pulse RC. 6 - 8 Ιουνίου 2022 |url=https://www.skai.gr/sites/default/files/attachments/2022-06/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97090622.pdf |language=el |work=Pulse RC |date=9 June 2022}}</ref>
+| 6–8 Jun 2022
+| 1,206
+| {{Party shading/ND}}| '''36.0'''
+| 27.0
+| 15.0
+| 6.0
+| 5.0
+| 3.0
+| –
+| 2.0
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.0
 |-
 | ProRata/Efimerida ton Sintakton<ref>{{cite web |title=Το πολύτιμο για την κυβέρνηση οξυγόνο και η πεισματάρα πραγματικότητα |url=https://www.efsyn.gr/politiki/346778_polytimo-gia-tin-kybernisi-oxygono-kai-i-peismatara-pragmatikotita |language=el |work=Efsyn |date=4 June 2022}}</ref>
 | 30 May–1 Jun 2022
@@ -62,11 +737,26 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.5
 | –
 | 1.5
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 7.0
 |-
-| Interview/Politic<ref>{{cite web |title=Δημοσκόπηση: Με 9,7% προηγείται η ΝΔ έναντι του ΣΥΡΙΖΑ- Ανοίγει η «ψαλίδα» |url=https://www.skai.gr/news/politics/dimoskopisi-me-97-proigeitai-i-nd-enanti-tou-syriza-anoigei-i-psalida |language=el |work=Skai |date=2 June 2022}}</ref>
-| 30 May–1 Jun 2022
-| 1,000
+| Kapa Research/iEfimerida<ref>{{cite web |title=Δημοσκόπηση ΚΑΠΑ Research: Προβάδισμα 8,1% της ΝΔ έναντι του ΣΥΡΙΖΑ -Ανεβαίνει στο 8,6% σε δεύτερες εκλογές |url=https://www.iefimerida.gr/politiki/dimoskopisi-kapa-research-probadisma-81-tis-nd |language=el |website=iefimerida.gr |date=6 June 2022}}</ref>
+| 27 May–1 Jun 2022
+| 1,004
+| {{Party shading/ND}}| '''37.6'''
+| 28.1
+| 14.1
+| 7.2
+| 4.7
+| 3.3
+| –
+| 1.4
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.5
+|-
+| Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση: Με 9,7% προηγείται η ΝΔ έναντι του ΣΥΡΙΖΑ- Ανοίγει η «ψαλίδα» |url=https://www.skai.gr/news/politics/dimoskopisi-me-97-proigeitai-i-nd-enanti-tou-syriza-anoigei-i-psalida |language=el |work=Skai |date=2 June 2022}}</ref>
+| 24–31 May 2022
+| 1,485
 | {{Party shading/ND}}| '''35.3'''
 | 24.5
 | 14.5
@@ -75,9 +765,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.3
 | –
 | 1.6
+| 1.8
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.8
 |-
-| Alco/Open<ref>{{Cite web |date=2022-05-30 |title=Δημοσκόπηση Alco: Στο 31,1% η εκτίμηση ψήφου για τη Νέα Δημοκρατία, στις 8,5 μονάδες η διαφορά με τον ΣΥΡΙΖΑ |url=https://www.protothema.gr/politics/article/1248936/dimoskopisi/ |access-date=2022-05-31 |website=ProtoThema |language=el}}</ref>
+| Alco/Open<ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΜΑΙΟΣ 2022 |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%BC%CE%B1%CE%B9%CE%BF%CF%83-2022 |language=el |work=Alco |date=30 May 2022}}</ref>
 | 23–28 May 2022
 | 1,000
 | {{Party shading/ND}}| '''35.5'''
@@ -88,11 +779,12 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.0
 | –
 | 2.5
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.7
 |-
-| Metron Analysis/Mega<ref>{{Cite web |date=2022-05-25 |title=Δημοσκόπηση Metron Analysis: Στο 8,2% το προβάδισμα της ΝΔ έναντι του ΣΥΡΙΖΑ |url=https://antinews.gr/δημοσκόπηση-metron-analysis-στο-82-το-προβάδισμα-της/ |access-date=2022-05-25 |website=antinews.gr |language=en-US}}</ref>
-| 17–23 May 2022
-| 1,000
+| Metron Analysis/Mega<ref>{{cite web |title=Δημοσκόπηση Metron Analysis: Στο 8,2% το προβάδισμα της ΝΔ έναντι του ΣΥΡΙΖΑ |url=https://www.capital.gr/politiki/3636548/dimoskopisi-metron-analysis-sto-8-2-to-probadisma-tis-nd-enanti-tou-suriza |language=el |work=Capital.gr |date=25 May 2022}}</ref>
+| 16–23 May 2022
+| 1,300
 | {{Party shading/ND}}| '''36.1'''
 | 25.7
 | 15.0
@@ -101,6 +793,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.7
 | –
 | 2.8
+| 1.3
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.4
 |-
 | Marc/ANT1<ref>{{cite web |title=Δημοσκόπηση ΑΝΤ1: η πρόθεση ψήφου, οι εκλογές και οι μεγάλες ανησυχίες (βίντεο) |url=https://www.ant1news.gr/eidiseis/article/636806/dimoskopisi-ant1-i-prothesi-psifoy-oi-ekloges-kai-oi-megales-anisyxies-binteo- |language=el |work=ANT1 |date=24 May 2022}}</ref>
@@ -114,6 +807,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.2
 | –
 | 2.3
+| 1.3
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.5
 |-
 | GPO/Ta Nea<ref>{{cite web |title=Δημοσκόπηση GPO: Στο 8,9% η διαφορά ΝΔ με ΣΥΡΙΖΑ – Ο Ανδρουλάκης μπροστά από τον Τσίπρα στη δημοφιλία |url=https://www.tanea.gr/2022/05/23/politics/dimoskopisi-gpo-sto-89-i-diafora-nd-me-syriza-o-androulakis-mprosta-apo-ton-tsipra-sti-dimofilia/ |language=el |work=Ta Nea |date=23 May 2022}}</ref>
@@ -127,6 +821,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.7
 | –
 | 2.1
+| 1.4
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.4
 |-
 | MRB/Star<ref>{{cite web |title=Δημοσκόπηση MRB: Στο 8,9% η διαφορά ΝΔ από ΣΥΡΙΖΑ -Σαρωτικό προβάδισμα στην παράσταση νίκης |url=https://www.iefimerida.gr/politiki/dimoskopisi-mrb-89-diafora-nd-syriza |language=el |work=iefimerida |date=20 May 2022}}</ref>
@@ -140,6 +835,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.6
 | –
 | 2.8
+| 1.6
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.9
 |-
 | Opinion Poll/To Manifesto<ref>{{cite web |title=Δημοσκόπηση Opinion Poll για το tomanifesto: Πολιτική κυριαρχία Μητσοτάκη και ΝΔ – Στις 10 μονάδες η διαφορά |url=https://tomanifesto.gr/dimoskopisi-opinion-poll-politiki-kyriarchia-mitsotaki-kai-nd-stis-10-monades-i-diafora/ |language=el |work=To Manifesto |date=17 May 2022}}</ref>
@@ -153,6 +849,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.0
 | –
 | 1.7
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.1
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: Στις 8,5 ποσοστιαίες μονάδες το προβάδισμα της ΝΔ από τον ΣΥΡΙΖΑ |url=https://www.skai.gr/news/politics/dimoskopisi-skai-stis-85-posostiaies-monades-to-provadisma-tis-nd-apo-ton-syriza |language=el |work=Skai |date=12 May 2022}}</ref><ref>{{cite web |title=Pulse RC. 9 - 11 Μαΐου 2022 |url=https://www.skai.gr/sites/default/files/attachments/2022-05/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97120522.pdf |language=el |work=Pulse RC |date=12 May 2022}}</ref>
@@ -166,6 +863,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.0
 | –
 | 2.0
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.0
 |-
 | Marc/Proto Thema<ref>{{cite web |title=Γκάλοπ της Marc για το «ΘΕΜΑ»: Στο 10,3% το προβάδισμα της ΝΔ |url=https://www.protothema.gr/politics/article/1243566/galop-tis-marc-gia-to-thema-sto-103-to-provadisma-tis-nd/ |language=el |work=Proto Thema |date=15 May 2022}}</ref>
@@ -179,7 +877,22 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | 2.4
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.6
+|-
+| Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview για την POLITIC: Προβάδισμα 8,8% της ΝΔ – Ο ΣΥΡΙΖΑ θα αντιμετώπιζε χειρότερα την ακρίβεια, λέει το 43% |url=https://politic.gr/politiki/dimoskopisi-interview-gia-tin-politic-provadisma-88-tis-nd-o-syriza-tha-antimetopize-cheirotera-tin-akriveia-leei-to-43/ |language=el |work=Politic.gr |date=10 May 2022}}</ref>
+| 4–9 May 2022
+| 1,485
+| {{Party shading/ND}}| '''34.9'''
+| 25.0
+| 14.1
+| 6.0
+| 6.2
+| 3.8
+| –
+| 1.8
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.1
 |-
 | RealPolls/Dimokratia<ref>{{cite web |title=Δημοσκόπηση RealPolls: Στο 5% η διαφορά ΝΔ-ΣΥΡΙΖΑ |url=https://www.dimokratia.gr/politiki/545753/dimoskopisi-kolafos-tis-realpolls-se-eleytheri-ptosi-ola-ta-kommata/ |language=el |work=Dimokratia |date=12 May 2022}}</ref>
 | 6–8 May 2022
@@ -192,11 +905,12 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.2
 | 1.1
 | 2.9
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 6.2
 |-
 | GPO/Powergame.gr<ref>{{cite web |title=GPO: Προβάδισμα 8% της ΝΔ έναντι του ΣΥΡΙΖΑ με φόντο πόλεμο και ακρίβεια |url=https://www.powergame.gr/ellada/243947/gpo-provadisma-8-tis-nd-enanti-tou-syriza-me-fonto-polemo-kai-akriveia/ |language=el |work=Powergame.gr |date=10 May 2022}}</ref>
 | 4–7 May 2022
-| 1,000
+| 1,200
 | {{Party shading/ND}}| '''36.1'''
 | 26.7
 | 14.8
@@ -205,6 +919,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.8
 | –
 | 2.2
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.4
 |-
 | Alco/Open<ref>{{cite web |title=Δημοσκόπηση Alco: Μπροστά η Νέα Δημοκρατία με τον ΣΥΡΙΖΑ να μειώνει τη διαφορά |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%B1%CF%80%CF%81%CE%B9%CE%BB%CE%B9%CE%BF%CF%83-2022 |language=el |work=Alco |date=3 May 2022}}</ref>
@@ -218,10 +933,11 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | 2.1
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.4
 |-
 | Data Consultants/Peloponnese<ref>{{cite web |title=Δημοσκόπηση: Σε μονοψήφιο ποσοστό η διαφορά ΝΔ – ΣΥΡΙΖΑ - Τι γίνεται με το ΚΙΝΑΛ |url=https://www.in.gr/2022/04/19/politics/dimoskopisi-se-monopsifio-pososto-diafora-nd-syriza-ti-ginetai-kinal/ |language=el |work=in.gr |date=19 April 2022}}</ref>
-| 28 Μar–15 Apr 2022
+| 28 Mar–15 Apr 2022
 | 1,026
 | {{Party shading/ND}}| '''36.0'''
 | 28.9
@@ -231,6 +947,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.0
 | –
 | 1.3
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 7.1
 |-
 | ProRata/Efimerida ton Sintakton<ref>{{cite web |title=Δημοσκόπηση Prorata: Μειώνεται η διαφορά ΝΔ με ΣΥΡΙΖΑ |url=https://www.tanea.gr/2022/04/13/politics/dimoskopisi-prorata-meionetai-i-diafora-nd-me-syriza/|language=el |work=Τa Nea |date=13 April 2022}}</ref>
@@ -244,6 +961,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.5
 | –
 | 2.5
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 6.5
 |-
 | Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview για την POLITIC: Στις 9 μονάδες η διαφορά ΝΔ – ΣΥΡΙΖΑ – Μείωση ΦΠΑ σε ενέργεια ζητά η συντριπτική πλειοψηφία
@@ -258,20 +976,8 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.4
 | –
 | 1.6
-| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.9
-|-
-| Opinion Poll/Mononews.gr<ref>{{cite web |title=Δημοσκόπηση Opinion Poll: Προβάδισμα 8,9 μονάδων έχει η ΝΔ έναντι του ΣΥΡΙΖΑ |url=https://www.iefimerida.gr/politiki/dimoskopisi-opinion-poll-probadisma-89-monadon-ehei-i-nd-enanti-toy-syriza |language=el |work=iefimerida |date=4 April 2022}}</ref>
-| 1–3 Αpr 2022
-| 2,000
-| {{Party shading/ND}}| '''36.8'''
-| 25.9
-| 15.4
-| 5.1
-| 5.7
-| 3.5
 | –
-| 2.7
-| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.9
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.9
 |-
 | RealPolls/Dimokratia<ref>{{cite web |title=Δημοσκόπηση RealPolls: Καθολική αποδοκιμασία της κυβέρνησης |url=https://www.dimokratia.gr/politiki/544477/dimoskopisi-realpolls-katholiki-apodokimasia-tis-kyvernisis/ |language=el |work=Dimokratia |date=7 April 2022}}</ref>
 | 30 Mar–2 Apr 2022
@@ -284,7 +990,22 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.4
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 5.4
+|-
+| Opinion Poll/Mononews.gr<ref>{{cite web |title=Δημοσκόπηση Opinion Poll: Προβάδισμα 8,9 μονάδων έχει η ΝΔ έναντι του ΣΥΡΙΖΑ |url=https://www.iefimerida.gr/politiki/dimoskopisi-opinion-poll-probadisma-89-monadon-ehei-i-nd-enanti-toy-syriza |language=el |work=iefimerida |date=4 April 2022}}</ref>
+| 30 Mar–1 Apr 2022
+| 1,001
+| {{Party shading/ND}}| '''36.8'''
+| 25.9
+| 15.4
+| 5.1
+| 5.7
+| 3.5
+| –
+| 2.7
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.9
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: Στις 8,5 ποσοστιαίες μονάδες το προβάδισμα της ΝΔ από τον ΣΥΡΙΖΑ - Εκλογές στο τέλος της 4ετίας θέλουν οι πολίτες |url=https://www.skai.gr/news/politics/dimoskopisi-skai-stis-85-posostiaies-monades-to-provadisma-tis-nd-apo-ton-syriza-ekloges |language=el |work=Skai |date=31 March 2022}}</ref><ref>{{cite web |title=Pulse RC. 27 - 29 Μαρτίου 2022 |url=https://www.skai.gr/sites/default/files/attachments/2022-03/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97310322.pdf |language=el |work=Pulse RC |date=31 March 2022}}</ref>
 | 27–29 Mar 2022
@@ -297,6 +1018,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | 2.0
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.5
 |-
 | Alco/Open<ref>{{cite web |title=Δημοσκόπηση ALCO: Στις 8,9 μονάδες το προβάδισμα ΝΔ, 13 μονάδες μπροστά ο Μητσοτάκης |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%BC%CE%B1%CF%81%CF%84%CE%B9%CE%BF%CF%83-2022 |language=el |work=Alco |date=29 March 2022}}</ref>
@@ -310,6 +1032,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.3
 | –
 | 2.1
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.3
 |-
 | MRB/Star<ref>{{cite web |title=Δημοσκόπηση MRB: Στο 7,4% η διαφορά ΝΔ-ΣΥΡΙΖΑ - Την «έδιναν» στο 11% τον Δεκέμβριο |url=https://www.pronews.gr/elliniki-politiki/dimoskopiseis/dimoskopisi-mrb-sto-74-i-diafora-nd-syriza-tin-edinan-sto-11-ton-dekemvrio/|language=el  |work=Pronews.gr |date=30 March 2022}}</ref>
@@ -323,6 +1046,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.8
 | –
 | 2.6
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.0
 |-
 | Metron Analysis/Mega<ref>{{cite web |title=Δημοσκόπηση - βόμβα: Μειώνεται η ψαλίδα, πρόβλημα για την κυβέρνηση η οικονομία |url=https://www.in.gr/2022/03/23/politics/kommata/dimoskopisi-mega-pligma-gia-tin-kyvernisi-pagomenos-syriza-ypoxorisi-kinal/ |language=el |work=in.gr |date=23 March 2022}}</ref>
@@ -336,6 +1060,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.4
 | –
 | 2.9
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.5
 |-
 | Marc/ANT1<ref>{{cite web |title=Δημοσκόπηση Marc: Οι Έλληνες ανησυχούν για ακρίβεια και πόλεμο, στις 9,3 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ |url=https://www.protothema.gr/politics/article/1224930/dimoskopisi/ |language=el |work=Proto Thema |date=22 March 2022}}</ref>
@@ -349,6 +1074,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.4
 | –
 | 2.5
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.7
 |-
 | ProRata/Efimerida ton Sintakton<ref>{{cite web |title=Δημοσκόπηση: Ο πόλεμος αλλάζει προτεραιότητες και πολιτικές ισορροπίες - Τρόμος για την ακρίβεια |url=https://www.in.gr/2022/03/19/politics/dimoskopisi-o-polemos-allazei-tis-proteraiotites-kai-politikes-isorropies-tromos-gia-tin-akriveia/ |language=el |work=in.gr |date=19 March 2022}}</ref>
@@ -360,6 +1086,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.0
 | 4.0
 | 2.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.0
@@ -375,6 +1102,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.7
 | –
 | 2.0
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.3
 |-
 | Marc/Proto Thema<ref>{{cite web |title=Δημοσκόπηση Marc για το "ΘΕΜΑ": Μπροστά με 11,3 μονάδες η N.Δ. |url=https://www.protothema.gr/greece/article/1221680/dimoskopisi-marc-gia-to-thema-brosta-me-113-monades-i-nd/ |language=el |work=Proto Thema |date=12 March 2022}}</ref>
@@ -388,6 +1116,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.8
 | –
 | 2.2
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 13.0
 |-
 | Abacus/Alpha TV<ref>{{cite web |title=Δημοσκόπηση: Διψήφιο προβάδισμα ΝΔ έναντι ΣΥΡΙΖΑ – Τι πιστεύουν οι Έλληνες για τον πόλεμο στην Ουκρανία |url=https://www.skai.gr/news/politics/dimoskopisi-dipsifio-provadisma-nd-enanti-syriza-ti-pisteyoun-oi-ellines-gia-ton-polemo |language=el |work=Skai |date=10 March 2022}}</ref><ref>{{cite web |title=Δημοσκόπηση Abacus: Στο 11% η διαφορά ΝΔ με ΣΥΡΙΖΑ - Ξεπέρασε τον Τσίπρα ο Ανδρουλάκης |url=https://www.capital.gr/politiki/3620480/dimoskopisi-abacus-sto-11-i-diafora-nd-me-suriza-xeperase-ton-tsipra-o-androulakis |language=el |work=Capital.gr |date=10 March 2022}}</ref>
@@ -401,11 +1130,12 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.5–<br/>3.0
 | –
 | 2.5–<br/>3.0
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.0
 |-
 | Interview/Ρolitic.gr<ref>{{cite web |title=Ανοίγει ξανά η "ψαλίδα": Στις 12 μονάδες η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ - "Ανεβαίνει" το ΚΙΝΑΛ |url=https://www.in.gr/2022/03/08/politics/kommata/dimoskopisi-sto-12-psalida-metaksy-nd-kai-syriza-entyposiaki-anodos-gia-kinal/ |language=el |work=in.gr |date=8 March 2022}}</ref>
-| 3–7 Mar 2022
-| 1,000
+| 2–6 Mar 2022
+| 1,405
 | {{Party shading/ND}}| '''36.5'''
 | 23.4
 | 17.4
@@ -414,6 +1144,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | 2.2
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 13.1
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: Στις 10 μονάδες η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ |url=https://www.skai.gr/news/politics/dimoskopisi-skai-stis-9-posostiaies-monades-to-provadisma-tis-nd-apo-ton-syriza |language=el |work=Skai |date=28 February 2022}}</ref><ref>{{cite web |title=Pulse RC. 25 - 28 Φεβρουαρίου 2022 |url=https://www.skai.gr/sites/default/files/attachments/2022-02/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97280221.pdf |language=el |work=Pulse RC |date=28 February 2022}}</ref>
@@ -427,6 +1158,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | 2.0
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.0
 |-
 | RealPolls/Dimokratia<ref>{{cite web |title=Νέα δημοσκόπηση "φωτιά": Τα ποσοστά των κομμάτων & η γνώμη του κόσμου |url=https://www.newsbreak.gr/politiki/302078/dimoskopisi-realpolls-ragdaia-fthora-kyvernisis/ |language=el |work=NewsBreak |date=25 February 2022}}</ref>
@@ -440,6 +1172,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.8
 | 1.0
 | 1.3
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.2
 |-
 | Alco/Open<ref>{{cite web |title=Δημοσκόπηση Alco: Στο 9,6% η διαφορά ΝΔ-ΣΥΡΙΖΑ -Δεν αρκούν τα μέτρα για την ακρίβεια |url=https://www.iefimerida.gr/ellada/dimoskopisi-alco-nd-syriza-diafora-96 |language=el |work=iefimerida |date=21 February 2022}}</ref>
@@ -453,6 +1186,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | 2.5
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.2
 |-
 | Αbout People/Eteron<ref>{{cite web |title=Στο 12,3% η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ |url=https://www.protothema.gr/politics/article/1214229/ereuna-institoutou-eteron-sto-123-i-diafora-tis-nd-apo-ton-suriza/ |language=el |work=Proto Thema |date=21 February 2022}}</ref>
@@ -464,6 +1198,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 7.5
 | 3.6
 | 4.3
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.7
@@ -479,11 +1214,12 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.3
 | –
 | 2.2
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.5
 |-
 | Marc/ANT1<ref>{{cite web |title=Δημοσκόπηση: Πρώτο το ΚΙΝΑΛ στους κεντρώους ψηφοφόρους - Ποια είναι η διαφορά ΝΔ και ΣΥΡΙΖΑ |url=https://www.in.gr/2022/02/15/politics/dimoskopisi-marc-stis-105-monades-diafora-tis-nd-apo-ton-syriza/ |language=el |work=in.gr |date=15 February 2022}}</ref>
 | 8–12 Feb 2022
-| 1,000
+| 1,037
 | {{Party shading/ND}}| '''37.3'''
 | 24.9
 | 17.3
@@ -492,6 +1228,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.0
 | –
 | 2.0
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.4
 |-
 | Opinion Poll/To Manifesto<ref>{{cite web |title=Opinion Poll: Προβάδισμα 11,7% για τη ΝΔ, όχι στις πρόωρες εκλογές, δυσαρέσκεια για την ακρίβεια |url=https://www.protothema.gr/politics/article/1211622/opinion-poll-provadisma-117-gia-ti-nd-ohi-stis-proores-ekloges-dusareskeia-gia-tin-akriveia/ |language=el |work=Proto Thema |date=14 February 2022}}</ref>
@@ -505,12 +1242,13 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.2
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 14.4
 |-
 | GPO/Powergame.gr<ref>{{cite web |title=Έρευνα GPO: Προβάδισμα με απώλειες για την κυβέρνηση – Στο 9,2% η διαφορά με τον ΣΥΡΙΖΑ |url=https://www.powergame.gr/politiki/196781/erevna-gpo-provadisma-me-apoleies-gia-tin-kyvernisi-92-i-diafora-me-ton-syriza/ |language=el |work=Powergame.gr |date=5 February 2022}}</ref>
 | 31 Jan–3 Feb 2022
 | 1,000
-| {{Party shading/ND}}]| '''36.2'''
+| {{Party shading/ND}}| '''36.2'''
 | 25.5
 | 16.7
 | 7.2
@@ -518,17 +1256,19 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | 2.0
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 10.7 
 |-
 | ProRata/Efimerida ton Sintakton<ref>{{cite web |title=Η συγγνώμη θάφτηκε στο χιόνι |url=https://www.efsyn.gr/politiki/330490_i-syggnomi-thaftike-sto-hioni |language=el |work=Efsyn |date=3 February 2022}}</ref>
 | 28–31 Jan 2022
 | 1,000
-| {{Party shading/ND}}]| '''37.0'''
+| {{Party shading/ND}}| '''37.0'''
 | 29.0
 | 15.0
 | 6.0
 | 4.0
 | 2.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.0
@@ -544,6 +1284,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | 1.5
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.0
 |-
 | Abacus/Alpha TV<ref>{{cite web |title=Γκάλοπ στον Alpha TV: Μπροστά με 14,5 μονάδες η ΝΔ από τον ΣΥΡΙΖΑ, στα ίσια το ΚΙΝΑΛ για την δεύτερη θέση |url=https://www.protothema.gr/politics/article/1205333/galop/ |language=el |work=Proto Thema |date=26 January 2022}}</ref>
@@ -555,6 +1296,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.5–<br/>7.5
 | 2.0–<br/>2.5
 | 2.0–<br/>2.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 16.0
@@ -570,6 +1312,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.1
 | –
 | 1.9
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 13.5
 |-
 | Metron Analysis/Mega<ref>{{cite web |title=Δημοσκόπηση Mega – Κυριαρχία ΝΔ με γρατζουνιές – Αδύναμος ΣΥΡΙΖΑ, μεγάλη άνοδος ΚΙΝΑΛ |url=https://www.megatv.com/2022/01/20/dimoskopisi-mega-kyriarxia-nd-me-gratzounies-adynamos-syriza-megali-anodos-kinal/ |language=el |work=Mega |date=20 January 2022}}</ref>
@@ -583,10 +1326,11 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.1
 | –
 | 1.9
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.8
 |-
 | ProRata/iEidiseis<ref>{{cite web |title=ΔΗΜΟΣΚΟΠΗΣΗ PRORATA για iEidiseis: Ακρίβεια και πανδημία αλλάζουν το πολιτικό σκηνικό - Στις 7 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ |url=https://www.ieidiseis.gr/politiki/127808/dimoskopisi-prorata-gia-ieidiseis-akriveia-kai-pandimia-allazoun-to-politiko-skiniko |language=el |work=iEidiseis |date=19 January 2021}}</ref>
-| 12–14 Jan 2022
+| 14–16 Jan 2022
 | 1,000
 | {{Party shading/ND}}| '''37.5'''
 | 29.5
@@ -594,6 +1338,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.0
 | 4.0
 | 2.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.0
@@ -609,6 +1354,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.7
 | –
 | 1.7
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.4
 |-
 | Alco/Open<ref>{{cite web |title=ΟPEN ΕΡΕΥΝΑ ΔΕΚΕΜΒΡΙΟΣ 2021 |url=http://www.alcopolls.gr/portfolio/%CE%BFpen-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%B4%CE%B5%CE%BA%CE%B5%CE%BC%CE%B2%CF%81%CE%B9%CE%BF%CF%83-2021 |language=el |work=Alco |date=20 December 2021}}</ref>
@@ -622,6 +1368,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.0
 | 2.4
 | 1.1
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 13.1
 |-
 | GPO/Powergame.gr<ref>{{cite web |title=GPO: Διψήφια διαφορά ΝΔ – ΣΥΡΙΖΑ με άνοδο του ΚΙΝΑΛ |url=https://www.powergame.gr/ellada/175304/gpo-dipsifia-diafora-nd-syriza-me-anodo-tou-kinal/ |language=el |work=Powergame.gr |date=21 December 2021}}</ref>
@@ -634,6 +1381,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.5
 | 3.4
 | –
+| 1.2
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.6
 |-
@@ -648,6 +1396,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.5
 | –
 | 1.5
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 16.1
 |-
 | ProRata/Efimerida ton Sintakton<ref>{{cite web |title=Δημοσκόπηση Prorata – Στις 8 μονάδες η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ |url=https://www.in.gr/2021/12/17/politics/kommata/dimoskopisi-prorata-stis-8-monades-diafora-tis-nd-apo-ton-syriza/ |language=el |work=in.gr |date=17 December 2021}}</ref><ref>{{cite web |title=ΣΦΥΓΜΟΣ ΔΕΚΕΜΒΡΙΟΥ 2021. Έρευνα Πολιτικών - Εκλογικών Στάσεων και Συμπεριφοράς |url=https://www.voria.gr/elfinder/untitled%20folder/%CE%A3%CE%A6%CE%A5%CE%93%CE%9C%CE%9F%CE%A3-%CE%94%CE%95%CE%9A%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A5-2021.pdf |language=el |work=ProRata |date=17 December 2021}}</ref>
@@ -659,6 +1408,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.0
 | 4.0
 | 2.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.5
@@ -673,6 +1423,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.5
 | 3.6
 | –
+| 1.2
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.3
 |-
@@ -687,9 +1438,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.3
 | –
 | 1.9
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 13.5
 |-
-| Kapa Research<ref>{{cite web |title=Μεγάλη δημοσκόπηση - Τι φέρνει στα κόμματα η νίκη Ανδρουλάκη - Ποια η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ |url=https://www.tanea.gr/2021/12/15/politics/parliament/dimoskopisi-anatropi-me-tin-eklogi-androulaki-paramenei-dipsifia-i-diafora-nd-syriza/ |language=el |work=Ta Nea |date=15 December 2021}}</ref>
+| Kapa Research/iEfimerida<ref>{{cite web |title=Μεγάλη δημοσκόπηση - Τι φέρνει στα κόμματα η νίκη Ανδρουλάκη - Ποια η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ |url=https://www.tanea.gr/2021/12/15/politics/parliament/dimoskopisi-anatropi-me-tin-eklogi-androulaki-paramenei-dipsifia-i-diafora-nd-syriza/ |language=el |work=Ta Nea |date=15 December 2021}}</ref>
 | 13–14 Dec 2021
 | 1,003
 | {{Party shading/ND}}| '''39.3'''
@@ -698,6 +1450,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 7.0
 | 4.3
 | 3.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.0
@@ -713,6 +1466,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.7
 | –
 | 2.3
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.3
 |-
 | GPO/Parapolitika<ref>{{cite web |title=Δημοσκόπηση GPO: Προβάδισμα 10,7 μονάδων για τη ΝΔ έναντι ΣΥΡΙΖΑ - Μάχη για τρεις στο ΚΙΝΑΛ |url=https://www.capital.gr/politiki/3598085/dimoskopisi-gpo-probadisma-10-7-monadon-gia-ti-nd-enanti-suriza-maxi-gia-treis-sto-kinal |language=el |work=Capital.gr |date=28 November 2021}}</ref>
@@ -726,6 +1480,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | 1.8
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.6
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 11 μονάδες η ψαλίδα ΝΔ-ΣΥΡΙΖΑ- Ανησυχία για στάση Τουρκίας |url=https://www.skai.gr/news/politics/dimoskopisi-skai-11-monades-i-psalida-nd-syriza-anisyxia-gia-stasi-tourkias |language=el |work=Skai |date=25 November 2021}}</ref><ref>{{cite web |title=Pulse RC. 22 - 25 Νοεμβρίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-11/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20%CE%9D%CE%9F%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A5%20%CE%A3%CE%9A%CE%91%CE%AA.pdf |language=el |work=Pulse RC |date=25 November 2021}}</ref>
@@ -739,6 +1494,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | 1.5
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.0
 |-
 | Metron Analysis/Mega<ref>{{cite web |title=Δημοσκόπηση Metron Analysis – Ηχηρά μηνύματα σε ΝΔ και ΣΥΡΙΖΑ – Μεγάλη η διαφορά των δύο κομμάτων |url=https://www.tovima.gr/2021/11/25/politics/dimoskopisi-metron-analysis-ixira-minymata-se-nd-kai-syriza-megali-i-diafora-ton-dyo/ |language=el |work=To Vima |date=25 November 2021}}</ref><ref name="MetronNov21">{{cite web |title=συνδρομητική έρευνα Νοέμβριος 2021. Συντάχθηκε για το MEGA |url=https://www.tovima.gr/wp-content/uploads/2021/11/25/MetronForum2.0_%CE%9Dov21_Mega.pdf |language=el |work=To Vima |date=25 November 2021}}</ref>
@@ -752,6 +1508,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.4
 | –
 | 1.6
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 15.2
 |-
 | Alco/Open<ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΝΟΕΜΒΡΙΟΣ 2021 |url=http://www.alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%BD%CE%BF%CE%B5%CE%BC%CE%B2%CF%81%CE%B9%CE%BF%CF%83-2021 |language=el |work=Alco |date=22 November 2021}}</ref>
@@ -765,6 +1522,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.6
 | 1.9
 | 1.9
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.1
 |-
 | Marc/Proto Thema<ref>{{cite web |title=Γκάλοπ Marc για το ΘΕΜΑ: 11,9 μονάδες μπροστά η ΝΔ |url=https://www.protothema.gr/politics/article/1184075/galop-marc-gia-to-thema-119-monades-brosta-i-nd/ |language=el |work=Proto Thema |date=22 November 2021}}</ref>
@@ -778,6 +1536,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.8
 | –
 | 1.4
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 14.6
 |-
 | MRB/Star<ref>{{cite web |title=Δημοσκόπηση MRB: Προβάδισμα 11,6% της ΝΔ, στο 11% το ΚΙΝΑΛ -Ντέρμπι μεταξύ Λοβέρδου, Ανδρουλάκη, Παπανδρέου |url=https://www.iefimerida.gr/politiki/dimoskopisi-mrb-probadisma-116-nd-11-kinal-ntermpi-loberdoy-androylaki-papandreoy |language=el |work=iefimerida |date=18 November 2021}}</ref>
@@ -791,6 +1550,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.4
 | 1.2
 | 2.4
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.6
 |-
 | Marc/ANT1<ref>{{cite web |title=Δημοσκόπηση Marc: Προβάδισμα 12,5% της ΝΔ -Σκληρή μάχη για την ηγεσία του ΚΙΝΑΛ |url=https://www.iefimerida.gr/politiki/dimoskopisi-marc-probadisma-125-nd-igesia-kinal |language=el |work=iefimerida |date=15 November 2021}}</ref>
@@ -802,6 +1562,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 7.2
 | 5.3
 | 3.6
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 15.5
@@ -817,6 +1578,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.3
 | 1.6
 | 1.8
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.8
 |-
 | Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview για την politic.gr: Στις 12 ποσοστιαίες μονάδες η διαφορά ΝΔ – ΣΥΡΙΖΑ – Άνοδος ποσοστών του ΚΙΝΑΛ |url=https://politic.gr/politiki/dimoskopisi-interview-gia-tin-politic-gr-stis-12-posostiaies-monades-i-diafora-nd-syriza-anodos-pososton-tou-kinal/ |language=el |work=Politic.gr |access-date=10 November 2021}}</ref>
@@ -828,6 +1590,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.1
 | 5.9
 | 3.4
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.6
@@ -843,6 +1606,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.4
 | –
 | 2.1
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.9
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Pulse RC. 22 - 25 Οκτωβρίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-11/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20021121.pdf |language=el |work=Pulse RC |date=2 November 2021}}</ref>
@@ -856,6 +1620,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | 1.5
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 13.0
 |-
 | Opinion Poll/Mononews.gr<ref>{{cite web |title=Μεγάλη δημοσκόπηση της Opinion Poll για το mononews: Σταθερά κυρίαρχος ο Μητσοτάκης, 29 μονάδες μπροστά από τον Τσίπρα - 13,3 μονάδες η διαφορά ΝΔ-ΣΥΡΙΖΑ - Βασικό κριτήριο ψήφου η οικονομία |url=https://www.mononews.gr/politics/megali-dimoskopisi-tis-opinion-poll-gia-to-mononews-stathera-kiriarchos-o-mitsotakis-29-brosta-apo-ton-tsipra-133-monades-i-diafora-nd-siriza-vasiko-kritirio-psifou-i-ikonomia |language=el |work=mononews.gr |date=21 October 2021}}</ref>
@@ -869,6 +1634,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.8
 | –
 | 1.6
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 16.4
 |-
 | Alco/Open<ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΟΚΤΩΒΡΙΟΣ 2021 |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%BF%CE%BA%CF%84%CF%89%CE%B2%CF%81%CE%B9%CE%BF%CF%83-2021 |language=el |work=Alco |date=18 October 2021}}</ref>
@@ -882,6 +1648,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.7
 | –
 | 1.5
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.4
 |-
 | Interview/Political<ref>{{cite web |title=Έρευνα για λογαριασμό της εφημερίδας POLITICAL, με επίκαιρα θέματα, πρόθεση ψήφου και αξιολόγηση υπουργών |url=https://www.interview.com.gr/wp-content/uploads/2021/10/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_POLITICAL_%CE%9F%CE%9A%CE%A4_2021.pdf |language=el |work=Interview |date=16 October 2021}}</ref>
@@ -893,6 +1660,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.2
 | 5.4
 | 4.4
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 14.8
@@ -908,6 +1676,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.5
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.5
 |-
 | Marc/ANT1<ref>{{cite web |title=Η δημοσκόπηση της MARC για τον ΑΝΤ1: Η πρόθεση ψήφου - Τι λένε οι πολίτες για αμυντική συμφωνία και διαγραφή Μπογδάνου |url=https://www.enikos.gr/politics/i-dimoskopisi-tis-marc-gia-ton-ant1-i-prothesi-psifou-ti-lene-oi-polites-gia-amyntiki-symfonia-kai-diagrafi-bogdanou/1687443/ |language=el |work=Enikos |date=11 October 2021}}</ref>
@@ -919,6 +1688,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.5
 | 5.5
 | 3.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 13.5
@@ -934,6 +1704,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.4
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.7
 |-
 | Metron Analysis/Mega<ref>{{cite web |title=Δημοσκόπηση στο MEGA – Μεγάλη διαφορά ΝΔ -ΣΥΡΙΖΑ, οικονομία, ακρίβεια & πανδημία ανησυχούν τους πολίτες |url=https://www.in.gr/2021/09/30/politics/dimoskopisi-sto-mega-megali-diafora-nd-syriza-oikonomia-akriveia-pandimia-anisyxoun-tous-polites/ |language=el |work=politic.gr |date=30 September 2021}}</ref>
@@ -947,6 +1718,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.5
 | –
 | 1.8
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 14.8
 |-
 | GPO/Powergame.gr<ref>{{cite web |title=GPO: Διψήφια διαφορά μεταξύ ΝΔ και ΣΥΡΙΖΑ στην πρόθεση ψήφου |url=https://www.powergame.gr/ellada/132836/gpo-dipsifia-diafora-metaxy-nd-kai-syriza-stin-prothesi-psifou/ |language=el |work=Powergame.gr |date=28 September 2021}}</ref>
@@ -960,6 +1732,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.4
 | –
 | 1.9
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.0
 |-
 | Marc/Proto Thema<ref>{{cite web |title=Γκάλοπ MARC για το "ΘΕΜΑ": Στις 11,4 μονάδες η διαφορά της ΝΔ με τον ΣΥΡΙΖΑ |url=https://www.protothema.gr/greece/article/1165182/galop-marc-gia-to-thema-sto-114-i-diafora-tis-nd-me-ton-suriza/ |language=el |work=Proto Thema |date=27 September 2021}}</ref>
@@ -971,6 +1744,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.7
 | 5.5
 | 3.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 14.0
@@ -986,6 +1760,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.2
 | 1.2
 | 2.1
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.0
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 11,5% η διαφορά ΝΔ–ΣΥΡΙΖΑ – Η αξιολόγηση Μητσοτάκη - Τσίπρα στη ΔΕΘ |url=https://www.skai.gr/news/politics/dimoskopisi-skai-115-i-diafora-ndsyriza-i-aksiologisi-mitsotaki-tsipra-sti-deth |language=el |work=Skai |date=22 September 2021}}</ref>
@@ -999,6 +1774,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | 1.5
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.5
 |-
 | Alco/Open<ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΣΕΠΤΕΜΒΡΙΟΣ 2021 |url=http://www.alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CF%83%CE%B5%CF%80%CF%84%CE%B5%CE%BC%CE%B2%CF%81%CE%B9%CE%BF%CF%83-2021 |language=el |work=Alco |date=18 September 2021}}</ref>
@@ -1011,6 +1787,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.3
 | 3.5
 | 1.4
+| –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.8
 |-
@@ -1025,6 +1802,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | 1.3
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.2
 |-
 | MRB/Star<ref>{{cite web |title=Δημοσκόπηση MRB για το Star: Μπροστά η ΝΔ με διαφορά 11,9% |url=https://www.star.gr/eidiseis/politiki/557103/gkalop-mrb-gia-to-star-mprosta-h-nd-me-119 |language=el |work=Star |date=16 September 2021}}</ref>
@@ -1036,6 +1814,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.4
 | 4.4
 | 3.6
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 13.0
@@ -1051,6 +1830,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.1
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.7
 |-
 | Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview για το Politic.gr: Ισχυρό προβάδισμα 12,7 μονάδων για τη ΝΔ |url=https://politic.gr/politiki/dimoskopisi-interview-gia-to-politic-gr-ischyro-provadisma-127-monadon-gia-ti-nd/ |language=el |work=Politic.gr |date=30 August 2021}}</ref>
@@ -1062,6 +1842,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.0
 | 5.1
 | 4.3
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 14.3
@@ -1077,6 +1858,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | 1.7
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.8
 |-
 | ProRata/iEidiseis<ref>{{cite web |title=Για πρώτη φορά η ψαλίδα κάτω από τη διαφορά των εκλογών - Δημοσκόπηση PRORATA για το iEidiseis |url=https://www.ieidiseis.gr/politiki/107409/gia-proti-fora-i-psalida-kato-apo-ti-diafora-ton-eklogon-dimoskopisi-prorata-gia-to-ieidiseis |language=el |work=iEidiseis |date=30 August 2021}}</ref>
@@ -1088,6 +1870,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.5
 | 4.0
 | 2.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.5
@@ -1103,6 +1886,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.1
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 14.5
 |-
 | ProRata/Efimerida ton Sintakton<ref>{{cite web |title=Δημοσκόπηση: Πτώση της ΝΔ λόγω πανδημίας – Στις δέκα μονάδες η διαφορά από ΣΥΡΙΖΑ |url=https://www.tovima.gr/2021/07/19/politics/dimoskopisi-ptosi-tis-nd-logo-pandimias-stis-deka-monades-i-diafora-apo-syriza/ |language=el |work=To Vima |date=19 July 2021}}</ref><ref>{{cite web |title=Δημοσκόπηση Prorata: Το 75% διαφωνεί με τα νέα μέτρα για τους ανεμβολίαστους|url=https://www.ieidiseis.gr/ellada/102317/dimoskopisi-prorata-to-75-diafonei-me-ta-nea-metra-gia-tous-anemvoliastous |language=el |work=ieidiseis.gr |date=19 July 2021}}</ref>
@@ -1114,6 +1898,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.0
 | 3.5
 | 3.0
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.0
@@ -1129,6 +1914,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.6
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 14.3
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: Στις 14 μονάδες η "ψαλίδα" ΝΔ-ΣΥΡΙΖΑ-Τι λένε για οικονομία-εγκληματικότητα |url=https://www.skai.gr/news/politics/dimoskopisi-skai-14-monades-psalida-nd-syriza-ti-lene-oikonomia-egklimatikotita-1 |language=el |work=Skai |date=7 July 2021 |access-date=7 July 2021}}</ref><ref>{{cite web |title=Pulse RC. 5 - 7 Ιουλίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-07/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20%CE%A3%CE%9A%CE%91%CE%AA%20%CE%99%CE%9F%CE%A5%CE%9B%CE%99%CE%9F%CE%A3.pdf |language=el |work=Pulse RC |date=7 July 2021}}</ref>
@@ -1142,6 +1928,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.0
 | –
 | 1.0
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 15.0
 |-
 | Opinion Poll/To Manifesto<ref>{{cite web |title=ΠΑΝΕΛΛΑΔΙΚΗ ΕΡΕΥΝΑ. Opinion Poll. ΙΟΥΛΙΟΣ 2021 |url=https://www.protothema.gr/files/2021-07-08/%CE%91%CE%A0%CE%9F%CE%A4%CE%95%CE%9B%CE%95%CE%A3%CE%9C%CE%91%CE%A4%CE%91_%CE%A0%CE%9F%CE%9B%CE%99%CE%A4%CE%99%CE%9A%CE%97%CE%A3_%CE%95%CE%A1%CE%95%CE%A5%CE%9D%CE%91%CE%A3_%CE%93%CE%99%CE%91_tomanifesto_gr.pdf |language=el |work=Opinion Poll |date=8 June 2021}}</ref>
@@ -1153,6 +1940,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 7.0
 | 4.3
 | 3.8
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 20.6
@@ -1168,6 +1956,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.6
 | 1.4
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 15.3
 |-
 | GPO/Ta Nea<ref>{{cite web |title=Δημοσκόπηση: Πολιτική κυριαρχία για την κυβέρνηση – Ποια η διαφορά στην πρόθεση ψήφου |url=https://www.in.gr/2021/07/04/politics/vouli/dimoskopisi-politiki-kyriarxia-gia-tin-kyvernisi-dyo-xronia-meta-tis-kalpes/ |language=el |work=in.gr |date=4 June 2021}}</ref>
@@ -1179,6 +1968,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 7.1
 | 4.8
 | 3.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 14.6
@@ -1194,7 +1984,8 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.6
 | –
 | –
-|style="background:{{party color|New Democracy (Greece)}}; color:white;"| 19.9
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 19.9
 |-
 | Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση Interview: Μπροστά η ΝΔ με 14,8% έναντι του ΣΥΡΙΖΑ |url=https://www.iefimerida.gr/politiki/dimoskopisi-interview-mprosta-i-nd-me-148 |language=el |work=iefimerida |date=24 June 2021}}</ref><ref>{{cite web |title=Έρευνα κοινής γνώμης με πρόθεση ψήφου και επίκαιρες ερωτήσεις για λογαριασμό της ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ |url=https://www.interview.com.gr/wp-content/uploads/2021/06/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%99%CE%BF%CF%8D%CE%BD%CE%B9%CE%BF%CF%82_2021.pdf |language=el |work=Interview |date=25 June 2021}}</ref>
 | 17–23 Jun 2021
@@ -1207,7 +1998,8 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.9
 | –
 | –
-|style="background:{{party color|New Democracy (Greece)}}; color:white;"| 16.8
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 16.8
 |-
 | Alco/Open<ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΙΟΥΝΙΟΣ 2021 |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%B9%CE%BF%CF%85%CE%BB%CE%B9%CE%BF%CF%83-2021 |language=el |work=Alco |date=22 June 2021}}</ref>
 | 15–19 Jun 2021
@@ -1218,6 +2010,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.4
 | 4.7
 | 3.9
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 15.1
@@ -1233,6 +2026,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.1
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 14.8
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 14 μονάδες η "ψαλίδα" ΝΔ-ΣΥΡΙΖΑ-Τι λένε για οικονομία - ελληνοτουρκικά |url=https://www.skai.gr/news/politics/dimoskopisi-skai-14-monades-i-psalida-nd-syriza-ti-lene-gia-oikonomia-ellinotourkika |language=el |work=Skai |date=2 June 2021 |access-date=2 June 2021}}</ref><ref>{{cite web |title=Pulse RC. 31 Μαΐου - 2 Ιουνίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-06/dimoskopisi-new_0.pdf |language=el |work=Pulse RC |date=2 June 2021}}</ref>
@@ -1246,6 +2040,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.0
 | –
 | 1.0
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 15.5
 |-
 | Opinion Poll<ref>{{cite web |title=Δημοσκόπηση Opinion Poll: Στο 17,4% η διαφορά της Νέας Δημοκρατίας από τον ΣΥΡΙΖΑ |url=https://www.newsbeast.gr/politiki/arthro/7455772/dimoskopisi-opinion-poll-sto-174-i-diafora-tis-neas-dimokratias-apo-ton-syriza |language=el |work=Newsbeast |date=31 May 2021}}</ref><ref>{{cite web |title=Βαρόμετρο Opinion Poll. ΠΑΝΕΛΛΑΔΙΚΗ ΕΡΕΥΝΑ. Μάιος 2021 |url=https://www.newsbeast.gr/files/1/2021/05/BAROMETRO_OPINION_POLL-MAIOS_2021.pdf |language=el |work=Opinion Poll |date=31 May 2021}}</ref>
@@ -1257,6 +2052,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.6
 | 5.2
 | 3.9
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 21.8
@@ -1272,6 +2068,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.0
 | –
 | 1.8
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.6
 |-
 | Alco/Open<ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΜΑΙΟΣ 2021 |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%BC%CE%B1%CE%B9%CE%BF%CF%83-2021 |language=el |work=Alco |date=24 May 2021}}</ref>
@@ -1283,6 +2080,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.0
 | 4.7
 | 3.4
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 15.4
@@ -1298,6 +2096,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.2
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.6
 |-
 | GPO/Powergame.gr<ref>{{cite web |title=GPO: Το προβάδισμα της ΝΔ και ο καταλύτης των εμβολιασμών |url=https://www.powergame.gr/ellada/68564/gpo-to-provadisma-tis-nd-kai-o-katalytis-ton-emvoliasmon/?fbclid=IwAR3HEhzzLKwK9yGIySTPcEnRtk0mnm7VUuahLmJh-BNaUatM_iXUEmlykLg |language=el |work=Powergame.gr |date=11 May 2021}}</ref>
@@ -1309,6 +2108,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 7.2
 | 4.6
 | 3.8
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 16.1
@@ -1324,6 +2124,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.6
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 18.9
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 13,5 μονάδες "μπροστά" η ΝΔ - Τι λένε για τη στάση Δένδια στην Άγκυρα |url=https://www.skai.gr/news/greece/dimoskopisi-skai-135-monades-mprosta-i-nd-ti-lene-gia-ti-stasi-dendia-stin-agkyra |language=el |work=Skai |date=26 April 2021}}</ref><ref>{{cite web |title=Pulse RC. 23 - 25 Απριλίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-04/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20260421_0.pdf |language=el |work=Pulse RC |date=26 April 2021}}</ref>
@@ -1337,9 +2138,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 15.0
 |-
-| Opinion Poll<ref>{{cite web |title=Δημοσκόπηση: Προβάδισμα 16% της ΝΔ έναντι του ΣΥΡΙΖΑ – Οι "άσοι" της κυβέρνησης |url=https://www.skai.gr/news/politics/dimoskopisi-provadisma-16-tis-nd-enanti-tou-syriza-oi-asoi-tis-kyvernisis |language=el |work=Skai |date=26 April 2021}}</ref><ref>{{cite web |title=Βαρόμετρο Opinion Poll. ΠΑΝΕΛΛΑΔΙΚΗ ΕΡΕΥΝΑ. ΑΠΡΙΛΙΟΣ 2021 |url=https://www.protothema.gr/files/2021-04-26/%CE%92%CE%91%CE%A1%CE%9F%CE%9C%CE%95%CE%A4%CE%A1%CE%9F-OPINION-POLL-%CE%91%CE%A0%CE%A1%CE%99%CE%9B%CE%99%CE%9F%CE%A5-2021.pdf |language=el |work=Opinion Poll |date=26 April 2021}}</ref>
+| Opinion Poll/To Manifesto<ref>{{cite web |title=Δημοσκόπηση: Προβάδισμα 16% της ΝΔ έναντι του ΣΥΡΙΖΑ – Οι "άσοι" της κυβέρνησης |url=https://www.skai.gr/news/politics/dimoskopisi-provadisma-16-tis-nd-enanti-tou-syriza-oi-asoi-tis-kyvernisis |language=el |work=Skai |date=26 April 2021}}</ref><ref>{{cite web |title=Βαρόμετρο Opinion Poll. ΠΑΝΕΛΛΑΔΙΚΗ ΕΡΕΥΝΑ. ΑΠΡΙΛΙΟΣ 2021 |url=https://www.protothema.gr/files/2021-04-26/%CE%92%CE%91%CE%A1%CE%9F%CE%9C%CE%95%CE%A4%CE%A1%CE%9F-OPINION-POLL-%CE%91%CE%A0%CE%A1%CE%99%CE%9B%CE%99%CE%9F%CE%A5-2021.pdf |language=el |work=Opinion Poll |date=26 April 2021}}</ref>
 | 19–23 Apr 2021
 | 1,001
 | {{Party shading/ND}}| '''46.7'''
@@ -1348,6 +2150,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.9
 | 5.2
 | 3.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 20.6
@@ -1363,6 +2166,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.2
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 16.8
 |-
 | Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση Interview: Μπροστά η ΝΔ με διαφορά 14,7% από τον ΣΥΡΙΖΑ |url=https://www.iefimerida.gr/politiki/dimoskopisi-interview-mprosta-nd-me-147-enanti-syriza |language=el |work=iefimerida |date=20 April 2021}}</ref><ref>{{cite web |title=Έρευνα κοινής γνώμης με πρόθεση ψήφου και επίκαιρες ερωτήσεις για λογαριασμό της ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ |url=https://www.interview.com.gr/wp-content/uploads/2021/04/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%91%CF%80%CF%81%CE%AF%CE%BB%CE%B9%CE%BF%CF%82_2021.pdf |language=el |work=Interview |date=20 April 2021}}</ref>
@@ -1374,6 +2178,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.4
 | 5.9
 | 3.9
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.0
@@ -1389,6 +2194,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.4
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 15.7
 |-
 | GPO/Powergame.gr<ref>{{cite web |title=Δημοσκόπηση GPO: Προηγείται η ΝΔ, αμετάβλητοι οι συσχετισμοί |url=https://www.powergame.gr/ellada/55450/dimoskopisi-gpo-proigeitai-i-nd-ametavlitoi-oi-syschetismoi/ |language=el |work=Powergame.gr |date=13 April 2021}}</ref>
@@ -1400,6 +2206,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 7.6
 | 4.7
 | 4.0
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 14.7
@@ -1415,6 +2222,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.0
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.5
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 12 μονάδες μπροστά η ΝΔ - Οι απαντήσεις για ελληνοτουρκικά και Μπάιντεν |url=https://www.skai.gr/news/politics/dimoskopisi-skai12-monades-mprosta-i-nd-oi-apantiseis-gia-ellinotourkika-kai-mpainten |language=el |work=Skai |date=29 March 2021}}</ref><ref>{{cite web |title=Pulse RC. 26 - 28 Μαρτίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-03/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20290321.pdf |language=el |work=Pulse RC |date=29 March 2021}}</ref>
@@ -1426,6 +2234,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.0
 | 5.0
 | 3.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 13.5
@@ -1441,6 +2250,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.6
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 15.9
 |-
 | Marc/Alpha<ref>{{cite web |title=Δημοσκόπηση Marc: Με 15,6 μονάδες προηγείται η ΝΔ του ΣΥΡΙΖΑ |url=https://www.protothema.gr/politics/article/1107941/dimoskopisi-marc-me-156-monades-proigeitai-i-nd-tou-suriza/ |language=el |work=Proto Thema |date=24 March 2021}}</ref>
@@ -1452,6 +2262,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.5
 | 5.3
 | 3.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 19.5
@@ -1467,6 +2278,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.0
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.3
 |-
 | Alco/Open<ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΜΑΡΤΙΟΣ 2021 |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%BC%CE%B1%CF%81%CF%84%CE%B9%CE%BF%CF%83-2021 |language=el |work=Alco |date=19 March 2021}}</ref>
@@ -1478,6 +2290,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.9
 | 4.9
 | 3.3
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 16.1
@@ -1493,6 +2306,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.6
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 16.0
 |-
 | GPO/Ta Nea<ref>{{cite web |title=Δημησκόπηση : Τα μηνύματα των πολιτών και η παγίωση της διαφοράς ΝΔ-ΣΥΡΙΖΑ |url=https://www.tanea.gr/2021/03/07/politics/dimiskopisi-ta-minymata-ton-politon-kai-i-pagiosi-tis-diaforas-nd-syriza/ |language=el |work=Ta Nea |date=6 March 2021}}</ref>
@@ -1504,6 +2318,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 7.5
 | 4.9
 | 3.6
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 16.3
@@ -1519,6 +2334,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.4
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 16.6
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: Στις 15 μονάδες η "ψαλίδα" ΝΔ – ΣΥΡΙΖΑ (κάρτες) |url=https://www.skai.gr/news/politics/dimoskopisi-skai-stis-15-monades-i-psalida-nd-syriza |language=el |work=Skai |date=1 March 2021}}</ref><ref>{{cite web |title=Pulse RC. 26 - 28 Φεβρουαρίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-03/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20010321_0.pdf |language=el |work=Pulse RC |date=1 March 2021}}</ref>
@@ -1532,8 +2348,8 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 16.5
-|-
 |-
 | ProRata/Efimerida ton Sintakton<ref>{{cite web |title=Δημοσκόπηση Prorata: Η ΝΔ προηγείται έναντι του ΣΥΡΙΖΑ |url=https://www.cnn.gr/politiki/story/256195/dimoskopisi-prorata-h-nd-proigeitai-me-9-monades-enanti-toy-syriza |language=el |work=CNN |date=27 February 2021}}</ref>
 | 23–26 Feb 2021
@@ -1544,6 +2360,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.5
 | 3.0
 | 4.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.5
@@ -1559,6 +2376,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.6
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 21.3
 |-
 | Opinion Poll/Political<ref>{{cite web |title=Έρευνα Opinion Poll: 17,1% προηγείται η ΝΔ του ΣΥΡΙΖΑ - Λοβέρδο θέλουν για πρόεδρο του ΚΙΝΑΛ |url=https://www.protothema.gr/politics/article/1098324/ereuna-opinion-poll-171-monades-brosta-apo-ton-suriza-i-nd/ |language=el |work=Proto Thema |date=24 February 2021}}</ref><ref>{{cite web |title=Πολιτικό βαρόμετρο της Opinion Poll: Σταθερά πρώτη η ΝΔ – Πώς κρίνουν οι πολίτες το κυβερνητικό έργο |url=https://eleftherostypos.gr/politiki/716784-politiko-barometro-tis-opinion-poll-stathera-proti-i-nd-pos-krinoyn-oi-polites-to-kybernitiko-ergo/ |language=el |work=Eleftheros Typos |date=24 February 2021}}</ref>
@@ -1570,6 +2388,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.6
 | 5.5
 | 3.8
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 21.2
@@ -1585,6 +2404,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.4
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 16.5
 |-
 | Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση Interview: Στις 17,1 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ |url=https://www.capital.gr/politiki/3526747/dimoskopisi-interview-stis-17-1-monades-i-diafora-nd-suriza |language=el |work=Capital.gr |date=19 February 2021}}</ref><ref>{{cite web |title=Έρευνα κοινής γνώμης με πρόθεση ψήφου και επίκαιρες ερωτήσεις για λογαριασμό της ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ |url=https://www.interview.com.gr/wp-content/uploads/2021/02/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%A6%CE%B5%CE%B2%CF%81%CE%BF%CF%85%CE%AC%CF%81%CE%B9%CE%BF%CF%82_2021.pdf |language=el |work=Interview |date=18 February 2021}}</ref>
@@ -1596,6 +2416,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.0
 | 5.7
 | 3.9
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 19.7
@@ -1611,6 +2432,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.5
 |-
 | Metron Analysis/Mega<ref>{{cite web |title=Δημοσκόπηση Metron Analysis: Μπροστά με 16,4 μονάδες η Νέα Δημοκρατία |url=https://timeline.gr/vinteo/dimoskopisi-metron-analysis-mprosta-me-164-monades-i-nea-dimokratia/ |language=el |work=Timeline |date=29 January 2021}}</ref>
@@ -1622,6 +2444,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 7.3
 | 4.6
 | 3.1
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 21.0
@@ -1637,6 +2460,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 16.5
 |-
 | Alco/Open<ref>{{cite web |title=Δημοσκόπηση ALCO: Άνω των 15 μονάδων η διαφορά ΝΔ - ΣΥΡΙΖΑ |url=https://www.capital.gr/politiki/3520572/dimoskopisi-alco-ano-ton-15-monadon-i-diafora-nd-suriza |language=el |work=Capital.gr |date=22 January 2021}}</ref><ref>{{cite web |title=Δημοσκόπηση Alco: Προβάδισμα 15,1 μονάδων της ΝΔ έναντι του ΣΥΡΙΖΑ -Περισσότερο πρόθυμοι πλέον οι πολίτες για το εμβόλιο |url=https://www.iefimerida.gr/stories/dimoskopisi-alco-probadimsma-151-nd-syriza-22-01 |language=el |work=iefimerida |date=22 January 2021}}</ref>
@@ -1648,6 +2472,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.5
 | 4.6
 | 3.1
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.1
@@ -1663,6 +2488,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.5
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 23.3
 |-
 | Opinion Poll/Political<ref>{{cite web |title=Δημοσκόπηση: Μπροστά με 17,4% η ΝΔ - Ναι στο εμβόλιο οι 3 στους 4 |url=https://www.tovima.gr/2021/01/12/politics/dimoskopisi-opinion-poll-174-proigeitai-i-nd-tou-syriza-3-stous-4-lene-nai-ston-emvoliasmo/ |language=el |work=To Vima |date=12 January 2021}}</ref><ref>{{cite web |title=Opinion Poll. ΠΑΝΕΛΛΑΔΙΚΗ ΕΡΕΥΝΑ. ΙΑΝΟΥΑΡΙΟΣ 2021 |url=https://www.thetoc.gr/Content/RelatedFiles/43/4301d7de225545238c56135c9fc6ec81.pdf |language=el |work=The TOC |date=12 January 2021}}</ref>
@@ -1676,9 +2502,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.3
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 21.3
 |-
-| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 16% η διαφορά ΝΔ – ΣΥΡΙΖΑ – "Η Τουρκία θα συνεχίσει τις προκλήσεις" |url=https://www.skai.gr/news/politics/dimoskopisi-skai-16-i-diafora-nd-syriza-i-tourkia-tha-synexisei-tis-prokliseis |language=el |work=Skai |date=17 December 2020}}</ref><ref>{{cite web |title=Pulse RC. 12 - 16 Δεκεμβρίου 2020 |url=https://www.skai.gr/sites/default/files/attachments/2020-12/PULSE%20171220.pdf |language=el |work=Pulse RC |date=17 December 2020}}</ref>
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 16% η διαφορά ΝΔ – ΣΥΡΙΖΑ – "Η Τουρκία θα συνεχίσει τις προκλήσεις"|url=https://www.skai.gr/news/politics/dimoskopisi-skai-16-i-diafora-nd-syriza-i-tourkia-tha-synexisei-tis-prokliseis |language=el |work=Skai |date=17 December 2020}}</ref><ref>{{cite web |title=Pulse RC. 12 - 16 Δεκεμβρίου 2020 |url=https://www.skai.gr/sites/default/files/attachments/2020-12/PULSE%20171220.pdf |language=el |work=Pulse RC |date=17 December 2020}}</ref>
 | 14–16 Dec 2020
 | 1,210
 | {{Party shading/ND}}| '''43.5'''
@@ -1689,10 +2516,11 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.5
 |-
 | MRB/Star<ref>{{cite web |title=MRB: Στο 15% η διαφορά ΝΔ - ΣΥΡΙΖΑ |url=https://www.tovima.gr/2020/12/17/politics/dimoskopisi-mrb-sto-15-i-diafora-nd-kai-syriza/ |language=el |work=To Vima |date=17 December 2020}}</ref>
-| 27 Νοv–11 Dec 2020
+| 27 Nov–11 Dec 2020
 | 1,185
 | {{Party shading/ND}}| '''44.9'''
 | 27.2
@@ -1701,6 +2529,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.8
 | 3.7
 | 1.2
+| –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.7
 |-
@@ -1713,6 +2542,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.5
 | 4.9
 | 3.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.9
@@ -1728,6 +2558,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.2
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 20.1
 |-
 | Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση Interwiew: Προβάδισμα της ΝΔ με 17,1% - To 72% υπέρ του lockdown |url=https://www.liberal.gr/news/dimoskopisi-interwiew-probadisma-tis-nd-me-171-to-72-uper-tou-lockdown/340412 |language=el |work=Liberal |date=2 December 2020}}</ref><ref>{{cite web |title=Έρευνα κοινής γνώμης για τον κορωνοϊό και πρόθεση ψήφου |url=https://www.interview.com.gr/wp-content/uploads/2020/12/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%94%CE%B5%CE%BA%CE%AD%CE%BC%CE%B2%CF%81%CE%B9%CE%BF%CF%82_2020_TV.pdf |language=el |work=Interview |date=2 December 2020}}</ref>
@@ -1739,6 +2570,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.4
 | 5.9
 | 3.1
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 19.8
@@ -1754,6 +2586,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 14.5
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 17% μπροστά η ΝΔ -Μόλις το 30% εκτιμά ότι θα επιβληθούν κυρώσεις σε Τουρκία |url=https://www.skai.gr/news/politics/dimoskopisi-skai-17-mprosta-nd-molis-to-30-ektima-oti-tha-epivlithoun-kyroseis-tourkia |language=el |work=Skai |date=26 November 2020}}</ref><ref>{{cite web |title=Pulse RC. 24 - 26 Νοεμβρίου 2020 |url=https://www.skai.gr/sites/default/files/attachments/2020-11/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20261120.pdf |language=el |work=Pulse RC |date=26 November 2020}}</ref>
@@ -1765,6 +2598,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.5
 | 6.0
 | 3.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 18.5
@@ -1780,9 +2614,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.4
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 19.9
 |-
-| Κapa Research<ref>{{cite web |title=Δημοσκόπηση Κάπα Research: Στο 14% η διαφορά ΝΔ-ΣΥΡΙΖΑ - Οι 7 στους 10 θα κάνουν το εμβόλιο κατά του κορονοϊού |url=https://www.thetoc.gr/politiki/article/dimoskopisi-kapa-research-sto-14-i-diafora-nd-suriza---oi-7-stous-10-tha-kanoun-to-embolio-kata-tou-koronoiou/ |language=el |work=The TOC |date=24 November 2020}}</ref>
+| Kapa Research/iEfimerida<ref>{{cite web |title=Δημοσκόπηση Κάπα Research: Στο 14% η διαφορά ΝΔ-ΣΥΡΙΖΑ - Οι 7 στους 10 θα κάνουν το εμβόλιο κατά του κορονοϊού |url=https://www.thetoc.gr/politiki/article/dimoskopisi-kapa-research-sto-14-i-diafora-nd-suriza---oi-7-stous-10-tha-kanoun-to-embolio-kata-tou-koronoiou/ |language=el |work=The TOC |date=24 November 2020}}</ref>
 | 20–24 Nov 2020
 | 1,054
 | {{Party shading/ND}}| '''45.7'''
@@ -1791,6 +2626,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.2
 | 4.2
 | 3.4
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.1
@@ -1806,9 +2642,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.8
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 21.0
 |-
-| Opinion Poll<ref>{{cite web |title=Δημοσκόπηση Opinion Poll: Μπροστά η ΝΔ με 18,7% – Ψήφος εμπιστοσύνης στον Τσιόδρα |url=https://adieksodos.gr/dimoskopisi-opinion-poll-brosta-i-nd-me-187-psifos-ebistosynis-ston-tsiodra/ |language=el |work=adieksodos.gr |date=18 November 2020}}</ref><ref>{{cite web |title=Η πεντάδα υπουργών που ξεχωρίζει: Τι δείχνει δημοσκόπηση |url=https://www.in.gr/2020/11/18/politics/kommata/dimoskopisi-pos-aksiologountai-oi-ypourgoi-ti-deixnei-gia-tin-igesia-tis-kentroaristeras/ |language=el |work=in.gr |date=18 November 2020}}</ref>
+| Opinion Poll/To Manifesto<ref>{{cite web |title=Δημοσκόπηση Opinion Poll: Μπροστά η ΝΔ με 18,7% – Ψήφος εμπιστοσύνης στον Τσιόδρα |url=https://adieksodos.gr/dimoskopisi-opinion-poll-brosta-i-nd-me-187-psifos-ebistosynis-ston-tsiodra/ |language=el |work=adieksodos.gr |date=18 November 2020}}</ref><ref>{{cite web |title=Η πεντάδα υπουργών που ξεχωρίζει: Τι δείχνει δημοσκόπηση |url=https://www.in.gr/2020/11/18/politics/kommata/dimoskopisi-pos-aksiologountai-oi-ypourgoi-ti-deixnei-gia-tin-igesia-tis-kentroaristeras/ |language=el |work=in.gr |date=18 November 2020}}</ref>
 | 14–16 Nov 2020
 | 1,000
 | {{Party shading/ND}}| '''48.6'''
@@ -1817,6 +2654,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.5
 | 4.0
 | 3.6
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 24.2
@@ -1832,6 +2670,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.5
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 15.6
 |-
 | Alco/Open<ref>{{cite web |title=Δημοσκόπηση: Τι λένε οι πολίτες για τα νέα μέτρα – Η διαφορά ανάμεσα σε ΝΔ και ΣΥΡΙΖΑ |url=https://www.in.gr/2020/11/12/politics/dimoskopisi-ti-lene-oi-polites-gia-ta-nea-metra-diafora-anamesa-se-nd-kai-syriza/ |language=el |work=in.gr |date=12 November 2020}}</ref>
@@ -1845,6 +2684,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | 1.3
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.5
 |-
 | GPO/Action24<ref>{{cite web |title=Πανελλαδική Έρευνα. ΕΚΘΕΣΗ ΑΠΟΤΕΛΕΣΜΑΤΩΝ. 29 Οκτωβρίου 2020 |url=https://www.iefimerida.gr/sites/default/files/2020-10/%CE%95%CE%BA%CE%B8%CE%B5%CF%83%CE%B7%20%CE%A0%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%B1%CE%B4%CE%B9%CE%BA%CE%AE%CF%82_%CE%9F%CE%BA%CF%84%CF%8E%CE%B2%CF%81%CE%B9%CE%BF%CF%82%202020_ACTION%2024.pdf |language=el |work=GPO |date=29 October 2020}}</ref>
@@ -1856,6 +2696,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.3
 | 3.7
 | 3.1
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.5
@@ -1871,6 +2712,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 19.5
 |-
 | Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση Interview: Πού διαμορφώνεται η διαφορά ΝΔ - ΣΥΡΙΖΑ - Ο δημοιλέστερος υπουργός |url=https://www.newsbomb.gr/politikh/story/1129827/dimoskopisi-interview-poy-diamorfonetai-i-diafora-nd-syriza |language=el |work=Newsbomb |date=23 October 2020}}</ref><ref>{{cite web |title=Πανελλαδική Έρευνα κοινής γνώμης, πρόθεση ψήφου, βαθμολογία υπουργών, πανδημία, ελληνοτουρκικά, επίκαιρα θέματα |url=https://www.interview.com.gr/wp-content/uploads/2020/10/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%9F%CE%BA%CF%84%CF%8E%CE%B2%CF%81%CE%B9%CE%BF%CF%82_2020_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_1.pdf |language=el |work=Interview |date=22 October 2020}}</ref>
@@ -1884,9 +2726,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 23.4
 |-
-| Opinion Poll<ref>{{cite web |title=Υποχωρούν τα ποσοστά της ΝΔ, αλλά... 19,9 μονάδες η διαφορά - Ιστορικό χαμηλό για ΣΥΡΙΖΑ |url=https://www.in.gr/2020/10/16/politics/dimoskopisi-opinion-poll-kyriarxia-mitsotaki-ikanopoiisi-gia-katadiki-xrysis-aygis/ |language=el |work=in.gr |date=16 October 2020}}</ref>
+| Opinion Poll/To Manifesto<ref>{{cite web |title=Υποχωρούν τα ποσοστά της ΝΔ, αλλά... 19,9 μονάδες η διαφορά - Ιστορικό χαμηλό για ΣΥΡΙΖΑ |url=https://www.in.gr/2020/10/16/politics/dimoskopisi-opinion-poll-kyriarxia-mitsotaki-ikanopoiisi-gia-katadiki-xrysis-aygis/ |language=el |work=in.gr |date=16 October 2020}}</ref>
 | 11–15 Oct 2020
 | 1,000
 | {{Party shading/ND}}|'''49.9'''
@@ -1895,6 +2738,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.8
 | 4.2
 | 3.7
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 26.1
@@ -1910,6 +2754,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.1
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 24.6
 |-
 | Alco/Open<ref>{{cite web |title=Δημοσκοπήσεις ALCO - Marc: Πώς διαμορφώνεται η διαφορά ΝΔ - ΣΥΡΙΖΑ |url=https://www.cnn.gr/politiki/story/238609/dimoskopiseis-alco-marc-pos-diamorfonetai-i-diafora-nd-syriza |language=el |work=CNN |date=15 October 2020}}</ref><ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΟΚΤΩΒΡΙΟΣ 2020 |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CE%BF%CE%BA%CF%84%CF%89%CE%B2%CF%81%CE%B9%CE%BF%CF%83-2020 |language=el |work=Alco |date=15 October 2020}}</ref>
@@ -1922,6 +2767,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.8
 | 4.2
 | 2.1
+| –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.3
 |-
@@ -1936,6 +2782,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.4
 | –
 | 1.5
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 23.5
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: Σαφές προβάδισμα ΝΔ – Σχεδόν 6 στους 10 υπέρ κυβέρνησης για ελληνοτουρκικά |url=https://www.skai.gr/news/politics/dimoskopisi-skai-safes-provadisma-nd-sxedon-6-stous-10-yper-kyvernisis-gia-ellinotourkika |language=el |work=Skai |date=25 September 2020}}</ref><ref>{{cite web |title=Pulse RC. 21 - 23 Σεπτεμβρίου 2020 |url=https://www.skai.gr/sites/default/files/attachments/2020-09/pulse%20skai%20%20sep%2020.pdf |language=el |work=Pulse RC |date=25 September 2020}}</ref>
@@ -1947,6 +2794,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.5
 | 4.5
 | 3.0
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 19.0
@@ -1962,6 +2810,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.6
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 22.2
 |-
 | Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση Βεργίνα TV: Η διαφορά ΝΔ - ΣΥΡΙΖΑ και η έκπληξη για τον πιο πετυχημένο υπουργό |url=https://www.newsbeast.gr/politiki/arthro/6656080/dimoskopisi-vergina-tv-i-diafora-nd-syriza-kai-i-ekplixi-gia-ton-pio-petychimeno-ypoyrgo |language=el |work=Newsbeast |date=23 September 2020}}</ref><ref>{{cite web |title=Πανελλαδική Έρευνα κοινής γνώμης, πρόθεση ψήφου, βαθμολογία υπουργών, επίκαιρα θέματα |url=https://www.interview.com.gr/wp-content/uploads/2020/09/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%A3%CE%95%CE%A0%CE%A4%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A3_2020.pdf |language=el |work=Interview |date=23 September 2020}}</ref>
@@ -1973,6 +2822,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.3
 | 5.2
 | 3.4
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 22.4
@@ -1988,6 +2838,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.1
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 19.8
 |-
 | Alco/Open<ref>{{cite web |title=OPEN ΕΡΕΥΝΑ ΣΕΠΤΕΜΒΡΙΟΣ 2020 |url=http://alcopolls.gr/portfolio/open-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-%CF%83%CE%B5%CF%80%CF%84%CE%B5%CE%BC%CE%B2%CF%81%CE%B9%CE%BF%CF%83-2020 |language=el |work=Alco |date=13 September 2020}}</ref>
@@ -2000,6 +2851,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.2
 | 3.4
 | 2.0
+| –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 19.2
 |-
@@ -2014,9 +2866,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1.9
 | –
 | 1.6
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 25.3
 |-
-| Opinion Poll<ref>{{cite web |title=Δημοσκόπηση Opinion Poll: Στις 20 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ |url=https://www.protothema.gr/politics/article/1043197/dimoskopisi-opinion-poll-stis-20-monades-i-diafora-nd-suriza/ |language=el |work=Proto Thema |date=11 September 2020}}</ref>
+| Opinion Poll/To Manifesto<ref>{{cite web |title=Δημοσκόπηση Opinion Poll: Στις 20 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ |url=https://www.protothema.gr/politics/article/1043197/dimoskopisi-opinion-poll-stis-20-monades-i-diafora-nd-suriza/ |language=el |work=Proto Thema |date=11 September 2020}}</ref>
 | 8–10 Sep 2020
 | 1,000
 | {{Party shading/ND}}|'''51.1'''
@@ -2025,6 +2878,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.3
 | 3.8
 | 2.8
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 26.4
@@ -2040,6 +2894,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.0
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 20.2
 |-
 | Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση: Εδραιώνει την κυριαρχία της η ΝΔ - Ισχυρό προβάδισμα 21,2 μονάδων |url=https://www.protothema.gr/politics/article/1026958/dimoskopisi-edraionei-tin-kuriarhia-tis-i-nd-ishuro-provadisma-212-monadon/ |language=el |work=Proto Thema |date=15 July 2020}}</ref><ref>{{cite web |title=Πανελλαδική Έρευνα κοινής γνώμης, με πρόθεση ψήφου και αξιολόγηση πολιτικών προσώπων |url=https://www.interview.com.gr/wp-content/uploads/2020/07/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%99%CE%9F%CE%A5%CE%9B%CE%99%CE%9F%CE%A3_15_7_2020.pdf |language=el |work=Interview |date=15 July 2020}}</ref>
@@ -2053,9 +2908,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.0
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 23.3
 |-
-| Marc/Αlpha<ref>{{cite web |title=Δημοσκόπηση Marc: Διαφορά 21,2 μονάδων υπέρ ΝΔ - Ανησυχία για τα ελληνοτουρκικά |url=https://www.kathimerini.gr/1087741/article/epikairothta/politikh/dhmoskophsh-marc-diafora-212-monadwn-yper-nd---anhsyxia-gia-ta-ellhnotoyrkika |language=el |work=Kathimerini |date=15 July 2020}}</ref><ref>{{cite web |title=Δημοσκόπηση Marc Alpha: Μεγάλο προβάδισμα ΝΔ, "παίρνει" ψηφοφόρους του ΣΥΡΙΖΑ |url=https://www.alphafreepress.gr/2020/07/16/politikh/dimoskopisi-marc-alpha-megalo-provadisma-nd-pairnei-psifoforous-tou-syriza/ |language=el |work=Alpha Free Press |date=15 July 2020}}</ref>
+| Marc/Alpha<ref>{{cite web |title=Δημοσκόπηση Marc: Διαφορά 21,2 μονάδων υπέρ ΝΔ - Ανησυχία για τα ελληνοτουρκικά |url=https://www.kathimerini.gr/1087741/article/epikairothta/politikh/dhmoskophsh-marc-diafora-212-monadwn-yper-nd---anhsyxia-gia-ta-ellhnotoyrkika |language=el |work=Kathimerini |date=15 July 2020}}</ref><ref>{{cite web |title=Δημοσκόπηση Marc Alpha: Μεγάλο προβάδισμα ΝΔ, "παίρνει" ψηφοφόρους του ΣΥΡΙΖΑ |url=https://www.alphafreepress.gr/2020/07/16/politikh/dimoskopisi-marc-alpha-megalo-provadisma-nd-pairnei-psifoforous-tou-syriza/ |language=el |work=Alpha Free Press |date=15 July 2020}}</ref>
 | 10–13 Jul 2020
 | 1,020
 | {{Party shading/ND}}| '''50.1'''
@@ -2066,6 +2922,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.3
 | 1.2
 | 1.2
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 25.5
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: 19 μονάδες μπροστά η ΝΔ - Πόσο επηρέασαν οι καταγγελίες Καλογρίτσα |url=https://www.skai.gr/news/politics/dimoskopisi-skai-19-monades-mprosta-i-nd-poso-epireasan-oi-kataggelies-kalogritsa |language=el |work=Skai |date=9 July 2020}}</ref><ref>{{cite web |title=Pulse RC. 6 - 8 Ιουλίου 2020 |url=https://www.skai.gr/sites/default/files/attachments/2020-07/108061_SK_2020-06.pdf |language=el |work=Pulse RC |date=9 July 2020}}</ref>
@@ -2079,6 +2936,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.0
 | 1.0
 | 1.0
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 20.5
 |-
 | Alco/Open<ref>{{cite web |title=Δημοσκόπηση OPEN: Διαφορά 14 μονάδων ΝΔ-ΣΥΡΙΖΑ - Τι ανησυχεί τους πολίτες |url=https://www.ethnos.gr/politiki/114042_dimoskopisi-open-diafora-14-monadon-nd-syriza-ti-anisyhei-toys-polites |language=el |work=Ethnos |date=6 July 2020}}</ref><ref>{{cite web |title=Ευρύ προβάδισμα ΝΔ έναντι ΣΥΡΙΖΑ δίνει νέα δημοσκόπηση στον ένα χρόνο διακυβέρνησης |url=https://www.kathimerini.gr/1086218/gallery/epikairothta/politikh/eyry-provadisma-nd-enanti-syriza-dinei-nea-dhmoskophsh-ston-ena-xrono-diakyvernhshs |language=el |publisher=Kathimerini |date=6 July 2020}}</ref>
@@ -2092,9 +2950,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 18.4
 |-
-| Opinion Poll<ref>{{cite web |title=Δημοσκόπηση Opinion Poll: Στις 20,5 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ - Ικανοποίηση για Μητσοτάκη |url=https://www.liberal.gr/politics/stis-205-monades-i-diafora-nd-suriza-ikanopoiisi-gia-mitsotaki/311335 |language=el |work=Liberal |date=7 July 2020}}</ref><ref>{{cite web |title=Δημοσκόπηση για τον ένα χρόνο κυβέρνησης ΝΔ: Η διαφορά με τον ΣΥΡΙΖΑ |url=https://www.cnn.gr/news/politiki/story/226298/dimoskopisi-gia-ton-ena-xrono-kyvernisis-nd-h-diafora-me-ton-syriza |language=el |work=CNN |date=7 July 2020}}</ref>
+| Opinion Poll/To Manifesto<ref>{{cite web |title=Δημοσκόπηση Opinion Poll: Στις 20,5 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ - Ικανοποίηση για Μητσοτάκη |url=https://www.liberal.gr/politics/stis-205-monades-i-diafora-nd-suriza-ikanopoiisi-gia-mitsotaki/311335 |language=el |work=Liberal |date=7 July 2020}}</ref><ref>{{cite web |title=Δημοσκόπηση για τον ένα χρόνο κυβέρνησης ΝΔ: Η διαφορά με τον ΣΥΡΙΖΑ |url=https://www.cnn.gr/news/politiki/story/226298/dimoskopisi-gia-ton-ena-xrono-kyvernisis-nd-h-diafora-me-ton-syriza |language=el |work=CNN |date=7 July 2020}}</ref>
 | 1–3 Jul 2020
 | 1,100
 | {{Party shading/ND}}| '''49.1'''
@@ -2105,9 +2964,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.0
 | 1.4
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 24.4
 |-
-| Κapa Research<ref>{{cite web |title=Δημοσκόπηση Κάπα Research: Προβάδισμα 17 ποσοστιαίων μονάδων για τη ΝΔ |url=https://www.mononews.gr/politics/dimoskopisi-kapa-research-provadisma-17-posostieon-monadon-gia-ti-nd |language=el |work=mononews.gr |date=2 July 2020}}</ref>
+| Kapa Research/iEfimerida<ref>{{cite web |title=Δημοσκόπηση Κάπα Research: Προβάδισμα 17 ποσοστιαίων μονάδων για τη ΝΔ |url=https://www.mononews.gr/politics/dimoskopisi-kapa-research-provadisma-17-posostieon-monadon-gia-ti-nd |language=el |work=mononews.gr |date=2 July 2020}}</ref>
 | 1–2 Jul 2020
 | 1,000
 | {{Party shading/ND}}| '''47.3'''
@@ -2118,6 +2978,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.1
 | 1.7
 | 2.2
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 20.3
 |-
 | Marc/Proto Thema<ref>{{cite web |title=Δημοσκόπηση Marc: Στις 21,5 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ |url=https://www.lifo.gr/now/politics/288738/dimoskopisi-marc-stis-21-5-monades-i-diafora-nd-syriza |language=el |work=LiFO |date=5 July 2020}}</ref>
@@ -2129,6 +2990,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.0
 | 4.4
 | 2.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 26.7
@@ -2144,6 +3006,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.8
 | –
 | 1.8
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 23.5
 |-
 | ProRata/Efimerida ton Sintakton<ref>{{cite web |title=Έρευνα ανίχνευσης στάσεων, συμπάθειας πολιτικών προσώπων και πρόθεσης ψήφου. 22 – 26 Ιουνίου 2020 |url=https://prorata.gr/wp-content/uploads/2020/06/%CE%A0%CE%9F%CE%9B%CE%99%CE%A4%CE%99%CE%9A%CE%97-%CE%95%CE%A1%CE%95%CE%A5%CE%9D%CE%91%CE%A0%CE%A1%CE%9F%CE%A3%CE%A9%CE%A0%CE%91-%CE%99%CE%9F%CE%A5%CE%9D%CE%99%CE%9F%CE%A3-2020.pdf |language=el |work=ProRata |date=29 June 2020}}</ref>
@@ -2157,6 +3020,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.0
 | 1.0
 | 2.0
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.5
 |-
 | GPO/Ta Nea<ref>{{cite web |title=Γκάλοπ στα "ΝΕΑ ΣΑΒΒΑΤΟΚΥΡΙΑΚΟ": "Συνένοχος" ο Τσίπρας – Μπροστά με 19 μονάδες διαφορά η ΝΔ |url=https://www.tanea.gr/2020/06/27/politics/gkalop-sta-nea-savvatokyriako-synenoxos-o-tsipras-mprosta-me-19-monades-diafora-i-nd/ |language=el |work=Ta Nea |date=27 June 2020}}</ref><ref>{{cite web |title=Δημοσκόπηση: Ο Τσίπρας γνώριζε για τις συνομιλίες Παππά και τις παρεμβάσεις στη Δικαιοσύνη |url=https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%94%ce%b7%ce%bc%ce%bf%cf%83%ce%ba%cf%8c%cf%80%ce%b7%cf%83%ce%b7-%ce%9f-%ce%a4%cf%83%ce%af%cf%80%cf%81%ce%b1%cf%82-%ce%b3%ce%bd%cf%8e%cf%81%ce%b9%ce%b6%ce%b5-%ce%b3%ce%b9%ce%b1-%cf%84%ce%b9%cf%82/ |language=el |work=Makeleio.gr |date=27 June 2020}}</ref>
@@ -2168,6 +3032,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.5
 | 5.0
 | 3.0
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 23.0
@@ -2183,6 +3048,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.2
 | 1.7
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 21.0
 |-
 | Interview/Vergina TV<ref>{{cite web |title=Νέα πανελλαδική δημοσκόπηση από την Βεργίνα τηλεόραση για τα εθνικά θέματα και την πρόθεση ψήφου |url=https://verginanews.gr/%ce%bd%ce%ad%ce%b1-%cf%80%ce%b1%ce%bd%ce%b5%ce%bb%ce%bb%ce%b1%ce%b4%ce%b9%ce%ba%ce%ae-%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%ba%cf%8c%cf%80%ce%b7%cf%83%ce%b7-%ce%b1%cf%80%cf%8c-%cf%84%ce%b7%ce%bd-%ce%b2/ |language=el |work=Vergina News |date=9 June 2020}}</ref><ref>{{cite web |title=Πανελλαδική Έρευνα κοινής γνώμης, με πρόθεση ψήφου και επίκαιρα θέματα |url=https://www.interview.com.gr/wp-content/uploads/2020/06/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%99%CE%9F%CE%A5%CE%9D%CE%99%CE%9F%CE%A3_2020_%CF%83%CE%B1%CE%B9%CF%84.pdf |language=el |work=Interview |date=10 June 2020}}</ref>
@@ -2194,6 +3060,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.0
 | 5.2
 | 3.7
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 23.5
@@ -2209,6 +3076,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.0
 | 1.6
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 19.3
 |-
 | Opinion Poll/Paraskhnio<ref>{{cite web |title=Δημοσκόπηση "βόμβα" στο "Π": Ο Κυριάκος απόλυτος κυρίαρχος, βγαίνει ηγέτης του 21ου αιώνα – Κόλαφος για τον ΣΥΡΙΖΑ – Πώς βαθμολογούν τους πρώην πρωθυπουργούς |url=https://www.paraskhnio.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%ba%cf%8c%cf%80%ce%b7%cf%83%ce%b7-%ce%b2%cf%8c%ce%bc%ce%b2%ce%b1-%cf%83%cf%84%ce%bf-%cf%80-%ce%bf-%ce%ba%cf%85%cf%81%ce%b9%ce%ac%ce%ba%ce%bf/ |language=el |work=Paraskhnio |date=5 June 2020}}</ref>
@@ -2222,6 +3090,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.3
 | 2.5
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 26.6
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: Αποδοχή κυβέρνησης – Τσιόδρα για πανδημία – Οι Έλληνες θα πάνε διακοπές |url=https://www.skai.gr/news/politics/dimoskopisi-skai-apodoxi-kyvernisis-tsiodra-gia-pandimia-oi-ellines-pane-diakopes |language=el |work=Skai |date=4 June 2020}}</ref><ref>{{cite web |title=Pulse RC. 1 - 3 Ιουνίου 2020 |url=https://www.skai.gr/sites/default/files/attachments/2020-06/pulse%20june%2020%20108060_SK_2020-05.pdf |language=el |work=Pulse RC |date=4 June 2020}}</ref>
@@ -2233,6 +3102,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.5
 | 4.0
 | 3.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 22.0
@@ -2248,6 +3118,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.0
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 26.1
 |-
 | Metron Analysis/Mega <ref>{{cite web |title=Δημοσκόπηση: Ξανά "νταμπλ σκορ" για τη ΝΔ στην πρόθεση ψήφου - 40,3% έναντι 20,9% |url=https://www.protothema.gr/politics/article/1011269/dimoskopisi-metron-analysis-dabl-skor-gia-ti-nea-dimokratia-stin-prothesi-psifou/ |language=el |work=Proto Thema |date=28 May 2020}}</ref><ref>{{cite web |title=Συνδρομητική έρευνα. Μάιος 2020 |url=https://www.protothema.gr/files/2020-05-28/MEGA_%CE%9C%CE%95%CE%93%CE%91%CE%9B%CE%97_%CE%94%CE%97%CE%A3%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97_%CE%A4%CE%97%CE%A3_METRON_ANALYSIS_28_05_2020.pdf |language=el |work=Metron Analysis |date=28 May 2020}}</ref>
@@ -2260,6 +3131,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.2
 | 3.1
 | 2.0
+| –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 23.9
 |-
@@ -2276,6 +3148,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.7
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 24.5
 |-
 | Alco/Open<ref>{{cite web |title=Δημοσκόπηση ALCO για το OPEN TV: 17 μονάδες μπροστά η ΝΔ, 79% "έγκυρος" ο Τσιόδρας |url=https://www.ethnos.gr/politiki/105201_dimoskopisi-alco-gia-open-tv-17-monades-mprosta-i-nd-79-egkyros-o-tsiodras |language=el |work=Ethnos |date=12 May 2020}}</ref><ref>{{cite web |title=ΠΑΝΕΛΛΗΝΙΑ OPEN ΜΑΙΟΣ 2020 |url=http://alcopolls.gr/portfolio/%CF%80%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%B1-open-%CE%BC%CE%B1%CE%B9%CE%BF%CF%83-2020 |language=el |work=Alco |date=12 May 2020}}</ref>
@@ -2289,9 +3162,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.5
 | 2.8
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 20.1
 |-
-| Opinion Poll<ref>{{cite web |title=Δημοσκόπηση : Που έχει φτάσει πλέον το προβάδισμα της Νέας Δημοκρατίας έναντι του ΣΥΡΙΖΑ |url=https://www.tanea.gr/2020/05/11/politics/oi-polites-zitoun-prostima-gia-tis-plateies-oxi-sto-anoigma-ton-dimotikon-megalo-provadisma-nd/ |language=el |work=Ta Nea |access-date=11 May 2020}}</ref>
+| Opinion Poll/To Manifesto<ref>{{cite web |title=Δημοσκόπηση : Που έχει φτάσει πλέον το προβάδισμα της Νέας Δημοκρατίας έναντι του ΣΥΡΙΖΑ |url=https://www.tanea.gr/2020/05/11/politics/oi-polites-zitoun-prostima-gia-tis-plateies-oxi-sto-anoigma-ton-dimotikon-megalo-provadisma-nd/ |language=el |work=Ta Nea |access-date=11 May 2020}}</ref>
 | 7–9 May 2020
 | 1,080
 | {{Party shading/ND}}| '''50.4'''
@@ -2301,6 +3175,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.0
 | 3.8
 | 1.4
+| –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 25.3
 |-
@@ -2315,6 +3190,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.0
 | 1.5
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 23.0
 |-
 | Interview/Vergina TV<ref>{{cite web |title=ΝΕΑ ΠΑΝΕΛΛΑΔΙΚΗ ΔΗΜΟΣΚΟΠΗΣΗ ΤΗΣ ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗΣ ΑΠΟ ΕΡΓΑΣΤΗΡΙΟ ΤΗΣ ΚΙΝΑΣ ΞΕΦΥΓΕ Ο ΙΟΣ 42,6% ΤΩΝ ΠΟΛΙΤΩΝ ΕΜΠΙΣΤΕΥΕΤΑΙ ΤΗΝ ΚΥΒΕΡΝΗΣΗ ΜΗΤΣΟΤΑΚΗ-ΣΤΟ 22,5% Η ΔΙΑΦΟΡΑ ΜΕ ΣΥΡΙΖΑ |url=https://verginanews.gr/%CE%BD%CE%B5%CE%B1-%CF%80%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%B1%CE%B4%CE%B9%CE%BA%CE%B7-%CE%B4%CE%B7%CE%BC%CE%BF%CF%83%CE%BA%CE%BF%CF%80%CE%B7%CF%83%CE%B7-%CF%84%CE%B7%CF%83-%CE%B2%CE%B5%CF%81%CE%B3/ |language=el |work=Vergina News |date=6 May 2020}}</ref><ref>{{cite web |title=Πανελλαδική Έρευνα κοινής γνώμης, με πρόθεση ψήφου και επίκαιρα θέματα σχετικά με την νόσο Covid 19 |url=https://www.interview.com.gr/wp-content/uploads/2020/05/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%9C%CE%91%CE%99%CE%9F%CE%A3_2020_interview.pdf |language=el |work=Interview |date=7 May 2020}}</ref>
@@ -2326,6 +3202,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.3
 | 5.2
 | 3.4
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 25.9
@@ -2341,6 +3218,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.0
 | 2.0
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 18.0
 |-
 | Metron Analysis/Mega<ref>{{cite web |title=Δημοσκόπηση MEGA: "Double score" ΝΔ έναντι ΣΥΡΙΖΑ – Τι φοβούνται οι πολίτες |url=https://www.megatv.com/megagegonota/article.asp?catid=27371&subid=2&pubid=38577438 |language=el |work=Mega TV |date=30 April 2020}}</ref><ref>{{cite web |title=Δημοσκόπηση Metron Analysis: Ανοίγει η ψαλίδα μεταξύ ΝΔ-ΣΥΡΙΖΑ |url=https://pollsandpolitics.gr/dimoskopisi-metron-analysis-anigi-i-psalida-metaxy-nd-syriza/ |language=el |work=Polls and Politics |date=1 May 2020}}</ref>
@@ -2353,6 +3231,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.4
 | 3.8
 | 1.8
+| –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 25.0
 |-
@@ -2367,9 +3246,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.0
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 24.0
 |-
-| Κapa Research<ref>{{cite web |title=COVID-19: Hζωή με τον κορωνοϊό και η επόμενη μέρα. ΑΠΡΙΛΙΟΣ 2020. Οι μεταβολές στην ελληνική κοινωνία. ΠΑΝΕΛΛΑΔΙΚΗ ΕΡΕΥΝΑ |url=https://kaparesearch.com/wp-content/uploads/2020/04/2020.04_Kapa_Covid19.pdf |language=el |work=Kapa Research |date=23 April 2020}}</ref>
+| Kapa Research/iEfimerida<ref>{{cite web |title=COVID-19: Hζωή με τον κορωνοϊό και η επόμενη μέρα. ΑΠΡΙΛΙΟΣ 2020. Οι μεταβολές στην ελληνική κοινωνία. ΠΑΝΕΛΛΑΔΙΚΗ ΕΡΕΥΝΑ |url=https://kaparesearch.com/wp-content/uploads/2020/04/2020.04_Kapa_Covid19.pdf |language=el |work=Kapa Research |date=23 April 2020}}</ref>
 | 15–17 Apr 2020
 | 1,060
 | {{Party shading/ND}}| '''49.0'''
@@ -2380,8 +3260,8 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.3
 | 2.4
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 21.7
-|-
 |-
 | Marc/Alpha<ref>{{cite web |title=Νέα δημοσκόπηση: Στις 23,3 μονάδες διευρύνεται το προβάδισμα της ΝΔ |url=https://www.protothema.gr/politics/article/996479/dimoskopisi-marc-stis-233-monades-dieurunetai-to-provadisma-tis-nd/  |language=el |work=Proto Thema |date=15 April 2020}}</ref><ref>{{cite web |title=ΠΑΝΕΛΛΑΔΙΚΗ ΕΡΕΥΝΑ. 15 Απριλίου 2020 |url=https://www.protothema.gr/files/2020-04-15/%CE%A0%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%B1%CE%B4%CE%B9%CE%BA%CE%B7_%CE%95%CF%81%CE%B5%CF%85%CE%BD%CE%B1_ALPHA_15_%CE%91%CE%A0%CE%A1_2020.pdf |language=el |work=Proto Thema |date=15 April 2020}}</ref>
 | 11–13 Apr 2020
@@ -2393,6 +3273,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.7
 | 2.4
 | 1.8
+| –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 28.2
 |-
@@ -2407,9 +3288,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.0
 | 1.0
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 26.0
 |-
-| Opinion Poll<ref>{{cite web |title=Δημοσκόπηση : Τι φοβούνται οι Ελληνες - Πώς κρίνουν τα μέτρα της κυβέρνησης |url=https://www.tanea.gr/2020/03/27/politics/dimoskopisi-ti-fovountai-oi-ellines-pos-krinoun-ta-metra-tis-kyvernisis/ |language=el |work=Ta Nea |date=3 April 2020}}</ref>
+| Opinion Poll/To Manifesto<ref>{{cite web |title=Δημοσκόπηση : Τι φοβούνται οι Ελληνες - Πώς κρίνουν τα μέτρα της κυβέρνησης |url=https://www.tanea.gr/2020/03/27/politics/dimoskopisi-ti-fovountai-oi-ellines-pos-krinoun-ta-metra-tis-kyvernisis/ |language=el |work=Ta Nea |date=3 April 2020}}</ref>
 | 23–26 Mar 2020
 | 1,095
 | {{Party shading/ND}}| '''50.5'''
@@ -2418,6 +3300,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.9
 | 5.7
 | 2.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 25.0
@@ -2433,6 +3316,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.4
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 22.6
 |-
 | Alco/Open<ref>{{cite web |title=Δημοσκόπηση Alco για το Open TV: Στο 12,1% η διαφορά μεταξύ ΝΔ - ΣΥΡΙΖΑ |url=https://www.ethnos.gr/politiki/92988_dimoskopisi-alco-gia-open-tv-sto-121-i-diafora-metaxy-nd-syriza |language=el |work=Ethnos |date=9 March 2020}}</ref><ref>{{cite web |title=ΠΑΝΕΛΛΗΝΙΑ OPEN ΜΑΡΤΙΟΣ 2020 |url=http://alcopolls.gr/portfolio/%CF%80%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%B1-open-%CE%BC%CE%B1%CF%81%CF%84%CE%B9%CE%BF%CF%83-2020 |language=el |work=Alco |date=9 March 2020}}</ref>
@@ -2445,6 +3329,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.2
 | 2.7
 | 3.6
+| –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 15.8
 |-
@@ -2459,9 +3344,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.0
 | 1.5
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 15.5
 |-
-| Opinion Poll<ref>{{cite web |title=Δημοσκόπηση Opinion Poll: Με 17 μονάδες προηγείται η ΝΔ -"Αγκάθι" το προσφυγικό, "όχι" σε πρόωρες εκλογές |url=https://www.iefimerida.gr/politiki/gkalop-opinion-poll-agkathi-kybernisi-prosfygiko |language=el |work=iefimerida |date=29 January 2020}}</ref>
+| Opinion Poll/To Manifesto<ref>{{cite web |title=Δημοσκόπηση Opinion Poll: Με 17 μονάδες προηγείται η ΝΔ -"Αγκάθι" το προσφυγικό, "όχι" σε πρόωρες εκλογές |url=https://www.iefimerida.gr/politiki/gkalop-opinion-poll-agkathi-kybernisi-prosfygiko |language=el |work=iefimerida |date=29 January 2020}}</ref>
 | 22–27 Jan 2020
 | 1,098
 | {{Party shading/ND}}| '''48.1'''
@@ -2470,6 +3356,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.8
 | 5.4
 | 3.4
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 21.4
@@ -2486,6 +3373,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.9
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 18.4
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση ΣΚΑΪ: Μπροστά με 12,5 μονάδες η ΝΔ |url=https://www.skai.gr/news/politics/dimoskopisi-skai-mprosta-me-125-monades-i-nd |language=el |work=Skai |date=23 January 2020}}</ref><ref>{{cite web |title=Pulse RC. 21 - 22 Ιανουαρίου 2020 |url=https://www.skai.gr/sites/default/files/attachments/2020-01/dimoskopisi-pulse-23012020.pdf |language=el |work=Pulse RC |date=23 January 2020}}</ref>
@@ -2498,6 +3386,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.0
 | 3.5
 | 1.5
+| –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 14.0
 |-
@@ -2513,6 +3402,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.1
 | 1.7
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.1
 |-
 | Interview/Vergina TV<ref>{{cite web |title=Δημοσκόπηση: Ξεπερνά τις 15 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ |url=https://www.in.gr/2020/01/09/politics/kommata/dimoskopisi-kseperna-tis-15-monades-diafora-nd-syriza/ |language=el |work=in.gr |date=10 January 2020}}</ref><ref>{{cite web |title=7/1/ έως 8/1/2020 |url=https://www.in.gr/wp-content/uploads/2020/01/%CE%A0%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%B9%CE%B1%CF%83%CE%B7_%CE%92%CE%95%CE%A1%CE%93%CE%99%CE%9D%CE%91_%CE%99%CE%B1%CE%BD%CE%BF%CF%85%CE%B1%CF%81%CE%B9%CE%BF%CF%82_2019__2_.pdf |language=el |work=Interview |date=10 January 2020}}</ref>
@@ -2524,6 +3414,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.4
 | 4.7
 | 3.5
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.7
@@ -2539,6 +3430,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | 2.5
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 14.5
 |-
 | MRB/Star<ref>{{cite web |title=MRB: To ποσοστό με το οποίο προηγείται η ΝΔ και οι δημοφιλέστεροι υπουργοί |url=https://www.star.gr/eidiseis/politiki/483632/mrb-ta-pososta-twn-kommatwn-kai-oi-dhmofilesteroi-ypoyrgoi |language=el |work=Star |date=12 December 2019}}</ref><ref>{{cite web |title=Δημοσκόπηση: Προβάδισμα 12,3% της ΝΔ έναντι του ΣΥΡΙΖΑ |url=https://www.thetoc.gr/politiki/article/dimoskopisi-ekpliksi-probadisma-paulopoulou-gia-tin-proedria |language=el |work=The TOC |date=12 December 2019}}</ref>
@@ -2552,9 +3444,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.6
 | 3.0
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 13.9
 |-
-| Opinion Poll<ref>{{cite web |title=Βαρόμετρο. ΠΑΝΕΛΛΑΔΙΚΗ ΕΡΕΥΝΑ. ΝΟΕΜΒΡΙΟΣ 2019 |url=https://www.protothema.gr/files/2019-11-29/ch/varometro.pdf |language=el |work=Opinion Poll |date=29 November 2019}}</ref>
+| Opinion Poll/To Manifesto<ref>{{cite web |title=Βαρόμετρο. ΠΑΝΕΛΛΑΔΙΚΗ ΕΡΕΥΝΑ. ΝΟΕΜΒΡΙΟΣ 2019 |url=https://www.protothema.gr/files/2019-11-29/ch/varometro.pdf |language=el |work=Opinion Poll |date=29 November 2019}}</ref>
 | 25–28 Nov 2019
 | 1,058
 | {{Party shading/ND}}| '''49.0'''
@@ -2565,9 +3458,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.6
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 21.2
 |-
-| Μetron Analysis/To Vima<ref>{{cite web |title=Δημοσκόπηση στο "Βήμα της Κυριακής" : Προβάδισμα άνω των 16 μονάδων για ΝΔ έναντι του ΣΥΡΙΖΑ |url=https://www.tovima.gr/2019/11/23/politics/dimoskopisi-sto-vima-tis-kyriakis-provadisma-ano-ton-16-monadon-gia-nd-enanti-tou-syriza/ |language=el |work=To Vima |date=23 November 2019}}</ref>
+| Metron Analysis/To Vima<ref>{{cite web |title=Δημοσκόπηση στο "Βήμα της Κυριακής" : Προβάδισμα άνω των 16 μονάδων για ΝΔ έναντι του ΣΥΡΙΖΑ |url=https://www.tovima.gr/2019/11/23/politics/dimoskopisi-sto-vima-tis-kyriakis-provadisma-ano-ton-16-monadon-gia-nd-enanti-tou-syriza/ |language=el |work=To Vima |date=23 November 2019}}</ref>
 | 18–20 Nov 2019
 | 1,000
 | {{Party shading/ND}}| '''45.4'''
@@ -2577,6 +3471,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.1
 | 4.6
 | 1.7
+| –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 19.7
 |-
@@ -2591,6 +3486,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.0
 | 1.0
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 16.0
 |-
 | Palmos Analysis/GUE–NGL<ref>{{cite web |title=Έρευνα: Χαμηλές πτήσεις και στάση αναμονής των πολιτών για Ν.Δ. και ΣΥΡΙΖΑ |url=http://www.avgi.gr/article/10842/10466020/chameles-pteseis-kai-stase-anamones-ton-politon-gia-n-d-kai-syriza |language=el |work=Avgi |date=3 December 2019}}</ref><ref>{{cite web |title=GREECE. Palmos Analysis poll 03/12/2019: KKE 6.8% (18), SYRIZA 27.4% (74), MeRA25 3.5% (9), KINAL 6.4% (17), ND 40.6% (160), EL 4.3% (12), XA 3.9% (10) |url=https://www.electograph.com/2019/12/greece-palmos-analysis-poll-191203.html |language=el |work=Electograph |date=3 December 2019}}</ref>
@@ -2603,6 +3499,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.3
 | 3.5
 | 3.9
+| –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 13.2
 |-
@@ -2617,6 +3514,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.4
 | 2.2
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 20.1
 |-
 | Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση PULSE: Τι γνώμη έχουν οι πολίτες για τις 100 μέρες διακυβέρνησης Μητσοτάκη |url=https://www.skai.gr/news/politics/dimoskopisi-pulse-ti-gnomi-exoun-oi-polites-gia-tis-100-meres-diakyvernisis-mitsotaki |language=el |work=Skai |date=24 October 2019}}</ref><ref>{{cite web |title=Pulse RC. 22 - 23 Οκτωβρίου 2019 |url=https://www.skai.gr/sites/default/files/attachments/2019-10/DHMOSKOPHSH%20PULSE%20241019.pdf |language=el |work=Pulse RC |date=24 October 2019}}</ref>
@@ -2629,6 +3527,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.0
 | 4.5
 | 1.5
+| –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 15.5
 |-
@@ -2643,9 +3542,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 4.5
 | –
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 15.0
 |-
-| Μetron Analysis/To Vima<ref>{{cite web |title=Δημοσκόπηση: Κυριαρχία ΝΔ, στο 16,5% η διαφορά με ΣΥΡΙΖΑ (κάρτα+βίντεο)|url=https://www.lykavitos.gr/dimoskopisi-kyriarxia-nd-sto-165-i-diafo/ |language=el |work=lykavitos.gr |date=21 September 2019}}</ref>
+| Metron Analysis/To Vima<ref>{{cite web |title=Δημοσκόπηση: Κυριαρχία ΝΔ, στο 16,5% η διαφορά με ΣΥΡΙΖΑ (κάρτα+βίντεο)|url=https://www.lykavitos.gr/dimoskopisi-kyriarxia-nd-sto-165-i-diafo/ |language=el |work=lykavitos.gr |date=21 September 2019}}</ref>
 | 16–18 Sep 2019
 | 1,202
 | {{Party shading/ND}}| '''46.1'''
@@ -2655,6 +3555,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.9
 | 4.4
 | 1.8
+| –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 19.3
 |-
@@ -2667,6 +3568,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.9
 | 3.8
 | 5.2
+| –
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.7
@@ -2682,9 +3584,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.3
 | 1.8
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 17.7
 |-
-| Opinion Poll<ref>{{cite web |title=Δημοσκόπηση: Θετικές οι πρώτες εντυπώσεις για την κυβέρνηση – Επέστρεψε η αισιοδοξία |url=https://www.protothema.gr/politics/article/922066/ereuna-opinion-poll-thetikes-oi-protes-eduposeis-gia-tin-kuvernisi-epestrepse-i-aisiodoxia/ |language=el |work=Proto Thema |date=5 September 2019}}</ref><ref>{{cite web |title=Βαρόμετρο. ΠΑΝΕΛΛΑΔΙΚΗ ΕΡΕΥΝΑ. ΣΕΠΤΕΜΒΡΙΟΣ 2019 |url=https://neaselida.gr/nsmedia/uploads/2019/09/poll.pdf |language=el |work=Opinion Poll |date=5 September 2019}}</ref>
+| Opinion Poll/To Manifesto<ref>{{cite web |title=Δημοσκόπηση: Θετικές οι πρώτες εντυπώσεις για την κυβέρνηση – Επέστρεψε η αισιοδοξία |url=https://www.protothema.gr/politics/article/922066/ereuna-opinion-poll-thetikes-oi-protes-eduposeis-gia-tin-kuvernisi-epestrepse-i-aisiodoxia/ |language=el |work=Proto Thema |date=5 September 2019}}</ref><ref>{{cite web |title=Βαρόμετρο. ΠΑΝΕΛΛΑΔΙΚΗ ΕΡΕΥΝΑ. ΣΕΠΤΕΜΒΡΙΟΣ 2019 |url=https://neaselida.gr/nsmedia/uploads/2019/09/poll.pdf |language=el |work=Opinion Poll |date=5 September 2019}}</ref>
 | 2–4 Sep 2019
 | 1,102
 | {{Party shading/ND}}| '''48.3'''
@@ -2695,9 +3598,10 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.8
 | 2.4
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 21.7
 |-
-| colspan="12" style="background:#A0A0A0" |
+| colspan="13" style="background:#A0A0A0"|
 |- style="background:#EFEFEF;"
 | '''[[2019 Greek legislative election|2019 legislative election]]'''
 | 7 Jul 2019
@@ -2710,7 +3614,8 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.4<br/>{{font|size=75%|font=Verdana|text=9}}
 | 2.9<br/>{{font|size=75%|font=Verdana|text=0}}
 | –
+| –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.4
 |-
-| colspan="12" style="background:#A0A0A0" |
+| colspan="13" style="background:#A0A0A0"|
 |}

@@ -75,11 +75,11 @@ def transcribe_table(content, key, choice, begin, start):
     ncontent.append(content[-1])
     content = ncontent
 
+    found = False
     while i < len(content):
         line = content[i].strip('| \n')
         if line == '-' and len(content[i].strip('|\n')) > 1:
             line = '–'
-        reset = False
         nkey = []
         if choice == 'Russia':
             if 'Old Russia' in line:
@@ -88,105 +88,105 @@ def transcribe_table(content, key, choice, begin, start):
                         'CR', 'Yabloko', 'RRPSJ', 'Rodina', 'PG', 'Greens', 'CP', 'RPFJ', 'NP', 'GA',
                         'Undecided', 'Abstention',
                         'lead', 'end']
-                reset = True
             if 'Pre-campaign 2021' in line:
                 nkey = ['date', 'firm',
                         'UR', 'CPRF', 'LDPR', 'SRZP', 'Other', 'Undecided', 'Abstention',
                         'lead', 'end']
-                reset = True
         elif choice == 'Canada':
             if 'Opinion polling during the campaign period of 2019 Canadian federal election' in line:
                 nkey = ['firm', 'date', 'link',
-                        'LIB', 'CON', 'NDP', 'BQ', 'GRN', 'PPC',
+                        'LPC', 'CPC', 'NDP', 'BQ', 'GPC', 'PPC',
                         'margin', 'size', 'method', 'lead', 'end']
-                reset = True
             elif 'Opinion polling during the campaign period of the 2021 Canadian federal election' in line:
                 nkey = ['firm', 'date', 'link',
-                        'CON', 'LIB', 'NDP', 'BQ', 'GRN', 'PPC',
+                        'CPC', 'LPC', 'NDP', 'BQ', 'GPC', 'PPC',
                         'Other', 'margin', 'size', 'method', 'lead']
-                reset = True
         elif choice == 'Brazil':
             mark = 'https://tribunapr.uol.com.br/noticias/brasil/bolsonaro-e-lula-empatam-na-pesquisa-exame-' \
                    'ideia-para-as-eleicoes-2022/'
             if mark in line:
                 nkey = ['firm', 'date', 'sample',
-                        'Bolsanaro (APB)', 'Lula (PT)', 'Haddad (PT)', 'Dino (PCdoB)', 'Gomes (PDT)', 'Boulos (PSOL)',
+                        'Bolsonaro (PL)', 'Lula (PT)', 'Haddad (PT)', 'Dino (PCdoB)', 'Gomes (PDT)', 'Boulos (PSOL)',
                         'Doria (PSDB)', 'Amoedo (NOVO)', 'Moro (PODE)', 'Huck',
                         'Other', 'Undecided', 'lead', 'end']
-                reset = True
-            elif '====2019====' in line:
+            if '====2019====' in line:
                 nkey = ['firm', 'date', 'sample',
-                        'Bolsanaro (APB)', 'Lula (PT)', 'Haddad (PT)', 'Gomes (PDT)', 'Doria (PSDB)', 'Amoedo (NOVO)',
+                        'Bolsonaro (PL)', 'Lula (PT)', 'Haddad (PT)', 'Gomes (PDT)', 'Doria (PSDB)', 'Amoedo (NOVO)',
                         'Moro (PODE)', 'Huck',
                         'Other', 'Undecided', 'lead', 'end']
-                reset = True
             elif '====2021====' in line:
                 nkey = ['firm', 'date', 'sample',
-                        'Bolsanaro (APB)', 'Lula (PT)', 'Moro (PODE)', 'Gomes (PDT)', 'Doria (PSDB)',
+                        'Bolsonaro (PL)', 'Lula (PT)', 'Moro (PODE)', 'Gomes (PDT)', 'Doria (PSDB)',
                         'Leite (PSDB)', 'Mandetta (DEM)', 'Pancheco (DEM)',
                         'Other', 'Undecided', 'lead', 'end']
-                reset = True
-            elif 'Jan – Mar' in line:
+            elif 'Jan–Mar' in line:
                 nkey = ['firm', 'date', 'sample',
-                        'Bolsanaro (APB)', 'Lula (PT)', 'Moro (PODE)', 'Gomes (PDT)', 'Doria (PSDB)',
-                        'Other', 'Undecided', 'lead', 'end']
-                reset = True
+                        'Bolsonaro (PL)', 'Lula (PT)', 'Moro (PODE)', 'Gomes (PDT)', 'Doria (PSDB)',
+                        'Other', 'Undecided', 'lead']
+            elif 'Apr–Jun' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'Bolsonaro (PL)', 'Lula (PT)', 'Gomes (PDT)', 'Doria (PSDB)',
+                        'Other', 'Undecided', 'lead']
         elif choice == 'Italy':
-            if '=== 2021 ===' in line:
+            if not found and '[https://sondaggibidimedia.com/politiche-sondaggio-swg-8-agosto/ SWG]' in line:
+                nkey = ['date', 'firm', 'sample',
+                        'M5S', 'PD', 'Lega', 'FI', 'FdI', 'Art.1', 'AVS', 'AVS', '+E-A', 'IV', 'Italexit', 'IC',
+                        'Other', 'lead', 'end']
+                found = True
+                i -= 1
+            elif '=== 2022 ===' in line:
+                nkey = ['date', 'firm', 'sample',
+                        'FdI', 'PD', 'M5S', 'Lega', 'FI', 'A-IV', 'AVS', '+E', 'Italexit', 'UP', 'ISP', 'NM',
+                        'other', 'lead']
+            elif '=== Pre-election 2022 ===' in line:
+                nkey = ['date', 'firm', 'sample',
+                        'M5S', 'PD', 'Lega', 'FI', 'FdI', 'AVS', '+E', 'A-IV', 'Italexit', 'IC', 'NM',
+                        'other', 'lead', 'end']
+            elif '=== 2021 ===' in line:
                 nkey = ['date', 'firm', 'sample',
                         'M5S', 'PD', 'Lega', 'FI', 'FdI', 'Art.1', 'SI', '+Eu', 'EV', 'A', 'IV', 'CI',
                         'Other', 'lead', 'end']
-                reset = True
             elif 'Polling program mark: May 2021' in line:
                 nkey = ['date', 'firm', 'sample',
                         'M5S', 'PD', 'Lega', 'FI', 'FdI', 'LeU', '+Eu', 'EV', 'C!', 'A', 'IV',
                         'Other', 'lead', 'end']
-                reset = True
             elif 'Polling program mark: April 2019' in line:
                 nkey = ['date', 'firm', 'sample',
                         'M5S', 'PD', 'Lega', 'FI', 'FdI', 'LeU', '+Eu', 'NcI', 'PaP',
                         'Other', 'lead', 'end']
-                reset = True
         elif choice == 'Germany':
             if 'Old Germany' in line:
                 nkey = ['firm', 'date', 'sample', 'abs',
                         'Union', 'SPD', 'AfD', 'FDP', 'Linke', 'Gr\u00fcne',
                         'FW', 'Other', 'lead', 'end']
-                reset = True
             elif '=== 2020 ===' in line:
                 nkey = ['firm', 'date', 'sample', 'abs',
                         'Union', 'SPD', 'AfD', 'FDP', 'Linke', 'Gr\u00fcne',
                         'Other', 'lead', 'end']
-                reset = True
         elif choice == 'Japan':
             if '=== 2020 ===' in line:
                 nkey = ['date', 'firm',
                         'LDP', 'CDP', 'NKP', 'JCP', 'Ishin', 'DPP', 'SDP', 'Reiwa', 'Kibo', 'NHK',
                         'Other', 'None', 'lead', 'end']
-                reset = True
         elif choice == 'Estonia':
             if '[[Kaja Kallas\' cabinet]] is formed by the Reform Party and Centre Party' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Reform', 'Centre', 'EKRE', 'Isamaa', 'SDE', 'E200', 'Green', 'TULE/EVA',
                         'Other', 'lead', 'gov', 'opp', 'end']
-                reset = True
             if '=== 2020 ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Reform', 'Centre', 'EKRE', 'Isamaa', 'SDE', 'E200', 'Green', 'TULE/EVA',
                         'Other', 'lead', 'gov', 'opp', 'end']
-                reset = True
         elif choice == 'Poland':
             if '=== 2020 ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'United Right', 'Civic Coalition', 'Civic Coalition', 'The Left', 'Polish Coalition',
                         'Kukiz\'15', 'Confederation', 'Poland 2050',
                         'Other', 'lead', 'end']
-                reset = True
             elif '=== 2019 ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'United Right', 'Civic Coalition', 'The Left', 'Polish Coalition', 'Confederation',
                         'Other', 'lead', 'end']
-                reset = True
         elif choice == 'Austria':
             if '=== By state ===' in line:
                 break
@@ -195,7 +195,6 @@ def transcribe_table(content, key, choice, begin, start):
                 nkey = ['date', 'firm', 'sample',
                         'FG', 'FF', 'SF', 'Lab', 'PBP/S', 'SD', 'GP', 'O/I', 'O/I', 'O/I',
                         'end']
-                reset = True
         elif choice == 'Netherlands':
             if '{{For|events during those years|2020 in the Netherlands|2019 in the Netherlands|' \
                '2018 in the Netherlands|2017 in the Netherlands}}' in line:
@@ -203,26 +202,26 @@ def transcribe_table(content, key, choice, begin, start):
                         'VVD', 'PVV', 'CDA', 'D66', 'GL', 'SP', 'PvdA', 'CU', 'PvdD', '50+', 'SGP', 'DENK', 'FVD',
                         'JA21', 'Volt', 'BIJ1', 'BBB',
                         'Others', 'lead', 'end']
-                reset = True
         elif choice == 'Bulgaria':
+            if 'Old Data' in line:
+                nkey = ['firm', 'date', 'sample', 'turnout', 'Undecided',
+                        'ITN', 'GERB', 'BSP', 'DB', 'DPS', 'IBG-NI', 'IMRO', 'Revival', 'PP',
+                        'Other', 'None', 'lead']
             if 'https://bntnews.bg/news/parvi-prognozni-rezultati-6-partii-vlizat-v-parlamenta-stotni-' \
                'delyat-gerb-i-itn-1162099news.html' in line:
                 nkey = ['firm', 'date', 'sample',
-                        'GERB', 'ITN', 'BSPzB', 'DPS', 'DB', 'IBG-NI', 'BP', 'BP', 'BP', 'Revival', 'BL', 'RzB',
+                        'GERB', 'ITN', 'BSP', 'DPS', 'DB', 'IBG-NI', 'BP', 'BP', 'BP', 'Revival', 'BL', 'RzB',
                         'LSChSR',
                         'Other', 'lead', 'end']
-                reset = True
             elif 'Pre-April Election polls' in line:
                 nkey = ['firm', 'date', 'sample', 'moe',
-                        'GERB', 'BSPzB', 'DPS', 'BP', 'DB', 'Volya', 'ITN', 'IBG-NI',
+                        'GERB', 'BSP', 'DPS', 'BP', 'DB', 'Volya', 'ITN', 'IBG-NI',
                         'Other', 'lead', 'end']
-                reset = True
         elif choice == 'Norway':
             if 'Old Norway' in line:
                 nkey = ['firm', 'date', 'sample', 'resp',
                         'R', 'SV', 'MDG', 'Ap', 'Sp', 'V', 'KrF', 'H', 'FrP',
                         'Other', 'lead', 'end']
-                reset = True
         elif choice == 'Chile':
             if '=== Before official registration of candidates ===' in line:
                 nkey = ['date', 'firm', 'type',
@@ -230,55 +229,54 @@ def transcribe_table(content, key, choice, begin, start):
                         'Vidal', 'Maldonado', 'Provoste', 'Rincon', 'Sichel', 'F. Kast', 'Briones', 'Desbordes',
                         'Pinera', 'Lavin', 'Matthei', 'Kast', 'Parisi', 'Farkas', 'Siches',
                         'Other', 'end']
-                reset = True
             elif '==First round==' in line:
                 nkey = ['date', 'source', 'type',
                         'Artes', 'Boric', 'Enriquez-Om.', 'Provoste', 'Parisi', 'Sichel', 'Kast',
                         'Other', 'end']
-                reset = True
         elif choice == 'Latvia':
             if 'A new party - [[Law and Order (Latvia)|LuK]] - is established' in line:
                 nkey = ['firm', 'date', 'sample', 'dec',
                         'S', 'PCL', 'JKP', 'AP!', 'NA', 'ZZS', 'JV', 'LRA', 'LKS', 'P',
                         'Other', 'lead', 'gov', 'opp', 'end']
-                reset = True
             elif 'Two new parties - [[Latvia First]] and [[Republic (Latvia)|Republic]] - are established' in line:
                 nkey = ['firm', 'date', 'sample', 'dec',
                         'S', 'PCL', 'JKP', 'AP!', 'NA', 'ZZS', 'JV', 'LRA', 'LKS', 'P', 'LuK',
                         'Other', 'lead', 'gov', 'opp', 'end']
-                reset = True
         elif choice == 'Denmark':
-            if '=== 2020 ===' in line:
+            if 'Pre-election 2022' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'K', 'G', 'M', 'Q', 'Æ',
+                        'Other', 'red', 'blue', 'leadall', 'leadabove']
+            elif '=== 2021 ===' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G', 'M', 'Q',
+                        'Other', 'lead', 'red', 'blue', 'lead']
+            elif '=== 2020 ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G',
                         'Other', 'lead', 'red', 'blue', 'lead']
-                reset = True
             elif '=== 2019 ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G',
                         'Other', 'lead', 'red', 'blue', 'lead']
-                reset = True
         elif choice == 'France':
             if '=== March ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Taubira', 'Hidalgo', 'Jadot', 'Thouy',
                         'Macron', 'Lassalle', 'Pécresse', 'Dupont-Aignan', 'Le Pen', 'Zemmour', 'Asselineau',
                         'end']
-                reset = True
             elif '=== February ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Taubira', 'Hidalgo', 'Jadot', 'Thouy',
                         'Macron', 'Pécresse', 'Lassalle', 'Dupont-Aignan', 'Le Pen', 'Philippot', 'Zemmour',
                         'Asselineau',
                         'end']
-                reset = True
             elif '==== January ====' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Taubira', 'Montebourg', 'Hidalgo', 'Thouy',
                         'Jadot', 'Macron', 'Pécresse', 'Dupont-Aignan', 'Lassalle', 'Le Pen', 'Philippot', 'Zemmour',
                         'Asselineau',
                         'end']
-                reset = True
             elif '==== September–November ====' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Montebourg', 'Hidalgo', 'Jadot', 'Macron',
@@ -287,7 +285,6 @@ def transcribe_table(content, key, choice, begin, start):
                         'Dupont-Aignan', 'Lassalle',
                         'Le Pen', 'Philippot', 'Zemmour', 'Asselineau',
                         'end']
-                reset = True
             elif '==== January–September ====' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Montebourg', 'Hidalgo', 'Hollande', 'Piolle',
@@ -295,7 +292,6 @@ def transcribe_table(content, key, choice, begin, start):
                         'Retailleau', 'Wauquiez', 'Poisson', 'Dupont-Aignan', 'Lassalle', 'Le Pen', 'Zemmour',
                         'Asselineau',
                         'end']
-                reset = True
             elif '=== 2017–2020 ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Hamon', 'Cazeneuve', 'Faure', 'Hidalgo',
@@ -303,7 +299,6 @@ def transcribe_table(content, key, choice, begin, start):
                         'Baroin', 'Dati', 'Fillon', 'Retailleau', 'Wauquiez', 'Dupont-Aignan', 'Lassalle', 'Le Pen',
                         'Asselineau', 'Cheminade',
                         'end']
-                reset = True
         elif choice == 'Portugal':
             if '====Hypothetical scenarios====' in line:
                 break
@@ -312,13 +307,11 @@ def transcribe_table(content, key, choice, begin, start):
                 nkey = ['firm', 'date', 'sample', 'turnout',
                         'PSOE', 'PP', 'VOX', 'UP', 'Cs', 'ERC', 'MP', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG', 'NA+',
                         'PRC', 'TE', 'lead', 'end']
-                reset = True
         elif choice == 'Slovenia':
             if 'Parties which ran in 2018' in line:
                 nkey = ['date', 'firm', 'publisher', 'sample',
                         'SDS', 'LMS', 'SD', 'K', 'Left', 'NSi', 'SAB', 'DeSUS', 'SNS', 'SLS', 'PPS', 'DD', 'ACZS',
                         'Other', 'None', 'Undecided', 'Abstain', 'lead', 'source', 'end']
-                reset = True
             elif '===Scenario Polls===' in line:
                 break
         elif choice == 'Romania':
@@ -326,12 +319,27 @@ def transcribe_table(content, key, choice, begin, start):
                 nkey = ['date', 'source', 'sample',
                         'PSD', 'PNL', 'FD', 'USR', 'AUR', 'UDMR', 'PMP', 'PRO', 'ALDE', 'PPU-SL', 'PER', 'APP',
                         'Other', 'lead', 'end']
-                reset = True
         elif choice == 'Costa Rica':
             if 'Second round' in line:
                 nkey = ['date', 'firm', 'Chaves', 'Figueres', 'Other', 'end']
-                reset = True
-        if reset:
+        elif choice == 'Israel':
+            if 'url=https://www.ynetnews.com/article/nozaf2n25' in line:
+                nkey = ['date', 'firm', 'publisher',
+                        'Likud', 'Yesh Atid', 'Shas', 'Blue & White', 'Yamina', 'Labor', 'UTJ', 'Yisrael Beitenu',
+                        'Religious Zionist', 'Joint List', 'New Hope', 'Meretz', 'Ra\'am',
+                        'gov', 'end']
+        elif choice == 'Iceland':
+            if '== Pre-2021 ==' in line:
+                nkey = ['firm', 'date', 'sample', 'resp',
+                        'D', 'V', 'S', 'M', 'B', 'P', 'F', 'C', 'J',
+                        'Other', 'lead', 'end']
+        elif choice == 'Czechia':
+            if '=== 2021 ===' in line:
+                nkey = ['firm', 'date', 'size', 'turnout',
+                        'ANO', 'SPOLU', 'SPOLU', 'SPOLU', 'PaS', 'PaS', 'SPD', 'KSCM', 'CSSD', 'T-S',
+                        'T-S', 'Z', 'APB', 'VB', 'P',
+                        'Other', 'Lead', 'Govt.', 'Opp.']
+        if len(nkey) > 0:
             tables.append({'table': table[:], 'key': key, 'years': years})
             table = []
             years = {0: years[max(years)]}
@@ -439,12 +447,12 @@ def process_tables(tables: List[Dict[str, Union[List[List[Any]], List[str]]]], c
 
 
 def process_table(table: List[List[Any]], years, key, choice, include, zeros):
-    def process_date(line, year) -> Optional[int]:
+    def process_date(line: string, year) -> Optional[int]:
         line = line.strip().strip('}\'')
         if '<br>' in line:
             place = line.find('<br>')
             line = line[:place] + ' ' + line[place + 4:]
-        if choice in ['UK', 'Germany', 'Netherlands'] and 'opdrts' in line:
+        if choice in ['UK', 'Germany', 'Netherlands', 'Italy'] and 'opdrts' in line.lower():
             temp = line.strip('|').split('|')
             if temp[-1] == 'year':
                 shift = True
@@ -466,6 +474,23 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
             m = temp[-2]
             y = temp[-3]
             temp = d + ' ' + m + ' ' + y
+        elif choice == 'Alberta':
+            if 'dts' in line:
+                line = line[line.find('dts'):]
+                temp = line.strip('}|').split('|')
+                temp2 = temp[-1].split(',')
+                y = temp2[-1].strip()
+                temp3 = temp[1].split()
+                d = temp3[1].strip(',"')
+                m = temp3[0]
+                temp = d + ' ' + m + ' ' + y
+            else:
+                temp = line.split(',')
+                y = temp[-1].strip()
+                temp2 = temp[0].split()
+                m = temp2[0]
+                d = temp2[1].split('–')[0]
+                temp = d + ' ' + m + ' ' + y
         else:
             if '{{efn' in line:
                 line = line[:line.find('{{efn')]
@@ -574,7 +599,11 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
                 remove.append(i)
                 continue
         else:
-            date = process_date(entry[date_i], year)
+            try:
+                date = process_date(entry[date_i], year)
+            except KeyError:
+                print("Error processing date")
+                date = None
         if date is None:
             remove.append(i)
         else:
@@ -622,6 +651,19 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
                     for k, entry in enumerate(table):
                         if entry[i + j] is not None:
                             purge.add(k)
+        for p in ['ODS', 'STAN']:
+            c = key.count(p)
+            if c > 0:
+                i = key.index(p)
+                for k, entry in enumerate(table):
+                    if entry[i + 1] is None:
+                        purge.add(k)
+    elif choice == 'Bulgaria':
+        if 'DB' in key:
+            i = key.index('DB')
+            for k, entry in enumerate(table):
+                if entry[i] is None:
+                    purge.add(k)
     elif choice == 'Brazil':
         i = key.index('firm')
         for k, entry in enumerate(table):
@@ -637,7 +679,6 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
                     purge.add(k)
             elif entry[j] is None:
                 purge.add(k)
-
     elif choice == 'Hungary':
         i = key.index('firm')
         for k, entry in enumerate(table):
@@ -798,6 +839,10 @@ def choices_setup():
             d['zeros'] = None
         if 'toggle_seats' not in d:
             d['toggle_seats'] = False
+        if 'spread' not in d:
+            d['spread'] = GraphPage.spread
+        if 'url' not in d:
+            d['url'] = None
     return specs
 
 
@@ -816,7 +861,9 @@ def choice_setting(c):
     vlines = dat['vlines']
     toggle_seats = dat['toggle_seats']
     zeros = dat['zeros']
-    return file_name, key, col, blocs, gov, start, restart, date, end_date, include, vlines, toggle_seats, zeros
+    spread = dat['spread']
+    src = dat['url']
+    return file_name, key, col, blocs, gov, start, restart, date, end_date, include, vlines, toggle_seats, zeros, spread
 
 
 def filter_nils(dat):
@@ -862,9 +909,8 @@ class GraphPage:
         self.view = view
         self.metric = metric
         self.minx = -1
-        self.spread = GraphPage.spread
-        self.file_name, self.key, self.col, self.blocs, self.gov, self.start, self.restart, self.date, \
-            self.end_date, self.include, self.vlines, toggle_seats, self.zeros = choice_setting(self.choice)
+        self.file_name, self.key, self.col, self.blocs, self.gov, self.start, self.restart, self.date, self.end_date, \
+            self.include, self.vlines, toggle_seats, self.zeros, self.spread = choice_setting(self.choice)
 
         self.to_end_date = to_end_date
 
@@ -962,6 +1008,18 @@ class GraphPage:
             end_button.select()
         end_button.show()
 
+        src_button = Button((screen_width - 18 / 2 * unit_size, height * 2 / 3),
+                            (unit_size, unit_size), align=CENTER)
+        if choices[self.choice]['url'] is None:
+            src_button.disable()
+        else:
+            src_button.callback(functools.partial(self.open_web))
+            src_button.set_tooltip('Open source data on Wikipedia')
+        src_img = Image(src_button.rect.center, (src_button.rect.w * 4 / 5, src_button.rect.h * 4 / 5),
+                        img_path='../images/news.png')
+        src_button.components.append(src_img)
+        src_button.show()
+
         self.spread_txt = Text(str(self.spread), (back_button.rect.centerx, back_button.rect.bottom + 8), align=TOP,
                                background_colour=background_colour, colour=whitish if dark_mode else black)
         self.spread_txt.show()
@@ -1001,7 +1059,17 @@ class GraphPage:
             b.show()
             pinboard2.select_buttons.append(b)
 
-        self.change_view(view='parties')
+        try:
+            self.change_view(view='parties')
+        except:
+            msg = Text("There was an error displaying the data (often caused by improperly entered/interpreted data)",
+                       screen_center, background_colour=background_colour, colour=whitish if dark_mode else black)
+            msg.show()
+            bloc_button.disable()
+            seats_button.disable()
+            gov_button.disable()
+            self.up_spread.disable()
+            self.down_spread.disable()
 
         remove_from_update(self.choice)
 
@@ -1014,6 +1082,7 @@ class GraphPage:
             with open(choices[self.choice]['old_data'], 'r', encoding='utf-8') as f:
                 content.extend(f.readlines())
         tables = transcribe_table(content, self.key, self.choice, self.restart, self.start)
+        # display_tables(tables)
         tables = process_tables(tables, self.choice, self.include, self.zeros)
         tables = filter_tables(tables, self.choice, self.include)
         tables = modify_tables(tables, self.choice, self.include, self.zeros)
@@ -1276,6 +1345,13 @@ class GraphPage:
         self.to_end_date = toend
         self.make_graph()
 
+    def open_web(self):
+        url = choices[self.choice]['url']
+        rm = 'action=edit'
+        i = url.find(rm)
+        url = url[:i - 1]
+        webbrowser.open(url)
+
 
 class MenuPage:
 
@@ -1432,7 +1508,7 @@ def update_data(sel="All"):
 
 
 def process_riding_data(dat):
-    tags = ['LIB', 'CON', 'NDP', 'BQ', 'GRN', 'PPC', 'IND']
+    tags = ['LPC', 'CPC', 'NDP', 'BQ', 'GPC', 'PPC', 'IND']
     total_votes = {p: 0 for p in tags}
     rel_votes = total_votes.copy()
     all_shares = {}

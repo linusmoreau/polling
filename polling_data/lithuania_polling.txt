@@ -1,43 +1,5 @@
 ==Opinion polls==
-
-{{Graph:Chart
- | width=1000
- | height=400
- | xAxisTitle=
- | hannotatonsline = 5,7
- | hannotatonslabel = electoral threshold (for single party),electoral threshold (for coalition)
- | yAxisTitle=%support
- | xAxisMax=1728230400000
- | xAxisAngle = -40
- | legend=Party
- | interpolate = bundle
- | showSymbols = 1.5
- | xType = date
- | y1Title=TS–LKD
- | y2Title=LVŽS
- | y3Title=DP
- | y4Title=LSDP
- | y5Title=LP
- | y6Title=LRLS
- | y7Title=LLRA–KŠS
- | y8Title=LSDDP/LRP
- | y9Title=LT
- | y10Title=DSVL
- | type=line
- | xGrid = | yGrid =
- | x= 2020/10/11, 2020/11/30, 2020/12/20, 2021/01/27, 2021/02/26, 2021/03/23, 2021/04/17, 2021/04/28, 2021/05/21, 2021/05/28, 2021/06/02, 2021/06/18, 2021/06/28, 2021/08/05, 2021/08/31, 2021/08/31, 2021/09/16, 2021/09/26, 2021/10/03, 2021/10/22, 2021/10/28, 2021/11/05, 2021/11/27, 2021/11/28, 2021/12/02, 2021/12/18, 2021/12/18, 2021/12/25, 2022/01/29, 2022/02/04, 2022/02/08, 2022/02/25, 2022/03/03, 2022/03/19, 2022/03/24, 2022/03/25, 2022/04/22, 2022/04/28, 2022/04/28, 2022/05/18, 2022/05/27, 2022/05/28
- | y1= 25.77, 22.7, 23.3, 27.2, 25.6, 23.5, 29.2, 23.7, 24.5, 23.0, 17.3, 20.2, 20.8, 19.5, 18.9, 15.7, 21.9, 18.5, 15.5, 16.7, 17.4, 14.1, 19.3, 16.5, 15.5, 17.5, 24.6, 17.0, 16.9, 12.9, 15.8, 17.3, 16.6, 19.0, 13.3, 19.3, 23.4, 14.7, 20.1, 19.9, 20.3, 15.4,
- | y2= 18.07, 19.0, 19.7, 16.1, 18.3, 21.1, 26.5, 23.1, 26.8, 22.0, 22.0, 25.9, 22.8, 23.2, 17.3, 17.2, 17.4, 13.7, 15.0, 16.1, 13.2, 14.1, 17.6, 13.4, 15.0, 13.7, 8.9, 10.6, 11.2, 13.4, 12.8, 9.6, 8.7, 10.7, 7.5, 9.7, 11.8, 6.6, 10.2, 9.0, 8.5, 7.2,
- | y3= 9.77, 10.5, 8.1, 6.0, 5.8, 7.4, 6.7, 7.4, 7.3, 7.6, 11.9, 8.9, 6.3, 8.7, 9.5, 7.3, 9.3, 9.4, 7.8, 9.8, 9.8, 10.3, 8.7, 9.0, 7.8, 9.9, 7.5, 6.6, 8.7, 13.4, 8.6, 9.4, 8.8, 6.9, 7.7, 6.2, 4.5, 6.3, 6.1, 6.0, 5.1, 6.8,
- | y4= 9.59, 9.4, 7.8, 8.5, 6.5, 8.6, 11.7, 8.2, 16.9, 10.9, 20.0, 22.8, 15.3, 23.6, 18.6, 25.8, 29.6, 21.2, 25.7, 28.9, 19.5, 26.7, 27.3, 19.4, 25.7, 32.0, 17.8, 17.2, 14.9, 23.9, 26.9, 17.6, 17.1, 23.0, 18.0, 15.1, 16.6, 19.0, 13.9, 25.8, 18.6, 17.0,
- | y5= 9.45, 11.3, 11.7, 11.8, 11.8, 9.8, 6.9, 9.0, 5.8, 8.6, 5.4, 5.0, 8.5, 4.4, 8.3, 4.9, 3.0, 8.0, 4.1, 4.6, 7.4, 3.1, 4.7, 8.0, 4.1, 3.8, 4.6, 7.4, 7.9, 4.5, 3.2, 6.5, 4.1, 2.2, 4.2, 5.4, 6.5, 2.9, 6.5, 4.2, 6.4, 3.7,
- | y6= 7.05, 12.9, 12.1, 12.6, 12.9, 12.8, 9.1, 12.0, 10.2, 12.6, 12.9, 10.3, 10.9, 8.1, 10.9, 9.0, 10.0, 12.2, 11.2, 10.8, 11.4, 10.9, 9.4, 9.0, 11.2, 10.9, 9.8, 11.3, 9.6, 10.5, 7.7, 8.6, 9.5, 8.2, 10.7, 8.8, 7.1, 9.5, 9.3, 8.7, 8.1, 8.4,
- | y7= 4.97, 4.7, 4.6, 4.2, 4.5, 3.9, 1.0, 3.6, 2.1, 2.7, 4.9, 1.4, 2.7, 2.6, 5.5, , 2.0, , 3.4, 2.2, , 4.3, 3.2, , 3.3, 1.2, 2.4, , , 4.5, 1.5, , 3.7, 1.2, 5.0, , 2.5, 3.8, , 2.7, , 2.8,
- | y8= 3.28, 1.9, , , , , 7.0, , 5.1, , 3.4, , , , 4.0, 4.5, 2.5, 3.0, 2.6, 5.2, , 2.0, 4.5, 3, 2.6, 5.5, , , , 1.5, 3.6, , 1.4, 4.0, 2.1, , 1.3, 1.0, , 2.4, , 2.5,
- | y9= 2.06, , , 2.4, 4.3, 3.0, , , , , 5.1, , , , , 8.6, , , 10.1, , 4.4, 10.4,  , 5, 10.1, , 4.9, 5.7, 5.8, 11.9, , 5.9, 8.8, , 9.8, 6.9, 5.5, 10.7, 6.4, , 6.7, 10.6,
- | y10=  , , , , , , , , , , , , , , , , , , , , , , , , , , 10.5, 11.3, 11.9, , 17.8, 12.5, 19.5, 19.8, 18.8, 15.8, 12.4, 22.0, 14.8, 19.0, 12.5, 20.9,
- | colors = #00CED1, #009035, #3370A8, #E80000, #F6005E, #F29402, #781323, #C1272D, #FBBA00, #0A1172,
-}}
+[[File:2024 Lithuanian Parliamentary Election.png|center|thumb|1000x1000px|LOESS curve of the polling for the 2024 Lithuanian Parliamentary Election.]]
 Parliamentary election poll results are listed in the table below in reverse chronological order. The highest percentage figure in each poll is displayed in bold, and its background is shaded in the leading party's colour. The "Lead" column shows the [[percentage point]] difference between the two parties with the highest figures.
 {| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
 |-
@@ -69,6 +31,294 @@ Parliamentary election poll results are listed in the table below in reverse chr
 ! style="background:{{party color|Freedom and Justice}}" |
 ! style="background-color: #0A1172;" |
 |-
+| [https://www.delfi.lt/news/daily/lithuania/naujausi-reitingai-valdantiesiems-sie-skaiciai-nera-itin-geras-zenklas.d?id=92248055 Spinter tyrimai]
+| 15–24 December 2022
+| 1,010
+| style="background:#AAE1DE" |'''19.8'''
+| 8.8
+| 3.0
+| 17.8
+| 4.5
+| 8.6
+| −
+| −
+| −
+| 3.9
+| 14.5
+| style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''2.0'''
+|-
+| [https://www.lrytas.lt/lietuvosdiena/aktualijos/2022/12/22/news/naujausi-reitingai-pries-sventes-rinkeju-sirdys-nesuminkstejo-kai-kuriems-politikams-zemiau-kristi-nebera-kur-25569741 Vilmorus]
+| 8–15 December 2022
+| 1,000
+| 16.7
+| 12.7
+| 6.0
+| style="background:#F5ABB0" |'''25.0'''
+| 3.6
+| 9.3
+| 1.8
+| 2.7
+| 1.9
+| 3.4
+| 15.3
+| style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''8.3'''
+|-
+| [https://m.delfi.lt/lietuvoje/article.php?id=92041791 Spinter tyrimai]
+| 18–29 November 2022
+| 1,013
+| style="background:#AAE1DE" |'''18.8'''
+| 12.5
+| 3.6
+| 16.9
+| 4.1
+| 8.3
+| −
+| −
+| −
+| 5.0
+| 12.1
+| style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''1.9'''
+|-
+| [https://images.jifo.co/2407374_1669390244353.jpg Vilmorus]
+| 10–19 November 2022
+| 1,000
+| 17.1
+| 10.5
+| 5.6
+| style="background:#F5ABB0" |'''24.3'''
+| 2.5
+| 8.1
+| 2.9
+| 3.4
+| 1.2
+| 9.5
+| 13.1
+| style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''7.2'''
+|-
+| [https://www.lrt.lt/naujienos/lietuvoje/2/1827555/i-reitingu-virsune-kopiant-opozicijai-ekspertai-tikina-valdantiesiems-nera-kur-detis Baltijos tyrimai]
+| 26 October – 8 November 2022
+| 1,026
+| 15.7
+| 12.4
+| 8.0
+| style="background:#F5ABB0" |'''17.7'''
+| 3.7
+| 7.5
+| 2.6
+| 3.2
+| 2.2
+| 8.0
+| 16.1
+| style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''1.6'''
+|-
+| [https://m.delfi.lt/lietuvoje/article.php?id=91713127 Spinter tyrimai]
+| 18–28 October 2022
+| 1,011
+| style="background:#AAE1DE" |'''21.5'''
+| 10.4
+| 3.6
+| 17.8
+| 5.4
+| 8.8
+| −
+| −
+| −
+| 8.0
+| 11.2
+| style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''3.7'''
+|-
+| [https://media.lrytas.lt/images/2022/10/21/170411870-5d960b11-fc10-443e-b419-f66b691cb3b6.png Vilmorus]
+| 11–16 October 2022
+| 1,002
+| 18.7
+| 10.1
+| 5.8
+| style="background:#F5ABB0" |'''23.7'''
+| 2.7
+| 8.6
+| 1.4
+| 4.4
+| 1.9
+| 7.5
+| 11.4
+| style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''3.5'''
+|-
+| [https://www.delfi.lt/news/daily/lithuania/naujausi-reitingai-rekordine-vyriausybes-zemuma-ir-smugis-vienai-opozicinei-jegai.d?id=91534127 Spinter tyrimai]
+| 20–30 September 2022
+| 1,010
+| style="background:#AAE1DE" |'''18.7'''
+| 10.1
+| 5.8
+| 17.6
+| 6.1
+| 9.7
+| −
+| −
+| −
+| 7.5
+| 10.1
+| style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''1.1'''
+|-
+| [https://www.lrytas.lt/lietuvosdiena/aktualijos/2022/10/01/news/nuo-antirekordu-iki-gimtadienio-dovanos-reitinguose-signalas-s-skverneliui-ir-dovana-a-anusauskui-24734658 Vilmorus]
+| 15–24 September 2022
+| 1,000
+| 18.9
+| 11.6
+| 5.9
+| style="background:#F5ABB0" |'''22.4'''
+| 2.8
+| 6.4
+| 1.9
+| 5.4
+| 2.8
+| 8.6
+| 12.3
+| style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''2.5'''
+|-
+| [https://m.delfi.lt/lietuvoje/article.php?id=91231881 Spinter tyrimai]
+| 25 August – 2 September 2022
+| 1,006
+| style="background:#AAE1DE" |'''19.1'''
+| 10.8
+| 3.6
+| 12.7
+| 7.8
+| 9.8
+| −
+| −
+| −
+| 6.4
+| 14.5
+| style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''4.6'''
+|-
+| [https://www.lrt.lt/naujienos/lietuvoje/2/1763372/buksuojantys-lyderiai-ir-nauja-zvaigzde-apklausa-rodo-anusauskas-lenkia-grybauskaite Baltijos tyrimai]
+| 12–28 July 2022
+| 1,021
+| 15.8
+| 7.4
+| 6.5
+| style="background:#F5ABB0" |'''20.0'''
+| 2.5
+| 9.9
+| 3.3
+| 2.2
+| 1.8
+| 12.7
+| 16.9
+| style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''3.1'''
+|-
+| [https://www.delfi.lt/news/daily/lithuania/naujausi-reitingai-ekspertu-nestebina-apie-antra-sansa-valdantiesiems-galvoti-nereiketu.d?id=90937319 Spinter tyrimai]
+| 18–28 July 2022
+| 1,013
+| style="background:#AAE1DE" |'''16.5'''
+| 10.9
+| 3.6
+| 14.8
+| 6.6
+| 9.4
+| −
+| −
+| −
+| 7.0
+| style="background:#888ce1" |'''16.5'''
+| data-sort-value="0"|Tie
+|-
+| [https://media.lrytas.lt/images/2022/07/30/032948525-6d894652-4fb4-44a7-b091-79cd3638a944.png Vilmorus]
+| 15–23 July 2022
+| 1,003
+| 17.4
+| 11.6
+| 6.1
+| style="background:#F5ABB0" |'''20.8'''
+| 3.9
+| 8.7
+| 1.3
+| 3.6
+| 1.8
+| 6.8
+| 16.2
+| style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''3.4'''
+|-
+| [https://www.delfi.lt/news/daily/lithuania/naujausiuose-reitinguose-reiksmingi-pokyciai-zinia-rinkejai-pasiunte-ne-tik-vyriausybei-bet-ir-vienai-opozicinei-jegai.d?id=90729683 Spinter tyrimai]
+| 18–28 June 2022
+| 1,015
+| style="background:#AAE1DE" |'''19.7'''
+| 9.5
+| 4.2
+| 16.4
+| 5.2
+| 8.0
+| −
+| −
+| −
+| 7.5
+| 17.0
+| style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''2.7'''
+|-
+| [https://www.lrytas.lt/lietuvosdiena/aktualijos/2022/06/25/news/vasaros-reitingai-virs-vandens-kyso-dvieju-ministru-galvos-kiti-panire-23777667 Vilmorus]
+| 9–18 June 2022
+| 1,003
+| 18.1
+| 11.5
+| 4.7
+| style="background:#F5ABB0" |'''22.5'''
+| 4.2
+| 7.6
+| 1.1
+| 4.3
+| 2.2
+| 8.1
+| 14.7
+| style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''4.4'''
+|-
+| [https://www.respublika.lt/lt/naujienos/lietuva/lietuvos_politika/apklausa-partiniuose-reitinguose-lyderiai-islieka-tie-patys/ Baltijos tyrimai]
+| 16–28 May 2022
+| 1,021
+| 15.4
+| 7.3
+| 6.8
+| 17.1
+| 3.7
+| 8.5
+| 2.9
+| 2.5
+| 3.0
+| 10.7
+| style="background:#888ce1" |'''20.9'''
+| style="background:#121FC1; color:white" |'''3.8'''
+|-
+| [https://www.lrt.lt/naujienos/lietuvoje/2/1719000/spinter-apklausa-geguze-augo-socialdemokratu-populiarumas Spinter tyrimai]
+| 18–27 May 2022
+| 1,013
+| style="background:#AAE1DE" |'''20.3'''
+| 8.6
+| 5.1
+| 18.7
+| 6.5
+| 8.1
+| –
+| –
+| –
+| 6.8
+| 12.8
+| style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''1.6'''
+|-
+| [https://media.lrytas.lt/images/2022/05/27/212635153-e7f19140-f5b6-4215-ac69-e4c291bdcec0.png Vilmorus]
+| 12–18 May 2022
+| 1,001
+| 19.9
+| 9.1
+| 6.1
+| style="background:#F5ABB0" |'''25.8'''
+| 4.3
+| 8.7
+| 1.6
+| 2.5
+| 2.5
+| –
+| 19.1
+| style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''5.9'''
+|-
 | [https://www.delfi.lt/news/daily/lithuania/naujausi-reitingai-didziausias-augimas-ir-skaudziausias-ilgalaikis-nukraujavimas.d?id=90168213 Spinter tyrimai]
 | 20–28 April 2022
 | 1,007
@@ -86,7 +336,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 | style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''5.3'''
 |-
 | [https://www.respublika.lt/lt/naujienos/lietuva/lietuvos_politika/reitingai-opozicines-partijos-triumfuoja-konservatoriams-sudaryti-koalicija-nebepavyktu/ Baltijos tyrimai]
-| 13–28 April 2022
+| 13–27 April 2022
 | 1,009
 | 14.7
 | 6.6
@@ -503,7 +753,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 |-
 | [https://www.lrytas.lt/lietuvosdiena/aktualijos/2021/06/26/news/reitinguose-audros-konservatoriai-nubloksti-socialdemokratai-pakyleti-prastos-zinios-ir-i-simonytei-19876804/ Vilmorus]
 | 9–18 June 2021
-| {{N/A}}
+| 1,000
 | 20.2
 | style="background:#AAE2C4" |'''25.9'''
 | 8.9
