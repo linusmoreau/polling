@@ -1,7 +1,7 @@
 == National poll results ==
 Poll results are listed in the table below in reverse chronological order. The highest percentage figure in each poll is displayed in bold, and its background is shaded in the leading party's colour. The "lead" column shows the [[percentage point]] difference between the two parties with the highest figures. When a poll result is a tie, the figures with the highest percentages are shaded and displayed in bold.
 
-Most opinion polls do not cover [[Northern Ireland]], which has different major political parties to the rest of the United Kingdom. This distinction is made in the table below in the area column, where "GB" means [[Great Britain]], the island which contains England, Scotland and Wales and excludes Northern Ireland, and "UK" means [[United Kingdom]], which includes Northern Ireland. Plaid Cymru only stand candidates in Wales and the SNP only stand candidates in Scotland. The parties with the greatest numbers of votes in the 2019 general election are listed here. Other parties are listed in the "Others" column.
+Most opinion polls do not cover [[Northern Ireland]], which has [[List of political parties in Northern Ireland|different major political parties]] to the rest of the United Kingdom. This distinction is made in the table below in the area column, where "GB" means [[Great Britain]], the island which contains England, Scotland and Wales and excludes Northern Ireland, and "UK" means [[United Kingdom]], which includes Northern Ireland. [[Plaid Cymru]] only stand candidates in [[Wales]] and [[Scottish National Party|the SNP]] only stand candidates in [[Scotland]]. The parties with the greatest numbers of votes in the [[2019 United Kingdom general election|2019 general election]] are listed here. Other parties are listed in the "Others" column.
 
 === 2023 ===
 {{For|political events during the year|2023 in United Kingdom politics and government|2023 in the United Kingdom}}
@@ -14,7 +14,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has different major 
 ! class="unsortable" style="width:50px;"|[[Conservative Party (UK)|Con]]
 ! class="unsortable" style="width:50px;"|[[Labour Party (UK)|Lab]]
 ! class="unsortable" style="width:50px;"|[[Liberal Democrats (UK)|Lib Dem]]
-! class="unsortable" style="width:50px;"|[[Scottish National Party|SNP]]
+! class="ufindnsortable" style="width:50px;"|[[Scottish National Party|SNP]]
 ! class="unsortable" style="width:50px;"|[[Green parties in the United Kingdom|Green]]
 ! class="unsortable" style="width:50px;"|[[Reform UK|Reform]]
 ! rowspan="2" class="unsortable" style="width:75px;"|Others
@@ -24,8 +24,852 @@ Most opinion polls do not cover [[Northern Ireland]], which has different major 
 ! data-sort-type="number" style="background:{{party color|Labour Party (UK)}};"|
 ! data-sort-type="number" style="background:{{party color|Liberal Democrats (UK)}};"|
 ! data-sort-type="number" style="background:{{party color|Scottish National Party}};"|
-! data-sort-type="number" style="background:{{party color|Green Party of England and Wales}};"|
+! data-sort-type="number" style="background:{{party color|Green Party of England and Wales (2023)}};"|
 ! data-sort-type="number" style="background:{{party color|Reform UK}};"|
+|-
+|{{opdrts|2|6|Mar|2023}}
+|[https://deltapoll.co.uk/polls/voteint230307.pdf Deltapoll]
+|N/A
+|GB
+|1,630
+|31%
+|style="background:#FFCCD9;color:black"|'''47%'''
+|8%
+|4%
+|5%
+|4%
+|{{Hidden|1%|[[UKIP]] on 1%<br/>|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-16%"|16%
+|-
+|{{opdrts||5|Mar|2023}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-5-march-2023/ Redfield & Wilton]
+|N/A
+|GB
+|2,000
+|24%
+|style="background:#FFCCD9;color:black"|'''50%'''
+|9%
+|3%
+|5%
+|7%
+|1%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-26%"|26%
+|-
+|{{opdrts|2|3|Mar|2023}}
+|[https://omnisis.co.uk/polls/nhs-should-be-labour-s-priority-voters-say-in-latest-poll/ Omnisis]
+|N/A
+|GB
+|1,284
+|26%
+|style="background:#FFCCD9;color:black"|'''45%'''
+|11%
+|4%
+|6%
+|6%
+|2%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-19|19%
+|-
+|{{opdrts|1|3|Mar|2023|}}
+|[https://findoutnow.co.uk/blog/conservatives-still-23-behind-labour-despite-brexit-deal/ FindOutNow/Electoral Calculus]
+|Daily Telegraph
+|GB
+|1,487
+|25%
+|style="background:#FFCCD9;color:black"|'''48%'''
+|9%
+|4%
+|6%
+|5%
+|{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-23|23%
+|-
+|{{opdrts|1|3|Mar|2023}}
+|[https://twitter.com/OpiniumResearch/status/1632108652596436992 Opinium]
+|''The Observer''
+|GB
+|1,419
+|27%
+|style="background:#FFCCD9;color:black"|'''44%'''
+|7%
+|3%
+|7%
+|8%
+|{{Hidden|3%|[[Plaid Cymru]] on 0%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17%"|17%
+|-
+|{{opdrts|1|2|Mar|2023}}
+|[https://www.techneuk.com/wp-content/uploads/2023/03/R57-UK-2023-3-3-DATA.pdf Techne]
+|N/A
+|GB
+|1,625
+|29%
+|style="background:#FFCCD9;color:black"|'''47%'''
+|8%
+|3%
+|5%
+|6%
+|2%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-18|18%
+|-
+|{{opdrts||1|Mar|2023}}
+|[https://peoplepolling.org/tables/202303_GBN_W9_full.pdf#subsection*.12 PeoplePolling]
+|GB News
+|UK
+|1,158
+|24%
+|style="background:#FFCCD9;color:black"|'''45%'''
+|9%
+|5%
+|8%
+|7%
+|3%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21%"|21%
+|-
+|{{opdrts|22|1|Mar|2023}}
+|[https://twitter.com/ElectionMapsUK/status/1633128822341095426 Ipsos]
+|Evening Standard
+|UK
+|1,004
+|25%
+|style="background:#FFCCD9;color:black"|'''51%'''
+|9%
+|6%
+|5%
+|3%
+|TBC
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-26|26%
+|-
+|{{opdrts|24|27|Feb|2023}}
+|[https://deltapoll.co.uk/wp-content/uploads/2023/02/Deltapoll-230227_trackers.pdf Deltapoll]
+|N/A
+|GB
+|1,060
+|31%
+|style="background:#FFCCD9;color:black"|'''46%'''
+|8%
+|3%
+|4%
+|5%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>[[UKIP]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-15%"|15%
+|-
+|{{opdrts||26|Feb|2023}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-26-february-2023/ Redfield & Wilton]
+|N/A
+|GB
+|2,000
+|24%
+|style="background:#FFCCD9;color:black"|'''51%'''
+|9%
+|3%
+|5%
+|7%
+|1%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-27%"|27%
+|-
+|{{opdrts|24|26|Feb|2023}}
+|[https://twitter.com/Savanta_UK/status/1631217781231456258 Savanta]
+|N/A
+|UK
+|2,224
+|29%
+|style="background:#FFCCD9;color:black"|'''44%'''
+|9%
+|4%
+|3%
+|6%
+|5%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-15%"|15%
+|-
+|{{opdrts|22|23|Feb|2023}}
+|[https://omnisis.co.uk/poll-results/vi-23-results-24-02-2023/ Omnisis]
+|N/A
+|GB
+|1,248
+|24%
+|style="background:#FFCCD9;color:black"|'''48%'''
+|10%
+|4%
+|5%
+|8%
+|1%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24|24%
+|-
+|{{opdrts|22|23|Feb|2023}}
+|[https://www.techneuk.com/wp-content/uploads/2023/02/R56-UK-2023-2-24-DATA-1.pdf Techne]
+|N/A
+|GB
+|1,633
+|27%
+|style="background:#FFCCD9;color:black"|'''49%'''
+|8%
+|3%
+|5%
+|5%
+|3%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22|22%
+|-
+|{{opdrts|21|23|Feb|2023}}
+|[https://www.bmgresearch.co.uk/wp-content/uploads/2023/02/2702023_The-i_PublishedTables_W10.xlsx BMG]
+|N/A
+|GB
+|1,500
+|29%
+|style="background:#FFCCD9;color:black"|'''46%'''
+|9%
+|4%
+|4%
+|6%
+|{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17%"|17%
+|-
+|{{opdrts|21|22|Feb|2023}}
+|[https://docs.cdn.yougov.com/fs088jpfhf/TheTimes_VI_230222_W.pdf YouGov]
+|''The Times''
+|GB
+|2,003
+|23%
+|style="background:#FFCCD9;color:black"|'''46%'''
+|9%
+|4%
+|7%
+|8%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-23%"|23%
+|-
+|{{opdrts||22|Feb|2023}}
+|[https://peoplepolling.org/tables/202302_GBN_W8_full.pdf#subsection*.12 PeoplePolling]
+|GB News
+|UK
+|1,192
+|20%
+|style="background:#FFCCD9;color:black"|'''46%'''
+|8%
+|5%
+|8%
+|9%
+|4%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-26%"|26%
+|-
+|{{opdrts|17|20|Feb|2023}}
+|[https://deltapoll.co.uk/wp-content/uploads/2023/02/Deltapoll-230220_trackers_1.pdf Deltapoll]
+|N/A
+|GB
+|1,079
+|28%
+|style="background:#FFCCD9;color:black"|'''50%'''
+|9%
+|4%
+|3%
+|2%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>[[UKIP]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22%"|22%
+|-
+|{{opdrts|16|20|Feb|2023}}
+|[https://www.kantarpublic.com/inspiration/thought-leadership/almost-six-in-ten-britons-think-the-country-is-heading-in-the-wrong-direction Kantar Public]
+|N/A
+|GB
+|1,120
+|28%
+|style="background:#FFCCD9;color:black"|'''45%'''
+|9%
+|5%
+|7%
+|5%
+|{{Hidden|1%|[[UKIP]] on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17%"|17%
+|-
+|{{opdrts|17|19|Feb|2023}}
+|[https://twitter.com/Savanta_UK/status/1628739339248189441 Savanta]
+|N/A
+|UK
+|2,103
+|31%
+|style="background:#FFCCD9;color:black"|'''45%'''
+|9%
+|3%
+|3%
+|4%
+|4%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-14%"|14%
+|-
+|{{opdrts||18|Feb|2023}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-18-february-2023/ Redfield & Wilton]
+|N/A
+|GB
+|2,000
+|24%
+|style="background:#FFCCD9;color:black"|'''51%'''
+|10%
+|3%
+|5%
+|6%
+|1%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-27%"|27%
+|-
+|{{opdrts|15|17|Feb|2023}}
+|[https://www.opinium.com/wp-content/uploads/2023/02/VI-2023-02-15-Observer-Tables-V1.xlsx Opinium]
+|''The Observer''
+|GB
+|1,451
+|28%
+|style="background:#FFCCD9;color:black"|'''44%'''
+|9%
+|4%
+|6%
+|7%
+|{{Hidden|2%|[[Plaid Cymru]] on 0%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-16%"|16%
+|-
+|{{opdrts|15|16|Feb|2023}}
+|[https://www.omnisis.co.uk/poll-results/vi-22-results-17-02-2023/ Omnisis]
+|N/A
+|GB
+|1,259
+|25%
+|style="background:#FFCCD9;color:black"|'''48%'''
+|10%
+|3%
+|5%
+|7%
+|1%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-23|23%
+|-
+|-
+|{{opdrts|15|16|Feb|2023}}
+|[https://www.techneuk.com/wp-content/uploads/2023/02/R55-UK-2023-2-17-DATA.pdf Techne]
+|N/A
+|GB
+|1,631
+|27%
+|style="background:#FFCCD9;color:black"|'''48%'''
+|8%
+|3%
+|5%
+|6%
+|3%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21|21%
+|-
+|{{opdrts||15|Feb|2023}}
+|[https://peoplepolling.org/tables/202302_GBN_W7_full.pdf#subsection*.12 PeoplePolling]
+|GB News
+|UK
+|1,148
+|21%
+|style="background:#FFCCD9;color:black"|'''48%'''
+|8%
+|5%
+|8%
+|7%
+|4%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-27%"|27%
+|-
+|{{opdrts|14|15|Feb|2023}}
+|[https://docs.cdn.yougov.com/r2r7ejhs5x/TheTimes_VI_230215_W_.pdf YouGov]
+|''The Times''
+|GB
+|2,062
+|22%
+|style="background:#FFCCD9;color:black"|'''50%'''
+|9%
+|4%
+|6%
+|7%
+|{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-28%"|28%
+|-
+|{{opdrts|10|13|Feb|2023}}
+|[https://deltapoll.co.uk/wp-content/uploads/2023/02/Deltapoll-230214_voteint.pdf Deltapoll]
+|N/A
+|GB
+|1,004
+|28%
+|style="background:#FFCCD9;color:black"|'''48%'''
+|8%
+|5%
+|6%
+|3%
+|{{Hidden|2%|[[Plaid Cymru]] on 0%<br/>[[UKIP]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-20%"|20%
+|-
+|{{opdrts||12|Feb|2023}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-12-february-2023/ Redfield & Wilton]
+|N/A
+|GB
+|2,000
+|27%
+|style="background:#FFCCD9;color:black"|'''48%'''
+|9%
+|4%
+|5%
+|6%
+|1%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21%"|21%
+|-
+|{{opdrts|10|12|Feb|2023}}
+|[https://dashboard.focaldata.com/public/a69bbaad-f6d6-4548-a7da-c08b587bc36c Focaldata]
+|N/A
+|GB
+|1,041
+|28%
+|style="background:#FFCCD9;color:black"|'''48%'''
+|9%
+|3%
+|4%
+|6%
+|2%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-20%"|20%
+|-
+|{{opdrts|10|12|Feb|2023}}
+|[https://twitter.com/Savanta_UK/status/1626210647322300416 Savanta]
+|N/A
+|UK
+|2,175
+|28%
+|style="background:#FFCCD9;color:black"|'''45%'''
+|10%
+|3%
+|4%
+|5%
+|4%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17%"|17%
+|-
+|{{opdrts|9|10|Feb|2023}}
+|[https://omnisis.co.uk/poll-results/vi-21-results-10-02-2023/ Omnisis]
+|N/A
+|GB
+|1,281
+|26%
+|style="background:#FFCCD9;color:black"|'''47%'''
+|10%
+|4%
+|4%
+|8%
+|1%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21|21%
+|-
+|{{opdrts||9|Feb|2022}}
+|colspan="12"|[[2023 West Lancashire by-election|West Lancashire by-election]]<ref>{{Cite news|title=West Lancashire: Tories out of road, say Labour after by-election win|url=https://www.bbc.co.uk/news/uk-england-lancashire-64570223 |date=10 February 2023|access-date=11 February 2023 |publisher=BBC News |language=en}}</ref>
+|-
+|{{opdrts|8|9|Feb|2023}}
+|[https://peoplepolling.org/tables/202302_GBN_W6_full.pdf#subsection*.12 PeoplePolling]
+|GB News
+|UK
+|1,229
+|21%
+|style="background:#FFCCD9;color:black"|'''50%'''
+|7%
+|4%
+|6%
+|7%
+|3%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-29%"|29%
+|-
+|{{opdrts|8|9|Feb|2023}}
+|[https://www.techneuk.com/wp-content/uploads/2023/02/R54-UK-2023-2-9-DATA.pdf Techne]
+|N/A
+|GB
+|1,627
+|26%
+|style="background:#FFCCD9;color:black"|'''47%'''
+|9%
+|4%
+|5%
+|6%
+|3%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21%"|21%
+|-
+|{{opdrts|8|9|Feb|2023}}
+|[https://docs.cdn.yougov.com/3215o4rfag/TheTimes_VI_Results_230209.pdf YouGov]
+|''The Times''
+|GB
+|2,061
+|24%
+|style="background:#FFCCD9;color:black"|'''47%'''
+|10%
+|4%
+|6%
+|6%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-23%"|23%
+|-
+|{{opdrts|3|6|Feb|2023}}
+|[https://deltapoll.co.uk/wp-content/uploads/2023/02/Deltapoll-230206_voteint.pdf Deltapoll]
+|N/A
+|GB
+|1,831
+|29%
+|style="background:#FFCCD9;color:black"|'''47%'''
+|9%
+|4%
+|4%
+|5%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>[[UKIP]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-18%"|18%
+|-
+|{{opdrts|1|6|Feb|2023}}
+|[https://cdn.survation.com/wp-content/uploads/2023/02/12154515/Survation_VI_07_02_23.xlsx Survation]
+|N/A
+|UK
+|1,923
+|26%
+|style="background:#FFCCD9;color:black"|'''42%'''
+|11%
+|4%
+|5%
+|6%
+|{{Hidden|6%|[[Plaid Cymru]] on 1%<br/>[[United Kingdom Independence Party|UKIP]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-16%"|16%
+|-
+|{{opdrts||5|Feb|2023}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-5-february-2023/ Redfield & Wilton]
+|N/A
+|GB
+|2,000
+|24%
+|style="background:#FFCCD9;color:black"|'''50%'''
+|10%
+|3%
+|5%
+|6%
+|{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-26%"|26%
+|-
+|{{opdrts|3|5|Feb|2023}}
+|[https://savanta.com/knowledge-centre/published-polls/westminster-voting-intention-savanta-7-february-2023/ Savanta]
+|N/A
+|UK
+|2,247
+|27%
+|style="background:#FFCCD9;color:black"|'''46%'''
+|9%
+|3%
+|4%
+|5%
+|4%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-19%"|19%
+|-
+|{{opdrts|27|5|Feb|2023|}}
+|[https://www.electoralcalculus.co.uk/blogs/ec_mrppoll_20230209.html FindOutNow/Electoral Calculus]
+|[https://www.telegraph.co.uk/politics/2023/02/08/snap-election-would-leave-tories-westminsters-third-party/ ''The Daily Telegraph'']
+|GB
+|28,191
+|23%
+|style="background:#FFCCD9;color:black"|'''48%'''
+|11%
+|4%
+|5%
+|5%
+|?
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-25|25%
+|-
+|{{opdrts|2|3|Feb|2023}}
+|[https://omnisis.co.uk/poll-results/vi-20-results-03-02-2023/ Omnisis]
+|N/A
+|GB
+|1,324
+|24%
+|style="background:#FFCCD9;color:black"|'''48%'''
+|9%
+|4%
+|5%
+|6%
+|{{Hidden|3%|Other on 1%<br/>Independent on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24|24%
+|-
+|{{opdrts|1|2|Feb|2023}}
+|[https://www.techneuk.com/wp-content/uploads/2023/02/R53-UK-2023-2-2-DATA.pdf Techne]
+|N/A
+|UK
+|1,634
+|27%
+|style="background:#FFCCD9;color:black"|'''48%'''
+|8%
+|4%
+|4%
+|7%
+|2%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21|21%
+|-
+|{{opdrts||1|Feb|2023}}
+|[https://peoplepolling.org/tables/202302_GBN_W5_full.pdf#subsection*.12 PeoplePolling]
+|GB News
+|UK
+|1,139
+|22%
+|style="background:#FFCCD9;color:black"|'''46%'''
+|9%
+|5%
+|7%
+|7%
+|2%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24%"|24%
+|-
+|{{opdrts|31|1|Feb|2023}}
+|[https://docs.cdn.yougov.com/523wfnrggo/TheTimes_VI_230201_W.pdf YouGov]
+|''The Times''
+|GB
+|2,006
+|24%
+|style="background:#FFCCD9;color:black"|'''48%'''
+|9%
+|4%
+|6%
+|6%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24%"|24%
+|-
+|{{opdrts|26|30|Jan|2023}}
+|[https://deltapoll.co.uk/wp-content/uploads/2023/01/Deltapoll-230130_voteint.pdf Deltapoll]
+|N/A
+|GB
+|1,057
+|29%
+|style="background:#FFCCD9;color:black"|'''46%'''
+|9%
+|4%
+|4%
+|4%
+|2%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17%"|17%
+|-
+|{{opdrts||29|Jan|2023}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-29-january-2023/ Redfield & Wilton]
+|N/A
+|GB
+|2,000
+|28%
+|style="background:#FFCCD9;color:black"|'''49%'''
+|8%
+|4%
+|5%
+|5%
+|1%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21%"|21%
+|-
+|{{opdrts||29|Jan|2023}}
+|[https://savanta.com/knowledge-centre/published-polls/westminster-voting-intention-savanta-3-february-2023/ Savanta]
+|N/A
+|UK
+|2,041
+|26%
+|style="background:#FFCCD9;color:black"|'''47%'''
+|9%
+|3%
+|4%
+|6%
+|5%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21%"|21%
+|-
+|{{opdrts|26|27|Jan|2023}}
+|[https://omnisis.co.uk/media/1213/vi-019-tabs-levellingup-270123.xlsx Omnisis]
+|N/A
+|GB
+|1,311
+|26%
+|style="background:#FFCCD9;color:black"|'''50%'''
+|7%
+|3%
+|6%
+|7%
+|2%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24|24%
+|-
+|{{opdrts|25|26|Jan|2023}}
+|[https://www.techneuk.com/wp-content/uploads/2023/01/R52-UK-2023-1-27-DATA.pdf Techne]
+|N/A
+|UK
+|1,631
+|26%
+|style="background:#FFCCD9;color:black"|'''47%'''
+|8%
+|4%
+|5%
+|7%
+|3%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21|21%
+|-
+|{{opdrts|24|26|Jan|2023}}
+|[https://www.bmgresearch.co.uk/wp-content/uploads/2023/01/30012023-The-i-published-tables.xlsx BMG]
+|N/A
+|GB
+|1,502
+|29%
+|style="background:#FFCCD9;color:black"|'''46%'''
+|9%
+|4%
+|3%
+|6%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17%"|17%
+|-
+|{{opdrts|24|25|Jan|2023}}
+|[https://docs.cdn.yougov.com/rtocaln566/TheTimes_VI_230125_W.pdf YouGov]
+|''The Times''
+|GB
+|2,058
+|26%
+|style="background:#FFCCD9;color:black"|'''45%'''
+|10%
+|4%
+|7%
+|6%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-19%"|19%
+|-
+|{{opdrts|18|25|Jan|2023}}
+|[https://www.ipsos.com/sites/default/files/ct/news/documents/2023-01/Ipsos%20UK%20January%202023%20Political%20Monitor%20tabs_300123_PUBLIC.pdf Ipsos]
+|N/A
+|UK
+|1,001
+|26%
+|style="background:#FFCCD9;color:black"|'''51%'''
+|9%
+|6%
+|5%
+|2%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>[[United Kingdom Independence Party|UKIP]] on 1%<br/>[[British National Party|BNP]] on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-25|25%
+|-
+|{{opdrts||24|Jan|2023}}
+|[https://peoplepolling.org/tables/202301_GBN_W4_full.pdf PeoplePolling]
+|GB News
+|UK
+|1,270
+|21%
+|style="background:#FFCCD9;color:black"|'''50%'''
+|8%
+|6%
+|5%
+|7%
+|3%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-29%"|29%
+|-
+|{{opdrts||22|Jan|2023}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-22-january-2023/ Redfield & Wilton]
+|N/A
+|GB
+|2,000
+|26%
+|style="background:#FFCCD9;color:black"|'''48%'''
+|9%
+|5%
+|4%
+|6%
+|1%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22%"|22%
+|-
+|{{opdrts|19|21|Jan|2023}}
+|[https://deltapoll.co.uk/polls/voteint230123 Deltapoll]
+|N/A
+|GB
+|1,563
+|30%
+|style="background:#FFCCD9;color:black"|'''44%'''
+|9%
+|4%
+|5%
+|4%
+|2%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-14%"|14%
+|-
+|{{opdrts|19|20|Jan|2023}}
+|[https://omnisis.co.uk/media/1208/vi-018-tabs-210123.xlsx Omnisis]
+|N/A
+|GB
+|1,268
+|24%
+|style="background:#FFCCD9;color:black"|'''50%'''
+|8%
+|4%
+|5%
+|5%
+|3%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-26|26%
+|-
+|{{opdrts|18|19|Jan|2023}}
+|[https://www.techneuk.com/wp-content/uploads/2023/01/R51-UK-2023-1-20-DATA.pdf Techne]
+|N/A
+|UK
+|1,625
+|27%
+|style="background:#FFCCD9;color:black"|'''46%'''
+|9%
+|4%
+|5%
+|6%
+|3%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-19|19%
+|-
+|{{opdrts|18|19|Jan|2023}}
+|[https://docs.cdn.yougov.com/2mwtp3vlaa/TheTimes_VI_230119_W.pdf YouGov]
+|''The Times''
+|GB
+|2,004
+|26%
+|style="background:#FFCCD9;color:black"|'''48%'''
+|8%
+|4%
+|5%
+|7%
+|{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22%"|22%
+|-
+|{{opdrts||18|Jan|2023}}
+|[https://peoplepolling.org/tables/202301_GBN_W3_full.pdf#subsection*.12 PeoplePolling]
+|''GB News''
+|UK
+|1,168
+|21%
+|style="background:#FFCCD9;color:black"|'''45%'''
+|9%
+|5%
+|9%
+|8%
+|3%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24%"|24%
+|-
+|{{opdrts|17|18|Jan|2023}}
+|[https://twitter.com/Samfr/status/1618164171685724166?t=GnwttyULmvoQwu-De87xxw&s=19 Focaldata]
+|Sam Freedman
+|GB
+|1,028
+|24%
+|style="background:#FFCCD9;color:black"|'''49%'''
+|9%
+|3%
+|4%
+|7%
+|4%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-25%"|25%
+|-
+|{{opdrts|12|16|Jan|2023}}
+|[https://deltapoll.co.uk/wp-content/uploads/2023/01/Deltapoll-230116_voteint.pdf Deltapoll]
+|N/A
+|GB
+|1,059
+|29%
+|style="background:#FFCCD9;color:black"|'''45%'''
+|10%
+|5%
+|5%
+|4%
+|{{Hidden|3%|[[UKIP]] on 3%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-16%"|16%
+|-
+|{{opdrts||15|Jan|2023}}
+|[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-15-january-2023/ Redfield & Wilton]
+|N/A
+|GB
+|2,000
+|27%
+|style="background:#FFCCD9;color:black"|'''47%'''
+|10%
+|4%
+|5%
+|6%
+|1%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-20%"|20%
 |-
 |{{opdrts|11|13|Jan|2023}}
 |[https://www.opinium.com/wp-content/uploads/2023/01/VI-2023-01-11-Data-Tables-Observer.xlsx Opinium]
@@ -71,7 +915,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has different major 
 |-
 |{{opdrts||11|Jan|2023}}
 |[https://peoplepolling.org/tables/202301_GBN_W2_full.pdf#subsection*.12 PeoplePolling]
-|''The Mirror''
+|''GB News''
 |UK
 |1,160
 |21%
@@ -84,18 +928,32 @@ Most opinion polls do not cover [[Northern Ireland]], which has different major 
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-27%"|27%
 |-
 |{{opdrts|10|11|Jan|2023}}
-|[https://twitter.com/electpoliticsuk/status/1613983328637489154 YouGov]
+|[https://docs.cdn.yougov.com/rjchg92y4u/TheTimes_VI_Strikes_230111_W.pdf YouGov]
 |''The Times''
 |GB
-|TBC
+|1,691
 |25%
 |style="background:#FFCCD9;color:black"|'''47%'''
 |9%
 |5%
 |5%
 |7%
-|TBC
+|{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22%"|22%
+|-
+|{{opdrts|20|11|Jan|2023}}
+|[https://www2.politicalbetting.com/index.php/archives/2023/01/20/just-42-of-ge2019-con-voters-now-back-sunaks-party-yougov/ YouGov]
+|''The Times''
+|GB
+|4,922
+|24%
+|style="background:#FFCCD9;color:black"|'''47%'''
+|9%
+|5%
+|5%
+|7%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-23%"|23%
 |-
 |{{opdrts||8|Jan|2023}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-8-january-2023/ Redfield & Wilton]
@@ -122,7 +980,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has different major 
 |3%
 |5%
 |3%
-|{{Hidden|3%|[[UKIP]] on 2%<br/>[[Plaid Cymru]] on 0%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
+|{{Hidden|3%|[[UKIP]] on 2%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-14%"|14%
 |-
 |{{opdrts|5|6|Jan|2023}}
@@ -291,7 +1149,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has different major 
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24%"|24%
 |-
 |{{opdrts|16|18|Dec|2022}}
-|[https://twitter.com/Savanta_UK/status/1606337286643277824 Savanta]
+|[https://savanta.com/knowledge-centre/published-polls/westminster-voting-intention-political-attitudes-poll-savanta-23-december-2022/ Savanta]
 |N/A
 |UK
 |2,024
@@ -303,6 +1161,20 @@ Most opinion polls do not cover [[Northern Ireland]], which has different major 
 |5%
 |5%
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17%"|17%
+|-
+|{{opdrts|15|16|Dec|2022}}
+|[https://omnisis.co.uk/poll-results/vi-14-results-16-12-2022/ Omnisis]
+|N/A
+|GB
+|1,216
+|26%
+|style="background:#FFCCD9;color:black"|'''47%'''
+|9%
+|5%
+|6%
+|6%
+|1%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21%"|21%
 |-
 |{{opdrts|14|16|Dec|2022}}
 |[https://www.opinium.com/wp-content/uploads/2022/12/VI-2022-12-14-Observer-Formatted-Tables.xlsx Opinium]
@@ -320,20 +1192,6 @@ Most opinion polls do not cover [[Northern Ireland]], which has different major 
 |-
 |{{opdrts||15|Dec|2022}}
 |colspan="12"|[[2022 Stretford and Urmston by-election|Stretford and Urmston by-election]]<ref>{{Cite news|author=Faye Brown|title=Labour holds seat in Stretford and Urmston by-election |url=https://news.sky.com/story/labour-holds-seat-in-stretford-and-urmston-by-election-12768825 |date=16 December 2022|access-date=16 December 2022 |publisher=Sky News |language=en}}</ref>
-|-
-|{{opdrts||15|Dec|2022}}
-|[https://mastodonapp.uk/web/@Omnisis@mastodon.social Omnisis]
-|N/A
-|GB
-|1,216
-|26%
-|style="background:#FFCCD9;color:black"|'''47%'''
-|9%
-|5%
-|6%
-|6%
-|1%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21%"|21%
 |-
 |{{opdrts|14|15|Dec|2022}}
 |[https://docs.cdn.yougov.com/bvkoymti8d/TheTimes_VI_221215_W.pdf YouGov]
@@ -434,7 +1292,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has different major 
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17%"|17%
 |-
 |{{opdrts|9|11|Dec|2022}}
-|[https://twitter.com/Savanta_UK/status/1603419332578627585/ Savanta]
+|[https://savanta.com/knowledge-centre/published-polls/westminster-voting-intention-savanta-9-december-2022-2/ Savanta]
 |N/A
 |UK
 |2,194
@@ -546,7 +1404,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has different major 
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22%"|22%
 |-
 |{{opdrts|2|4|Dec|2022}}
-|[https://twitter.com/Savanta_UK/status/1601191344025788417/photo/1 Savanta]
+|[https://savanta.com/knowledge-centre/published-polls/westminster-voting-intention-savanta-9-december-2022/ Savanta]
 |N/A
 |UK
 |2,211
@@ -2725,7 +3583,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has different major 
 |style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-6%"|6%
 |-
 |{{opdrts|22|24|Jul|2022}}
-|[https://twitter.com/ChrisHopkins92/status/1554124399695073281/ Savanta ComRes]
+|[https://savanta.com/knowledge-centre/poll/westminster-voting-intention-28-july-for-the-independent/ Savanta ComRes]
 |''The Independent''
 |UK
 |2,272

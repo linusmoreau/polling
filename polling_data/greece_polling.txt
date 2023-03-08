@@ -1,5 +1,6 @@
 ===Polling===
-The table below lists nationwide voting intention estimates. Refusals are generally excluded from the party vote percentages, while question wording and the treatment of "don't know" responses and those not intending to vote may vary between polling organisations. Polls that show their results without disregarding those respondents who were undecided or said they would abstain from voting (either physically or by voting blank) have been re-calculated by disregarding these numbers from the totals offered through a [[WP:CALC|simple]] [[Rule of three (mathematics)|rule of three]] in order to obtain results comparable to other polls and the official election results. When available, seat projections are displayed below the percentages in a smaller font. 151 seats are required for an [[absolute majority]] in the [[Hellenic Parliament]]. 
+The table below lists nationwide voting intention estimates. Refusals are generally excluded from the party vote percentages, while question wording and the treatment of "don't know" responses and those not intending to vote may vary between polling organisations. Polls that show their results without disregarding those respondents who were undecided or said they would abstain from voting (either physically or by voting blank) have been re-calculated by disregarding these numbers from the totals offered through a [[WP:CALC|simple]] [[Rule of three (mathematics)|rule of three]] in order to obtain results comparable to other polls and the official election results. When available, seat projections are displayed below the percentages in a smaller font. 151 seats are required for an [[absolute majority]] in the [[Hellenic Parliament]].
+
 {| class="wikitable collapsible" style="text-align:center; font-size:95%; line-height:16px;"
 |- style="height:42px; background-color:#E9E9E9"
 ! style="width:250px;" rowspan="2"| Polling firm/Commissioner
@@ -26,7 +27,204 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{party color|Greeks for the Fatherland}};"|
 ! style="background:#1c3382;"|
 |- 
-| Μarc/Proto Thema<ref>{{cite web |title=Δημοσκόπηση MARC για το ΠΡΩΤΟ ΘΕΜΑ Δεκεμβρίου 2022"|url=https://www.protothema.gr/files/2022-12-25/%CE%A0%CE%A1%CE%A9%CE%A4%CE%9F_%CE%98%CE%95%CE%9C%CE%91_%CE%94%CE%95%CE%9A%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A3_2022.pdf |language=el |work=Marc |date=25 December 2022}}</ref>
+| Alco/Alpha<ref>{{Cite web |last=Capital.gr |title=Δημοσκόπηση Alco: Στις 7 μονάδες η διαφορά ΝΔ – ΣΥΡΙΖΑ |url=https://www.capital.gr/politiki/3699954/dimoskopisi-alco-stis-7-monades-i-diafora-nd-suriza |access-date=2023-02-20 |website=Capital.gr |language=el}}</ref>
+| 16–18 Feb 2023
+| 1,004
+| {{Party shading/ND}}| '''36.6'''
+| 28.7
+| 11.2
+| 6.7
+| 4.2
+| 2.9
+| –
+| 3.0
+| 1.4
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 7.9
+|- 
+| Opinion Poll/The Toc<ref>{{Cite web |date=2023-02-20 |title=Δημοσκόπηση για το TheTOC: Στο 7,6 η διαφορά υπέρ της ΝΔ- Πόσο κοντά στην αυτοδυναμία τη β΄ Κυριακή, δεν βγαίνει 'κυβέρνηση ηττημένων' |url=https://www.thetoc.gr/politiki/best-of-internet/dimoskopisi-gia-to-thetoc-sto-76-i-diafora-uper-tis-nd--poso-konta-stin-autodunamia-ti-b-kuriaki-den-bgainei-kubernisi-itttimenon/ |access-date=2023-02-20 |website=The TOC |language=el}}</ref><ref>{{Cite web |last=IEFIMERIDA.GR |first=NEWSROOM |date=2023-02-20 |title=Δημοσκόπηση Opinion Poll: Στο 7,6% η διαφορά υπέρ της ΝΔ -Δεν βγαίνει «κυβέρνηση ηττημένων» |url=https://www.iefimerida.gr/politiki/dimoskopisi-opinion-poll-sto-76-i-diafora-yper-tis-nd-den-bgainei-kybernisi-ittimenon |access-date=2023-02-20 |website=iefimerida.gr |language=el}}</ref>
+| 13–17 Feb 2023
+| 1,151
+| {{Party shading/ND}}| '''38.5'''
+| 29.6
+| 11.5
+| 5.2
+| 4.6
+| 2.7
+| –
+| 3.0
+| 1.3
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.9
+|- 
+| Marc/Proto Thema<ref>{{cite web |title=Δημοσκόπηση Marc για το «ΘΕΜΑ»: Αυτοδυναμία βγάζει η δεύτερη κάλπη |url=https://www.protothema.gr/politics/article/1338869/dimoskopisi-marc-gia-to-thema-autodunamia-vgazei-i-deuteri-kalpi/ |language=el |work=Proto Thema |date=11 February 2023}}</ref>
+| 6–10 Feb 2023
+| 1,130
+| {{Party shading/ND}}| '''37.5'''
+| 29.0
+| 11.4
+| 6.1
+| 4.2
+| 3.1
+| –
+| 3.9
+| 1.4
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.5
+|- 
+| GPO/Parapolitika<ref>{{cite web |title=Δημοσκόπηση GPO: Προβάδισμα 7,4 μονάδων της Νέας Δημοκρατίας από τον ΣΥΡΙΖΑ |url=https://www.parapolitika.gr/politiki/article/1250767/dimoskopisi-gpo-provadisma-74-monadon-tis-neas-dimokratias-apo-ton-suriza/ |language=el |work=Parapolitika |date=11 February 2023}}</ref>
+| 7–9 Feb 2023
+| 1,000
+| {{Party shading/ND}}| '''38.3'''
+| 29.9
+| 11.1
+| 7.2
+| 3.4
+| 2.7
+| –
+| –
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.4
+|- 
+| Marc/ANT1<ref>{{cite web |title=Δημοσκόπηση Marc: Στις 7,5 μονάδες η διαφορά ΝΔ με ΣΥΡΙΖΑ στην πρόθεση ψήφου |url=https://www.protothema.gr/politics/article/1335283/dimoskopisi-marc-stis-75-monades-i-diafora-nd-me-suriza-stin-prothesi-psifou/ |language=el |work=Proto Thema |date=2 February 2023}}</ref>
+| 24–31 Jan 2023
+| 1,585
+| {{Party shading/ND}}| '''37.5'''
+| 28.9
+| 11.2
+| 6.1
+| 4.5
+| 3.2
+| –
+| 3.9
+| 1.1
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.6
+|- 
+| MRB/Open<ref>{{cite web |title=Δημοσκόπηση MRB - Η «ακτινογραφία» των αναποφάσιστων |url=https://www.protothema.gr/politics/article/1333591/dimoskopisi-mrb-i-aktinografia-ton-anapofasiston/ |language=el |work=Proto Thema |date=27 January 2023}}</ref>
+| 23–24 Jan 2023
+| 1,000
+| {{Party shading/ND}}| '''36.0'''
+| 28.9
+| 12.5
+| 5.9
+| 5.3
+| 3.4
+| –
+| 3.0
+| 1.2
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 7.1
+|- 
+| GPO/Star<ref>{{cite web |title=Δημοσκόπηση GPO για το Star: Προβάδισμα ΝΔ με διαφορά 7,1% |url=https://www.star.gr/eidiseis/politiki/612012/dhmoskophsh-gpo-sto-star-prwtia-nd-me-diafora-71 |language=el |work=Star |date=25 January 2023}}</ref>
+| 20–24 Jan 2023
+| 1,200
+| {{Party shading/ND}}| '''38.1'''
+| 30.0
+| 11.0
+| 7.2
+| 3.9
+| 2.5
+| –
+| 2.1
+| 1.4
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.1
+|- 
+| ProRata/Attica<ref>{{cite web |title=Δημοσκόπηση Prorata: Στο 5% η διαφορά ΝΔ - ΣΥΡΙΖΑ - Τι λένε οι πολίτες για τις παρακολουθήσεις
+|url=https://www.cnn.gr/politiki/story/347573/dimoskopisi-prorata-sto-5-i-diafora-nd-syriza-ti-lene-oi-polites-gia-tis-parakolouthiseis |language=el |work=Attica |date=26 January 2023}}</ref>
+| 19–23 Jan 2023
+| 1,018
+| {{Party shading/ND}}| '''36.5'''
+| 31.0
+| 10.5
+| 5.5
+| 4.0
+| 3.5
+| –
+| 2.5
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 5.5
+|- 
+| Pulse RC/Skai<ref>{{cite web |title=Δημοσκόπηση Pulse: Στο 7,5% η διαφορά της ΝΔ από τον ΣΥΡΙΖΑ - Πόσα κόμματα μπαίνουν στη Βουλή, τι δείχνει για αυτοδυναμία |url=https://www.skai.gr/news/politics/dimoskopisi-pulse-i-diafora-nd-syriza-ti-deixnei-gia-aytodynami-kyvernisi |language=el |work=Skai |date=25 January 2023}}</ref>
+| 19–23 Jan 2023
+| 1,205
+| {{Party shading/ND}}| '''37.0'''
+| 29.0
+| 12.0
+| 6.5
+| 4.5
+| 3.0
+| {{font color|grey|<s>1.0</s>}}
+| 3.0
+| 1.0
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.0
+|- 
+| Rass/Action 24<ref>{{cite web |title=Δημοσκόπηση RASS: Προβάδισμα 6,1% της Νέας Δημοκρατίας έναντι του ΣΥΡΙΖΑ |url=https://www.newsit.gr/politikh/dimoskopisi-RASS-provadisma-6-1-tis-neas-dimokratias-enanti-tou-syriza/3689294/ |language=el |work=NewsIt |date=23 January 2023}}</ref>
+| 16–20 Jan 2023
+| 1,003
+| {{Party shading/ND}}| '''34.7'''
+| 27.8
+| 15.7
+| 6.9
+| 3.7
+| 3.5
+| –
+| 3.4
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 6.9
+|- 
+| Metron Analysis/Mega<ref>{{cite web |title=Δημοσκόπηση Metron: Δημοσκόπηση: Στις 7 μονάδες η διαφορά ΝΔ-ΣΥΡΙΖΑ, πώς «βαθμολογούν» κυβέρνηση και αντιπολίτευση |url=https://www.lifo.gr/now/politics/dimoskopisi-stis-7-monades-i-diafora-nd-syriza-pos-bathmologoyn-kybernisi-kai |language=el |work=iefimerida |date=24 November 2022}}</ref>
+| 11–17 Jan 2023
+| 1,309
+| {{Party shading/ND}}| '''36.4'''
+| 27.5
+| 12.4
+| 6.0
+| 4.5
+| 3.5
+| –
+| 3.5
+| 1.2
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.9
+|- 
+| Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview για την POLITIC: Στο 6,9% η «ψαλίδα» ΝΔ – ΣΥΡΙΖΑ – Στο 4,5% την εκτιμούν οι ψηφοφόροι |url=https://politic.gr/politiki/dimoskopisi-interview-gia-tin-politic-sto-69-i-psalida-nd-syriza-sto-45-tin-ektimoun-oi-psifoforoi/#.Y8cCKHbMLIU |language=el |work=Politic.gr |date=17 January 2023}}</ref>
+| 12–16 Jan 2023
+| 1,675
+| {{Party shading/ND}}| '''36.0'''
+| 28.4
+| 11.2
+| 6.7
+| 5.0
+| 3.9
+| –
+| 1.7
+| 1.7
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 7.6
+|- 
+| Opinion Poll/The Toc<ref>{{cite web |title=Opinion Poll: Μπροστά με 8,2% η Νέα Δημοκρατία -«Τσιμπάει» ο ΣΥΡΙΖΑ, απώλειες για το ΠΑΣΟΚ |url=https://www.iefimerida.gr/politiki/dimoskopisi-opinion-poll-mprosta-me-82-i-nd |language=el |work=iefimerida |date=17 January 2023}}</ref><ref>{{cite web |title=Δημοσκόπηση: Προβάδισμα 8,2% της ΝΔ έναντι του ΣΥΡΙΖΑ |url=https://www.protothema.gr/politics/article/1329540/dimoskopisi-provadisma-82-tis-nd-enadi-tou-suriza/ |language=el |work=Proto Thema |date=17 January 2023}}</ref>
+| 11–13 Jan 2023
+| 1,005
+| {{Party shading/ND}}| '''38.6'''
+| 29.3
+| 11.9
+| 5.3
+| 4.7
+| 3.2
+| –
+| 2.7
+| 1.4
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.3
+|- 
+| Alco/Alpha<ref>{{cite web |title=ΕΡΕΥΝΑ ALPHA ΙΑΝΟΥΑΡΙΟΣ 2023 |url=http://alcopolls.gr/portfolio/%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B1-alpha-%CE%B9%CE%B1%CE%BD%CE%BF%CF%85%CE%B1%CF%81%CE%B9%CE%BF%CF%83-2023 |language=el |work=Alco |date=17 January 2023}}</ref>
+| 9–13 Jan 2023
+| 1,002
+| {{Party shading/ND}}| '''35.8'''
+| 27.9
+| 12.4
+| 6.4
+| 5.2
+| 3.7
+| –
+| 3.0
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 7.9
+|- 
+| Μarc/Proto Thema<ref>{{cite web |title=Δημοσκόπηση MARC για το ΠΡΩΤΟ ΘΕΜΑ Δεκεμβρίου 2022" |url=https://www.protothema.gr/files/2022-12-25/%CE%A0%CE%A1%CE%A9%CE%A4%CE%9F_%CE%98%CE%95%CE%9C%CE%91_%CE%94%CE%95%CE%9A%CE%95%CE%9C%CE%92%CE%A1%CE%99%CE%9F%CE%A3_2022.pdf |language=el |work=Marc |date=25 December 2022}}</ref>
 | 16–21 Dec 2022
 | 1,003
 | {{Party shading/ND}}| '''37.0'''
@@ -52,7 +250,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | 3.0
 | 1.0
-| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.0
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 9.0
 |- 
 | Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview: Στο 8,5% η διαφορά της ΝΔ με τον ΣΥΡΙΖΑ -Ανοίγει η «ψαλίδα» στις δεύτερες εκλογές |url=https://www.iefimerida.gr/politiki/dimoskopisi-interview-nd-mprosta |language=el |work=iefimerida |date=20 December 2022}}</ref>
 | 15–19 Dec 2022
@@ -259,7 +457,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.0
 | 4.5
 | 3.0
-| 1.0
+| {{font color|grey|<s>1.0</s>}}
 | 2.0
 | 1.5
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.5
@@ -497,7 +695,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.0
 | 4.0
 | 3.0
-| 1.0
+| {{font color|grey|<s>1.0</s>}}
 | 2.0
 | 1.0
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.0
@@ -903,7 +1101,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.1
 | 4.2
 | 3.2
-| 1.1
+| {{font color|grey|<s>1.1</s>}}
 | 2.9
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 6.2
@@ -1170,7 +1368,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.5
 | 3.0
 | 3.8
-| 1.0
+| {{font color|grey|<s>1.0</s>}}
 | 1.3
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.2
@@ -1366,7 +1564,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.2
 | 4.1
 | 4.0
-| 2.4
+| {{font color|grey|<s>2.4</s>}}
 | 1.1
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 13.1
@@ -1520,7 +1718,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.4
 | 4.9
 | 3.6
-| 1.9
+| {{font color|grey|<s>1.9</s>}}
 | 1.9
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.1
@@ -1548,7 +1746,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.0
 | 5.1
 | 4.4
-| 1.2
+| {{font color|grey|<s>1.2</s>}}
 | 2.4
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.6
@@ -1576,7 +1774,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.7
 | 5.7
 | 5.3
-| 1.6
+| {{font color|grey|<s>1.6</s>}}
 | 1.8
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.8
@@ -1758,7 +1956,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.9
 | 4.6
 | 4.2
-| 1.2
+| {{font color|grey|<s>1.2</s>}}
 | 2.1
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.0

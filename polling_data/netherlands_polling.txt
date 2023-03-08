@@ -45,6 +45,202 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 ! data-sort-type="number" style="background:{{party color|BIJ1}};"|
 ! data-sort-type="number" style="background:{{party color|Belang van Nederland}};"|
 |-
+|[https://www.ipsos.com/nl-nl/politieke-barometer-week-9-4/ Ipsos]
+| {{opdrts|17|27|Feb|2023|year}}
+|5,291
+|style="background:#CED7FD;"|'''29'''
+|15
+|16
+|9
+|8
+|10
+|10
+|4
+|9
+|5
+|4
+|9
+|3
+|3
+|1
+|14
+|1
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|13
+|-
+|[https://peilingen.maurice.nl/2023/02/26-02-2023-gat-tussen-vvd-en-bbb-wordt-fors-kleiner-2-zetels/ Peil.nl]
+| {{opdrts||26|Feb|2023|year}}
+|3,000+
+|style="background:#CED7FD;"|'''21'''
+|13
+|17
+|7
+|7
+|11
+|13
+|5
+|8
+|5
+|4
+|10
+|4
+|3
+|1
+|19
+|1
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|2
+|-
+|[https://peilingen.maurice.nl/2023/02/3-weken-voor-de-verkiezingen-tekenen-de-contouren-van-de-uitslag-zich-af/ Peil.nl]
+| {{opdrts||19|Feb|2023|year}}
+|3,000+
+|style="background:#CED7FD;"|'''23'''
+|12
+|18
+|7
+|7
+|11
+|13
+|5
+|8
+|5
+|4
+|10
+|4
+|3
+|1
+|17
+|1
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|5
+|-
+|[https://www.ioresearch.nl/actueel/provinciale-staten-stikstof-en-linkse-samenwerking-zorgen-voor-dynamiek// I&O Research]
+| {{opdrts|10|13|Feb|2023|year}}
+|2,489
+|style="background:#CED7FD;"|'''24'''
+|12
+|18
+|7
+|9
+|13
+|12
+|5
+|10
+|5
+|3
+|10
+|4
+|3
+|0
+|14
+|1
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|6
+|-
+|[https://peilingen.maurice.nl/2023/02/de-electorale-potentie-van-de-groenlinks-pvda-combinatie/ Peil.nl]
+| {{opdrts||12|Feb|2023|year}}
+|3.000+
+|style="background:#CED7FD;"|'''22'''
+|12
+|18
+|7
+|7
+|11
+|13
+|5
+|9
+|6
+|4
+|11
+|4
+|3
+|1
+|15
+|1
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|4
+|-
+|[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/bbb-verliest-3-zetels-in-zetelpeiling-nu-even-groot-als-ja21/ Ipsos]
+| {{opdrts|27|30|Jan|2023|year}}
+|1,002
+|style="background:#CED7FD;"|'''29'''
+|15
+|18
+|11
+|8
+|10
+|10
+|5
+|9
+|4
+|4
+|10
+|3
+|3
+|0
+|10
+|1
+|0
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|11
+|-
+|[https://www.ioresearch.nl/actueel/io-zetelpeiling-coalitiepartijen-profiteren-niet-van-iets-mildere-kiezer/ I&O Research]
+| {{opdrts|13|16|Jan|2023|year}}
+|2,489
+|style="background:#CED7FD;"|'''24'''
+|13
+|19
+|6
+|10
+|9
+|13
+|4
+|8
+|5
+|5
+|12
+|5
+|3
+|0
+|12
+|1
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|5
+|-
+|[https://peilingen.maurice.nl/2023/01/de-stemming-15-1-2023-factoren-die-een-rol-spelen-bij-stemkeuze-ps2023/ Peil.nl]
+| {{opdrts||15|Jan|2023|year}}
+|3.000+
+|style="background:#CED7FD;"|'''20'''
+|12
+|19
+|6
+|8
+|10
+|12
+|5
+|9
+|6
+|5
+|13
+|4
+|3
+|1
+|15
+|1
+|1
+|0
+|style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|1
+|- style="background:#EFEFEF"
+| style="border-right-style:hidden;" |
+| style="border-right-style:hidden;" {{opdrts||13|Jan|2023|year}}
+| colspan="21" |'''[[Gert-Jan Segers]] steps down as [[Leader of the Christian Union]] and is replaced by [[Mirjam Bikker]]'''<ref>{{Cite news|date=2023-01-13|title=Netherlands: CU-leader leaves politics: 'After ten years it's been enough'|language=NL|work=NU.nl|url=https://nos.nl/artikel/2459639-cu-leider-segers-vertrekt-uit-politiek-na-tien-jaar-is-het-mooi-geweest|access-date=2023-01-20}}</ref>
+|-
 |[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/d66-sluit-2022-af-in-mineur-de-partij-van-sigrid-kaag-verliest-meeste-zetels-in-zetelpeiling-sinds-verkiezingen/ Ipsos]
 | {{opdrts|16|19|Dec|2022|year}}
 |1,005
@@ -839,7 +1035,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|12
 |- style="background:#EFEFEF"
 | style="border-right-style:hidden;" |
-| style="border-right-style:hidden;" | 12 Apr 2022
+| style="border-right-style:hidden;" {{opdrts||12|Apr|2022|year}}
 | colspan="21" |'''[[Lilianne Ploumen]] steps down as [[Leader of the Labour Party (Netherlands)|Leader of the PvdA]]'''<ref>{{Cite news|date=2022-04-12|title=Netherlands: Ploumen was thrown into the deep but in the end believes herself to not be qualified enough|language=NL|work=NU.nl|url=https://nos.nl/artikel/2424870-ploumen-werd-in-het-diepe-gegooid-maar-vindt-zichzelf-uiteindelijk-toch-niet-geschikt|access-date=2022-04-12}}</ref>
 |-
 |[https://www.ioresearch.nl/actueel/io-zetelpeiling-stoelendans-op-rechts/ I&O Research]
@@ -987,7 +1183,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|7
 |- style="background:#EFEFEF"
 | style="border-right-style:hidden;" |
-| style="border-right-style:hidden;" | 16 Mar 2022
+| style="border-right-style:hidden;" {{opdrts||16|Mar|2022|year}}
 | colspan="21" |'''[[2022 Dutch municipal elections]]'''
 |-
 |[https://maurice.nl/peilingen/2022/03/stemming-13-3-2022-lokale-partijen-profiteren-van-versplinterd-electoraat/ Peil.nl]
@@ -1159,7 +1355,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|8
 |- style="background:#EFEFEF"
 | style="border-right-style:hidden;" |
-| style="border-right-style:hidden;" | 13 Feb 2022
+| style="border-right-style:hidden;" {{opdrts||13|Feb|2022|year}}
 | colspan="21" |'''[[Nilüfer Gündoğan]] is suspended by [[Volt Netherlands|Volt]] and opts to continue as an independent'''<ref>{{Cite news|date=2022-02-13|title=Netherlands: Volt representative Gündoğan suspended after allegations of transgressive behavior|language=NL|work=NU.nl|url=https://www.nrc.nl/nieuws/2022/02/13/volt-kamerlid-gundogan-geschorst-na-beschuldigingen-van-grensoverschrijdend-gedrag-a4088644|access-date=2022-04-12}}</ref>
 |-
 |[https://www.maurice.nl/peilingen/2022/02/de-stemming-13-02-2022-het-gepolariseerde-electoraat/ Peil.nl]
@@ -1355,7 +1551,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|6
 |- style="background:#EFEFEF"
 | style="border-right-style:hidden;" |
-| style="border-right-style:hidden;" | 10 Jan 2022
+| style="border-right-style:hidden;" {{opdrts||10|Jan|2022|year}}
 | colspan="21" |'''Prime Minister [[Mark Rutte]] and his [[Fourth Rutte cabinet|Fourth cabinet]] are inaugurated'''<ref>{{Cite news|date=2022-01-10|title=Netherlands: Government inaugurated after longest formation to date|language=NL|work=NU.nl|url=https://www.nu.nl/politiek/6177403/rutte-iv-beedigd-nederland-heeft-weer-een-kabinet-na-langste-formatie-ooit.html|access-date=2022-04-12}}</ref>
 |-
 |[https://maurice.nl/peilingen/2021/12/26/ Peil.nl]
@@ -2031,7 +2227,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|17
 |- style="background:#EFEFEF"
 | style="border-right-style:hidden;" |
-| style="border-right-style:hidden;" | 7 Aug 2021
+| style="border-right-style:hidden;" {{opdrts||7|Aug|2021|year}}
 | colspan="21" |'''The Van Haga Group officially launches a new party, [[Belang van Nederland|BVNL]]'''<ref>{{Cite news|date=2021-08-07|title=Van Haga launches own party BVNL|language=NL|work=NRC|url=https://www.nrc.nl/nieuws/2021/08/07/van-haga-lanceert-eigen-partij-bv-nl-a4054041|access-date=2022-04-12}}</ref>
 |-
 |[https://eenvandaag.avrotros.nl/panels/opiniepanel/alle-uitslagen/item/nieuwe-partijen-veroveren-vaste-plek-in-zetelpeiling-ja21-nu-twee-keer-zo-groot-als-fvd/ Ipsos]
@@ -2203,7 +2399,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|13
 |- style="background:#EFEFEF"
 | style="border-right-style:hidden;" |
-| style="border-right-style:hidden;" | 12 June 2021
+| style="border-right-style:hidden;" {{opdrts||12|Jun|2021|year}}
 | colspan="21" |'''[[Pieter Omtzigt]] leaves the [[Christian Democratic Appeal|CDA]] and continues as an independent'''<ref>{{Cite news|date=2021-06-12|title=Tweede Kamerlid Omtzigt stapt uit CDA en wil als zelfstandig Kamerlid verder|trans-title=Parlementarian Omtzigt leaves the CDA and wants to continue as an independent parlementarian|language=NL|work=NOS|url=https://nos.nl/artikel/2384745-tweede-kamerlid-omtzigt-stapt-uit-cda-en-wil-als-zelfstandig-kamerlid-verder|access-date=2022-04-12}}</ref>
 |-
 |[https://www.ioresearch.nl/actueel/wensen-regeringscoalitie-illustreren-gepolariseerde-situatie/ I&O Research]
@@ -2351,7 +2547,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|11
 |- style="background:#EFEFEF"
 | style="border-right-style:hidden;" |
-| style="border-right-style:hidden;" | 13 May 2021
+| style="border-right-style:hidden;" {{opdrts||13|May|2021|year}}
 | colspan="21" |'''[[Wybren van Haga]], [[Hans Smolders]] and [[Olaf Ephraim]] split from [[Forum for Democracy]], forming the Van Haga Group'''<ref>{{Cite news|date=2021-05-13|title=Van Haga and two parlementarians split from Forum for Democracy|language=NL|work=NRC|url=https://www.nrc.nl/nieuws/2021/05/13/van-haga-en-twee-kamerleden-splitsen-af-van-forum-voor-democratie-a4043462|access-date=2022-04-12}}</ref>
 |-
 |[https://maurice.nl/peilingen/2021/05/09/de-stemming-9-5-2021-windstilte/ Peil.nl]
@@ -2379,7 +2575,7 @@ There are 150 seats in total. Parties are denoted with en dashes if no indicatio
 |style="background:{{party color|People's Party for Freedom and Democracy (2020)}};color:#FFFFFF;"|10
 |- style="background:#EFEFEF"
 | style="border-right-style:hidden;" |
-| style="border-right-style:hidden;" | 6 May 2021
+| style="border-right-style:hidden;" {{opdrts||6|May|2021|year}}
 | colspan="21" |'''[[50PLUS|50+]] loses parliamentary representation when [[Liane den Haan]] leaves the party and continues as an independent'''<ref>{{Cite news|date=2021-05-06|title=50PLUS leaves the House: Den Haan resigns and takes seat with her|language=NL|work=NOS|url=https://nos.nl/artikel/2379612-50plus-verdwijnt-uit-de-kamer-den-haan-stapt-op-en-neemt-zetel-mee|access-date=2022-04-12}}</ref>
 |-
 |[https://www.ioresearch.nl/actueel/io-zetelpeiling-cda-en-d66-verliezen-door-formatieperikelen/ I&O Research]

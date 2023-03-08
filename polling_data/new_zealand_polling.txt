@@ -1,7 +1,7 @@
 === Nationwide polling ===
 Poll results are listed in the table below in reverse chronological order. The highest percentage figure in each polling survey is displayed in bold, and the background shaded in the leading party's colour. The 'party lead' column shows the percentage-point difference between the two parties with the highest figures. In the instance of a tie, both figures are shaded and displayed in bold. Percentages may not add to 100 percent due to polls not reporting figures for all minor parties and due to rounding. Refusals are generally excluded from the party vote percentages, while question wording and the treatment of "don't know" responses and those not intending to vote may vary between survey organisations.
 
-The parties shown in the table are [[New Zealand Labour Party|Labour]] (LAB), [[New Zealand National Party|National]] (NAT), [[Green Party of Aotearoa New Zealand|Green]] (GRN), [[ACT New Zealand|ACT]], [[Māori Party|Māori]] (MRI), [[New Zealand First]] (NZF), [[The Opportunities Party|Opportunities]] (TOP), and [[New Conservative Party (New Zealand)|New Conservative]] (NCP). Other parties may have also registered in some polls, but are not listed in this table.
+The parties shown in the table are [[New Zealand Labour Party|Labour]] (LAB), [[New Zealand National Party|National]] (NAT), [[Green Party of Aotearoa New Zealand|Green]] (GRN), [[ACT New Zealand|ACT]], [[Māori Party|Māori]] (TPM), [[New Zealand First]] (NZF), [[The Opportunities Party|Opportunities]] (TOP), and [[New Conservative Party (New Zealand)|New Conservative]] (NCP). Other parties may have also registered in some polls, but are not listed in this table.
 
 {| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
 |- style="background:#e8e8e8;height:35px;"
@@ -12,19 +12,73 @@ The parties shown in the table are [[New Zealand Labour Party|Labour]] (LAB), [[
 ! style="background-color:#B0CEFF;width:40px" | [[New Zealand National Party|NAT]]
 ! style="background-color:#90EE90;width:40px" | [[Green Party of Aotearoa New Zealand|GRN]]
 ! style="background-color:#FFFF00;width:40px" | [[ACT New Zealand|ACT]]
-! style="background-color:#BD9490;width:40px" | [[Māori Party|MRI]]
+! style="background-color:#BD9490;width:40px" | [[Māori Party|TPM]]
 ! style="background-color:#D3D3D3;width:40px" | [[New Zealand First|NZF]]
 ! style="background-color:#32DAC3;width:40px" | [[The Opportunities Party|TOP]]
 ! style="background-color:#91D3FF;width:40px" | [[New Conservative Party (New Zealand)|NCP]]
 ! data-sort-type="number" style="width:40px;" | Lead
 |-
+| style="background:#E8E8E8 |'''12 Feb 2023'''
+| colspan="11" style="background:#E8E8E8 |'''[[Cyclone Gabrielle]] begins impacting the North Island'''
+|-
+| data-sort-value="2023-02-09" | '''2–9 Feb 2023'''
+|[https://www.rnz.co.nz/news/political/484171/labour-closes-gap-with-national-in-new-poll Taxpayers' Union–Curia]
+| 1,000
+| style="background:#FFB6B6;"| '''34.4''' || style="background:#B0CEFF;"| '''34.4''' || 7.8 || 11.7 || 2.1 || 2.9 || 2 || 0.8 || '''Tie'''
+|-
+| data-sort-value="2023-01-31" | '''26–31 Jan 2023'''
+|[https://www.nzherald.co.nz/nz/politics/national-ahead-of-labour-in-latest-poll-but-labour-could-form-government/OOTGQPH6ZBH7LHLXD3TDA65SDM/ Talbot Mills]
+|
+| 33 ||  style="background:#B0CEFF;"| '''36''' || 11 || 10 || 3 || 3.4 || 2.3 || – || style="background:#B0CEFF;" | '''3'''
+|-
+| data-sort-value="2023-01-29" | '''25–29 Jan 2023'''
+|[https://www.scribd.com/document/622676366/January-2023-1News-Kantar-Public-Poll 1 News–Kantar Public]
+| 1,008
+| style="background:#FFB6B6;"| '''38''' || 37 || 7 || 10 || 1.4 || 2.2 || 1.1 || 0.6 || style="background:#FFB6B6;" |'''1'''
+|-
+| data-sort-value="2023-01-28" | '''23–28 Jan 2023'''
+|[https://www.stuff.co.nz/national/politics/131195407/labour-leads-mori-party-the-kingmaker-in-latest-poll Horizon Research]
+| 1,147 ||style="background:#FFB6B6;" | '''30.8''' || 25.4 || 7.7 || 11.4 || 2.89 || 4 || 1.4 || 0.9 || style="background:#FFB6B6;" |'''5.4'''
+|-
+| style="background:#E8E8E8 |'''27 Jan 2023'''
+| colspan="11" style="background:#E8E8E8 |'''[[2023 North Island floods]] begin'''
+|-
+| data-sort-value="2023-01-27" | '''22–27 Jan 2023'''
+|[https://www.newshub.co.nz/home/politics/2023/01/newshub-reid-research-poll-chris-hipkins-is-labour-s-saviour-but-hung-parliament-on-cards-for-election-2023.html Newshub–Reid Research]
+| ||style="background:#FFB6B6;"| '''38''' || 36.6 || 8.1 || 10.7 || 1.8 || 2.2 || 1.5 || – || style="background:#FFB6B6;" | '''1.4'''
+|-
+| style="background:#E8E8E8 | '''22 Jan 2023'''
+| colspan="11" style="background:#E8E8E8 |'''[[Chris Hipkins]] is unanimously elected Leader of the Labour Party.'''
+|-
+| style="background:#E8E8E8 | '''19 Jan 2023'''
+| colspan="11" style="background:#E8E8E8 |'''[[Jacinda Ardern]] announces her resignation as [[Prime Minister of New Zealand]], taking effect 25 January 2023.'''
+|-
+| data-sort-value="2023-01-16" | '''10–16 Jan 2023'''
+|[https://www.taxpayers.org.nz/taxpayers_union_curia_poll_january_2023 Taxpayers' Union–Curia]
+| 1,000
+| 31.7 || style="background:#B0CEFF;"| '''37.2''' || 10.6 || 10.8 || 1.6 || 2.8 || – || – ||style="background:#B0CEFF;" |'''5.5'''
+|-
+|-
+| '''Jan 2023'''
+| [https://www.roymorgan.com/findings/9182-nz-national-voting-intention-january-2023 Roy Morgan]
+| 948 || 30 || style="background:#B0CEFF;"| '''32''' || 12 || 13.5 || 4.5 || 5 || 1.5 || 0.5 || style="background:#B0CEFF;" |'''2'''
+|-
 | style="background:#E8E8E8 | '''10 Dec 2022'''
-| colspan="11" style="background:#E8E8E8 |'''[[Tama Potaka]] of the National Party wins [[Hamilton_West_(New_Zealand_electorate)#2022_by-election|Hamilton West by-election]].'''
+| colspan="11" style="background:#E8E8E8 |'''[[Tama Potaka]] of the National Party wins the [[2022 Hamilton West by-election|Hamilton West by-election]].'''
 |-
 | data-sort-value="2022-12-06" | '''1–6 Dec 2022'''
 |[https://www.taxpayers.org.nz/taxpayers_union_curia_poll_december_2022 Taxpayers' Union–Curia]
 | 1,000
-| 33.1 || style="background:#B0CEFF;"| '''39.4''' || 8.1 || 10.4 || 3.5 || 2.9 ||  ||  ||style="background:#B0CEFF;" |'''6.3'''
+| 33.1 || style="background:#B0CEFF;"| '''39.4''' || 8.1 || 10.4 || 3.5 || 2.9 || – || – ||style="background:#B0CEFF;" |'''6.3'''
+|-
+| '''Dec 2022'''
+|[https://www.nzherald.co.nz/nz/politics/national-ahead-of-labour-in-latest-poll-but-labour-could-form-government/OOTGQPH6ZBH7LHLXD3TDA65SDM/ Talbot Mills]
+| 
+| 32 ||  style="background:#B0CEFF;"| '''35''' || 9 || 11 || 3.5 || 4.3 || 2.4 || – || style="background:#B0CEFF;" | '''3'''
+|-
+| '''Dec 2022'''
+| [https://www.roymorgan.com/findings/9152-nz-national-voting-intention-december-2022 Roy Morgan]
+| 947 || 27.5 || style="background:#B0CEFF;"| '''35''' || 11 || 14.5 || 4 || 4 || 2.5 || 1 || style="background:#B0CEFF;" |'''7.5'''
 |-
 | data-sort-value="2022-11-30" | '''26–30 Nov 2022'''
 |[https://www.scribd.com/document/612313462/December-2022-1News-Kantar-Public-Poll 1 News–Kantar Public]
@@ -122,6 +176,9 @@ The parties shown in the table are [[New Zealand Labour Party|Labour]] (LAB), [[
 | data-sort-value="2022-06-30" | '''30 May – 26 Jun 2022'''
 | [http://www.roymorgan.com/findings/9014-nz-national-voting-intention-june-2022-202207080051 Roy Morgan]
 | 947 || 33.5 || style="background:#B0CEFF;"| '''39''' || 10 || 9.5 || 1.5 || 1.5 || 2 || 0.5 || style="background:#B0CEFF;" |'''5.5'''
+|-
+| style="background:#E8E8E8 | '''18 Jun 2022'''
+| colspan="11" style="background:#E8E8E8 |'''[[Sam Uffindell]] of the National Party wins the [[2022 Tauranga by-election|Tauranga by-election]].'''
 |-
 | data-sort-value="2022-06-12" |'''1–12 Jun 2022'''
 |[https://www.taxpayers.org.nz/taxpayers_union_curia_poll_june_2022 Taxpayers' Union–Curia]
@@ -369,7 +426,7 @@ The parties shown in the table are [[New Zealand Labour Party|Labour]] (LAB), [[
 ! style="background-color:#B0CEFF;width:40px" | [[New Zealand National Party|NAT]]
 ! style="background-color:#90EE90;width:40px" | [[Green Party of Aotearoa New Zealand|GRN]]
 ! style="background-color:#FFFF00;width:40px" | [[ACT New Zealand|ACT]]
-! style="background-color:#BD9490;width:40px" | [[Māori Party|MRI]]
+! style="background-color:#BD9490;width:40px" | [[Māori Party|TPM]]
 ! style="background-color:#D3D3D3;width:40px" | [[New Zealand First|NZF]]
 ! style="background-color:#32DAC3;width:40px" | [[The Opportunities Party|TOP]]
 ! style="background-color:#91D3FF;width:40px" | [[New Conservative Party (New Zealand)|NCP]]

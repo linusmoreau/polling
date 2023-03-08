@@ -76,6 +76,7 @@ def transcribe_table(content, key, choice, begin, start):
     content = ncontent
 
     found = False
+    ignore = False
     while i < len(content):
         line = content[i].strip('| \n')
         if line == '-' and len(content[i].strip('|\n')) > 1:
@@ -178,7 +179,12 @@ def transcribe_table(content, key, choice, begin, start):
                         'Reform', 'Centre', 'EKRE', 'Isamaa', 'SDE', 'E200', 'Green', 'TULE/EVA',
                         'Other', 'lead', 'gov', 'opp', 'end']
         elif choice == 'Poland':
-            if '=== 2020 ===' in line:
+            if '=== 2022 ===' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'United Right', 'Agreement', 'Civic Coalition', 'The Left', 'Polish Coalition', 'Kukiz\'15',
+                        'Confederation', 'Poland 2050', 'AGRO unia',
+                        'Other', 'lead']
+            elif '=== 2020 ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'United Right', 'Civic Coalition', 'Civic Coalition', 'The Left', 'Polish Coalition',
                         'Kukiz\'15', 'Confederation', 'Poland 2050',
@@ -203,12 +209,16 @@ def transcribe_table(content, key, choice, begin, start):
                         'JA21', 'Volt', 'BIJ1', 'BBB',
                         'Others', 'lead', 'end']
         elif choice == 'Bulgaria':
-            if 'Old Data' in line:
+            if 'Pre-November 2021 election' in line:
                 nkey = ['firm', 'date', 'sample', 'turnout', 'Undecided',
                         'ITN', 'GERB', 'BSP', 'DB', 'DPS', 'IBG-NI', 'IMRO', 'Revival', 'PP',
                         'Other', 'None', 'lead']
-            if 'https://bntnews.bg/news/parvi-prognozni-rezultati-6-partii-vlizat-v-parlamenta-stotni-' \
-               'delyat-gerb-i-itn-1162099news.html' in line:
+            elif 'Pre-2022 election' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'PP', 'DB', 'GERB', 'DPS', 'BSP', 'ITN', 'Revival', 'IBG-NI', 'IMRO', 'BV',
+                        'Other', 'None', 'lead']
+            elif 'https://bntnews.bg/news/parvi-prognozni-rezultati-6-partii-vlizat-v-parlamenta-stotni-' \
+                 'delyat-gerb-i-itn-1162099news.html' in line:
                 nkey = ['firm', 'date', 'sample',
                         'GERB', 'ITN', 'BSP', 'DPS', 'DB', 'IBG-NI', 'BP', 'BP', 'BP', 'Revival', 'BL', 'RzB',
                         'LSChSR',
@@ -301,7 +311,12 @@ def transcribe_table(content, key, choice, begin, start):
                         'end']
         elif choice == 'Portugal':
             if '====Hypothetical scenarios====' in line:
-                break
+                ignore = True
+            elif 'Old Polling' in line:
+                ignore = False
+                nkey = ['firm', 'date', 'sample', 'turnout',
+                        'PS', 'PSD', 'BE', 'CDU', 'CDS-PP', 'PAN', 'Chega', 'IL', 'LIVRE',
+                        'Other', 'lead']
         elif choice == 'Spain':
             if '===2020===' in line:
                 nkey = ['firm', 'date', 'sample', 'turnout',
@@ -339,100 +354,101 @@ def transcribe_table(content, key, choice, begin, start):
                         'ANO', 'SPOLU', 'SPOLU', 'SPOLU', 'PaS', 'PaS', 'SPD', 'KSCM', 'CSSD', 'T-S',
                         'T-S', 'Z', 'APB', 'VB', 'P',
                         'Other', 'Lead', 'Govt.', 'Opp.']
-        if len(nkey) > 0:
-            tables.append({'table': table[:], 'key': key, 'years': years})
-            table = []
-            years = {0: years[max(years)]}
-            row = 0
-            col = 0
-            key = nkey
-        cont = False
-        if len(line) > 0 and line[0] == '}':
-            started = False
-            col = 0
-            row += 1
-            cont = True
-        if '==' in line:
-            yline = line[line.find('=='):]
-            yline = yline.strip('= \n')[:4]
-            try:
-                int(yline)
-            except ValueError:
-                pass
-            else:
-                years[row] = yline
-            col = 0
-            started = False
-            cont = True
-        if cont:
-            i += 1
-            continue
-        if not started:
-            for b in begin:
-                if b in line:
-                    started = True
-                    i += start
-                    line = content[i].strip('| \n')
-                    break
-        if started:
-            if len(line) > 0 and line[0] == '-':
-                if col != 0:
-                    col = 0
-                    row += 1
+        if not ignore:
+            if len(nkey) > 0:
+                tables.append({'table': table[:], 'key': key, 'years': years})
+                table = []
+                years = {0: years[max(years)]}
+                row = 0
+                col = 0
+                key = nkey
+            cont = False
+            if len(line) > 0 and line[0] == '}':
+                started = False
+                col = 0
+                row += 1
+                cont = True
+            if '==' in line and '[' not in line:
+                yline = line[line.find('=='):]
+                yline = yline.strip('= \n')[:4]
+                try:
+                    int(yline)
+                except ValueError:
+                    pass
+                else:
+                    years[row] = yline
+                col = 0
+                started = False
+                cont = True
+            if cont:
                 i += 1
                 continue
-            if len(table) <= row:
-                placeholder = [True for _ in range(len(key))]
-                table.extend([placeholder.copy() for _ in range(row - len(table) + 1)])
-            # if len(line) > 0 and col == 0 and line[0] == '-':
-            #     i += 1
-            #     continue
-            while table[row][col] is False:
+            if not started:
+                for b in begin:
+                    if b in line:
+                        started = True
+                        i += start
+                        line = content[i].strip('| \n')
+                        break
+            if started:
+                if len(line) > 0 and line[0] == '-':
+                    if col != 0:
+                        col = 0
+                        row += 1
+                    i += 1
+                    continue
+                if len(table) <= row:
+                    placeholder = [True for _ in range(len(key))]
+                    table.extend([placeholder.copy() for _ in range(row - len(table) + 1)])
+                # if len(line) > 0 and col == 0 and line[0] == '-':
+                #     i += 1
+                #     continue
+                while table[row][col] is False:
+                    col += 1
+                    if col >= len(key):
+                        col -= len(key)
+                        row += 1
+                        if len(table) <= row:
+                            placeholder = [True for _ in range(len(key))]
+                            table.extend([placeholder.copy() for _ in range(row - len(table) + 1)])
+                # if len(line) > 0 and col == 0 and line[0] == '-':
+                #     i += 1
+                #     continue
+                table[row][col] = line
+                if 'colspan' in line and 'rowspan' in line:
+                    htemp: str = line[line.find('colspan') + len('colspan'):]
+                    hnum = int(htemp.strip('|= ').split()[0].split('|')[0].strip('" '))
+                    vtemp: str = line[line.find('rowspan') + len('rowspan'):]
+                    vnum = int(vtemp.strip('|= ').split()[0].split('|')[0].strip('" '))
+                    for r in range(vnum):
+                        if len(table) <= row + vnum:
+                            placeholder = [True for _ in range(len(key))]
+                            table.extend([placeholder.copy() for _ in range(row + vnum - len(table) + 1)])
+                        for c in range(hnum):
+                            if col + c >= len(table[row]) - 1:
+                                break
+                            elif c + r != 0:
+                                table[row + r][col + c] = False
+                elif 'colspan' in line:
+                    temp: str = line[line.find('colspan') + len('colspan'):]
+                    num = int(temp.strip('|= ').split()[0].split('|')[0].strip('" '))
+                    for a in range(1, num):
+                        if col + a >= len(table[row]) - 1:
+                            break
+                        else:
+                            table[row][col + a] = False
+                elif 'rowspan' in line:
+                    temp: str = line[line.find('rowspan') + len('rowspan'):]
+                    num = int(temp.strip('|= ').split()[0].split('|')[0].strip('"{}N/A ').split('"')[0])
+                    if len(table) <= row + num:
+                        placeholder = [True for _ in range(len(key))]
+                        table.extend([placeholder.copy() for _ in range(row + num - len(table) + 1)])
+                    for a in range(1, num):
+                        table[row + a][col] = False
                 col += 1
                 if col >= len(key):
                     col -= len(key)
                     row += 1
-                    if len(table) <= row:
-                        placeholder = [True for _ in range(len(key))]
-                        table.extend([placeholder.copy() for _ in range(row - len(table) + 1)])
-            # if len(line) > 0 and col == 0 and line[0] == '-':
-            #     i += 1
-            #     continue
-            table[row][col] = line
-            if 'colspan' in line and 'rowspan' in line:
-                htemp: str = line[line.find('colspan') + len('colspan'):]
-                hnum = int(htemp.strip('|= ').split()[0].split('|')[0].strip('" '))
-                vtemp: str = line[line.find('rowspan') + len('rowspan'):]
-                vnum = int(vtemp.strip('|= ').split()[0].split('|')[0].strip('" '))
-                for r in range(vnum):
-                    if len(table) <= row + vnum:
-                        placeholder = [True for _ in range(len(key))]
-                        table.extend([placeholder.copy() for _ in range(row + vnum - len(table) + 1)])
-                    for c in range(hnum):
-                        if col + c >= len(table[row]) - 1:
-                            break
-                        elif c + r != 0:
-                            table[row + r][col + c] = False
-            elif 'colspan' in line:
-                temp: str = line[line.find('colspan') + len('colspan'):]
-                num = int(temp.strip('|= ').split()[0].split('|')[0].strip('" '))
-                for a in range(1, num):
-                    if col + a >= len(table[row]) - 1:
-                        break
-                    else:
-                        table[row][col + a] = False
-            elif 'rowspan' in line:
-                temp: str = line[line.find('rowspan') + len('rowspan'):]
-                num = int(temp.strip('|= ').split()[0].split('|')[0].strip('"{}N/A ').split('"')[0])
-                if len(table) <= row + num:
-                    placeholder = [True for _ in range(len(key))]
-                    table.extend([placeholder.copy() for _ in range(row + num - len(table) + 1)])
-                for a in range(1, num):
-                    table[row + a][col] = False
-            col += 1
-            if col >= len(key):
-                col -= len(key)
-                row += 1
         i += 1
     tables.append({'table': table, 'key': key, 'years': years})
     return tables
@@ -589,15 +605,16 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
         entry = table[i]
         date = entry[date_i]
         if type(date).__name__ != 'str':
-            if date is False:
-                for j in range(i - 1, -1, -1):
-                    t = table[j][date_i]
-                    if type(t).__name__ == 'int':
-                        date = t
-                        break
-            else:
-                remove.append(i)
-                continue
+            # print(date, entry)
+            # if date is False:
+            #     for j in range(i - 1, -1, -1):
+            #         t = table[j][date_i]
+            #         if type(t).__name__ == 'int' and t < 0:
+            #             date = t
+            #             break
+            # else:
+            remove.append(i)
+            continue
         else:
             try:
                 date = process_date(entry[date_i], year)
@@ -658,12 +675,12 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
                 for k, entry in enumerate(table):
                     if entry[i + 1] is None:
                         purge.add(k)
-    elif choice == 'Bulgaria':
-        if 'DB' in key:
-            i = key.index('DB')
-            for k, entry in enumerate(table):
-                if entry[i] is None:
-                    purge.add(k)
+    # elif choice == 'Bulgaria':
+    #     if 'DB' in key:
+    #         i = key.index('DB')
+    #         for k, entry in enumerate(table):
+    #             if entry[i] is None:
+    #                 purge.add(k)
     elif choice == 'Brazil':
         i = key.index('firm')
         for k, entry in enumerate(table):
@@ -862,7 +879,6 @@ def choice_setting(c):
     toggle_seats = dat['toggle_seats']
     zeros = dat['zeros']
     spread = dat['spread']
-    src = dat['url']
     return file_name, key, col, blocs, gov, start, restart, date, end_date, include, vlines, toggle_seats, zeros, spread
 
 
@@ -1465,7 +1481,7 @@ def update_data(sel="All"):
     def failed(tag, url):
         print('Failed to load for ' + tag + ' from ' + url)
 
-    def update_dat(dest, url, tag):
+    def get_dat(dest, url, tag):
         try:
             content = urllib.request.urlopen(url)
             read_content = content.read()
@@ -1474,8 +1490,7 @@ def update_data(sel="All"):
             if len(content) > 0:
                 text = content[0].text
             else:
-                failed(tag, url)
-                return
+                return False
             final = text.encode('utf-8')
             try:
                 with open(dest, 'rb') as rf:
@@ -1486,8 +1501,24 @@ def update_data(sel="All"):
                 updated.append(tag)
             with open(dest, 'wb') as wf:
                 wf.write(final)
+            return True
         except urllib.error.URLError:
-            failed(tag, url)
+            return False
+
+    def update_dat(dest, url, tag):
+        success = get_dat(dest, url, tag)
+        if not success:
+            url2 = None
+            year = choices[tag]['end_date'].year
+            i = url.find(str(year))
+            if i != -1:
+                url2 = url[:i] + "next" + url[i+4:]
+                if i != -1:
+                    success = get_dat(dest, url2, tag)
+            if not success:
+                failed(tag, url)
+                if url2 is not None:
+                    failed(tag, url2)
 
     today = get_today()
     if sel == 'All':

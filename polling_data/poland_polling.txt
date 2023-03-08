@@ -6,32 +6,532 @@
 ! rowspan="2" data-sort-type="date" | Fieldwork<br />date
 ! rowspan="2" style="width:20px;" | Sample<br/>size
 ! style="width:60px;" class="unsortable" | [[United Right (Poland)|United<br/>Right]]
-! style="width:60px;letter-spacing: -1px;" class="unsortable" | [[Agreement (political party)|Agreement]]
-! style="width:60px;" class="unsortable" | [[Civic Coalition (Poland)|Civic<br/>Coalition]]
+! style="width:60px;" class="unsortable" | [[Civic Coalition (Poland)|Civic<br />Coalition]]
 ! style="width:60px;" class="unsortable" | [[The Left (Poland)|The Left]]
-! style="width:60px;" class="unsortable" | [[Polish Coalition|Polish<br/>Coalition]]
+! style="width:60px;" class="unsortable" | [[Polish Coalition|Polish<br />Coalition]]
 ! style="width:60px;" class="unsortable" | [[Kukiz'15]]
 ! style="width:60px;letter-spacing: -1px;" class="unsortable" | [[Confederation Liberty and Independence|Confederation]]
-! style="width:60px;" class="unsortable" | [[Poland 2050|Poland<br/>2050]]
+! style="width:60px;" class="unsortable" | [[Poland 2050|Poland<br />2050]]
+! style="width:60px;letter-spacing: -1px;" class="unsortable" | [[Agreement (political party)|Agreement]]
 ! style="width:60px;letter-spacing: -1px;" class="unsortable" | [[AGROunia]]
 ! rowspan="2" data-sort-type="number" style="width:50px;" | Others /<br />Don't know
 ! rowspan="2" data-sort-type="number" style="width:30px;" | Lead
 |-
 ! data-sort-type="number" style="height:1px; background:{{party color|Law and Justice}};" |
-! data-sort-type="number" style="height:1px; background:{{party color|Agreement (political party)}};" |
 ! data-sort-type="number" style="height:1px; background:{{party color|Civic Coalition (Poland)}};" |
 ! data-sort-type="number" style="height:1px; background:{{party color|The Left (Poland)}};" |
 ! data-sort-type="number" style="height:1px; background:{{party color|Polish People's Party}};" |
 ! data-sort-type="number" style="height:1px; background:{{party color|Kukiz'15}};" |
 ! data-sort-type="number" style="height:1px; background:{{party color|Confederation Liberty and Independence}};" |
-! data-sort-type="number" style="height:1px; background:{{party color|Poland 2050}};"|
-! data-sort-type="number" style="height:1px; background:{{party color|AGROunia}};"|
+! data-sort-type="number" style="height:1px; background:{{party color|Poland 2050}};" |
+! data-sort-type="number" style="height:1px; background:{{party color|Agreement (political party)}};" |
+! data-sort-type="number" style="height:1px; background:{{party color|AGROunia}};" |
+|-
+| [https://wiadomosci.wp.pl/opozycja-zabiera-wladze-pis-mamy-nowy-sondaz-6873198756399840a United Surveys / WP.pl]
+| data-sort-value="2023-03-05" | 3–5 Mar
+| 1,000
+| style="background:#C0DBFC;" | '''34.7'''
+| 27.9
+| 8.2
+| 6.9
+| 
+| 7.3
+| 7.1
+| colspan="2" | 0.9
+| 7.0
+| style="background:{{party color|Law and Justice}}; color:white;"| '''6.8'''
+|-
+| [https://twitter.com/PGBOpinium/status/1632744240735199232 PGB Opinium]
+| data-sort-value="2023-03-04" | 3–4 Mar
+| 1,100
+| style="background:#C0DBFC;" | '''34.68'''
+| 31.69
+| 7.92
+| 4.93
+| 
+| 8.52
+| 9.12
+| colspan="2" | 0.45
+| 2.69{{efn|[[Nonpartisan Local Government Activists]] – 1.94}}
+| style="background:{{party color|Law and Justice}}; color:white;"| '''2.99'''
+|-
+| [https://twitter.com/IBRiS_PL/status/1631583345132838912 IBRiS / ZET]
+| data-sort-value="2023-03-01" | 28 Feb–1 Mar
+| 1,100
+| style="background:#C0DBFC;" | '''34.4'''
+| 27.1
+| 9.2
+| 6.6
+| 
+| 7.4
+| 7.5
+| 
+| 
+| 7.8
+| style="background:{{party color|Law and Justice}}; color:white;"| '''7.3'''
+|-
+| [https://wpolityce.pl/polityka/636765-nasz-sondaz-pis-z-mocna-przewaga-nad-ko-traci-holownia Social Changes / wPolityce.pl]
+| data-sort-value="2023-02-27" | 24–27 Feb
+| 1,052
+| style="background:#C0DBFC;" | '''37'''
+| 29
+| 9
+| 6
+| 2
+| 6
+| 7
+| 1
+| 
+| 3
+| style="background:{{party color|Law and Justice}}; color:white;"| '''8'''
+|-
+| [https://stanpolityki.pl/sondaz-parlamentarny-ibsp-marzec-2023/ IBSP]
+| data-sort-value="2023-02-27" | 24–27 Feb
+| 1,000
+| style="background:#C0DBFC;" | '''34.70'''
+| 33.91
+| 6.74
+| 3.73
+| 
+| 11.13
+| 7.33
+| 
+| 
+| 2.46{{efn|[[Nonpartisan Local Government Activists]] – 2.08}}
+| style="background:{{party color|Law and Justice}}; color:white;"| '''0.79'''
+|-
+| [https://dorzeczy.pl/kraj/409738/sondaz-opozycja-moze-zagrozic-pis-dobry-wynik-dla-tuska.html Estymator / DoRzeczy.pl]
+| data-sort-value="2023-02-24" | 23–24 Feb
+| 1,037
+| style="background:#C0DBFC;" | '''37.5'''
+| 29.9
+| 9.1
+| 6.6
+| 1.1
+| 6.8
+| 8.0
+| colspan="2" | 0.7
+| 0.3
+| style="background:{{party color|Law and Justice}}; color:white;"| '''7.6'''
+|-
+| [https://wpolityce.pl/polityka/636054-najnowszy-sondaz-poparcia-dla-partii-politycznych-wyniki Social Changes / wPolityce.pl]
+| data-sort-value="2023-02-21" | 17–21 Feb
+| 1,070
+| style="background:#C0DBFC;" | '''35'''
+| 31
+| 9
+| 5
+| 2
+| 6
+| 9
+| 1
+| 
+| 2
+| style="background:{{party color|Law and Justice}}; color:white;"| '''4'''
+|-
+| [https://twitter.com/sieniutycz/status/1628684073861259266 Research Partner]
+| data-sort-value="2023-02-20" | 17–20 Feb
+| 1,022
+| style="background:#C0DBFC;" | '''32.1'''
+| 30.4
+| 7.7
+| 4.5
+| 1.6
+| 6.4
+| 9.7
+| 0.4
+| 
+| 7.3
+| style="background:{{party color|Law and Justice}}; color:white;"| '''1.7'''
+|-
+| [https://wiadomosci.radiozet.pl/polska/polityka/polityczna-scena-po-aferze-willa-plus-najnowszy-sondaz-partyjny Kantar Public]
+| data-sort-value="2023-02-10" | 15–20 Feb
+| –
+| style="background:#C0DBFC;" | '''33'''
+| 28
+| 9
+| 2
+| 2
+| 5
+| 9
+| colspan="2" | 0
+| 12
+| style="background:{{party color|Law and Justice}}; color:white;"| '''5'''
+|-
+| [https://wiadomosci.wp.pl/jeszcze-mniej-mandatow-dla-pis-kaczynskiego-musi-to-zaniepokoic-6868236463291008a United Surveys / WP.pl]
+| data-sort-value="2023-02-19" | 17–19 Feb
+| 1,000
+| style="background:#C0DBFC;" | '''33.6'''
+| 27.2
+| 8.7
+| 7.0
+| 
+| 6.9
+| 7.5
+| colspan="2" | 0.4
+| 8.7
+| style="background:{{party color|Law and Justice}}; color:white;"| '''6.4'''
+|-
+| [https://www.pap.pl/aktualnosci/news%2C1539001%2Csondaz-cbos-wzrost-poparcia-dla-koalicji-rzadzacej-spadaja-notowania CBOS]
+| data-sort-value="2023-02-19" | 6–19 Feb
+| 982
+| style="background:#C0DBFC;" | '''36'''
+| 22
+| 5
+| 3
+| 0
+| 7
+| 7
+| colspan="2" | 1
+| 16
+| style="background:{{party color|Law and Justice}}; color:white;"| '''14'''
+|-
+| [https://www.rp.pl/polityka/art38012101-sondaz-ibris-dla-rzeczpospolitej-poparcie-dla-pis-wzroslo-dla-ko-jeszcze-bardziej IBRiS / "Rz"]
+| data-sort-value="2023-02-18" | 17–18 Feb
+| 1,100
+| style="background:#C0DBFC;" | '''34.7'''
+| 28.6
+| 9.0
+| 6.4
+| 
+| 6.0
+| 8.2
+| 
+| 
+| 7.1
+| style="background:{{party color|Law and Justice}}; color:white;"| '''6.1'''
+|-
+| [https://twitter.com/PGBOpinium/status/1627602971822379009 PGB Opinium]
+| data-sort-value="2023-02-18" | 15–18 Feb
+| 1,100
+| style="background:#C0DBFC;" | '''34.80'''
+| 30.85
+| 7.90
+| 5.02
+| 
+| 7.29
+| 10.33
+| 
+| 1.06
+| 2.74{{efn|[[Nonpartisan Local Government Activists]] – 1.98}}
+| style="background:{{party color|Law and Justice}}; color:white;"| '''3.95'''
+|-
+|
+| data-sort-value="2023-02-13" | 13 February
+| colspan="12" |'''[[Wolnościowcy]] leave [[Confederation Liberty and Independence|Confederation]]'''<ref>{{cite news|title = Wolnościowcy zakładają nowe koło. "To koniec Konfederacji"|url = https://wydarzenia.interia.pl/kraj/news-wolnosciowcy-zakladaja-nowe-kolo-to-koniec-konfederacji,nId,6594901|date = 13 February 2023|website = interia.pl}}</ref>
+|-
+| [https://wpolityce.pl/polityka/633727-nasz-sondaz-bardzo-dobry-wynik-zjednoczonej-prawicy-wyniki Social Changes / wPolityce.pl]
+| data-sort-value="2023-02-13" | 10–13 Feb
+| 1,063
+| style="background:#C0DBFC;" | '''37'''
+| 28
+| 9
+| 7
+| 1
+| 8
+| 8
+| 1
+| 
+| 1
+| style="background:{{party color|Law and Justice}}; color:white;"| '''9'''
+|-
+| [https://dorzeczy.pl/sondaz/403666/na-kogo-chca-glosowac-polacy-nowy-sondaz-dla-dorzeczypl.html Estymator / DoRzeczy.pl]
+| data-sort-value="2023-02-10" | 9–10 Feb
+| 1,021
+| style="background:#C0DBFC;" | '''37.7'''
+| 28.9
+| 9.5
+| 6.4
+| 1.2
+| 6.5
+| 8.3
+| colspan="2" | 1.3
+| 0.2
+| style="background:{{party color|Law and Justice}}; color:white;"| '''8.8'''
+|-
+| [https://fakty.tvn24.pl/fakty-po-poludniu,96/koalicja-obywatelska-przed-pis-najnowszy-sondaz-partyjny-dla-faktow-tvn-i-tvn24,1135780.html Kantar / TVN]
+| data-sort-value="2023-02-08" | 7–8 Feb
+| 1,000
+| 28
+| style="background:#FDDCB8;" | '''29'''
+| 5
+| 3
+| 2
+| 8
+| 11
+| colspan="2" | 2
+| 12
+| style="background:{{party color|Civic Coalition (Poland)}}; color:white;"| '''1'''
+|-
+| rowspan="2" | [https://twitter.com/sieniutycz/status/1623633920293044224 Research Partner]
+| rowspan="2" data-sort-value="2023-02-06" | 3–6 Feb
+| rowspan="2" | 1,040
+| style="background:#C0DBFC;" | '''35.6'''
+| 28.1
+| 7.2
+| 5.4
+| 0.9
+| 7.5
+| 9.8
+| 0.4
+| 
+| 5.1
+| style="background:{{party color|Law and Justice}}; color:white;"| '''7.5'''
+|-
+| style="background:#C0DBFC;" | '''33.7'''
+| 27.8
+| 7.3
+| 4.2
+| 1.9
+| 6.4
+| 10.7
+| colspan="2" | 1.0
+| 6.9
+| style="background:{{party color|Law and Justice}}; color:white;"| '''5.9'''
+|-
+| [https://wpolityce.pl/polityka/633727-nasz-sondaz-bardzo-dobry-wynik-zjednoczonej-prawicy-wyniki Social Changes / wPolityce.pl]
+| data-sort-value="2023-02-06" | 3–6 Feb
+| 1,063
+| style="background:#C0DBFC;" | '''38'''
+| 29
+| 9
+| 6
+| 1
+| 7
+| 8
+| 0
+| 
+| 2
+| style="background:{{party color|Law and Justice}}; color:white;"| '''9'''
+|-
+| [https://wiadomosci.wp.pl/zle-wiadomosci-dla-pis-najnowszy-sondaz-mowi-wszystko-6863304018512480a United Surveys / WP.pl]
+| data-sort-value="2023-02-05" | 3–5 Feb
+| 1,000
+| style="background:#C0DBFC;" | '''34.6'''
+| 28.0
+| 9.1
+| 5.1
+| 
+| 5.2
+| 8.1
+| colspan="2" | 1.9
+| 8.0
+| style="background:{{party color|Law and Justice}}; color:white;"| '''6.6'''
+|-
+| [https://www.rp.pl/polityka/art37905031-sondaz-rosnie-poparcie-dla-pis-rosnie-poparcie-dla-ko IBRiS / "Rz"]
+| data-sort-value="2023-02-04" | 3–4 Feb
+| 1,100
+| style="background:#C0DBFC;" | '''33.9'''
+| 27.3
+| 8.9
+| 5.1
+| 
+| 5.6
+| 8.3
+| 
+| 
+| 11.0
+| style="background:{{party color|Law and Justice}}; color:white;"| '''6.6'''
+|-
+| [https://wpolityce.pl/polityka/633107-najnowszy-sondaz-poparcia-dla-partii-politycznych-wyniki Social Changes / wPolityce.pl]
+| data-sort-value="2023-01-30" | 27–30 Jan
+| 1,083
+| style="background:#C0DBFC;" | '''35'''
+| 29
+| 10
+| 5
+| 2
+| 7
+| 9
+| 0
+| 
+| 3
+| style="background:{{party color|Law and Justice}}; color:white;"| '''6'''
+|-
+| [https://polityka.se.pl/wiadomosci/pis-ma-powod-do-swietowania-a-opozycja-do-zmartwien-nowy-sondaz-aa-gQQP-f5Yg-xUkt.html Pollster / SE.pl]
+| data-sort-value="2023-01-29" | 28–29 Jan
+| 1,088
+| style="background:#C0DBFC;" | '''34.76'''
+| 29.02
+| 10.16
+| 5.14
+| 1.15
+| 6.84
+| 11.31
+| 1.05
+| 
+| 0.57
+| style="background:{{party color|Law and Justice}}; color:white;"| '''5.74'''
+|-
+| [https://dorzeczy.pl/sondaz/398248/sondaz-dla-dorzeczypl-rosnie-poparcie-dla-zjednoczonej-prawicy.html Estymator / DoRzeczy.pl]
+| data-sort-value="2023-01-27" | 26–27 Jan
+| 1,035
+| style="background:#C0DBFC;" | '''37.0'''
+| 28.8
+| 8.9
+| 6.6
+| 1.4
+| 7.6
+| 9.1
+| 
+| 
+| 0.6
+| style="background:{{party color|Law and Justice}}; color:white;"| '''8.2'''
+|-
+| [https://www.rp.pl/polityka/art37873851-samorzadowcy-w-wielkiej-grze-opozycji-sondaz-daje-im-miejsce-za-pis-i-ko SW Research / "Rz"]
+| data-sort-value="2023-01-26" | 24–26 Jan
+| 1,071
+| style="background:#C0DBFC;" | '''22.0'''
+| 17.4
+| 7.1
+| 2.6
+| 
+| 9.0
+| 9.1
+| 
+| 
+| 32.8{{efn|[[Yes! For Poland]] – 10.7, others – 2.9, don't know – 19.2}}
+| style="background:{{party color|Law and Justice}}; color:white;"| '''4.6'''
+|-
+| [https://www.rmf24.pl/fakty/polska/news-w-tym-wariancie-zjednoczona-opozycja-moze-pokonac-pis-sondaz,nId,6556804#crp_state=1 United Surveys / DGP, RMF]
+| data-sort-value="2023-01-23" | 22–23 Jan
+| 1,000
+| style="background:#C0DBFC;" | '''34.0'''
+| 27.4
+| 8.4
+| 6.1
+| 
+| 6.4
+| 8.6
+| 
+| 
+| 9.1
+| style="background:{{party color|Law and Justice}}; color:white;"| '''6.6'''
+|-
+| [https://wpolityce.pl/polityka/632143-sondaz-partyjny-pis-z-lekkim-spadkiem-w-gore-lewica Social Changes / wPolityce.pl]
+| data-sort-value="2023-01-23" | 20–23 Jan
+| 1,053
+| style="background:#C0DBFC;" | '''35'''
+| 30
+| 10
+| 5
+| 1
+| 7
+| 9
+| 1
+| 
+| 2
+| style="background:{{party color|Law and Justice}}; color:white;"| '''5'''
+|-
+| [https://dorzeczy.pl/sondaz/396901/wybory-sondaz-pis-remisuje-z-ko-ile-ugrupowan-w-sejmie.html Kantar Public]
+| data-sort-value="2023-01-23" | 18–23 Jan
+| 983
+| style="background:#C0DBFC;" | '''31'''
+| style="background:#FDDCB8;" | '''31'''
+| 8
+| 2
+| 1
+| 5
+| 8
+| 0
+| 1
+| 13
+| '''Tie'''
+|-
+| [https://wiadomosci.wp.pl/pis-powieksza-przewage-jest-najnowszy-sondaz-6858308932889152a United Surveys / WP.pl]
+| data-sort-value="2023-01-22" | 20–22 Jan
+| 1,000
+| style="background:#C0DBFC;" | '''34.4'''
+| 27.1
+| 8.4
+| 6.2
+| 
+| 6.5
+| 9.7
+| 
+| 0.2
+| 7.5
+| style="background:{{party color|Law and Justice}}; color:white;"| '''7.3'''
+|-
+| [https://www.wnp.pl/parlamentarny/wydarzenia/oto-wyniki-kolejnego-sondazu-cbos-pis-32-proc-ko-22-proc,669231.html CBOS]
+| data-sort-value="2023-01-22" | 9–22 Jan
+| 1,028
+| style="background:#C0DBFC;" | '''32'''
+| 22
+| 5
+| 3
+| 1
+| 7
+| 7
+| 1
+| 
+| 22
+| style="background:{{party color|Law and Justice}}; color:white;"| '''10'''
+|-
+| [https://wpolityce.pl/polityka/630906-nasz-sondaz-pis-odrabia-straty-slaby-wynik-konfederacji Social Changes / wPolityce.pl]
+| data-sort-value="2023-01-16" | 13–16 Jan
+| 1,061
+| style="background:#C0DBFC;" | '''37'''
+| 30
+| 9
+| 5
+| 2
+| 6
+| 10
+| 0
+| 
+| 1
+| style="background:{{party color|Law and Justice}}; color:white;"| '''7'''
+|-
+| [https://twitter.com/sieniutycz/status/1616357382908436480 Research Partner]
+| data-sort-value="2023-01-16" | 13–16 Jan
+| 1,033
+| style="background:#C0DBFC;" | '''34.6'''
+| 27.8
+| 8.4
+| 4.8
+| 2.5
+| 7.2
+| 9.4
+| 0.5
+| 
+| 4.7
+| style="background:{{party color|Law and Justice}}; color:white;"| '''6.8'''
+|-
+| [https://twitter.com/IBRiS_PL/status/1615604472729993221 IBRiS / ZET]
+| data-sort-value="2023-01-15" | 14–15 Jan
+| 1,100
+| style="background:#C0DBFC;" | '''33.4'''
+| 27.2
+| 8.9
+| 5.9
+| 
+| 7.0
+| 9.2
+| 
+| 
+| 8.4
+| style="background:{{party color|Law and Justice}}; color:white;"| '''6.2'''
+|-
+| [https://stanpolityki.pl/sondaz-parlamentarny-ibsp-styczen-2023/ IBSP]
+| data-sort-value="2023-01-15" | 10–15 Jan
+| 800
+| 34.25
+| style="background:#FDDCB8;" | '''34.40'''
+| 4.33
+| 4.13
+| 
+| 8.45
+| 13.20
+| 
+| 1.24
+| 0.0
+| style="background:{{party color|Civic Coalition (Poland)}}; color:white;"| '''0.15'''
 |-
 | [https://dorzeczy.pl/sondaz/392758/ko-goni-pis-nowy-sondaz-estymator.html Estymator / DoRzeczy.pl]
 | data-sort-value="2023-01-13" | 12–13 Jan
 | 1,029
 | style="background:#C0DBFC;" | '''36.1'''
-| 
 | 29.4
 | 10.1
 | 6.7
@@ -39,20 +539,36 @@
 | 7.4
 | 8.2
 | 
+| 
 | 0.3
 | style="background:{{party color|Law and Justice}}; color:white;"| '''6.7'''
+|-
+| [https://wpolityce.pl/polityka/630213-najnowszy-sondaz-poparcia-dla-partii-politycznych-wyniki Social Changes / wPolityce.pl]
+| data-sort-value="2023-01-09" | 6–9 Jan
+| 1,056
+| style="background:#C0DBFC;" | '''34'''
+| 29
+| 9
+| 7
+| 2
+| 7
+| 10
+| 0
+| 
+| 2
+| style="background:{{party color|Law and Justice}}; color:white;"| '''5'''
 |-
 | [https://wiadomosci.wp.pl/trudny-poczatek-roku-dla-pis-nowy-sondaz-wp-6853366243208096a United Surveys / WP.pl]
 | data-sort-value="2023-01-08" | 6–8 Jan
 | 1,000
 | style="background:#C0DBFC;" | '''32.3'''
-| 
 | 27.0
 | 8.0
 | 5.9
 | 
 | 6.9
 | 9.3
+| 
 | 2.0
 | 8.6
 | style="background:{{party color|Law and Justice}}; color:white;"| '''5.3'''
@@ -61,7 +577,6 @@
 | rowspan="2" data-sort-value="2023-01-06" | 5–6 Jan
 | rowspan="2" | 1,100
 | style="background:#C0DBFC;" | '''29.7'''
-| 
 | 25.4
 | 8.9
 | 5.7
@@ -69,11 +584,11 @@
 | 6.6
 | 9.2
 | 
+| 
 | 14.5
 | style="background:{{party color|Law and Justice}}; color:white;"| '''4.3'''
 |-
 | style="background:#C0DBFC;" | '''29.5'''
-| 
 | 23.7
 | 8.8
 | 6.2
@@ -81,20 +596,21 @@
 | 6.3
 | 7.3
 | 
-| 18.2{{efn|[[Nonpartisan Local Government Activists]] – 2.3, [[Tak! Dla Polski]] – 1.9}}
+| 
+| 18.2{{efn|[[Nonpartisan Local Government Activists]] – 2.3, [[Yes! For Poland]] – 1.9}}
 | style="background:{{party color|Law and Justice}}; color:white;"| '''5.8'''
 |-
 | [https://wpolityce.pl/polityka/629083-najnowszy-sondaz-poparcia-dla-partii-politycznych-wyniki Social Changes / wPolityce.pl]
 | data-sort-value="2023-01-02" | 30 Dec–2 Jan
 | 1,051
 | style="background:#C0DBFC;" | '''37'''
-| 0
 | 28
 | 8
 | 5
 | 2
 | 9
 | 11
+| 0
 | 
 | 2
 | style="background:{{party color|Law and Justice}}; color:white;"| '''9'''

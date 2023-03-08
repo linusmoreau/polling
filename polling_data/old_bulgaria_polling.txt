@@ -1,4 +1,668 @@
-Old Data
+Pre-2022 election
+==Opinion polls==
+;Graphical representation of recalculated data
+{{wide image|Opinion polls Bulgaria 2022.svg|1000px|[[Local regression]] of polls conducted}}
+The opinion poll results below were recalculated from the original data and exclude polls that chose "I will not vote" or "I am uncertain" options.
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px"
+! rowspan="2" |Polling firm
+! rowspan="2" |Fieldwork date
+! rowspan="2" |Sample
+! [[We Continue the Change|PP]]
+! [[Democratic Bulgaria|DB]]
+! [[GERB]]–<br/>[[Union of Democratic Forces (Bulgaria)|SDS]]
+! [[Movement for Rights and Freedoms|DPS]]
+! [[Bulgarian Socialist Party|BSP]]
+! [[There Is Such A People|ITN]]
+! [[Revival (Bulgarian political party)|Revival]]
+! [[Stand Up.BG|IS.BG]]
+! [[IMRO – Bulgarian National Movement|VMRO]]
+! [[Bulgarian Rise|BV]]
+! rowspan="2" class="unsortable" style="width:50px" |[[List of political parties in Bulgaria|Others]]
+! rowspan="2" class="unsortable" style="width:50px" |[[None of the above]]
+! rowspan="2" |Lead
+|-
+! class="unsortable" style="background:{{party color|We Continue the Change}}" |
+! class="unsortable" style="background:{{party color|Democratic Bulgaria}}" |
+! class="unsortable" style="background:{{party color|GERB}}" |
+! class="unsortable" style="background:{{party color|Movement for Rights and Freedoms}}" |
+! class="unsortable" style="background:{{party color|BSP for Bulgaria}}" |
+! class="unsortable" style="background:{{party color|There Is Such A People}}" |
+! class="unsortable" style="background:{{party color|Revival (Bulgarian political party)}}" |
+! class="unsortable" style="background:{{party color|Stand Up.BG}};" |
+! class="unsortable" style="background:{{party color|IMRO – Bulgarian National Movement}}" |
+! class="unsortable" style="background:{{party color|Bulgarian Progress}}" |
+|- style="background:#D5D5D5"
+|2022 election
+|2 October 2022
+|—
+|19.5
+|7.2
+|24.5="background:#CCE6FF" | '''24.5'''
+|13.3
+|9.0
+|3.7
+|9.8
+|1.0
+|0.8
+|4.5
+|3.4
+|3.4
+| style="background:{{party color|GERB}}; color:white" |5.0
+|-
+|-  style="background:#EEEFFF" |
+|[https://www.gallup-international.bg/en/46338/exitpoll-1900/ Gallup]
+|Exit poll
+| —
+|18.8
+|7.4
+|24.7="background:#CCE6FF" | '''24.7'''
+|14.5
+|10.8
+|4.6
+|10.2
+|1.2
+|0.9
+|4.0
+|2.9
+| —
+| style="background:{{party color|GERB}}; color:white" |5.9
+|-
+|[https://www.vesti.bg/parlamentarni-izbori/alfa-risyrch-471-smiatat-che-shte-se-systavi-pravitelstvo-6152220/ Alpha Research]
+|27–29 Sep 2022
+|1,025
+|16.5
+|8.4
+|style="background:#CCE6FF" | '''25.2'''
+|13.1
+|10.2
+|4.0
+|11.0
+|1.9
+|1.8
+|4.4
+|3.5
+| —
+| style="background:{{party color|GERB}}; color:white" |8.7
+|-
+|[https://dariknews.bg/novini/izbori/trend-gerb-vodi-s-blizo-10-pred-prodylzhavame-promianata-2325842/ Trend]
+|21–27 Sep 2022
+|1,001
+|16.4
+|7.6
+|style="background:#CCE6FF" | '''25.7'''
+|11.9
+|8.7
+|4.2
+|13.9
+|2.0
+|1.2
+|4.4
+|4.0
+| —
+| style="background:{{party color|GERB}}; color:white" |9.3
+|-
+|[https://nova.bg/news/view/2022/09/30/384710/%D0%B3%D0%B0%D0%BB%D1%8A%D0%BF-%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0%D1%82%D0%B0-62-%D0%B7%D0%B0-%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0-%D1%81%D0%B5-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B7%D0%B2%D0%B0/ Gallup]
+|20–27 Sep 2022
+|1,009
+|16.6
+|7.8
+|style="background:#CCE6FF" | '''25.8'''
+|13.2
+|9.2
+|4.2
+|12.8
+|1.9
+|1.2
+|4.0
+|3.3
+| —
+| style="background:{{party color|GERB}}; color:white" |9.2
+|-
+|[https://sovaharris.com/%d0%b5%d0%bb%d0%b5%d0%ba%d1%82%d0%be%d1%80%d0%b0%d0%bb%d0%bd%d0%b8-%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%b2-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f-%d1%81%d0%b5%d0%bf%d1%82%d0%b5/ Sova Harris]
+|22–26 Sep 2022
+|1,000
+|19.0
+|5.7
+|style="background:#CCE6FF" | '''27.5'''
+|12.5
+|12.1
+|4.6
+|9.5
+|2.9
+|1.1
+|4.2
+|0.9
+| —
+| style="background:{{party color|GERB}}; color:white" |8.5
+|-
+|[https://exacta.bg/?page_id=42/ Exacta]
+|20–25 Sep 2022
+|1,050
+|16.8
+|8.0
+|style="background:#CCE6FF" | '''26.4'''
+|12.6
+|10.8
+|4.5
+|10.5
+| —
+| —
+|4.2
+|5.6
+|0.6
+| style="background:{{party color|GERB}}; color:white" |9.6
+|-
+|[https://btvnovinite.bg/bulgaria/market-links-6-partii-preskachat-praga-za-vlizane-v-ns.html/ Market Links]
+|17–23 Sep 2022
+|1,024
+|16.9
+|7.8
+|style="background:#CCE6FF" | '''23.7'''
+|12.3
+|9.9
+|3.9
+|8.7
+|2.5
+| —
+|2.5
+|11.8
+| —
+| style="background:{{party color|GERB}}; color:white" |6.8
+|-
+|[http://www.mediana.bg/bg/articles-and-analyses/ Mediana]
+|16–22 Sep 2022
+|1,008
+|16.3
+|5.9
+|style="background:#CCE6FF" | '''26.3'''
+|11.5
+|13.1
+|4.7
+|12.0
+|3.0
+| —
+|5.2
+|2.0
+| —
+| style="background:{{party color|GERB}}; color:white" |10.0
+|-
+|[https://frognews.bg/novini/osem-partii-vlizat-parlamenta-spored-izsledvane-sinpi.html/ SINPI]
+|16–21 Sep 2022
+|1,104
+|16.6
+|7.8
+|style="background:#CCE6FF" | '''24.5'''
+|13.8
+|9.7
+|4.6
+|12.1
+|1.8
+|0.9
+|4.1
+|5.5
+|1.3
+| style="background:{{party color|GERB}}; color:white" |7.9
+|-
+|[https://www.vesti.bg/parlamentarni-izbori/cam-blokirashto-mnozinstvo-na-gerb-dps-i-vyzrazhdane-6151726/ Center for Analysis and Marketing]
+|15–19 Sep 2022
+|1,011
+|18.2
+|8.1
+|style="background:#CCE6FF" | '''24.8'''
+|12.8
+|11.2
+|3.8
+|10.5
+| —
+| —
+|3.3
+| —
+| —
+| style="background:{{party color|GERB}}; color:white" |6.6
+|-
+|[https://www.24chasa.bg/bulgaria/article/12611016/ Estat]
+|10–17 Sep 2022
+|1,005
+|16.8
+|6.9
+|style="background:#CCE6FF" | '''26.1'''
+|10.3
+|9.3
+|4.2
+|10.1
+|1.9
+|1
+|4.8
+|5.2
+|3.4
+| style="background:{{party color|GERB}}; color:white" |9.3
+|-
+|[https://offnews.bg/analizi/ekzakta-gerb-vodi-pred-prodalzhavame-promianata-s-8-785388.html/ Exacta]
+|10–17 Sep 2022
+|1,050
+|18.1
+|7.5
+|style="background:#CCE6FF" | '''26.2'''
+|10.3
+|12.5
+|5.4
+|9.5
+| —
+| —
+|4
+|5.5
+|1
+| style="background:{{party color|GERB}}; color:white" |8.1
+|-
+|[https://sovaharris.com/%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d0%bd%d0%b8-%d0%b8-%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%b2-%d0%b1%d1%8a%d0%bb%d0%b3-6/ Sova Harris]
+|6–12 Sep 2022
+|835
+|18.8
+|5.7
+|style="background:#CCE6FF" | '''28.8'''
+|8.7
+|12.7
+|5.1
+|10.4
+|2.9
+|1.2
+|4.8
+|0.9
+| —
+| style="background:{{party color|GERB}}; color:white" |10.0
+|-
+|[https://www.gallup-international.bg/46215/current-electoral-attitudes-snapshot-formula-6-2/ Gallup]
+|2–10 Sep 2022
+|1,002
+|19.2
+|7.6
+|style="background:#CCE6FF" | '''25.9'''
+|11.5
+|9.8
+|4.3
+|11.3
+|1.7
+|1.5
+|4.2
+|3
+| —
+| style="background:{{party color|GERB}}; color:white" |6.7
+|-
+|[https://segabg.com/hot/category-bulgaria/mediana-itn-izprevarva-db-na-izborite Mediana]
+| data-sort-value="2022-09-04" |29 Aug – 4 Sep 2022
+|1,008
+|17.1
+|5.5
+|style="background:#CCE6FF" | '''22.8'''
+|11.1
+|13.3
+|6.9
+|12.5
+|3.4
+| —
+|5.5
+|1.9
+| —
+| style="background:{{party color|GERB}}; color:white" |5.7
+|-
+|[https://www.dnevnik.bg/izbori-2022/2022/09/07/4388175_market_links_sedem_partii_vlizat_v_parlamenta_gerb_e/ Market Links ]
+| data-sort-value="2022-09-03" |27 Aug – 3 Sep 2022
+|1,067
+|17.8
+|8.1
+|style="background:#CCE6FF" | '''22.9'''
+|10.9
+|10.9
+|3.8
+|7.6
+| —
+| —
+|4.7
+|13.5
+| —
+| style="background:{{party color|GERB}}; color:white" |5.1
+|-
+|[https://alpharesearch.bg/post/1000-elektoralni-naglasi-na-starta-na-predizborna-kampania-parlamentarni-izbori-oktomvri-2022.html Alpha Research]
+| data-sort-value="2022-09-02" |27 Aug – 2 Sep 2022
+|1,117
+|18.9
+|8.1
+|style="background:#CCE6FF" | '''25.3'''
+|11.8
+|10.6
+|4.2
+|10.3
+|2.2
+| —
+|4.5
+|4.1
+| —
+| style="background:{{party color|GERB}}; color:white" |6.4
+|-
+|[https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%81%d0%bf%d1%80%d1%8f%d0%bc%d0%be-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%b8%d1%82-13/ Trend]
+| data-sort-value="2022-08-22" |15–22 Aug 2022
+|1,007
+|19.6
+|7.3
+|style="background:#CCE6FF" | '''24.4'''
+|10.6
+|8.6
+|3.9
+|10.3
+|1.9
+|1.2
+|4.5
+|4.6
+|3.1
+| style="background:{{party color|GERB}}; color:white" |4.8
+|-
+| rowspan="2" |[https://btvnovinite.bg/predavania/tazi-sutrin/market-links-mozhe-da-se-ochakva-razdelenie-i-v-48-oto-ns.html?utm_source=self&utm_medium=article&utm_campaign=Related_Articles Market Links]
+| rowspan="2" data-sort-value="2022-08-05" | 30 Jul – 5 Aug 2022
+| rowspan="2" |1,020
+| colspan="2" style="background:#FBE8AF" |'''26.2'''
+|22.6
+|12.4
+|11.6
+|3.2
+|8.9
+| —
+| —
+|3.3
+|11.8
+| —
+| style="background:#ffd966" |3.6
+|-
+|20.9
+|9.1
+|style="background:#CCE6FF" | '''24.5'''
+|12.6
+|11.9
+|3.1
+|9.2
+| —
+| —
+|4.3
+|4.8
+| —
+| style="background:{{party color|GERB}}; color:white" |3.6
+|-
+|[https://rctrend.bg/project/%D0%BD%D0%B0%D0%B3%D0%BB%D0%B0%D1%81%D0%B8-%D0%BD%D0%B0-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B5-%D1%81%D0%BF%D1%80%D1%8F%D0%BC%D0%BE-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8%D1%82-12/ Trend]
+| data-sort-value="2022-07-12" |5–12 Jul 2022
+|1,005
+|21.4
+|6.9
+|style="background:#CCE6FF" | '''23.6'''
+|10.7
+|9.8
+|3.8
+|9.6
+|1.6
+|1.1
+|5.7
+|2.8
+|3.0
+| style="background:{{party color|GERB}}; color:white" |2.2
+|-
+|[https://btvnovinite.bg/bulgaria/market-links-7-partien-parlament-pri-predsrochni-izbori.html  Market Links]
+| data-sort-value="2022-07-10" |2–10 Jul 2022
+|1,024
+|21.5
+|8.3
+|style="background:#CCE6FF" | '''22.2'''
+|9.1
+|11.6
+|3.2
+|7.6
+| —
+| —
+|4.3
+|12.2
+| —
+| style="background:{{party color|GERB}}; color:white" |0.7
+|-
+|[https://alpharesearch.bg/post/999-useshtaneto-za-predsrochni-izbori-razmestva-elektoralnite-plastove.html  Alpha Research]
+| data-sort-value="2022-07-01" |25 Jun – 1 Jul 2022
+|1,017
+|22.5
+|7.9
+|style="background:#CCE6FF" | '''23.9'''
+|9.8
+|12.8
+|3.7
+|8.8
+| —
+| —
+|6.0
+|4.7
+| —
+| style="background:{{party color|GERB}}; color:white" |1.4
+|-
+| colspan="2" |June–July 2022
+|colspan=14 style="font-weight:bold" | ITN pulls out of the [[Petkov Government|Petkov cabinet]] and the government is defeated in a vote of no confidence
+|-
+|[https://rctrend.bg/project/%D0%BD%D0%B0%D0%B3%D0%BB%D0%B0%D1%81%D0%B8-%D0%BD%D0%B0-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B5-%D1%81%D0%BF%D1%80%D1%8F%D0%BC%D0%BE-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8%D1%82-11/ Trend]
+| data-sort-value="2022-05-11" |4–11 May 2022
+|1,002
+|17.5
+|6.8
+|style="background:#CCE6FF" | '''23.8'''
+|10.9
+|9.5
+|5.8
+|10.1
+|2.0
+|1.5
+|7.6
+|2.2
+|2.3
+| style="background:{{party color|GERB}}; color:white" |6.3
+|-
+|[https://trud.bg/%D0%BF%D1%80%D0%BE%D1%83%D1%87%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D1%86%D0%B5%D0%BD%D1%82%D1%8A%D1%80%D0%B0-%D0%B7%D0%B0-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8-%D0%B8-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8-%D0%B2%D1%8A%D0%B7%D1%85%D0%BE%D0%B4-%D0%BD%D0%B0-%D1%81%D1%82%D0%B5%D1%84%D0%B0%D0%BD-%D1%8F%D0%BD%D0%B5%D0%B2-%D1%89%D0%B5-%D0%B2%D0%BB%D0%B5%D0%B7%D0%B5-%D0%B2-%D0%BF%D0%B0%D1%80/ Centre for Analysis and Marketing]
+| data-sort-value="2022-04-09" |4–9 May 2022
+|821
+|21.4
+|6.0
+|style="background:#CCE6FF" | '''23.3'''
+|11.6
+|11.8
+|5.1
+|8.7
+|1.2
+|1.0
+|7.8
+|2.1
+|–
+| style="background:{{party color|GERB}}; color:white" |1.9
+|-
+|[https://www.marketlinks.bg/storage/INFOGRAPHIC%20NRS%20Politics%2004.2022.pdf Market Links]
+| data-sort-value="2022-05-08" |29 Apr – 8 May 2022
+| 1,015
+|19.1
+|8.3
+|style="background:#CCE6FF" | '''25.9'''
+|10.5
+|12.5
+|6.5
+|9.7
+|–
+|–
+|–
+|7.2
+|–
+| style="background:{{party color|GERB}}; color:white" |6.8
+|-
+|[https://www.gallup-international.bg/45895/attitudes-towards-politics/ Gallup]
+| data-sort-value="2022-05-06" |29 Apr – 6 May 2022
+|805
+|18.2
+|5.5
+|style="background:#CCE6FF" | '''24.9'''
+|11.1
+|9.7
+|5.4
+|10.5
+|1.1
+|1.5
+|5.6
+|6.5
+|–
+| style="background:{{party color|GERB}}; color:white" |6.7
+|-
+|[https://alpharesearch.bg/post/997-poliarizacia-v-obshtestvenite-naglasi-i-dinamika-v-otnoshenieto-kum-kliuchovi-politicheski-igrachi-april-2022.html Alpha Research]
+| data-sort-value="2022-04-14" |8–14 Apr 2022
+|1,037
+|21.1
+|7.7
+|style="background:#CCE6FF" | '''24.8'''
+|8.7
+|11.7
+|5.1
+|10.8
+|–
+|–
+|–
+|10.2
+|–
+| style="background:{{party color|GERB}}; color:white" |3.7
+|-
+|[https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%81%d0%bf%d1%80%d1%8f%d0%bc%d0%be-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%b8%d1%82-10/ Trend]
+| data-sort-value="2022-04-13" |6–13 Apr 2022
+|1,004
+|20.1
+|7.1
+|style="background:#CCE6FF" | '''23.6'''
+|11.1
+|10.5
+|6.9
+|9.3
+|1.9
+|1.3
+|–
+|5.5
+|2.7
+| style="background:{{party color|GERB}}; color:white" |3.5
+|-
+|[https://www.gallup-international.bg/45830/current-electoral-snapshot-and-trends/ Gallup]
+| data-sort-value="2022-04-08" |31 Mar – 8 Apr 2022
+|809
+|23.8
+|4.5
+|style="background:#CCE6FF" | '''25.9'''
+|10.6
+|10.3
+|7.0
+|7.9
+|1.2
+|2.1
+|–
+|5.6
+|1.1
+| style="background:{{party color|GERB}}; color:white" |2.1
+|-
+|[https://btvnovinite.bg/bulgaria/market-links-gerb-izprevarva-pp-kato-parva-politicheska-sila-u-nas.html Market Links]
+| data-sort-value="2022-03-29" |22–29 Mar 2022
+|1,029
+|19.7
+|7.6
+|style="background:#CCE6FF" | '''22.1'''
+|8.2
+|11.6
+|6.7
+|8.2
+|–
+|–
+|–
+|15.9
+|–
+| style="background:{{party color|GERB}}; color:white" |2.4
+|-
+|[https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%81%d0%bf%d1%80%d1%8f%d0%bc%d0%be-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%b8%d1%82-9/ Trend]
+| data-sort-value="2022-03-12" |5–12 Mar 2022
+|1,007
+| style="background:#FBE8AF" |'''22.9'''
+|7.4
+|21.9
+|11.4
+|10.4
+|7.5
+|7.3
+|2.1
+|1.3
+|–
+|5.0
+|2.8
+| style="background:#ffd966" |1.0
+|-
+|[https://alpharesearch.bg/post/994-obshtestveni-naglasi-fevruari-2022.html?lang=bg Alpha Research]
+| data-sort-value="2022-02-14" |6–14 Feb 2022
+|1,060
+| style="background:#FBE8AF" |'''29.9'''
+|7.8
+|22.2
+|8.8
+|12.0
+|8.1
+|6.4
+| –
+| –
+| –
+|4.9
+| —
+| style="background:#ffd966" |7.7
+|-
+|[https://www.gallup-international.bg/45634/common-declarative-electoral-attitudes/ Gallup]
+| data-sort-value="2022-02-11" |3–11 Feb 2022
+|803
+| style="background:#FBE8AF"" |'''30.2'''
+|5.2
+|21.9
+|12.2
+|8.5
+|9.4
+|3.9
+|1.5
+|1.7
+|–
+|5.4
+| —
+| style="background:#ffd966" |8.3
+|-
+|[https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%81%d0%bf%d1%80%d1%8f%d0%bc%d0%be-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%b8%d1%82-8/ Trend]
+| data-sort-value="2022-01-19" |12–19 Jan 2022
+|1,004
+| style="background:#FBE8AF" |'''26.4'''
+|6.8
+|22.3
+|10.9
+|11.5
+|8.1
+|5.9
+|1.9
+|1.1
+|–
+|2.7
+|2.4
+| style="background:#ffd966" |4.1
+|- style="background:#D5D5D5"
+|[[2021 Bulgarian general election|November 2021 election]]
+|14 November 2021
+|—
+| style="background:#FBE8AF" |'''25.7'''
+|6.4
+|22.7
+|13.0
+|10.2
+|9.5
+|4.9
+|2.3
+|1.1
+|–
+|4.2
+|1.3
+! class="unsortable" style="background:#ffd966" |2.8
+|}
+
+Pre-November 2021 election
 ;Graphical representation of recalculated data
 {{Graph:Chart
  | hannotatonslabel=4% electoral threshold

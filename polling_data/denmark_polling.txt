@@ -1,5 +1,363 @@
 == Opinion polls ==
 
+[[File:Opinion polling for the next Danish general election.svg|thumb|800px|centre| {{columns-list|colwidth=18em|
+ {{Legend-line|#ea4b44 solid 5px|[[Social Democrats (Denmark)|A]]}}
+ {{Legend-line|#074f94 solid 5px|[[Venstre (Denmark)|V]]}}
+ {{Legend-line|#84288f solid 5px|[[Moderates (Denmark)|M]]}}
+ {{Legend-line|#bf031b solid 5px|[[Green Left (Denmark)|F]]}}
+ {{Legend-line|#1d70b5 solid 5px|[[Denmark Democrats|Æ]]}}
+ {{Legend-line|#3fb2be solid 5px|[[Liberal Alliance (Denmark)|I]]}}
+ {{Legend-line|#014b34 solid 5px|[[Conservative People's Party (Denmark)|C]]}}
+ {{Legend-line|#d30b55 solid 5px|[[Red–Green Alliance (Denmark)|Ø]]}}
+ {{Legend-line|#ec008c solid 5px|[[Danish Social Liberal Party|B]]}}
+ {{Legend-line|#00454d solid 5px|[[New Right (Denmark)|D]]}}
+ {{Legend-line|#00ff00 solid 5px|[[The Alternative (Denmark)|Å]]}}
+ {{Legend-line|#fcd03b solid 5px|[[Danish People's Party|O]]}}
+ {{Legend-line|#e8ccc7 solid 5px|[[Independent Greens (Denmark)|Q]]}}
+}}]]
+
+=== 2023 ===
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
+! colspan="3" |
+! colspan="14" |Parties
+! colspan="2" |
+! colspan="4" |Blocs
+|-
+! rowspan="3" | Polling<br />firm
+! rowspan="3" | Fieldwork<br />date
+! rowspan="3" class="unsortable" style="letter-spacing:-1px;" | Sample<br />size
+! rowspan="2" class="unsortable" style="width:30px;" | [[Social Democrats (Denmark)|A]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Venstre (Denmark)|V]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Moderates (Denmark)|M]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Green Left (Denmark)|F]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Denmark Democrats|Æ]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Liberal Alliance (Denmark)|I]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Conservative People's Party (Denmark)|C]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Red–Green Alliance (Denmark)|Ø]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Danish Social Liberal Party|B]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[New Right (Denmark)|D]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[The Alternative (Denmark)|Å]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Danish People's Party|O]]
+! rowspan="2" class="unsortable" style="width:30px;" | [[Independent Greens (Denmark)|Q]]
+! rowspan="3" class="unsortable" style="width:30px;letter-spacing:-1px;" " | Others
+! rowspan="2" class="unsortable" style="width:30px;" | {{tooltip|2=Government: A, M and V|Gov.}}
+! rowspan="2" class="unsortable" style="width:30px;" | {{tooltip|2=Opposition: B, C, D, F, I, K, O, Q, Å, Ø and Æ|Opp.}}
+! rowspan="2" class="unsortable" style="width:30px;" | {{tooltip|2=A, B, F, Ø, Å and Q|Red}}
+! rowspan="2" class="unsortable" style="width:30px;" | {{tooltip|2=V, O, C, D, I, K and Æ|Blue}}
+! colspan="2" style="width:25px;letter-spacing:-1px;" " | Lead
+|-
+! rowspan="2" |All parties
+! rowspan="2" |Above [[Electoral threshold|2%]]
+|-
+! data-sort-type="number" style="background:{{party color|Social Democrats (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Venstre (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Moderates (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Socialist People's Party (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Denmark Democrats}};" |
+! data-sort-type="number" style="background:{{party color|Liberal Alliance (Denmark, 2021)}};" |
+! data-sort-type="number" style="background:{{party color|Conservative People's Party (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Red–Green Alliance (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Danish Social Liberal Party}};" |
+! data-sort-type="number" style="background:{{party color|The New Right (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|The Alternative (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Danish People's Party}};" |
+! data-sort-type="number" style="background:{{party color|Independent Greens (Denmark)}};" |
+! data-sort-type="number" style="background:#47729E;" |
+! data-sort-type="number" style="background:#8B8B54;" |
+! data-sort-type="number" style="background:{{party color|Social Democrats (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Venstre (Denmark)}};" |
+|-
+|[https://twitter.com/Annamidtgaard/status/1632746264025522176/photo/1 Voxmeter]
+|27 Feb–5 Mar 2023
+|1.015
+| style="background:#FACECD;" |'''18.6'''
+|11.9
+|7.9
+|14.5
+|9.3
+|11.9
+|5.2
+|6.6
+|4.3
+|4.4
+|2.2
+|2.6
+|0.3
+|0.3
+|38.4
+| style="background:#DEDEBD;" |'''61.3'''
+| style="background:#FACECD;" |'''46.5'''
+|45.3
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |1.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |0.9
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW82023.pdf Voxmeter]
+|20–26 Feb 2023
+|1,002
+| style="background:#FACECD;" |'''24.0'''
+|10.6
+|8.7
+|14.4
+|8.4
+|9.6
+|6.1
+|5.4
+|3.0
+|3.0
+|2.4
+|4.1
+|0.2
+|0.1
+|43.3
+| style="background:#DEDEBD;" |'''56.8'''
+| style="background:#FACECD;" |'''49.4'''
+|41.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.6
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.3
+|-
+|[https://www.dr.dk/nyheder/seneste/regeringen-faar-massiv-vaelgerlussing-i-ny-maaling Epinion]
+|14–20 Feb 2023
+|1,823 
+| style="background:#FACECD;" |'''21.9'''
+|9.4
+|7.5
+|12.8
+|9.9
+|10.3
+|6.4
+|7.0
+|4.0
+|2.3
+|3.0
+|4.5
+|0.7
+|0.3
+|38.8
+| style="background:#DEDEBD;" |'''60.9'''
+| style="background:#FACECD;" |'''49.4'''
+|42.8
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.6
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |5.9
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW72023.pdf Voxmeter]
+|13–19 Feb 2023
+|1,128
+| style="background:#FACECD;" |'''24.8'''
+|11.4
+|7.4
+|13.1
+|8.6
+|10.0
+|5.6
+|6.2
+|3.2
+|3.1
+|2.8
+|3.0
+|0.5
+|0.3
+|43.6
+| style="background:#DEDEBD;" |'''56.1'''
+| style="background:#FACECD;" |'''50.6'''
+|41.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |8.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |8.4
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW62023.pdf Voxmeter]
+|6–12 Feb 2023
+|1,029
+| style="background:#FACECD;" |'''22.9'''
+|10.0
+|7.4
+|14.9
+|8.2
+|10.8
+|6.1
+|7.0
+|3.2
+|3.7
+|2.5
+|2.9
+|0.2
+|0.2
+|40.3
+| style="background:#DEDEBD;" |'''59.5'''
+| style="background:#FACECD;" |'''50.7'''
+|41.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |9.0
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |8.8
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW52023.pdf Voxmeter]
+|30 Jan–5 Feb 2023
+|1,047
+| style="background:#FACECD;" |'''22.1'''
+|12.1
+|8.1
+|14.4
+|9.0
+|10.3
+|5.1
+|6.3
+|3.0
+|3.3
+|3.1
+|3.1
+|0.0
+|0.1
+|42.3
+| style="background:#DEDEBD;" |'''57.6'''
+| style="background:#FACECD;" |'''48.9'''
+|42.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.0
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.0
+|-
+|[https://www.berlingske.dk/politik/det-er-voldsomt-aarets-foerste-gallup-er-en-kaeberasler-til-regeringen Gallup]
+|27 Jan–2 Feb 2023
+|1,640
+| style="background:#FACECD;" |'''23.1'''
+|11.1
+|8.4
+|12.8
+|8.3
+|11.5
+|5.4
+|6.6
+|3.3
+|2.6
+|2.8
+|3.0
+|–
+|–
+|42.6
+| style="background:#DEDEBD;" |'''56.3'''
+| style="background:#FACECD;" |'''48.6'''
+|41.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.7
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW042023.pdf Voxmeter]
+|23–29 Jan 2023
+|1,004
+| style="background:#FACECD;" |'''22.8'''
+|11.5
+|8.0
+|13.5
+|8.3
+|10.6
+|6.1
+|6.7
+|3.8
+|2.5
+|2.7
+|3.0
+|0.2
+|0.3
+|42.3
+| style="background:#DEDEBD;" |'''57.4'''
+| style="background:#FACECD;" |'''49.7'''
+|42.0
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.5
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW032023.pdf Voxmeter]
+|16–22 Jan 2023
+|1,002
+| style="background:#FACECD;" |'''24.1'''
+|11.4
+|7.7
+|13.5
+|8.4
+|10.4
+|4.9
+|6.5
+|3.3
+|3.1
+|3.0
+|3.0
+|0.5
+|0.2
+|43.2
+| style="background:#DEDEBD;" |'''56.6'''
+| style="background:#FACECD;" |'''50.9'''
+|41.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |9.7
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |9.2
+|-
+|[https://twitter.com/Annamidtgaard/status/1614901190071836673/photo/1 Voxmeter]
+|9–15 Jan 2023
+|1,028
+| style="background:#FACECD;" |'''26.0'''
+|11.5
+|8.6
+|11.7
+|7.0
+|9.4
+|5.1
+|6.5
+|3.6
+|3.9
+|2.8
+|3.3
+|0.5
+|0.1
+|46.1
+| style="background:#DEDEBD;" |'''53.8'''
+| style="background:#FACECD;" |'''51.1'''
+|40.2
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |10.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |10.4
+|-
+|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW12023.pdf Voxmeter]
+|2–8 Jan 2023
+|1,017
+| style="background:#FACECD;" |'''27.2'''
+|10.9
+|9.1
+|11.0
+|7.4
+|10.3
+|4.9
+|6.6
+|3.5
+|2.8
+|3.3
+|2.6
+|0.4
+|0.0
+|47.2
+| style="background:#DEDEBD;" |'''52.8'''
+| style="background:#FACECD;" |'''52.0'''
+|38.9
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |13.1
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |12.7
+|-
+| colspan="23" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+| colspan="2" |''[[2022 Danish general election|2022 election result]]''
+|–
+| style="background:#FACECD;" |'''27.50'''
+|13.32
+|9.27
+|8.30
+|8.12
+|7.89
+|5.51
+|5.13
+|3.79
+|3.67
+|3.33
+|2.64
+|0.90
+|0.64{{efn|[[Christian Democrats (Denmark)|K]]: 0.52%, independents: 0.12%}}
+| style="background:#B6C8D9;" |'''50.09'''
+|49.79
+| style="background:#FACECD;" |'''48.95'''
+|41.65
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.30
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.91
+|-
+|}
+
 === 2022 ===
 
 {| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
@@ -31,15 +389,15 @@
 ! rowspan="2" class="unsortable" style="width:30px;" | {{tooltip|2=V, O, C, D, I, K and Æ|Blue}}
 ! colspan="2" style="width:25px;letter-spacing:-1px;" " | Lead
 |-
-!All parties
-!Above [[Electoral threshold|2%]]
+! rowspan="2" |All parties
+! rowspan="2" |Above [[Electoral threshold|2%]]
 |-
 ! data-sort-type="number" style="background:{{party color|Social Democrats (Denmark)}};" |
 ! data-sort-type="number" style="background:{{party color|Venstre (Denmark)}};" |
 ! data-sort-type="number" style="background:{{party color|Moderates (Denmark)}};" |
 ! data-sort-type="number" style="background:{{party color|Socialist People's Party (Denmark)}};" |
 ! data-sort-type="number" style="background:{{party color|Denmark Democrats}};" |
-! data-sort-type="number" style="background:{{party color|Liberal Alliance (Denmark)}};" |
+! data-sort-type="number" style="background:{{party color|Liberal Alliance (Denmark, 2021)}};" |
 ! data-sort-type="number" style="background:{{party color|Conservative People's Party (Denmark)}};" |
 ! data-sort-type="number" style="background:{{party color|Red–Green Alliance (Denmark)}};" |
 ! data-sort-type="number" style="background:{{party color|Danish Social Liberal Party}};" |
@@ -51,30 +409,6 @@
 ! data-sort-type="number" style="background:#8B8B54;" |
 ! data-sort-type="number" style="background:{{party color|Social Democrats (Denmark)}};" |
 ! data-sort-type="number" style="background:{{party color|Venstre (Denmark)}};" |
-|-
-|[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW12023.pdf Voxmeter]
-|2–8 Jan 2023
-|1,017
-| style="background:#FACECD;" |'''27.2'''
-|10.9
-|9.1
-|11.0
-|7.4
-|10.3
-|4.9
-|6.6
-|3.5
-|2.8
-|3.3
-|2.6
-|0.4
-|0.0
-|47.2
-| style="background:#DEDEBD;" |'''52.8'''
-| style="background:#FACECD;" |'''52.0'''
-|38.9
-| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |13.1
-| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |12.7
 |-
 |[https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/Voxmeterm%C3%A5lingW512022-2.pdf Voxmeter]
 |19–22 Dec 2022
@@ -100,7 +434,6 @@
 | style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |8.9
 | style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |10.0
 |-
-
 |[https://www.dr.dk/nyheder/politik/foerste-maaling-efter-ny-regering-stor-vaelgerlussing-til-venstre Epinion]
 |12–18 Dec 2022
 |2,166

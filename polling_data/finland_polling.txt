@@ -29,8 +29,93 @@
 ! data-sort-type="number" style="background:{{party color|Christian Democrats (Finland)}};" |
 ! data-sort-type="number" style="background:{{party color|Movement Now}};" |
 |-
+|- style="background:#E9E9E9;"
+| [[2019 Finnish parliamentary election|2019 election]]
+| data-sort-value="2019-04-14"| 14 Apr 2019
+| –
+| style="background:#FCCFCF;" |'''17.7'''
+| 17.5
+| 17.0
+| 13.8
+| 11.5
+| 8.2
+| 4.5
+| 3.9
+| 2.3
+| 3.7
+| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;"| 0.2
+| – || –
+|-
+| Taloustutkimus<ref>{{Cite web|url=https://yle.fi/a/74-20020367|title=Ylen kannatusmittaus: Kokoomus pitää kärkipaikkansa, kisa SDP:n ja perussuomalaisten kanssa kiristyy|first=Kristiina|last=Tolkki|website=Yle Uutiset|language=fi|access-date=2 March 2023|date=2 March 2023}}</ref>
+| data-sort-value="2022-02-28"|6 Feb–28 Feb 2023
+|2,459
+|19.9
+|19.0
+| style="background:#D9E9F4;"| '''20.8'''
+|9.5
+|8.9
+|9.0
+|4.4
+|3.6
+|1.5
+|3.4
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-0.9"| 0.9
+| {{formatnum:{{#expr:19.9+9.5+8.9+9.0+4.4}}}}
+| {{formatnum:{{#expr:19.0+20.8+3.6+1.5}}}}
+|-
+| Kantar Public<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000009384628.html|title=Kokoomuksen etumatka hupenee|first=Teemu|last=Muhonen|website=Helsingin Sanomat|language=fi|access-date=16 February 2023|date=16 February 2023}}</ref>
+| data-sort-value="2023-02-16"|16 Jan–10 Feb 2023
+|2,412
+|19.2
+|20.0
+| style="background:#D9E9F4;"| '''21.3'''
+|9.6
+|9.4
+|8.0
+|4.4
+|3.9
+|2.0
+|2.2
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-1.3"| 1.3
+| {{formatnum:{{#expr:19.2+9.6+9.4+8.0+4.4}}}}
+| {{formatnum:{{#expr:20.0+21.3+3.9+2.0}}}}
+|-
+| Taloustutkimus<ref>{{Cite web|url=https://yle.fi/a/74-20015808|title=Ylen kannatusmittaus: Kolmen isoimman kisa kiristyy – kokoomus laski, SDP kiri kakkoseksi PS:n ohi|first=Tulikukka|last=de Fresnes|website=Yle Uutiset|language=fi|access-date=2 February 2023|date=2 February 2023}}</ref>
+| data-sort-value="2022-01-31"|9 Jan–31 Jan 2023
+|2,466
+|19.1
+|18.4
+| style="background:#D9E9F4;"| '''21.6'''
+|10.1
+|10.3
+|7.6
+|4.4
+|4.0
+|1.8
+|2.7
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-2.5"| 2.5
+| {{formatnum:{{#expr:19.1+10.1+10.3+7.6+4.4}}}}
+| {{formatnum:{{#expr:18.4+21.6+4.0+1.8}}}}
+|-
+| Kantar Public<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000009335477.html|title=Perussuomalaiset nousi Sdp:n ohi toiseksi suosituimmaksi puolueeksi|first=Anni|last=Keski-Heikkilä|website=Helsingin Sanomat|language=fi|access-date=18 January 2023|date=18 January 2023}}</ref>
+| data-sort-value="2023-01-18"|19 Dec 2022–13 Jan 2023
+|2,420
+|18.5
+|19.1
+| style="background:#D9E9F4;"| '''22.8'''
+|9.8
+|9.2
+|7.8
+|4.4
+|3.9
+|2.2
+|2.3
+| style="background:{{party color|National Coalition Party}};color:#FFFFFF;" data-sort-value="-3.7"| 3.7
+| {{formatnum:{{#expr:18.5+9.8+9.2+7.8+4.4}}}}
+| {{formatnum:{{#expr:19.1+22.8+3.9+2.2}}}}
+|-
 | Taloustutkimus<ref>{{Cite web|url=https://yle.fi/a/3-12687314|title=Ylen kannatusmittaus: Perussuomalaiset kiilasi SDP:n ohi kakkoseksi|first=Ilkka|last=Kemppinen|website=Yle Uutiset|language=fi|access-date=1 January 2023|date=1 January 2023}}</ref>
-| data-sort-value="2022-01-05"|7 Dec 2022–3 Jan 2023
+| data-sort-value="2023-01-05"|7 Dec 2022–3 Jan 2023
 |2,953
 |18.8
 |19.3
@@ -64,7 +149,7 @@
 | {{formatnum:{{#expr:17.9+23.5+3.4+1.8}}}}
 |-
 | Taloustutkimus<ref>{{Cite web|url=https://yle.fi/a/3-12683819|title=Ylen puoluekannatusmittaus: Keskustan kannatus ensimmäistä kertaa alle kymmenen prosenttia|first=Eetu-Mikko|last=Pietarinen|website=Yle Uutiset|language=fi|access-date=8 December 2022|date=8 December 2022}}</ref>
-| data-sort-value="2022-12-8"|7 Nov–5 Dec 2022
+| data-sort-value="2022-12-08"|7 Nov–5 Dec 2022
 |2,709
 |18.9
 |17.4

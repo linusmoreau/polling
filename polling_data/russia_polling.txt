@@ -1,6 +1,143 @@
 ==Pre-campaign polls==
 Opinion polls conducted prior to the campaign and the announcement of the list of participating parties. Parties with more than 5% support of the whole electorate (enough to enter [[State Duma]] while not adjusting for likely voters) are given in bold. When a specific poll does not show a data figure for a party, the party's cell corresponding to that poll is shown empty.
 
+=== 2023 ===
+
+{|class=wikitable style="font-size:95%; line-height:14px; text-align:center"
+!style=width:100px; rowspan=2|Fieldwork date
+!style=width:120px; rowspan=2|Polling firm
+!style=width:50px; rowspan=2|Sample<br />size
+!style="width:50px;"| [[United Russia|UR]]
+!style="width:50px;"| [[Communist Party of the Russian Federation|CPRF]]
+!style="width:50px;"| [[Liberal Democratic Party of Russia|LDPR]]
+!style="width:50px;"| [[A Just Russia — For Truth|SRZP]]
+!style="width:50px;"| [[New People (political party)|NP]]
+!style="width:50px;"| [[Russian Party of Pensioners for Social Justice|RPPSJ]]
+!style="width:50px;"| [[Yabloko]]
+!style="width:50px;"| [[Communists of Russia|CR]]
+!style="width:50px;"| [[Russian Ecological Party "The Greens"|Greens]]
+!style="width:50px;"| [[Rodina (political party)|Rodina]]
+!style="width:50px;"| [[Russian Party of Freedom and Justice|RPFJ]]
+!style="width:50px;"| [[Green Alternative (Russia)|GA]]
+!style="width:50px;"| [[Party of Growth|PG]]
+!style="width:50px;"| [[Civic Platform (Russia)|CP]]
+!style="width:50px;" rowspan=2|Others
+!style="width:50px;" rowspan=2|Undecided
+!style="width:50px;" rowspan=2|Abstention
+!style="width:50px;" rowspan="2"|Lead
+|-
+|bgcolor={{party color|United Russia}}|
+|bgcolor={{party color|Communist Party of the Russian Federation}}|
+|bgcolor={{party color|Liberal Democratic Party of Russia}}|
+|bgcolor={{party color|A Just Russia}}|
+|bgcolor={{party color|New People (political party)}}|
+|bgcolor={{party color|Russian Party of Pensioners for Social Justice}}|
+|bgcolor={{party color|Yabloko}}|
+|bgcolor={{party color|Communists of Russia}}|
+|bgcolor={{party color|Russian Ecological Party "The Greens"}}|
+|bgcolor={{party color|Rodina (political party)}}|
+|bgcolor={{party color|Russian Party of Freedom and Justice}}|
+|bgcolor={{party color|Green Alternative (Russia)}}|
+|bgcolor={{party color|Party of Growth}}|
+|bgcolor={{party color|Civic Platform (Russia)}}|
+|-
+|24–26 Feb
+|[https://media.fom.ru/fom-bd/d08pi2023.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''47'''||'''9'''||'''9'''||'''5'''||2||1||1||0||1||0||0||0||0||0||–||14||9
+|style="background:#0C2C84; color:white;"|38
+|-
+|20–26 Feb
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20230303 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''39.2'''||'''10.5'''||'''8.2'''||'''5.6'''||4.9||colspan=10|9.1||10.6||10.3
+|style="background:#0C2C84; color:white;"|28.7
+|-
+|17–19 Feb
+|[https://media.fom.ru/fom-bd/d07pi2023.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''43'''||'''10'''||'''8'''||3||3||1||1||0||1||1||0||0||0||0||–||13||14
+|style="background:#0C2C84; color:white;"|33
+|-
+|13–19 Feb
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20230303 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''39.1'''||'''10.8'''||'''8.8'''||'''5.7'''||4.7||colspan=10|9.6||9.3||10.4
+|style="background:#0C2C84; color:white;"|28.3
+|-
+|10–12 Feb
+|[https://media.fom.ru/fom-bd/d06pi2023.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''40'''||'''10'''||'''7'''||3||3||2||1||1||1||0||0||0||0||0||–||15||15
+|style="background:#0C2C84; color:white;"|30
+|-
+|6–12 Feb
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20230217 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''38.6'''||'''10.5'''||'''8.5'''||'''5.3'''||4.6||colspan=10|9.7||10.5||10.8
+|style="background:#0C2C84; color:white;"|28.1
+|-
+|3–5 Feb
+|[https://media.fom.ru/fom-bd/d05pi2023.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''41'''||'''9'''||'''8'''||4||3||1||1||1||1||0||0||0||0||0||–||13||16
+|style="background:#0C2C84; color:white;"|32
+|-
+|30 Jan–5 Feb
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20230210 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''37.7'''||'''10.9'''||'''8.9'''||'''5.2'''||4.5||colspan=10|10.4||9.9||10.9
+|style="background:#0C2C84; color:white;"|26.8
+|-
+|26–31 Jan
+|[https://www.levada.ru/2023/02/01/odobrenie-institutov-rejtingi-politikov-i-partij-yanvar-2023-goda/ Levada Center]
+|1,616
+|style="background:#B3E0FF" |'''37'''||'''9'''||'''8'''||'''5'''||4||colspan=12|37
+|style="background:#0C2C84; color:white;"|28
+|-
+|27–29 Jan
+|[https://media.fom.ru/fom-bd/d04pi2023.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''44'''||'''8'''||'''10'''||'''5'''||3||1||1||0||1||0||1||0||0||0||–||16||9
+|style="background:#0C2C84; color:white;"|34
+|-
+|23–29 Jan
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20230203 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''38.4'''||'''10.2'''||'''8.0'''||'''6.0'''||4.4||colspan=10|10.6||10.1||10.6
+|style="background:#0C2C84; color:white;"|28.2
+|-
+|20–22 Jan
+|[https://media.fom.ru/fom-bd/d3pi2023.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''44'''||'''8'''||'''8'''||3||2||1||1||1||1||1||0||0||0||0||–||14||13
+|style="background:#0C2C84; color:white;"|36
+|-
+|16–22 Jan
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20230127 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''38.7'''||'''11.0'''||'''9.1'''||'''5.2'''||4.6||colspan=10|9.6||9.5||10.8
+|style="background:#0C2C84; color:white;"|27.7
+|-
+|13–15 Jan
+|[https://media.fom.ru/fom-bd/d02pi2023.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''42'''||'''7'''||'''9'''||3||2||1||1||1||1||1||0||0||0||0||–||16||14
+|style="background:#0C2C84; color:white;"|33
+|-
+|9–15 Jan
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20230120 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''38.8'''||'''10.6'''||'''9.2'''||'''5.7'''||3.9||colspan=10|10.2||9.4||10.6
+|style="background:#0C2C84; color:white;"|28.2
+|-
+|style="background:#D5D5D5"|{{nowrap|''17–19 Sep 2021''}}
+|style="background:#D5D5D5"|{{nowrap|''[[2021 Russian legislative election|Election result]]''}}
+|style="background:#D5D5D5"|
+|style="background:#B3E0FF"|'''''49.82'''''||style="background:#D5D5D5"|'''''18.93'''''||style="background:#D5D5D5"|'''''7.55'''''||style="background:#D5D5D5"|'''''7.46'''''||style="background:#D5D5D5"|'''''5.32'''''||style="background:#D5D5D5"|''2.45''||style="background:#D5D5D5"|''1.34''||style="background:#D5D5D5"|''1.27''||style="background:#D5D5D5"|''0.91''||style="background:#D5D5D5"|''0.80''||style="background:#D5D5D5"|''0.77''||style="background:#D5D5D5"|''0.64''||style="background:#D5D5D5"|''0.52''||style="background:#D5D5D5"|''0.15''||style="background:#D5D5D5"| ||style="background:#D5D5D5"| ||style="background:#D5D5D5"|''(48.28)''
+|style="background:#0C2C84; color:white;"|''30.89''
+|}
+
 === 2022 ===
 
 {|class=wikitable style="font-size:95%; line-height:14px; text-align:center"

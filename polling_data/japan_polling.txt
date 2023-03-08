@@ -18,7 +18,7 @@
 |-
 | style="background-color: {{party color|Liberal Democratic Party (Japan)}}" |
 | style="background-color: {{party color|Constitutional Democratic Party of Japan}}" |
-| style="background-color: {{party color|New Komeito Party}}" |
+| style="background-color: {{party color|Kōmeitō}}" |
 | style="background-color: {{party color|Japanese Communist Party}}" |
 | style="background-color: {{party color|Nippon Ishin no Kai}}" |
 | style="background-color: {{party color|Democratic Party for the People}}" |
@@ -132,7 +132,7 @@
 |style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''32'''
 |-
 |8–11 Oct
-|[https://news.yahoo.co.jp/articles/4532fa512165c3d8a2f0dd7ee742dc05cc01bc8a Jiji Press]
+|[https://news.yahoo.co.jp/articles/4532fa512165c3d8a2f0dd7ee742dc05cc01bc8a Jiji Press] {{Webarchive|url=https://web.archive.org/web/20211019124935/https://news.yahoo.co.jp/articles/4532fa512165c3d8a2f0dd7ee742dc05cc01bc8a |date=2021-10-19 }}
 | {{Party shading/Liberal Democratic Party (Japan)}} |'''43.6'''
 |11.8
 |5.9
@@ -147,7 +147,7 @@
 |style="background:{{party color|Liberal Democratic Party (Japan)}}; color:white" |'''31.8'''
 |-
 |9–10 Oct
-|[https://www.minyu-net.com/release/prwire/N202110131511.php Green Ship]
+|[https://www.minyu-net.com/release/prwire/N202110131511.php Green Ship] {{Webarchive|url=https://web.archive.org/web/20211019190617/https://www.minyu-net.com/release/prwire/N202110131511.php |date=2021-10-19 }}
 | {{Party shading/Liberal Democratic Party (Japan)}} |'''36.3'''
 |19.0
 |6.3

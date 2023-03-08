@@ -55,7 +55,7 @@ specs = {
     'Bulgaria': {
         'include': ['ITN', 'GERB', 'BSP', 'DB', 'DPS', 'IBG-NI', 'IMRO', 'Revival', 'PP', 'BP', 'BV'],
         'key': ['firm', 'date', 'sample',
-                'PP', 'DB', 'GERB', 'DPS', 'BSP', 'ITN', 'Revival', 'IBG-NI', 'IMRO', 'BV',
+                'GERB', 'PP', 'DB', 'DPS', 'Revival', 'BSP', 'BV', 'IMRO', 'ITN', 'Levitsata!', 'NDSV',
                 'Other', 'None', 'lead'],
         'col': {'GERB': (0, 86, 167), 'ITN': (75, 185, 222), 'BSP': (219, 15, 40), 'DPS': (0, 96, 170),
                 'DB': (0, 74, 128), 'IBG-NI': (91, 165, 70), 'BP': (1, 25, 59), 'Revival': (192, 159, 98),
@@ -65,15 +65,17 @@ specs = {
                   'Nationalist': ['Revival', 'IMRO', 'BP', 'BV'],
                   'Populist': ['ITN', 'DB', 'IBG-NI', 'PP']},
         'start': 0,
-        'end_date': Date(2022, 10, 2),
+        'end_date': Date(2023, 4, 2),
         'toggle_seats': True,
-        'url': 'https://en.wikipedia.org/w/index.php?title=2022_Bulgarian_parliamentary_election&action=edit&section=5',
+        'url': 'https://en.wikipedia.org/w/index.php?title='
+               '2023_Bulgarian_parliamentary_election&action=edit&section=11',
         'seats': 240,
         'method': 'remainder',
         'threshold': 4,
         'vlines': {Date(2021, 7, 11): "Election",
                    Date(2021, 4, 4): "Election",
-                   Date(2021, 11, 14): "Election"},
+                   Date(2021, 11, 14): "Election",
+                   Date(2022, 10, 2): "Election"},
         'zeros': ['Undecided', 'None']
     },
     'Canada': {
@@ -204,8 +206,8 @@ specs = {
         'col': {'Reform': (255, 226, 0), 'Centre': (0, 117, 87), 'EKRE': (0, 99, 175), 'Isamaa': (0, 156, 226),
                 'SDE': (225, 6, 0), 'E200': (6, 119, 141), 'Green': (128, 187, 61)},
         'gov': {'Government': ['Reform', 'Centre'], 'Opposition': ['EKRE', 'Isamaa', 'SDE', 'E200', 'Green']},
-        'blocs': {'Liberal': ['Reform', 'Centre', 'E200', 'Green'], 'Nationalist': ['EKRE', 'Isamaa'],
-                  'Socialist': ['SDE']},
+        'blocs': {'Liberal': ['Reform', 'E200'], 'Nationalist': ['EKRE', 'Isamaa'],
+                  'Left': ['SDE', 'Centre', 'Green']},
         'start': 0,
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_2023_Estonian_parliamentary_election&action=edit&section=3',
@@ -545,8 +547,8 @@ specs = {
         'col': {'Labour': (216, 42, 32), 'National': (0, 82, 159), 'Green': (9, 129, 55), 'ACT': (253, 228, 1),
                 'Maori': (178, 0, 26), 'NZF': black, 'TOP': (50, 218, 195),
                 'New Conservative': (145, 211, 255)},
-        'blocs': {'Left': ['Labour', 'Green', 'Maori'],
-                  'Right': ['National', 'ACT', 'TOP', 'New Conservative']},
+        'blocs': {'Left': ['Labour', 'Green', 'Maori', 'TOP'],
+                  'Right': ['National', 'ACT', 'New Conservative', 'NZF']},
         'start': -1,
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_2023_New_Zealand_general_election&action=edit&section=2',
@@ -588,8 +590,8 @@ specs = {
     },
     'Poland': {
         'key': ['firm', 'date', 'sample',
-                'United Right', 'Agreement', 'Civic Coalition', 'The Left', 'Polish Coalition', 'Kukiz\'15',
-                'Confederation', 'Poland 2050', 'AGRO unia',
+                'United Right', 'Civic Coalition', 'The Left', 'Polish Coalition',
+                'Kukiz\'15', 'Confederation', 'Poland 2050', 'Agreement', 'AGRO unia',
                 'Other', 'lead'],
         'include': ['United Right', 'Civic Coalition', 'The Left', 'Polish Coalition', 'Kukiz\'15', 'Confederation',
                     'Poland 2050'],
@@ -607,18 +609,19 @@ specs = {
         'start': 0,
         'end_date': Date(2023, 11, 11),
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_next_Polish_parliamentary_election&action=edit&section=3',
+               'Opinion_polling_for_the_2023_Polish_parliamentary_election&action=edit&section=3',
         'seats': 460,
         'method': 'quotient',
         'divisor': 1,
         'threshold': 5,
         'bar': 0,
-        'toggle_seats': True
+        'toggle_seats': True,
+        'zeros': ["Other"]
     },
     'Portugal': {
         'key': ['firm', 'date', 'sample', 'turnout',
-                'PS', 'PSD', 'BE', 'CDU', 'CDS-PP', 'PAN', 'Chega', 'IL', 'LIVRE',
-                'Other', 'lead', 'end'],
+                'PS', 'PSD', 'Chega', 'IL', 'BE', 'CDU', 'CDS-PP', 'PAN', 'LIVRE',
+                'Other', 'lead'],
         'include': ['PS', 'PSD', 'BE', 'CDU', 'CDS-PP', 'PAN', 'Chega', 'IL', 'LIVRE'],
         'col': {'PS': (255, 102, 255), 'PSD': (255, 153, 0), 'BE': (139, 0, 0), 'CDU': (255, 0, 0),
                 'CDS-PP': (0, 147, 221),
@@ -626,15 +629,16 @@ specs = {
                 'Left': (255, 102, 255), 'Right': (255, 153, 0)},
         'blocs': {'Left': ['PS', 'BE', 'CDU', 'PAN', 'LIVRE'], 'Right': ['PSD', 'CDS-PP', 'Chega', 'IL']},
         'start': 0,
-        'end_date': Date(2022, 1, 30),
+        'end_date': Date(2026, 10, 11),
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_2022_Portuguese_legislative_election&action=edit&section=3',
+               'Opinion_polling_for_the_next_Portuguese_legislative_election&action=edit&section=3',
         'toggle_seats': True,
         'seats': 230,
         'divisor': 1,
         'bar': 0,
         'threshold': 0,
-        'method': 'quotient'
+        'method': 'quotient',
+        'vlines': {Date(2022, 1, 30): "General Election"}
     },
     'Romania': {
         'key': ['date', 'source', 'sample',
@@ -690,7 +694,7 @@ specs = {
         'restart': ['http'],
         'end_date': Date(2024, 2, 24),
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_next_Slovak_parliamentary_election&action=edit&section=3',
+               'Opinion_polling_for_the_2023_Slovak_parliamentary_election&action=edit&section=3',
         'toggle_seats': True,
         'seats': 150,
         'divisor': 1,
@@ -766,7 +770,7 @@ specs = {
         'end_date': Date(2026, 9, 13),
         'toggle_seats': True,
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_2026_Swedish_general_election&action=edit&section=3',
+               'Opinion_polling_for_the_2026_Swedish_general_election&action=edit&section=1',
         'seats': 349,
         'divisor': 2,
         'bar': 0.2,

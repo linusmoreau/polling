@@ -1,5 +1,5 @@
 ==Opinion polls==
-[[File:2024 Lithuanian Parliamentary Election.png|center|thumb|1000x1000px|LOESS curve of the polling for the 2024 Lithuanian Parliamentary Election.]]
+[[File:2024 Lithuanian Parliamentary Election Poll.svg|center|thumb|1000x1000px|LOESS curve of the polling for the 2024 Lithuanian Parliamentary Election.]]
 Parliamentary election poll results are listed in the table below in reverse chronological order. The highest percentage figure in each poll is displayed in bold, and its background is shaded in the leading party's colour. The "Lead" column shows the [[percentage point]] difference between the two parties with the highest figures.
 {| class="wikitable sortable" style="text-align:center;font-size:95%;line-height:14px;"
 |-
@@ -30,6 +30,54 @@ Parliamentary election poll results are listed in the table below in reverse chr
 ! style="background:#009C3D" |
 ! style="background:{{party color|Freedom and Justice}}" |
 ! style="background-color: #0A1172;" |
+|-
+| [https://images.jifo.co/2407374_1677254693429.jpg Vilmorus]
+| 9–18 February 2023
+| 1,000
+| 16.1
+| 14.9
+| 5.1
+| style="background:#F5ABB0" |'''24.4'''
+| 5.1
+| 5.3
+| 1.7
+| 3.5
+| 2.4
+| 3.8
+| 16.2
+| style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''8.2'''
+|-
+| [https://www.lrt.lt/naujienos/lietuvoje/2/1888842/mazas-zingsnelis-i-prieki-pozityviai-situacija-salyje-vertina-kas-penktas-lietuvis-bet-daugiau-optimizmo-mato-savivaldoje Baltijos tyrimai]
+| 19–31 January 2023{{efn|[[Young Lithuania]] 2.0%, [[Christian Union (Lithuania)|Christian Union]] 0.5%, [[National Alliance (Lithuania)|National Alliance]] 0.1%}}
+| 1,023
+| 15.7
+| 9.7
+| 7.9
+| 19.4
+| 3.6
+| 7.1
+| 2.8
+| 2.8
+| 1.4
+| 3.7
+| style="background:#888ce1" |'''19.8'''
+| style="background:#121FC1; color:white" |'''0.4'''
+|-
+| [https://www.delfi.lt/news/daily/lithuania/naujausi-reitingai-bartoseviciaus-skandalo-padariniai-jau-pastebimi.d?id=92528395 Spinter tyrimai]
+| 18–27 January 2023
+| 1,010
+| 16.4
+| 13.1
+| 4.6
+| style="background:#F5ABB0" |'''17.6'''
+| 6.8
+| 8.9
+| −
+| −
+| −
+| 3.0
+| 17.3
+| style="background:{{party color|Social Democratic Party of Lithuania}}; color:white" |'''0.3'''
 |-
 | [https://www.delfi.lt/news/daily/lithuania/naujausi-reitingai-valdantiesiems-sie-skaiciai-nera-itin-geras-zenklas.d?id=92248055 Spinter tyrimai]
 | 15–24 December 2022
@@ -62,6 +110,22 @@ Parliamentary election poll results are listed in the table below in reverse chr
 | 3.4
 | 15.3
 | style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''8.3'''
+|-
+| [https://www.lrt.lt/naujienos/lietuvoje/2/1850319/landsbergis-reitingu-dugne-i-virsunes-kopia-skvernelio-demokratai-o-sloves-spinduliuose-tebespindi-grybauskaite-aplenkes-anusauskas Baltijos tyrimai]
+| 17 November – 2 December 2022{{efn|[[Lithuanian Green Party]] 2.4%, [[Young Lithuania]] 1.2%, [[Christian Union (Lithuania)|Christian Union]] 0.6%, [[National Alliance (Lithuania)|National Alliance]] 0.3%}}
+| 1,026
+| 12.2
+| 11.3
+| 7.3
+| 16.2
+| 3.8
+| 9.5
+| 3.0
+| 2.6
+| 2.1
+| 8.6
+| style="background:#888ce1" |'''18.9'''
+| style="background:#121FC1; color:white" |'''2.7'''
 |-
 | [https://m.delfi.lt/lietuvoje/article.php?id=92041791 Spinter tyrimai]
 | 18–29 November 2022
@@ -96,7 +160,7 @@ Parliamentary election poll results are listed in the table below in reverse chr
 | style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''7.2'''
 |-
 | [https://www.lrt.lt/naujienos/lietuvoje/2/1827555/i-reitingu-virsune-kopiant-opozicijai-ekspertai-tikina-valdantiesiems-nera-kur-detis Baltijos tyrimai]
-| 26 October – 8 November 2022
+| 26 October – 8 November 2022{{efn|[[Lithuanian Green Party]] 2.4%}}
 | 1,026
 | 15.7
 | 12.4
@@ -159,6 +223,22 @@ Parliamentary election poll results are listed in the table below in reverse chr
 | 10.1
 | style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''1.1'''
 |-
+| [https://www.lrt.lt/naujienos/lietuvoje/2/1850319/landsbergis-reitingu-dugne-i-virsunes-kopia-skvernelio-demokratai-o-sloves-spinduliuose-tebespindi-grybauskaite-aplenkes-anusauskas Baltijos tyrimai]
+| 16−27 September 2022{{efn|[[Lithuanian Green Party]] 2.4%}}
+| 1,024
+| 13.4
+| 10.6
+| 8.3
+| style="background:#F5ABB0" |'''20.0'''
+| 3.6
+| 7.0
+| 4.2
+| 3.4
+| 2.4
+| 8.9
+| 15.7
+| style="background:{{party color|Social Democratic Party of Lithuania}}; color:white; color:white" |'''4.3'''
+|-
 | [https://www.lrytas.lt/lietuvosdiena/aktualijos/2022/10/01/news/nuo-antirekordu-iki-gimtadienio-dovanos-reitinguose-signalas-s-skverneliui-ir-dovana-a-anusauskui-24734658 Vilmorus]
 | 15–24 September 2022
 | 1,000
@@ -190,6 +270,22 @@ Parliamentary election poll results are listed in the table below in reverse chr
 | 6.4
 | 14.5
 | style="background:{{party color|Homeland Union – Lithuanian Christian Democrats}}; color:white" |'''4.6'''
+|-
+| [https://www.lrt.lt/naujienos/lietuvoje/2/1850319/landsbergis-reitingu-dugne-i-virsunes-kopia-skvernelio-demokratai-o-sloves-spinduliuose-tebespindi-grybauskaite-aplenkes-anusauskas Baltijos tyrimai]
+| August 2022{{efn|[[Lithuanian Green Party]] 1.6%}}
+| –
+| 15.0
+| 10.6
+| 6.4
+| 18.3
+| 3.1
+| 9.4
+| 2.7
+| 2.2
+| 1.1
+| 8.7
+| style="background:#888ce1" |'''20.1'''
+| style="background:#121FC1; color:white" |'''1.8'''
 |-
 | [https://www.lrt.lt/naujienos/lietuvoje/2/1763372/buksuojantys-lyderiai-ir-nauja-zvaigzde-apklausa-rodo-anusauskas-lenkia-grybauskaite Baltijos tyrimai]
 | 12–28 July 2022

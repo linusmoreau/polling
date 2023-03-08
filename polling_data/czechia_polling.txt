@@ -40,10 +40,52 @@
 ! class="unsortable" style="background:#cdb649;" |
 ! class="unsortable" style="background:{{party color|Green Party (Czech Republic)}};" |
 |-
+| [https://www.parlamentnilisty.cz/arena/monitor/ANO-s-prehledem-prvni-Na-sile-nabira-Rajchlovo-PRO-ukazal-pruzkum-731203 Phoenix]
+| Feb – Mar 2023
+| 1,022
+| –
+| 14.1
+| 5.8
+| 6.5
+| {{Party shading/ANO 2011}} |'''27.6'''
+| 5.6
+| 8.9
+| 9.5
+| –
+| 2.2
+| 1.2
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''13.5'''
+|-
+| [https://www.parlamentnilisty.cz/zpravy/tiskovezpravy/SANEP-Volebni-preference-politickych-stran-a-hnuti-do-Poslanecke-snemovny-PCR-729079 Sanep]
+| 9–12 Feb 2023
+| 1,536
+| 64.3
+| 13.5
+| 3.1
+| 3.9
+| {{Party shading/ANO 2011}} |'''32.7'''
+| 4.6
+| 7.9
+| 9.3
+| –
+| 3.0
+| –
+| –
+| –
+| –
+| –
+| 22.0
+| style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''19.2'''
+|-
 | [https://www.idnes.cz/zpravy/domaci/pruzkum-stem-ods-ano-top-09-snemovna-havlicek-skopecek-krize-energie.A221211_110041_domaci_klf STEM]
-| 29 Nov - 5 Dec 2022
+| 29 Nov – 5 Dec 2022
 | 2,005
-| -
+| –
 |13.9
 | 4.9
 | 4.6
@@ -64,7 +106,7 @@
 | rowspan="2"| [https://ct24.ceskatelevize.cz/domaci/3543320-volebni-model-ukazuje-propad-u-ano-posilili-ods-a-pirati Kantar CZ]
 | rowspan="2"| 17 Oct – 4 Nov 2022
 | rowspan="2"| 1,200
-| rowspan="2"| -
+| rowspan="2"| –
 | colspan="3" {{Party shading/Civic Democratic Party (Czech Republic)}} | '''31.5'''
 | 28.0
 | colspan="2" | 14.0
@@ -120,7 +162,7 @@
 | rowspan="2"| [https://ct24.ceskatelevize.cz/domaci/3535044-v-zarijovem-volebnim-modelu-kantaru-si-mirne-pohorsily-hnuti-ano-i-ods Kantar CZ]
 | rowspan="2"| 12–30 Sep 2022
 | rowspan="2"| 997
-| rowspan="2"| -
+| rowspan="2"| –
 | colspan="3" | 28.5
 | {{Party shading/ANO 2011}} |'''31.5'''
 | colspan="2" | 12.0
@@ -236,10 +278,10 @@
 | 20.4
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''17.2'''
 |-
-| rowspan="2" | [https://ct24.ceskatelevize.cz/domaci/3528715-volby-do-snemovny-vyhralo-ano Kantar CZ] 
+| rowspan="2" | [https://ct24.ceskatelevize.cz/domaci/3528715-volby-do-snemovny-vyhralo-ano Kantar CZ]
 | rowspan="2" | 15 Aug – 2 Sep 2022
 | rowspan="2" | 893
-| rowspan="2" | -
+| rowspan="2" | –
 | colspan="3" | 29.0
 | {{Party shading/ANO 2011}} |'''32.0'''
 | colspan="2" | 10.0
@@ -372,7 +414,7 @@
 | 16.7
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''13.1'''
 |-
-| rowspan="2" | [https://ct24.ceskatelevize.cz/domaci/3503964-ods-prohloubila-ztratu-na-vedouci-ano-v-kvetnovem-modelu-kantaru-pirati-preskocili Kantar CZ] 
+| rowspan="2" | [https://ct24.ceskatelevize.cz/domaci/3503964-ods-prohloubila-ztratu-na-vedouci-ano-v-kvetnovem-modelu-kantaru-pirati-preskocili Kantar CZ]
 | rowspan="2" | 16 May – 2 Jun 2022
 | rowspan="2" | 962
 | rowspan="2" | 75.0
@@ -633,7 +675,7 @@
 | [https://www.parlamentnilisty.cz/arena/monitor/Sto-dnu-hajeni-skoncilo-Pruzkum-zabil-Fialovy-Melody-makers-692839 Phoenix]
 | Feb 2022
 | 1,066
-| {{N/A}}
+|–
 | 15.4
 | 6.5
 | 5.1

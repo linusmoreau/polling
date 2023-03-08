@@ -1,6 +1,6 @@
 == Opinion polls==
-
-{{Graph:Chart
+{{Switcher
+| {{Graph:Chart
 | width=800
 | height=400
 | xAxisTitle=
@@ -26,26 +26,27 @@
 | vAnnotatonsLabel = 
 | vAnnotatonsLine = 
 |xGrid=
-| x= 2021/09/25, 2021/10/18, 2021/10/31, 2021/11/30, 2021/12/30, 2022/01/19, 2022/01/31, 2022/02/16, 2022/02/28, 2022/03/31, 2022/04/12, 2022/04/26, 2022/04/30, 2022/05/31, 2022/06/13, 2022/06/23, 2022/06/30, 2022/07/25, 2022/08/01, 2022/08/17, 2022/08/31, 2022/09/27, 2022/10/02, 2022/10/17, 2022/10/31, 2022/11/17, 2022/11/22, 2022/11/30, 2022/12/28, 2022/12/30, 2023/01/02, 2025/09/27
-| y1= 24.4, 21.1, 22.8, 22.7, 23.3, 20.1, 22.4, 21.9, 21.9, 22.7, 22.4, 17.9, 19.8, 20.1, 18.5, 19.3, 22.8, 24.4, 22.1, 20.9, 21.8, 20.8, 24.1, 22.8, 24.4, 21.1, 21.8, 24.1, 20.0, 23.2, 23.8,
-| y2= 17.3, 17.9, 17.2, 17.0, 17.7, 17.8, 17.0, 16.9, 18.1, 18.0, 15.5, 12.4, 15.6, 17.5, 17.3, 18.3, 17.5, 18.0, 15.4, 19.6, 15.6, 15.6, 13.4, 15.0, 13.8, 14.6, 14.8, 12.2, 12.2, 10.8, 12.1,
-| y3= 12.6, 12.1, 13.4, 13.0, 10.6, 11.2, 10.7, 12.9, 10.5, 11.4, 8.8, 9.6, 10.1, 8.1, 9.0, 8.5, 7.2, 7.7, 8.6, 7.5, 8.4, 8.7, 8.2, 7.7, 8.4, 8.0, 7.1, 7.5, 7.8, 6.7, 7.8,
-| y4= 9.9, 10.1, 9.8, 10.7, 10.5, 12.3, 10.8, 13.4, 11.1, 11.2, 13.0, 16.8, 13.7, 14.1, 13.5, 13.4, 13.7, 10.9, 13.7, 12.9, 15.5, 15.2, 16.3, 14.4, 16.6, 19.1, 19.0, 21.2, 20.1, 20.5, 23.4,
-| y5= 8.9, 7.8, 7.9, 8.0, 8.6, 8.5, 8.8, 7.6, 7.5, 8.2, 7.7, 8.0, 7.7, 6.4, 5.6, 6.3, 7.0, 6.9, 6.6, 4.6, 5.6, 5.0, 5.1, 4.6, 5.3, 6.4, 5.0, 4.5, 7.0, 9.7, 6.2,
-| y6= 8.6, 11.7, 11.0, 11.8, 12.5, 13.5, 12.5, 10.3, 13.2, 11.9, 13.2, 16.2, 14.5, 14.7, 17.5, 14.6, 16.1, 12.7, 15.0, 13.9, 14.8, 12.3, 13.6, 14.3, 12.9, 11.8, 13.4, 12.2, 12.5, 14.3, 11.3,
-| y7= 8.3, 10.0, 8.9, 8.4, 8.7, 9.2, 9.4, 9.7, 9.7, 9.1, 10.5, 9.6, 9.6, 9.5, 7.8, 8.8, 6.7, 8.3, 8.6, 8.9, 8.4, 10.4, 8.5, 9.5, 8.4, 10.6, 9.0, 7.4, 7.5, 6.2, 6.9,
-| y8= 5.5, 3.2, 4.3, 3.8, 3.4, 3.7, 3.7, 3.9, 3.9, 3.7, 4.2, 4.1, 4.1, 4.3, 4.2, 4.7, 4.6, 6.0, 4.4, 4.5, 4.6, 5.3, 5.4, 5.0, 4.2, 4.9, 5.6, 6.7, 4.5, 4.6,
-| y9= 4.1, 5.5, 4.6, 4.4, 4.5, 3.7, 4.3, 3.5, 3.9, 3.6, 4.6, 5.4, 4.6, 5.0, 6.3, 6.1, 4.1, 5.1, 5.3, 7.3, 5.1, 6.8, 5.1, 6.5, 5.0, 4.2, 5.0, 5.2, 6.1, 4.0, 4.6,
+| x= 2021/09/25, 2021/10/18, 2021/10/31, 2021/11/30, 2021/12/30, 2022/01/19, 2022/01/31, 2022/02/16, 2022/02/28, 2022/03/31, 2022/04/12, 2022/04/26, 2022/04/30, 2022/05/31, 2022/06/13, 2022/06/23, 2022/06/30, 2022/07/25, 2022/08/01, 2022/08/17, 2022/08/31, 2022/09/27, 2022/10/02, 2022/10/17, 2022/10/31, 2022/11/17, 2022/11/22, 2022/11/30, 2022/12/28, 2022/12/30, 2023/01/02, 2023/01/17, 2023/02/02, 2023/02/06, 2025/09/27
+| y1= 24.4, 21.1, 22.8, 22.7, 23.3, 20.1, 22.4, 21.9, 21.9, 22.7, 22.4, 17.9, 19.8, 20.1, 18.5, 19.3, 22.8, 24.4, 22.1, 20.9, 21.8, 20.8, 24.1, 22.8, 24.4, 21.1, 21.8, 24.1, 20.0, 23.2, 23.8, 23.5, 21.8, 23.2,
+| y2= 17.3, 17.9, 17.2, 17.0, 17.7, 17.8, 17.0, 16.9, 18.1, 18.0, 15.5, 12.4, 15.6, 17.5, 17.3, 18.3, 17.5, 18.0, 15.4, 19.6, 15.6, 15.6, 13.4, 15.0, 13.8, 14.6, 14.8, 12.2, 12.2, 10.8, 12.1, 11.3, 12.1, 11.8,
+| y3= 12.6, 12.1, 13.4, 13.0, 10.6, 11.2, 10.7, 12.9, 10.5, 11.4, 8.8, 9.6, 10.1, 8.1, 9.0, 8.5, 7.2, 7.7, 8.6, 7.5, 8.4, 8.7, 8.2, 7.7, 8.4, 8.0, 7.1, 7.5, 7.8, 6.7, 7.8, 6.8, 8.3, 5.9,
+| y4= 9.9, 10.1, 9.8, 10.7, 10.5, 12.3, 10.8, 13.4, 11.1, 11.2, 13.0, 16.8, 13.7, 14.1, 13.5, 13.4, 13.7, 10.9, 13.7, 12.9, 15.5, 15.2, 16.3, 14.4, 16.6, 19.1, 19.0, 21.2, 20.1, 20.5, 23.4, 25.3, 23.6, 22.1,
+| y5= 8.9, 7.8, 7.9, 8.0, 8.6, 8.5, 8.8, 7.6, 7.5, 8.2, 7.7, 8.0, 7.7, 6.4, 5.6, 6.3, 7.0, 6.9, 6.6, 4.6, 5.6, 5.0, 5.1, 4.6, 5.3, 6.4, 5.0, 4.5, 7.0, 9.7, 6.2, 5.5, 5.1, 9.5,
+| y6= 8.6, 11.7, 11.0, 11.8, 12.5, 13.5, 12.5, 10.3, 13.2, 11.9, 13.2, 16.2, 14.5, 14.7, 17.5, 14.6, 16.1, 12.7, 15.0, 13.9, 14.8, 12.3, 13.6, 14.3, 12.9, 11.8, 13.4, 12.2, 12.5, 14.3, 11.3, 10.4, 10.4, 12.5,
+| y7= 8.3, 10.0, 8.9, 8.4, 8.7, 9.2, 9.4, 9.7, 9.7, 9.1, 10.5, 9.6, 9.6, 9.5, 7.8, 8.8, 6.7, 8.3, 8.6, 8.9, 8.4, 10.4, 8.5, 9.5, 8.4, 10.6, 9.0, 7.4, 7.5, 6.2, 6.9, 7.3, 9.1, 6.9,
+| y8= 5.5, 3.2, 4.3, 3.8, 3.4, 3.7, 3.7, 3.9, 3.9, 3.7, 4.2, 4.1, 4.1, 4.3, 4.2, 4.7, 4.6, 6.0, 4.4, 4.5, 4.6, 5.3, 5.4, 5.0, 4.2, 4.9, 5.6, 6.7, 4.5, 4.6, 5.5, 5.9, 4.1,
+| y9= 4.1, 5.5, 4.6, 4.4, 4.5, 3.7, 4.3, 3.5, 3.9, 3.6, 4.6, 5.4, 4.6, 5.0, 6.3, 6.1, 4.1, 5.1, 5.3, 7.3, 5.1, 6.8, 5.1, 6.5, 5.0, 4.2, 5.0, 5.2, 6.1, 4.0, 4.6, 4.4, 3.6, 4.1,
 | colors = #00adef, #89f894, #00b878, #e40e42, #ffca3e, #8b73bc, #ff7d14, #002169, #ef4839
 | showSymbols = 1
 | yGrid = true
-| linewidth = 2.0
-}}
+| linewidth = 2.0}}
+| Wikipedia graph
+| [[File:Next Icelandic Parliamentary Election Polls.svg|center|thumb|1000x1000px|LOESS curve of the polling for the next Icelandic Parliamentary Election.]]
+| LOESS graph}}
 
 {| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
 ! colspan="4" |
 ! colspan="11" |Parties
-! colspan="3" |Blocs
 |-
 ! rowspan="3"| Polling firm
 ! rowspan="3"| Fieldwork date
@@ -54,9 +55,6 @@
 ! colspan="3" |Government 
 ! colspan="6" |Opposition 
 ! rowspan="3"|{{abbr|Oth.|Others}}
-! style="width:30px;" rowspan="3"| Lead
-! class="unsortable" style="width:30px;" rowspan="2" | {{tooltip|2=B, D and V|Gov.}}
-! class="unsortable" style="width:30px;" rowspan="2" | {{tooltip|2=C, F, J, M, S and P|Opp.}}
 ! style="width:30px;" rowspan="3"| Lead
 |-
 ! class="unsortable" style="width:40px;"| [[Independence Party (Iceland)|D]]
@@ -78,8 +76,70 @@
 ! style="background:{{party color|Reform Party (Iceland)}};"|
 ! style="background:{{party color|Centre Party (Iceland)}};"|
 ! style="background:{{party color|Icelandic Socialist Party}};"|
-! style="background:{{party color|Left-Green Movement}};"|
-! style="background:{{party color|Social Democratic Alliance}};"|
+|-
+| [https://maskina.is/sveifla-a-samfylkingunni/ Maskína]
+| data-sort-value="2023-02-08"| 3–13 Feb 2023
+| 1,892
+| –
+| 20.1
+| 12.3
+| 6.7
+| style="background:#F6CDCF;"| '''23.3'''
+| 5.9
+| 12.7
+| 8.2
+| 5.8
+| 5.0
+| –
+| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 2.2
+|-
+| [https://www.frettabladid.is/frettir/vinstri-graen-laegst-hja-lagtekjufolki/ Prósent]
+| data-sort-value="2022-02-01"| 27 Jan – 6 Feb 2023
+| 2,400
+| 51.4
+| style="background:#C6ECFB;"| '''23.2'''
+| 11.8
+| 5.9
+| 22.1
+| 9.5
+| 12.5
+| 6.9
+| 4.1
+| 4.1
+| –
+| style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 1.1
+|-
+| [https://maskina.is/ekkert-lat-a-fylgisaukningu-samfylkingarinnar/ Maskína]
+| data-sort-value="2023-01-16"| 13–18 Jan 2023
+| 804
+| –
+| 21.8
+| 12.1
+| 8.3
+| style="background:#F6CDCF;"| '''23.6'''
+| 5.1
+| 10.4
+| 9.1
+| 5.9
+| 3.6
+| –
+| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 1.8
+|-
+| [https://www.ruv.is/frettir/innlent/2023-02-02-samfylking-maelist-staerri-en-sjalfstaedisflokkur Gallup]
+| data-sort-value="2023-01-19"| 6–31 Jan 2023
+| 9,842
+| 48.5
+| 23.5
+| 11.3
+| 6.8
+| style="background:#F6CDCF;"| '''25.3'''
+| 5.5
+| 10.4
+| 7.3
+| 5.5
+| 4.4
+| –
+| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 1.8
 |-
 | [https://www.gallup.is/frettir/samfylkingin-og-flokkur-folksins-i-sokn/ Gallup]
 | data-sort-value="2022-12-17"| 1 Dec 2022–2 Jan 2023
@@ -96,9 +156,6 @@
 | 4.6
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 0.2
-| 42.7
-| style="background:#FACECD;"| '''57.2'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 14.5
 |-
 | [https://kjarninn.is/frettir/samfylkingin-hefur-naestum-tvofaldad-fylgid-og-andar-ofan-i-halsmalid-a-sjalfstaedisflokki/ Prósent]
 | data-sort-value="2022-12-26"| 22–30 Dec 2022
@@ -115,9 +172,6 @@
 | 4.0
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 2.7
-| 40.7
-| style="background:#FACECD;"| '''59.2'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 18.5
 |-
 | [https://www.visir.is/g/20222358642d/samfylkingin-ordin-staersti-flokkur-landsins-samkvaemt-konnun Maskína]
 | data-sort-value="2022-12-22"| 16–28 Dec 2022
@@ -134,9 +188,6 @@
 | 6.1
 | –
 | style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 0.1
-| 40.0
-| style="background:#FACECD;"| '''59.9'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 19.9
 |-
 | [https://www.gallup.is/frettir/samfylkingin-i-sokn-minnkandi-studningur-vid-rikisstjornina/ Gallup]
 | data-sort-value="2022-11-16"| 1–30 Nov 2022
@@ -153,9 +204,6 @@
 | 5.2
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 3.0
-| 43.8
-| style="background:#FACECD;"| '''56.0'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 12.2
 |-
 | [https://maskina.is/wp-content/uploads/2022/11/2022_11-Fylgi_Mask%C3%ADnusk%C3%BDrsla-1.pdf-1.pdf Maskína]
 | data-sort-value="2022-11-13"| 4–22 Nov 2022
@@ -172,9 +220,6 @@
 | 5.0
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 2.8
-| 43.7
-| style="background:#FACECD;"| '''56.3'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 12.6
 |-
 | [https://kjarninn.is/frettir/samfylkingin-hefur-naestum-tvofaldad-fylgid-og-andar-ofan-i-halsmalid-a-sjalfstaedisflokki/ Prósent]
 | data-sort-value="2022-11-16"| 14–17 Nov 2022
@@ -191,9 +236,6 @@
 | 4.2
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 2.0
-| 43.7
-| style="background:#FACECD;"| '''56.3'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 12.6
 |-
 | [https://www.gallup.is/frettir/fylgi-flokka-breytist-litid-milli-manada/ Gallup]
 | data-sort-value="2022-10-17"| 3–31 Oct 2022
@@ -210,9 +252,6 @@
 | 5.0
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 7.8
-| 46.6
-| style="background:#FACECD;"| '''53.2'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 6.6
 |-
 | [https://maskina.is/wp-content/uploads/2022/10/2022_10-Fylgi_Mask%C3%ADnusk%C3%BDrsla.pdf Maskína]
 | data-sort-value="2022-10-09"| 30 Sep–17 Oct 2022
@@ -229,9 +268,6 @@
 | 6.5
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 7.8
-| 45.5
-| style="background:#FACECD;"| '''54.3'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 8.8
 |-
 | [https://www.gallup.is/frettir/sjalfstaedisflokkurinn-i-sokn/ Gallup]
 | data-sort-value="2022-09-17"| 1 Sep–2 Oct 2022
@@ -248,9 +284,6 @@
 | 5.1
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 7.8
-| 45.7
-| style="background:#FACECD;"| '''54.0'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 8.3
 |-
 | [https://maskina.is/wp-content/uploads/2022/09/2022_09-Fylgi_Mask%C3%ADnusk%C3%BDrsla.pdf Maskína]
 | data-sort-value="2022-09-22"| 16–27 Sep 2022
@@ -267,9 +300,6 @@
 | 6.8
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 5.2
-| 45.1
-| style="background:#FACECD;"| '''55.0'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 9.9
 |-
 | [https://www.gallup.is/frettir/samfylking-i-sokn/ Gallup]
 | data-sort-value="2022-08-17"| 2–31 Aug 2022
@@ -286,9 +316,6 @@
 | 5.1
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 6.2
-| 45.8
-| style="background:#FACECD;"| '''54.0'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 8.2
 |-
 | [https://maskina.is/wp-content/uploads/2022/08/2022_08-Fylgi_Mask%C3%ADnusk%C3%BDrsla-1.pdf Maskína]
 | data-sort-value="2022-08-15"| 12–17 Aug 2022
@@ -305,9 +332,6 @@
 | 7.3
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 1.3
-| 48.0
-| style="background:#FACECD;"| '''52.1'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 4.1
 |-
 | [https://www.ruv.is/frett/2022/08/04/studningur-vid-framsokn-dalar?term=gallup&rtype=news&slot=1/ Gallup]
 | data-sort-value="2022-07-16"| 1 Jul–1 Aug 2022
@@ -324,9 +348,6 @@
 | 5.3
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 6.7
-| 46.1
-| style="background:#FACECD;"| '''53.6'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 7.5
 |-
 | [https://maskina.is/wp-content/uploads/2022/08/2022_07-Fylgi_Mask%C3%ADnusk%C3%BDrsla.pdf Maskína]
 | data-sort-value="2022-07-23"| 20–25 Jul 2022
@@ -343,9 +364,6 @@
 | 5.1
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 6.4
-| style="background:#CEFBCF;"| '''50.1'''
-| 49.9
-| style="background:{{party color|Left-Green Movement}};color:#FFFFFF;"| 0.2
 |-
 | [https://www.gallup.is/frettir/dvinandi-studningur-vid-rikisstjornina/ Gallup]
 | data-sort-value="2022-06-16"| 2–30 Jun 2022
@@ -362,9 +380,6 @@
 | 4.1
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 5.3
-| 47.5
-| style="background:#FACECD;"| '''52.2'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 4.7
 |-
 | [https://maskina.is/wp-content/uploads/2022/06/2022_06_Fylgi_Mask%C3%ADnusk%C3%BDrsla.pdf Maskína]
 | data-sort-value="2022-06-12"| 1–23 Jun 2022
@@ -381,9 +396,6 @@
 | 6.1
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 1.0
-| 46.1
-| style="background:#FACECD;"| '''53.9'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 7.8
 |-
 | [https://www.frettabladid.is/frettir/5-prosenta-stokk-framsoknar-dugar-stjorninni-ekki-samkvaemt-konnun/ Prósent]
 | data-sort-value="2022-06-08"| 2–13 Jun 2022
@@ -400,9 +412,6 @@
 | 6.3
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 2.2
-| 44.8
-| style="background:#FACECD;"| '''54.9'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 10.1
 |-
 | [https://www.gallup.is/frettir/studningur-vid-rikisstjornina-minnkar-enn/ Gallup]
 | data-sort-value="2022-05-16"| 2–31 May 2022
@@ -419,9 +428,6 @@
 | 5.0
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 2.6
-| 45.7
-| style="background:#FACECD;"| '''54.0'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 8.3
 |-
 | [https://www.frettabladid.is/frettir/ny-konnun-stjornin-fallin-og-tapar-tolf-thingsaetum/ Prósent]
 | data-sort-value="2022-04-20"| 13–26 Apr 2022
@@ -438,9 +444,6 @@
 | 5.4
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 1.1
-| 39.9
-| style="background:#FACECD;"| '''60.1'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 20.2
 |-
 | [https://www.gallup.is/frettir/studningur-vid-rikisstjornina-minnkar-verulega/ Gallup]
 | data-sort-value="2022-04-15"| 1–30 Apr 2022
@@ -457,9 +460,6 @@
 | 4.6
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 4.2
-| 45.5
-| style="background:#FACECD;"| '''54.2'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 8.7
 |-
 | [https://maskina.is/wp-content/uploads/2022/04/2022_04_Fylgi-flokka-Al%C3%BEingi_Mask%C3%ADnusk%C3%BDrsla.pdf Maskína]
 | data-sort-value="2022-03-30"| 17 Mar–12 Apr 2022
@@ -476,9 +476,6 @@
 | 4.6
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 6.9
-| 46.7
-| style="background:#FACECD;"| '''53.2'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 6.5
 |-
 | [https://www.gallup.is/frettir/studningur-eykst-vid-rikisstjornina/ Gallup]
 | data-sort-value="2022-03-15"| 1-31 Mar 2022
@@ -495,9 +492,6 @@
 | 3.6
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 4.7
-| style="background:#CEFBCF;"| '''52.1'''
-| 47.7
-| style="background:{{party color|Left-Green Movement}};color:#FFFFFF;"| 4.4
 |-
 | [https://www.gallup.is/frettir/fylgi-flokka-og-studningur-vid-rikisstjorn-i-februar/ Gallup]
 | data-sort-value="2022-02-14"| 1-28 Feb 2022
@@ -514,9 +508,6 @@
 | 3.9
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 3.8
-| style="background:#CEFBCF;"| '''50.5'''
-| 49.3
-| style="background:{{party color|Left-Green Movement}};color:#FFFFFF;"| 1.2
 |-
 | [https://maskina.is/wp-content/uploads/2022/02/2022_02_Mask%C3%ADnuk%C3%B6nnun_Fylgi-flokkanna.pdf Maskína]
 | data-sort-value="2022-02-07"| 28 Jan-16 Feb 2022
@@ -533,9 +524,6 @@
 | 3.5
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 5.0
-| style="background:#CEFBCF;"| '''51.7'''
-| 48.4
-| style="background:{{party color|Left-Green Movement}};color:#FFFFFF;"| 3.3
 |-
 | [https://www.gallup.is/frettir/studningur-vid-rikisstjornina-minnkar-milli-manada/ Gallup]
 | data-sort-value="2022-01-15"| 1-31 Jan 2022
@@ -552,9 +540,6 @@
 | 4.3
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 5.4
-| style="background:#CEFBCF;"| '''50.1'''
-| 49.5
-| style="background:{{party color|Left-Green Movement}};color:#FFFFFF;"| 0.6
 |-
 | [https://maskina.is/wp-content/uploads/2022/01/2022_01_Mask%C3%ADnusk%C3%BDrsla_fylgi_stj%C3%B3rnm%C3%A1laflokka.pdf Maskína]
 | data-sort-value="2022-01-13"| 6-19 Jan 2022
@@ -571,9 +556,6 @@
 | 3.7
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 3.3
-| 49.1
-| style="background:#FACECD;"| '''50.9'''
-| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 1.8
 |-
 | [https://www.gallup.is/frettir/fylgi-vid-vinstri-graen-minnkar/ Gallup]
 | data-sort-value="2021-12-15"| 1-30 Dec 2021
@@ -590,9 +572,6 @@
 | 4.5
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 5.6
-| style="background:#CEFBCF;"| '''51.6'''
-| 48.2
-| style="background:{{party color|Left-Green Movement}};color:#FFFFFF;"| 3.4
 |-
 | [https://www.gallup.is/frettir/thjodarpuls-gallup-litlar-breytingar-fylgi-flokka/ Gallup]
 | data-sort-value="2021-11-15"| 1-30 Nov 2021
@@ -609,9 +588,6 @@
 | 4.4
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 5.7
-| style="background:#CEFBCF;"| '''52.7'''
-| 47.1
-| style="background:{{party color|Left-Green Movement}};color:#FFFFFF;"| 5.6
 |-
 | [https://www.gallup.is/frettir/piratar-yfir-kjorfylgi-en-sjalfstaedisflokkur-undir/ Gallup]
 | data-sort-value="2021-10-15"| 1-31 Oct 2021
@@ -628,9 +604,6 @@
 | 4.6
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 5.6
-| style="background:#CEFBCF;"| '''53.4'''
-| 46.5
-| style="background:{{party color|Left-Green Movement}};color:#FFFFFF;"| 6.9
 |-
 | [https://www.frettabladid.is/frettir/sjalfstaedisflokkur-dalar-en-framsokn-a-uppleid/ MMR]
 | data-sort-value="2021-10-15"| 12-18 Oct 2021
@@ -647,9 +620,6 @@
 | 5.5
 | –
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 3.2
-| style="background:#CEFBCF;"| '''51.1'''
-| 48.3
-| style="background:{{party color|Left-Green Movement}};color:#FFFFFF;"| 2.8
 |- style="background:#E9E9E9;"
 | [[2021 Icelandic parliamentary election|2021 parliamentary election]]
 | data-sort-value="2021-09-25"| 25 Sep 2021
@@ -666,7 +636,4 @@
 | 4.1
 | 0.5
 | style="background:{{party color|Independence Party (Iceland)}};color:#FFFFFF;"| 7.1
-| style="background:#CEFBCF;"| '''54.3'''
-| 45.3
-| style="background:{{party color|Left-Green Movement}};color:#FFFFFF;"| 9.0
 |}
