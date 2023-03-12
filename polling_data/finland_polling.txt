@@ -29,23 +29,6 @@
 ! data-sort-type="number" style="background:{{party color|Christian Democrats (Finland)}};" |
 ! data-sort-type="number" style="background:{{party color|Movement Now}};" |
 |-
-|- style="background:#E9E9E9;"
-| [[2019 Finnish parliamentary election|2019 election]]
-| data-sort-value="2019-04-14"| 14 Apr 2019
-| –
-| style="background:#FCCFCF;" |'''17.7'''
-| 17.5
-| 17.0
-| 13.8
-| 11.5
-| 8.2
-| 4.5
-| 3.9
-| 2.3
-| 3.7
-| style="background:{{party color|Social Democratic Party of Finland}};color:#FFFFFF;"| 0.2
-| – || –
-|-
 | Taloustutkimus<ref>{{Cite web|url=https://yle.fi/a/74-20020367|title=Ylen kannatusmittaus: Kokoomus pitää kärkipaikkansa, kisa SDP:n ja perussuomalaisten kanssa kiristyy|first=Kristiina|last=Tolkki|website=Yle Uutiset|language=fi|access-date=2 March 2023|date=2 March 2023}}</ref>
 | data-sort-value="2022-02-28"|6 Feb–28 Feb 2023
 |2,459

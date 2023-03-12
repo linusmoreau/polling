@@ -28,6 +28,8 @@
 ! style="background:{{Canadian party colour|CA|Green}}" data-sort-type="number"|
 |- style="background:#ffd;"
 |-
+| [[Abacus Data]] || {{dts|March 4, 2023}} || <ref>{{Cite web |date=2023-03-10 |title=A Deep Dive on Canadian Political Attitudes: Chinese election interference & the Liberal/NDP Agreement |url=https://abacusdata.ca/canadian-politics-polling-abacus-data-march-2023/|website=Abacus Data}}</ref> || {{Party shading/Conservative (Canada)}}|'''36''' || 29 || 18 || 8 || 4 || 3 || 2 || ±2.0 pp || 2,600 || online || {{Party shading/Conservative (Canada)}}|'''7''' 
+|-
 | [[Nanos Research]] || {{dts|March 3, 2023}} || <ref>{{Cite web |date=2023-03-07 |title=Federal Polling: Nanos|url=https://twitter.com/CanadianPolling/status/1633176270556078085}}</ref> || {{Party shading/Conservative (Canada)}}|'''34''' || 30 || 20 || 9 || 3 || 5 || {{N/A}} || ±3.1 pp || 1,000 (3/4) || telephone (rolling) || {{Party shading/Conservative (Canada)}}|'''4''' 
 |-
 | Research Co. || {{dts|February 27, 2023}} || <ref>{{Cite web|date=2023-03-03|title= Liberals and Conservatives are Neck and Neck in Canada|url=https://researchco.ca/2023/03/03/cdnpoli-feb2023/|website= ResearchCo.ca|access-date=2023-03-03}}</ref> || 33 || {{Party shading/Liberal}}|'''34''' ||18 || 8 || 1 || 3 || 1 || ±3.1 pp || 1,000 || online || {{Party shading/Liberal}}|'''1'''

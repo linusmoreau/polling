@@ -27,6 +27,49 @@
 ! data-sort-type="number" style="height:1px; background:{{party color|Agreement (political party)}};" |
 ! data-sort-type="number" style="height:1px; background:{{party color|AGROunia}};" |
 |-
+| [https://dorzeczy.pl/opinie/414961/sondaz-dorzeczypl-prowadzi-pis-zyskuja-konfederacja-i-psl.html Estymator / DoRzeczy.pl]
+| data-sort-value="2023-03-09" | 8–9 Mar
+| 1,025
+| style="background:#C0DBFC;" | '''36.9'''
+| 28.6
+| 9.2
+| 7.7
+| 1.3
+| 8.0
+| 7.1
+| colspan="2" | 0.9
+| 0.3
+| style="background:{{party color|Law and Justice}}; color:white;"| '''8.3'''
+|-
+| [https://wpolityce.pl/polityka/637610-nasz-sondaz-nagonka-nie-dziala-pis-z-wysokim-poparciem Social Changes / wPolityce.pl]
+| data-sort-value="2023-03-06" | 3–6 Mar
+| 1,045
+| style="background:#C0DBFC;" | '''38'''
+| 29
+| 9
+| 7
+| 1
+| 7
+| 8
+| 0
+| 
+| 1
+| style="background:{{party color|Law and Justice}}; color:white;"| '''9'''
+|-
+| [https://twitter.com/sieniutycz/status/1633523158123700225 Research Partner]
+| data-sort-value="2023-03-06" | 3–6 Mar
+| 1,054
+| style="background:#C0DBFC;" | '''32.8'''
+| 26.7
+| 8.8
+| 5.3
+| 1.3
+| 7.1
+| 8.1
+| colspan="2" | 1.3
+| 8.6
+| style="background:{{party color|Law and Justice}}; color:white;"| '''6.1'''
+|-
 | [https://wiadomosci.wp.pl/opozycja-zabiera-wladze-pis-mamy-nowy-sondaz-6873198756399840a United Surveys / WP.pl]
 | data-sort-value="2023-03-05" | 3–5 Mar
 | 1,000
@@ -42,7 +85,7 @@
 | style="background:{{party color|Law and Justice}}; color:white;"| '''6.8'''
 |-
 | [https://twitter.com/PGBOpinium/status/1632744240735199232 PGB Opinium]
-| data-sort-value="2023-03-04" | 3–4 Mar
+| data-sort-value="2023-03-04" | 2–4 Mar
 | 1,100
 | style="background:#C0DBFC;" | '''34.68'''
 | 31.69

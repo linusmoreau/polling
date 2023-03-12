@@ -23,6 +23,45 @@
 ! style="background:{{party color|The Left (Germany)}};"|
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|6|10|Mar|2023|year}}
+| 1,268
+| –
+| 21
+| {{Party shading/CDU}}| '''29'''
+| 16
+| 7
+| 15
+| 4
+| 8
+| style="background:{{party color|CDU/CSU}};color:#FFFFFF;"| 8
+|-
+| [https://www.wahlrecht.de/umfragen/yougov.htm YouGov]
+| {{opdrts|3|7|Mar|2023|year}}
+| 1,649
+| –
+| 20
+| {{Party shading/CDU}}| '''28'''
+| 16
+| 6
+| 17
+| 7
+| 7
+| style="background:{{party color|CDU/CSU}};color:#FFFFFF;"| 8
+|-
+| [https://www.wahlrecht.de/umfragen/emnid.htm Kantar]
+| {{opdrts|1|7|Mar|2023|year}}
+| 1,504
+| –
+| 19
+| {{Party shading/CDU}}| '''29'''
+| 19
+| 7
+| 13
+| 5
+| 8
+| style="background:{{party color|CDU/CSU}};color:#FFFFFF;"| 10
+|-
+| [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|3|6|Mar|2023|year}}
 | 2,007
 | –
@@ -47,6 +86,19 @@
 | 5
 | 9
 | style="background:{{party color|CDU/CSU}};color:#FFFFFF;"| 11
+|-
+| [https://www.wahlrecht.de/umfragen/ipsos.htm Ipsos]
+| {{opdrts|3|4|Mar|2023|year}}
+| 1,000
+| –
+| 20
+| {{Party shading/CDU}}| '''27'''
+| 18
+| 7
+| 15
+| 5
+| 8
+| style="background:{{party color|CDU/CSU}};color:#FFFFFF;"| 7
 |-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|27|3|Mar|2023|year}}

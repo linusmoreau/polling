@@ -24,6 +24,30 @@
 ! style="background:{{party color|NEOS – The New Austria and Liberal Forum}};"|
 ! style="background:{{party color|Independent}};"|
 |-
+| [https://www.profil.at/oesterreich/profil-umfrage-fpoe-knackt-die-30-prozent-marke/402359841 Unique Research]
+| data-sort-value="2023-03-09"| 6–9 Mar 2023
+| 800
+| Phone & Online
+| 22
+| 25
+| style="background:#C6D9EA;"| '''31'''
+| 10
+| 9
+| 3
+| style="background:{{party color|Freedom Party of Austria}};color:#FFFFFF;"| 6
+|-
+| [https://exxpress.at/neues-umfrage-beben-fuer-kickl-fpoe-zwischen-27-und-sogar-31-prozent/ INSA]
+| data-sort-value="2023-03-09"| 6–9 Mar 2023
+| 1,000
+| Online
+| 22
+| 26
+| style="background:#C6D9EA;"| '''27'''
+| 9
+| 10
+| 6
+| style="background:{{party color|Freedom Party of Austria}};color:#FFFFFF;"| 1
+|-
 | [https://www.profil.at/oesterreich/profil-umfrage-fpoe-legt-weiter-zu-oevp-mit-leichtem-plus/402332640 Unique Research]
 | data-sort-value="2023-02-16"| 13–16 Feb 2023
 | 800

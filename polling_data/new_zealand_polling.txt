@@ -18,6 +18,16 @@ The parties shown in the table are [[New Zealand Labour Party|Labour]] (LAB), [[
 ! style="background-color:#91D3FF;width:40px" | [[New Conservative Party (New Zealand)|NCP]]
 ! data-sort-type="number" style="width:40px;" | Lead
 |-
+| data-sort-value="2023-03-07" | '''2–7 Mar 2023'''
+|[https://www.taxpayers.org.nz/tucuriapoll_march23 Taxpayers' Union–Curia]
+| 1,000
+| style="background:#FFB6B6;"| '''35.5''' || 34.8 || 5.7 || 9.3 || 1.4 || 4.2 || 1.7 || 2.5 || style="background:#FFB6B6;" |  '''0.7'''
+|-
+| '''Feb 2023'''
+| [https://www.roymorgan.com/findings/9202-nz-national-voting-intention-february-2023 Roy Morgan]
+| 943 
+| style="background:#FFB6B6;"| '''33''' || 32 || 12.5 || 13.5 || 3.5 || 2 || 2.5 || 0.5 || style="background:#FFB6B6;" |'''1'''
+|-
 | style="background:#E8E8E8 |'''12 Feb 2023'''
 | colspan="11" style="background:#E8E8E8 |'''[[Cyclone Gabrielle]] begins impacting the North Island'''
 |-

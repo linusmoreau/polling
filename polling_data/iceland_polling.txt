@@ -77,6 +77,22 @@
 ! style="background:{{party color|Centre Party (Iceland)}};"|
 ! style="background:{{party color|Icelandic Socialist Party}};"|
 |-
+| [https://www.ruv.is/frettir/innlent/2023-03-02-samfylkingin-maelist-afram-staerst Gallup]
+| data-sort-value="2023-02-15"| 1–28 Feb 2023
+| 9,517
+| 49.6
+| 22.5
+| 10.8
+| 6.8
+| style="background:#F6CDCF;"| '''24.0'''
+| 5.6
+| 12.1
+| 7.7
+| 5.3
+| 5.0
+| –
+| style="background:{{party color|Social Democratic Alliance}};color:#FFFFFF;"| 1.5
+|-
 | [https://maskina.is/sveifla-a-samfylkingunni/ Maskína]
 | data-sort-value="2023-02-08"| 3–13 Feb 2023
 | 1,892

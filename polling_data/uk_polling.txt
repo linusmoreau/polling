@@ -27,6 +27,62 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 ! data-sort-type="number" style="background:{{party color|Green Party of England and Wales (2023)}};"|
 ! data-sort-type="number" style="background:{{party color|Reform UK}};"|
 |-
+|{{opdrts|9|10|Mar|2023}}
+|[https://twitter.com/Omnisis/status/1634202484901138457?s=20 Omnisis]
+|N/A
+|GB
+|1,323
+|26%
+|style="background:#FFCCD9;color:black"|'''50%'''
+|7%
+|4%
+|5%
+|6%
+|2%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24"|24
+|-
+|{{opdrts|8|9|Mar|2023}}
+|[https://www.techneuk.com/wp-content/uploads/2023/03/R58-UK-2023-3-10-DATA.pdf Techne]
+|N/A
+|GB
+|1,624
+|29%
+|style="background:#FFCCD9;color:black"|'''46%'''
+|9%
+|3%
+|5%
+|6%
+|2%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17"|17
+|-
+|{{opdrts||8|Mar|2023}}
+|[https://peoplepolling.org/tables/202303_GBN_W10_full.pdf#subsection*.12 PeoplePolling]
+|GB News
+|UK
+|1,158
+|23%
+|style="background:#FFCCD9;color:black"|'''42%'''
+|8%
+|4%
+|10%
+|7%
+|5%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-19"|19
+|-
+|Mar
+|YouGov
+|''The Times''
+|?
+|?
+|23%
+|style="background:#FFCCD9;color:black"|'''45%'''
+|10%
+|4%
+|7%
+|7%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22"|22
+|-
 |{{opdrts|2|6|Mar|2023}}
 |[https://deltapoll.co.uk/polls/voteint230307.pdf Deltapoll]
 |N/A
@@ -39,7 +95,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |4%
 |{{Hidden|1%|[[UKIP]] on 1%<br/>|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-16%"|16%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-16"|16
 |-
 |{{opdrts||5|Mar|2023}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-5-march-2023/ Redfield & Wilton]
@@ -53,7 +109,21 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |7%
 |1%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-26%"|26%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-26"|26
+|-
+|{{opdrts|3|5|Mar|2023}}
+|[https://twitter.com/Savanta_UK/status/1634237761564622867 Savanta]
+|N/A
+|GB
+|2,138
+|32%
+|style="background:#FFCCD9;color:black"|'''43%'''
+|9%
+|4%
+|3%
+|5%
+|5%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-11"|11
 |-
 |{{opdrts|2|3|Mar|2023}}
 |[https://omnisis.co.uk/polls/nhs-should-be-labour-s-priority-voters-say-in-latest-poll/ Omnisis]
@@ -67,7 +137,21 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |6%
 |6%
 |2%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-19|19%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-19"|19
+|-
+|{{opdrts|2|3|Mar|2023}}
+|[https://www.survation.com/behind-labours-lead-in-the-polls-insights-into-party-identification-show-party-attracting-unaffiliated-voters Survation]
+|N/A
+|UK
+|870
+|29%
+|style="background:#FFCCD9;color:black"|'''45%'''
+|10%
+|3%
+|3%
+|4%
+|6%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-16"|16
 |-
 |{{opdrts|1|3|Mar|2023|}}
 |[https://findoutnow.co.uk/blog/conservatives-still-23-behind-labour-despite-brexit-deal/ FindOutNow/Electoral Calculus]
@@ -81,7 +165,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |6%
 |5%
 |{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-23|23%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-23"|23
 |-
 |{{opdrts|1|3|Mar|2023}}
 |[https://twitter.com/OpiniumResearch/status/1632108652596436992 Opinium]
@@ -95,7 +179,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |7%
 |8%
 |{{Hidden|3%|[[Plaid Cymru]] on 0%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17%"|17%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17"|17
 |-
 |{{opdrts|1|2|Mar|2023}}
 |[https://www.techneuk.com/wp-content/uploads/2023/03/R57-UK-2023-3-3-DATA.pdf Techne]
@@ -109,7 +193,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |6%
 |2%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-18|18%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-18"|18
 |-
 |{{opdrts||1|Mar|2023}}
 |[https://peoplepolling.org/tables/202303_GBN_W9_full.pdf#subsection*.12 PeoplePolling]
@@ -123,7 +207,21 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |8%
 |7%
 |3%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21%"|21%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21"|21
+|-
+|{{opdrts|28|1|Mar|2023}}
+|[https://docs.cdn.yougov.com/saca6dp8tm/TheTimes_VI_Brexit_230301_W.pdf YouGov]
+|''The Times''
+|GB
+|2,073
+|25%
+|style="background:#FFCCD9;color:black"|'''47%'''
+|10%
+|4%
+|5%
+|6%
+|{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22"|22
 |-
 |{{opdrts|22|1|Mar|2023}}
 |[https://twitter.com/ElectionMapsUK/status/1633128822341095426 Ipsos]
@@ -137,7 +235,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |3%
 |TBC
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-26|26%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-26"|26
 |-
 |{{opdrts|24|27|Feb|2023}}
 |[https://deltapoll.co.uk/wp-content/uploads/2023/02/Deltapoll-230227_trackers.pdf Deltapoll]
@@ -151,7 +249,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |4%
 |5%
 |{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>[[UKIP]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-15%"|15%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-15"|15
 |-
 |{{opdrts||26|Feb|2023}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-26-february-2023/ Redfield & Wilton]
@@ -165,7 +263,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |7%
 |1%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-27%"|27%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-27"|27
 |-
 |{{opdrts|24|26|Feb|2023}}
 |[https://twitter.com/Savanta_UK/status/1631217781231456258 Savanta]
@@ -179,7 +277,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |3%
 |6%
 |5%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-15%"|15%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-15"|15
 |-
 |{{opdrts|22|23|Feb|2023}}
 |[https://omnisis.co.uk/poll-results/vi-23-results-24-02-2023/ Omnisis]
@@ -193,7 +291,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |8%
 |1%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24|24%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24"|24
 |-
 |{{opdrts|22|23|Feb|2023}}
 |[https://www.techneuk.com/wp-content/uploads/2023/02/R56-UK-2023-2-24-DATA-1.pdf Techne]
@@ -207,7 +305,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |5%
 |3%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22|22%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22"|22
 |-
 |{{opdrts|21|23|Feb|2023}}
 |[https://www.bmgresearch.co.uk/wp-content/uploads/2023/02/2702023_The-i_PublishedTables_W10.xlsx BMG]
@@ -221,7 +319,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |4%
 |6%
 |{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17%"|17%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17"|17
 |-
 |{{opdrts|21|22|Feb|2023}}
 |[https://docs.cdn.yougov.com/fs088jpfhf/TheTimes_VI_230222_W.pdf YouGov]
@@ -235,7 +333,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |7%
 |8%
 |{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-23%"|23%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-23"|23
 |-
 |{{opdrts||22|Feb|2023}}
 |[https://peoplepolling.org/tables/202302_GBN_W8_full.pdf#subsection*.12 PeoplePolling]
@@ -249,7 +347,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |8%
 |9%
 |4%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-26%"|26%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-26"|26
 |-
 |{{opdrts|17|20|Feb|2023}}
 |[https://deltapoll.co.uk/wp-content/uploads/2023/02/Deltapoll-230220_trackers_1.pdf Deltapoll]
@@ -263,7 +361,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |3%
 |2%
 |{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>[[UKIP]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22%"|22%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22"|22
 |-
 |{{opdrts|16|20|Feb|2023}}
 |[https://www.kantarpublic.com/inspiration/thought-leadership/almost-six-in-ten-britons-think-the-country-is-heading-in-the-wrong-direction Kantar Public]
@@ -277,7 +375,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |7%
 |5%
 |{{Hidden|1%|[[UKIP]] on 1%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17%"|17%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17"|17
 |-
 |{{opdrts|17|19|Feb|2023}}
 |[https://twitter.com/Savanta_UK/status/1628739339248189441 Savanta]
@@ -291,7 +389,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |3%
 |4%
 |4%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-14%"|14%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-14"|14
 |-
 |{{opdrts||18|Feb|2023}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-18-february-2023/ Redfield & Wilton]
@@ -305,7 +403,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |6%
 |1%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-27%"|27%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-27"|27
 |-
 |{{opdrts|15|17|Feb|2023}}
 |[https://www.opinium.com/wp-content/uploads/2023/02/VI-2023-02-15-Observer-Tables-V1.xlsx Opinium]
@@ -319,7 +417,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |6%
 |7%
 |{{Hidden|2%|[[Plaid Cymru]] on 0%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-16%"|16%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-16"|16
 |-
 |{{opdrts|15|16|Feb|2023}}
 |[https://www.omnisis.co.uk/poll-results/vi-22-results-17-02-2023/ Omnisis]
@@ -333,7 +431,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |7%
 |1%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-23|23%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-23"|23
 |-
 |-
 |{{opdrts|15|16|Feb|2023}}
@@ -348,7 +446,21 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |6%
 |3%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21|21%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21"|21
+|-
+|{{opdrts|10|16|Feb|2023}}
+|[https://twitter.com/Survation/status/1634237053004070917 Survation]
+|N/A
+|UK
+|6,094
+|29%
+|style="background:#FFCCD9;color:black"|'''48%'''
+|8%
+|3%
+|3%
+|4%
+|{{Hidden|6%|[[Plaid Cymru]] on 1%<br/>[[UKIP]] on 1%<br/>Other on 3%|headerstyle=font-weight:normal;line-height:9px;}}
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-19"|19
 |-
 |{{opdrts||15|Feb|2023}}
 |[https://peoplepolling.org/tables/202302_GBN_W7_full.pdf#subsection*.12 PeoplePolling]
@@ -362,7 +474,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |8%
 |7%
 |4%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-27%"|27%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-27"|27
 |-
 |{{opdrts|14|15|Feb|2023}}
 |[https://docs.cdn.yougov.com/r2r7ejhs5x/TheTimes_VI_230215_W_.pdf YouGov]
@@ -376,7 +488,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |6%
 |7%
 |{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-28%"|28%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-28"|28
 |-
 |{{opdrts|10|13|Feb|2023}}
 |[https://deltapoll.co.uk/wp-content/uploads/2023/02/Deltapoll-230214_voteint.pdf Deltapoll]
@@ -390,7 +502,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |6%
 |3%
 |{{Hidden|2%|[[Plaid Cymru]] on 0%<br/>[[UKIP]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-20%"|20%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-20"|20
 |-
 |{{opdrts||12|Feb|2023}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-12-february-2023/ Redfield & Wilton]
@@ -404,7 +516,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |6%
 |1%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21%"|21%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21"|21
 |-
 |{{opdrts|10|12|Feb|2023}}
 |[https://dashboard.focaldata.com/public/a69bbaad-f6d6-4548-a7da-c08b587bc36c Focaldata]
@@ -418,7 +530,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |4%
 |6%
 |2%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-20%"|20%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-20"|20
 |-
 |{{opdrts|10|12|Feb|2023}}
 |[https://twitter.com/Savanta_UK/status/1626210647322300416 Savanta]
@@ -432,7 +544,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |4%
 |5%
 |4%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17%"|17%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17"|17
 |-
 |{{opdrts|9|10|Feb|2023}}
 |[https://omnisis.co.uk/poll-results/vi-21-results-10-02-2023/ Omnisis]
@@ -446,7 +558,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |4%
 |8%
 |1%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21|21%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21"|21
 |-
 |{{opdrts||9|Feb|2022}}
 |colspan="12"|[[2023 West Lancashire by-election|West Lancashire by-election]]<ref>{{Cite news|title=West Lancashire: Tories out of road, say Labour after by-election win|url=https://www.bbc.co.uk/news/uk-england-lancashire-64570223 |date=10 February 2023|access-date=11 February 2023 |publisher=BBC News |language=en}}</ref>
@@ -463,7 +575,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |6%
 |7%
 |3%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-29%"|29%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-29"|29
 |-
 |{{opdrts|8|9|Feb|2023}}
 |[https://www.techneuk.com/wp-content/uploads/2023/02/R54-UK-2023-2-9-DATA.pdf Techne]
@@ -477,7 +589,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |6%
 |3%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21%"|21%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21"|21
 |-
 |{{opdrts|8|9|Feb|2023}}
 |[https://docs.cdn.yougov.com/3215o4rfag/TheTimes_VI_Results_230209.pdf YouGov]
@@ -491,7 +603,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |6%
 |6%
 |{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-23%"|23%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-23"|23
 |-
 |{{opdrts|3|6|Feb|2023}}
 |[https://deltapoll.co.uk/wp-content/uploads/2023/02/Deltapoll-230206_voteint.pdf Deltapoll]
@@ -505,7 +617,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |4%
 |5%
 |{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>[[UKIP]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-18%"|18%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-18"|18
 |-
 |{{opdrts|1|6|Feb|2023}}
 |[https://cdn.survation.com/wp-content/uploads/2023/02/12154515/Survation_VI_07_02_23.xlsx Survation]
@@ -519,7 +631,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |6%
 |{{Hidden|6%|[[Plaid Cymru]] on 1%<br/>[[United Kingdom Independence Party|UKIP]] on 1%<br/>Other on 4%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-16%"|16%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-16"|16
 |-
 |{{opdrts||5|Feb|2023}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-5-february-2023/ Redfield & Wilton]
@@ -533,7 +645,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |6%
 |{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-26%"|26%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-26"|26
 |-
 |{{opdrts|3|5|Feb|2023}}
 |[https://savanta.com/knowledge-centre/published-polls/westminster-voting-intention-savanta-7-february-2023/ Savanta]
@@ -547,7 +659,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |4%
 |5%
 |4%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-19%"|19%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-19"|19
 |-
 |{{opdrts|27|5|Feb|2023|}}
 |[https://www.electoralcalculus.co.uk/blogs/ec_mrppoll_20230209.html FindOutNow/Electoral Calculus]
@@ -561,7 +673,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |5%
 |?
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-25|25%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-25"|25
 |-
 |{{opdrts|2|3|Feb|2023}}
 |[https://omnisis.co.uk/poll-results/vi-20-results-03-02-2023/ Omnisis]
@@ -575,7 +687,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |6%
 |{{Hidden|3%|Other on 1%<br/>Independent on 2%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24|24%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24"|24
 |-
 |{{opdrts|1|2|Feb|2023}}
 |[https://www.techneuk.com/wp-content/uploads/2023/02/R53-UK-2023-2-2-DATA.pdf Techne]
@@ -589,7 +701,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |4%
 |7%
 |2%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21|21%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21"|21
 |-
 |{{opdrts||1|Feb|2023}}
 |[https://peoplepolling.org/tables/202302_GBN_W5_full.pdf#subsection*.12 PeoplePolling]
@@ -603,7 +715,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |7%
 |7%
 |2%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24%"|24%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24"|24
 |-
 |{{opdrts|31|1|Feb|2023}}
 |[https://docs.cdn.yougov.com/523wfnrggo/TheTimes_VI_230201_W.pdf YouGov]
@@ -617,7 +729,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |6%
 |6%
 |{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24%"|24%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24"|24
 |-
 |{{opdrts|26|30|Jan|2023}}
 |[https://deltapoll.co.uk/wp-content/uploads/2023/01/Deltapoll-230130_voteint.pdf Deltapoll]
@@ -631,7 +743,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |4%
 |4%
 |2%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17%"|17%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17"|17
 |-
 |{{opdrts||29|Jan|2023}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-29-january-2023/ Redfield & Wilton]
@@ -645,7 +757,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |5%
 |1%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21%"|21%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21"|21
 |-
 |{{opdrts||29|Jan|2023}}
 |[https://savanta.com/knowledge-centre/published-polls/westminster-voting-intention-savanta-3-february-2023/ Savanta]
@@ -659,7 +771,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |4%
 |6%
 |5%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21%"|21%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21"|21
 |-
 |{{opdrts|26|27|Jan|2023}}
 |[https://omnisis.co.uk/media/1213/vi-019-tabs-levellingup-270123.xlsx Omnisis]
@@ -673,7 +785,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |6%
 |7%
 |2%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24|24%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24"|24
 |-
 |{{opdrts|25|26|Jan|2023}}
 |[https://www.techneuk.com/wp-content/uploads/2023/01/R52-UK-2023-1-27-DATA.pdf Techne]
@@ -687,7 +799,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |7%
 |3%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21|21%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21"|21
 |-
 |{{opdrts|24|26|Jan|2023}}
 |[https://www.bmgresearch.co.uk/wp-content/uploads/2023/01/30012023-The-i-published-tables.xlsx BMG]
@@ -701,7 +813,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |3%
 |6%
 |{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17%"|17%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-17"|17
 |-
 |{{opdrts|24|25|Jan|2023}}
 |[https://docs.cdn.yougov.com/rtocaln566/TheTimes_VI_230125_W.pdf YouGov]
@@ -715,7 +827,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |7%
 |6%
 |{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-19%"|19%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-19"|19
 |-
 |{{opdrts|18|25|Jan|2023}}
 |[https://www.ipsos.com/sites/default/files/ct/news/documents/2023-01/Ipsos%20UK%20January%202023%20Political%20Monitor%20tabs_300123_PUBLIC.pdf Ipsos]
@@ -729,7 +841,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |2%
 |{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>[[United Kingdom Independence Party|UKIP]] on 1%<br/>[[British National Party|BNP]] on 1%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-25|25%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-25"|25
 |-
 |{{opdrts||24|Jan|2023}}
 |[https://peoplepolling.org/tables/202301_GBN_W4_full.pdf PeoplePolling]
@@ -743,7 +855,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |7%
 |3%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-29%"|29%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-29"|29
 |-
 |{{opdrts||22|Jan|2023}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-22-january-2023/ Redfield & Wilton]
@@ -757,7 +869,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |4%
 |6%
 |1%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22%"|22%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22"|22
 |-
 |{{opdrts|19|21|Jan|2023}}
 |[https://deltapoll.co.uk/polls/voteint230123 Deltapoll]
@@ -771,7 +883,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |4%
 |2%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-14%"|14%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-14"|14
 |-
 |{{opdrts|19|20|Jan|2023}}
 |[https://omnisis.co.uk/media/1208/vi-018-tabs-210123.xlsx Omnisis]
@@ -785,7 +897,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |5%
 |3%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-26|26%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-26"|26
 |-
 |{{opdrts|18|19|Jan|2023}}
 |[https://www.techneuk.com/wp-content/uploads/2023/01/R51-UK-2023-1-20-DATA.pdf Techne]
@@ -799,7 +911,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |6%
 |3%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-19|19%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-19"|19
 |-
 |{{opdrts|18|19|Jan|2023}}
 |[https://docs.cdn.yougov.com/2mwtp3vlaa/TheTimes_VI_230119_W.pdf YouGov]
@@ -813,7 +925,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |7%
 |{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22%"|22%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22"|22
 |-
 |{{opdrts||18|Jan|2023}}
 |[https://peoplepolling.org/tables/202301_GBN_W3_full.pdf#subsection*.12 PeoplePolling]
@@ -827,7 +939,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |9%
 |8%
 |3%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24%"|24%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24"|24
 |-
 |{{opdrts|17|18|Jan|2023}}
 |[https://twitter.com/Samfr/status/1618164171685724166?t=GnwttyULmvoQwu-De87xxw&s=19 Focaldata]
@@ -841,7 +953,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |4%
 |7%
 |4%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-25%"|25%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-25"|25
 |-
 |{{opdrts|12|16|Jan|2023}}
 |[https://deltapoll.co.uk/wp-content/uploads/2023/01/Deltapoll-230116_voteint.pdf Deltapoll]
@@ -855,7 +967,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |4%
 |{{Hidden|3%|[[UKIP]] on 3%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-16%"|16%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-16"|16
 |-
 |{{opdrts||15|Jan|2023}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-15-january-2023/ Redfield & Wilton]
@@ -869,7 +981,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |6%
 |1%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-20%"|20%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-20"|20
 |-
 |{{opdrts|11|13|Jan|2023}}
 |[https://www.opinium.com/wp-content/uploads/2023/01/VI-2023-01-11-Data-Tables-Observer.xlsx Opinium]
@@ -883,7 +995,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |6%
 |{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-16%"|16%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-16"|16
 |-
 |{{opdrts|11|12|Jan|2023}}
 |[https://www.techneuk.com/wp-content/uploads/2023/01/R50-UK-2023-1-13-DATA.pdf Techne]
@@ -897,7 +1009,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |7%
 |3%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21%"|21%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21"|21
 |-
 |{{opdrts|11|12|Jan|2023}}
 |[https://omnisis.co.uk/media/1205/vi-017-tabs-130123.xlsx Omnisis]
@@ -911,7 +1023,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |7%
 |3%
 |1%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-20%"|20%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-20"|20
 |-
 |{{opdrts||11|Jan|2023}}
 |[https://peoplepolling.org/tables/202301_GBN_W2_full.pdf#subsection*.12 PeoplePolling]
@@ -925,7 +1037,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |7%
 |7%
 |8%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-27%"|27%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-27"|27
 |-
 |{{opdrts|10|11|Jan|2023}}
 |[https://docs.cdn.yougov.com/rjchg92y4u/TheTimes_VI_Strikes_230111_W.pdf YouGov]
@@ -939,7 +1051,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |7%
 |{{Hidden|2%|[[Plaid Cymru]] on 1%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22%"|22%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22"|22
 |-
 |{{opdrts|20|11|Jan|2023}}
 |[https://www2.politicalbetting.com/index.php/archives/2023/01/20/just-42-of-ge2019-con-voters-now-back-sunaks-party-yougov/ YouGov]
@@ -953,7 +1065,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |7%
 |{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-23%"|23%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-23"|23
 |-
 |{{opdrts||8|Jan|2023}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-8-january-2023/ Redfield & Wilton]
@@ -967,7 +1079,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |6%
 |2%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22%"|22%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22"|22
 |-
 |{{opdrts||8|Jan|2023}}
 |[https://deltapoll.co.uk/wp-content/uploads/2023/01/Deltapoll-230109_voteint.pdf Deltapoll]
@@ -981,7 +1093,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |3%
 |{{Hidden|3%|[[UKIP]] on 2%<br/>Other on 1%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-14%"|14%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-14"|14
 |-
 |{{opdrts|5|6|Jan|2023}}
 |[https://omnisis.co.uk/media/1201/vi-016-tabs-happy-new-year-060123.xlsx Omnisis]
@@ -995,7 +1107,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |4%
 |4%
 |1%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22%"|22%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-22"|22
 |-
 |{{opdrts|4|5|Jan|2023}}
 |[https://docs.cdn.yougov.com/nr27ysntzp/TheTimes_VI_230105_W.pdf YouGov]
@@ -1009,7 +1121,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |6%
 |7%
 |{{Hidden|3%|[[Plaid Cymru]] on 1%<br/>Other on 2%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21%"|21%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21"|21
 |-
 |{{opdrts|4|5|Jan|2023}}
 |[https://www.techneuk.com/wp-content/uploads/2022/12/R48-UK-2022-12-23-DATA.pdf Techne]
@@ -1023,7 +1135,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |5%
 |8%
 |3%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21%"|21%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-21"|21
 |-
 |{{opdrts||4|Jan|2023}}
 |[https://peoplepolling.org/tables/202212_GBN_W51_full.pdf#subsection*.12 PeoplePolling]
@@ -1037,7 +1149,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |7%
 |8%
 |{{Hidden|7%|[[Plaid Cymru]] on 1%<br/>Other on 6%|headerstyle=font-weight:normal;line-height:9px;}}
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24%"|24%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-24"|24
 |-
 |{{opdrts|2|3|Jan|2023}}
 |[https://redfieldandwiltonstrategies.com/latest-gb-voting-intention-2-3-january-2023/ Redfield & Wilton]
@@ -1051,7 +1163,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 |3%
 |5%
 |1%
-|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-20%"|20%
+|style="background:{{party color|Labour Party (UK)}};color:#FFFFFF;" data-sort-value="-20"|20
 |}
 
 === 2022 ===
@@ -6130,7 +6242,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 
 === 2021 ===
 {{For|political events during the year|2021 in United Kingdom politics and government}}
-{|class="wikitable sortable tpl-blanktable mw-collapsible mw-collapsed" style="text-align:center;font-size:90%;line-height:14px;"
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
 ! rowspan="2"|Dates<br>conducted
 ! rowspan="2"|Pollster
 ! rowspan="2"|Client
@@ -9935,7 +10047,7 @@ Most opinion polls do not cover [[Northern Ireland]], which has [[List of politi
 
 === 2020 ===
 {{For|events during the year|2020 in the United Kingdom}}
-{| class="wikitable sortable tpl-blanktable mw-collapsible mw-collapsed" style="text-align:center;font-size:90%;line-height:14px;"
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
 ! rowspan="2" | Dates<br>conducted
 ! rowspan="2"| Pollster
 ! rowspan="2"| Client

@@ -41,6 +41,18 @@ Opinion polls conducted prior to the campaign and the announcement of the list o
 |bgcolor={{party color|Party of Growth}}|
 |bgcolor={{party color|Civic Platform (Russia)}}|
 |-
+|3–5 Mar
+|[https://media.fom.ru/fom-bd/d09pi2023.pdf FOM]
+|1,500
+|style="background:#B3E0FF" |'''45'''||'''9'''||'''7'''||3||3||1||1||0||1||0||1||0||0||0||–||14||13
+|style="background:#0C2C84; color:white;"|36
+|-
+|27 Feb–5 Mar
+|[https://wciom.ru/analytical-reviews/analiticheskii-obzor/reitingi-doverija-politikam-ocenki-raboty-prezidenta-i-pravitelstva-podderzhka-politicheskikh-partii-20230310 WCIOM]
+|11,200
+|style="background:#B3E0FF" |'''38.8'''||'''10.3'''||'''8.7'''||'''5.3'''||4.4||colspan=10|9.7||10.0||11.1
+|style="background:#0C2C84; color:white;"|28.5
+|-
 |24–26 Feb
 |[https://media.fom.ru/fom-bd/d08pi2023.pdf FOM]
 |1,500

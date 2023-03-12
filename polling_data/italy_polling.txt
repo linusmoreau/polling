@@ -37,6 +37,60 @@ Parties or lists are ordered according to their share of the vote in 2022.
 ! style="background:{{party color|Sovereign and Popular Italy}};" | 
 ! style="background:{{party color|Us Moderates}};" |
 |-
+|{{Opdrts|9|10|Mar|2023}}
+|[https://www.dire.it/11-03-2023/882746-sondaggio-dire-tecne-scende-ancora-la-fiducia-nel-governo-e-nella-premier-meloni/ Tecnè]
+|1,000
+| style="background:#E5E7FF;" |'''30.6'''
+|18.6
+|16.0
+|8.9
+|7.4
+|7.4
+|2.8
+|2.4
+|1.8
+|
+|
+|
+|4.1
+| style="background:{{party color|Brothers of Italy}}; color:#FFFFFF;" |12.0
+|-
+|{{Opdrts||9|Mar|2023}}
+|[https://www.huffingtonpost.it/blog/2023/03/10/news/il_pd_risale_nei_sondaggi_schlein_ha_cambiato_lo_scenario-11546913/ Proger Index]
+|
+| style="background:#E5E7FF;" |'''30.0'''
+|18.9
+|16.0
+|9.0
+|6.1
+|8.0
+|3.5
+|2.8
+|1.9
+|
+|
+|
+|3.8
+| style="background:{{party color|Brothers of Italy}}; color:#FFFFFF;" |11.1
+|-
+|{{Opdrts|7|9|Mar|2023}}
+|[https://www.termometropolitico.it/1605010_sondaggi-tp-inchiesta-covid-un-terzo-degli-italiani-esclude-colpevoli.html Termometro Politico]
+|4,200
+| style="background:#E5E7FF;" |'''29.2'''
+|18.0
+|16.8
+|9.3
+|7.2
+|7.6
+|2.2
+|2.3
+|2.4
+|1.3
+|1.6
+|
+|2.1
+| style="background:{{party color|Brothers of Italy}}; color:#FFFFFF;" |11.2
+|-
 |{{Opdrts|1|6|Mar|2023}}
 |[https://tg.la7.it/sondaggi/il-sondaggio-politico-di-luned%C3%AC-6-marzo-2023-06-03-2023-180889 SWG]
 |1,200
@@ -92,7 +146,7 @@ Parties or lists are ordered according to their share of the vote in 2022.
 | style="background:{{party color|Brothers of Italy}}; color:#FFFFFF;" |12.7
 |-
 |{{Opdrts||2|Mar|2023}}
-|[http://www.sondaggipoliticoelettorali.it/StampaSondaggio.aspx/ Proger Index]
+|[https://www.panorama.it/news/ultimi-sondaggi-politica-voto-lega-m5s-pd-forza-italia-voto-elezioni Proger Index]
 |800
 | style="background:#E5E7FF;" |'''30.1'''
 |17.8
@@ -308,7 +362,7 @@ Parties or lists are ordered according to their share of the vote in 2022.
 | style="background:{{party color|Brothers of Italy}}; color:#FFFFFF;" |12.6
 |-
 |{{Opdrts||22|Feb|2023}}
-|[http://www.sondaggipoliticoelettorali.it/StampaSondaggio.aspx/ Proger Index]
+|[http://www.sondaggipoliticoelettorali.it/ListaSondaggi.aspx Proger Index]
 |800
 | style="background:#E5E7FF;" |'''30.5'''
 |16.3

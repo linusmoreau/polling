@@ -14,6 +14,7 @@
  {{Legend-line|{{party color|Alliance for the Fatherland}} solid 5px|[[Alliance for the Fatherland|ApP]]}}
  {{Legend-line|{{party color|Force of the Right}} solid 5px|[[Force of the Right|FD]]}}
  {{Legend-line|#c40075 solid 5px|[[Renewing Romania's European Project|REPER]]}}
+ {{Legend-line|{{{{party color|Alliance 90/The Greens}}}} solid 5px|[[Green Party (Romania)|PV]]}}
 }}]]
 
 {{see also if exists|2020 in Romania|2021 in Romania|2022 in Romania|2023 in Romania|2024 in Romania}}
@@ -33,10 +34,10 @@
 ! class="unsortable" style="width:30px;" | [[People's Movement Party|PMP]]
 ! class="unsortable" style="width:30px;" | [[PRO Romania|PRO]]{{efn|Also contained [[Alliance of Liberals and Democrats (Romania)|ALDE]] in its overall political score at the [[2020 Romanian legislative election|2020 legislative elections]].}}
 ! class="unsortable" style="width:30px;letter-spacing:-1px;" | [[Social Liberal Humanist Party|PUSL]]
+![[Ecologist Party of Romania|PER]]
 ! class="unsortable" style="width:15px;" | [[Green Party (Romania)|PV]]
-! class="unsortable" style="width:30px;" | [[Alliance for the Homeland|ApP]]
+![[Renewing Romania's European Project|PR]]
 ! class="unsortable" style="width:15px;" | [[Force of the Right|FD]]
-![[Renewing Romania's European Project|REPER]]
 ! rowspan="2" style="width:45px;" | [[List of political parties in Romania|Others]]
 ! rowspan="2" style="width:45px;" | Lead
 |-
@@ -48,15 +49,15 @@
 ! data-sort-type="number" style="background:{{party color|People's Movement Party}};" |
 ! data-sort-type="number" style="background:{{party color|PRO Romania}};" |
 ! data-sort-type="number" style="background:{{party color|Conservative Party (Romania)}}" |
-! data-sort-type="number" style="background:{{party color|Green Party (Romania)}};" |
-! data-sort-type="number" style="background:{{party color|Alliance for the Fatherland}};" |
-! data-sort-type="number" style="background:{{party color|Force of the Right}};" |
+! data-sort-type="number" style="background:{{party color|Ecologist Party of Romania}}" |
+! data-sort-type="number" style="background:{{party color|Alliance 90/The Greens}};" |
 ! data-sort-type="number" style="background:{{party color|Renewing Romania's European Project}};" |
+! data-sort-type="number" style="background:{{party color|Force of the Right}};" |
 |-
 | 5–19 Feb 2023
 | [https://www.digi24.ro/stiri/actualitate/politica/sondaj-inscop-psd-pnl-si-aur-in-crestere-in-luna-februarie-liberalii-au-castigat-doua-procente-2267465 INSCOP]
 | 3,000
-| style="background:#F9C8CA"| '''31.7'''
+| style="background:#F9C8CA" | '''31.7'''
 | 22.3
 | 11.2
 | 18.2
@@ -64,17 +65,35 @@
 | 2.9
 | 2.4
 | {{N/A}}
+| {{N/A}}
 | 1.4
 | {{N/A}}
 | {{N/A}}
-| {{N/A}}
-| 3.9
+| 5.4
 | style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" |9.4
+|-
+|1–13 Feb 2023
+|[https://turdanews.net/cu-cine-ar-vota-romanii-daca-ar-fi-alegeri-duminica-aur-mai-popular-decat-usr/ INSCOP]
+|1,000
+| style="background:#F9C8CA" | '''30.4'''
+|21.6
+|10.9
+|19.1
+|4.3
+|3.0
+|2.9
+| {{N/A}}
+|1.6
+|2.7
+|0.1
+|0.7
+|2.7
+|style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" |8.8
 |-
 | 27–30 Jan 2023
 | [https://www.digi24.ro/stiri/actualitate/politica/sondaj-mircea-geoana-ar-castiga-alegerile-prezidentiale-ciolacu-ar-avea-sanse-doar-in-finala-cu-simion-2235397 Atlas Intel]
 | 2,000
-| style="background:#F9C8CA"| '''24.8'''
+| style="background:#F9C8CA" | '''24.8'''
 | 17.2
 | 12.4
 | 17.9
@@ -82,17 +101,17 @@
 | 5.9
 | 4.0
 | {{N/A}}
-|  {{N/A}}
 | {{N/A}}
-| 2.9
+| {{N/A}}
 | 1.9
+| 2.9
 | 2.8
 | style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" |6.9
 |-
 | 10–20 Jan 2023
 | [https://www.aktual24.ro/sondaj-ianuarie-83-dintre-romani-cer-eliminarea-pensiilor-speciale-75-spun-ca-romania-merge-intr-o-directie-gresita CURS]
 | 1,067
-|style="background:#F9C8CA"| '''36.0'''
+| style="background:#F9C8CA" | '''36.0'''
 | 22.0
 | 8.0
 | 14.0
@@ -105,7 +124,7 @@
 | {{N/A}}
 | {{N/A}}
 | 3.0
-| style="background:{{party color|Social Democratic Party (Romania)}}; color:white;"|14.0
+| style="background:{{party color|Social Democratic Party (Romania)}}; color:white;" |14.0
 |-
 ! rowspan="2" data-sort-value="2020-12-06" | 6 December 2020
 ! [[2020 Romanian legislative election|2020 Chamber election]]
@@ -118,8 +137,8 @@
 ! 4.82
 ! 4.09
 ! 1.19
+!1.12
 !0.35
-! {{n/a}}
 ! {{n/a}}
 ! {{n/a}}
 ! 6.82
@@ -135,8 +154,8 @@
 ! 4.93
 ! 4.13
 ! 1.01
+!1.33
 !0.40
-! {{n/a}}
 ! {{n/a}}
 ! {{n/a}}
 ! 5.12

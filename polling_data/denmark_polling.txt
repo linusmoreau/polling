@@ -46,8 +46,8 @@
 ! rowspan="2" class="unsortable" style="width:30px;" | {{tooltip|2=V, O, C, D, I, K and Æ|Blue}}
 ! colspan="2" style="width:25px;letter-spacing:-1px;" " | Lead
 |-
-! rowspan="2" |All parties
-! rowspan="2" |Above [[Electoral threshold|2%]]
+! All parties
+! Above [[Electoral threshold|2%]]
 |-
 ! data-sort-type="number" style="background:{{party color|Social Democrats (Denmark)}};" |
 ! data-sort-type="number" style="background:{{party color|Venstre (Denmark)}};" |
@@ -69,7 +69,7 @@
 |-
 |[https://twitter.com/Annamidtgaard/status/1632746264025522176/photo/1 Voxmeter]
 |27 Feb–5 Mar 2023
-|1.015
+|1,015
 | style="background:#FACECD;" |'''18.6'''
 |11.9
 |7.9
@@ -389,8 +389,8 @@
 ! rowspan="2" class="unsortable" style="width:30px;" | {{tooltip|2=V, O, C, D, I, K and Æ|Blue}}
 ! colspan="2" style="width:25px;letter-spacing:-1px;" " | Lead
 |-
-! rowspan="2" |All parties
-! rowspan="2" |Above [[Electoral threshold|2%]]
+! All parties
+! Above [[Electoral threshold|2%]]
 |-
 ! data-sort-type="number" style="background:{{party color|Social Democrats (Denmark)}};" |
 ! data-sort-type="number" style="background:{{party color|Venstre (Denmark)}};" |

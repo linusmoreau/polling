@@ -35,6 +35,38 @@ There are several websites tracking party support ahead of the election, using s
 ! style="background:{{party color|Conservative Party of Norway (2020)}};"|
 ! style="background:{{party color|Progress Party (Norway)}};"|
 |-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4812 Norfakta]
+|{{opdrts|7|8|Mar|2023}}
+|1000
+|74.0
+|5.4
+|10.6
+|3.3
+|16.5
+|7.2
+|3.6
+|3.7
+| style="background:#B5D5FF;" |'''32.9'''
+|11.0
+|5.8
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |16.4
+|-
+|[http://www.pollofpolls.no/?cmd=Maling&gallupid=4807 Opinion]
+|{{opdrts|28|6|Mar|2023}}
+|999
+|70.0
+|5.0
+|7.9
+|2.4
+|15.5
+|6.2
+|4.8
+|4.1
+| style="background:#B5D5FF;" |'''36.9'''
+|12.2
+|5.1
+| style="background:{{party color|Conservative Party of Norway (2020)}};color:#FFFFFF;" |21.4
+|-
 |[http://www.pollofpolls.no/?cmd=Maling&gallupid=4806 Kantar]
 |{{opdrts|27|3|Mar|2023}}
 |992

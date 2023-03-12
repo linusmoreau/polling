@@ -27,6 +27,53 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{party color|Greeks for the Fatherland}};"|
 ! style="background:#1c3382;"|
 |- 
+| Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview: Απώλειες για ΝΔ και ΣΥΡΙΖΑ – Στο 3,6% η διαφορά τους
+ |url=https://www.flash.gr/politiki/2075728/dimoskopisi-interview-apoleies-gia-nd-kai-syriza-sto-36-i-diafora-tous |language=el |work=Politic.gr |date=10 March 2023}}</ref>
+| 6–9 Mar 2023
+| 1,000
+| {{Party shading/ND}}| '''33.7'''
+| 29.4
+| 10.8
+| 6.6
+| 5.1
+| 4.2
+| –
+| 1.9
+| 1.8
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 4.3
+|- 
+| GPO/Parapolitika<ref>{{cite web |title=Δημοσκόπηση GPO για τα Παραπολιτικά: Προβάδισμα 3,9 μονάδων της ΝΔ έναντι του ΣΥΡΙΖΑ |url=https://www.parapolitika.gr/politiki/article/1257557/dimoskopisi-gpo-gia-ta-parapolitika-provadisma-39-monadon-tis-nd-enadi-tou-suriza// |language=el |work=Parapolitika |date=11 March 2023}}</ref>
+| 6–8 Mar 2023
+| 1,000
+| {{Party shading/ND}}| '''35.2'''
+| 30.6
+| 11.0
+| 8.0
+| 3.6
+| 3.9
+| –
+| 1.7
+| 1.7
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 4.6
+|- 
+| Marc/ANT1<ref>{{Cite web |date=2023-03-09 |title=Γκάλοπ Marc: Έχασε 2,9 μονάδες η ΝΔ μετά τα Τέμπη - Δεν πήρε τίποτα ο ΣΥΡΙΖΑ - Στο 4,6% η διαφορά |url=https://www.protothema.gr/politics/article/1348168/dimoskopisi-marc-ehase-29-monades-i-kuvernisi-meta-ta-tebi-sto-46-i-diafora-apo-ton-suriza/ |access-date=2023-03-09 |website=ProtoThema |language=el}}</ref><ref>{{Cite web |last=root |date=2023-03-09 |title=Δημοσκόπηση: Χάνει 2,9 μονάδες η ΝΔ μετά τα Τέμπη – Δεν κερδίζει ο ΣΥΡΙΖΑ – Κλείνει η ψαλίδα |url=http://www.ot.gr/2023/03/09/epikairothta/politiki/dimoskopisi-xanei-29-monades-i-nd-meta-ta-tempi-den-kerdizei-o-syriza-kleinei-i-psalida/ |access-date=2023-03-09 |website=Οικονομικός Ταχυδρόμος - ot.gr |language=el}}</ref>
+| 4–7 Mar 2023
+| 1,241
+| {{Party shading/ND}}| '''34.7'''
+| 29.3
+| 11.4
+| 6.6
+| 4.6
+| 4.1
+| –
+| 3.5
+| 1.5
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 5.4
+|- style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden;" data-sort-value="2023-03-01" | 28 Feb 2023
+| colspan="11" | [[Tempi train crash]]
+|- 
 | Alco/Alpha<ref>{{Cite web |last=Capital.gr |title=Δημοσκόπηση Alco: Στις 7 μονάδες η διαφορά ΝΔ – ΣΥΡΙΖΑ |url=https://www.capital.gr/politiki/3699954/dimoskopisi-alco-stis-7-monades-i-diafora-nd-suriza |access-date=2023-02-20 |website=Capital.gr |language=el}}</ref>
 | 16–18 Feb 2023
 | 1,004
@@ -149,7 +196,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.5
 | 4.5
 | 3.0
-| {{font color|grey|<s>1.0</s>}}
+| 1.0
 | 3.0
 | 1.0
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.0
@@ -457,7 +504,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.0
 | 4.5
 | 3.0
-| {{font color|grey|<s>1.0</s>}}
+| 1.0
 | 2.0
 | 1.5
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.5
@@ -695,7 +742,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.0
 | 4.0
 | 3.0
-| {{font color|grey|<s>1.0</s>}}
+| 1.0
 | 2.0
 | 1.0
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.0
@@ -1101,7 +1148,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.1
 | 4.2
 | 3.2
-| {{font color|grey|<s>1.1</s>}}
+| 1.1
 | 2.9
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 6.2
@@ -1368,7 +1415,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.5
 | 3.0
 | 3.8
-| {{font color|grey|<s>1.0</s>}}
+| 1.0
 | 1.3
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 8.2
@@ -1564,7 +1611,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.2
 | 4.1
 | 4.0
-| {{font color|grey|<s>2.4</s>}}
+| 2.4
 | 1.1
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 13.1
@@ -1652,7 +1699,11 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.0
-|-
+|- style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden;" data-sort-value="2021-12-12" | 12 Dec 2021
+| colspan="11" | [[Nikos Androulakis]] becomes leader of [[PASOK – Movement for Change]]
+|- 
 | MRB/Star<ref>{{cite web |title=Δημοσκόπηση MRB: Στις 11 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ, άνοδος ΚΙΝΑΛ |url=https://www.liberal.gr/politics/dimoskopisi-mrb-stis-11-monades-i-diafora-nd-suriza-anodos-kinal/421082 |language=el |work=Liberal.gr |date=17 December 2021}}</ref>
 | 1–10 Dec 2021
 | 1,500
@@ -1718,7 +1769,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.4
 | 4.9
 | 3.6
-| {{font color|grey|<s>1.9</s>}}
+| 1.9
 | 1.9
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.1
@@ -1746,7 +1797,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.0
 | 5.1
 | 4.4
-| {{font color|grey|<s>1.2</s>}}
+| 1.2
 | 2.4
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 11.6
@@ -1774,7 +1825,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 6.7
 | 5.7
 | 5.3
-| {{font color|grey|<s>1.6</s>}}
+| 1.6
 | 1.8
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.8
@@ -1806,7 +1857,11 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.1
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.9
-|-
+|- style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden;" data-sort-value="2021-10-25" | 25 Oct 2021
+| colspan="11" | [[Fofi Gennimata]], the leader of [[PASOK – Movement for Change]], dies
+|- 
 | Pulse RC/Skai<ref>{{cite web |title=Pulse RC. 22 - 25 Οκτωβρίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-11/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20021121.pdf |language=el |work=Pulse RC |date=2 November 2021}}</ref>
 | 22–25 Oct 2021
 | 1,907
@@ -1956,7 +2011,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 5.9
 | 4.6
 | 4.2
-| {{font color|grey|<s>1.2</s>}}
+| 1.2
 | 2.1
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.0
@@ -3044,7 +3099,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1,000
 | {{Party shading/ND}}|'''44.4'''
 | 25.2
-| 7.8
+| 7.8f
 | 6.1
 | 5.2
 | 3.4

@@ -34,6 +34,23 @@ The opinion poll results below were recalculated from the original data and excl
 ! style="background:{{party color|The Left (Bulgaria)}};" |
 ! style="background:{{party color|National Movement for Stability and Progress}};" |
 |-
+|[https://www.gallup-international.bg/46875/current-electoral-snapshot-the-beginning-of-march/ Gallup]
+|data-sort-value="2023-03-03"|24 Feb–3 Mar 2023
+|1,008
+|26.6
+|colspan="2" style="background:#FBE8AF"|'''27.2'''
+|13.4
+|12.3
+|7.3
+|3.7
+|–
+|3.4
+|3.2
+|–
+|2.9
+|–
+|class="unsortable" style="background:{{party color|We Continue the Change}};" |0.5
+|-
 |[https://alpharesearch.bg/post/1007-elektoralni-naglasi-na-starta-na-predizbornata-kampania.html Alpha Research]
 |data-sort-value="2023-02-27"|21–27 Feb 2023
 |1,007
