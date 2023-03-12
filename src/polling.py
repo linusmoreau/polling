@@ -675,12 +675,6 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
                 for k, entry in enumerate(table):
                     if entry[i + 1] is None:
                         purge.add(k)
-    # elif choice == 'Bulgaria':
-    #     if 'DB' in key:
-    #         i = key.index('DB')
-    #         for k, entry in enumerate(table):
-    #             if entry[i] is None:
-    #                 purge.add(k)
     elif choice == 'Brazil':
         i = key.index('firm')
         for k, entry in enumerate(table):
@@ -822,6 +816,18 @@ def choices_setup():
             if line not in d['col']:
                 d['col'][line] = d['col'][d['blocs'][line][0]]
 
+    def set_default_colours_gov():
+        if type(d['gov']).__name__ == 'list':
+            for period in d['gov']:
+                for group in period.groups:
+                    if group.colour is None:
+                        group.colour = d['col'][group.parties[0]]
+                    d['col'][group.name] = group.colour
+        else:
+            for line in d['gov'].keys():
+                if line not in d['col'].keys():
+                    d['col'][line] = d['col'][d['gov'][line][0]]
+
     for c, d in specs.items():
         if 'restart' not in d:
             d['restart'] = ['[http']
@@ -836,9 +842,7 @@ def choices_setup():
         if 'gov' not in d:
             d['gov'] = None
         elif d['gov'] is not None and 'col' in d:
-            for line in d['gov'].keys():
-                if line not in d['col'].keys():
-                    d['col'][line] = d['col'][d['gov'][line][0]]
+            set_default_colours_gov()
         if 'file_name' not in d:
             d['file_name'] = '../polling_data/' + c.lower().replace(' ', '_') + '_polling.txt'
         if 'old_data' not in d:
@@ -1037,7 +1041,7 @@ class GraphPage:
         src_button.show()
 
         self.spread_txt = Text(str(self.spread), (back_button.rect.centerx, back_button.rect.bottom + 8), align=TOP,
-                               background_colour=background_colour, colour=whitish if dark_mode else black)
+                               background_colour=BACKGROUND_COLOUR, colour=whitish if DARK_MODE else black)
         self.spread_txt.show()
 
         area = (self.spread_txt.rect.h, self.spread_txt.rect.h)
@@ -1079,7 +1083,7 @@ class GraphPage:
             self.change_view(view='parties')
         except:
             msg = Text("There was an error displaying the data (often caused by improperly entered/interpreted data)",
-                       screen_center, background_colour=background_colour, colour=whitish if dark_mode else black)
+                       screen_center, background_colour=BACKGROUND_COLOUR, colour=whitish if DARK_MODE else black)
             msg.show()
             bloc_button.disable()
             seats_button.disable()
@@ -1177,6 +1181,8 @@ class GraphPage:
             return ymax * 5 / 4
         except AttributeError:
             return False
+        except ValueError:
+            return False
 
     def improve_res(self, resratio):
         if self.metric == 'seats':
@@ -1206,30 +1212,61 @@ class GraphPage:
                 return None
             else:
                 relev: Dict = self.gov
+
         dat = {}
-        for b, ps in relev.items():
-            dat[b] = {}
-            for p in ps:
-                if p in idat:
-                    for x, ys in idat[p].items():
-                        if x in dat[b].keys():
-                            for i, y in enumerate(ys):
-                                if y is None:
-                                    continue
-                                else:
-                                    try:
-                                        if dat[b][x][i] is None:
-                                            dat[b][x][i] = y
-                                        else:
-                                            dat[b][x][i] += y
-                                    except IndexError:
-                                        dat[b][x].append(y)
-                        else:
-                            dat[b][x] = ys.copy()
+        if type(relev).__name__ == "dict":
+            for b, ps in relev.items():
+                dat[b] = {}
+                for p in ps:
+                    if p in idat:
+                        for x, ys in idat[p].items():
+                            if x in dat[b].keys():
+                                for i, y in enumerate(ys):
+                                    if y is None:
+                                        continue
+                                    else:
+                                        try:
+                                            if dat[b][x][i] is None:
+                                                dat[b][x][i] = y
+                                            else:
+                                                dat[b][x][i] += y
+                                        except IndexError:
+                                            dat[b][x].append(y)
+                            else:
+                                dat[b][x] = ys.copy()
+        else:
+            for period in relev:
+                start = date_kit.date_dif(today, period.start)
+                if period.end is None:
+                    end = None
+                else:
+                    end = date_kit.date_dif(today, period.end)
+                for group in period.groups:
+                    if group.name not in dat:
+                        dat[group.name] = {}
+                    for p in group.parties:
+                        if p in idat:
+                            for x, ys in idat[p].items():
+                                if x >= start and (end is None or x <= end):
+                                    if x in dat[group.name].keys():
+                                        for i, y in enumerate(ys):
+                                            if y is None:
+                                                continue
+                                            else:
+                                                try:
+                                                    if dat[group.name][x][i] is None:
+                                                        dat[group.name][x][i] = y
+                                                    else:
+                                                        dat[group.name][x][i] += y
+                                                except IndexError:
+                                                    dat[group.name][x].append(y)
+                                    else:
+                                        dat[group.name][x] = ys.copy()
+
         return dat
 
     def init_graph_data(self, dat, resratio=7):
-        if dat is not None:
+        if dat is not None and len(dat) > 0:
             start = min([min(d) for d in dat.values()])
             if self.end_date is None:
                 end = 0
@@ -1283,7 +1320,7 @@ class GraphPage:
             graph = GraphDisplay(screen_center, (screen_width, screen_height), dat, x_title=None,
                                  y_title=y_title, title=title, step=1, align=CENTER, colours=self.col,
                                  initial_date=today, leader=True, y_min=0, y_max=y_max, x_max=x_max, x_min=x_min,
-                                 dat_points=points, vlines=self.vlines, intg=intg, background_colour=background_colour)
+                                 dat_points=points, vlines=self.vlines, intg=intg, background_colour=BACKGROUND_COLOUR)
             with lock:
                 if self.graph is not None:
                     self.graph.hide()
@@ -1607,8 +1644,8 @@ def get_today():
 
 
 today = get_today()
-background_colour = darkest_grey
-dark_mode = is_dark(background_colour)
+BACKGROUND_COLOUR = darkest_grey
+DARK_MODE = is_dark(BACKGROUND_COLOUR)
 
 if __name__ == '__main__':
     save_loc = '../updated.txt'
@@ -1625,7 +1662,7 @@ if __name__ == '__main__':
     order = sort_choices(choices)
     menu_page = MenuPage(order)
     surface = pygame.Surface((screen_width, screen_height))
-    surface.fill(background_colour)
+    surface.fill(BACKGROUND_COLOUR)
 
     pygame.display.set_caption('Polling')
     icon = pygame.transform.scale((pygame.image.load("../images/graph.png")), (32, 32))

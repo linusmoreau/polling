@@ -1,5 +1,6 @@
 from date_kit import Date
 from base_ui import black, grey
+from grouping import *
 
 specs = {
     'Alberta': {
@@ -227,7 +228,14 @@ specs = {
         'col': {'SDP': (245, 75, 75), 'PS': (255, 222, 85), 'KOK': (0, 98, 136), 'KESK': (52, 154, 43),
                 'VIHR': (97, 191, 26), 'VAS': (240, 10, 100), 'SFP': (255, 221, 147), 'KD': (2, 53, 164),
                 'LIIK': (180, 31, 121)},
-        'gov': {'Government': ['SDP', 'KESK', 'VIHR', 'VAS', 'SFP'], 'Opposition': ['KOK', 'PS', 'KD', 'LIIK']},
+        'gov': [
+            Period([Group('Rinne Cabinet', ['SDP', 'KESK', 'VIHR', 'VAS', 'SFP']),
+                    Group('Opposition', ['KOK', 'PS', 'KD', 'LIIK'])],
+                   Date(2019, 6, 6), Date(2019, 12, 10)),
+            Period([Group('Marin Cabinet', ['SDP', 'KESK', 'VIHR', 'VAS', 'SFP']),
+                    Group('Opposition', ['KOK', 'PS', 'KD', 'LIIK'])],
+                   Date(2019, 12, 10))
+        ],
         'blocs': {'Left': ['SDP', 'VIHR', 'VAS'], 'Centre': ['KESK', 'SFP'], 'Right': ['KOK', 'KD', 'LIIK'],
                   'Nationalist': ['PS']},
         'start': 0,
