@@ -2,4 +2,4 @@
 __pycache__/
 updated.txt
 polling_data/*_polling.txt
-polling_data/!old_*_polling.txt
+!polling_data/old_*_polling.txt
