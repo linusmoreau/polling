@@ -28,6 +28,10 @@
 ! style="background:{{Canadian party colour|CA|Green}}" data-sort-type="number"|
 |- style="background:#ffd;"
 |-
+| [[Abacus Data]] || {{dts|March 10, 2023}} || <ref>{{Cite web |date=2023-03-13 |first=David |last=Coletto |title=Canadian Politics: Are things tightening up? |url=https://davidcoletto.substack.com/p/canadian-politics-are-things-tightening |website=inFocus with David Coletto}}</ref> || {{Party shading/Conservative (Canada)}}|'''34''' || 29 || 19 || 7 || 6 || 3 || 1 || ±2.6 pp || 1,500 || online || {{Party shading/Conservative (Canada)}}|'''5''' 
+|-
+| [[Nanos Research]] || {{dts|March 10, 2023}} || <ref>{{Cite web |date=2023-03-15 |title=Poilievre says "Canada feels broken" and survey finds many Canadians agree |url=https://www.youtube.com/watch?v=bOLoi8ElTGM |website=Youtube |publisher=CTV News}}</ref> || {{Party shading/Conservative (Canada)}}|'''32.8''' || 28.4 || 20.6 || 8.9 || 3.5 || 5.0 || {{N/A}} || ±3.1 pp || 1,000 (1/4) || telephone (rolling) || {{Party shading/Conservative (Canada)}}|'''4.4''' 
+|-
 | [[Abacus Data]] || {{dts|March 4, 2023}} || <ref>{{Cite web |date=2023-03-10 |title=A Deep Dive on Canadian Political Attitudes: Chinese election interference & the Liberal/NDP Agreement |url=https://abacusdata.ca/canadian-politics-polling-abacus-data-march-2023/|website=Abacus Data}}</ref> || {{Party shading/Conservative (Canada)}}|'''36''' || 29 || 18 || 8 || 4 || 3 || 2 || ±2.0 pp || 2,600 || online || {{Party shading/Conservative (Canada)}}|'''7''' 
 |-
 | [[Nanos Research]] || {{dts|March 3, 2023}} || <ref>{{Cite web |date=2023-03-07 |title=Federal Polling: Nanos|url=https://twitter.com/CanadianPolling/status/1633176270556078085}}</ref> || {{Party shading/Conservative (Canada)}}|'''34''' || 30 || 20 || 9 || 3 || 5 || {{N/A}} || ±3.1 pp || 1,000 (3/4) || telephone (rolling) || {{Party shading/Conservative (Canada)}}|'''4''' 

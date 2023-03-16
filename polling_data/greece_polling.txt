@@ -14,7 +14,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="width:35px;"| [[File:Mera25-logo.svg|35px|link=MeRA25]]
 ! style="width:35px;"| [[File:Meandros flag.svg|25px|link=Golden Dawn (political party)|XA]]
 ! style="width:35px;"| [[National Party – Greeks|EK]]
-! style="width:35px;"| [[National Creation|ED]]
+! style="width:35px;"| [[File:National Creation logo.png|link=National Creation|35x35px]]
 ! style="width:30px;" rowspan="2"| Lead
 |-
 ! style="background:{{party color|New Democracy (Greece)}};"|
@@ -26,6 +26,34 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 ! style="background:{{party color|Golden Dawn (Greece)}};"|
 ! style="background:{{party color|Greeks for the Fatherland}};"|
 ! style="background:#1c3382;"|
+|- 
+| MRB/Open<ref>{{cite web |title=Δημοσκόπηση MRB: Για πρώτη φορά κάτω από τις 3 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ |url=https://www.ieidiseis.gr/politiki/189215/dimoskopisi-mrb-gia-proti-fora-kato-apo-tis-3-monades-i-diafora-nd-syriza |language=el |work=Proto Thema |date=14 March 2023}}</ref>
+| 6–13 Mar 2023
+| 1,450
+| {{Party shading/ND}}| '''33.2'''
+| 29.7
+| 10.9
+| 6.2
+| 5.4
+| 4.7
+| 1.2
+| 4.8
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 3.5
+|- 
+| ProRata/Attica<ref>{{cite web |title=Δημοσκόπηση Prorata: Μειώθηκε η διαφορά ΝΔ και ΣΥΡΙΖΑ – Τι λένε οι πολίτες για την κάλυψη της τραγωδίας των Τεμπών από τα ΜΜΕ |url=https://www.newsbeast.gr/media/arthro/9488596/dimoskopisi-prorata-meiothike-i-diafora-nd-kai-syriza-ti-lene-oi-polites-gia-tin-kalypsi-tis-tragodias-ton-tebon-apo-ta-mme |language=el |work=Attica |date=14 March 2023}}</ref>
+| 8–11 Mar 2023
+| 1,102
+| {{Party shading/ND}}| '''34.0'''
+| 31.0
+| 11.5
+| 6.0
+| 4.0
+| 3.5
+| –
+| 3.0
+| –
+| style="background:{{party color|New Democracy (Greece)}}; color:white;"| 3.0
 |- 
 | Interview/Politic.gr<ref>{{cite web |title=Δημοσκόπηση Interview: Απώλειες για ΝΔ και ΣΥΡΙΖΑ – Στο 3,6% η διαφορά τους
  |url=https://www.flash.gr/politiki/2075728/dimoskopisi-interview-apoleies-gia-nd-kai-syriza-sto-36-i-diafora-tous |language=el |work=Politic.gr |date=10 March 2023}}</ref>
@@ -42,7 +70,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1.8
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 4.3
 |- 
-| GPO/Parapolitika<ref>{{cite web |title=Δημοσκόπηση GPO για τα Παραπολιτικά: Προβάδισμα 3,9 μονάδων της ΝΔ έναντι του ΣΥΡΙΖΑ |url=https://www.parapolitika.gr/politiki/article/1257557/dimoskopisi-gpo-gia-ta-parapolitika-provadisma-39-monadon-tis-nd-enadi-tou-suriza// |language=el |work=Parapolitika |date=11 March 2023}}</ref>
+| GPO/Parapolitika<ref>{{cite web |title=Δημοσκόπηση GPO για τα Παραπολιτικά: Προβάδισμα 3,9 μονάδων της ΝΔ έναντι του ΣΥΡΙΖΑ |url=https://www.parapolitika.gr/politiki/article/1257557/dimoskopisi-gpo-gia-ta-parapolitika-provadisma-39-monadon-tis-nd-enadi-tou-suriza/ |language=el |work=Parapolitika |date=11 March 2023}}</ref>
 | 6–8 Mar 2023
 | 1,000
 | {{Party shading/ND}}| '''35.2'''
@@ -56,7 +84,7 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 1.7
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 4.6
 |- 
-| Marc/ANT1<ref>{{Cite web |date=2023-03-09 |title=Γκάλοπ Marc: Έχασε 2,9 μονάδες η ΝΔ μετά τα Τέμπη - Δεν πήρε τίποτα ο ΣΥΡΙΖΑ - Στο 4,6% η διαφορά |url=https://www.protothema.gr/politics/article/1348168/dimoskopisi-marc-ehase-29-monades-i-kuvernisi-meta-ta-tebi-sto-46-i-diafora-apo-ton-suriza/ |access-date=2023-03-09 |website=ProtoThema |language=el}}</ref><ref>{{Cite web |last=root |date=2023-03-09 |title=Δημοσκόπηση: Χάνει 2,9 μονάδες η ΝΔ μετά τα Τέμπη – Δεν κερδίζει ο ΣΥΡΙΖΑ – Κλείνει η ψαλίδα |url=http://www.ot.gr/2023/03/09/epikairothta/politiki/dimoskopisi-xanei-29-monades-i-nd-meta-ta-tempi-den-kerdizei-o-syriza-kleinei-i-psalida/ |access-date=2023-03-09 |website=Οικονομικός Ταχυδρόμος - ot.gr |language=el}}</ref>
+| Marc/ANT1<ref>{{cite web |title=Γκάλοπ Marc: Έχασε 2,9 μονάδες η ΝΔ μετά τα Τέμπη - Δεν πήρε τίποτα ο ΣΥΡΙΖΑ - Στο 4,6% η διαφορά |url=https://www.protothema.gr/politics/article/1348168/dimoskopisi-marc-ehase-29-monades-i-kuvernisi-meta-ta-tebi-sto-46-i-diafora-apo-ton-suriza/ |language=el |work=Proto Thema |date=9 March 2023}}</ref>
 | 4–7 Mar 2023
 | 1,241
 | {{Party shading/ND}}| '''34.7'''
@@ -69,10 +97,6 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 3.5
 | 1.5
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 5.4
-|- style="background:lightyellow;" 
-| style="border-right-style:hidden; background:lightyellow;" |
-| style="border-right-style:hidden;" data-sort-value="2023-03-01" | 28 Feb 2023
-| colspan="11" | [[Tempi train crash]]
 |- 
 | Alco/Alpha<ref>{{Cite web |last=Capital.gr |title=Δημοσκόπηση Alco: Στις 7 μονάδες η διαφορά ΝΔ – ΣΥΡΙΖΑ |url=https://www.capital.gr/politiki/3699954/dimoskopisi-alco-stis-7-monades-i-diafora-nd-suriza |access-date=2023-02-20 |website=Capital.gr |language=el}}</ref>
 | 16–18 Feb 2023
@@ -1699,10 +1723,6 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | –
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.0
-|- style="background:lightyellow;" 
-| style="border-right-style:hidden; background:lightyellow;" |
-| style="border-right-style:hidden;" data-sort-value="2021-12-12" | 12 Dec 2021
-| colspan="11" | [[Nikos Androulakis]] becomes leader of [[PASOK – Movement for Change]]
 |- 
 | MRB/Star<ref>{{cite web |title=Δημοσκόπηση MRB: Στις 11 μονάδες η διαφορά ΝΔ - ΣΥΡΙΖΑ, άνοδος ΚΙΝΑΛ |url=https://www.liberal.gr/politics/dimoskopisi-mrb-stis-11-monades-i-diafora-nd-suriza-anodos-kinal/421082 |language=el |work=Liberal.gr |date=17 December 2021}}</ref>
 | 1–10 Dec 2021
@@ -1857,10 +1877,6 @@ The table below lists nationwide voting intention estimates. Refusals are genera
 | 2.1
 | –
 | style="background:{{party color|New Democracy (Greece)}}; color:white;"| 12.9
-|- style="background:lightyellow;" 
-| style="border-right-style:hidden; background:lightyellow;" |
-| style="border-right-style:hidden;" data-sort-value="2021-10-25" | 25 Oct 2021
-| colspan="11" | [[Fofi Gennimata]], the leader of [[PASOK – Movement for Change]], dies
 |- 
 | Pulse RC/Skai<ref>{{cite web |title=Pulse RC. 22 - 25 Οκτωβρίου 2021 |url=https://www.skai.gr/sites/default/files/attachments/2021-11/%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%9A%CE%9F%CE%A0%CE%97%CE%A3%CE%97%20021121.pdf |language=el |work=Pulse RC |date=2 November 2021}}</ref>
 | 22–25 Oct 2021

@@ -11,8 +11,9 @@
 ! rowspan="2" class="unsortable" style="width:40px;"  |[[File:Přísaha Logo.png|41px|link=Přísaha]]
 ! rowspan="2" class="unsortable" style="width:40px;"  |[[File:Czech Social Democratic Party logo (2021).svg|35px|link=Czech Social Democratic Party|ČSSD]]
 ! rowspan="2" class="unsortable" style="width:40px;"  |[[File:KSČM text logo.svg|40px|link=Communist Party of Bohemia and Moravia|KSČM]]
-! colspan="3" class="unsortable" style="width:40px;"  |[[File:Tricolour Citizens' Movement plain ribbon.svg|35px|link=Tricolour Citizens' Movement|Tricolour–S–S]]
+! colspan="2" class="unsortable" style="width:40px;" |[[File:Tricolour Citizens' Movement plain ribbon.svg|35px|link=Tricolour Citizens' Movement|Tricolour–S–S]]
 ! rowspan="2" class="unsortable" style="width:40px;"  |[[File:LogoStranyZelenych05 22.svg|35px|link=Green Party (Czech Republic)|Z]]
+! rowspan="2" class="unsortable" style="width:40px;"  |[[File:Logo of the Law, Respect, Expertise.png|34px|link=Law, Respect, Expertise|PRO]]
 ! rowspan="3" style="width:40px;"  |Others
 ! rowspan="3" style="width:25px;"  |Lead
 |- style="height:40px;"
@@ -23,7 +24,6 @@
 ! class="unsortable" style="width:40px;" |[[File:Piratpartiet.svg|26px|link=Czech Pirate Party|Piráti]]
 ! class="unsortable" style="width:40px;" |[[File:Tricolour Citizens' Movement logo.svg|38px|link=Tricolour Citizens' Movement|Tricolour]]
 ! class="unsortable" style="width:40px;" |[[File:Svobodní lesser logo.svg|29px|link=Svobodní]]
-! class="unsortable" style="width:40px;" |[[File:Czech Freeholder Party lesser logo.svg|16px|link=Freeholder Party of the Czech Republic|SsČR]]
 |-
 ! class="unsortable" style="background:{{party color|Civic Democratic Party (Czech Republic)}};" |
 ! class="unsortable" style="background:{{party color|Christian and Democratic Union – Czechoslovak People's Party}};" |
@@ -37,8 +37,29 @@
 ! class="unsortable" style="background:{{party color|Communist Party of Bohemia and Moravia}};" |
 ! class="unsortable" style="background:{{party color|Tricolour Citizens' Movement}};" |
 ! class="unsortable" style="background:{{party color|Party of Free Citizens}};" |
-! class="unsortable" style="background:#cdb649;" |
 ! class="unsortable" style="background:{{party color|Green Party (Czech Republic)}};" |
+! class="unsortable" style="background:#0B9DC2;" |
+|- 
+| [https://www.median.eu/cs/wp-content/uploads/2023/03/Volby_PS_2023_02_v04IC.pdf Median]
+| 12 Feb – 7 Mar 2023
+| 1,011
+| 75.5
+| 14.5
+| 3.5
+| 5.0
+| {{Party shading/ANO 2011}} |'''32.0'''
+| 7.0
+| 11.5
+| 9.5
+| 2.5
+| 5.0
+| 3.5
+| 1.5
+| –
+| 2.0
+| –
+| 2.5
+| style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''17.5'''
 |-
 | rowspan="2"| [https://ct24.ceskatelevize.cz/domaci/3571125-ano-podle-unoroveho-volebniho-modelu-kantaru-bylo-prvni Kantar CZ]
 | rowspan="2"| 13 Feb – 3 Mar 2023
@@ -92,8 +113,8 @@
 | –
 | –
 | –
-| –
-| –
+| 4.3
+| 14.3
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''13.5'''
 |-
 | [https://www.parlamentnilisty.cz/zpravy/tiskovezpravy/SANEP-Volebni-preference-politickych-stran-a-hnuti-do-Poslanecke-snemovny-PCR-729079 Sanep]
@@ -113,8 +134,8 @@
 | –
 | –
 | –
-| –
-| 22.0
+| 6.1
+| 15.9
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''19.2'''
 |-
 | [https://www.idnes.cz/zpravy/domaci/pruzkum-stem-ods-ano-top-09-snemovna-havlicek-skopecek-krize-energie.A221211_110041_domaci_klf STEM]
@@ -154,7 +175,7 @@
 | –
 | –
 | 3.5
-| style="background:{{party color|Civic Democratic Party (Czech Republic)}};color:#FFFFFF;" |3.5
+| style="background:{{party color|Civic Democratic Party (Czech Republic)}};color:#FFFFFF;" |'''3.5'''
 |-
 | 21.5
 | 3.5
@@ -189,8 +210,8 @@
 | 2.0
 | 1.5
 | –
-| –
 | 2.0
+| –
 | 2.5
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''18.0'''
 |-
@@ -207,8 +228,8 @@
 | 2.0
 | –
 | –
-| –
 | 2.0
+| –
 | 5.0
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''3.0'''
 |-
@@ -224,8 +245,8 @@
 | 2.0
 | –
 | –
-| –
 | 2.0
+| –
 | 4.0
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''11.5'''
 |-
@@ -245,8 +266,8 @@
 | 2.5
 | 2.0
 | –
-| –
 | 2.0
+| –
 | 2.5
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''14.5'''
 |-
@@ -267,8 +288,8 @@
 | –
 | –
 | –
-| –
-| 21.7
+| 5.3
+| 16.4
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''15.7'''
 |-
 | [https://www.novinky.cz/clanek/domaci-vitezem-voleb-by-bylo-ano-druha-spd-40409000 STEM]
@@ -309,8 +330,8 @@
 | –
 | –
 | –
-| –
-| 20.4
+| 3.9
+| 16.5
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''17.2'''
 |-
 | rowspan="2" | [https://ct24.ceskatelevize.cz/domaci/3528715-volby-do-snemovny-vyhralo-ano Kantar CZ]
@@ -364,8 +385,8 @@
 | 3.5
 | 2.0
 | –
-| –
 | 2.0
+| –
 | 2.5
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''13.0'''
 |-
@@ -383,7 +404,8 @@
 | –
 | 4.8
 | 3.4
-| colspan=3| –
+| colspan="2" | –
+| –
 | –
 | 9.6
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''15.6'''
@@ -404,8 +426,8 @@
 | 2.5
 | 2.5
 | –
-| –
 | 2.0
+| –
 | 1.5
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''14.5'''
 |-
@@ -423,8 +445,9 @@
 | 2.2
 | 5.6
 | 2.8
-| colspan=3| 1.6
+| colspan="2" | 1.6
 | 1.8
+| –
 | 1.8
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''12.9'''
 |-
@@ -460,8 +483,9 @@
 | 2.5
 | 5.0
 | 2.5
-| colspan="3" | –
+| colspan="2" | –
 | 2.5
+| –
 | 5.5
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''1.0'''
 |-
@@ -477,8 +501,8 @@
 | 2.5
 | –
 | –
-| –
 | 2.0
+| –
 | 5.0
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''5.5'''
 |-
@@ -519,8 +543,8 @@
 | –
 | –
 | 3.6
-| –
 | 1.0
+| –
 | 9.4
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''10.5'''
 |-
@@ -535,8 +559,9 @@
 | 3.0
 | 4.0
 | 2.0
-| colspan="3" | –
+| colspan="2" | –
 | 2.0
+| –
 | 4.5
 | style="background:{{party color|Civic Democratic Party (Czech Republic)}};color:#FFFFFF;" | '''5.0'''
 |-
@@ -553,8 +578,8 @@
 | 2.0
 | –
 | –
-| –
 | 2.0
+| –
 | 3.5
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''1.0'''
 
@@ -575,8 +600,8 @@
 | –
 | –
 | 3.3
-| –
 | 0.8
+| –
 | 8.9
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''8.3'''
 |-
@@ -626,7 +651,8 @@
 | 3.0
 | 5.5
 | 4.0
-| colspan="3" | 3.0
+| colspan="2" | 3.0
+| –
 | –
 | 4.0
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''1.0'''
@@ -647,8 +673,8 @@
 | –
 | –
 | 3.4
-| –
 | 0.9
+| –
 | 6.8
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''8.8'''
 |-
@@ -663,7 +689,8 @@
 | 3.5
 | 3.0
 |2.0
-| colspan="3" | 3.0
+| colspan="2" | 3.0
+| –
 | –
 | 2.0
 | style="background:{{party color|Civic Democratic Party (Czech Republic)}};color:#FFFFFF;" | '''5.0'''
@@ -702,8 +729,8 @@
 | 2.4
 | –
 | 2.1
-| –
 | 1.2
+| –
 | 7.7
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''11.4'''
 |-
@@ -744,8 +771,8 @@
 | 3.2
 | –
 | 1.8
-| –
 | 1.2
+| –
 | 6.9
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''14.4'''
 |-
@@ -760,7 +787,8 @@
 | 4.0
 | 4.5
 | 4.5
-| colspan="3" | 3.0
+| colspan="2" | 3.0
+| –
 | –
 | 3.5
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''3.5'''
@@ -781,8 +809,8 @@
 | 3.8
 | –
 | –
-| –
 | 1.0
+| –
 | 6.5
 | style="background:{{party color|ANO 2011}};color:#FFFFFF;" |'''13.5'''
 |-
@@ -797,7 +825,8 @@
 | 3.5
 | 4.0
 | 3.5
-| colspan="3" | 3.5
+| colspan="2" | 3.5
+| –
 | –
 | 3.0
 | Tie
@@ -833,8 +862,9 @@
 ! 4.7
 ! 4.7
 ! 3.6
-! colspan="3" | 2.8
+! colspan="2" | 2.8
 ! 1.0
+! N/A
 ! 2.9
 ! style="background:{{party color|Civic Democratic Party (Czech Republic)}};color:#FFFFFF;" |0.7
 |}

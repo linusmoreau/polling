@@ -329,6 +329,11 @@ def transcribe_table(content, key, choice, begin, start):
                         'Other', 'None', 'Undecided', 'Abstain', 'lead', 'source', 'end']
             elif '===Scenario Polls===' in line:
                 break
+            elif 'Pre-2022' in line:
+                nkey = ['date', 'firm', 'publisher', 'sample',
+                        'SDS', 'LMS', 'SD', 'K', 'K', 'Left', 'NSi', 'SAB', 'DeSUS', 'SNS', 'PPS', 'DD', 'ND',
+                        'GS', 'GS', 'Vesna', 'Res.', 'LIDE',
+                        'Other', 'None', 'Undecided', 'Abstain', 'lead', 'source', 'end']
         elif choice == 'Romania':
             if '=== 2021 ===' in line:
                 nkey = ['date', 'source', 'sample',
@@ -983,7 +988,7 @@ class GraphPage:
         gov_img = Image(gov_button.rect.center, (gov_button.rect.w * 4 / 5, gov_button.rect.h * 4 / 5),
                         img_path='../images/parliament.png')
         gov_button.components.append(gov_img)
-        gov_button.set_tooltip('Government/Opposition')
+        gov_button.set_tooltip('Government')
         pinboard.select_buttons.append(gov_button)
         gov_button.callback(functools.partial(self.change_view, 'gov'))
         if self.gov is None:

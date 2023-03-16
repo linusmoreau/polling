@@ -36,7 +36,7 @@
 ! class="unsortable" style="width:30px;letter-spacing:-1px;" | [[Social Liberal Humanist Party|PUSL]]
 ![[Ecologist Party of Romania|PER]]
 ! class="unsortable" style="width:15px;" | [[Green Party (Romania)|PV]]
-![[Renewing Romania's European Project|PR]]
+![[Renewing Romania's European Project|REPER]]
 ! class="unsortable" style="width:15px;" | [[Force of the Right|FD]]
 ! rowspan="2" style="width:45px;" | [[List of political parties in Romania|Others]]
 ! rowspan="2" style="width:45px;" | Lead
@@ -50,7 +50,7 @@
 ! data-sort-type="number" style="background:{{party color|PRO Romania}};" |
 ! data-sort-type="number" style="background:{{party color|Conservative Party (Romania)}}" |
 ! data-sort-type="number" style="background:{{party color|Ecologist Party of Romania}}" |
-! data-sort-type="number" style="background:{{party color|Alliance 90/The Greens}};" |
+! data-sort-type="number" style="background:{{party color|Green Party (Romania)}};" |
 ! data-sort-type="number" style="background:{{party color|Renewing Romania's European Project}};" |
 ! data-sort-type="number" style="background:{{party color|Force of the Right}};" |
 |-

@@ -49,7 +49,7 @@ The opinion poll results below were recalculated from the original data and excl
 |–
 |2.9
 |–
-|class="unsortable" style="background:{{party color|We Continue the Change}};" |0.5
+|class="unsortable" style="background:{{party color|We Continue the Change}};" |0.6
 |-
 |[https://alpharesearch.bg/post/1007-elektoralni-naglasi-na-starta-na-predizbornata-kampania.html Alpha Research]
 |data-sort-value="2023-02-27"|21–27 Feb 2023

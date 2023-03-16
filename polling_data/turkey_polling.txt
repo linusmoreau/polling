@@ -1,0 +1,751 @@
+===2023===
+
+{|class="wikitable mw-collapsible" style="text-align:center; font-size:85%; line-height:14px;"
+!rowspan="3"|Fieldwork date
+!rowspan="3"|Polling firm / Published by
+!rowspan="3"|Sample size
+!colspan="5"|[[People's Alliance (Turkey)|People's Alliance]]
+!colspan="7"|[[Nation Alliance (Turkey)|Nation Alliance]]
+!colspan="3"|[[Labour and Freedom Alliance|Labour and Freedom]]
+!colspan="6"|''No Alliance''
+!rowspan="3"|Lead
+|-
+!style="background:{{party color|Justice and Development Party (Turkey)}};"|
+!style="background:{{party color|Nationalist Movement Party}};"|
+!style="background:{{party color|Great Unity Party}};"|
+!style="background:{{party color|Free Cause Party}};"|
+!rowspan="2"|''Total''
+!style="background:{{party color|Republican People's Party (Turkey)}};"|
+!style="background:{{party color|İYİ Party}};"|
+!style="background:{{party color|Felicity Party}};"|
+!style="background:{{party color|Democracy and Progress Party}};"|
+!style="background:{{party color|Future Party (Turkey)}};"|
+!style="background:{{party color|Democrat Party (Turkey, current)}};"|
+!rowspan="2"|''Total''
+!style="background:{{party color|Peoples' Democratic Party (Turkey)}};"|
+!style="background:#C51F30;"|
+!rowspan="2"|''Total''
+!style="background:#ED1D24;"|
+!style="background:{{party color|Homeland Party (Turkey, 2021)}};"|
+!style="background:#ED1C24;"|
+!style="background:{{party color|Victory Party (Turkey)}};"|
+!style="background:{{party color|Independent Turkey Party}};"|
+!rowspan="2"|Others
+|-
+!style="width:4em;"|[[Justice and Development Party (Turkey)|AKP]]
+!style="width:4em;"|[[Nationalist Movement Party|MHP]]
+!style="width:4em;"|[[Great Unity Party|BBP]]
+!style="width:4em;"|[[Free Cause Party|HÜDA PAR]]
+!style="width:4em;"|[[Republican People's Party|CHP]]
+!style="width:4em;"|[[Good Party|İYİ]] 
+!style="width:4em;"|[[Felicity Party|SP]]
+!style="width:4em;"|[[Democracy and Progress Party|DEVA]]
+!style="width:4em;"|[[Future Party (Turkey)|GP]]
+!style="width:4em;"|[[Democrat Party (Turkey, current)|DP]]
+!style="width:4em;"|[[Peoples' Democratic Party (Turkey)|HDP]]
+!style="width:4em;"|[[Workers' Party of Turkey (2017)|TİP]]
+!style="width:4em;"|[[New Welfare Party|YRP]]
+!style="width:4em;"|[[Homeland Party (Turkey, 2021)|MP]]
+!style="width:4em;"|[[Party for Change in Turkey|TDP]]
+!style="width:4em;"|[[Victory Party (Turkey)|ZP]]
+!style="width:4em;"|[[Independent Turkey Party|BTP]]
+|-
+|Mar
+|[https://t24.com.tr/foto-haber/son-secim-anketi-iste-kilicdaroglu-ve-erdogan-arasindaki-oy-farki,21974/12 AR-G / T24]
+|1,472
+|style="background:#FFF1C4"|'''31.4'''
+|6.6
+|–
+|–
+|''38.3''
+|27.6
+|12.9
+|1.3
+|1.6
+|0.9
+|0.4
+|'''44.7'''
+|12.1
+|–
+|''12.1''
+|–
+|1.3
+|–
+|1.1
+|–
+|2.8
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|3.8
+|-
+|8 Mar
+|[https://twitter.com/AksoyArastirma/status/1634499651612049408 Aksoy]
+|1,537
+|style="background:#FFF1C4"|'''31.0'''
+|7.2
+|–
+|–
+|''38.2''
+|28.4
+|12.0
+|1.4
+|1.4
+|0.9
+|–
+|'''''44.1'''''
+|10.3
+|1.1
+|''11.4''
+|–
+|–
+|–
+|–
+|–
+|6.3
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|2.6
+|-
+|Mar
+|[https://twitter.com/PiarArastirma/status/1634234487088336901 Piar]
+|1,460
+|30.8
+|7.1
+|–
+|–
+|''37.9''
+|style="background:#FFC2C2"|'''32.3'''
+|8.3
+|–
+|2.1
+|3.7
+|–
+|'''''46.4'''''
+|11.6
+|–
+|''11.6''
+|–
+|–
+|–
+|–
+|1.8
+|2.3
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|1.5
+|-
+|6–7 Mar
+|[https://twitter.com/alfarastirma/status/1633471868416978946 ALF]
+|1,770
+|31.0
+|6.5
+|–
+|–
+|''37.5''
+|style="background:#FFC2C2"|'''31.8'''
+|8.9
+|–
+|1.5
+|1.3
+|–
+|'''''43.5'''''
+|11.3
+|–
+|''11.3''
+|1.9
+|2.2
+|–
+|1.6
+|–
+|2.0
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|0.8
+|-
+!colspan="3"|6 March 2023
+!colspan="21"|[[Nation Alliance (Turkey)|Nation Alliance]] announce [[Kemal Kılıçdaroğlu]] as a joint presidential candidate.
+|-
+|23–27 Feb
+|[https://www.yenisafak.com/gundem/subat-ayi-secim-anketi-erdogan-yuzde-498-ile-acik-ara-onde-4511608 Areda Survey / Yeni Şafak]
+|3,000
+|style="background:#FFF1C4"|'''38.5'''
+|10.1
+|0.2
+|0.2
+|'''''49.0'''''
+|22.8
+|10.4
+|0.6
+|0.9
+|0.4
+|0.3
+|''35.4''
+|10.5
+|0.4
+|''10.9''
+|1.6
+|1.1
+|0.1
+|1.4
+|–
+|0.5{{efn|[[Patriotic Party (Turkey)|Patriotic Party]] – 0.2}}
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|15.7
+|-
+|22–27 Feb
+|[https://t24.com.tr/foto-haber/orc-arastirma-depremin-ardindan-akp-nin-oy-oraninin-yuzde-30-un-altina-dustugunu-net-goruyoruz,21751/6 ORC / T24]
+|4,720
+|style="background:#FFF1C4"|'''29.1'''
+|5.4
+|1.5
+|–
+|''36.0''
+|23.5
+|19.5
+|–
+|2.3
+|2.5
+|–
+|'''''47.8'''''
+|8.1
+|–
+|''8.1''
+|1.0
+|1.3
+|1.8
+|2.0
+|–
+|2.0
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|5.6
+|-
+|23–26 Feb
+|[https://twitter.com/AksoyArastirma/status/1630495614235443203 Aksoy]
+|1,537
+|style="background:#FFF1C4"|'''32.1'''
+|6.8
+|–
+|–
+|''38.9''
+|27.3
+|13.6
+|0.8
+|0.9
+|0.7
+|–
+|'''''43.3'''''
+|12.0
+|–
+|''12.0''
+|–
+|–
+|–
+|–
+|–
+|5.8
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|4.8
+|-
+|21–25 Feb
+|[https://twitter.com/alfarastirma/status/1630194691181248513 ALF]
+|2,000
+|style="background:#FFF1C4"|'''29.5'''
+|5.6
+|–
+|–
+|''35.1''
+|27.8
+|15.7
+|–
+|1.8
+|1.5
+|–
+|'''''46.8'''''
+|9.8
+|–
+|''9.8''
+|1.6
+|2.2
+|–
+|2.5
+|–
+|2.0
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|1.7
+|-
+|19–23 Feb
+|[https://www.youtube.com/watch?v=___frZGV_Kk Optimar / Hadi Özışık]
+|2,000
+|style="background:#FFF1C4"|'''40.0'''
+|7.1
+|0.5
+|–
+|'''''47.6'''''
+|25.7
+|10.1
+|1.2
+|0.8
+|0.4
+|–
+|''38.2''
+|9.6
+|–
+|''9.6''
+|1.2
+|1.7
+|–
+|0.5
+|–
+|0.1
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|14.3
+|-
+|18–20 Feb
+|[https://www.gazeteduvar.com.tr/son-secim-anketi-depremin-ardindan-ak-partinin-oyu-sabit-kaldi-mhpnin-oyu-artti-galeri-1606143 TEAM / Gazete Duvar]
+|1,930
+|style="background:#FFF1C4"|'''37.5'''
+|6.6
+|–
+|–
+|'''''44.1'''''
+|24.5
+|11.6
+|–
+|–
+|–
+|–
+|''36.1''
+|11.1
+|–
+|''11.1''
+|–
+|–
+|–
+|–
+|–
+|8.7
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|13.0
+|-
+|16–20 Feb
+|[https://www.gazeteduvar.com.tr/son-anket-ak-parti-yuzde-30un-altinda-mhp-baraji-gecemiyor-galeri-1606110 İEA / Gazete Duvar]
+|2,000
+|style="background:#FFF1C4"|'''33.7'''
+|6.8
+|–
+|–
+|''40.5''
+|25.8
+|13.9
+|–
+|1.3
+|0.7
+|–
+|'''''41.7'''''
+|11.2
+|1.4
+|''12.6''
+|1.3
+|1.5
+|–
+|1.9
+|–
+|0.5
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|7.9
+|-
+!colspan="3"|6 February 2023
+!colspan="21"|[[2023 Turkey–Syria earthquake|An earthquake]] with a magnitude of [[Seismic magnitude scales#Mww|M<sub>ww</sub>]] 7.8 strikes Southern & Central Turkey
+|-
+|27 Jan–2 Feb
+|[https://www.youtube.com/watch?v=fugx9g8GP2M Avrasya]
+|2,460
+|style="background:#FFF1C4"|'''32.1'''
+|5.1
+|–
+|–
+|''37.2''
+|31.5
+|12.8
+|–
+|3.5
+|–
+|–
+|'''''47.8'''''
+|9.9
+|–
+|''9.9''
+|1.2
+|–
+|–
+|1.4
+|–
+|2.5
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|0.6
+|-
+|Jan
+|[https://twitter.com/AksoyArastirma/status/1621058456382853122 Aksoy]
+|1,537
+|style="background:#FFF1C4"|'''33.3'''
+|7.7
+|–
+|–
+|''41.0''
+|25.5
+|14.6
+|1.1
+|1.2
+|0.2
+|–
+|'''''42.6'''''
+|11.1
+|–
+|''11.1''
+|–
+|–
+|–
+|–
+|–
+|5.2
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|7.8
+|-
+|23–26 Jan
+|[https://twitter.com/orc_arastirma/status/1619688018302087170 ORC]
+|4,580
+|style="background:#FFF1C4"|'''30.2'''
+|5.5
+|1.6
+|–
+|''37.3''
+|23.1
+|19.3
+|–
+|2.6
+|2.7
+|–
+|'''''47.7'''''
+|7.6
+|–
+|''7.6''
+|–
+|–
+|2.3
+|1.8
+|1.4
+|1.9
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|7.1
+|-
+|18–24 Jan
+|[https://twitter.com/alfarastirma/status/1618604441183350786 ALF]
+|2,000
+|style="background:#FFF1C4"|'''31.0'''
+|6.1
+|–
+|–
+|''37.1''
+|26.1
+|15.8
+|–
+|2.4
+|2.7
+|–
+|'''''47.0'''''
+|8.6
+|–
+|''8.6''
+|–
+|1.4
+|2.2
+|1.8
+|–
+|1.9
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|4.9
+|-
+|14–24 Jan
+|[https://twitter.com/AsalArastirma/status/1620309484890632197 ASAL]
+|2,520
+|style="background:#FFF1C4"|'''39.2'''
+|7.5
+|–
+|–
+|'''''46.7'''''
+|23.8
+|12.3
+|–
+|–
+|–
+|–
+|''36.1''
+|10.1
+|–
+|''10.1''
+|–
+|–
+|–
+|–
+|–
+|7.1
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|15.4
+|-
+|13–18 Jan
+|[https://twitter.com/anapollia/status/1617236763205943297 ANAPOLLIA]
+|1,002
+|style="background:#FFF1C4"|'''30.6'''
+|5.3
+|–
+|–
+|''35.9''
+|23.8
+|21.7
+|1.2
+|2.6
+|1.7
+|0.3
+|'''''51.3'''''
+|8.5
+|–
+|''8.5''
+|1.0
+|0.5
+|–
+|2.7
+|–
+|–
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|6.8
+|-
+|13–16 Jan
+|[https://www.youtube.com/watch?v=Prnyl6Yxmc4 ORC / Halk TV]
+|3,920
+|style="background:#FFF1C4"|'''31.5'''
+|6.5
+|–
+|–
+|''38.0''
+|25.5
+|19.3
+|–
+|2.3
+|2.8
+|–
+|'''''49.9'''''
+|8.0
+|–
+|''8.0''
+|–
+|–
+|–
+|1.4
+|–
+|2.7
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|6.0
+|-
+|11–14 Jan
+|[https://twitter.com/etkiarastirma/status/1616710481267363840 TEAM]
+|2,524
+|style="background:#FFF1C4"|'''37.5'''
+|6.5
+|–
+|–
+|'''''44.0'''''
+|26.0
+|11.7
+|–
+|–
+|–
+|–
+|''37.7''
+|11.1
+|–
+|''11.1''
+|–
+|–
+|–
+|–
+|–
+|7.3
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|11.5
+|-
+|6–13 Jan
+|[https://www.yenisafak.com/gundem/hangi-parti-ne-kadar-oy-alir-hangi-aday-yuzde-kac-oy-alir-son-secim-anketi-yayimlandi-3901747 Areda Survey / Yeni Şafak]
+|4,900
+|style="background:#FFF1C4"|'''40.8'''
+|10.3
+|0.3
+|0.2
+|'''''51.6'''''
+|22.6
+|9.9
+|0.8
+|0.8
+|0.1
+|0.1
+|''34.3''
+|10.2
+|0.4
+|''10.6''
+|1.3
+|0.6
+|–
+|0.8
+|–
+|0.7{{efn|[[Patriotic Party (Turkey)|Patriotic Party]] – 0.2}}
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|18.2
+|-
+|7–9 Jan
+|[https://gazetekarinca.com/piarin-son-anketi-5-parti-oy-kaybetti-3-parti-oy-artirdi/ Piar / Gazete Karınca]
+|2,611
+|style="background:#FFF1C4"|'''31.2'''
+|6.3
+|–
+|–
+|''37.5''
+|25.1
+|14.3
+|–
+|1.1
+|3.8
+|–
+|'''''44.3'''''
+|11.2
+|–
+|''11.2''
+|–
+|–
+|–
+|1.6
+|1.9
+|3.5
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|6.1
+|-
+|3–8 Jan
+|[https://www.youtube.com/watch?v=61LYNjjlemo Avrasya]
+|2,612
+|29.5
+|5.6
+|–
+|–
+|''35.1''
+|style="background:#FFC2C2"|'''31.1'''
+|13.8
+|–
+|3.5
+|–
+|–
+|'''''48.4'''''
+|11.2
+|–
+|''11.2''
+|1.2
+|–
+|–
+|1.7
+|–
+|2.4
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|1.6
+|-
+|1–7 Jan
+|[https://www.youtube.com/watch?v=cf7lN8wwfVM MAK / Fatih Portakal TV]
+|5,750
+|style="background:#FFF1C4"|'''34.3'''
+|6.3
+|0.4
+|0.8
+|''41.8''
+|25.0
+|15.6
+|0.9
+|2.5
+|1.2
+|0.4
+|'''''45.6'''''
+|8.4
+|–
+|''8.4''
+|1.3
+|0.2
+|0.1
+|1.0
+|1.2
+|0.4
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|9.3
+|-
+|2–5 Jan
+|[https://twitter.com/mehmetsposteki/status/1611362355354402817 ORC]
+|3,780
+|style="background:#FFF1C4"|'''32.0'''
+|6.2
+|–
+|–
+|''38.2''
+|23.5
+|19.1
+|–
+|2.5
+|2.9
+|–
+|'''''48.0'''''
+|7.3
+|–
+|''7.3''
+|–
+|–
+|2.2
+|–
+|1.8
+|2.5
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|8.5
+|-
+|23 Dec–2 Jan
+|[https://sahamerkezi.org/turkiye-geneli-siyasal-gundem-ve-secmen-egilimi-saha-arastirma-raporu-3/ Sosyo Politik]
+|1,582
+|style="background:#FFF1C4"|'''33.2'''
+|6.5
+|–
+|0.1
+|''39.8''
+|28.5
+|13.3
+|0.8
+|2.9
+|0.7
+|–
+|'''''46.2'''''
+|13.1
+|0.6
+|''13.7''
+|–
+|–
+|–
+|0.4
+|–
+|0.0
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|4.7
+|-
+|27 Dec–1 Jan
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/anketten-ilginc-sonuclar-cikiyor-42197680 Optimar / Hürriyet]
+|2,001
+|style="background:#FFF1C4"|'''41.1'''
+|7.4
+|0.8
+|–
+|'''''49.3'''''
+|23.6
+|8.1
+|1.0
+|1.1
+|0.9
+|–
+|''34.7''
+|9.8
+|–
+|''9.8''
+|0.7
+|1.2
+|0.5
+|2.3
+|–
+|1.5{{efn|[[Patriotic Party (Turkey)|Patriotic Party]] – 0.4}}
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|17.5
+|-
+!colspan="2" data-sort-value="2018-06-24"|[[2018 Turkish general election|2018 parliamentary election]]
+!51,183,729
+!style="background:#FFF1C4"|42.6
+!11.1
+!N/A
+!0.3
+!''53.7''
+!22.6
+!10.0
+!1.3
+!colspan="3"|N/A
+!''33.9''
+!11.7
+!colspan="7"|N/A
+!0.4{{efn|[[Patriotic Party (Turkey)|Patriotic Party]] – 0.2, independent – 0.2}}
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|20.0
+|}

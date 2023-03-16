@@ -67,6 +67,30 @@
 ! data-sort-type="number" style="background:{{party color|Social Democrats (Denmark)}};" |
 ! data-sort-type="number" style="background:{{party color|Venstre (Denmark)}};" |
 |-
+|[https://twitter.com/Annamidtgaard/status/1635208602901438466?t=vwJ3yfzb66lL7aA2DxIicw&s=19 Voxmeter]
+|6–12 Mar 2023
+|1,009
+| style="background:#FACECD;" |'''21.4'''
+|10.5
+|7.9
+|13.6
+|8.3
+|12.4
+|5.7
+|7.0
+|4.8
+|2.9
+|2.3
+|2.5
+|0.5
+|0.2
+|39.8
+| style="background:#DEDEBD;" |'''60.0'''
+| style="background:#FACECD;" |'''49.6'''
+|42.3
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |7.3
+| style="background:{{party color|Social Democrats (Denmark)}};color:#FFFFFF;" |6.8
+|-
 |[https://twitter.com/Annamidtgaard/status/1632746264025522176/photo/1 Voxmeter]
 |27 Feb–5 Mar 2023
 |1,015

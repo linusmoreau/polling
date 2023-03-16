@@ -22,6 +22,32 @@
 ! style="background:{{party color|Alternative for Germany}};"|
 ! style="background:{{party color|The Left (Germany)}};"|
 |-
+|[https://www.wahlrecht.de/umfragen/insa.htm INSA]
+| {{opdrts|10|13|Mar|2023|year}}
+| 2,002
+| –
+| 21.5
+| {{Party shading/CDU}}| '''28.5'''
+| 15.5
+| 7.5
+| 16
+| 4
+| 7
+| style="background:{{party color|CDU/CSU}};color:#FFFFFF;"| 7
+|-
+| [https://www.wahlrecht.de/umfragen/forsa.htm Forsa]
+| {{opdrts|7|13|Mar|2023|year}}
+| 2,505
+| 22
+| 20
+| {{Party shading/CDU}}| '''29'''
+| 17
+| 6
+| 14
+| 5
+| 9
+| style="background:{{party color|CDU/CSU}};color:#FFFFFF;"| 9
+|-
 | [https://www.wahlrecht.de/umfragen/insa.htm INSA]
 | {{opdrts|6|10|Mar|2023|year}}
 | 1,268
