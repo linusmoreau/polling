@@ -12,7 +12,7 @@ specs = {
         'blocs': {'Progressive': ['NDP', 'Alberta', 'Liberal', 'Green'], 'Conservative': ['UCP', 'WIP']},
         'start': -3,
         'spread': 360,
-        'restart': ["Cite web", "cite web"],
+        'restart': ["Cite web", "cite web", "Cite tweet", "cite tweet"],
         'end_date': Date(2023, 5, 29),
         'url': 'https://en.wikipedia.org/w/index.php?title=2023_Alberta_general_election&action=edit&section=8'
     },
@@ -54,17 +54,18 @@ specs = {
                'Opinion_polling_for_the_2022_Brazilian_presidential_election&action=edit&section=5',
     },
     'Bulgaria': {
-        'include': ['ITN', 'GERB', 'BSP', 'DB', 'DPS', 'IBG-NI', 'IMRO', 'Revival', 'PP', 'BP', 'BV'],
+        'include': ['ITN', 'GERB', 'BSP', 'DB', 'DPS', 'IBG-NI', 'IMRO', 'Revival', 'PP', 'BP', 'BV', 'Levitsata!',
+                    'PP-DB'],
         'key': ['firm', 'date', 'sample',
-                'GERB', 'PP', 'DB', 'DPS', 'Revival', 'BSP', 'BV', 'IMRO', 'ITN', 'Levitsata!', 'NDSV',
+                'GERB', 'PP-DB', 'PP-DB', 'DPS', 'Revival', 'BSP', 'BV', 'IMRO', 'ITN', 'Levitsata!', 'NDSV',
                 'Other', 'None', 'lead'],
         'col': {'GERB': (0, 86, 167), 'ITN': (75, 185, 222), 'BSP': (219, 15, 40), 'DPS': (0, 96, 170),
                 'DB': (0, 74, 128), 'IBG-NI': (91, 165, 70), 'BP': (1, 25, 59), 'Revival': (192, 159, 98),
                 'BL': (243, 129, 20), 'RzB': (43, 74, 153), 'LSChSR': (241, 25, 40), 'PP': (250, 214, 48),
-                'BV': (25, 112, 50), 'IMRO': black},
-        'blocs': {'Conservative': ['GERB'], 'Socialist': ['BSP'], 'Liberal': ['DPS'],
+                'BV': (25, 112, 50), 'IMRO': black, 'Levitsata!': (186, 16, 52), 'PP-DB': (66, 0, 255)},
+        'blocs': {'Conservative': ['GERB'], 'Left': ['BSP', 'Levitsata!'], 'Liberal': ['DPS'],
                   'Nationalist': ['Revival', 'IMRO', 'BP', 'BV'],
-                  'Populist': ['ITN', 'DB', 'IBG-NI', 'PP']},
+                  'Populist': ['ITN', 'DB', 'IBG-NI', 'PP', 'PP-DB']},
         'start': 0,
         'end_date': Date(2023, 4, 2),
         'toggle_seats': True,
@@ -151,9 +152,9 @@ specs = {
                'Opinion_polling_for_the_2022_Costa_Rican_general_election&action=edit&section=1'
     },
     'Czechia': {
-        'key': ['firm', 'date', 'size', 'turnout',
-                'ODS', 'KDU-CSL', 'TOP 09', 'ANO', 'STAN', 'Pirati', 'SPD', 'P', 'CSSD', 'KSCM', 'T-S',
-                'T-S', 'T-S', 'Z',
+        'key': ['firm', 'date', 'size',
+                'ODS', 'KDU-CSL', 'TOP 09', 'ANO', 'STAN', 'Pirati', 'SPD', 'P', 'CSSD', 'KSCM', 'T-S', 'T-S',
+                'Zeleni', 'PRO',
                 'Other', 'Lead'],
         'include': ['ANO', 'SPOLU', 'PaS', 'SPD', 'KSCM', 'CSSD', 'T-S', 'Z', 'APB', 'P',
                     'ODS', 'KDU-CSL', 'TOP 09', 'STAN', 'Pirati'],
@@ -167,7 +168,7 @@ specs = {
         'end_date': Date(2025, 10, 9),
         'start': 0,
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_next_Czech_legislative_election&action=edit&section=5',
+               'Opinion_polling_for_the_next_Czech_legislative_election&action=edit&section=3',
         'toggle_seats': True,
         'seats': 200,
         'divisor': 1,
@@ -250,7 +251,7 @@ specs = {
                   'Nationalist': ['PS']},
         'start': 0,
         'restart': ['http'],
-        'end_date': Date(2023, 4, 30),
+        'end_date': Date(2023, 4, 2),
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_2023_Finnish_parliamentary_election&action=edit&section=3',
         'toggle_seats': True,
@@ -260,7 +261,7 @@ specs = {
         'threshold': 2,
         'method': 'quotient'
     },
-    'France': {
+    'France Prez': {
         'key': ['firm', 'date', 'sample',
                 'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Hidalgo', 'Jadot',
                 'Macron', 'Pécresse', 'Lassalle', 'Dupont-Aignan', 'Le Pen', 'Zemmour',
@@ -284,13 +285,13 @@ specs = {
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_2022_French_presidential_election&action=edit&section=1'
     },
-    'France Leg': {
+    'France': {
         'key': ['firm', 'date', 'sample', 'EXG', 'NUPES', 'NUPES', 'NUPES', 'NUPES', 'NUPES', 'ECO', 'PA',
                 'ENS', 'ENS', 'LR', 'LR', 'DLF', 'RN', 'REC', 'REG', 'DIV'],
         'include': ['EXG', 'NUPES', 'ENS', 'LR', 'DLF', 'RN', 'REC'],
         'col': {'EXG': (170, 0, 0), 'NUPES': (187, 24, 64), 'ENS': (255, 214, 0), 'LR': (0, 102, 204),
                 'DLF': (0, 135, 205), 'RN': (0, 74, 119), 'REC': (11, 11, 102)},
-        'blocs': {'Socialist': ['EXG', 'NUPES'], 'Liberal': ['ENS', 'LR'], 'Nationalist': ['RN', 'REC', 'DLF']},
+        'blocs': {'Left': ['EXG', 'NUPES'], 'Liberal': ['ENS', 'LR'], 'Nationalist': ['RN', 'REC', 'DLF']},
         'end_date': Date(2022, 6, 12),
         'start': 0,
         'url': 'https://en.wikipedia.org/w/index.php?title='
@@ -328,12 +329,12 @@ specs = {
         'key': ['firm', 'date', 'sample',
                 'ND', 'Syriza', 'KINAL', 'KKE', 'EL', 'MeRA25', 'XA', 'EP',
                 'lead', 'end'],
-        'include': ['ND', 'Syriza', 'KINAL', 'KKE', 'EL', 'MeRA25'],
+        'include': ['ND', 'Syriza', 'KINAL', 'KKE', 'EL', 'MeRA25', 'EP'],
         'col': {'ND': (27, 92, 199), 'Syriza': (238, 128, 143), 'KINAL': (45, 144, 45), 'KKE': (227, 3, 1),
-                'EL': (84, 147, 206), 'MeRA25': (195, 52, 29), 'XA': (0, 2, 45)},
-        'gov': {'Government': ['ND'], 'Opposition': ['Syriza', 'KINAL', 'KKE', 'EL', 'MeRA25']},
-        'blocs': {'Right': ['ND', 'EL'], 'Left': ['Syriza', 'KINAL', 'KKE', 'MeRA25']},
-        'end_date': Date(2023, 7, 7),
+                'EL': (84, 147, 206), 'MeRA25': (195, 52, 29), 'XA': (0, 2, 45), 'EP': (18, 66, 133)},
+        'gov': {'Government': ['ND'], 'Opposition': ['Syriza', 'KINAL', 'KKE', 'EL', 'MeRA25', 'EP']},
+        'blocs': {'Right': ['ND', 'EL', 'EP'], 'Left': ['Syriza', 'KINAL', 'KKE', 'MeRA25']},
+        'end_date': Date(2023, 5, 21),
         'start': 0,
         'restart': ['http'],
         'url': 'https://en.wikipedia.org/w/index.php?title='
@@ -363,8 +364,8 @@ specs = {
         'col': {'D': (0, 173, 239), 'V': (0, 184, 120), 'S': (234, 0, 56), 'M': (0, 33, 105), 'B': (160, 208, 103),
                 'P': (137, 110, 189), 'F': (255, 202, 62), 'C': (255, 125, 20), 'J': (239, 72, 57),
                 'Government': (0, 184, 120), 'Opposition': (234, 0, 56),
-                'Socialist': (234, 0, 56), 'Liberal': (160, 208, 103), 'Conservative': (0, 173, 239)},
-        'blocs': {'Socialist': ['V', 'S', 'J', 'F'], 'Liberal': ['B', 'C', 'P'], 'Conservative': ['D', 'M']},
+                'Left': (234, 0, 56), 'Liberal': (160, 208, 103), 'Conservative': (0, 173, 239)},
+        'blocs': {'Pro-EU': ['S', 'C', 'P'], 'Anti-EU': ['D', 'V', 'M', 'B', 'F', 'J']},
         'gov': {'Government': ['V', 'B', 'D'], 'Opposition': ['S', 'M', 'P', 'F', 'C', 'J']},
         'start': 0,
         'end_date': Date(2025, 9, 25),
@@ -423,7 +424,10 @@ specs = {
                 Period([Group("Kenny I", ['FG', 'Lab'])], Date(2011, 3, 9), Date(2016, 5, 6))],
         'start': -1,
         'restart': ['Cite', 'cite'],
-        'vlines': {Date(2020, 2, 8): 'General Election'},
+        'vlines': {Date(2020, 2, 8): 'General Election',
+                   Date(2022, 12, 17): 'Varadkar Taoiseach',
+                   Date(2020, 6, 27): 'Martin Taoiseach',
+                   Date(2017, 6, 14): 'Varadkar Taoiseach'},
         'end_date': Date(2025, 2, 20),
         'url': 'https://en.wikipedia.org/w/index.php?title=Next_Irish_general_election&action=edit&section=5'
     },
@@ -445,7 +449,7 @@ specs = {
         'gov': [
             Period([Group('Meloni', ['FdI', 'Lega', 'FI', 'NM'])], Date(2022, 10, 22)),
             Period([Group('Draghi', ['M5S', 'Lega', 'PD', 'FI', 'IpF', 'IV', 'Art.1', 'A', 'CD', 'NcI', '+Eu',
-                                             '+E', '+E-A', 'A-IV'])],
+                                     '+E', '+E-A', 'A-IV'])],
                    Date(2021, 2, 13), Date(2022, 10, 22)),
             Period([Group('Conte II', ['M5S', 'PD', 'Art.1', 'IV', 'SI', 'LeU'])],
                    Date(2019, 9, 5), Date(2021, 2, 13)),
@@ -551,7 +555,7 @@ specs = {
                                'BBB', 'BIJ1', 'BNVL']},
         'blocs': {'Nationalist': ['PVV', 'FVD', 'JA21', 'BNVL'],
                   'Confessional': ['CDA', 'CU', 'SGP'],
-                  'Socialist': ['SP', 'PvdA', 'GL', 'PvdD', 'BIJ1', 'DENK'],
+                  'Left': ['SP', 'PvdA', 'GL', 'PvdD', 'BIJ1', 'DENK'],
                   'Liberal': ['VVD', 'D66', 'Volt'],
                   'Agrarian': ['BBB'],
                   'Pensioners': ['50+']},
@@ -580,7 +584,7 @@ specs = {
         'start': -1,
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_2023_New_Zealand_general_election&action=edit&section=2',
-        'end_date': Date(2024, 1, 13)
+        'end_date': Date(2024, 10, 14)
     },
     'Norway': {
         'include': ['R', 'SV', 'MDG', 'Ap', 'Sp', 'V', 'KrF', 'H', 'FrP'],
@@ -678,8 +682,8 @@ specs = {
         'col': {'PSD': (237, 33, 40), 'PNL': (255, 221, 0), 'USR': (0, 166, 255), 'AUR': (252, 194, 36),
                 'UDMR': (41, 102, 51), 'PMP': (167, 207, 53), 'PRO': (21, 114, 186), 'PPU-SL': (102, 204, 255),
                 'PER': (0, 117, 58), 'ALDE': (0, 84, 135), 'FD': (8, 81, 10), 'APP': (8, 9, 159)},
-        'gov': {'Government': ['PNL', 'PSD', 'UDMR'],
-                'Opposition': ['USR', 'FD', 'AUR', 'PMP', 'PRO', 'PPU-SL', 'ALDE', 'PER', 'APP']},
+        'gov': [Period([Group('Ciuca', ['PNL', 'PSD', 'UDMR'])], Date(2021, 11, 25)),
+                Period([Group('Citu', ['PNL', 'USR', 'UDMR'])], Date(2020, 12, 23), Date(2021, 11, 25))],
         'end_date': Date(2025, 3, 25),
         'restart': ['[https', 'CURS'],
         'start': -1,
@@ -722,7 +726,7 @@ specs = {
                   'Nationalist': ['SR', 'L\'SNS', 'REP', 'SNS']},
         'start': 0,
         'restart': ['http'],
-        'end_date': Date(2024, 2, 24),
+        'end_date': Date(2023, 9, 30),
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_2023_Slovak_parliamentary_election&action=edit&section=3',
         'toggle_seats': True,
@@ -766,25 +770,23 @@ specs = {
         'vlines': {Date(2022, 4, 24): "General Election"}
     },
     'Spain': {
-        'include': ['PSOE', 'PP', 'VOX', 'UP', 'Cs', 'ERC', 'MP', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG', 'NA+',
-                    'PRC', 'TE', 'EV'],
+        'include': ['PSOE', 'PP', 'VOX', 'UP', 'Cs', 'MP', 'Sumar',
+                    # 'ERC', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG', 'NA+', 'PRC', 'TE', 'EV'
+                    ],
         'key': ['firm', 'date', 'sample', 'turnout',
-                'PSOE', 'PP', 'VOX', 'UP', 'Cs', 'ERC', 'MP', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG', 'NA+',
+                'PSOE', 'PP', 'VOX', 'UP', 'Sumar', 'Cs', 'ERC', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG', 'NA+',
                 'PRC', 'EV', 'lead', 'end'],
         'col': {'PSOE': (239, 28, 39), 'PP': (29, 132, 206), 'VOX': (99, 190, 33), 'UP': (123, 73, 119),
                 'Cs': (235, 97, 9), 'ERC': (255, 178, 50), 'MP': (15, 222, 196), 'JxCat': (0, 199, 174),
                 'PNV': (74, 174, 74), 'EHB': (181, 207, 24), 'CUP': (255, 237, 0), 'CC': (255, 215, 0),
                 'BNG': (173, 207, 239), 'NA+': (129, 157, 163), 'PRC': (194, 206, 12),
-                'EV': (138, 41, 8), 'TE': (3, 114, 82),
-                'Government': (239, 28, 39), 'Opposition': (29, 132, 206),
-                'Left': (239, 28, 39), 'Right': (29, 132, 206), 'Regionalist': (255, 178, 50)},
-        'gov': {'Government': ['PSOE', 'UP', 'PNV', 'MP', 'BNG'],
+                'EV': (138, 41, 8), 'TE': (3, 114, 82), 'Sumar': (239, 75, 145)},
+        'gov': {'Government': ['PSOE', 'UP', 'PNV', 'MP', 'BNG', 'Sumar'],
                 'Opposition': ['PP', 'VOX', 'Cs', 'JxCat', 'CUP', 'CC', 'PRC', 'TE', 'EV']},
-        'blocs': {'Left': ['PSOE', 'UP', 'MP'], 'Right': ['PP', 'VOX', 'Cs'],
-                  'Regionalist': ['ERC', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG', 'NA+', 'PRC', 'TE', 'EV']},
+        'blocs': {'Left': ['PSOE', 'UP', 'MP', 'Sumar'], 'Right': ['PP', 'VOX', 'Cs']},
         'restart': ['http'],
         'start': 0,
-        'end_date': Date(2023, 12, 10),
+        'end_date': Date(2023, 12, 3),
         'vlines': {Date(2021, 5, 4): 'Madrilenian election', Date(2021, 2, 14): 'Catalan election'},
         'url': 'https://en.wikipedia.org/w/index.php?title='
                'Opinion_polling_for_the_2023_Spanish_general_election&action=edit&section=5'
@@ -818,22 +820,25 @@ specs = {
     },
     'Turkey': {
         'key': ['date', 'firm', 'sample',
-                'AKP', 'MHP', 'BBP', 'HÜDA PAR', 'People\'s Alliance',
-                'CHP', 'IYI', 'SP', 'DEVA', 'GP', 'DP', 'Nation Alliance',
-                'HDP', 'TIP', 'Labour and Freedom'],
-        'include': ['AKP', 'MHP', 'BBP', 'HÜDA PAR',
+                'AKP', 'MHP', 'BBP', 'YRP', 'People\'s Alliance',
+                'CHP', 'IYI', 'Nation Alliance',
+                'HDP', 'TIP', 'Labour and Freedom',
+                'ZP', 'MP', 'other', 'lead'],
+        'include': ['AKP', 'MHP', 'BBP', 'YRP', 'HÜDA PAR',
                     'CHP', 'IYI', 'SP', 'DEVA', 'GP', 'DP',
-                    'HDP', 'TIP'],
-        'col': {'AKP': (253, 196, 0), 'MHP': (135, 0, 0), 'BBP': (204, 82, 82), 'HÜDA PAR': (0, 156, 67),
-                'CHP': (237, 28, 36), 'IYI': (61, 181, 230), 'SP': (255, 95, 95), 'DEVA': (255, 95, 95),
-                'GP': (0, 105, 167), 'DP': (45, 179, 74), 'HDP': (149, 27, 136), 'TIP': (197, 31, 48)},
-        'blocs': {'People\'s Alliance': ['AKP', 'MHP', 'BBP', 'HÜDA PAR'],
+                    'HDP', 'TIP', 'MP'],
+        'col': {'AKP': (253, 196, 0), 'MHP': (135, 0, 0), 'BBP': (204, 82, 82), 'YRP': (237, 29, 36),
+                'HÜDA PAR': (0, 156, 67),
+                'CHP': (237, 28, 36), 'IYI': (61, 181, 230), 'SP': (255, 95, 95), 'DEVA': (0, 105, 167),
+                'GP': (45, 179, 74), 'DP': (204, 0, 0), 'HDP': (149, 27, 136), 'TIP': (197, 31, 48),
+                'YSP': (56, 133, 55), 'MP': (13, 93, 166)},
+        'blocs': {'People\'s Alliance': ['AKP', 'MHP', 'BBP', 'YRP', 'HÜDA PAR'],
                   'Nation Alliance': ['CHP', 'IYI', 'SP', 'DEVA', 'GP', 'DP'],
                   'Labour and Freedom': ['HDP', 'TIP']},
-        'start': 1,
+        'start': -1,
         'end_date': Date(2023, 5, 14),
         'url': 'https://en.wikipedia.org/w/index.php?title='
-               'Opinion_polling_for_the_2023_Turkish_parliamentary_election&action=edit&section=3'
+               'Opinion_polling_for_the_2023_Turkish_parliamentary_election&action=edit&section=2'
     },
     'UK': {
         'include': ['Conservative', 'Labour', 'Lib Dem', 'SNP', 'Green', 'Reform'],

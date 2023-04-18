@@ -1,3 +1,1316 @@
+=====2023 (before Sumar)=====
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:250px;" rowspan="2"| Polling firm/Commissioner
+! style="width:100px;" rowspan="2"| Fieldwork date
+! style="width:50px;" rowspan="2"| Sample size
+! style="width:45px;" rowspan="2"| Turnout
+! style="width:43px;"| [[File:Logotipo del PSOE.svg|25px|link=Spanish Socialist Workers' Party|PSOE]]
+! style="width:43px;"| [[File:Logo del PP (2022).svg|27px|link=People's Party (Spain)|PP]]
+! style="width:43px;"| [[File:VOX logo.svg|30px|link=Vox (political party)|Vox]]
+! style="width:35px;"| [[File:UPsimbol.svg|28px|link=Unidas Podemos]]
+! style="width:35px;"| [[File:Logo de Ciudadanos reducido (2023).svg|33px|link=Citizens (Spanish political party)|CS]]
+! style="width:35px;"| [[File:Esquerra Republicana de Catalunya-Sobiranistes icono.svg|30px|link=Republican Left of Catalonia–Sovereigntists|ERC–Sobiranistes]]
+! style="width:35px;"| [[File:Más País.svg|25px|link=Más País]]
+! style="width:35px;"| [[File:Junts per Catalunya (2020).svg|30px|link=Together for Catalonia (2020)|JxCat]]
+! style="width:35px;"| [[Basque Nationalist Party|PNV]]
+! style="width:35px;"| [[File:EHBildu.svg|28px|link=EH Bildu]]
+! style="width:35px;"| [[File:CUP.svg|27px|link=Popular Unity Candidacy|CUP]]
+! style="width:35px;"| [[File:Logo compacto Coalición Canaria-Nueva Canarias 2019.svg|32px|link=Canarian Coalition–New Canaries|CC–NCa]]
+! style="width:35px;"| [[File:BNG logo.svg|30px|link=Galician Nationalist Bloc|BNG]]
+! style="width:35px;"| [[File:Logo UPN 2017.svg|35px|link=Navarrese People's Union|UPN]]
+! style="width:35px;"| [[Regionalist Party of Cantabria|PRC]]
+! style="width:35px;"| [[File:Revuelta de la España Vaciada.png|20px|link=Empty Spain|EV]]
+! style="width:30px;" rowspan="2"| Lead
+|-
+! style="background:{{party color|Spanish Socialist Workers' Party}};"|
+! style="background:{{party color|People's Party (Spain)}};"|
+! style="background:{{party color|Vox (political party)}};"|
+! style="background:{{party color|Unidas Podemos}};"|
+! style="background:{{party color|Citizens (Spanish political party)}};"|
+! style="background:{{party color|Republican Left of Catalonia–Sovereigntists}};"|
+! style="background:{{party color|Más País}};"|
+! style="background:{{party color|Together for Catalonia (2020)}};"|
+! style="background:{{party color|Basque Nationalist Party}};"|
+! style="background:{{party color|EH Bildu}};"|
+! style="background:{{party color|Popular Unity Candidacy}};"|
+! style="background:{{party color|Canarian Coalition–New Canaries}};"|
+! style="background:{{party color|Galician Nationalist Bloc}};"|
+! style="background:{{party color|Navarrese People's Union}};"|
+! style="background:{{party color|Regionalist Party of Cantabria}};"|
+! style="background:{{party color|Empty Spain}};"|
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (2A): La brecha entre PP y PSOE se estrecha |url=https://electomania.es/electopanel-02a23/ |language=es |work=Electomanía |date=2 April 2023}}</ref>
+| 22–30 Mar
+|?
+|?
+| 25.9<br/>{{font|size=75%|font=Verdana|text=98}}
+| {{Party shading/PP}}| '''31.7'''<br/>{{font|size=75%|font=Verdana|text=136}}
+| 14.5<br/>{{font|size=75%|font=Verdana|text=42}}
+| 11.0<br/>{{font|size=75%|font=Verdana|text=28}}
+| 2.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=11}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=4}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.8
+|-
+| 40dB/Prisa<ref>{{cite web |title=El PSOE se acerca el empate con el PP tras la fallida moción de censura |url=https://elpais.com/espana/2023-04-10/el-psoe-se-acerca-el-empate-con-el-pp-tras-la-fallida-mocion-de-censura.html |language=es |work=El País |date=10 April 2023}}</ref><ref name="40dBApr23">{{cite web |title=40dB. Barómetro Mensual. Abril 2023 |url=https://ep00.epimg.net/infografias/encuestas40db/2023abr/2023_04_abril.pdf |language=es |work=40dB |date=10 April 2023}}</ref>
+| 24–27 Mar
+| 2,000
+|?
+| 27.4<br/>{{font|size=75%|font=Verdana|text=104/117}}
+| {{Party shading/PP}}| '''28.0'''<br/>{{font|size=75%|font=Verdana|text=112/123}}
+| 14.2<br/>{{font|size=75%|font=Verdana|text=41/48}}
+| 11.8<br/>{{font|size=75%|font=Verdana|text=30/33}}
+| 2.9<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.2<br/>{{font|size=75%|font=Verdana|text=3}}
+|?<br/>{{font|size=75%|font=Verdana|text=9}}
+|?<br/>{{font|size=75%|font=Verdana|text=6}}
+|?<br/>{{font|size=75%|font=Verdana|text=5}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 0.6
+|-
+| DYM/Henneo<ref>{{cite web |title=Encuesta DYM. El PSOE y Vox cogen aire tras la moción de censura, pero el PP sigue en cabeza |url=https://www.20minutos.es/noticia/5113805/0/el-pp-baja-pero-mantiene-la-mayoria-mientras-psoe-y-vox/ |language=es |work=20 minutos |date=29 March 2023}}</ref>
+| 23–24 Mar
+| 1,008
+|?
+| 28.2<br/>{{font|size=75%|font=Verdana|text=108/113}}
+| {{Party shading/PP}}| '''30.7'''<br/>{{font|size=75%|font=Verdana|text=126/131}}
+| 15.3<br/>{{font|size=75%|font=Verdana|text=47/50}}
+| 9.4<br/>{{font|size=75%|font=Verdana|text=18/21}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=0/1}}
+| –
+| 2.8<br/>{{font|size=75%|font=Verdana|text=2/3}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 2.5
+|-
+| GAD3/ABC<ref>{{cite web |title=Los bloques de derecha e izquierda se mantienen estables ante el 28-M |url=https://www.abc.es/espana/bloques-derecha-izquierda-mantienen-estables-ante-28m-20230326175902-nt.html |language=es |work=ABC |date=27 March 2023}}</ref><ref>{{cite web |title=Barómetro ABC. Estimación Elecciones Generales |url=https://www.gad3.com/el-pp-lograria-139-143-diputados-y-el-324-el-psoe-obtendria-107-111-escanos-y-el-276-del-voto-emitido-seguidamente-el-partido-de-vox-alcanzaria-los-43-45-diputados-con-un-149-de-estimacion-de/ |language=es |work=GAD3 |date=27 March 2023}}</ref>
+| 22–24 Mar
+| 1,011
+| 65
+| 27.6<br/>{{font|size=75%|font=Verdana|text=107/111}}
+| {{Party shading/PP}}| '''32.4'''<br/>{{font|size=75%|font=Verdana|text=139/143}}
+| 14.9<br/>{{font|size=75%|font=Verdana|text=43/45}}
+| 8.9<br/>{{font|size=75%|font=Verdana|text=18/20}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=0}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=10}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=2}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 4.8
+|-
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP lidera de nuevo en intención de voto pero reduce su ventaja sobre el PSOE |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-lidera-nuevo-intencion-voto-pero-reduce-ventaja-psoe_2023032664203d5431c73f000186e3ec.html |language=es |work=laSexta |date=26 March 2023}}</ref>
+| 20–24 Mar
+|?
+|?
+| 27.8
+| {{Party shading/PP}}| '''30.4'''
+| 14.0
+| 9.8
+| 0.9
+| –
+| 3.1
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 2.6
+|-
+| GAD3/PP<ref>{{cite web |title=Encuesta interna del PP: 188 escaños de PP-Vox frente a 126 de PSOE y Unidas Podemos |url=https://www.elindependiente.com/espana/2023/03/29/encuesta-interna-del-pp-188-escanos-de-pp-vox-frente-a-126-de-psoe-y-unidas-podemos/ |language=es |work=El Independiente |date=30 March 2023}}</ref>
+| 20–24 Mar
+| 2,500
+|?
+| 26.7<br/>{{font|size=75%|font=Verdana|text=106}}
+| {{Party shading/PP}}| '''33.8'''<br/>{{font|size=75%|font=Verdana|text=143}}
+| 14.7<br/>{{font|size=75%|font=Verdana|text=45}}
+| 8.3<br/>{{font|size=75%|font=Verdana|text=20}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.1
+|-
+| KeyData/Público<ref>{{cite web |title=Vox cae en las encuestas tras la elección de Tamames como candidato a la moción aunque la derecha podría gobernar |url=https://www.publico.es/politica/vox-cae-encuestas-eleccion-tamames-candidato-mocion-derecha-gobernar.html |language=es |work=Público |date=25 March 2023}}</ref>
+| 23 Mar
+|?
+| 68.8
+| 25.8<br/>{{font|size=75%|font=Verdana|text=100}}
+| {{Party shading/PP}}| '''31.4'''<br/>{{font|size=75%|font=Verdana|text=135}}
+| 14.7<br/>{{font|size=75%|font=Verdana|text=46}}
+| 10.5<br/>{{font|size=75%|font=Verdana|text=26}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=12}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=2}}
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.6
+|-
+| Data10/OKDiario<ref>{{cite web |title=Un PP al alza logra 137 escaños y mantiene la mayoría absoluta con Vox pese al bajón de los de Abascal |url=https://okdiario.com/espana/pp-alza-logra-137-escanos-mantiene-mayoria-absoluta-vox-pese-bajon-abascal-10647193 |language=es |work=OKDiario |date=27 March 2023}}</ref>
+| 21–23 Mar
+| 1,500
+|?
+| 25.3<br/>{{font|size=75%|font=Verdana|text=97}}
+| {{Party shading/PP}}| '''31.8'''<br/>{{font|size=75%|font=Verdana|text=137}}
+| 15.4<br/>{{font|size=75%|font=Verdana|text=47}}
+| 10.1<br/>{{font|size=75%|font=Verdana|text=24}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.7<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 8.3
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (23M): la moción impulsa al PSOE y perjudica a la derecha |url=https://electomania.es/electopanel23m23/ |language=es |work=Electomanía |date=23 March 2023}}</ref>
+| 20–22 Mar
+| 1,119
+|?
+| 25.4<br/>{{font|size=75%|font=Verdana|text=96}}
+| {{Party shading/PP}}| '''32.1'''<br/>{{font|size=75%|font=Verdana|text=137}}
+| 14.4<br/>{{font|size=75%|font=Verdana|text=42}}
+| 11.2<br/>{{font|size=75%|font=Verdana|text=29}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=11}}
+| 1.8<br/>{{font|size=75%|font=Verdana|text=4}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.7
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (19M): Tamanes no suma para Vox |url=https://electomania.es/electopanel19m23/ |language=es |work=Electomanía |date=19 March 2023}}</ref>
+| 11–17 Mar
+| 1,138
+|?
+| 24.6<br/>{{font|size=75%|font=Verdana|text=93}}
+| {{Party shading/PP}}| '''32.7'''<br/>{{font|size=75%|font=Verdana|text=137}}
+| 14.9<br/>{{font|size=75%|font=Verdana|text=45}}
+| 11.3<br/>{{font|size=75%|font=Verdana|text=29}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=11}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=4}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 8.1
+|-
+| CIS {{smaller|(SocioMétrica)}}{{efn|name="AltCIS"|Alternative projection based on raw CIS data.}}<ref>{{cite web |title=Recálculo de los datos del CIS, ajustados al voto real del 10N19. 18/03/2023 |url=https://twitter.com/SociometricaEs/status/1637008730133876736 |language=es |work=SocioMétrica |date=18 March 2023}}</ref>
+| rowspan="2"| 1–11 Mar
+| rowspan="2"| 3,788
+| 60.0
+| 28.6
+| {{Party shading/PP}}| '''31.9'''
+| 15.1
+| 8.8
+| 2.6
+| 2.5
+| 2.0
+| 1.3
+| 1.4
+| 0.9
+| 0.6
+| 0.8
+| 0.6
+| 0.1
+| 0.0
+| 0.3
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 3.3
+|-
+| CIS<ref name="CISMar23">{{cite web |title=Barómetro de marzo 2023 (Estudio nº 3398. Marzo 2023) |url=https://datos.cis.es/pdf/Es3398marMT_A.pdf |language=es |work=CIS |date=17 March 2023}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3398. Barómetro de marzo 2023) |url=https://datos.cis.es/pdf/3398_Estimacion.pdf |language=es |work=CIS |date=17 March 2023}}</ref>
+|?
+| {{Party shading/PSOE}}| '''32.7'''
+| 28.0
+| 10.1
+| 10.0
+| 2.5
+| 2.4
+| 1.4
+| 1.1
+| 1.1
+| 0.7
+| 0.5
+| 0.4
+| 0.7
+| 0.3
+| 0.1
+| 0.1
+| style="background:{{party color|Spanish Socialist Workers' Party}}; color:white;"| 4.7
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=EP (12M): El 8M da un leve respiro a Podemos pero no frena la bajada socialista |url=https://electomania.es/ep12mar23/ |language=es |work=Electomanía |date=12 March 2023}}</ref>
+| 6–10 Mar
+| 1,007
+|?
+| 24.8<br/>{{font|size=75%|font=Verdana|text=94}}
+| {{Party shading/PP}}| '''32.5'''<br/>{{font|size=75%|font=Verdana|text=136}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=46}}
+| 11.3<br/>{{font|size=75%|font=Verdana|text=29}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=11}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=4}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.7
+|-
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP ganaría las elecciones con el 30,7% de los votos y amplía a 3,5 puntos la ventaja sobre el PSOE |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-ganaria-elecciones-307-votos-amplia-35-puntos-ventaja-psoe_20230312640dd14c96c07c00017c7586.html |language=es |work=laSexta |date=12 March 2023}}</ref>
+| 6–10 Mar
+|?
+|?
+| 27.3
+| {{Party shading/PP}}| '''30.7'''
+| 14.3
+| 9.2
+| 0.8
+| –
+| 3.3
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 3.4
+|-
+| Hamalgama Métrica/VozPópuli<ref>{{cite web |title=PP y Vox (186) consolidan su mayoría absoluta con 65 escaños más que PSOE y Podemos |url=https://www.vozpopuli.com/espana/pp-vox-mayoria-absoluta-escanos-psoe-podemos.html |language=es |work=VozPópuli |date=12 March 2023}}</ref>
+| 3–8 Mar
+| 1,000
+|?
+| 24.3<br/>{{font|size=75%|font=Verdana|text=97}}
+| {{Party shading/PP}}| '''32.1'''<br/>{{font|size=75%|font=Verdana|text=133}}
+| 15.8<br/>{{font|size=75%|font=Verdana|text=53}}
+| 9.8<br/>{{font|size=75%|font=Verdana|text=24}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=12}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.8
+|-
+| Simple Lógica/elDiario.es<ref name="SLMar23">{{cite web |title=PP y PSOE caen con Vox estancado y Unidas Podemos al alza |url=https://www.eldiario.es/politica/pp-psoe-caen-vox-estancado-unidas-alza_1_10040860.html |language=es |work=elDiario.es |date=19 March 2023}}</ref>
+| 1–7 Mar
+| 1,028
+| 66.1
+| 27.0
+| {{Party shading/PP}}| '''28.8'''
+| 15.3
+| 12.4
+| 2.1
+| –
+| 2.0
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 1.8
+|-
+| Celeste-Tel/Onda Cero<ref>{{cite web |title=El PP amplia su ventaja con el PSOE y se distancia en casi 40 escaños |url= https://www.ondacero.es/noticias/espana/amplia-ventaja-psoe-distancia-casi-40-escanos_202303096409dd3131c73f000159e32f.html |language=es |work=Onda Cero |date=10 March 2023}}</ref><ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Marzo de 2023 |url=https://www.celeste-tel.es/wp-content/uploads/2023/03/Bar%C3%B3metro-Electoral-Mensual-MARZO2023.pdf |language=es |work=Celeste-Tel |date=10 March 2023}}</ref>
+| 1–6 Mar
+| 1,100
+| 64.5
+| 24.8<br/>{{font|size=75%|font=Verdana|text=98}}
+| {{Party shading/PP}}| '''32.7'''<br/>{{font|size=75%|font=Verdana|text=137}}
+| 14.3<br/>{{font|size=75%|font=Verdana|text=45}}
+| 10.2<br/>{{font|size=75%|font=Verdana|text=24}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.8<br/>{{font|size=75%|font=Verdana|text=4}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.9
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=EP (5M): bajada en apoyos del PSOE, ligera subida del PP |url=https://electomania.es/ep5m23/ |language=es |work=Electomanía |date=5 March 2023}}</ref>
+| 28 Feb–3 Mar
+| 1,027
+|?
+| 25.3<br/>{{font|size=75%|font=Verdana|text=96}}
+| {{Party shading/PP}}| '''32.2'''<br/>{{font|size=75%|font=Verdana|text=134}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=47}}
+| 11.1<br/>{{font|size=75%|font=Verdana|text=28}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=11}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=4}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.9
+|-
+| SocioMétrica/El Español<ref name="SMMar23">{{cite web |title=Feijóo alcanza la cota máxima del PP desde que cayó Rajoy y aventaja a Sánchez en 6,6 puntos |url=https://www.elespanol.com/espana/politica/20230305/feijoo-alcanza-maxima-pp-rajoy-aventaja-sanchez/745925531_0.html |language=es |work=El Español |date=5 March 2023}}</ref>
+| 28 Feb–3 Mar
+| 900
+|?
+| 25.0<br/>{{font|size=75%|font=Verdana|text=97}}
+| {{Party shading/PP}}| '''31.6'''<br/>{{font|size=75%|font=Verdana|text=135}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=46}}
+| 11.2<br/>{{font|size=75%|font=Verdana|text=30}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=0}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=12}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=3}}
+| 1.8<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.6
+|-
+| Sigma Dos/El Mundo<ref>{{cite web |title=Feijóo se distancia de Sánchez y compensa el batacazo de Vox |url=https://www.elmundo.es/espana/encuestas/2023/03/05/6404da6321efa020568b456f.html |language=es |work=El Mundo |date=6 March 2023}}</ref>
+| 24 Feb–2 Mar
+| 1,772
+|?
+| 25.0<br/>{{font|size=75%|font=Verdana|text=97}}
+| {{Party shading/PP}}| '''31.5'''<br/>{{font|size=75%|font=Verdana|text=138}}
+| 14.7<br/>{{font|size=75%|font=Verdana|text=44}}
+| 9.8<br/>{{font|size=75%|font=Verdana|text=22}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=14}}
+| 2.7<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=10}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.5
+|-
+| GESOP/Prensa Ibérica<ref name="GESOPMar23">{{cite web |title=Encuesta elecciones España: máxima igualdad entre los bloques de Sánchez y Feijóo a nueve meses de las generales |url=https://www.epe.es/es/politica/20230306/encuesta-elecciones-generales-espana-84150414 |language=es |work=El Periódico de España |date=6 March 2023}}</ref>
+| 27 Feb–1 Mar
+| 1,002
+|?
+| 26.9<br/>{{font|size=75%|font=Verdana|text=104/108}}
+| {{Party shading/PP}}| '''29.8'''<br/>{{font|size=75%|font=Verdana|text=127/130}}
+| 14.8<br/>{{font|size=75%|font=Verdana|text=44/47}}
+| 11.8<br/>{{font|size=75%|font=Verdana|text=30/33}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=0}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=10/11}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=2/3}}
+| 1.8<br/>{{font|size=75%|font=Verdana|text=7/8}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 2.9
+|-
+| 40dB/Prisa<ref>{{cite web |title=El PP sigue en cabeza y Podemos resiste la bronca por la ley del ‘sólo sí es sí’ |url=https://elpais.com/espana/2023-03-06/el-pp-sigue-en-cabeza-y-podemos-resiste-la-bronca-por-la-ley-del-solo-si-es-si.html |language=es |work=El País |date=6 March 2023}}</ref><ref name="40dBMar23">{{cite web |title=40dB. Barómetro Mensual. Marzo 2023 |url=https://ep00.epimg.net/infografias/encuestas40db/2023mar/2023_03_informe.pdf |language=es |work=40dB |date=6 March 2023}}</ref>
+| 23–26 Feb
+| 2,000
+|?
+| 26.4<br/>{{font|size=75%|font=Verdana|text=100/109}}
+| {{Party shading/PP}}| '''28.6'''<br/>{{font|size=75%|font=Verdana|text=121/124}}
+| 14.1<br/>{{font|size=75%|font=Verdana|text=40/47}}
+| 12.3<br/>{{font|size=75%|font=Verdana|text=31/35}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=3/4}}
+|?<br/>{{font|size=75%|font=Verdana|text=8}}
+|?<br/>{{font|size=75%|font=Verdana|text=6}}
+|?<br/>{{font|size=75%|font=Verdana|text=5}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 2.2
+|-
+| NC Report/La Razón<ref>{{cite web |title=Feijóo consolida la mayoría absoluta del centro derecha y supera en más de dos millones de votos al PSOE |url=https://www.larazon.es/espana/feijoo-consolida-mayoria-absoluta-centro-derecha-supera-mas-dos-millones-votos-psoe_2023022763fba079b385600001617b67.html |language=es |work=La Razón |date=27 February 2023}}</ref>
+| 20–24 Feb
+| 1,000
+| 66.2
+| 24.2<br/>{{font|size=75%|font=Verdana|text=94/96}}
+| {{Party shading/PP}}| '''33.4'''<br/>{{font|size=75%|font=Verdana|text=139/141}}
+| 13.8<br/>{{font|size=75%|font=Verdana|text=44/46}}
+| 10.0<br/>{{font|size=75%|font=Verdana|text=24/26}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.2<br/>{{font|size=75%|font=Verdana|text=12/13}}
+| 2.9<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=7/8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=5}}
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 9.2
+|-
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP sigue líder en intención de voto con un 30,3% y aumenta la distancia con el PSOE |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-sigue-lider-intencion-voto-303-aumenta-distancia-psoe_2023022563fa09a5b3856000015fc5a2.html |language=es |work=laSexta |date=25 February 2023}}</ref>
+| 20–24 Feb
+|?
+|?
+| 27.1
+| {{Party shading/PP}}| '''30.3'''
+| 14.7
+| 9.6
+| 0.8
+| –
+| 3.0
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 3.2
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=EP (26F): ligera subida de la izquierda |url=https://electomania.es/ep26feb23/ |language=es |work=Electomanía |date=26 February 2023}}</ref>
+| 19–24 Feb
+| 1,101
+|?
+| 25.8<br/>{{font|size=75%|font=Verdana|text=95}}
+| {{Party shading/PP}}| '''31.9'''<br/>{{font|size=75%|font=Verdana|text=134}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=47}}
+| 11.0<br/>{{font|size=75%|font=Verdana|text=28}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=11}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=4}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.1
+|-
+| KeyData/Público<ref>{{cite web |title=El PP consolida su liderazgo y su dependencia de Vox en las encuestas ante una izquierda estancada |url=https://www.publico.es/politica/pp-consolida-liderazgo-dependencia-vox-encuestas-izquierda-estancada.html |language=es |work=Público |date=26 February 2023}}</ref>
+| 23 Feb
+|?
+| 68.5
+| 25.9<br/>{{font|size=75%|font=Verdana|text=99}}
+| {{Party shading/PP}}| '''31.1'''<br/>{{font|size=75%|font=Verdana|text=132}}
+| 15.1<br/>{{font|size=75%|font=Verdana|text=48}}
+| 10.4<br/>{{font|size=75%|font=Verdana|text=26}}
+| 1.8<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=12}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.2
+|-
+| Data10/OKDiario<ref>{{cite web |title=Feijóo crece a costa del PSOE y Vox, aventaja a Sánchez en 42 diputados y sumaría 185 con Abascal |url=https://okdiario.com/espana/feijoo-crece-costa-del-psoe-vox-aventaja-sanchez-42-diputados-sumaria-185-abascal-10496802 |language=es |work=OKDiario |date=27 February 2023}}</ref>
+| 21–23 Feb
+| 1,500
+|?
+| 25.0<br/>{{font|size=75%|font=Verdana|text=94}}
+| {{Party shading/PP}}| '''31.6'''<br/>{{font|size=75%|font=Verdana|text=136}}
+| 15.7<br/>{{font|size=75%|font=Verdana|text=49}}
+| 10.3<br/>{{font|size=75%|font=Verdana|text=25}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.6
+|-
+| GAD3/NIUS<ref name="GAD3Feb23">{{cite web |title=Barómetro de GAD3: El PP ganaría las elecciones con 150 escaños pero sigue necesitando a un Vox a la baja para la investidura de Feijóo |url=https://www.niusdiario.es/nacional/politica/20230227/barometro-gad3-febrero-pp-gana-elecciones-necesita-vox-cae-investidura-feijoo_18_08832881.html |language=es |work=NIUS |date=27 February 2023}}</ref><ref>{{cite web |title=Barómetro NIUS. Estimación elecciones generales |url=https://www.gad3.com/barometro-nius-estimacion-elecciones-generales-6/ |language=es |work=GAD3 |date=27 February 2023}}</ref>
+| 20–22 Feb
+| 1,001
+| 68
+| 26.9<br/>{{font|size=75%|font=Verdana|text=103/107}}
+| {{Party shading/PP}}| '''33.9'''<br/>{{font|size=75%|font=Verdana|text=146/150}}
+| 13.4<br/>{{font|size=75%|font=Verdana|text=37/39}}
+| 9.6<br/>{{font|size=75%|font=Verdana|text=20/22}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=0}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=10}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=3}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.0
+|-
+| Sigma Dos/Antena 3<ref name="SDFeb23">{{cite web |title=Encuesta electoral de Sigma Dos: el PP ganaría las elecciones y sube en intención de voto junto al PSOE respecto a enero |url=https://www.antena3.com/noticias/espana/encuesta-electoral-sigma-dos-ganaria-elecciones-sube-intencion-voto-junto-psoe-respecto-enero_2023022663fbbd80bbe58a0001534de1.html |language=es |work=Antena 3 |date=26 February 2023}}</ref>
+| 16–22 Feb
+|?
+|?
+| 25.2<br/>{{font|size=75%|font=Verdana|text=97/99}}
+| {{Party shading/PP}}| '''31.6'''<br/>{{font|size=75%|font=Verdana|text=136/138}}
+| 14.6<br/>{{font|size=75%|font=Verdana|text=42/44}}
+| 9.4<br/>{{font|size=75%|font=Verdana|text=20/22}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=0/1}}
+| –
+| 2.6<br/>{{font|size=75%|font=Verdana|text=3/4}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.4
+|-
+| DYM/Henneo<ref>{{cite web |title=Encuesta DYM. El PP sigue aumentando su distancia con el PSOE a costa de Vox y con Unidas Podemos en mínimos históricos |url=https://www.20minutos.es/noticia/5102986/0/el-pp-amplia-su-ventaja-con-el-psoe-a-costa-de-vox-y-con-unidas-podemos-en-minimos-historicos/ |language=es |work=20 minutos |date=22 February 2023}}</ref>
+| 15–19 Feb
+| 1,003
+|?
+| 27.1<br/>{{font|size=75%|font=Verdana|text=103/107}}
+| {{Party shading/PP}}| '''32.4'''<br/>{{font|size=75%|font=Verdana|text=132/136}}
+| 14.7<br/>{{font|size=75%|font=Verdana|text=45/48}}
+| 9.2<br/>{{font|size=75%|font=Verdana|text=18/21}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=0/1}}
+| –
+| 2.6<br/>{{font|size=75%|font=Verdana|text=2/3}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.3
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=EP (19F): el PP alcanza el 32%, con la izquierda estancada |url=https://electomania.es/ep19feb23/ |language=es |work=Electomanía |date=19 February 2023}}</ref>
+| 14–17 Feb
+|?
+|?
+| 25.6<br/>{{font|size=75%|font=Verdana|text=95}}
+| {{Party shading/PP}}| '''32.1'''<br/>{{font|size=75%|font=Verdana|text=136}}
+| 15.1<br/>{{font|size=75%|font=Verdana|text=47}}
+| 10.8<br/>{{font|size=75%|font=Verdana|text=27}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=11}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=4}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.5
+|-
+| CIS {{smaller|(SocioMétrica)}}{{efn|name="AltCIS"}}<ref>{{cite web |title=La verdad sobre los datos del CIS: el cálculo habitual de los sondeos otorga 5,6 puntos de ventaja al PP |url=https://www.elespanol.com/espana/20230219/verdad-cis-calculo-habitual-sondeos-ventaja-pp/742425878_0.html |language=es |work=El Español |date=19 February 2023}}</ref><ref>{{cite web |title=Recálculo de los datos del CIS, ajustados al voto real del 10N19. 21/02/2023 |url=https://twitter.com/SociometricaEs/status/1627923268723146753 |language=es |work=SocioMétrica |date=21 February 2023}}</ref>
+| rowspan="2"| 1–11 Feb
+| rowspan="2"| 3,935
+| 62.6
+| 26.3
+| {{Party shading/PP}}| '''31.9'''
+| 15.0
+| 11.5
+| 2.0
+| 1.7
+| 1.9
+| 0.9
+| 1.1
+| 1.0
+| 0.5
+| 0.2
+| 0.5
+| 0.4
+| 0.2
+| 0.1
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.6
+|-
+| CIS<ref name="CISFeb23">{{cite web |title=Barómetro de febrero 2023 (Estudio nº 3395. Febrero 2023) |url=https://datos.cis.es/pdf/Es3395marMT_A.pdf |language=es |work=CIS |date=17 February 2023}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3395. Barómetro de febrero 2023) |url=https://datos.cis.es/pdf/3395_Estimacion.pdf |language=es |work=CIS |date=17 February 2023}}</ref><ref>{{cite web |title=[GEN] ESPAÑA. Encuesta CIS 17/02/2023: UP-ECP-EC 12,7%, MÁS PAÍS 1,3%, PSOE 32,1%, Cs 2,0%, PP 29,8%, VOX 10,0% |url=https://www.electografica.com/2023/02/encuesta-cis-230217.html |language=es |work=Electográfica |date=17 February 2023}}</ref>
+|?
+| {{Party shading/PSOE}}| '''32.1'''<br/>{{font|size=75%|font=Verdana|text=137}}
+| 29.8<br/>{{font|size=75%|font=Verdana|text=126}}
+| 10.0<br/>{{font|size=75%|font=Verdana|text=23}}
+| 12.7<br/>{{font|size=75%|font=Verdana|text=36}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=0}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=4}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=3}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|Spanish Socialist Workers' Party}}; color:white;"| 2.3
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=EP (12F): descenso del PSOE, sube ERC |url=https://electomania.es/ep12feb23/ |language=es |work=Electomanía |date=12 February 2023}}</ref>
+| 7–10 Feb
+| 1,084
+|?
+| 25.6<br/>{{font|size=75%|font=Verdana|text=95}}
+| {{Party shading/PP}}| '''31.8'''<br/>{{font|size=75%|font=Verdana|text=136}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=47}}
+| 10.8<br/>{{font|size=75%|font=Verdana|text=28}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=11}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.2
+|-
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP ganaría las elecciones con el 29,8% de los votos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-ganaria-elecciones-298-votos_2023021163e79b387b624e0001ad3252.html |language=es |work=laSexta |date=12 February 2023}}</ref>
+| 6–10 Feb
+|?
+|?
+| 27.4
+| {{Party shading/PP}}| '''29.8'''
+| 15.0
+| 9.5
+| 0.9
+| –
+| 3.2
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 2.4
+|-
+| Hamalgama Métrica/VozPópuli<ref>{{cite web |title=Núñez Feijóo frena su subida con Sánchez estancado por debajo de los 100 diputados |url=https://www.vozpopuli.com/espana/feijoo-sanchez-diputados.html |language=es |work=VozPópuli |date=13 February 2023}}</ref>
+| 6–9 Feb
+| 1,000
+|?
+| 24.4<br/>{{font|size=75%|font=Verdana|text=97}}
+| {{Party shading/PP}}| '''32.0'''<br/>{{font|size=75%|font=Verdana|text=132}}
+| 16.0<br/>{{font|size=75%|font=Verdana|text=54}}
+| 9.9<br/>{{font|size=75%|font=Verdana|text=24}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.2<br/>{{font|size=75%|font=Verdana|text=12}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.6
+|-
+| Simple Lógica/elDiario.es<ref name="SLFeb23">{{cite web |title=Feijóo mantiene dos puntos de ventaja con una leve recuperación de la izquierda |url=https://www.eldiario.es/politica/feijoo-aguanta-puntos-ventaja-recuperacion-izquierda_1_9940186.html |language=es |work=elDiario.es |date=13 February 2023}}</ref>
+| 1–7 Feb
+| 1,240
+| 65.7
+| 27.7
+| {{Party shading/PP}}| '''29.7'''
+| 15.2
+| 11.2
+| 1.7
+| –
+| 2.3
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 2.0
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=EP (5Feb): descenso de la izquierda, que aprovechan PP y Vox |url=https://electomania.es/ep5feb23/ |language=es |work=Electomanía |date=5 February 2023}}</ref>
+| 31 Jan–3 Feb
+| 1,123
+|?
+| 25.8<br/>{{font|size=75%|font=Verdana|text=96}}
+| {{Party shading/PP}}| '''31.7'''<br/>{{font|size=75%|font=Verdana|text=136}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=47}}
+| 10.9<br/>{{font|size=75%|font=Verdana|text=28}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=10}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.9
+|-
+| SocioMétrica/El Español<ref>{{cite web |title=Feijóo, partido a partido: abre brecha a costa del PSOE y Vox con su mejor dato en 5 meses |url=https://www.elespanol.com/espana/politica/20230205/feijoo-partido-brecha-costa-psoe-vox-mejor/729177209_0.html |language=es |work=El Español |date=5 February 2023}}</ref>
+| 30 Jan–3 Feb
+| 900
+|?
+| 25.4<br/>{{font|size=75%|font=Verdana|text=96}}
+| {{Party shading/PP}}| '''31.1'''<br/>{{font|size=75%|font=Verdana|text=133}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=50}}
+| 10.8<br/>{{font|size=75%|font=Verdana|text=29}}
+| 1.8<br/>{{font|size=75%|font=Verdana|text=0}}
+| 2.7<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.7<br/>{{font|size=75%|font=Verdana|text=3}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.7
+|-
+| Sigma Dos/El Mundo<ref>{{cite web |title=El PP amplía la distancia con el PSOE y suma más votos que toda la izquierda|url=https://www.elmundo.es/espana/encuestas/2023/02/05/63dfe73fe4d4d8524d8b456f.html |language=es |work=El Mundo |date=6 February 2023}}</ref>
+| 27 Jan–2 Feb
+| 1,702
+|?
+| 24.6<br/>{{font|size=75%|font=Verdana|text=94}}
+| {{Party shading/PP}}| '''31.1'''<br/>{{font|size=75%|font=Verdana|text=133}}
+| 16.0<br/>{{font|size=75%|font=Verdana|text=50}}
+| 10.2<br/>{{font|size=75%|font=Verdana|text=24}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=11}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=6}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.5
+|-
+| 40dB/Prisa<ref>{{cite web |title=Vox se recupera tras meses de caídas mientras PP y PSOE se estancan |url=https://elpais.com/espana/2023-02-06/vox-se-recupera-tras-meses-de-caidas-mientras-pp-y-psoe-se-estancan.html |language=es |work=El País |date=6 February 2023}}</ref><ref name="40dBFeb23">{{cite web |title=40dB. Barómetro Mensual. Febrero 2023 |url=https://ep00.epimg.net/infografias/encuestas40db/2023feb/2023_02_informe.pdf |language=es |work=40dB |date=6 February 2023}}</ref>
+| 26–29 Jan
+| 2,000
+|?
+| 26.9<br/>{{font|size=75%|font=Verdana|text=101/112}}
+| {{Party shading/PP}}| '''28.7'''<br/>{{font|size=75%|font=Verdana|text=118/126}}
+| 14.9<br/>{{font|size=75%|font=Verdana|text=42/49}}
+| 11.5<br/>{{font|size=75%|font=Verdana|text=29/32}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=12}}
+| 2.9<br/>{{font|size=75%|font=Verdana|text=3}}
+|?<br/>{{font|size=75%|font=Verdana|text=10}}
+|?<br/>{{font|size=75%|font=Verdana|text=6}}
+|?<br/>{{font|size=75%|font=Verdana|text=5}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 1.8
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=EP (29E): descenso del PP que iguala los bloques |url=https://electomania.es/ep29e23/ |language=es |work=Electomanía |date=29 January 2023}}</ref>
+| 24–27 Jan
+| 1,015
+|?
+| 26.0<br/>{{font|size=75%|font=Verdana|text=99}}
+| {{Party shading/PP}}| '''31.4'''<br/>{{font|size=75%|font=Verdana|text=132}}
+| 14.9<br/>{{font|size=75%|font=Verdana|text=45}}
+| 11.1<br/>{{font|size=75%|font=Verdana|text=28}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=11}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=4}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.4
+|-
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. La mayoría de los encuestados aboga por reformar la ley del 'Solo sí es sí' |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-mayoria-encuestados-aboga-reformar-ley-solo_2023012863d539bcf0501d0001436918.html |language=es |work=laSexta |date=28 January 2023}}</ref>
+| 23–27 Jan
+|?
+|?
+| 27.5
+| {{Party shading/PP}}| '''29.6'''
+| 14.7
+| 9.8
+| 1.0
+| –
+| 3.4
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 2.1
+|-
+| Data10/OKDiario<ref>{{cite web |title=Feijóo arrebata 3 escaños a Vox tras la polémica del aborto, saca 38 a Sánchez y suma 184 con Abascal |url=https://okdiario.com/espana/feijoo-arrebata-3-escanos-vox-polemica-del-aborto-saca-38-sanchez-suma-184-abascal-10359657 |language=es |work=OKDiario |date=29 January 2023}}</ref>
+| 24–26 Jan
+| 1,500
+|?
+| 25.0<br/>{{font|size=75%|font=Verdana|text=96}}
+| {{Party shading/PP}}| '''31.3'''<br/>{{font|size=75%|font=Verdana|text=134}}
+| 15.8<br/>{{font|size=75%|font=Verdana|text=50}}
+| 10.6<br/>{{font|size=75%|font=Verdana|text=25}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=0}}
+| 2.9<br/>{{font|size=75%|font=Verdana|text=12}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.3
+|-
+| Sigma Dos/Antena 3<ref name="SDJan23">{{cite web |title=El PP ganaría las elecciones y amplía su ventaja con el PSOE, según la encuesta de Sigma Dos |url=https://www.antena3.com/noticias/espana/ganaria-elecciones-amplia-ventaja-psoe-segun-encuesta-sigma-dos-antena-3-noticias_2023012563d153a43c81f20001e312fc.html |language=es |work=Antena 3 |date=25 January 2023}}</ref>
+| 25 Jan
+|?
+|?
+| 24.8<br/>{{font|size=75%|font=Verdana|text=96/98}}
+| {{Party shading/PP}}| '''31.1'''<br/>{{font|size=75%|font=Verdana|text=133/135}}
+| 15.2<br/>{{font|size=75%|font=Verdana|text=45/46}}
+| 10.2<br/>{{font|size=75%|font=Verdana|text=24}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=0/1}}
+| –
+| 2.5<br/>{{font|size=75%|font=Verdana|text=3}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.3
+|-
+| DYM/Henneo<ref>{{cite web |title=Encuesta DYM. Feijóo supera a Sánchez como preferido para presidente y agranda la brecha con el PSOE |url=https://www.20minutos.es/noticia/5095187/0/feijoo-supera-a-sanchez-como-preferido-para-presidente-y-agranda-la-brecha-con-el-psoe/ |language=es |work=20 minutos |date=25 January 2023}}</ref>
+| 18–20 Jan
+| 1,007
+|?
+| 26.9<br/>{{font|size=75%|font=Verdana|text=102/106}}
+| {{Party shading/PP}}| '''31.6'''<br/>{{font|size=75%|font=Verdana|text=130/134}}
+| 14.8<br/>{{font|size=75%|font=Verdana|text=46/49}}
+| 9.6<br/>{{font|size=75%|font=Verdana|text=19/22}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=0/1}}
+| –
+| 2.1<br/>{{font|size=75%|font=Verdana|text=2/3}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 4.7
+|-
+| Celeste-Tel/Onda Cero<ref>{{cite web |title=El PP incrementa su distancia con el PSOE, que baja de los 100 escaños |url=https://www.ondacero.es/noticias/espana/incrementa-distancia-psoe-que-baja-100-escanos_2023012563d119691162f500013321b2.html |language=es |work=Onda Cero |date=25 January 2023}}</ref><ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Enero de 2023 |url=https://www.celeste-tel.es/wp-content/uploads/2023/01/Barómetro-Electoral-Mensual-ENERO2023.pdf |language=es |work=Celeste-Tel |date=25 January 2023}}</ref>
+| 12–20 Jan
+| 1,100
+| 64.9
+| 24.9<br/>{{font|size=75%|font=Verdana|text=99}}
+| {{Party shading/PP}}| '''32.4'''<br/>{{font|size=75%|font=Verdana|text=134}}
+| 14.6<br/>{{font|size=75%|font=Verdana|text=47}}
+| 10.4<br/>{{font|size=75%|font=Verdana|text=23}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=13}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=4}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.5
+|-
+| KeyData/Público<ref>{{cite web |title=Las encuestas mantienen a Feijóo atado a Vox pese a la tensión entre el PP y la ultraderecha de los últimos días |url=https://www.publico.es/politica/encuestas-mantienen-feijoo-atado-vox-pese-tension-pp-ultraderecha-ultimos-dias.html |language=es |work=Público |date=26 January 2023}}</ref>
+| 19 Jan
+|?
+| 67.9
+| 25.8<br/>{{font|size=75%|font=Verdana|text=100}}
+| {{Party shading/PP}}| '''31.2'''<br/>{{font|size=75%|font=Verdana|text=132}}
+| 15.1<br/>{{font|size=75%|font=Verdana|text=48}}
+| 10.3<br/>{{font|size=75%|font=Verdana|text=25}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.5<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.4
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=EP (22E): reactivación de la izquierda, bajada del PP |url=https://electomania.es/ep22e23/ |language=es |work=Electomanía |date=22 January 2023}}</ref>
+| 16–19 Jan
+| 1,209
+|?
+| 26.1<br/>{{font|size=75%|font=Verdana|text=99}}
+| {{Party shading/PP}}| '''31.6'''<br/>{{font|size=75%|font=Verdana|text=134}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=45}}
+| 11.0<br/>{{font|size=75%|font=Verdana|text=28}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=12}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=4}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.5
+|-
+| Ágora Integral/Canarias Ahora<ref>{{cite web |title=El PP comienza el año con siete puntos de ventaja sobre el PSOE, según una encuesta de Ágora Integral |url=https://www.eldiario.es/canariasahora/politica/pp-comienza-ano-siete-puntos-ventaja-psoe-encuesta-agora-integral_1_9865639.html |language=es |work=elDiario.es |date=16 January 2023}}</ref>
+| 15 Jan
+| 1,000
+| 66.2
+| 25.9<br/>{{font|size=75%|font=Verdana|text=101}}
+| {{Party shading/PP}}| '''32.3'''<br/>{{font|size=75%|font=Verdana|text=133}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=47}}
+| 11.7<br/>{{font|size=75%|font=Verdana|text=26}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.7<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=3}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.4
+|-
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP lidera la intención de voto con un 29,8% seguido del PSOE, que obtiene un 27,1% |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-lidera-intencion-voto-298-seguido-psoe-que-obtiene-271_2023011463c2c55cefc27f00011e11dd.html |language=es |work=laSexta |date=14 January 2023}}</ref>
+| 9–13 Jan
+|?
+|?
+| 27.1
+| {{Party shading/PP}}| '''29.8'''
+| 15.1
+| 10.2
+| 0.9
+| –
+| 2.9
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 2.7
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=EP (15E): la derecha retoma el pulso |url=https://electomania.es/ep15e23/ |language=es |work=Electomanía |date=15 January 2023}}</ref>
+| 7–12 Jan
+| 1,032
+|?
+| 25.6<br/>{{font|size=75%|font=Verdana|text=95}}
+| {{Party shading/PP}}| '''32.3'''<br/>{{font|size=75%|font=Verdana|text=135}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=48}}
+| 10.8<br/>{{font|size=75%|font=Verdana|text=27}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=12}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.7
+|-
+| CIS {{smaller|(SocioMétrica)}}{{efn|name="AltCIS"}}<ref>{{cite web |title=Recálculo de los datos del CIS, ajustados al voto real del 10N19. 21/01/2023 |url=https://twitter.com/SociometricaEs/status/1616674322717806592 |language=es |work=SocioMétrica |date=21 January 2023}}</ref>
+| rowspan="2"| 2–12 Jan
+| rowspan="2"| 3,961
+| 65.8
+| 26.4
+| {{Party shading/PP}}| '''31.6'''
+| 13.6
+| 12.3
+| 1.9
+| 2.2
+| 1.8
+| 1.4
+| 1.0
+| 0.9
+| 0.7
+| 0.2
+| 0.6
+| 0.3
+| 0.2
+| 0.1
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.2
+|-
+| CIS<ref name="CISJan23">{{cite web |title=Barómetro de enero 2023 (Estudio nº 3390. Enero 2023) |url=https://datos.cis.es/pdf/Es3390mar_A.pdf |language=es |work=CIS |date=18 January 2023}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3390. Barómetro de enero 2023) |url=https://datos.cis.es/pdf/3390_Estimacion.pdf |language=es |work=CIS |date=18 January 2023}}</ref><ref>{{cite web |title=[GEN] ESPAÑA. Encuesta CIS 18/01/2023: UP-ECP-EC 14,2%, MÁS PAÍS 1,7%, PSOE 30,2%, Cs 2,9%, PP 28,5%, VOX 10,0% |url=https://www.electografica.com/2023/01/encuesta-cis-230118.html |language=es |work=Electográfica |date=18 January 2023}}</ref>
+|?
+| {{Party shading/PSOE}}| '''30.2'''<br/>{{font|size=75%|font=Verdana|text=129}}
+| 28.5<br/>{{font|size=75%|font=Verdana|text=123}}
+| 10.0<br/>{{font|size=75%|font=Verdana|text=24}}
+| 14.2<br/>{{font|size=75%|font=Verdana|text=41}}
+| 2.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=7}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=4}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=3}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=3}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|Spanish Socialist Workers' Party}}; color:white;"| 1.7
+|-
+| Hamalgama Métrica/VozPópuli<ref>{{cite web |title=La sedición y la malversación hunden al PSOE y disparan a PP y Vox a casi 190 escaños |url=https://www.vozpopuli.com/espana/sedicion-malversacion-psoe-pp-vox-escanos.html |language=es |work=VozPópuli |date=15 January 2023}}</ref>
+| 5–11 Jan
+| 1,000
+|?
+| 24.5<br/>{{font|size=75%|font=Verdana|text=97}}
+| {{Party shading/PP}}| '''32.3'''<br/>{{font|size=75%|font=Verdana|text=134}}
+| 15.6<br/>{{font|size=75%|font=Verdana|text=53}}
+| 9.6<br/>{{font|size=75%|font=Verdana|text=23}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.1<br/>{{font|size=75%|font=Verdana|text=12}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=3}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.8
+|-
+| Simple Lógica/elDiario.es<ref name="SLJan23">{{cite web |title=El PP remonta a costa de Vox con el PSOE a la baja  |url=https://www.eldiario.es/politica/pp-remonta-costa-vox-psoe-baja_1_9863366.html |language=es |work=elDiario.es |date=16 January 2023}}</ref>
+| 2–10 Jan
+| 1,012
+| 67.9
+| 27.0
+| {{Party shading/PP}}| '''29.9'''
+| 14.9
+| 10.5
+| 1.8
+| –
+| 3.2
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 2.9
+|-
+| ElectoPanel/Electomanía<ref>{{cite web |title=EP (8E): ligera subida de PSOE y UP |url=https://electomania.es/ep8e23/ |language=es |work=Electomanía |date=8 January 2023}}</ref>
+| 30 Dec–5 Jan
+| 1,937
+|?
+| 26.2<br/>{{font|size=75%|font=Verdana|text=99}}
+| {{Party shading/PP}}| '''32.0'''<br/>{{font|size=75%|font=Verdana|text=136}}
+| 14.9<br/>{{font|size=75%|font=Verdana|text=45}}
+| 10.5<br/>{{font|size=75%|font=Verdana|text=25}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=12}}
+| 1.8<br/>{{font|size=75%|font=Verdana|text=4}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.8
+|-
+| GAD3/NIUS<ref name="GAD3Jan23">{{cite web |title=Barómetro GAD3: El PP afronta el año electoral con una distancia de 7 puntos sobre el PSOE |url=https://www.niusdiario.es/nacional/politica/20230109/barometro-gad3-enero-pp-distancia-electoral-psoe-siete-puntos_18_08387760.html |language=es |work=NIUS |date=9 January 2023}}</ref><ref>{{cite web |title= ESPAÑA. Encuesta GAD3 09/01/2023: UP-ECP-EC 10,1% (22/24), MÁS PAÍS 1,6% (2), PSOE 25,9% (98/102), Cs 1,0%, PP 33,2% (140/144), VOX 15,3% (45/47) |url=https://www.electografica.com/2023/01/encuesta-gad3-230109.html |language=es |work=Electográfica |date=9 January 2023}}</ref>
+| 28 Dec–4 Jan
+| 1,002
+| 67
+| 25.9<br/>{{font|size=75%|font=Verdana|text=98/102}}
+| {{Party shading/PP}}| '''33.2'''<br/>{{font|size=75%|font=Verdana|text=140/144}}
+| 15.3<br/>{{font|size=75%|font=Verdana|text=45/47}}
+| 10.1<br/>{{font|size=75%|font=Verdana|text=22/24}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=0}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=12}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=2}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.3
+|}
+
 =====2022=====
 {| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
 |- style="height:42px; background-color:#E9E9E9"

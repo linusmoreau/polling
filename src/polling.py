@@ -227,6 +227,10 @@ def transcribe_table(content, key, choice, begin, start):
                 nkey = ['firm', 'date', 'sample', 'moe',
                         'GERB', 'BSP', 'DPS', 'BP', 'DB', 'Volya', 'ITN', 'IBG-NI',
                         'Other', 'lead', 'end']
+            elif 'announce that they will run together' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'GERB', 'PP', 'DB', 'DPS', 'Revival', 'BSP', 'BV', 'IMRO', 'ITN', 'IBG-NI', 'NDSV',
+                        'Other', 'None', 'lead']
         elif choice == 'Norway':
             if 'Old Norway' in line:
                 nkey = ['firm', 'date', 'sample', 'resp',
@@ -269,7 +273,7 @@ def transcribe_table(content, key, choice, begin, start):
                 nkey = ['firm', 'date', 'sample',
                         'A', 'V', 'O', 'B', 'F', '\u00d8', 'C', '\u00c5', 'D', 'I', 'P', 'K', 'E', 'G',
                         'Other', 'lead', 'red', 'blue', 'lead']
-        elif choice == 'France':
+        elif choice == 'France Prez':
             if '=== March ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Arthaud', 'Poutou', 'Roussel', 'Mélenchon', 'Taubira', 'Hidalgo', 'Jadot', 'Thouy',
@@ -322,6 +326,10 @@ def transcribe_table(content, key, choice, begin, start):
                 nkey = ['firm', 'date', 'sample', 'turnout',
                         'PSOE', 'PP', 'VOX', 'UP', 'Cs', 'ERC', 'MP', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG', 'NA+',
                         'PRC', 'TE', 'lead', 'end']
+            elif '2023 (before Sumar)' in line:
+                nkey = ['firm', 'date', 'sample', 'turnout',
+                        'PSOE', 'PP', 'VOX', 'UP', 'Cs', 'ERC', 'MP', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG', 'NA+',
+                        'PRC', 'EV', 'lead', 'end']
         elif choice == 'Slovenia':
             if 'Parties which ran in 2018' in line:
                 nkey = ['date', 'firm', 'publisher', 'sample',
@@ -359,6 +367,30 @@ def transcribe_table(content, key, choice, begin, start):
                         'ANO', 'SPOLU', 'SPOLU', 'SPOLU', 'PaS', 'PaS', 'SPD', 'KSCM', 'CSSD', 'T-S',
                         'T-S', 'Z', 'APB', 'VB', 'P',
                         'Other', 'Lead', 'Govt.', 'Opp.']
+        elif choice == 'Turkey':
+            if 'https://www.cumhuriyet.com.tr/amp/siyaset/' \
+               'son-dakika-deva-gelecek-saadet-ve-demokrat-parti-secime-chp-listesinden-girecek-2068710' in line:
+                nkey = ['date', 'firm', 'sample',
+                        'AKP', 'MHP', 'BBP', 'YRP', 'People\'s Alliance',
+                        'CHP', 'IYI', 'SP', 'DEVA', 'GP', 'DP', 'Nation Alliance',
+                        'HDP', 'TIP', 'Labour and Freedom',
+                        'ZP', 'MP', 'TDP', 'BTP', 'other', 'lead']
+            if '===2022===' in line:
+                nkey = ['date', 'firm', 'size',
+                        'AKP', 'CHP', 'HDP', 'MHP', 'IYI', 'SP', 'DEVA', 'GP', 'BBP', 'YRP', 'MP', 'TDP', 'DP', 'TIP',
+                        'ZP', 'BTP', 'other', 'lead']
+            elif '===2020===' in line:
+                nkey = ['date', 'firm', 'size',
+                        'AKP', 'CHP', 'HDP', 'MHP', 'IYI', 'SP', 'DEVA', 'GP', 'BBP', 'YRP', 'MP', 'other', 'lead']
+            elif '===2019===' in line:
+                nkey = ['date', 'firm', 'size',
+                        'AKP', 'CHP', 'HDP', 'MHP', 'IYI', 'SP', 'DEVA', 'GP', 'BBP', 'YRP', 'other', 'lead']
+            elif '===2018===' in line:
+                nkey = ['date', 'firm', 'size',
+                        'AKP', 'CHP', 'HDP', 'MHP', 'IYI', 'SP', 'other', 'lead']
+        elif choice == 'Alberta':
+            if '===Regional polls===' in line:
+                break
         if not ignore:
             if len(nkey) > 0:
                 tables.append({'table': table[:], 'key': key, 'years': years})
@@ -544,7 +576,7 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
                 temp = temp + ' ' + year
         elif len(temps) == 1:
             try:
-                temp = str(date_kit.get_month_length(date_kit.get_month_number(temps[0]), year)) + \
+                temp = str(date_kit.get_month_length(date_kit.get_month_number(temps[0]), int(year))) + \
                        ' ' + temp + ' ' + year
             except KeyError:
                 return None
@@ -610,16 +642,15 @@ def process_table(table: List[List[Any]], years, key, choice, include, zeros):
         entry = table[i]
         date = entry[date_i]
         if type(date).__name__ != 'str':
-            # print(date, entry)
-            # if date is False:
-            #     for j in range(i - 1, -1, -1):
-            #         t = table[j][date_i]
-            #         if type(t).__name__ == 'int' and t < 0:
-            #             date = t
-            #             break
-            # else:
-            remove.append(i)
-            continue
+            if date is False and choice in ["Spain"]:
+                for j in range(i - 1, -1, -1):
+                    t = table[j][date_i]
+                    if type(t).__name__ == 'int' and t < 0:
+                        date = t
+                        break
+            else:
+                remove.append(i)
+                continue
         else:
             try:
                 date = process_date(entry[date_i], year)
@@ -686,7 +717,7 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
             if type(entry[i]).__name__ == 'str':
                 if '2018 Brazilian general election' in entry[i]:
                     purge.add(k)
-    elif choice == 'France Leg':
+    elif choice == 'France':
         i = key.index('firm')
         j = key.index('LR')
         for k, entry in enumerate(table):
@@ -695,6 +726,12 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
                     purge.add(k)
             elif entry[j] is None:
                 purge.add(k)
+    elif choice == 'Spain':
+        for p in ('PSOE', 'UP'):
+            i = key.index(p)
+            for k, entry in enumerate(table):
+                if entry[i] is None:
+                    purge.add(k)
     elif choice == 'Hungary':
         i = key.index('firm')
         for k, entry in enumerate(table):
@@ -715,7 +752,7 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
             if type(entry[i]).__name__ == 'str':
                 if 'Presidential election' in entry[i]:
                     purge.add(k)
-    elif choice == 'France':
+    elif choice == 'France Prez':
         for p in ['Mélenchon', 'Hidalgo', 'Jadot', 'Macron', 'Pécresse', 'Le Pen']:
             i = key.index(p)
             for k, entry in enumerate(table):
@@ -1554,7 +1591,7 @@ def update_data(sel="All"):
             year = choices[tag]['end_date'].year
             i = url.find(str(year))
             if i != -1:
-                url2 = url[:i] + "next" + url[i+4:]
+                url2 = url[:i] + "next" + url[i + 4:]
                 if i != -1:
                     success = get_dat(dest, url2, tag)
             if not success:
