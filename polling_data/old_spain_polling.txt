@@ -1,3 +1,1149 @@
+=====2023 (after Sumar)=====
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
+|- style="height:42px; background-color:#E9E9E9"
+! style="width:250px;" rowspan="2"| Polling firm/Commissioner
+! style="width:100px;" rowspan="2"| Fieldwork date
+! style="width:50px;" rowspan="2"| Sample size
+! style="width:45px;" rowspan="2"| Turnout
+! style="width:43px;"| [[File:Logotipo del PSOE.svg|25px|link=Spanish Socialist Workers' Party|PSOE]]
+! style="width:43px;"| [[File:Logo del PP (2022).svg|27px|link=People's Party (Spain)|PP]]
+! style="width:43px;"| [[File:VOX logo.svg|30px|link=Vox (political party)|Vox]]
+! style="width:35px;"| [[File:Logo de Podemos (2022).svg|35px|link=Podemos (Spanish political party)|Podemos]]
+! style="width:35px;"| [[File:Sumar logo.svg|35px|link=Sumar (electoral platform)|Sumar]]
+! style="width:35px;"| [[File:Logo de Ciudadanos reducido (2023).svg|33px|link=Citizens (Spanish political party)|CS]]
+! style="width:35px;"| [[File:Esquerra Republicana de Catalunya-Sobiranistes icono.svg|30px|link=Republican Left of Catalonia–Sovereigntists|ERC–Sobiranistes]]
+! style="width:35px;"| [[File:Junts per Catalunya (2020).svg|30px|link=Together for Catalonia (2020)|JxCat]]
+! style="width:35px;"| [[Basque Nationalist Party|PNV]]
+! style="width:35px;"| [[File:EHBildu.svg|28px|link=EH Bildu]]
+! style="width:35px;"| [[File:CUP.svg|27px|link=Popular Unity Candidacy|CUP]]
+! style="width:35px;"| [[File:Logo compacto Coalición Canaria-Nueva Canarias 2019.svg|32px|link=Canarian Coalition–New Canaries|CC–NCa]]
+! style="width:35px;"| [[File:BNG logo.svg|30px|link=Galician Nationalist Bloc|BNG]]
+! style="width:35px;"| [[File:Logo UPN 2017.svg|35px|link=Navarrese People's Union|UPN]]
+! style="width:35px;"| [[Regionalist Party of Cantabria|PRC]]
+! style="width:35px;"| [[File:Revuelta de la España Vaciada.png|20px|link=Empty Spain|EV]]
+! style="width:30px;" rowspan="2"| Lead
+|-
+! style="background:{{party color|Spanish Socialist Workers' Party}};"|
+! style="background:{{party color|People's Party (Spain)}};"|
+! style="background:{{party color|Vox (political party)}};"|
+! style="background:{{party color|Podemos (Spanish political party, 2022)}};"|
+! style="background:{{party color|Sumar (electoral platform)}};"|
+! style="background:{{party color|Citizens (Spanish political party)}};"|
+! style="background:{{party color|Republican Left of Catalonia–Sovereigntists}};"|
+! style="background:{{party color|Together for Catalonia (2020)}};"|
+! style="background:{{party color|Basque Nationalist Party}};"|
+! style="background:{{party color|EH Bildu}};"|
+! style="background:{{party color|Popular Unity Candidacy}};"|
+! style="background:{{party color|Canarian Coalition–New Canaries}};"|
+! style="background:{{party color|Galician Nationalist Bloc}};"|
+! style="background:{{party color|Navarrese People's Union}};"|
+! style="background:{{party color|Regionalist Party of Cantabria}};"|
+! style="background:{{party color|Empty Spain}};"|
+|-
+| NC Report/La Razón<ref>{{cite web |title=El PP roza los 150 escaños a costa de morder ya a Vox |url=https://www.larazon.es/espana/roza-150-escanos-costa-morder-vox_20230605647d289745377c000174a67e.html |language=es |work=La Razón |date=5 June 2023}}</ref>
+| 30 May–3 Jun
+| 1,000
+| 65.5
+| 23.3<br/>{{font|size=75%|font=Verdana|text=94/96}}
+| {{Party shading/PP}}| '''34.6'''<br/>{{font|size=75%|font=Verdana|text=145/147}}
+| 14.3<br/>{{font|size=75%|font=Verdana|text=39/41}}
+| 4.2<br/>{{font|size=75%|font=Verdana|text=2/3}}
+| 10.5<br/>{{font|size=75%|font=Verdana|text=24/26}}
+| –
+| 3.1<br/>{{font|size=75%|font=Verdana|text=12/13}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8/9}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=5/6}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5/6}}
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 11.3
+|-
+| SocioMétrica/El Español<ref name="SMJun23">{{cite web |title=La ventaja de Feijóo sobre Pedro Sánchez se amplía a casi 8 puntos tras el adelanto electoral |url=https://www.elespanol.com/espana/politica/20230604/ventaja-feijoo-pedro-sanchez-amplia-adelanto-electoral/768673225_0.html |language=es |work=El Español |date=4 June 2023}}</ref>
+| 30 May–3 Jun
+| 1,140
+|?
+| 23.9<br/>{{font|size=75%|font=Verdana|text=90}}
+| {{Party shading/PP}}| '''31.8'''<br/>{{font|size=75%|font=Verdana|text=135}}
+| 16.1<br/>{{font|size=75%|font=Verdana|text=52}}
+| 4.9<br/>{{font|size=75%|font=Verdana|text=4}}
+| 9.8<br/>{{font|size=75%|font=Verdana|text=26}}
+| –
+| 2.5<br/>{{font|size=75%|font=Verdana|text=11}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=11}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=3}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.9
+|-
+| Data10/OKDiario<ref>{{cite web |title=PP y Vox disparan su mayoría absoluta hasta los 188 diputados con la ausencia de Ciudadanos |url=https://okdiario.com/espana/pp-vox-disparan-mayoria-absoluta-hasta-188-diputados-ausencia-ciudadanos-11027752 |language=es |work=OKDiario |date=5 June 2023}}</ref>
+| 1–2 Jun
+| 1,500
+|?
+| 22.1<br/>{{font|size=75%|font=Verdana|text=89}}
+| {{Party shading/PP}}| '''34.3'''<br/>{{font|size=75%|font=Verdana|text=140}}
+| 15.9<br/>{{font|size=75%|font=Verdana|text=48}}
+| {{efn|name="Sumar"|Within [[Sumar (electoral platform)|Sumar]].}}
+| 13.9<br/>{{font|size=75%|font=Verdana|text=31}}
+| –
+| 2.6<br/>{{font|size=75%|font=Verdana|text=11}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=11}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=7}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 12.2
+|-
+| Target Point/El Debate<ref>{{cite web |title=Sánchez no saca a la izquierda del coma: el PP y Vox mantienen la mayoría absoluta tras el adelanto |url=https://www.eldebate.com/espana/20230604/sanchez-no-saca-izquierda-coma-pp-vox-mantienen-mayoria-absoluta-adelanto_119000.html |language=es |work=El Debate |date=4 June 2023}}</ref>
+| 31 May–2 Jun
+| 1,027
+| 62.4
+| 27.6<br/>{{font|size=75%|font=Verdana|text=109/111}}
+| {{Party shading/PP}}| '''34.4'''<br/>{{font|size=75%|font=Verdana|text=146/149}}
+| 13.6<br/>{{font|size=75%|font=Verdana|text=32/34}}
+| {{efn|name="Sumar"}}
+| 12.8<br/>{{font|size=75%|font=Verdana|text=27/29}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.8
+|-
+| rowspan="2"| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (4J): el bloque de la derecha se refuerza |url=https://electomania.es/electopanel-4j-adelanto-el-bloque-de-la-derecha-se-refuerza/ |language=es |work=Electomanía |date=4 June 2023}}</ref>
+| rowspan="2"| 29 May–2 Jun
+| rowspan="2"| 1,854
+|?
+| 25.3<br/>{{font|size=75%|font=Verdana|text=94}}
+| {{Party shading/PP}}| '''31.7'''<br/>{{font|size=75%|font=Verdana|text=130}}
+| 16.2<br/>{{font|size=75%|font=Verdana|text=50}}
+| {{efn|name="Sumar"}}
+| 15.7<br/>{{font|size=75%|font=Verdana|text=44}}
+| –
+| 1.9<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.4
+|-
+|?
+| 26.7<br/>{{font|size=75%|font=Verdana|text=101}}
+| {{Party shading/PP}}| '''32.9'''<br/>{{font|size=75%|font=Verdana|text=141}}
+| 15.9<br/>{{font|size=75%|font=Verdana|text=50}}
+| 3.1<br/>{{font|size=75%|font=Verdana|text=2}}
+| 9.2<br/>{{font|size=75%|font=Verdana|text=17}}
+| –
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.8<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=8}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=3}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=3}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.2
+|-
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP ganaría las elecciones con el 32,6% de los votos |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-ganaria-elecciones-326-votos_20230603647b2dbba7fe8d0001daf132.html |language=es |work=laSexta |date=3 June 2023}}</ref>
+| 29 May–2 Jun
+| 1,200
+|?
+| 24.3
+| {{Party shading/PP}}| '''32.6'''
+| 14.4
+| 5.2
+| 10.5
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 8.3
+|-
+| rowspan="2"| 40dB/Prisa<ref>{{cite web |title=El PP ganará las elecciones, pero no lograría gobernar si Díaz agrupa a Podemos en Sumar el 23-J |url=https://elpais.com/espana/2023-06-05/el-pp-ganara-las-elecciones-pero-no-lograria-gobernar-si-diaz-agrupa-a-podemos-en-sumar-el-23-j.html |language=es |work=El País |date=5 June 2023}}</ref><ref name="40dBJun23">{{cite web |title=40dB. Barómetro Mensual. Junio 2023 |url=https://ep00.epimg.net/infografias/encuestas40db/2023jun/2023_06_informe.pdf |language=es |work=40dB |date=5 June 2023}}</ref>
+| rowspan="2"| 31 May–1 Jun
+| rowspan="2"| 800
+|?
+| 27.2<br/>{{font|size=75%|font=Verdana|text=97/109}}
+| {{Party shading/PP}}| '''32.3'''<br/>{{font|size=75%|font=Verdana|text=126/139}}
+| 13.6<br/>{{font|size=75%|font=Verdana|text=38/40}}
+| {{efn|name="Sumar"}}
+| 15.6<br/>{{font|size=75%|font=Verdana|text=39/46}}
+| –
+|?<br/>{{font|size=75%|font=Verdana|text=9}}
+|?<br/>{{font|size=75%|font=Verdana|text=8}}
+|?<br/>{{font|size=75%|font=Verdana|text=6}}
+|?<br/>{{font|size=75%|font=Verdana|text=4}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=0}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.1
+|-
+|?
+| 27.3<br/>{{font|size=75%|font=Verdana|text=104/117}}
+| {{Party shading/PP}}| '''31.6'''<br/>{{font|size=75%|font=Verdana|text=125/138}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=40/52}}
+| 4.4<br/>{{font|size=75%|font=Verdana|text=3}}
+| 10.0<br/>{{font|size=75%|font=Verdana|text=22/24}}
+| –
+|?<br/>{{font|size=75%|font=Verdana|text=10}}
+|?<br/>{{font|size=75%|font=Verdana|text=10}}
+|?<br/>{{font|size=75%|font=Verdana|text=6}}
+|?<br/>{{font|size=75%|font=Verdana|text=5}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=0}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 4.3
+|-
+| GESOP/Prensa Ibérica<ref name="GESOPJun23">{{cite web |title=Encuesta elecciones España: El PP ganaría con claridad las generales y rozaría la mayoría absoluta con Vox |url=https://www.epe.es/es/elecciones/20230604/encuesta-elecciones-generales-23j-espana-88294564 |language=es |work=El Periódico de España |date=4 June 2023}}</ref>
+| 30 May–1 Jun
+| 1,003
+|?
+| 27.6<br/>{{font|size=75%|font=Verdana|text=104/110}}
+| {{Party shading/PP}}| '''30.7'''<br/>{{font|size=75%|font=Verdana|text=126/132}}
+| 14.6<br/>{{font|size=75%|font=Verdana|text=42/45}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=2/3}}
+| 13.0<br/>{{font|size=75%|font=Verdana|text=33/36}}
+| –
+| 1.9<br/>{{font|size=75%|font=Verdana|text=8/9}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=8/9}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 3.1
+|-
+| Sigma Dos/El Mundo<ref>{{cite web |title=El PP se dispara, gana terreno a Vox y saca una diferencia de 45 escaños al PSOE |url=https://www.elmundo.es/espana/encuestas/2023/06/03/647b5c57fc6c83ae338b45c4.html |language=es |work=El Mundo |date=3 June 2023}}</ref>
+| 29 May–1 Jun
+| 2,401
+|?
+| 25.7<br/>{{font|size=75%|font=Verdana|text=99}}
+| {{Party shading/PP}}| '''34.2'''<br/>{{font|size=75%|font=Verdana|text=144}}
+| 12.1<br/>{{font|size=75%|font=Verdana|text=33}}
+| {{efn|name="Sumar"}}
+| 14.2<br/>{{font|size=75%|font=Verdana|text=34}}
+| –
+| 3.1<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 8.5
+|-
+| IMOP/El Confidencial<ref>{{cite web |title=Sánchez perdería su plebiscito: PP y Vox se sitúan 20 escaños por encima de la absoluta |url=https://www.elconfidencial.com/espana/observatorio-electoral/2023-05-31/encuesta-imop-sanchez-feijoo-23j-elecciones-generales_3656371/ |language=es |work=El Confidencial |date=30 May 2023}}</ref>
+| 29–30 May
+| 914
+|?
+| 24.6<br/>{{font|size=75%|font=Verdana|text=93}}
+| {{Party shading/PP}}| '''34.4'''<br/>{{font|size=75%|font=Verdana|text=144}}
+| 16.3<br/>{{font|size=75%|font=Verdana|text=52}}
+| {{efn|name="Sumar"}}
+| 10.2<br/>{{font|size=75%|font=Verdana|text=25}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=0}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=11}}
+| 1.8<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=6}}
+| –
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=2}}
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 9.8
+|-
+| Data10/OKDiario<ref>{{cite web |title=El adelanto de Sánchez no evita la mayoría absoluta del PP con Vox y dispara a Bildu por encima del PNV |url=https://okdiario.com/espana/adelanto-sanchez-no-evita-mayoria-absoluta-del-pp-vox-dispara-bildu-encima-del-pnv-11004401 |language=es |work=OKDiario |date=30 May 2023}}</ref>
+| 29 May
+| 1,500
+|?
+| 21.3<br/>{{font|size=75%|font=Verdana|text=84}}
+| {{Party shading/PP}}| '''33.7'''<br/>{{font|size=75%|font=Verdana|text=141}}
+| 15.4<br/>{{font|size=75%|font=Verdana|text=44}}
+| {{efn|name="Sumar"}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=40}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=0}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=11}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=11}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 12.4
+|- style="background:#EFEFEF;"
+| '''[[2023 Spanish local elections|2023 local elections]]'''
+| 28 May
+| {{N/A}}
+| 63.9
+| 28.1
+| {{Party shading/PP}}| '''31.5'''
+| 7.2
+| 2.0
+| 5.5
+| 1.4
+| 2.3
+| 2.5
+| 1.4
+| 1.6
+| 0.6
+| 0.7
+| 1.1
+| 0.4
+| 0.3
+| 0.1
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 3.4
+|-
+| rowspan="2"| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (21My): PSOE y Vox rescatan escaños |url=https://electomania.es/electopanal-encusesta-electomania-21my23/ |language=es |work=Electomanía |date=21 May 2023}}</ref>
+| rowspan="2"| 13–19 May
+| rowspan="2"| 2,001
+|?
+| 25.2<br/>{{font|size=75%|font=Verdana|text=96}}
+| {{Party shading/PP}}| '''31.0'''<br/>{{font|size=75%|font=Verdana|text=133}}
+| 14.9<br/>{{font|size=75%|font=Verdana|text=46}}
+| {{efn|name="Sumar"}}
+| 14.4<br/>{{font|size=75%|font=Verdana|text=39}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.8<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.8
+|-
+|?
+| 26.8<br/>{{font|size=75%|font=Verdana|text=112}}
+| {{Party shading/PP}}| '''30.3'''<br/>{{font|size=75%|font=Verdana|text=129}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=50}}
+| 4.6<br/>{{font|size=75%|font=Verdana|text=3}}
+| 8.2<br/>{{font|size=75%|font=Verdana|text=11}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=11}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=7}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=3}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 3.5
+|-
+| rowspan="2"| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (14My): escenario dual, dependiente de Sumar |url=https://electomania.es/electopanel-14my-adelanto-escenario-dual-dependiente-de-sumar/ |language=es |work=Electomanía |date=14 May 2023}}</ref>
+| rowspan="2"| 6–12 May
+| rowspan="2"| 2,155
+|?
+| 24.5<br/>{{font|size=75%|font=Verdana|text=90}}
+| {{Party shading/PP}}| '''31.6'''<br/>{{font|size=75%|font=Verdana|text=134}}
+| 14.6<br/>{{font|size=75%|font=Verdana|text=44}}
+| {{efn|name="Sumar"}}
+| 14.7<br/>{{font|size=75%|font=Verdana|text=41}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=10}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=3}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.1
+|-
+|?
+| 26.4<br/>{{font|size=75%|font=Verdana|text=108}}
+| {{Party shading/PP}}| '''30.6'''<br/>{{font|size=75%|font=Verdana|text=133}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=50}}
+| 4.6<br/>{{font|size=75%|font=Verdana|text=3}}
+| 8.3<br/>{{font|size=75%|font=Verdana|text=11}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=11}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.8<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=7}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=3}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 4.2
+|-
+| Simple Lógica/elDiario.es<ref name="SLMay23">{{cite web |title=PP y PSOE frenan su caída mientras Sumar y Podemos crecen |url=https://www.eldiario.es/politica/pp-psoe-frenan-caida-sumar-crecen_1_10217121.html |language=es |work=elDiario.es |date=21 May 2023}}</ref>
+| 3–11 May
+| 1,013
+| 70.2
+| 26.2
+| {{Party shading/PP}}| '''27.9'''
+| 15.8
+| 7.3
+| 10.7
+| 1.2
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 1.7
+|-
+| GAD3/NIUS<ref name="GAD3May23">{{cite web |title=Barómetro de GAD3: El PP ganaría las elecciones generales y rozaría los 150 diputados pero sigue necesitando el apoyo de Vox |url=https://www.niusdiario.es/nacional/politica/20230515/barometro-gad3-mayo-pp-gana-elecciones-generales-150-diputados-necesita-vox-psoe-aguanta_18_09504923.html?s=09 |language=es |work=NIUS |date=15 May 2023}}</ref>
+| 8–9 May
+| 1,011
+|?
+| 26.9<br/>{{font|size=75%|font=Verdana|text=105/109}}
+| {{Party shading/PP}}| '''32.9'''<br/>{{font|size=75%|font=Verdana|text=145/149}}
+| 13.2<br/>{{font|size=75%|font=Verdana|text=38/40}}
+| 6.2<br/>{{font|size=75%|font=Verdana|text=11/13}}
+| 7.3<br/>{{font|size=75%|font=Verdana|text=9/11}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=0}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.0
+|-
+| CIS<ref name="CISMay23">{{cite web |title=Barómetro de mayo 2023 (Estudio nº 3405. Mayo 2023) |url=https://datos.cis.es/pdf/Es3405marMT_A.pdf |language=es |work=CIS |date=17 May 2023}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3405. Barómetro de mayo 2023) |url=https://datos.cis.es/pdf/3405_Estimacion.pdf |language=es |work=CIS |date=17 May 2023}}</ref>
+| 3–8 May
+| 4,030
+|?
+| {{Party shading/PSOE}}| '''29.1'''
+| 27.2
+| 10.6
+| 6.1
+| 12.3
+| 2.3
+| 2.4
+| 1.2
+| 0.9
+| 0.9
+| 0.7
+| 0.5
+| 0.8
+| 0.1
+| 0.1
+| 0.1
+| style="background:{{party color|Spanish Socialist Workers' Party}}; color:white;"| 1.9
+|-
+| NC Report/La Razón<ref>{{cite web |title=Sumar no rompe la mayoría absoluta de la derecha |url=https://www.larazon.es/espana/sumar-rompe-mayoria-absoluta-derecha_2023050864583413f921370001a62a04.html |language=es |work=La Razón |date=8 May 2023}}</ref>
+| 6 May
+| 1,000
+| 66.0
+| 22.3<br/>{{font|size=75%|font=Verdana|text=91/93}}
+| {{Party shading/PP}}| '''33.2'''<br/>{{font|size=75%|font=Verdana|text=141/143}}
+| 13.5<br/>{{font|size=75%|font=Verdana|text=40/42}}
+| 4.9<br/>{{font|size=75%|font=Verdana|text=2/4}}
+| 11.6<br/>{{font|size=75%|font=Verdana|text=27/29}}
+| –
+| 3.1<br/>{{font|size=75%|font=Verdana|text=12/13}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 10.9
+|-
+| SocioMétrica/El Español<ref name="SMMay23">{{cite web |title=La ventaja del PP sobre el PSOE cae a menos de 5 puntos mientras Sumar llega ya al 10% |url=https://www.elespanol.com/espana/politica/20230508/ventaja-pp-psoe-cae-puntos-sumar-llega/761923832_0.html |language=es |work=El Español |date=8 May 2023}}</ref>
+| 2–5 May
+| 900
+|?
+| 24.1<br/>{{font|size=75%|font=Verdana|text=92}}
+| {{Party shading/PP}}| '''28.9'''<br/>{{font|size=75%|font=Verdana|text=127}}
+| 16.0<br/>{{font|size=75%|font=Verdana|text=52}}
+| 6.7<br/>{{font|size=75%|font=Verdana|text=8}}
+| 9.9<br/>{{font|size=75%|font=Verdana|text=30}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=12}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 4.8
+|-
+| rowspan="2"| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (7M): Yolanda Díaz pierde fuelle sin Podemos |url=https://electomania.es/electopanel-7m-adelanto-yolanda-diaz-pierde-fuelle-sin-podemos/ |language=es |work=Electomanía |date=7 May 2023}}</ref>
+| rowspan="2"| 29 Apr–5 May
+| rowspan="2"| 2,022
+|?
+| 24.5<br/>{{font|size=75%|font=Verdana|text=82}}
+| {{Party shading/PP}}| '''32.0'''<br/>{{font|size=75%|font=Verdana|text=139}}
+| 14.6<br/>{{font|size=75%|font=Verdana|text=43}}
+| {{efn|name="Sumar"}}
+| 14.7<br/>{{font|size=75%|font=Verdana|text=48}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=10}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=3}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.5
+|-
+|?
+| 26.5<br/>{{font|size=75%|font=Verdana|text=109}}
+| {{Party shading/PP}}| '''30.8'''<br/>{{font|size=75%|font=Verdana|text=134}}
+| 14.7<br/>{{font|size=75%|font=Verdana|text=47}}
+| 4.6<br/>{{font|size=75%|font=Verdana|text=3}}
+| 8.7<br/>{{font|size=75%|font=Verdana|text=12}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=12}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=6}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 4.3
+|-
+| InvyMark/laSexta<ref>{{cite web |title=Barómetro laSexta. El PP ganaría las elecciones con cerca del 30% del voto ya decidido |url=https://www.lasexta.com/noticias/nacional/barometro-lasexta-ganaria-elecciones-cerca-30-voto-decidido_20230430644e5d1b2e790c0001a1c7c0.html |language=es |work=laSexta |date=30 April 2023}}</ref>
+| 24–28 Apr
+|?
+|?
+| 24.1
+| {{Party shading/PP}}| '''29.7'''
+| 14.0
+| 5.6
+| 10.2
+| 0.9
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.6
+|-
+| rowspan="2"| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (30A): ligera bajada del bloque conservador |url=https://electomania.es/electopanel-30a-adelanto-ligera-bajada-del-bloque-conservador/ |language=es |work=Electomanía |date=30 April 2023}}</ref>
+| rowspan="2"| 22–28 Apr
+| rowspan="2"|?
+|?
+| 24.6<br/>{{font|size=75%|font=Verdana|text=83}}
+| {{Party shading/PP}}| '''31.7'''<br/>{{font|size=75%|font=Verdana|text=138}}
+| 14.5<br/>{{font|size=75%|font=Verdana|text=44}}
+| {{efn|name="Sumar"}}
+| 14.6<br/>{{font|size=75%|font=Verdana|text=46}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=10}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.1
+|-
+|?
+| 26.3<br/>{{font|size=75%|font=Verdana|text=108}}
+| {{Party shading/PP}}| '''30.5'''<br/>{{font|size=75%|font=Verdana|text=133}}
+| 14.6<br/>{{font|size=75%|font=Verdana|text=46}}
+| 4.7<br/>{{font|size=75%|font=Verdana|text=3}}
+| 9.1<br/>{{font|size=75%|font=Verdana|text=15}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=12}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.4<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 4.2
+|-
+| rowspan="2"| Data10/OKDiario<ref>{{cite web |title=La unión de Sumar y Podemos tampoco salvará a Sánchez: PP y Vox tienen amarrada la mayoría absoluta |url=https://okdiario.com/espana/union-sumar-podemos-tampoco-salvara-sanchez-pp-vox-tienen-amarrada-mayoria-absoluta-10830958 |language=es |work=OKDiario |date=1 May 2023}}</ref>
+| rowspan="2"| 25–27 Apr
+| rowspan="2"| 1,500
+|?
+| 21.2<br/>{{font|size=75%|font=Verdana|text=83}}
+| {{Party shading/PP}}| '''32.8'''<br/>{{font|size=75%|font=Verdana|text=140}}
+| 15.7<br/>{{font|size=75%|font=Verdana|text=46}}
+| {{efn|name="Sumar"}}
+| 15.8<br/>{{font|size=75%|font=Verdana|text=42}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 11.6
+|-
+|?
+| 22.6<br/>{{font|size=75%|font=Verdana|text=92}}
+| {{Party shading/PP}}| '''32.0'''<br/>{{font|size=75%|font=Verdana|text=138}}
+| 15.2<br/>{{font|size=75%|font=Verdana|text=45}}
+| 6.7<br/>{{font|size=75%|font=Verdana|text=10}}
+| 8.8<br/>{{font|size=75%|font=Verdana|text=23}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.0<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 9.4
+|-
+| Sigma Dos/El Mundo<ref>{{cite web |title=El PP suma tanto como las tres izquierdas y alcanza la mayoría absoluta con Vox |url=https://www.elmundo.es/espana/encuestas/2023/04/29/644d366de4d4d8673b8b45ad.html |language=es |work=El Mundo |date=29 April 2023}}</ref>
+| 24–27 Apr
+| 2,059
+|?
+| 23.2<br/>{{font|size=75%|font=Verdana|text=99}}
+| {{Party shading/PP}}| '''30.5'''<br/>{{font|size=75%|font=Verdana|text=137}}
+| 13.6<br/>{{font|size=75%|font=Verdana|text=39}}
+| 5.9<br/>{{font|size=75%|font=Verdana|text=6}}
+| 12.8<br/>{{font|size=75%|font=Verdana|text=32}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.2<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=5}}
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.3
+|-
+| rowspan="2"| 40dB/Prisa<ref>{{cite web |title=El bloque de la izquierda perdería 14 escaños si Podemos y Sumar concurren por separado |url=https://elpais.com/espana/2023-05-03/el-bloque-de-la-izquierda-perderia-14-escanos-si-podemos-y-sumar-concurren-por-separado.html |language=es |work=El País |date=3 May 2023}}</ref><ref name="40dBMay23">{{cite web |title=40dB. Barómetro Mensual. Mayo 2023 |url=https://ep00.epimg.net/infografias/encuestas40db/2023may/2023_05_mayo.pdf |language=es |work=40dB |date=3 May 2023}}</ref>
+| rowspan="2"| 21–25 Apr
+| rowspan="2"| 2,000
+|?
+| 24.8<br/>{{font|size=75%|font=Verdana|text=92/99}}
+| {{Party shading/PP}}| '''28.8'''<br/>{{font|size=75%|font=Verdana|text=115/127}}
+| 14.1<br/>{{font|size=75%|font=Verdana|text=38/43}}
+| {{efn|name="Sumar"}}
+| 18.2<br/>{{font|size=75%|font=Verdana|text=48/59}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=0/1}}
+|?<br/>{{font|size=75%|font=Verdana|text=12}}
+|?<br/>{{font|size=75%|font=Verdana|text=8}}
+|?<br/>{{font|size=75%|font=Verdana|text=6}}
+|?<br/>{{font|size=75%|font=Verdana|text=4}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 4.0
+|-
+|?
+| 25.1<br/>{{font|size=75%|font=Verdana|text=97/105}}
+| {{Party shading/PP}}| '''28.4'''<br/>{{font|size=75%|font=Verdana|text=119/126}}
+| 14.5<br/>{{font|size=75%|font=Verdana|text=44/47}}
+| 6.9<br/>{{font|size=75%|font=Verdana|text=10/13}}
+| 10.9<br/>{{font|size=75%|font=Verdana|text=24/31}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=0/1}}
+|?<br/>{{font|size=75%|font=Verdana|text=12}}
+|?<br/>{{font|size=75%|font=Verdana|text=9}}
+|?<br/>{{font|size=75%|font=Verdana|text=6}}
+|?<br/>{{font|size=75%|font=Verdana|text=6}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 3.3
+|-
+| KeyData/Público<ref>{{cite web |title=La irrupción de Sumar en las encuestas no evita una mayoría de PP y Vox |url=https://www.publico.es/politica/irrupcion-sumar-encuestas-no-evita-mayoria-pp-vox.html |language=es |work=Público |date=22 April 2023}}</ref>
+| 21 Apr
+|?
+| 69.0
+| 24.2<br/>{{font|size=75%|font=Verdana|text=95}}
+| {{Party shading/PP}}| '''31.1'''<br/>{{font|size=75%|font=Verdana|text=135}}
+| 15.0<br/>{{font|size=75%|font=Verdana|text=46}}
+| 6.2<br/>{{font|size=75%|font=Verdana|text=9}}
+| 9.7<br/>{{font|size=75%|font=Verdana|text=24}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=12}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 1.0<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+|?<br/>{{font|size=75%|font=Verdana|text=1}}
+|?<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.9
+|-
+| DYM/Henneo<ref>{{cite web |title=Encuesta DYM. La irrupción de Sumar se lleva votos del PSOE y Podemos mientras PP y Vox siguen al borde de la mayoría absoluta |url=https://www.20minutos.es/noticia/5121791/0/la-irrupcion-de-sumar-se-lleva-votos-del-psoe-y-podemos-mientras-pp-y-vox-siguen-al-borde-de-la-mayoria-absoluta/ |language=es |work=20 minutos |date=26 April 2023}}</ref>
+| 19–21 Apr
+| 1,008
+|?
+| 24.7<br/>{{font|size=75%|font=Verdana|text=98/103}}
+| {{Party shading/PP}}| '''30.6'''<br/>{{font|size=75%|font=Verdana|text=127/132}}
+| 14.6<br/>{{font|size=75%|font=Verdana|text=45/49}}
+| 6.8<br/>{{font|size=75%|font=Verdana|text=7/10}}
+| 9.2<br/>{{font|size=75%|font=Verdana|text=18/22}}
+| 2.2<br/>{{font|size=75%|font=Verdana|text=0/1}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.9
+|-
+| Celeste-Tel/Onda Cero<ref>{{cite web |title=Sumar hunde a Podemos, pero no cambia el panorama electoral |url=https://www.ondacero.es/elecciones/generales/sumar-hunde-podemos-pero-cambia-panorama-electoral_20230427644a35182a35640001e65e9c.html |language=es |work=Onda Cero |date=27 April 2023}}</ref><ref>{{cite web |title=Estudio electoral de expectiva de voto al Congreso de los Diputados. Ámbito nacional. Abril de 2023 |url=https://www.celeste-tel.es/wp-content/uploads/2023/05/Bar%C3%B3metro-Electoral-Mensual-ABRIL2023.pdf |language=es |work=Celeste-Tel |date=5 May 2023}}</ref>
+| 17–21 Apr
+| 1,100
+| 64.9
+| 23.7<br/>{{font|size=75%|font=Verdana|text=95}}
+| {{Party shading/PP}}| '''32.2'''<br/>{{font|size=75%|font=Verdana|text=136}}
+| 14.5<br/>{{font|size=75%|font=Verdana|text=44}}
+| 5.2<br/>{{font|size=75%|font=Verdana|text=4}}
+| 9.8<br/>{{font|size=75%|font=Verdana|text=26}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 3.3<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=3}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 8.5
+|-
+| rowspan="2"| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (23A): continúa la lucha entre bloques |url=https://electomania.es/electopanel-23a-adelanto-continua-la-lucha-entre-bloques/ |language=es |work=Electomanía |date=23 April 2023}}</ref>
+| rowspan="2"| 15–21 Apr
+| rowspan="2"| 2,624
+|?
+| 24.9<br/>{{font|size=75%|font=Verdana|text=84}}
+| {{Party shading/PP}}| '''31.8'''<br/>{{font|size=75%|font=Verdana|text=139}}
+| 14.5<br/>{{font|size=75%|font=Verdana|text=43}}
+| {{efn|name="Sumar"}}
+| 14.4<br/>{{font|size=75%|font=Verdana|text=46}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.3<br/>{{font|size=75%|font=Verdana|text=9}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 6.9
+|-
+|?
+| 25.9<br/>{{font|size=75%|font=Verdana|text=104}}
+| {{Party shading/PP}}| '''30.5'''<br/>{{font|size=75%|font=Verdana|text=136}}
+| 14.7<br/>{{font|size=75%|font=Verdana|text=46}}
+| 4.7<br/>{{font|size=75%|font=Verdana|text=3}}
+| 9.3<br/>{{font|size=75%|font=Verdana|text=15}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=12}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 4.6
+|-
+| rowspan="2"| ElectoPanel/Electomanía<ref>{{cite web |title=EP Generales (16A): la división Sumar/UP penaliza a la izquierda |url=https://electomania.es/ep-generales-16a-adelanto-la-division-sumar-up-penaliza-a-la-izquierda/ |language=es |work=Electomanía |date=16 April 2023}}</ref>
+| rowspan="2"| 8–14 Apr
+| rowspan="2"| 2,723
+|?
+| 24.6<br/>{{font|size=75%|font=Verdana|text=83}}
+| {{Party shading/PP}}| '''31.8'''<br/>{{font|size=75%|font=Verdana|text=137}}
+| 14.6<br/>{{font|size=75%|font=Verdana|text=45}}
+| {{efn|name="Sumar"}}
+| 14.3<br/>{{font|size=75%|font=Verdana|text=47}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=10}}
+| 1.9<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.2
+|-
+|?
+| 25.8<br/>{{font|size=75%|font=Verdana|text=104}}
+| {{Party shading/PP}}| '''31.0'''<br/>{{font|size=75%|font=Verdana|text=136}}
+| 14.5<br/>{{font|size=75%|font=Verdana|text=46}}
+| 4.7<br/>{{font|size=75%|font=Verdana|text=3}}
+| 9.1<br/>{{font|size=75%|font=Verdana|text=15}}
+| 2.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=12}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 5.2
+|-
+| Hamalgama Métrica/VozPópuli<ref>{{cite web |title=Sumar arrolla a Podemos: Díaz lograría 21 escaños frente a seis diputados 'morados' |url=https://www.vozpopuli.com/espana/sumar-podemos-diaz-escanos-diputados.html |language=es |work=VozPópuli |date=16 April 2023}}</ref><ref>{{cite web |title=Miedo en el PSOE: la irrupción de Yolanda Díaz con Sumar le quita 5 escaños y 500.000 votos |url=https://www.vozpopuli.com/espana/miedo-psoe-yolanda-diaz-sumar-escanos-votos.html |language=es |work=VozPópuli |date=17 April 2023}}</ref>
+| 10–13 Apr
+| 1,000
+|?
+| 22.1<br/>{{font|size=75%|font=Verdana|text=92}}
+| {{Party shading/PP}}| '''32.2'''<br/>{{font|size=75%|font=Verdana|text=136}}
+| 15.6<br/>{{font|size=75%|font=Verdana|text=52}}
+| 5.6<br/>{{font|size=75%|font=Verdana|text=6}}
+| 9.2<br/>{{font|size=75%|font=Verdana|text=21}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.1<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.6<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.5<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=1}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 10.1
+|-
+| Simple Lógica/elDiario.es<ref name="SLApr23">{{cite web |title=Sumar irrumpe con un 9,7% mientras PSOE y PP no logran frenar su caída |url=https://www.eldiario.es/politica/sumar-irrumpe-9-7-psoe-pp-no-logran-frenar-caida_1_10117656.html |language=es |work=elDiario.es |date=17 April 2023}}</ref>
+| 3–12 Apr
+| 1,014
+| 65.3
+| 26.2
+| {{Party shading/PP}}| '''28.1'''
+| 15.4
+| 6.3
+| 9.7
+| 2.0
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 1.9
+|-
+| SocioMétrica/El Español<ref>{{cite web |title=La irrupción de Sumar debilita a la izquierda y amplía la ventaja de Feijóo en votos y escaños |url=https://www.elespanol.com/espana/politica/20230409/irrupcion-sumar-debilita-izquierda-ventaja-feijoo-envotosyescanos/754424691_0.html |language=es |work=El Español |date=9 April 2023}}</ref>
+| 4–8 Apr
+| 900
+|?
+| 23.7<br/>{{font|size=75%|font=Verdana|text=93}}
+| {{Party shading/PP}}| '''31.0'''<br/>{{font|size=75%|font=Verdana|text=136}}
+| 15.3<br/>{{font|size=75%|font=Verdana|text=49}}
+| 8.0<br/>{{font|size=75%|font=Verdana|text=18}}
+| 7.6<br/>{{font|size=75%|font=Verdana|text=16}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=0}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=12}}
+| 1.8<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.2<br/>{{font|size=75%|font=Verdana|text=6}}
+| 1.1<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.4<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.1<br/>{{font|size=75%|font=Verdana|text=0}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.3
+|-
+| rowspan="2"| ElectoPanel/Electomanía<ref>{{cite web |title=ElectoPanel (9A): sin confluencia, Podemos quedaría sin grupo propio en el Congreso |url=https://electomania.es/electopanel-9a23-adelanto-exclusivo-sin-confluencia-podemos-quedaria-sin-grupo-propio-en-el-congreso/ |language=es |work=Electomanía |date=9 April 2023}}</ref>
+| rowspan="2"| 2–7 Apr
+| rowspan="2"| 2,314
+|?
+| 24.0<br/>{{font|size=75%|font=Verdana|text=82}}
+| {{Party shading/PP}}| '''32.2'''<br/>{{font|size=75%|font=Verdana|text=138}}
+| 14.5<br/>{{font|size=75%|font=Verdana|text=43}}
+| {{efn|name="Sumar"}}
+| 14.3<br/>{{font|size=75%|font=Verdana|text=47}}
+| 2.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=10}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=7}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=3}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 8.2
+|-
+|?
+| 24.6<br/>{{font|size=75%|font=Verdana|text=100}}
+| {{Party shading/PP}}| '''31.7'''<br/>{{font|size=75%|font=Verdana|text=140}}
+| 14.5<br/>{{font|size=75%|font=Verdana|text=46}}
+| 5.0<br/>{{font|size=75%|font=Verdana|text=4}}
+| 9.1<br/>{{font|size=75%|font=Verdana|text=15}}
+| 2.7<br/>{{font|size=75%|font=Verdana|text=1}}
+| 2.4<br/>{{font|size=75%|font=Verdana|text=11}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=9}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=8}}
+| 1.3<br/>{{font|size=75%|font=Verdana|text=5}}
+| 0.8<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.6<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.7<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.3<br/>{{font|size=75%|font=Verdana|text=2}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=1}}
+| 0.2<br/>{{font|size=75%|font=Verdana|text=2}}
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.1
+|-
+| NC Report/La Razón<ref>{{cite web |title=Feijóo supera los 140 escaños tras la moción y la irrupción de Sumar |url=https://www.larazon.es/espana/feijoo-supera-140-escanos-mocion-irrupcion-sumar_20230410643308faf7cb370001e6c45f.html |language=es |work=La Razón |date=10 April 2023}}</ref>
+| 3–6 Apr
+| 1,000
+| 65.9
+| 21.9<br/>{{font|size=75%|font=Verdana|text=89/91}}
+| {{Party shading/PP}}| '''33.1'''<br/>{{font|size=75%|font=Verdana|text=142/144}}
+| 13.8<br/>{{font|size=75%|font=Verdana|text=41/43}}
+| 5.1<br/>{{font|size=75%|font=Verdana|text=3/5}}
+| 11.8<br/>{{font|size=75%|font=Verdana|text=28/30}}
+| 1.7<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.1<br/>{{font|size=75%|font=Verdana|text=12/13}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 11.2
+|-
+| rowspan="2"| Sigma Dos/El Mundo<ref>{{cite web |title=Yolanda Díaz hunde a Pedro Sánchez y deja a Podemos con sólo ocho diputados |url=https://www.elmundo.es/espana/encuestas/2023/04/09/6432b84dfdddff173a8b45af.html |language=es |work=El Mundo |date=9 April 2023}}</ref>
+| rowspan="2"| 3–5 Apr
+| rowspan="2"| 1,755
+|?
+| 22.8<br/>{{font|size=75%|font=Verdana|text=91}}
+| {{Party shading/PP}}| '''30.5'''<br/>{{font|size=75%|font=Verdana|text=135}}
+| 13.9<br/>{{font|size=75%|font=Verdana|text=40}}
+| {{efn|name="Sumar"}}
+| 16.3<br/>{{font|size=75%|font=Verdana|text=45}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=13}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=10}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=5}}
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.7
+|-
+|?
+| 22.7<br/>{{font|size=75%|font=Verdana|text=91}}
+| {{Party shading/PP}}| '''30.2'''<br/>{{font|size=75%|font=Verdana|text=135}}
+| 13.9<br/>{{font|size=75%|font=Verdana|text=41}}
+| 5.5<br/>{{font|size=75%|font=Verdana|text=8}}
+| 12.3<br/>{{font|size=75%|font=Verdana|text=35}}
+| 2.0<br/>{{font|size=75%|font=Verdana|text=0}}
+| 3.4<br/>{{font|size=75%|font=Verdana|text=14}}
+| 2.5<br/>{{font|size=75%|font=Verdana|text=10}}
+| 1.5<br/>{{font|size=75%|font=Verdana|text=6}}
+| 0.9<br/>{{font|size=75%|font=Verdana|text=5}}
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 7.5
+|-
+| CIS<ref name="CISApr23">{{cite web |title=Barómetro de abril 2023 (Estudio nº 3403. Abril 2023) |url=https://datos.cis.es/pdf/Es3403mar_A.pdf |language=es |work=CIS |date=20 April 2023}}</ref><ref>{{cite web |title=Estimación de voto (Estudio nº 3403. Barómetro de abril 2023) |url=https://datos.cis.es/pdf/3403_Estimacion.pdf |language=es |work=CIS |date=20 April 2023}}</ref>
+| 31 Mar–5 Apr
+| 4,159
+|?
+| {{Party shading/PSOE}}| '''30.4'''
+| 26.1
+| 11.1
+| 6.7
+| 10.6
+| 2.8
+| 2.1
+| 0.9
+| 1.2
+| 1.0
+| 0.6
+| 0.3
+| 0.5
+| 0.1
+| 0.1
+| 0.1
+| style="background:{{party color|Spanish Socialist Workers' Party}}; color:white;"| 4.3
+|-
+| rowspan="3"| Data10/OKDiario<ref>{{cite web |title=PP y Vox sujetan una ajustada mayoría absoluta pese a la irrupción de Yolanda Díaz |url=https://okdiario.com/espana/pp-vox-sujetan-ajustada-mayoria-absoluta-pese-irrupcion-yolanda-diaz-10697912 |language=es |work=OKDiario |date=3 April 2023}}</ref><ref>{{cite web |title=Sólo el ticket Sánchez-Díaz en una misma lista evitaría una mayoría de PP y Vox |url=https://okdiario.com/espana/solo-ticket-sanchez-diaz-misma-lista-evitaria-mayoria-pp-vox-10698183 |language=es |work=OKDiario |date=3 April 2023}}</ref>
+| rowspan="3"| 1–2 Apr
+| rowspan="3"| 1,500
+|?
+| {{efn|name="Sumar"}}
+| {{Party shading/PP}}| '''32.3'''<br/>{{font|size=75%|font=Verdana|text=132}}
+| 15.4<br/>{{font|size=75%|font=Verdana|text=42}}
+| 8.0<br/>{{font|size=75%|font=Verdana|text=15}}
+| 30.4<br/>{{font|size=75%|font=Verdana|text=121}}
+| –
+| 3.0<br/>{{font|size=75%|font=Verdana|text=13}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 1.9
+|-
+|?
+| 20.7<br/>{{font|size=75%|font=Verdana|text=82}}
+| {{Party shading/PP}}| '''32.1'''<br/>{{font|size=75%|font=Verdana|text=134}}
+| 15.5<br/>{{font|size=75%|font=Verdana|text=45}}
+| {{efn|name="Sumar"}}
+| 18.0<br/>{{font|size=75%|font=Verdana|text=50}}
+| –
+| 2.9<br/>{{font|size=75%|font=Verdana|text=12}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 11.4
+|-
+|?
+| 22.7<br/>{{font|size=75%|font=Verdana|text=95}}
+| {{Party shading/PP}}| '''31.9'''<br/>{{font|size=75%|font=Verdana|text=133}}
+| 15.3<br/>{{font|size=75%|font=Verdana|text=43}}
+| 7.1<br/>{{font|size=75%|font=Verdana|text=12}}
+| 8.4<br/>{{font|size=75%|font=Verdana|text=23}}
+| –
+| 2.9<br/>{{font|size=75%|font=Verdana|text=13}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|People's Party (Spain)}}; color:white;"| 9.2
+|}
+
+
 =====2023 (before Sumar)=====
 {| class="wikitable collapsible collapsed" style="text-align:center; font-size:95%; line-height:16px;"
 |- style="height:42px; background-color:#E9E9E9"

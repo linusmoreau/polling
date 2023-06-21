@@ -179,7 +179,13 @@ def transcribe_table(content, key, choice, begin, start):
                         'Reform', 'Centre', 'EKRE', 'Isamaa', 'SDE', 'E200', 'Green', 'TULE/EVA',
                         'Other', 'lead', 'gov', 'opp', 'end']
         elif choice == 'Poland':
-            if '=== 2022 ===' in line:
+            if 'https://www.pap.pl/aktualnosci/news%2C1566273%2Cpolska-2050-i-psl-podjely-decyzje-o-wspolnym-' \
+               'starcie-w-wyborach' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'United Right', 'Kukiz\'15', 'Civic Coalition', 'The Left', 'Polish Coalition',
+                        'Poland 2050', 'Confederation', 'Agreement', 'AGRO unia',
+                        'Other', 'lead']
+            elif '=== 2022 ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'United Right', 'Agreement', 'Civic Coalition', 'The Left', 'Polish Coalition', 'Kukiz\'15',
                         'Confederation', 'Poland 2050', 'AGRO unia',
@@ -330,6 +336,15 @@ def transcribe_table(content, key, choice, begin, start):
                 nkey = ['firm', 'date', 'sample', 'turnout',
                         'PSOE', 'PP', 'VOX', 'UP', 'Cs', 'ERC', 'MP', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG', 'NA+',
                         'PRC', 'EV', 'lead', 'end']
+            elif '2023 (after Sumar)' in line:
+                nkey = ['firm', 'date', 'sample', 'turnout',
+                        'PSOE', 'PP', 'VOX', 'UP', 'Sumar', 'Cs', 'ERC', 'JxCat', 'PNV', 'EHB', 'CUP', 'CC', 'BNG',
+                        'NA+', 'PRC', 'EV', 'lead']
+        elif choice == 'Greece':
+            if 'Pre May 2023' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'ND', 'Syriza', 'PASOK', 'KKE', 'EL', 'MeRA25', 'XA', 'EP',
+                        'lead']
         elif choice == 'Slovenia':
             if 'Parties which ran in 2018' in line:
                 nkey = ['date', 'firm', 'publisher', 'sample',
@@ -726,12 +741,20 @@ def filter_table(table: List[List[Any]], key: List[str], choice, include):
                     purge.add(k)
             elif entry[j] is None:
                 purge.add(k)
+    elif choice == 'Greece':
+        i = key.index('ND')
+        for k, entry in enumerate(table):
+            if entry[i] is None:
+                purge.add(k)
     elif choice == 'Spain':
-        for p in ('PSOE', 'UP'):
-            i = key.index(p)
-            for k, entry in enumerate(table):
-                if entry[i] is None:
-                    purge.add(k)
+        i = key.index('PSOE')
+        for k, entry in enumerate(table):
+            if entry[i] is None:
+                purge.add(k)
+        i = key.index('firm')
+        for k, entry in enumerate(table):
+            if type(entry[i]).__name__ == 'str' and '2023 local elections' in entry[i]:
+                purge.add(k)
     elif choice == 'Hungary':
         i = key.index('firm')
         for k, entry in enumerate(table):
