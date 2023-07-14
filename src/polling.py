@@ -170,11 +170,15 @@ def transcribe_table(content, key, choice, begin, start):
                         'LDP', 'CDP', 'NKP', 'JCP', 'Ishin', 'DPP', 'SDP', 'Reiwa', 'Kibo', 'NHK',
                         'Other', 'None', 'lead', 'end']
         elif choice == 'Estonia':
-            if '[[Kaja Kallas\' cabinet]] is formed by the Reform Party and Centre Party' in line:
+            if 'Pre-2023 election' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'Reform', 'Centre', 'EKRE', 'Isamaa', 'SDE', 'E200', 'Green',
+                        'Other', 'lead', 'gov', 'opp']
+            elif '[[Kaja Kallas\' cabinet]] is formed by the Reform Party and Centre Party' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Reform', 'Centre', 'EKRE', 'Isamaa', 'SDE', 'E200', 'Green', 'TULE/EVA',
                         'Other', 'lead', 'gov', 'opp', 'end']
-            if '=== 2020 ===' in line:
+            elif '=== 2020 ===' in line:
                 nkey = ['firm', 'date', 'sample',
                         'Reform', 'Centre', 'EKRE', 'Isamaa', 'SDE', 'E200', 'Green', 'TULE/EVA',
                         'Other', 'lead', 'gov', 'opp', 'end']
@@ -254,13 +258,17 @@ def transcribe_table(content, key, choice, begin, start):
                         'Artes', 'Boric', 'Enriquez-Om.', 'Provoste', 'Parisi', 'Sichel', 'Kast',
                         'Other', 'end']
         elif choice == 'Latvia':
-            if 'A new party - [[Law and Order (Latvia)|LuK]] - is established' in line:
+            if 'Pre-2022 election' in line:
                 nkey = ['firm', 'date', 'sample', 'dec',
-                        'S', 'PCL', 'JKP', 'AP!', 'NA', 'ZZS', 'JV', 'LRA', 'LKS', 'P',
+                        'S', 'PCL', 'K', 'AP!', 'NA', 'ZZS', 'JV', 'AS', 'LKS', 'P', 'LuK', 'LPV', 'R', 'S!',
+                        'Other', 'lead', 'gov', 'opp']
+            elif 'A new party - [[Law and Order (Latvia)|LuK]] - is established' in line:
+                nkey = ['firm', 'date', 'sample', 'dec',
+                        'S', 'PCL', 'K', 'AP!', 'NA', 'ZZS', 'JV', 'AS', 'LKS', 'P',
                         'Other', 'lead', 'gov', 'opp', 'end']
             elif 'Two new parties - [[Latvia First]] and [[Republic (Latvia)|Republic]] - are established' in line:
                 nkey = ['firm', 'date', 'sample', 'dec',
-                        'S', 'PCL', 'JKP', 'AP!', 'NA', 'ZZS', 'JV', 'LRA', 'LKS', 'P', 'LuK',
+                        'S', 'PCL', 'K', 'AP!', 'NA', 'ZZS', 'JV', 'AS', 'LKS', 'P', 'LuK',
                         'Other', 'lead', 'gov', 'opp', 'end']
         elif choice == 'Denmark':
             if 'Pre-election 2022' in line:
@@ -357,6 +365,13 @@ def transcribe_table(content, key, choice, begin, start):
                         'SDS', 'LMS', 'SD', 'K', 'K', 'Left', 'NSi', 'SAB', 'DeSUS', 'SNS', 'PPS', 'DD', 'ND',
                         'GS', 'GS', 'Vesna', 'Res.', 'LIDE',
                         'Other', 'None', 'Undecided', 'Abstain', 'lead', 'source', 'end']
+        elif choice == 'Slovakia':
+            if '===2022===' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'OL\'aNO', 'SMER-SD', 'SR', 'L\'SNS', 'PS', 'PS', 'SaS', 'ZL\'', 'KDH', 'ALI', 'ALI', 'ALI',
+                        'ALI',
+                        'SNS', 'DV', 'HLAS-SD', 'REP',
+                        'Other']
         elif choice == 'Romania':
             if '=== 2021 ===' in line:
                 nkey = ['date', 'source', 'sample',
@@ -366,7 +381,12 @@ def transcribe_table(content, key, choice, begin, start):
             if 'Second round' in line:
                 nkey = ['date', 'firm', 'Chaves', 'Figueres', 'Other', 'end']
         elif choice == 'Israel':
-            if 'url=https://www.ynetnews.com/article/nozaf2n25' in line:
+            if 'Pre-2022 election' in line:
+                nkey = ['date', 'firm', 'publisher',
+                        'Likud', 'Yesh Atid', 'Blue & White', 'Shas', 'Jewish Home', 'Labor', 'UTJ',
+                        'Yisrael Beitenu', 'Religious Zionist', 'Joint List', 'Meretz', 'Ra\'am', 'Balad',
+                        'other', 'gov']
+            elif 'url=https://www.ynetnews.com/article/nozaf2n25' in line:
                 nkey = ['date', 'firm', 'publisher',
                         'Likud', 'Yesh Atid', 'Shas', 'Blue & White', 'Yamina', 'Labor', 'UTJ', 'Yisrael Beitenu',
                         'Religious Zionist', 'Joint List', 'New Hope', 'Meretz', 'Ra\'am',
@@ -406,6 +426,11 @@ def transcribe_table(content, key, choice, begin, start):
         elif choice == 'Alberta':
             if '===Regional polls===' in line:
                 break
+        elif choice == 'Finland':
+            if 'Pre-2023 election' in line:
+                nkey = ['firm', 'date', 'sample',
+                        'SDP', 'PS', 'KOK', 'KESK', 'VIHR', 'VAS', 'SFP', 'KD', 'LIIK',
+                        'Other', 'lead', 'gov', 'opp']
         if not ignore:
             if len(nkey) > 0:
                 tables.append({'table': table[:], 'key': key, 'years': years})
